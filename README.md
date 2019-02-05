@@ -112,7 +112,7 @@ In short:
 
    ```
    $ git clone https://github.com/YourUsername/Machine-Learning-for-OpenCV-Second-Edition
-   $ cd OpenCV-ML
+   $ cd Machine-Learning-for-OpenCV-Second-Edition
    ```
    
    - Add the following to your remotes:
