@@ -7,10 +7,6 @@ The code is released under the [MIT license](https://opensource.org/licenses/MIT
 
 ## Table of Contents
 
-[Preface](notebooks/00.00-Preface.ipynb)
-
-[Foreword by Ariel Rokem](notebooks/00.01-Foreword-by-Ariel-Rokem.ipynb)
-
 1. [A Taste of Machine Learning](notebooks/01.00-A-Taste-of-Machine-Learning.ipynb)
 
 2. [Working with Data in OpenCV](notebooks/02.00-Working-with-Data-in-OpenCV.ipynb)
