@@ -1,0 +1,39 @@
+Message-ID: <18590800.1075855006381.JavaMail.evans@thyme>
+Date: Thu, 6 Sep 2001 11:33:28 -0700 (PDT)
+From: elizabeth.brown@enron.com
+To: amy.mulligan@enron.com, laura.giambrone@enron.com, michelle.lokay@enron.com, 
+	tk.lohman@enron.com, lorraine.lindberg@enron.com, 
+	jan.moore@enron.com
+Subject: One-part vs Two-part Flag on TW Contracts
+Cc: martha.cormier@enron.com, dennis.lee@enron.com, craig.buehler@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: martha.cormier@enron.com, dennis.lee@enron.com, craig.buehler@enron.com
+X-From: Brown, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EBROWN1>
+X-To: Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>, Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llindbe>, Moore, Jan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmoore3>
+X-cc: Cormier, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcormie>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Buehler, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbuehle>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+The following contracts were truly negotiated as one-part rates (inclusive of reservation, commodity and surcharges):
+
+		K# 24194	PNM		$0.1100/dth
+		K# 24568	Enervest	$0.2200/dth
+		K# 24654	ENA		$0.2175/dth
+
+The way the invoice system is designed, all contracts identified as one-part automatically generate 'credits for commodity' on the reservation invoice.  However, this causes us to underbill the shippers because these rates bump up against the max tariff demand rate.  In the past, we switched the flag to be two-part to minimize the amount of manual invoice corrections for the schedulers.
+
+Because we are briefing contracts and beginning our data conversion review/process for the new ETS contracts system, we will correctly reflect the contract as negotiated.  Therefore, effective with September 2001 invoices, schedulers must remember to delete the credits for commodity on these invoices. Also, the marketers will need to ensure the input of any discounts (commodity and/or demand GRI surcharges), if necessary, to guarantee that TW does not overbill these shippers.
+
+Bottom line, make sure that the total amount invoiced on the reservation and commodity invoices combined for these contracts =
+
+	Rate listed above * Contract MAXDTQ * Number of Days in Month
+
+
+If you have any questions about this process, please contact me.
+
+
+Thanks,
+Elizabeth

@@ -1,0 +1,63 @@
+Return-Path: <Gwcswoqt@smartsource.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 30581 invoked from network); 5 Jun 2005 22:30:07 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 05 Jun 2005 22:30:07 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 05 Jun 2005 22:30:07 -0000
+Received: (qmail 20263 invoked from network); 5 Jun 2005 22:30:05 -0000
+Received: from lh (unknown [211.53.18.13])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 05 Jun 2005 22:30:04 -0000
+From: "Olive Bryant" <Gwcswoqt@smartsource.com>
+To: cvs@bruce-guenter.dyndns.org
+Subject: Fw: [3]
+Date: Sun, 05 Jun 2005 21:25:00 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_VSYFZUVT.WOPPQWWJ"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 1882
+Lines: 40
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_VSYFZUVT.WOPPQWWJ
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+THIS WILL BE OUR FINAL TRY
+We have tried to speak to you on several instances and time is running out!
+
+Your exisiting home loan makes you eligible for  you for up to a 3.50% lower rate.
+
+However, since our previous attempts to speak to you have failed,
+this will be our last notice to close for you in the lower rate.
+
+Please complete your final step upon receiving this notice immediately,and complete your request for information now.
+
+
+Request Form Here.
+
+If your decision is not to make use of this final offer going here will help you to do so.
+
+------=_NextPart_000_0000_VSYFZUVT.WOPPQWWJ
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<BODY bgColor=#ffffff>
+<FONT face=Verdana size=2>THIS WILL BE OUR FINAL TRY<P>
+We have tried to speak to you on several instances and time is running out!<P>
+Your exisiting home loan makes you eligible for  you for up to a 3.50% lower rate.<P>
+However, since our previous attempts to speak to 
+you have failed,<BR>this will be our last notice to close for you the lower rate.<P>
+Please complete this final step upon receiving 
+this notice immediately,and complete your request for information now.<P><P>
+
+<A HREF="http://rds.yahoo.com/S=3377801/K=computer/v=5/SID=l/l=WS1/R=1/SS=81716686/IPC=us/SHE=0/H=0/SIG=991dfSL6182/EXP=427839895/*-http://google.com.t0wers.net/home.asp">Request Form Here.</A><P>
+
+If your decision is not to make use of this final offer going <A HREF="http://rds.yahoo.com/S=9453251/K=computer/v=4/SID=t/l=WS1/R=1/SS=84785960/IPC=us/SHE=0/H=0/SIG=27mkCA38/EXP=364793936/*-http://google.com.t0wers.net/del.asp"> here</A> will help you to do so.</FONT></BODY></HTML>
+
+------=_NextPart_000_0000_VSYFZUVT.WOPPQWWJ--

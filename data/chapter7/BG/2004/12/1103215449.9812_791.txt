@@ -1,0 +1,47 @@
+Return-Path: <kcahle@o2.pl>
+Delivered-To: em-ca-bait-reckless@em.ca
+Received: (qmail 13900 invoked by uid 115); 12 Dec 2004 18:20:50 -0000
+Received: from kcahle@o2.pl by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.121.173.199):. 
+ Processed in 0.070082 secs); 12 Dec 2004 18:20:50 -0000
+Received: from unknown (HELO 209.5.178.248) (220.121.173.199)
+  by churchill.factcomp.com with SMTP; 12 Dec 2004 18:20:49 -0000
+Received: from goldstein.o2.pl ([128.117.208.55])
+ by frigga.o2.pl (Sun Java System Messaging Server 6.1 HotFix 0.03 (built
+ Aug 29 2004)) with ESMTP id <0G4B00HX106LD21@frigga.o2.pl> for
+ mar@em.ca; Sun, 12 Dec 2004 11:14:21 -0700 (IST)
+Received: from goldenrod.o2.pl ([28.96.144.48])
+ by goldstein.o2.pl
+ (Sun Java System Messaging Server 6.1 HotFix 0.06 (built Aug 21 2004))
+ with ESMTP id <0I3R00YI440TG88@goldstein.o2.pl> for mar@em.ca
+ (ORCPT mar@em.ca); Sun, 12 Dec 2004 13:13:21 -0500 (IST)
+Received: from punitive.o2.pl ([132.62.188.56])
+ by goldenrod.o2.pl with Microsoft SMTPSVC(6.0.5433.838); Sun, 12 Dec 2004 19:09:21 +0100
+Date: Sun, 12 Dec 2004 19:18:21 +0100
+From: "Beatrice Phelps" <kcahle@o2.pl>
+To: mar@em.ca
+Subject: Very interesting
+Sender: "Beatrice Phelps" <kcahle@o2.pl>
+Message-ID: <430349m44mj9$gtf91ra0$5701r3r9@o2.pl>
+MIME-Version: 1.0
+Content-type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7Bit
+
+You may have come across copies of this kind of site before on your journeys through the web,
+But this is the real thing.
+http://www.firstoem.info/
+Every type of software you can imagine.....literally.
+This is legal in the box - not ripped off software copied onto a poor quality cd.
+Safe and secure ordering.
+http://www.firstoem.info/
+And something for everyone - from the security conscious to the developers.
+You will be shocked at the prices.
+http://www.firstoem.info/
+Go see for y0urself.
+(One thing to mention - If you open the link that says take a look at the complete list be a little patient for the page to load - these guys really have everything)
+http://www.firstoem.info/
+Oh and you really will not find these prices anywhere else on the web.
+
+
+
+

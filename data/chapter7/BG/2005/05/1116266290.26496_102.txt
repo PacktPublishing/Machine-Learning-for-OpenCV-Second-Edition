@@ -1,0 +1,49 @@
+Return-Path: <nano@nanomarketing21.net>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 13217 invoked from network); 15 May 2005 16:05:56 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 15 May 2005 16:05:56 -0000
+Received: (qmail 5089 invoked from network); 15 May 2005 16:05:56 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx07.futurequest.net ([69.5.6.178])
+  with QMQP via TCP; 15 May 2005 16:05:56 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 13211 invoked from network); 15 May 2005 16:05:56 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 15 May 2005 16:05:56 -0000
+Received: (qmail 25610 invoked from network); 15 May 2005 16:05:56 -0000
+Received: from tiger (ppp-58.8.246.176.revip2.asianet.co.th [58.8.246.176])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 15 May 2005 16:05:55 -0000
+From: "Marketing GURU" <nano@nanomarketing21.net>
+To: <webmaster@ezmlm.org>
+Subject: เชิญสัมมนา "Nano MBA รุ่น2 เรียนรู้การเป็นที่ปรึกษาธุรกิจให้ท่านเอง"  โดย 12 วิทยากรชั้นนำของเมืองไทย
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 15 May 2005 23:06:00
+
+<html>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#666666">หากรายละเอียดด้านบนไม่แสดงกรุณา <a href="http://www.mga.co.th/ma/nano2.html">คลิกที่นี่</a> 
+</font> <font size="2" color="#666666"> 
+( http://www.mga.co.th/ma/nano2.html )</font><br>
+<br>
+<img src="http://www.mga.co.th/ma/nano2.gif" width="680" height="1316" usemap="#Map2" border="0"> 
+<br>
+<map name="Map2"> 
+  <area shape="rect" coords="7,890,674,1012" href="http://www.mga.co.th/ma/nano2.doc" target="_blank">
+  <area shape="rect" coords="379,1048,446,1075" href="http://www.mga.co.th/new-04-21-04/membernew.doc">
+  <area shape="rect" coords="547,1029,618,1056" href="http://www.mga.co.th/index_member.htm">
+  <area shape="rect" coords="135,1275,622,1307" href="mailto:unsubMGA@poppymail.com">
+</map>
+<br>
+<br>
+<hr noshade>
+<font color="#666666"> <font size="1" color="#003366">unsubscript please reply 
+to <a href="mailto:unsubmga@poppymail.com">unsubmga@poppymail.com</a> </font></font> 
+<iframe src="http://www.ohgos.com/m04/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> 
+</body>
+</html>

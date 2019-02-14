@@ -1,0 +1,51 @@
+Return-Path: <RJCUNNCG@didamail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 12811 invoked by uid 115); 30 Dec 2004 05:24:05 -0000
+Received: from RJCUNNCG@didamail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(219.251.91.29):. 
+ Processed in 2.003359 secs); 30 Dec 2004 05:24:05 -0000
+Received: from unknown (HELO 209.5.178.248) (219.251.91.29)
+  by churchill.factcomp.com with SMTP; 30 Dec 2004 05:24:02 -0000
+Message-ID: <b6458m0QW8N481I20WV63YMB07990354N230096@219.251.91.29>
+Location: 778 conserve zebra
+Reply-To: "Valentin Conley" <RJCUNNCG@didamail.com>
+From: "Valentin Conley" <RJCUNNCG@didamail.com>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+To: "Bruceg" <bruceg@em.ca>
+Subject: You can start saving now
+Date: Thu, 30 Dec 2004 06:25:13 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--6717548753854624"
+
+----6717548753854624
+Content-Type: text/plain;
+	charset="iso-4055-6"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify for a new mortga=
+ge.
+You could get $300,000 for as little as $600 a month!
+Bad credit is no problem, you can pull cash out or refinance.
+
+http://xmastimerates.com/x/loan.php?id=3Dsas1
+
+Please click on this link for free consultation by a mortgage broker:
+Start Saving Here 
+
+http://xmastimerates.com/x/loan.php?id=3Dsas1
+
+Best Regards,
+Bonnie Paulson
+
+
+
+
+For email removal, go here.
+
+http://xmastimerates.com/st.html
+
+----6717548753854624--

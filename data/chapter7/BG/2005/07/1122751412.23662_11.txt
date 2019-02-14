@@ -1,0 +1,163 @@
+Return-Path: <reberekoq@hsuchi.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 23012 invoked from network); 30 Jul 2005 13:47:40 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Jul 2005 13:47:40 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Jul 2005 13:47:40 -0000
+Received: (qmail 17886 invoked from network); 30 Jul 2005 13:47:44 -0000
+Received: from ip47-223-59-62.adsl.versatel.nl (unknown [62.59.223.47])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 30 Jul 2005 13:47:41 -0000
+Received: from hsuchi.net (hsuchi-net.mr.outblaze.com [205.158.62.177])
+        by ip47-223-59-62.adsl.versatel.nl (Postfix) with ESMTP id 8JIFPMOY5N
+        for <cvs@bruce-guenter.dyndns.org>; Sat, 30 Jul 2005 05:45:20 +0000
+From: "Mollie Askew" <reberekoq@hsuchi.net>
+To: <cvs@bruce-guenter.dyndns.org>
+Subject: Please fill the form below
+Date: Sat, 30 Jul 2005 05:45:20 +0000
+MIME-Version: 1.0
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Thread-Index: 0laTFvTCVkgPqQSofUjHMUqPi4ITbaWhSRUq
+Content-Type: text/html;
+        charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+Content-Length: 5296
+Lines: 136
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<p align="left"><font> <strong>We offer INSTANT DOWNLOAD!</strong> 
+  <font color="#FF0000"><strong>You will no need to wait 2-3 week for CD delivery 
+  - you can download any program and PC games at once you have purchased it!</strong></font> 
+  Most of program packages are within 50-150 MBs and even if you have slow modem 
+  connection you'll be able to download for an ONE day.<br>
+  <strong>Why so cheap?</strong> All the software is OEM - Meaning that you do 
+  not get the box with it. You receive the software carrying a unique registration 
+  code. Most of the software is in the English language for PC. Our offers are 
+  unbeatable and we always update our prices to make sure we provide you with 
+  the best possible offers. Hurry up and place your order, because our supplies 
+  are limited.<br>
+  <strong>Note</strong> that we are not selling any trial, incomplete or academic 
+  version of software – it is original and fully functional.</font></p>
+<div align="center"> 
+  <P>See more then 45 Special Offers <strong><a href="http://pc2r.biz.softwabar.com"><font color="#FF0000">http://pc2r.biz.softwabar.com</font></a></strong></P>
+</div>
+<table width="536" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="14%">ZIP-archive</td>
+    <td width="50%" height="22"><font size=2 color=gray> </font></td>
+    <td width="12%">Our Price</td>
+    <td width="12%">Retail price</td>
+    <td width="12%">You Save</td>
+  </tr>
+  <tr> 
+    <td width="14%">823 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Microsoft Windows XP Professional 
+      With SP2 Full Version</b></font></td>
+    <td width="12%"><font color=red size=4>$59.95</font></td>
+    <td width="12%"><font>$280.95</font></td>
+    <td width="12%"><font>$220.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">391 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Microsoft Office Professional 2003</b></font> 
+    </td>
+    <td width="12%"><font color=red size=4>$59.95 </font></td>
+    <td width="12%"><font>$579.95</font></td>
+    <td width="12%"><font>$479.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">135 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Norton Internet Security Pro 2005</b></font> 
+    </td>
+    <td width="12%"><font color=red size=4>$29.95 </font></td>
+    <td width="12%"><font>$79.95 </font></td>
+    <td width="12%"><font>$50.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">880 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Macromedia Studio MX 2004</b></font></td>
+    <td width="12%"><font color=red size=4>$119.95 </font></td>
+    <td width="12%"><font>$899.95</font></td>
+    <td width="12%"><font>$789.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">164 Mb</td>
+    <td width="50%"><font size="2" color=gray><b>Quark Xpress 6 Passport Multilanguage</b></font></td>
+    <td width="12%"><font color=red size=4>$59.95 </font></td>
+    <td width="12%"><font>$1799.95</font></td>
+    <td width="12%"><font>$1739.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">156 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Adobe Photoshop CS2 with ImageReady 
+      CS2</b></font></td>
+    <td width="12%"><font color=red size=4>$59.95 </font></td>
+    <td width="12%"><font>$609.95</font></td>
+    <td width="12%"><font>$549.95</font></td>
+  </tr>
+  <tr> 
+    <td>200 Mb</td>
+    <td><font size=2 color=gray><b>Adobe Acrobat 7.0 Proffessional</b></font></td>
+    <td><font color=red size=4>$49.95 </font></td>
+    <td><font>$499.95</font></td>
+    <td><font>$399.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">277 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Adobe Premiere Pro 1.5</b></font></td>
+    <td width="12%"><font color=red size=4>$59.9</font></td>
+    <td width="12%"><font>$269.95</font></td>
+    <td width="12%"><font>$159.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">98 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>Dreamweaver MX 2004</b></font></td>
+    <td width="12%"><font color=red size=4>$49.95 </font></td>
+    <td width="12%"><font>$229.95 </font></td>
+    <td width="12%"><font>$179.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">766 Mb</td>
+    <td width="50%"><font size=2 color=gray><b>AutoCAD 2005</b></font> </td>
+    <td width="12%"><font color=red size=4>$59.95 </font></td>
+    <td width="12%"><font>$1969.95 </font></td>
+    <td width="12%"><font>$1910.95</font></td>
+  </tr>
+  <tr> 
+    <td>28 Mb</td>
+    <td><font size=2 color=gray><b>Ahead Nero v6.3 Powerpack</b></font></td>
+    <td><font color=red size=4>$29.95 </font></td>
+    <td><font>$89.95</font></td>
+    <td><font>$59.95</font></td>
+  </tr>
+  <tr> 
+    <td>1453 Mb</td>
+    <td><font size=2 color=gray><b>3ds Max 7</b></font></td>
+    <td><font color=red size=4>$59.95 </font></td>
+    <td><font>$1569.95 </font></td>
+    <td><font>$1510.95</font></td>
+  </tr>
+  <tr> 
+    <td width="14%">195 Mb</td>
+    <td width="50%"><font size="2" color=gray><b>Corel Draw Graphics Suite 12</b></font></td>
+    <td width="12%"><font color=red size=4>$49.95 </font></td>
+    <td width="12%"><font>$279.95</font></td>
+    <td width="12%"><font>$169.95</font></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+0Q9

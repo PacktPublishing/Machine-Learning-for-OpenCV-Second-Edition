@@ -1,0 +1,48 @@
+Message-ID: <31469740.1075856593847.JavaMail.evans@thyme>
+Date: Mon, 19 Jun 2000 07:59:00 -0700 (PDT)
+From: chonawee.supatgiat@enron.com
+To: stinson.gibner@enron.com
+Subject: Network Design Optimization.
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Chonawee Supatgiat
+X-To: Stinson Gibner
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+FYI,
+Attached document is a specification of the network design optimization 
+program. Just in case you want to see how it looks like.
+-Chonawee
+
+---------------------- Forwarded by Chonawee Supatgiat/Corp/Enron on 
+06/19/2000 02:55 PM ---------------------------
+
+
+Chonawee Supatgiat
+06/19/2000 02:34 PM
+To: Phil Markwart/Enron Communications@Enron Communications
+cc: samer_takriti@enron.net 
+
+Subject: Network Design Optimization.
+
+Phil, 
+The optimization engine is ready and the graphical user interface is almost 
+done. Attached please find the updated network design optimization 
+specification. It contains some additions and modifications to the old 
+specification I sent you a while ago. The major changes are:
+  1. The program now also supports Ring design. and it can solve to optimality
+  2. The graphical user interface is handled by Visual Basic on a PC. (Not on 
+the web browser as in the previous spec.). 
+Please take a look at the specification document and let me know if there is 
+anything you want to add/change/remove...etc.
+Moreover, please do not forget to send us a test example. 
+We are buying CPLEX and will install it on our network. Hopefully our IT 
+teams can configure your machine to run it in a few weeks.
+
+-Chonawee

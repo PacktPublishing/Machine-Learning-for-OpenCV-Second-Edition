@@ -1,0 +1,85 @@
+Return-Path: <KTBDZCEEYARX@cerber.mat.ub.es>
+Received: (fqmail 5311 invoked from network); 20 Nov 2004 22:54:52 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 20 Nov 2004 22:54:52 -0000
+Received: (qmail 26769 invoked from network); 20 Nov 2004 22:54:52 -0000
+Received: from 69.5.6.172 ([166.114.30.40])
+  by mx02.futurequest.net ([69.5.6.172])
+  with SMTP via TCP; 20 Nov 2004 22:54:51 -0000
+X-Message-Info: 0FED0E8MOXndmu5HEU73jjiHKAfJOD23rccH23ajaHWvZB6GF3E
+Received: from teetheFbernardcutlass (C6.10.8EC.2D) by mailD.KTBDZCEEYARX@cerber.mat.ub.es (Bluewin AG 2.F.8D5)
+        id C58AO8AIP79CBBPD10 for webmaster@ezmlm.org; Sat, 20 Nov 2004 19:54:00 -0300
+Message-ID: <A8A38AE4FA694D.051DF@KTBDZCEEYARX@cerber.mat.ub.es>
+Reply-To: "Dudley Guerra" <KTBDZCEEYARX@cerber.mat.ub.es>
+From: "Dudley Guerra" <KTBDZCEEYARX@cerber.mat.ub.es>
+To: "Webmaster" <webmaster@ezmlm.org>
+Subject: healthcare lists doctor's american directory, physician's 7,000 hospitals, 25,000 nursing homes and 400,000 doctors.
+Date: Sat, 20 Nov 2004 18:51:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9D16F27BF1D586103FA"
+
+----9D16F27BF1D586103FA
+Content-Type: text/html;
+	charset="iso-9404-7"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body>
+The New 2005 United States Healthcare Database.<br>
+<br>
+price of $195 (reg. $745).
+<p>The United States Healthcare Database is a comprehensive NEW product <b=
+r>
+  that is offered exclusively on a limited-time basis. This complete <br>
+  database includes all hospitals, nursing homes, and physicians in the <b=
+r>
+  country.</p>
+<p>In a rapidly-changing industry, current healthcare information is an <b=
+r>
+  invaluable resource to businesses and organizations. The United States <=
+br>
+  Healthcare Database includes comprehensive information on more than <br>=
+
+  7,000 hospitals, 25,000 nursing homes and 400,000 doctors. It is the <br=
+>
+  most extensive and reliable mailing list and database of key decision <b=
+r>
+  makers in the health care market.</p>
+<p>Available exclusively on CD-Rom (Excel), the data can be used on an <br=
+>
+  unlimited basis. It is easily exportable to other programs for mailing <=
+br>
+  or faxing purposes.</p>
+<p>To order, please print this e-mail, <br>
+  complete the information below and<br>
+  <br>
+  fax it to 416-765-0029 (tel: 416-765-0028).</p>
+<p>NAME:</p>
+<p>TITLE:</p>
+<p>ORGANIZATION:</p>
+<p>ADDRESS:</p>
+<p>CITY:</p>
+<p>STATE:</p>
+<p>POSTAL:</p>
+<p>FAX:</p>
+<p>EMAIL:</p>
+<p>TEL:</p>
+<p>MedCom<br>
+  4410 Massachusettes Ave. NW, #201<br>
+  Washington, DC 20016<br>
+  <br>
+</p>
+</body>
+</html>
+
+
+----9D16F27BF1D586103FA--

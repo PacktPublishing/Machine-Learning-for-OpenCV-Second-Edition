@@ -1,0 +1,48 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-podetium@em.ca
+Received: (qmail 14734 invoked by uid 115); 30 Apr 2005 18:58:04 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.155.209):. 
+ Processed in 0.485643 secs); 30 Apr 2005 18:58:04 -0000
+Received: from unknown (HELO yahoo.co.uk) (82.155.155.209)
+  by churchill.factcomp.com with SMTP; 30 Apr 2005 18:57:59 -0000
+Date: Sat, 30 Apr 2005 03:53:14 +0000 (Hora padrão de GMT)
+From: FEMALE djs <femaledjs@yahoo.co.uk>
+To: bait-podetium@em.ca
+Message-ID: 38472.16196759259_23489120295888
+Subject: Dj PENELOPE TUESDAE, usa
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Playboy DJ - Penelope Tuesdae</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#2F2F40" text="#666666" link="#003399" vlink="#003399" alink="#003399">
+<div align="center"><img src="http://p001.no.sapo.pt/tuesdae/tuesdae.jpg" width="550" height="435" border="0" usemap="#Map" />
+  <map name="Map" id="Map">
+    <area shape="rect" coords="387,293,545,308" href="mailto:booking@female-djs.net" />
+  </map>
+  <br />
+  <font size="1" face="Arial, Helvetica, sans-serif">Your email has been listed in our Female Djs database.
+If you want to opt-out of this list, please reply to remove@female-djs.net</font></div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

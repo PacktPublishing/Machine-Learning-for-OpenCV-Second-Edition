@@ -1,0 +1,38 @@
+Return-Path: <uqqmxqvmalzc@ameritech.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 20661 invoked from network); 16 Dec 2004 10:23:35 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 16 Dec 2004 10:23:35 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 Dec 2004 10:23:35 -0000
+Received: (qmail 29294 invoked from network); 16 Dec 2004 10:23:34 -0000
+Received: from adsl-68-79-14-72.dsl.emhril.ameritech.net (unknown [68.79.14.72])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 16 Dec 2004 10:23:32 -0000
+Received: from zak.futurequest.net by adsl-68-79-14-72.dsl.emhril.ameritech.net with SMTP; Thu, 16 Dec 2004 03:11:23 -0600
+Received: from 17.78.247.171 by aitmx3.prodigy.net with Microsoft SMTPSVC; Thu, 16 Dec 2004 03:10:17 -0600
+To: "Shirley Cvs" <cvs@bruce-guenter.dyndns.org>
+Content-Type: text/plain;
+	charset="iso-8859-1";
+Content-Transfer-Encoding: 7bit
+Message-ID: <42237753254886035.BWz5j@163.166.50.4>
+Date: Thu, 16 Dec 2004 03:10:45 -0600
+Subject: Re: Information Update
+From: "Aldridge" <uqqmxqvmalzc@ameritech.net>
+Mime-Version: 1.0
+Content-Length: 316
+Lines: 12
+
+Thu, 16 Dec 2004 03:11:23 -0600
+
+Dear Applicant 9396,
+
+After a financial review of your situation, you have been   q u alified
+for 3.3  /% deal. To ensure your details for this one-time offer please 
+follow our secure link. We appreciate your business.
+
+http://www.oflist.com/
+
+Sincerely,
+Aldridge - ZT & Associates

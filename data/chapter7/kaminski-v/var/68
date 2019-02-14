@@ -1,0 +1,52 @@
+Message-ID: <32763433.1075856642244.JavaMail.evans@thyme>
+Date: Wed, 27 Sep 2000 07:07:00 -0700 (PDT)
+From: naveen.andrews@enron.com
+To: ted.murphy@enron.com
+Subject: Update: FFVols
+Cc: vince.kaminski@enron.com, grant.masson@enron.com, 
+	tanya.tamarchenko@enron.com, cassandra.schultz@enron.com, 
+	wenyao.jia@enron.com, debbie.brackett@enron.com, 
+	vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, grant.masson@enron.com, 
+	tanya.tamarchenko@enron.com, cassandra.schultz@enron.com, 
+	wenyao.jia@enron.com, debbie.brackett@enron.com, 
+	vladimir.gorny@enron.com
+X-From: Naveen Andrews
+X-To: Ted Murphy
+X-cc: Vince J Kaminski, Grant Masson, Tanya Tamarchenko, Cassandra Schultz, Wenyao Jia, Debbie R Brackett, Vladimir Gorny
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Ted,
+         An update on the implementation for FFVols:
+                  (1) In comparing 6 days of historical Var calculations 
+(with that of the implied) for Agg-Gas, we have found that the Historical VaR 
+calculations are consistently lower over this period, by roughly 17 MM.  The 
+implied volatilities are much higher at this period, anticipating strong 
+winter prices.
+                  (2) At this time, the consensus is not to relase the 
+historical implementation into production, and the official line to traders 
+will be that the method is still in testing.  The historical VaR is 19.2MM 
+and the implied is 37 MM for effective date of 09/25.    
+                  (3) Further testing is in progress on a hybrid methodology 
+(which I mentioned last week, whereby historical vols are scaled by the ratio 
+of prompt to historical-prompt volatilities), to atleast  capture some 
+implied/forward effects.  Tanya's analysis on a  fictitious portfolio 
+indicates higher VaR numbers, but poorer backtesting in comparison to the 
+historical approach.  This approach serves as an intermediate, and seems 
+appropriate in periods such as the current one, wherein the historical 
+numbers might be considerably lower than those of the implied.
+               (4) Winston will start  testing using these hybrid vols, and 
+if the results are deemed satisfactory, that will be the production 
+methodology.
+
+Of course, we will obtain all VaR numbers concurrently to serve as different 
+indicators and beacons of risk.  The production number will hopefully be a 
+sensible compromise of the different methods. 
+
+Regards
+Naveen

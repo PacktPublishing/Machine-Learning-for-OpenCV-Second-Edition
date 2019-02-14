@@ -1,0 +1,89 @@
+Received: from ns55.kabir-ken.com (211.19.52.170)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:24 -0000
+Received: from localhost (localhost)
+	by ns55.kabir-ken.com (8.11.6/8.11.6) id j6JAvIR18384;
+	Tue, 19 Jul 2005 19:57:18 +0900
+Date: Tue, 19 Jul 2005 19:57:18 +0900
+From: Mail Delivery Subsystem <MAILER-DAEMON@ns55.kabir-ken.com>
+Message-Id: <200507191057.j6JAvIR18384@ns55.kabir-ken.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAvIR18384.1121770638/ns55.kabir-ken.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAvIR18384.1121770638/ns55.kabir-ken.com
+
+The original message was received at Tue, 19 Jul 2005 19:57:17 +0900
+from [219.128.179.71]
+
+   ----- The following addresses had permanent fatal errors -----
+labra-610m@docomo.ne.jp
+    (reason: 550 Unknown user labra-610m@docomo.ne.jp)
+    (expanded from: <info@ma-s87.com>)
+
+   ----- Transcript of session follows -----
+... while talking to mfsmax.docomo.ne.jp.:
+>>> DATA
+<<< 550 Unknown user labra-610m@docomo.ne.jp
+554 5.0.0 Service unavailable
+
+--j6JAvIR18384.1121770638/ns55.kabir-ken.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ns55.kabir-ken.com
+Received-From-MTA: DNS; [219.128.179.71]
+Arrival-Date: Tue, 19 Jul 2005 19:57:17 +0900
+
+Final-Recipient: RFC822; info@ma-s87.com
+Action: expanded (to multi-recipient alias)
+Status: 2.0.0
+Last-Attempt-Date: Tue, 19 Jul 2005 19:57:18 +0900
+
+Final-Recipient: RFC822; info@ma-s87.com
+X-Actual-Recipient: RFC822; labra-610m@docomo.ne.jp
+Action: failed
+Status: 5.2.0
+Remote-MTA: DNS; mfsmax.docomo.ne.jp
+Diagnostic-Code: SMTP; 550 Unknown user labra-610m@docomo.ne.jp
+Last-Attempt-Date: Tue, 19 Jul 2005 19:57:18 +0900
+
+--j6JAvIR18384.1121770638/ns55.kabir-ken.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([219.128.179.71])
+	by ns55.kabir-ken.com (8.11.6/8.11.6) with SMTP id j6JAvGR18379
+	for <info@ma-s87.com>; Tue, 19 Jul 2005 19:57:17 +0900
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024817173;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@ma-s87.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54270708">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JAvIR18384.1121770638/ns55.kabir-ken.com--
+

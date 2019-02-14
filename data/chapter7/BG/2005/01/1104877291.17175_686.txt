@@ -1,0 +1,19 @@
+Return-Path: <chrisyi@videotron.ca>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 29014 invoked by uid 115); 30 Dec 2004 07:42:27 -0000
+Received: from chrisyi@videotron.ca by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.229.129.199):. 
+ Processed in 1.451694 secs); 30 Dec 2004 07:42:27 -0000
+Received: from unknown (HELO videotron.ca) (211.229.129.199)
+  by churchill.factcomp.com with SMTP; 30 Dec 2004 07:42:25 -0000
+From: "Chris" <chrisaf@videotron.ca>
+To: <bait@em.ca>
+Subject: 
+Date: Thu, 30 Dec 2004 15:53:40 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Qmail-Scanner-Message-ID: <110439254767229009@churchill>
+
+Want a Watch?
+http://dez.nepel.com
+

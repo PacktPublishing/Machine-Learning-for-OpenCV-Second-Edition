@@ -1,0 +1,74 @@
+Received: from relay3.hrnoc.net (216.120.225.15)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:49 -0000
+Received: from mailnull by relay3.hrnoc.net with local (Exim 4.32; FreeBSD)
+	id 1DupnB-000Nfv-95
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 06:57:42 -0400
+X-Failed-Recipients: rrrhythms@aol.com
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@relay3.hrnoc.net>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1DupnB-000Nfv-95@relay3.hrnoc.net>
+Date: Tue, 19 Jul 2005 06:57:41 -0400
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  rrrhythms@aol.com
+    SMTP error from remote mailer after end of data:
+    host mailin-01.mx.aol.com [205.188.159.57]: 554-:
+     (HVU:B1) http://postmaster.info.aol.com/errors/554hvub1.html
+    554 TRANSACTION FAILED
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from mailbox.hrnoc.net ([216.120.225.22])
+	by relay3.hrnoc.net with smtp (Exim 4.32; FreeBSD)
+	id 1DupnA-000Nel-Lk
+	for rrrhythms@aol.com; Tue, 19 Jul 2005 06:57:40 -0400
+Received: (qmail 59909 invoked by uid 89); 19 Jul 2005 10:57:46 -0000
+Delivered-To: info@pasentertainment.com
+Received: (qmail 59899 invoked by uid 89); 19 Jul 2005 10:57:46 -0000
+Received: from mx1.hrnoc.net (216.120.232.254)
+  by mailbox.hrnoc.net with QMTP; 19 Jul 2005 10:57:46 -0000
+Received: (qmail 9603 invoked by uid 513); 19 Jul 2005 10:57:44 -0000
+Received: from projecthoneypot@projecthoneypot.org by mx1.hrnoc.net by uid 503 with qmail-scanner-1.20st 
+ (clamuko: 0.70. spamassassin: 2.63.  Clear:RC:0(218.43.171.70):SA:0(1.6/15.0):. 
+ Processed in 0.802258 secs); 19 Jul 2005 10:57:44 -0000
+X-Spam-Status: No, hits=1.6 required=15.0
+X-Qmail-Scanner-Mail-From: projecthoneypot@projecthoneypot.org via mx1.hrnoc.net
+X-Qmail-Scanner: 1.20st (Clear:RC:0(218.43.171.70):SA:0(1.6/15.0):. Processed in 0.802258 secs)
+Received: from p1070-ipad02sinnagasak.nagasaki.ocn.ne.jp (HELO mailwisconsin.com) (218.43.171.70)
+  by mx1.hrnoc.net with SMTP; 19 Jul 2005 10:57:43 -0000
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815595;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@pasentertainment.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-HR-Scan-Signature: 2fbcfbd181f732eb7b12270bfad389b6
+X-HR-SA-Score:  ()
+X-HR-Status: HR_AVScanned-(projecthoneypot@projecthoneypot.org/216.120.225.22)
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279919">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

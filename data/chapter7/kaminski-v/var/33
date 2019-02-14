@@ -1,0 +1,32 @@
+Message-ID: <18455892.1075856641406.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 05:49:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: frank.hayden@enron.com
+Subject: Re: implementing clustering and jumps for power
+Cc: vince.kaminski@enron.com, jaesoo.lew@enron.com, jason.sokolov@enron.com, 
+	rakesh.bharati@enron.com, rabi.de@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, jaesoo.lew@enron.com, jason.sokolov@enron.com, 
+	rakesh.bharati@enron.com, rabi.de@enron.com
+X-From: Tanya Tamarchenko
+X-To: Frank Hayden
+X-cc: Vince J Kaminski, Jaesoo Lew, Jason Sokolov, Rakesh Bharati, Rabi De
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Frank,
+our VAR team has been looking at different ways to implement clustering and 
+jumps for power prices simulation
+in VAR.
+I attached the suggestion we came up with and the results of clustering and 
+jump parameters estimation.
+Would you like to discuss this methodology? We need your input.
+
+Please, let me know,
+
+Thank you,
+
+Tanya.

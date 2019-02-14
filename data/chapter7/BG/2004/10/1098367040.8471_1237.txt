@@ -1,0 +1,48 @@
+Return-Path: <contato@sitesonline.com.br>
+Received: (fqmail 4912 invoked from network); 21 Oct 2004 08:11:10 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 21 Oct 2004 08:11:10 -0000
+Received: (qmail 15173 invoked from network); 21 Oct 2004 08:11:10 -0000
+Received: from smtp.uol.com.br ([200.210.133.2])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 21 Oct 2004 08:11:10 -0000
+From: "Indicação" <contato@sitesonline.com.br>
+To: webmaster@ezmlm.org
+Subject: Web Site
+Sender: "Indicação" <contato@sitesonline.com.br>
+Date: Thu, 21 Oct 2004 05:11:13 -0200
+Reply-To:contato@sitesonline.com.br
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Type: text/html; charset="iso-8859-1"
+
+<html>
+<head>
+<title>mundotodo.gif</title>
+<meta http-equiv="Content-Type" content="text/html;">
+<!-- Fireworks 4.0  Dreamweaver 4.0 target.  Created Mon Sep 27 19:41:44 GMT-0300 (Hora oficial do Brasil) 2004-->
+</head>
+<body bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="492" align="center">
+  <!-- fwtable fwsrc="mundotodo.png" fwbase="mundotodo.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tr>
+   <td><img src="spacer.gif" width="352" height="1" border="0"></td>
+   <td><img src="spacer.gif" width="62" height="1" border="0"></td>
+   <td><img src="spacer.gif" width="78" height="1" border="0"></td>
+   <td><img src="spacer.gif" width="1" height="1" border="0"></td>
+  </tr>
+
+  <tr>
+    <td colspan="3"><a href="http://www.sitesonline.com.br/cadastramento_servicos.htm" target="_blank"><img name="mundotodo_r1_c1" src="http://www.sitesonline.com.br/mundotodo_r1_c1.gif" width="492" height="220" border="0"></a></td>
+   <td><img src="spacer.gif" width="1" height="220" border="0"></td>
+  </tr>
+  <tr>
+   <td><img name="mundotodo_r2_c1" src="http://www.sitesonline.com.br/mundotodo_r2_c1.gif" width="352" height="17" border="0"></td>
+    <td><a href="http://www.sitesonline.com.br/remover_destinatarios.htm" target="_blank"><img name="mundotodo_r2_c2" src="http://www.sitesonline.com.br/mundotodo_r2_c2.gif" width="62" height="17" border="0"></a></td>
+   <td><img name="mundotodo_r2_c3" src="http://www.sitesonline.com.br/mundotodo_r2_c3.gif" width="78" height="17" border="0"></td>
+   <td><img src="spacer.gif" width="1" height="17" border="0"></td>
+  </tr>
+</table>
+</body>
+</html>

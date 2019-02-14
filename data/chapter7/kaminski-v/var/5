@@ -1,0 +1,56 @@
+Message-ID: <3196618.1075840797178.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 16:59:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: frank.hayden@enron.com
+Subject: Re: clustering for gas and power
+Cc: jaesoo.lew@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jaesoo.lew@enron.com, vince.kaminski@enron.com
+X-From: Tanya Tamarchenko <Tanya Tamarchenko/HOU/ECT@ECT>
+X-To: Frank Hayden <Frank Hayden/Enron@EnronXGate>
+X-cc: Jaesoo Lew <Jaesoo Lew/NA/Enron@ENRON>, Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Frank,
+following up on our discussions,
+can you please send us the list of ENRON's curves by geographical region 
+separately for gas and power.
+
+Appreciate it,
+
+Tanya.
+
+
+
+
+
+Tanya Tamarchenko
+04/16/2001 09:16 AM
+To:	Jaesoo Lew/NA/Enron@ENRON
+cc:	Vladimir Gorny/Enron@EnronXGate, Winston Jia/ENRON@enronXgate, Vince J Kaminski/HOU/ECT@ECT 
+Subject:	Re: clustering for power   
+
+Jaesoo,
+as we discussed last week on Wednesday meeting can you, please,
+implement clustering for power curves by geographical region. This involves the following:
+
+1. Deciding together with Risk Control how many geographical regions we want to use
+and which Enron's curves belong to each region.
+2. Deciding together with Risk Control how to choose core curves for each region. This decision can 
+be maid based on the a) position size; b) statistical analysis. There might be other considerations.
+3. Doing regression analysis for each curve versus the corresponding core curve.
+
+Winston,
+can is it possible to run VAR for the clustering results obtained by Jaesoo with clustering done by SAS?
+Should we wait for the stage re-fresh and what is the status on this? 
+
+Tanya.
+
+
+
+
+<Embedded StdOleLink>

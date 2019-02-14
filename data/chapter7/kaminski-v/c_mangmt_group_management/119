@@ -1,0 +1,73 @@
+Message-ID: <11532186.1075856575357.JavaMail.evans@thyme>
+Date: Mon, 5 Mar 2001 02:40:00 -0800 (PST)
+From: vasant.shanbhogue@enron.com
+To: vince.kaminski@enron.com
+Subject: class proposal by Yannis
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Vasant Shanbhogue
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince,  
+   Yannis of the Weather desk is planning to develop relationship with Prof 
+Rene Carmona in doing weather analysis.  To start this off, they are planning 
+to pay  Prof Carmona to give a training class as outlined below, and they 
+want to know if Research is willing to send people and bear part of the costs.
+
+ We can talk more at 4:00 pm, but while there is no doubt that getting people 
+from outside to present new ideas is always important and interesting, I 
+think Research Group members can easily give most of these talks.  
+Apparently, people are interested in these topics and are willing to pay to 
+listen.  My thought is that if the intent is to develop relationships, that 
+is fine, but the Research Group should also be given the opportunity to 
+provide more training and get more visibility.  I have already communicated 
+this to Joe and to Yannis.
+
+Vasant
+
+---------------------- Forwarded by Vasant Shanbhogue/HOU/ECT on 03/05/2001 
+10:40 AM ---------------------------
+From: Yannis Tzamouranis/ENRON@enronXgate on 03/05/2001 10:01 AM
+To: Vasant Shanbhogue/HOU/ECT@ECT
+cc:  
+Subject: 
+
+Here is a tentative course description.
+
+Day 1: Extreme Value Distriutions and Copulas
+1. Heavy Tail Distributions: Exploratory data analysis and detection.
+Extreme value distributions and generalized Pareto distributions.
+Estimation and simulation. Practical examples.
+2. Notions of dependence and copulas. Estimation and simulation.
+Experiments with the program EVANECE.
+
+Day 2: Principal Component Analysis and Modern Regression
+1. Principal component analysis and applications to the yield curve and
+the detection of contagion in financial markets.
+2. Nonlinear regression and the construction of yield curves.
+3. Nonparametric regression (kernel and projection pursuit methods) and
+alternatives to the Black-Scholes formula to option pricing.
+
+Day 3: Time Series Analysis
+Examples of temperature time series will be used to introduce and
+illustrate the following concepts and techniques:
+1. Removing trends and seasonal components, and stationarity.
+2. Fitting the classical autoregressive and moving average models.
+3. Discretization of stochastic differential equations
+4. Multivariate time series
+
+Day 4: Nonlinear Systems and Filtering
+1. ARCH, GARCH and stochastic volatility models
+2. Linear state space models and the classical Kalman filter
+3. Nonlinear systems and particle filtering.
+4. Applications
+
+
+
+
+

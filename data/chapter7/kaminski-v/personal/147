@@ -1,0 +1,88 @@
+Message-ID: <19326137.1075856615383.JavaMail.evans@thyme>
+Date: Mon, 18 Sep 2000 15:42:00 -0700 (PDT)
+From: listserv@peach.ease.lsoft.com
+To: vince.kaminski@enron.com
+Subject: You are now subscribed to the FRBNYRMAG1 list
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "L-Soft list server at PEACH.EASE.LSOFT.COM (1.8d)" <LISTSERV@PEACH.EASE.LSOFT.COM>
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Mon, 18 Sep 2000 18:42:47
+
+Your  subscription to  the FRBNYRMAG1  list (Federal  Reserve Bank  of NY
+Research Publications) has been accepted.
+
+Please save this message for future  reference, especially if this is the
+first time you are subscribing to an electronic mailing list. If you ever
+need to leave  the list, you will find the  necessary instructions below.
+Perhaps  more importantly,  saving a  copy of  this message  (and of  all
+future subscription notices  from other mailing lists) in  a special mail
+folder will give you instant access to the list of mailing lists that you
+are subscribed  to. This may  prove very useful the  next time you  go on
+vacation and  need to leave  the lists temporarily so  as not to  fill up
+your  mailbox while  you  are away!  You should  also  save the  "welcome
+messages" from the  list owners that you will  occasionally receive after
+subscribing to a new list.
+
+To send  a message to  all the people  currently subscribed to  the list,
+just  send  mail  to   FRBNYRMAG1@PEACH.EASE.LSOFT.COM.  This  is  called
+"sending mail to the list," because you send mail to a single address and
+LISTSERV  makes copies  for  all  the people  who  have subscribed.  This
+address  (FRBNYRMAG1@PEACH.EASE.LSOFT.COM)  is   also  called  the  "list
+address." You must never  try to send any command to  that address, as it
+would be distributed to all the  people who have subscribed. All commands
+must be sent to the "LISTSERV address," LISTSERV@PEACH.EASE.LSOFT.COM. It
+is  very important  to understand  the  difference between  the two,  but
+fortunately it  is not complicated.  The LISTSERV  address is like  a FAX
+number that connects you to a machine, whereas the list address is like a
+normal voice line connecting  you to a person. If you  make a mistake and
+dial the FAX number when you wanted  to talk to someone on the phone, you
+will quickly  realize that you used  the wrong number and  call again. No
+harm will have been done. If on the other hand you accidentally make your
+FAX call  someone's voice  line, the  person receiving  the call  will be
+inconvenienced, especially if your FAX then re-dials every 5 minutes. The
+fact that  most people  will eventually  connect the  FAX machine  to the
+voice line to  allow the FAX to  go through and make the  calls stop does
+not mean  that you  should continue  to send FAXes  to the  voice number.
+People would just get mad at you.  It works pretty much the same way with
+mailing  lists, with  the difference  that  you are  calling hundreds  or
+thousands of people  at the same time, and consequently  you can expect a
+lot of people to get upset if  you consistently send commands to the list
+address.
+
+You may  leave the  list at  any time by  sending a  "SIGNOFF FRBNYRMAG1"
+command to LISTSERV@PEACH.EASE.LSOFT.COM. You  can also tell LISTSERV how
+you want it to  confirm the receipt of messages you send  to the list. If
+you do  not trust the system,  send a "SET FRBNYRMAG1  REPRO" command and
+LISTSERV will send you  a copy of your own messages, so  that you can see
+that the  message was  distributed and  did not get  damaged on  the way.
+After a while  you may find that this is  getting annoying, especially if
+your mail program does not tell you  that the message is from you when it
+informs you that new mail has arrived from FRBNYRMAG1. If you send a "SET
+FRBNYRMAG1  ACK  NOREPRO"  command,  LISTSERV   will  mail  you  a  short
+acknowledgement  instead,  which  will  look different  in  your  mailbox
+directory. With most mail programs you will know immediately that this is
+an  acknowledgement  you  can  read  later. Finally,  you  can  turn  off
+acknowledgements completely with "SET FRBNYRMAG1 NOACK NOREPRO".
+
+Contributions sent to this list are automatically archived. You can get a
+list  of the  available archive  files by  sending an  "INDEX FRBNYRMAG1"
+command to LISTSERV@PEACH.EASE.LSOFT.COM. You  can then order these files
+with a  "GET FRBNYRMAG1  LOGxxxx" command,  or using  LISTSERV's database
+search facilities. Send  an "INFO DATABASE" command  for more information
+on the latter.
+
+IMPORTANT: This list is confidential. You should not publicly mention its
+existence, or forward copies of information  you have obtained from it to
+third  parties. Please  note  that the  "GIVE"  command is  automatically
+disabled for all archive files.
+
+More  information on  LISTSERV  commands  can be  found  in the  LISTSERV
+reference  card, which  you can  retrieve  by sending  an "INFO  REFCARD"
+command to LISTSERV@PEACH.EASE.LSOFT.COM.

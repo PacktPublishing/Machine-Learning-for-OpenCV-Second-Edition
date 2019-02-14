@@ -1,0 +1,45 @@
+Return-Path: <postmaster@forcieri.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10128 invoked by uid 115); 6 Jun 2005 11:46:26 -0000
+Received: from postmaster@forcieri.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(212.27.37.88):. 
+ Processed in 0.087704 secs); 06 Jun 2005 11:46:26 -0000
+Received: from php5-1.online.net (212.27.37.88)
+  by churchill.factcomp.com with SMTP; 6 Jun 2005 11:46:25 -0000
+Received: by php5-1.online.net (Postfix, from userid 51314)
+	id E5BED94376; Mon,  6 Jun 2005 13:47:20 +0200 (MEST)
+To: 
+Subject: PAYMENT REPRESENTATIVE
+X-Server-Name: www.forcieri.com
+X-Script-Name: /modules.php
+X-Remote-Addr: 192.116.154.234
+From: peijin <mr_liu@zwallet.com>
+X-Priority: 3 (Normal)
+Cc: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: RLSP Mailer
+X-Abuse-To: abuse@proxad.net
+Message-Id: <20050606114720.E5BED94376@php5-1.online.net>
+Date: Mon,  6 Jun 2005 13:47:20 +0200 (MEST)
+Content-Length: 1169
+
+
+Dear Sir/Madam,
+I am Mr.Liu Peijin, Managinig Director Hubei Machinery & Equipment Import & Export Corporation (CMEC HUBEI CO.) we are a company who deal on mechanical equipment, hardware and minerals, electrical products, Medical & Chemicals, light industrial products and office equipment, and export into the Canada/America and Europe. We are searching for representatives who can help us establish a medium of getting to our costumers in the Canada/America and Europe as well as making payments through you to us.
+Please if you are interested in transacting business with us we will be glad.
+Please contact us for more information,Subject to your satisfaction you will be given the opportunity to negotiate your mode of which we will pay for your services as our representative in Canada/America and
+Europe.
+Please if you are interested forward to us your phone number/fax and your full contact addresses.
+Thanks in advance
+Mr.Liu Peijin
+Managing Director
+CMEC HUBEI CO.
+
+
+
+
+___________________________________________________________________________
+Ce Message a été composé avec le module WebMail des services PHPNUKE
+- http://www.phpnukefrance.org

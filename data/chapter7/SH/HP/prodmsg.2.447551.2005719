@@ -1,0 +1,84 @@
+Received: from 213-193-135-130.perm.easynet.be (HELO fw-bxl01.cssnv.be) (213.193.135.130)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:52 -0000
+Received: from localhost (localhost)
+	by fw-bxl01.cssnv.be (8.11.6/8.11.6) id j6JAxkq26701;
+	Tue, 19 Jul 2005 12:59:51 +0200
+Date: Tue, 19 Jul 2005 12:59:51 +0200
+From: Mail Delivery Subsystem <MAILER-DAEMON@atcostplus.be>
+Message-Id: <200507191059.j6JAxkq26701@fw-bxl01.cssnv.be>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAxkq26701.1121770791/fw-bxl01.cssnv.be"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAxkq26701.1121770791/fw-bxl01.cssnv.be
+
+The original message was received at Tue, 19 Jul 2005 12:59:40 +0200
+from [218.159.229.14]
+
+   ----- The following addresses had permanent fatal errors -----
+<smag@cssnv.be>
+    (reason: 550 5.7.1 Message content rejected, UBE, id=05197-02)
+
+   ----- Transcript of session follows -----
+... while talking to mx01.cssnv.be.:
+>>> DATA
+<<< 550 5.7.1 Message content rejected, UBE, id=05197-02
+554 5.0.0 Service unavailable
+
+--j6JAxkq26701.1121770791/fw-bxl01.cssnv.be
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; fw-bxl01.cssnv.be
+Arrival-Date: Tue, 19 Jul 2005 12:59:40 +0200
+
+Final-Recipient: RFC822; smag@cssnv.be
+Action: failed
+Status: 5.2.0
+Remote-MTA: DNS; mx01.cssnv.be
+Diagnostic-Code: SMTP; 550 5.7.1 Message content rejected, UBE, id=05197-02
+Last-Attempt-Date: Tue, 19 Jul 2005 12:59:51 +0200
+
+--j6JAxkq26701.1121770791/fw-bxl01.cssnv.be
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([218.159.229.14])
+	by fw-bxl01.cssnv.be (8.11.6/8.11.6) with SMTP id j6JAxei26690
+	for <smag@cssnv.be>; Tue, 19 Jul 2005 12:59:40 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360226;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: smag@cssnv.be
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-yoursite-MailScanner-Information: Please contact the ISP for more information
+X-yoursite-MailScanner: Found to be clean
+X-MailScanner-From: projecthoneypot@projecthoneypot.org
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836553">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--j6JAxkq26701.1121770791/fw-bxl01.cssnv.be--
+

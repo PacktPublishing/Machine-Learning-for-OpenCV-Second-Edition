@@ -1,0 +1,82 @@
+Message-ID: <7645683.1075856586717.JavaMail.evans@thyme>
+Date: Thu, 27 Jul 2000 08:08:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	pinnamaneni.krishnarao@enron.com, vasant.shanbhogue@enron.com, 
+	mike.roberts@enron.com, joseph.hrgovcic@enron.com, 
+	grant.masson@enron.com, tanya.tamarchenko@enron.com, 
+	zimin.lu@enron.com, alexios.kollaros@enron.com, martin.lin@enron.com, 
+	maureen.raymond@enron.com, osman.sezgen@enron.com, 
+	paulo.issler@enron.com, patricia.tlapek@enron.com, 
+	farouk.lalji@enron.com, amitava.dhar@enron.com, alex.huang@enron.com, 
+	kevin.kindall@enron.com, kevin.moore@enron.com, 
+	clayton.vernon@enron.com, william.smith@enron.com, 
+	yanna.crystal@enron.com, jose.marquez@enron.com, 
+	samer.takriti@enron.com, chonawee.supatgiat@enron.com, 
+	shalesh.ganjoo@enron.com, tom.halliburton@enron.com, 
+	elena.chilkina@enron.com, cantekin.dincerler@enron.com, 
+	brad.aimone@enron.com, datren.williams@enron.com, 
+	sevil.yaman@enron.com, sofya.tamarchenko@enron.com, 
+	bob.lee@enron.com, ainsley.gaddis@enron.com, gwyn.koepke@enron.com, 
+	guiseppe.paleologo@enron.com, hector.campos@enron.com, 
+	anita.dupont@enron.com, youyi.feng@enron.com, v.weldon@enron.com
+Subject: SAS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Vince J Kaminski, Stinson Gibner, Pinnamaneni Krishnarao, Vasant Shanbhogue, Mike A Roberts, Joseph Hrgovcic, Grant Masson, Tanya Tamarchenko, Zimin Lu, Alexios Kollaros, Martin Lin, Maureen Raymond, Osman Sezgen, Paulo Issler, Patricia Tlapek, Farouk Lalji, Amitava Dhar, Alex Huang, Kevin Kindall, Kevin G Moore, Clayton Vernon, William Smith, Yanna Crystal, Jose Marquez, Samer Takriti, Chonawee Supatgiat, Shalesh Ganjoo, Tom Halliburton, Elena Chilkina, Cantekin Dincerler, Brad Aimone, Datren Williams, Sevil Yaman, Sofya Tamarchenko, Bob Lee, Ainsley Gaddis, Gwyn Koepke, Guiseppe Paleologo, Hector Campos, Anita DuPont, Youyi Feng, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+to the group:
+
+if you wish to use SAS, there are a few simple things you need to do:
+
+1) you need to get a Unix password if you don't already have one (your user 
+id will be the same as on the NT network, but a different password is issued)
+2) you need a program called "Exceed" on your PC.  request it from IT (you 
+already have this if you are already a user of LIM on the Unix platform)
+3) you need an "ftp" program on your PC. you can go to www.download.com and 
+download one (i like wsftp)
+4) Exceed is funny in the way it runs. When you invoke Exceed (or LIM 
+Advanced User (under Infobases) if you already have this) it will install 
+itself the first time, and will then "disappear" to the Taskbar. you need to 
+*right* click on the taskbar on Exceed, and then choose "Tools" and "Client 
+Startup" and then "New."
+
+You will enter a box which should already be set for REXEC and an XWindow 
+emulation. You need to specify the Host Type as Sun, enter your User Name and 
+Password, set the Host Name to: 
+
+capers.ect.enron.com
+
+and then, on the Command Line, type the following (carefully):
+
+/usr/openwin/bin/xterm -display @D
+
+Then, use the file menu to Save this as capers.xs and then click on the Run! 
+menu. within a second or two, a window will open up with you logged into the 
+serve capers. You are now on a Unix server, and the directory is your home 
+directory. From here, if you simply type "sas" the 3 windows for an 
+interactive session with SAS should open on your desktop. You are in business.
+
+5) you also need to install your ftp. follow the procedures with the 
+software, and then create a new session called "enron" where you choose as 
+the server simply "earth" (do not add any further descriptors such as 
+.enron.com). supply your user name and *unix* password, check the "remember 
+password" box, and the default communication setups should be correct (eg, 
+host type as "automatic detect").
+
+when you invoke ftp and connect to enron, it will put you in your home 
+directory on the Unix system, the same directory your xwindow comes up in 
+under Exceed.
+
+if you have any problems, i'll be happy to help
+
+Clayton
+
+PS i have a complete set of new SAS manuals i am happy to loan out if you'll 
+just write your name down when you take them.

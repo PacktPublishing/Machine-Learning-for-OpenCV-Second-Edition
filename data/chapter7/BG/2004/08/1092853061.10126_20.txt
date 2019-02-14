@@ -1,0 +1,125 @@
+Return-Path: <wealthwatch@i-webmail.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 14904 invoked from network); 18 Aug 2004 01:34:58 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Aug 2004 01:34:58 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Aug 2004 01:34:58 -0000
+Received: (qmail 821 invoked from network); 18 Aug 2004 01:34:57 -0000
+Received: from hgjuk-57ofppnt2 (unknown [69.6.66.16])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 18 Aug 2004 01:34:57 -0000
+From: "Wealth Watch" <wealthwatch@i-webmail.net>
+Subject: Find out how much is in the wallet
+To: cvs@bruce-guenter.dyndns.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: wealthwatch@i-webmail.net
+Date: Tue, 17 Aug 2004 20:35:06 -0500
+Content-Length: 9024
+Lines: 101
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<html>
+
+
+<body bgcolor="#FFFFFF">
+
+
+<table width="500" border="0" align="center">
+  <tr>
+    <td>
+      <div align="center"><img src="http://www.a1info.net/images2/drc/avertmnt.gif" width="150" height="15"></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+
+
+        <TABLE WIDTH=500 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+			<TR>
+				<TD COLSPAN=5>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_01.gif" WIDTH=500 HEIGHT=119 ALT=""border="0"></a></TD>
+			</TR>
+			<TR>
+				<TD COLSPAN=2 ROWSPAN=2>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_02.gif" WIDTH=98 HEIGHT=288 ALT=""border="0"></a></TD>
+				<TD>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_03.gif" WIDTH=245 HEIGHT=234 ALT=""border="0"></a></TD>
+				<TD COLSPAN=2 ROWSPAN=2>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_04.gif" WIDTH=157 HEIGHT=288 ALT=""border="0"></a></TD>
+			</TR>
+			<TR>
+				<TD>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_05.gif" WIDTH=245 HEIGHT=54 ALT=""border="0"></a></TD>
+			</TR>
+			<TR>
+				<TD ROWSPAN=2>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_06.gif" WIDTH=51 HEIGHT=93 ALT=""border="0"></a></TD>
+				<TD COLSPAN=3>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_07.gif" WIDTH=376 HEIGHT=70 ALT=""border="0"></a></TD>
+				<TD ROWSPAN=2>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_08.gif" WIDTH=73 HEIGHT=93 ALT=""border="0"></a></TD>
+			</TR>
+			<TR>
+				<TD COLSPAN=3>
+					<a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454A4B4A440E08.aspx'><img src="http://www.a1info.net/images2/drc/wallet_09.gif" WIDTH=376 HEIGHT=23 ALT=""border="0"></a></TD>
+			</TR>
+			<TR>
+				<TD>
+					<img src="http://www.a1info.net/images2/drc/spacer.gif" WIDTH=51 HEIGHT=1 ALT=""border="0"></a></TD>
+				<TD>
+					<img src="http://www.a1info.net/images2/drc/spacer.gif" WIDTH=47 HEIGHT=1 ALT=""border="0"></a></TD>
+				<TD>
+					<img src="http://www.a1info.net/images2/drc/spacer.gif" WIDTH=245 HEIGHT=1 ALT=""border="0"></a></TD>
+				<TD>
+					<img src="http://www.a1info.net/images2/drc/spacer.gif" WIDTH=84 HEIGHT=1 ALT=""border="0"></a></TD>
+				<TD>
+					<img src="http://www.a1info.net/images2/drc/spacer.gif" WIDTH=73 HEIGHT=1 ALT=""border="0"></a></TD>
+			</TR>
+</TABLE>
+
+
+ </div>
+    </td>
+  </tr>
+  <tr>
+    <td>      <div align="center"><img src="http://www.a1info.net/images2/drc/program.jpg" width="450" height="100"><br>
+        <a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E400E43454B42424B0E08.aspx'>        </a></div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<font color="#fefefe" size="1" style="font-size: 1px">
+find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet. find out how much is in this wallet.
+</font>
+
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E08.aspx'><img src='http://www.infoemail-web.com/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4447410E430E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">DRC Inc. &#183; P.O. Box 631 &#183; Clearwater, FL 33755</font></p></td></tr></table></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

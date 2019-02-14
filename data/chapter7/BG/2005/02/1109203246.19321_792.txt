@@ -1,0 +1,40 @@
+Return-Path: <customer@ebostonnetwork01.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29869 invoked by uid 115); 22 Feb 2005 03:45:09 -0000
+Received: from customer@ebostonnetwork01.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.91.177.188):. 
+ Processed in 0.141235 secs); 22 Feb 2005 03:45:09 -0000
+Received: from gb.jb.177.188.revip.asianet.co.th (HELO tiger-woods) (61.91.177.188)
+  by churchill.factcomp.com with SMTP; 22 Feb 2005 03:45:07 -0000
+From: "Boston Network" <customer@ebostonnetwork01.net>
+To: <bruceg@em.ca>
+Subject: หลักสูตร "การจัดการคำร้องเรียนของลูกค้าได้อย่างมีประสิทธิผล" Customer Complaint Management Workshop
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 22 Feb 2005 10:49:17
+X-Qmail-Scanner-Message-ID: <110904390967229861@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font color="#666666" size="2"> <font size="1">หากรายละเอียดด้านล่างไม่แสดงกรุณา 
+<a href="http://www.ohgos.com/boston/customer.html">คลิกที่นี่</a> </font></font> 
+<font size="1" color="#666666"><iframe src="http://www.ohgos.com/boston/b5/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> หรือ http://www.ohgos.com/boston/customer.html </font><br>
+<img src="http://www.ohgos.com/boston/customer.gif" width="660" height="1390" usemap="#Map" border="0"> 
+<map name="Map"> 
+  <area shape="rect" coords="11,224,656,328" href="http://www.bostonnetwork.com/ad_html/148_Customer%20Complaint.pdf" target="_blank">
+  <area shape="rect" coords="454,385,610,395" href="http://www.bostonnetwork.com/ad_html/163_Buzz%20Marketing.pdf" target="_blank">
+  <area shape="rect" coords="454,369,618,381" href="http://www.bostonnetwork.com/ad_html/123_ServiceExcellence.pdf" target="_blank">
+  <area shape="rect" coords="454,398,627,423" href="http://www.bostonnetwork.com/ad_html/159_Modern%20Inventory%20Management.pdf" target="_blank">
+  <area shape="rect" coords="454,426,645,437" href="http://www.bostonnetwork.com/ad_html/166_InterBusinessMnt.pdf" target="_blank">
+  <area shape="rect" coords="454,439,634,463" href="http://www.bostonnetwork.com/ad_html/161_Confronting%20Tough%20Employee.pdf" target="_blank">
+  <area shape="rect" coords="454,465,630,478" href="http://www.bostonnetwork.com/ad_html/122_Competency%20Based%20HR%20Strategy.pdf" target="_blank">
+  <area shape="rect" coords="283,1203,524,1219" href="http://bostonnetwork.com/" target="_blank">
+</map>
+<br>
+<br>
+<font color="#666666" size="1"> unsubscript please reply to <a href="mailto:chitchail@hotmail.com">chitchail@hotmail.com</a> 
+</font> 
+</body>
+</html>

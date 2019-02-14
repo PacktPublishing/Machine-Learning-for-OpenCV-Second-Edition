@@ -1,0 +1,56 @@
+Return-Path: <globlet@globletmarketing1.net>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 18301 invoked from network); 11 Mar 2005 20:30:53 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 11 Mar 2005 20:30:53 -0000
+Received: (qmail 19377 invoked from network); 11 Mar 2005 20:30:53 -0000
+Received: from pt03.futurequest.net (pt03.futurequest.net [69.5.6.179])
+  by mx08.futurequest.net ([69.5.6.180])
+  with QMQP via TCP; 11 Mar 2005 20:30:53 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 18288 invoked from network); 11 Mar 2005 20:30:53 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 11 Mar 2005 20:30:53 -0000
+Received: (qmail 7637 invoked from network); 11 Mar 2005 20:30:53 -0000
+Received: from tiger-woods (gb.jb.64.238.revip.asianet.co.th [61.91.64.238])
+  by mx03.futurequest.net ([69.5.6.174])
+  with SMTP via TCP; 11 Mar 2005 20:30:52 -0000
+From: "GLOBLET MARKETING" <globlet@globletmarketing1.net>
+To: <webmaster@ezmlm.org>
+Subject: เชิญสัมมนา "เจาะลึก Search Engine Marketing" ช่องทางใหม่ในการเพิ่มยอดขายให้กับธุรกิจ
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sat, 12 Mar 2005 03:31:03
+Content-Length: 1797
+
+<html><HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<p align="left"><font size="2" color="#666666">หากรายละเอียดด้านล่างไม่แสดงกรุณา 
+  <a href="http://www.globlet.com/seminars/search.html">คลิกที่นี่ </a> หรือ ดูรายละเอียดได้ที่ 
+  http://www.globlet.com/seminars/search.html</font></p>
+<p align="center"><br>
+  <img src="http://www.globlet.com/seminars/search.gif" width="700" usemap="#Map" border="0" height="2297"> 
+  <map name="Map">
+    <area shape="rect" coords="226,1812,431,1859" href="http://www.thaiventure.com/seminars_register.php?No=5" target="_blank">
+    <area shape="rect" coords="440,1893,597,1917" href="http://www.globlet.com/seminars/Registration-Form.doc" target="_blank">
+    <area shape="rect" coords="17,306,111,323" href="http://www.globlet.com/images/sathon-map.gif" target="_blank">
+  </map>
+</p>
+<p align="center"><br>
+  <a href="http://www.globlet.com/"><img src="http://www.globlet.com/seminars/search2.gif" width="589" height="194" border="0"></a><br>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
+<hr noshade>
+<font color="#666666" size="1">(ยกเลิกการรับข่าวสารธุรกิจและงานสัมมนาทั้งฟรีและไม่ฟรี) 
+Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a></font><font color="#666666" size="1"> 
+</font><iframe src="http://www.green-beauty.com/m03/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> <font color="#666666" size="1"> </font><iframe src="http://www.green-beauty.com/m03/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> <font color="#666666" size="1"> </font><iframe src="http://www.green-beauty.com/m03/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> 
+</body>
+</html>

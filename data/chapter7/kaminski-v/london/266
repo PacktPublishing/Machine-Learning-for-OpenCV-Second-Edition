@@ -1,0 +1,179 @@
+Message-ID: <12871486.1075857050712.JavaMail.evans@thyme>
+Date: Fri, 10 Mar 2000 05:06:00 -0800 (PST)
+From: martina.angelova@enron.com
+To: maureen.raymond@enron.com, zimin.lu@enron.com, stinson.gibner@enron.com, 
+	vince.kaminski@enron.com
+Subject: New Update on PPI Model for Inflation Book - Final Version
+Cc: anjam.ahmad@enron.com, farouk.lalji@enron.com, trena.mcfarland@enron.com, 
+	dale.surbey@enron.com, leandro.ibasco@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: anjam.ahmad@enron.com, farouk.lalji@enron.com, trena.mcfarland@enron.com, 
+	dale.surbey@enron.com, leandro.ibasco@enron.com
+X-From: Martina Angelova
+X-To: maureen Raymond, Zimin Lu, Stinson Gibner, Vince J Kaminski
+X-cc: Anjam Ahmad, Farouk Lalji, Trena McFarland, Dale Surbey, Leandro Ibasco
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear all,
+
+Attached is Anjam's reasoning and final version of the UK PPI PLLU model. 
+
+The UK Inflation Book's main exposure is to two PPI indexes - the PLLU and 
+the DZCV through year 2010. Both are PPI Output indexes with very comparable 
+baskets. The only significant difference between the two is the presence of 
+energy in the PLLU (7.6%). The model in use escalates the two indexes by the 
+same factors. However, with the energy price fluctuations in recent years 
+different models for the two indexes would reflect better the nature of their 
+drivers. Anjam concentrated on the PLLU index first and he will shortly 
+construct one for the DZCV based on the same methodology, but without the 
+Brent Crude curve. 
+
+The new model achieves the two main objectives of the PPI curve: it is 
+significantly more robust and stable than the existing one, and it is 
+considerably less sensitive to the input coefficients. This will result in us 
+having more confidence in our monthly P&L as well as less fluctuations. 
+
+Best regards,
+
+Martina 
+x34327
+
+
+
+
+
+Anjam Ahmad
+10/03/2000 11:59
+To: Martina Angelova/LON/ECT@ECT
+cc:  
+
+Subject: New Update on PPI Model for Inflation Book
+
+Dear all,
+
+I followed up on the suggestions of happening babe at the conference call as 
+follows:-
+
+1) USE LESS DATA
+
+Unfortunately, kicking out only 1990 makes the overall equation a lot less 
+robust, in fact dramatically so, and so eliminates the possibility of using 
+less data.  The model tested was the RPI(month+15) & Deviations from 
+long-term average for Brent Crude.  The r-squared and F-statistic collapsed 
+by eliminating the first 12 months of data.
+
+2) DEVIATIONS IN CRUDE VARIABLE
+
+Shifting the crude explanatory variable backwards and forward by 3 and 6 
+months did not alter the model goodness-of-fit parameters dramatically and so 
+my suggestion is that we stick with the following model:
+
+PLLU[t] = a.RPI[t] + b.RPI[t+15] + c.BrentCrudeDeviations[t] + Constant
+
+3) TESTING MODEL WITH SINE WAVE
+
+To gauge the response of the model to wildly-varying RPI forward curve, a 
+sine wave of period 3 years for RPI was input into the PPI model.  The result 
+was as expected; PPI pre-empts the moves in RPI by about 8 months.  The 
+magnitude of the oscillations is also reduced.  This shows that if we had 
+more detail in our RPI forward curve, then the PPI model would reflect those 
+peaks and humps adequately.
+
+
+
+CONCLUSION
+
+I therefore propose that we use the model that incorporates RPI, RPI[t+15] 
+and deviations of Brent Crude from long-term average.  The new model is 
+plotted below in burgundy and can be compared to the old PPI which is 
+depicted in blue. 
+
+
+Please note that all this analysis only applies to PLLU, and that a separate 
+study will be needed for the DZCV PPI index.
+
+Regards,
+
+Anjam
+x35383
+
+---------------------- Forwarded by Anjam Ahmad/LON/ECT on 09/03/2000 16:52 
+---------------------------
+
+
+Anjam Ahmad
+08/03/2000 14:03
+To: Martina Angelova/LON/ECT@ECT, Harry Arora/HOU/ECT@ECT, Maureen 
+Raymond/HOU/ECT@ECT, Zimin Lu/HOU/ECT@ECT, Farouk Lalji/HOU/ECT@ECT
+cc: Trena McFarland/LON/ECT@ECT, Dale Surbey/LON/ECT@ECT, Stinson 
+Gibner/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT, Leandro 
+Ibasco/Corp/Enron@Enron 
+
+Subject: Update on PPI Model for Inflation Book
+
+Dear all,
+
+We thought it might be useful to incorporate Brent crude as an explanatory 
+variable for PPI; it was found that deviations of Dated Brent Crude from the 
+long-term average of $18.80 was the best form of the variable to use (for 
+predictions the Brent forward curve produced by the Global Products Group is 
+used).  The three new equations developed were:-
+
+PLLU(t) = a.RPI(t) + b.RPI(t+N) + c.(DatedBrentCrude - 18.8) + constant, 
+where N is 14,15 or 16
+[REDDISH CURVES]
+r-squared approx 0.49
+F-stat approx 32
+
+The chart below shows what our projected PLLU curve would be given this 
+equation, and also the three best relations from before which were based upon 
+current and future RPI:
+
+PLLU(t) = a.RPI(t) + b.RPI(t+N) + constant, where N is 14,15 or 16
+[GREENISH CURVES]
+r-squared approx 0.47
+F-stat approx 45
+
+COMPARISON OF MODELS
+As you can see, the two equations differ in the very short-term and very 
+long-term; the inclusion of deviations of Brent Crude leads to short-term 
+predictions of 3.0% to 3.2% over the next six months.  The greenish curves 
+predict PLLU in the range of 2.5% to 2.8% over the next six months.
+
+The curves are then very similar until 2009, when the models including crude 
+break-away to the upside, relative to the falling RPI curve.  The model based 
+purely on RPI hugs the RPI curve much more closely in the longer term.  This 
+is only important to the extent that we have large positions beyond 2009 
+(which we don't).
+
+SUGGESTION
+What could be useful now is a differently-specified model designed to 
+forecast only the next 3 months, using auto-regressive or auto-regressive 
+error terms.  This model would be far more accurate in the near-term, and we 
+could include this information onto the front of this long-term model.  This 
+may be useful, despite the fact that most of our exposure is in future time 
+buckets.
+
+
+
+BACK-TESTING
+
+All the models give similar visual and statistical performance over the data 
+sample used (based mainly on 1990s "new paradigm" economy).
+
+
+
+Hopefully we can discuss these and other points later in the tele-conference; 
+your ideas on this would be appreciated.
+
+Regards,
+
+Anjam
+x35383
+
+
+

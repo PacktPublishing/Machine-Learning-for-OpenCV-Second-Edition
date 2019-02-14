@@ -1,0 +1,19 @@
+Return-Path: <jillwu@bluecom.no>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 11827 invoked by uid 115); 22 Dec 2004 17:13:05 -0000
+Received: from jillwu@bluecom.no by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.188.146.35):. 
+ Processed in 0.105514 secs); 22 Dec 2004 17:13:05 -0000
+Received: from unknown (HELO bluecom.no) (220.188.146.35)
+  by churchill.factcomp.com with SMTP; 22 Dec 2004 17:13:04 -0000
+From: "Jill" <jillmj@bluecom.no>
+To: <bruceg@em.ca>
+Subject: 
+Date: Wed, 22 Dec 2004 12:16:25 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Qmail-Scanner-Message-ID: <110373558567211811@churchill>
+
+Do you want a Watch?
+http://inl.nepel.com
+

@@ -1,0 +1,97 @@
+Received: from vulcano.urjc.es (193.147.184.23)
+  by projecthoneypotmailserver with SMTP; 12 Jul 2005 14:13:10 -0000
+Received: from localhost (localhost)
+	by vulcano.urjc.es (8.13.2/8.13.2/Debian-1) id j6CED11G014068;
+	Tue, 12 Jul 2005 16:13:04 +0200
+Date: Tue, 12 Jul 2005 16:13:04 +0200
+From: Mail Delivery Subsystem <MAILER-DAEMON@vulcano.urjc.es>
+Message-Id: <200507121413.j6CED11G014068@vulcano.urjc.es>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6CED11G014068.1121177584/vulcano.urjc.es"
+Content-Transfer-Encoding: 8bit
+Subject: Warning: could not send message for past 4 hours
+Auto-Submitted: auto-generated (warning-timeout)
+
+This is a MIME-encapsulated message
+
+--j6CED11G014068.1121177584/vulcano.urjc.es
+
+    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Tue, 12 Jul 2005 12:09:30 +0200
+from antonio.urjc.es [193.147.184.24]
+
+   ----- Transcript of session follows -----
+maildrop: error writing to mailbox.
+ana.elvira@urjc.es... Deferred: local mailer (/usr/sbin/sensible-mda) exited with EX_TEMPFAIL
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+
+--j6CED11G014068.1121177584/vulcano.urjc.es
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vulcano.urjc.es
+Arrival-Date: Tue, 12 Jul 2005 12:09:30 +0200
+
+Final-Recipient: RFC822; cva@urjc.es
+X-Actual-Recipient: RFC822; ana.elvira@vulcano.urjc.es
+Action: delayed
+Status: 4.2.0
+Diagnostic-Code: X-Unix; 75
+Last-Attempt-Date: Tue, 12 Jul 2005 16:13:04 +0200
+Will-Retry-Until: Sun, 17 Jul 2005 12:09:30 +0200
+
+--j6CED11G014068.1121177584/vulcano.urjc.es
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from antonio.urjc.es (antonio.urjc.es [193.147.184.24])
+	(authenticated bits=0)
+	by vulcano.urjc.es (8.13.2/8.13.2/Debian-1) with ESMTP id j6CA9UR5010238
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=OK)
+	for <cva@urjc.es>; Tue, 12 Jul 2005 12:09:30 +0200
+Received: from antonio.urjc.es (antonio.urjc.es [127.0.0.1])
+	by antonio.urjc.es (8.13.4/8.13.4/Debian-1) with ESMTP id j6CA9PgH025295
+	for <cva@urjc.es>; Tue, 12 Jul 2005 12:09:25 +0200
+Received: from urjc.es (178.Red-83-50-247.pooles.rima-tde.net [83.50.247.178])
+	by antonio.urjc.es (8.13.4/8.13.4/Debian-1) with ESMTP id j6CA9FRl000872
+	for <cva@urjc.es>; Tue, 12 Jul 2005 12:09:16 +0200
+Message-Id: <200507121009.j6CA9FRl000872@antonio.urjc.es>
+From: projecthoneypot@projecthoneypot.org
+To: cva@urjc.es
+Subject: Re: Re: Document
+Date: Tue, 12 Jul 2005 12:16:22 +0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_00001FDF.00002D7C"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_00001FDF.00002D7C
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+
+Please have a look at the attached file.
+
+------=_NextPart_000_0012_00001FDF.00002D7C
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+[Filename: your_document.pif, Content-Type: application/octet-stream]
+Por motivos de seguridad, los ficheros con extensión com, exe,bat, pif, scr y cpl han sido eliminados del correo.
+
+------=_NextPart_000_0012_00001FDF.00002D7C--
+
+
+
+--j6CED11G014068.1121177584/vulcano.urjc.es--
+

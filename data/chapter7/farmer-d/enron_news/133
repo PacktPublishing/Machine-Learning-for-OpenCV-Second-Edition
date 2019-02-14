@@ -1,0 +1,126 @@
+Message-ID: <6724806.1075854114218.JavaMail.evans@thyme>
+Date: Thu, 20 Jan 2000 06:48:00 -0800 (PST)
+From: brenda.herod@enron.com
+To: lisa.csikos@enron.com, daren.farmer@enron.com, mary.smith@enron.com, 
+	rita.wynne@enron.com, steve.venturatos@enron.com, 
+	pat.clynes@enron.com
+Subject: Project Hurricane/Bridgeline Status
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Lisa Csikos, Daren J Farmer, Mary M Smith, Rita Wynne, Steve Venturatos, Pat Clynes
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+FYI.
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 01/20/2000 
+02:48 PM ---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Tommy J Yanowski                           01/20/2000 12:22 PM
+	
+
+To: John Tollefsen, Arshak Sarkissian, Keith Dziadek/HOU/EES@EES, Scott 
+Mills, Stephen Schwarz, Michael Eiben/HOU/ECT@ECT, Brenda Herod, Inja Chun, 
+Dave Nommensen, Brent A Price/HOU/ECT@ECT, Scotty Gilbert, Jim 
+Fussell/HOU/ECT@ECT, Steve Venturatos/HOU/ECT@ECT, Connie Sutton/HOU/ECT@ECT, 
+Donna Consemiu/HOU/ECT@ECT, Antoine V Pierre/HOU/ECT@ECT, Mary Solmonson, 
+Susan Harrison/HOU/ECT@ECT, Edward de 
+Valcourt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jim Coffey/HOU/ECT@ECT, Julie 
+Ferrara/HOU/ECT@ECT, Romeo D'Souza/HOU/ECT@ECT, <fielddr@texaco.com>, 
+Wrighcs@texaco.com, Robert D Morgan/HOU/ECT@ECT, Wanda Curry, James 
+McKay/HOU/ECT@ECT
+cc: Harold Bertram/HOU/ECT@ECT, Philippe Bibi, Beth Perlman, Robert 
+Shiring/HOU/ECT@ECT, Shonnie Daniel/HOU/ECT@ECT, Sally Beck 
+Subject: Project Hurricane/Bridgeline Status
+
+Here is a quick status and list of to do's related to setting up the new J.V. 
+between Enron & Texaco which will be combining the LRC and Bridgeline 
+pipeline systems:
+
+Summary:  The LRC & Bridgeline pipeline systems will be combined under the 
+name of Bridgeline LLC.  Ownership in the JV will be split 60% Texaco & 40% 
+Enron.  Bridgeline Gas Marketing LLC will be the entity that will be trading 
+on the pipelines under the new J.V.  Contracts and Service  Agreements are in 
+the process of being drafted.  
+
+Enron will be providing the Trading and Commercial Operations systems to 
+support this J.V.  Texaco will be providing the Scada system.  I understand 
+that Accounting is still being discussed.  The Trading, Risk, & perhaps 
+Scheduling personnel for this JV will be initially relocated to the 21st 
+floor of the Enron Building and will eventually move to probably the 3 Allen 
+Center once a more permanent spot can be built out.  Trading for the new JV 
+will start in early February for March Production.
+
+To Do's:
+
+Accounting:  I've asked Jim Coffey to set up two work orders to capture IT 
+transition and ongoing costs.  Texaco is also trying to set up a meeting next 
+Monday to step through the accounting flow so that we are all on the same 
+page and make sure there is nothing that will fall through the cracks.
+
+PC's:  Jim Fussell is in the process of ordering the PC's for this JV at my 
+request.  I will need the work order numbers to track these costs.
+
+Networks:  I'm coordinating with Arshak and his team to make sure that the 
+voice and data networks are in place for EB 21.  Once the more permanent spot 
+is nailed down we will then need to do the same for that location.   A 
+combination of Trader phones, Lucent Phones, Stenfons and Amtels have been 
+requested.
+
+Location on EB 21:  I'm waiting on a call back from Chris Larson from 
+facilities to find out what locations on 21 will be assigned to the new JV.  
+Currently half of the floor is empty but they are set up with high wall 
+cubes.  There may need to be some build out for the traders to low wall 
+cubes.  We can't set up the PC's, phones, Amtels, etc until this is done.
+
+Data Conversion:  I have requested from Texaco the contract, deal and 
+meter/facility information we will need to set up in our systems to begin 
+trading for March production.  It may be possible to get an electronic dump 
+of this data from Texaco if Enron defines the data fields that we will need.  
+We also need to set up the trading entities and portfolios.  I will also need 
+to know who will need to have access to this data so that we can set up the 
+system security.  I have received the names of the traders but I don't know 
+who else will need access.
+
+Interface between Enron's Unify POP's application and Bridgeline's Scada 
+application:  I've asked Dave Nommensen from Enron to get with Carryn Wright 
+from Texaco to begin the process of defining the interface between the two 
+applications and estimate the time to build and implement the interface.  
+There will also need to be a transition plan put in place where LRC's 
+RTU's/EFM is redirected to the Bridgeline Scada system.  In the meantime 
+there will be two Scada systems and perhaps two Gas Controls until everything 
+is merged into one.  This will probably mean some manual interfaces between 
+POP's and Scada for Confirmed noms and EFM volumes until the transition is 
+complete.
+
+Scada Communications:  Currently the LRC RTU's/EFM communicate back to 
+Enron's Scada system via leased lines.  Bridgelines RTU's communicate back to 
+them via a microwave system.  The new JV could save on communications costs 
+by switching LRC's RTU communication to the microwave.  Perhaps this is best 
+done as a part of the Scada transition.
+
+Accounting data needed by Texaco for Royalty purposes:  This data needs to be 
+better defined.  I will follow up with John LeDoux from Texaco to get this 
+process started.
+
+Hourly volumes:  Bridgeline currently has one utility customer who may be 
+billed on an hourly basis depending on the amount of swing.  We need to talk 
+through this process to see what enhancements may be needed.  At least 
+initially there will need to be some manual processes in place to support the 
+billing for this one customer.
+
+Please let me know if you'd like to meet on any of these topics.  I can have 
+my assistant set up the meeting if needed.  In the mean time I can be reached 
+at 713-853-6858.  Thanks!  -  Tommy
+
+ 
+
+ 
+
+

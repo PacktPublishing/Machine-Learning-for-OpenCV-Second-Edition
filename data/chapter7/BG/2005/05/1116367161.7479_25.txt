@@ -1,0 +1,60 @@
+Return-Path: <murdoch21592984sickle@ihsan-solusi.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 18535 invoked from network); 16 May 2005 20:37:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 16 May 2005 20:37:19 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 May 2005 20:37:19 -0000
+Received: (qmail 6959 invoked from network); 16 May 2005 20:37:17 -0000
+Received: from 69.5.6.152 (unknown [83.213.16.19])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 16 May 2005 20:37:05 -0000
+Received: from bipartite.lahn.net (83.213.16.19)
+          by 83.213.16.19 (chattanooga 4.2 7.2) with SMTP
+          id <2BPIO497W22>; Mon, 16 May 2005 23:33:50 +0200
+Message-ID: <EMKT004_SQ_3014p@lahn.net>
+X-Originating-IP: [83.213.16.19]
+Alternate-recipient: Allowed
+Reply-To: "heddie helkaa" <GHFASPHPCRMR@lahn.net>
+From: "heddie helkaa" <GHFASPHPCRMR@lahn.net>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: The Results of Your Application
+Date: Mon, 16 May 2005 17:31:50 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--882744_518442.kn949"
+Content-Length: 822
+Lines: 30
+
+----882744_518442.kn949
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you earlier about financing your home at a lower rate.<br>
+We would like to let you know that we have gone ahead and started<br>
+the approval process,<p>
+
+Here are the results:<br>
+*Negotiable Amount: $200,000 - $600,000<br>
+*Rate: 4.87% - 5.36%<p>
+
+Please fill out this form and a broker will contact you soon.<br>
+<a href="http://www.lendisx.net/index2.php?refid=mal">Processing Form</a><p>
+Best Regards,<p>
+
+Carl Harrison,<br>
+Account Manager<p>
+
+---------------------<p>
+
+No future contact:<br>
+<a href="http://www.lendisx.net/r.php">no thanks</a>
+<p>
+bostockcaitrinfalsegoatherd
+</html>
+
+----882744_518442.kn949--

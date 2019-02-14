@@ -1,0 +1,54 @@
+Message-ID: <25693256.1075857036452.JavaMail.evans@thyme>
+Date: Mon, 10 Jan 2000 06:19:00 -0800 (PST)
+From: grant.masson@enron.com
+To: bhavna.pandya@enron.com
+Subject: New basis report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Grant Masson
+X-To: Bhavna Pandya
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bhavna:
+
+The basis report has been updated to cover 2000 prices. It is called 
+Basisnw7.xls and is in the ERG database.
+It looks to be working correctly, but of course without data it is a little 
+hard to confirm.  As always, it is ultimately your job to verify that the 
+numbers reported are correct.  Lemme know if there are problems.  
+
+It is easy to change the spreadsheet to start a new year.  You should keep 
+this mail message as a reference.
+1)  Add 12 to the expression in "PrintMacro"!B35 i.e. change 
+COPY(OFFSET(HenryCash,12*AgainstYear+63,i,12,1)) to 
+COPY(OFFSET(HenryCash,12*AgainstYear+75,i,12,1))
+
+2) Define a new cell reference on the basis page for the first date to be 
+printed out on the report page.  For example, last year, the basis report 
+went from Jan 93 to Dec 1999. In Basisnw6.xls there is a name "Jan93" defined 
+as "Basis"!A64 (i.e. refers to the row where the Jan 1993 basis numbers are 
+recorded).  This year, in Basisnw7.xls, I defined  "Jan94" to refer to 
+"Basis"!A76.  That's because the basis report will now run from Jan 1994 to 
+Dec 2000.
+
+3)  Change the expression in "PrintMacro"!B45 to use this new cell reference 
+i.e.  change COPY(OFFSET(Jan93,12*IndexYear,Report,12,1)) to 
+COPY(OFFSET(Jan94,12*IndexYear,Report,12,1))
+
+4) Having executed steps 1) - 3) the spreadsheet will now print numbers 
+shifted up by one year.  All that remains to do is to change the dates on the 
+"PrintFormat" page to be one year more.  By that I mean change 1998 to 1999, 
+1999 to 2000, change 98/99 to 99/00, etc.  Don't move any numbers or formulas!
+
+
+That's it.  As we discussed Bhavna, while I am happy to do this for you, it 
+is not in your or my best interest for this to continue.  Please do work to 
+find some one in your shop to maintain this spreadsheet.
+
+
+Regards, and Happy New Year!
+Grant.

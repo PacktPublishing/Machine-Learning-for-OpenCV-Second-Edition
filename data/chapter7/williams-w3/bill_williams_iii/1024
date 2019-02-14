@@ -1,0 +1,50 @@
+Message-ID: <26598507.1075863319625.JavaMail.evans@thyme>
+Date: Wed, 30 May 2001 15:29:37 -0700 (PDT)
+From: diana.scholtes@enron.com
+To: bill.williams@enron.com
+Subject: FW: October 2000 activity
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSCHOLT>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+
+Bill,
+
+Can you please look into these real-time discrepancies that are mentioned below!!!   
+
+Thanks,
+
+Diana
+ -----Original Message-----
+From: 	"WYNDI Workman-Rodriguez" <Wyndi_Workman-Rodriguez@pgn.com>@ENRON [mailto:IMCEANOTES-+22WYNDI+20Workman-Rodriguez+22+20+3CWyndi+5FWorkman-Rodriguez+40pgn+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, May 25, 2001 12:08 PM
+To:	Allen, Thresa A.; Gwen_B_Williams@pgn.com
+Cc:	DScholt@enron.com; Bill_Casey@pgn.com; Shari_Johnson@pgn.com
+Subject:	October 2000 activity
+
+I had sent an e-mail to Diana around 4/24, and since then it looks like some of the discrepancies have been cleared up, but a few still remain.  They are as follows:
+
+10/3 - deal #425449.1 & 425450.1 need adder of $0.25, not $0.10.
+
+10/4 - deal #426611.1 & 426612.1 need adder of $0.25, not $0.10.  ALSO, on our purchase side only, HE 24 was cut 10mw realtime due to DC derate.  This is the only side that was cut.  Notification was at 23:34.
+
+10/5 - EPMI is missing the "cutable" 10mws for HE 11-21 on both sides.  However, HE 8 on our sales side also has 10mw.  Realtime made a straight sale, but it should have been an in and an out.  We paid inadvertent (per Bill Casey, Mgr), and will only show it on our sales side to you.  The "cutable" deal is index + $1.00.
+
+10/7:  "Cutable" deal is missing HE 1 and 9-24 (10mw) from both sides,
+
+10/13:  "Cutable" deal is missing HE 1,2 & 6-23, (10mw) from both sides.
+
+10/14:  HE 7 & 8 (50mw) was cut due to DC derate.  It looks like 25mw was removed from HE 8, but 50mw still needs to be removed from HE 7 & 25mw from HE 8.  In addition, our control area was notified by BPA we were also out with you HE 6 by 50mw.  These changes only need to be made on our purchases from EPMI.  We balance on our sales to EPMI.
+
+10/25 & 26 - cutable deal (listed on daily sheets), HE 2-6 = 2mw, HE 9-22 = 3mw, HE 23 & 24 = 2mw) needs to be priced at $1.00 adder.  It's currently included with deal #441439.2 on 10/25 and deal #441533.1 on 10/26.
+
+The rest of October is good.  I hope to have November discrepancies to you soon.
+
+Wyndi
+(503) 464-7083

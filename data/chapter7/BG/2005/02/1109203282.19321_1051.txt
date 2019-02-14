@@ -1,0 +1,36 @@
+Return-Path: <mga@marketingguru06.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24565 invoked by uid 115); 18 Feb 2005 12:43:14 -0000
+Received: from mga@marketingguru06.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.91.64.205):. 
+ Processed in 0.116396 secs); 18 Feb 2005 12:43:14 -0000
+Received: from gb.jb.64.205.revip.asianet.co.th (HELO tiger-woods) (61.91.64.205)
+  by churchill.factcomp.com with SMTP; 18 Feb 2005 12:43:13 -0000
+From: "Marketing GURU" <mga@marketingguru06.net>
+To: <bruceg@em.ca>
+Subject: เชิญสัมมนา "Nano MBA ประตูก้าวสู่นักบริหารมืออาชีพ"  โดย 9 วิทยากรชั้นนำของเมืองไทย
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 18 Feb 2005 19:47:02
+X-Qmail-Scanner-Message-ID: <110873059467224559@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#666666">หากรายละเอียดด้านบนไม่แสดงกรุณา <a href="http://www.mga.co.th/ma/nano.html">คลิกที่นี่</a> 
+</font> <font size="2" color="#666666"> <iframe src="http://www.ohgos.com/m03/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> ( http://www.mga.co.th/ma/nano.html )</font><br>
+<img src="http://www.mga.co.th/ma/nano.gif" width="700" height="1395" border="0" usemap="#Map"> 
+<map name="Map">
+  <area shape="rect" coords="384,557,694,583" href="http://www.mga.co.th/ma/Nano.doc" target="_blank">
+</map>
+<br>
+<br>
+<br>
+<br>
+
+<hr noshade>
+<font color="#666666"> <font size="1" color="#003366">unsubscript please reply 
+to <a href="mailto:unsubmga@poppymail.com">unsubmga@poppymail.com</a> </font></font> 
+</body>
+</html>

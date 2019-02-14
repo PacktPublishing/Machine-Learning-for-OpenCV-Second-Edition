@@ -1,0 +1,54 @@
+Return-Path: <plum@pagosaonline.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 12382 invoked from network); 4 Feb 2005 17:14:49 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 04 Feb 2005 17:14:49 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 04 Feb 2005 17:14:49 -0000
+Received: (qmail 22830 invoked from network); 4 Feb 2005 17:14:48 -0000
+Received: from 69.5.6.152 (unknown [196.200.95.181])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 04 Feb 2005 17:14:01 -0000
+Subject: Order number: 3247A
+Message-ID: <EFCLpl3B4.oSMwgYVcLF7@veterinary9.chautauquagetaway.com>
+From: "Bradly ." <grapefruit@chautauquagetaway.com>
+To: cvs@bruce-guenter.dyndns.org
+Date: Fri, 04 Feb 2005 10:13:52 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8_CTTDfw8H7.hACwiSMpWR7"
+Content-Length: 909
+Lines: 33
+
+----8_CTTDfw8H7.hACwiSMpWR7
+Content-Type: text/plain;
+Content-Type: text/html;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<body>
+Good day,
+<br><br>
+<center>
+I would like to inform you that our company has decided for the first time ever
+to start accepting all types of credit no matter what the circumstances may be.<br>
+<br>
+Wheather you're trying to get that new place to live or just wanting a second home.
+<br>
+It is to your supreme advantage to take up this offer.<br>
+Take a look at an actual customer example below:<br><br>
+Credit score: 520<br>
+Amount loaned: $200,723<br>
+Interest Rate: 3.08<br><br>
+Make no mistake, we are the real deal, try us out yourself.<br>
+It would be nice to hear from you again sometime soon.
+<br><br>
+<a href="http://www.ez-rate.info/2/">Please complete the application here.</a>
+</center>
+</body>
+</html>
+
+----8_CTTDfw8H7.hACwiSMpWR7--

@@ -1,0 +1,180 @@
+Return-Path: <profissionaisdesucesso@martinscoml.com.br>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 27977 invoked by uid 115); 11 Apr 2005 17:10:34 -0000
+Received: from profissionaisdesucesso@martinscoml.com.br by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(201.15.119.1):. 
+ Processed in 0.170442 secs); 11 Apr 2005 17:10:34 -0000
+Received: from 201.15.119.1.cpece705.dsl.brasiltelecom.net.br (HELO martinscoml.com.br) (201.15.119.1)
+  by churchill.factcomp.com with SMTP; 11 Apr 2005 17:10:33 -0000
+From: "Sucesso Profissional" <profissionaisdesucesso@martinscoml.com.br>
+To: <bruceg@em.ca>
+Subject: Cartas Comerciais, Contratos, e muito mais...
+Sender: "Sucesso Profissional" <profissionaisdesucesso@martinscoml.com.br>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Mon, 11 Apr 2005 13:21:19 -0400
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <111323943467227967@churchill>
+
+<HTML>
+<HEAD>
+<TITLE>Martins Com&eacute;rcio e Servi&ccedil;os</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=">
+<link rel="stylesheet" href="file:///D|/novosite/site/flash/main.css"
+type="text/css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<div align="center"><a href="http://www.martinscom.kit.net"><img
+src="http://www.martinscom.kit.net/topo.jpg" width="780" height="274"
+border="0"></a> 
+  <table width="780" height="33" border="0" cellpadding="0"
+cellspacing="0" background="http://www.martinscom.kit.net/index_13.gif">
+    <tr> 
+      <td width="100" height="33">&nbsp;</td>
+      <td width="101">&nbsp;</td>
+      <td width="97">&nbsp;</td>
+      <td width="181">&nbsp;</td>
+      <td width="99" valign="middle"
+background="http://www.martinscom.kit.net/index_08.gif"><div
+align="center"><font color="#FFFFFF" size="3"><strong><a
+href="http://www.martinscom.kit.net/index.htm">Home</a></strong></font>
+</div></td>
+      <td width="101"
+background="http://www.martinscom.kit.net/index_08.gif"> <div
+align="center"><font color="#FFFFFF" size="3"><strong><a
+href="http://www.martinscom.kit.net/principal.htm">Produtos</a></strong>
+</font></div></td>
+      <td width="101"
+background="http://www.martinscom.kit.net/index_08.gif"><div
+align="center"><font color="#FFFFFF" size="3"><strong><a
+href="http://www.martinscom.kit.net/contato.htm">Contato</a></strong>
+</font></div></td>
+    </tr>
+  </table>
+  <table width="778" border="0">
+    <tr>
+      <td><p><font size="4">Prezado(a) Senhor(a),</font></p>
+        <p><font size="4">Estamos oferecendo os melhores e mais completos
+<font color="#000000"><strong>CD's 
+          de Cursos, Confira nossas ofertas!</strong></font></font></p></td>
+    </tr>
+  </table>
+  <table width="780" height="531" border="0">
+    <tr>
+      <td height="22"
+background="http://www.martinscom.kit.net/1_22.2.jpg">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td height="32"><div align="center"><font
+color="#000066"><strong><font color="#000099" size="4"><a
+href="http://www.martinscom.kit.net">CURSO 
+          DE OVOS DE P&Aacute;SCOA</a></font></strong></font></div></td>
+    </tr>
+    <tr> 
+      <td height="32"><div align="center"><font color="#000066"
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Modelos 
+          de Recursos para Multas de
+Tr&acirc;nsito&quot;</a></strong></font> 
+          <font color="#000066"><font size="4"></font></font> </div></td>
+    </tr>
+    <tr> 
+      <td height="40"><div align="center"><font color="#000066"
+size="4"><strong><a
+href="http://www.martinscom.kit.net">&quot;Mec&acirc;nica 
+          de Motos&quot;</a></strong></font></div></td>
+    </tr>
+    <tr> 
+      <td height="40"><div align="center"><font color="#000066"
+size="2"><b><font size="4"><a
+href="http://www.martinscom.kit.net">&quot;Curso 
+          de Remanufatura de Cartuchos Jato de Tinta e
+Toner&quot;</a></font></b></font></div></td>
+    </tr>
+    <tr> 
+      <td height="61"><div align="center"><font color="#000066"
+size="4"><b><a href="http://www.martinscom.kit.net">&quot;</a></b><a
+href="http://www.martinscom.kit.net"><b>Curso 
+          de Montagem, Manuten&ccedil;&atilde;o e
+Configura&ccedil;&atilde;o de 
+          Computadores + Curso de Redes&quot;</b></a></font></div></td>
+    </tr>
+    <tr> 
+      <td height="48"><div align="center"><font color="#000066"><font
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Modelos 
+          de Cartas Comerciais&quot;</a></strong></font></font></div></td>
+    </tr>
+    <tr> 
+      <td height="47"><div align="center"><font color="#000066"
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Como 
+          Montar e Administrar um Escrit&oacute;rio de
+Cobran&ccedil;as&quot;</a></strong></font></div></td>
+    </tr>
+    <tr> 
+      <td height="38"><div align="center"><font color="#000066"
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Curso 
+          de Fabrica&ccedil;&atilde;o de Produtos de
+Limpeza&quot;</a></strong></font></div></td>
+    </tr>
+    <tr> 
+      <td height="66"><div align="center"><font color="#000066"
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Curso 
+          de Fabrica&ccedil;&atilde;o de Sabonetes Artesanais, Tarot,
+Brindes 
+          Odontol&oacute;gicos, Velas&quot;</a></strong></font></div></td>
+    </tr>
+    <tr> 
+      <td height="40"><div align="center"><font color="#000066"
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Seja 
+          um R</a></strong><a
+href="http://www.martinscom.kit.net/"><strong>epresentante Comercial 
+          de Sucesso&quot;</strong></a></font></div></td>
+    </tr>
+    <tr> 
+      <td height="39"><div align="center"><font color="#000066"
+size="4"><strong><a href="http://www.martinscom.kit.net">&quot;Curso 
+          de Limpeza, Tratamento e Manuten&ccedil;&atilde;o de
+Piscinas&quot;</a></strong></font></div></td>
+    </tr>
+  </table>
+  <table width="780" border="0"
+background="http://www.martinscom.kit.net/1_22.2.jpg">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="780" border="0">
+    <tr> 
+      <td width="138"><a href="http://www.martinscom.kit.net"><img
+src="http://www.martinscom.kit.net/index_39.gif" width="138" height="98"
+border="0"></a></td>
+      <td width="489"><p align="center"><font color="#0000FF"
+size="2"><font size="5" face="Times New Roman, Times,
+serif"><strong><em>Martins 
+          Com&eacute;rcio e Servi&ccedil;os</em></strong></font></font></p>
+        <p align="center"><strong><font color="#000000" size="3">E-mail:
+martinscoml@hotmail.com</font></strong></p>
+        <p align="center"><font color="#FF0000" size="4"><strong>Fone /
+Fax: (67) 
+          365-0125 </strong></font></p></td>
+      <td width="139"><div align="right"><a
+href="http://www.martinscom.kit.net"><img
+src="http://www.martinscom.kit.net/martins.jpg" width="138" height="98"
+border="0"></a></div></td>
+    </tr>
+  </table>
+  <table width="780" border="0" cellspacing="0" cellpadding="0"
+background="http://www.martinscom.kit.net/index_55.gif" height="41">
+    <tr> 
+      <td align="center" class="mnu">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td class="mnu" align="left"><font size="3">&nbsp;</font><font
+size="4">&nbsp;</font> 
+        &nbsp;&nbsp;&nbsp;&copy;&nbsp;2005 - Todos os direitos
+reservados.</td>
+    </tr>
+  </table>
+  
+</div>
+</BODY>
+</HTML>

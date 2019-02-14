@@ -1,0 +1,60 @@
+Message-ID: <13736279.1075840886333.JavaMail.evans@thyme>
+Date: Tue, 8 Jan 2002 08:20:58 -0800 (PST)
+From: harry.arora@enron.com
+To: louise.kitchen@enron.com, w..white@enron.com, jay.webb@enron.com
+Subject: RE: Interest Rates
+Cc: john.lavorato@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.lavorato@enron.com
+X-From: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, White, Stacey W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swhite>, Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwebb>
+X-cc: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JLAVORA>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Following the discussions I have had with Louise and Jay, this is the proposed solution to the interest rate risk management in NEWCO. 
+
+1. For the first few weeks ( to a few months) we continue to use Infinity to update the curves at 2 PM. I will need to have one trader to execute, mark curves and do any deals for foreign exchange (Cd$ etc.). Louise, I hope you have this in your budget and headcount. I will need one junior trader(and maybe two as things grow) to help do this job.  I have lined up one of the guys in the old trading desk, if this goes forward.
+
+2. In the first few weeks, Jay Webb and myself are hoping to acquire a lighter, and much simpler interest rate package which will allow us to do what we do, with significantly lower costs. We also will re-design the way we aggregate interest rate risk in the commodity books, to make it simpler and easier. To ensure there is no more discussion ever of drift-reallocation, I propose a method where, every desk head gets back his complete interest rate portfolio drift every month or quarter (less any transaction expenses ).  I would expect that, the interest rate curve shift will be small till we build a somewhat longer dated portfolio, while the drift could start becoming substantial pretty quickly (as we start making money).
+
+Hope this answers the questions. We will have the curves at the right time, done by the trading group. We will still measure and manage our own exposure to both interest rates and currencies.  We intend to allocate small VAR to that risk management. We would deal primarily with one or two counterparties - the parent bank and a couple of futures brokers to manage the risk.  
+
+Just to be very clear, while I am happy to manage this risk (with extra help), I am primarily  interested in the running of power options and structured products.
+
+
+
+Harry
+
+
+PS - I cant find Jeffrey Gossett in the email system, Stacey can you forward the email to him ( I dont know if he is an Ene employee)
+
+
+
+
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, January 07, 2002 2:25 PM
+To:	Gossett, Jeffrey C.; Arora, Harry; Webb, Jay
+Cc:	Lavorato, John
+Subject:	RE: Interest Rates
+
+Harry/Jay, can you help come to some conclusion on this.
+
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Monday, January 07, 2002 12:49 PM
+To:	Lavorato, John; Kitchen, Louise
+Subject:	Interest Rates
+
+John/Louise -
+
+Given that under the current plan, the bank will be trading our interest rate risk,  I doubt we are taking an interest rate trader to Newco.  In order to get the books run we will need an interest rate curve.  
+
+Should I plan on just getting access to Reuters and setting a curve off of LIBOR on my own?
+
+Jeff

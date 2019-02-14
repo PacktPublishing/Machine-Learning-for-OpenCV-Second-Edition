@@ -1,0 +1,101 @@
+Return-Path: <hgfdkhgffkgg>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 19268 invoked by uid 115); 21 Oct 2004 13:03:23 -0000
+Received: from hgfdkhgffkgg by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(144.136.47.79):. 
+ Processed in 0.428837 secs); 21 Oct 2004 13:03:23 -0000
+Received: from cpe-144-136-47-79.vic.bigpond.net.au (HELO yourwebsite.com) (144.136.47.79)
+  by churchill.factcomp.com with SMTP; 21 Oct 2004 13:03:22 -0000
+Reply-To: liygglhglglglhglh
+From: hgfdkhgffkgg
+To: bruceg@em.ca
+Subject: BLACK JACK HIGH STAKES IS HERE WIN THOUSANDS
+Sender: hgfdkhgffkgg
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 21 Oct 2004 22:59:14 +1000
+X-Qmail-Scanner-Message-ID: <109836380367219262@churchill>
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>WELCOME TO CASINO GAMES ONLINE</title>
+<style>
+<!--
+h4
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold}
+-->
+</style>
+</head>
+
+<body>
+
+</body>
+
+</html>
+<script language="javascript">
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && !ie);
+function FlashObj_DoFSCommand(command,args)
+{	switch(command.toLowerCase())
+{ case "ebinteraction" : window.open("http://www.blackjackballroom.com/referral.asp?aff_id=aff31331"); break;
+  case "ebquit" : if (ie||w3) adDiv.display="none"; else adDiv.visibility ="hide";  break;
+}}
+function HookEvent()
+{	document.write("<scr"+"ipt id=fscommandscript for=FlashObj event=FSCommand(command,args)>");
+document.write("if(document.all)");
+document.write("{");
+document.write("	FlashObj_DoFSCommand(command,args);");
+document.write("	}");
+document.write("	</"+"script>");
+}
+HookEvent();</script>
+<font color="#800000">WELCOME TO CASINO GAMES ONLINE</font><p>
+<font color="#800000">THE TOP ONLINE GAMING SITES THIS MONTH ARE</font></p> <!--Start Blackjack Ballroom Casino Banner Code -->
+<p><a href="http://www.blackjackballroom.com/referral.asp?aff_id=aff31331">
+<img src="bjb_89_250x150_40match_20k.gif" width="250" height="150"></a></p>
+<!--End Blackjack Ballroom Casino Banner Code -->
+                  
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1
+<a href="http://www.blackjackballroom.com/referral.asp?aff_id=aff31331">
+http://www.blackjackballroom.com/referral.asp?aff_id=aff31331</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></p>
+                  
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2
+<a href="http://www.yukongoldcasino.com/referral.asp?aff_id=aff31331">
+http://www.yukongoldcasino.com/referral.asp?aff_id=aff31331</a></font></p>
+                  
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3
+<a href="http://www.goldentigercasino.com/referral.asp?aff_id=aff31331">
+http://www.goldentigercasino.com/referral.asp?aff_id=aff31331</a></font></p>
+                  
+<p>&nbsp;</p>
+<h4><span style="font-family: Verdana; color: #800000">Games</span></h4>
+<p><span style="font-size: 9.0pt; font-family: Verdana; color: #800000">Along 
+with VIPER technology comes a whole host of new and exciting games. The newly 
+released Thunderstruck is a must for all slot enthusiasts as well as MegaSpin 
+Reel Slots, allowing the player to play 4, 6 or 9 games on their screen at once. 
+Blackjack Ballroom have also recently introduced Nickel slots, with bets from as 
+little as 5 cents a go. Of course Blackjack Ballroom is also regarded as one of 
+the top casinos for online blackjack and progressive jackpots.</span></p>
+<h4><span style="font-family: Verdana; color: #800000">Payments / Cashouts / 
+Security</span></h4>
+<p><span style="font-size: 9.0pt; font-family: Verdana; color: #800000">
+Blackjack Ballroom is one of the most recognised casinos online and as such they 
+take their banking and security very seriously. With a 128 bit encryption on all 
+banking transactions, they are able to claim that banking with them online is 
+actually safer than making transactions at your bank. After you initial cashout, 
+it only takes between 2 to 3 working days for money to reach your account and 
+they give you the option of choosing your preferred cashout method.</span></p>
+<!--Start Golden Tiger Casino Banner Code -->
+<p><a href="http://www.goldentigercasino.com/referral.asp?aff_id=aff31331">
+<img src="gt_23460_offer_220404.gif" width="234" height="60"></a></p>
+<!--End Golden Tiger Casino Banner Code -->

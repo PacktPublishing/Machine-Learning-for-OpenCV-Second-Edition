@@ -1,0 +1,43 @@
+Message-ID: <29219576.1075855930452.JavaMail.evans@thyme>
+Date: Thu, 9 Mar 2000 00:14:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com
+Subject: Backtesting Graphs for SemiVariance VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi...
+
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 03/09/2000 08:11 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Samantha T Davidson                           03/08/2000 09:07 PM
+	
+
+To: Ted Murphy/HOU/ECT@ECT, David Port/Corp/Enron@ENRON
+cc: Tanya Tamarchenko/HOU/ECT@ECT, Sheila Glover/HOU/ECT@ECT, William Patrick 
+Lewis/HOU/ECT@ECT, Mike Fowler/Corp/Enron@ENRON 
+Subject: Backtesting Graphs for SemiVariance VaR
+
+
+Per your request, please review the graphs below for comparision of 
+backtesting results between the current VaR model and the same model
+using semivariance.  In conclusion, the proposed VaR tuning (RLPM)
+backtests as well as the current method given the data sample used.
+Gary has requested that this method be approved and adopted 
+as the current method is not reflecting only the directional risk associated
+with his positions.  Upon approval, method can be implemented immediately.
+
+
+In Thousands:
+
+

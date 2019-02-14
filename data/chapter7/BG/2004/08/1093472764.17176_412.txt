@@ -1,0 +1,52 @@
+Return-Path: <CCFOYNKCEW@nuukiemail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29637 invoked by uid 115); 22 Aug 2004 21:16:03 -0000
+Received: from CCFOYNKCEW@nuukiemail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.166.190.165):. 
+ Processed in 2.118395 secs); 22 Aug 2004 21:16:03 -0000
+Received: from unknown (HELO 209.5.178.248) (220.166.190.165)
+  by churchill.factcomp.com with SMTP; 22 Aug 2004 21:16:01 -0000
+X-Message-Info: PCRK+bb/27+br/WT+190/88960140266649
+Received: from smtp-casanova.brice.CCFOYNKCEW@nuukiemail.com ([220.166.190.165]) by tn1-bi96.CCFOYNKCEW@nuukiemail.com with Microsoft SMTPSVC(5.0.7912.9911);
+	 Sat, 16 Aug 2003 23:08:52 +0200
+Received: from urging69.deltoid.CCFOYNKCEW@nuukiemail.com (transmutation22.CCFOYNKCEW@nuukiemail.com [220.166.190.165])
+	by smtp-deprave.centrist.CCFOYNKCEW@nuukiemail.com (Postfix) with SMTP id 6Z00C7RF
+	for <bruceg@em.ca>; Sat, 16 Aug 2003 16:07:52 -0500
+X-Message-Info: LXUID+%ND_LC_CHAR[1-3]5+rcj+UKF+9/7001466878561
+Received: (qmail 12159 invoked by uid 208); Sat, 16 Aug 2003 18:08:52 -0300
+Date: Sun, 17 Aug 2003 00:07:52 +0300
+Message-Id: <8261038347940.15117@CCFOYNKCEW@nuukiemail.com>
+From: Eve Maurer <CCFOYNKCEW@nuukiemail.com>
+To: Bruceg <bruceg@em.ca>
+Subject: Offshore Pharmacy. 
+MIME-Version: 1.0 (produced by actinicstraightaway 4.8)
+Content-Type: multipart/alternative;
+	boundary="--220402514537063"
+
+----220402514537063
+Content-Type: text/html;
+	charset="iso-2957-0"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: away waxwork strop
+
+<p align=3D"center"><font face=3D"Verdana" size=3D"2">Message is loading..=
+</font></p>
+<p align=3D"center"><a href=3D"http://opt4life.biz/">
+<img border=3D"0" src=3D"http://opt4life.biz/1.gif" width=3D"535" height=3D=
+"374"></a></p>
+<div align=3D"center">
+  <br>
+&nbsp;<div align=3D"center">
+    <font face=3D"Verdana" size=3D"2">Image not showing? View message
+    <a href=3D"http://opt4life.biz/">here</a></font></div>
+</div>
+<p><br>
+&nbsp;</p>
+<div align=3D"center">
+  <font face=3D"verdana" size=3D"1">
+  <a href=3D"http://opt4life.biz/abc">Stop</a> future 
+  announcements.</div>
+</font>
+<p align=3D"center">&nbsp;</p>
+
+----220402514537063--

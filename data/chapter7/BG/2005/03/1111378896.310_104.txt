@@ -1,0 +1,112 @@
+Return-Path: <teethe@gmx.net>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 19047 invoked from network); 19 Mar 2005 15:52:44 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 19 Mar 2005 15:52:44 -0000
+Received: (qmail 17648 invoked from network); 19 Mar 2005 15:52:44 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx04.futurequest.net ([69.5.6.175])
+  with QMQP via TCP; 19 Mar 2005 15:52:44 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 19041 invoked from network); 19 Mar 2005 15:52:44 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 19 Mar 2005 15:52:44 -0000
+Received: (qmail 868 invoked from network); 19 Mar 2005 15:52:44 -0000
+Received: from 192.168.0.7 (168-226-232-51.speedy.com.ar [168.226.232.51])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 19 Mar 2005 15:52:28 -0000
+Received: from 157.92.31.199 by quimor.qo.fcen.uba.ar     ; Sat, 19 Mar 2005 21:42:59 +0600
+Message-ID: <8un1deylnv898gsth7bdu8ai@airoldi.com.ar>
+From: "Shawn Harrell" <teethe@gmx.net>
+Reply-To: "Shawn Harrell" <teethe@gmx.net>
+To: webmaster@ezmlm.org
+Subject: Empezaron las clases
+Date: Sat, 19 Mar 2005 10:48:59 -0500
+X-Mailer: PocoMail 2.64 (1120) - Licensed Version
+X-Poco-UID: 38676729
+X-Poco-Status: U
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+boundary="--179747073124291"
+X-Priority: 
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="es">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Encarta 2005</title>
+</head>
+
+<body>
+
+<table border="0" width="500" id="table1">
+  <tr> 
+    <td align="center"><font face="Arial" size="6" color="#0000FF">Enciclopedia 
+      Encarta 2005</font></td>
+  </tr>
+  <tr> 
+    <td align="center" bgcolor="#00FFFF"><font face="Arial">Son <b><font size="4">4</font></b> 
+      CD's a solo <b><font size="4">45 pesos</font></b> (incluye el flete a todo 
+      el pa&iacute;s)</font></td>
+  </tr>
+  <tr> 
+    <td> <ul>
+        <li><font size="2" face="Arial">Mal que nos pese las clases están próximas</font></li>
+        <li><font size="2" face="Arial">Pídala ahora, después hay que comprar 
+          guardapolvos, cuadernos, lápices......</font></li>
+        <li><font size="2" face="Arial">Le va a solucionar la vida, tiene todo 
+          el material que sus hijos necesitan, para este año y los próximos.</font></li>
+        <li><font size="2" face="Arial">Para sus hijos, ahijados, sobrinos, o 
+          nietos</font></li>
+        <li><font size="2" face="Arial">Esto es de primera calidad</font></li>
+        <li><font size="2" face="Arial">Incluye el diccionario de la Real Academia</font></li>
+        <li><font size="2" face="Arial">Incluye Enciclopedia Encarta tradicional.</font></li>
+        <li><font size="2" face="Arial">Incluye Encarta KIDS, para los más pequeños.</font></li>
+        <li><font size="2" face="Arial">Incluye el ATLAS</font></li>
+        <li><font size="2" face="Arial">Son 4 cd's llenos de información, texto, 
+          imágenes, videos, fotos, vistas en 360º, etc.</font></li>
+        <li><font size="2" face="Arial">Esto es para vos para mis amigos lo que 
+          hacía falta lo mejor de primera de calidad buen precio </font></li>
+      </ul></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000"><div align="center"><font color="#FFFFFF" size="7" face="Arial, Helvetica, sans-serif"><strong><a href="http://www.lanzadera.com/encartttt">COMPRAR</a></strong></font></div></td>
+  </tr>
+  <tr> 
+    <td><div align="center">Si no desea recibir mas este tipo de ofertas presione 
+        en el siguiente link: <b><a 
+href="nomasmails@enviarmail.com.ar">remover</a></b> y sera removido de nuestra 
+        base de datos.</div></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+

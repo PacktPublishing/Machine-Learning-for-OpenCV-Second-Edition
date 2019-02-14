@@ -1,0 +1,48 @@
+Message-ID: <12056340.1075855929901.JavaMail.evans@thyme>
+Date: Fri, 21 Jan 2000 02:08:00 -0800 (PST)
+From: inja.chun@enron.com
+To: sally.beck@enron.com
+Subject: Unify use of TIBCO in Production
+Cc: robert.superty@enron.com, brent.price@enron.com, susan.harrison@enron.com, 
+	lisa.csikos@enron.com, bryce.baxter@enron.com, 
+	sheri.thomas@enron.com, george.smith@enron.com, 
+	stephen.schwarz@enron.com, richard.burchfield@enron.com, 
+	philippe.bibi@enron.com, mark.pickering@enron.com, 
+	beth.perlman@enron.com, jay.webb@enron.com, dave.nommensen@enron.com, 
+	arshak.sarkissian@enron.com, christine.nguyen@enron.com, 
+	paul.poellinger@enron.com, stephen.bennett@enron.com, 
+	larry.scott@enron.com, john.tollefsen@enron.com, 
+	scott.shields@enron.com, dave.mcmullan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, brent.price@enron.com, susan.harrison@enron.com, 
+	lisa.csikos@enron.com, bryce.baxter@enron.com, 
+	sheri.thomas@enron.com, george.smith@enron.com, 
+	stephen.schwarz@enron.com, richard.burchfield@enron.com, 
+	philippe.bibi@enron.com, mark.pickering@enron.com, 
+	beth.perlman@enron.com, jay.webb@enron.com, dave.nommensen@enron.com, 
+	arshak.sarkissian@enron.com, christine.nguyen@enron.com, 
+	paul.poellinger@enron.com, stephen.bennett@enron.com, 
+	larry.scott@enron.com, john.tollefsen@enron.com, 
+	scott.shields@enron.com, dave.mcmullan@enron.com
+X-From: Inja Chun
+X-To: Sally Beck
+X-cc: Robert Superty, Brent A Price, Susan Harrison, Lisa Csikos, Bryce Baxter, Sheri Thomas, George Smith, Stephen P Schwarz, Richard Burchfield, Philippe A Bibi, Mark Pickering, Beth Perlman, Jay Webb, Dave Nommensen, Arshak Sarkissian, Christine Nguyen, Paul F Poellinger, Stephen W Bennett, Larry Scott, John P Tollefsen, Scott M Shields, Dave McMullan
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+As you know, we have been working to find new ways to improve Unify Logistics 
+functions.  A major step has now been achieved by installing TIBCO and moving 
+it into production today.  
+
+ Utilizing TIBCO in conjunction with our other enhancements will enable 
+Logistics to obtain real time updates from both EOL and Sitara without having 
+to re-retrieve them from the database.  This will automatically update 
+Scheduler screens with new deals as it comes without action on their part and 
+also reduce required database access.  This has been achieved through great 
+team work between many groups including Logistics Schedulers, Unify IT 
+Logistics & ADE, UNIX and Network people.    Please let me know if you want 
+to know more details.   Thank you.

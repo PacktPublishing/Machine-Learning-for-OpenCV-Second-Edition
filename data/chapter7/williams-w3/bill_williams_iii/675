@@ -1,0 +1,64 @@
+Message-ID: <2119819.1075863311181.JavaMail.evans@thyme>
+Date: Thu, 12 Jul 2001 11:59:01 -0700 (PDT)
+From: samantha.law@enron.com
+To: h..foster@enron.com, lester.rawson@enron.com, kate.symes@enron.com, 
+	bill.williams@enron.com
+Subject: FW: Annuities for Desk Analysis in ST-WServ book
+Cc: john.postlethwaite@enron.com, fran.chang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.postlethwaite@enron.com, fran.chang@enron.com
+X-From: Law, Samantha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SLAW>
+X-To: Foster, Chris H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfoster>, Rawson, Lester </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrawson>, Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksymes>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: Postlethwaite, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpostle>, Chang, Fran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fchang>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Dear all,
+
+Regarding the email I sent below, for deal #442038 and #442872, they were originally entered in Oct, 2000 for ST-Whourly book to receive annuity amount of $53,518.94 from Saguaro and $172,518.16 from Las Vegas Cogen respectively. However, they were supposed to be for ST-Wserv to receive those money because at that time, ST-WServ book was not set up yet. These amounts had already gone through to ST-Whouly book in 11/30/00 P&L as PMA. In Jun 2001, the deals were changed to ST-WServ book but they were not actually picked up by settlement and Risk (as the deals have already liquidated, i.e., strip dates are passed). In order to reflect the change in desk, we need to put in two annuities today:
+
+#683673 - St-Wserv sell to St-Whourly for $53,518.94
+
+#683684 - St-Wserv sell to St-Whourly for $172,518.16
+
+These amounts will be showing up in 7/12 P&L as New Deals for a total of $226,037.10 (inflow to St-WServ and outflow to St-Whourly).
+
+Please let me know if you have any questions.
+
+Samantha
+
+ -----Original Message-----
+From: 	Law, Samantha  
+Sent:	Thursday, July 12, 2001 11:17 AM
+To:	Hyde, Godfrey
+Cc:	Postlethwaite, John; Chang, Fran; Rawson, Lester; Foster, Chris H.; Clemons, Amy; Confer, Mark
+Subject:	RE: Annuities for Desk Analysis in ST-WServ book
+
+[I have sent out this email earlier but I needed to revise it so I recalled it. For those of you who received the earlier version, please just discard it.]
+
+Hi Godfrey,
+
+I would like to summarize our discussion on those deals we have had questions about (as described in the previous emails), in terms of when and how they will be come through or corrected in the coming future. Please review and let me know if they are not correct:
+
+1. #442038 - the change in the annuity amount of $4,706.28 (from $53,518.94 to $48,812.66) will be coming through in June desk analysis (= PMA at the end of July) as an outflow to ST-WServ book. 
+Chris and Les - I will put in a new annuity deal for the amount of $53,518.94 for St-WServ book sell to St-Whourly to reflect the change in desk (from St-Whourly to St-WServ) of the deal; the desk change made on 4/17 was not picked up by settlement as they were not informed. With the adjustment, the net effect of $48,812.66 will be given back to WServ.
+
+2. #584331 - it will come through in June desk analysis
+
+3. #600480 & #595779 - since these are interdesk deals, we will take care of it by entering two new annuity deals today (#680210 & #680220). They were not picked up by settlement as PMA when they were entered on 5/2 & 4/29 because they were interdesk deals.
+
+4. #598971(leg 1-5) - they will show up in July desk analysis (= PMA at the end of August)
+
+5. #442872 - the change in the annuity amount of $126,542.87 (from $172,518.16 to $45,975.29) will be coming through in Jun desk analysis as an outflow to ST-WServ book.
+Again, the change in desk (from St-Whouly to St-WServ) will then be reflected by a new annutiy deal for $172,518.16 with ST-WServ sell to ST-Whouly.
+
+6. #666350 & #666351 - they will show up in June desk analysis (= PMA at the end of July)
+
+Please feel free to correct or add anything to the above information.
+
+Thanks,
+Samantha
+503.464.7248

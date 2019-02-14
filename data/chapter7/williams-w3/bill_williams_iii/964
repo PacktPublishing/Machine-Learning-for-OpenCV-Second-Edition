@@ -1,0 +1,131 @@
+Message-ID: <18999519.1075863318213.JavaMail.evans@thyme>
+Date: Tue, 12 Jun 2001 13:09:33 -0700 (PDT)
+From: mons.ellingson@pinnaclewest.com
+To: robert'.'harshbarger@enron.com, demetrios.fotiou@enron.com, 
+	lisa.grow@enron.com, susan.holden-baker@enron.com, 
+	chris.smith@enron.com, carmine.tilghman@enron.com, 
+	john.underwood@enron.com, bill.williams@enron.com
+Subject: FW: Possible new E-tag time table
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Ellingson, Mons M(Z34655)" <Mons.Ellingson@pinnaclewest.com>@ENRON <IMCEANOTES-+22Ellingson+2C+20Mons+20M+28Z34655+29+22+20+3CMons+2EEllingson+40pinnaclewest+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, 'DEMPSEY@wapa.gov'
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+I agree with Jerry's proposal.  However, I would like to add one more
+thing...
+Change the "PSE Submit Deadline" for a real-time tag to 20 minutes (instead
+of 30 min).  We are insinuating that already, when we say the "Provider
+Assessment Time" is less-than or equal to 10 minutes and the "Time to Start
+of Transaction" is greater than or equal to 20 minutes.
+Anyone wishing to discuss this further, call Mons at 602-618-9798.
+
+
+
+Thanks!
+Mons Ellingson
+Pinnacle West
+
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Monday, June 11, 2001 3:52 PM
+To: Ellingson, Mons M(Z34655); Fotiou, Demetrios; Grow, Lisa;
+Holden-Baker, Susan; Smith, Chris; Tilghman, Carmine; Underwood, John;
+Williams, Bill
+Cc: Hackney, Mark W(Z39911)
+Subject: FW: Possible new E-tag time table
+
+
+Jerry Dempsey has sent the attached regarding the preschedule flag in E-Tag.
+
+What he is proposing is:
+*	a revision to the timeline tables in A3A to enable software to make
+the determination of whether or not a tag is for preschedule or real-time
+(currently it is a flag set by the PSE creating the tag).
+*	Referencing time in terms of the Load Control Area's prevailing time
+(this fits the Authority Service is associated with the load control area
+and it's the Authority Service that keeps the time).
+
+It may be possible to get this revision worked in to the 1.7 release.
+
+Process
+Please review his proposal and comment.
+Specifically, do you support the concept of removing the flag and using the
+timing table logic?
+Do you support adjusting times to reference the Load Control Area prevailing
+time?
+
+If we reach a consensus on this issue by the end of the week, we can forward
+on a recommendation to Mark for distribution to the whole ISAS.  If there is
+support from all of ISAS, then it can be taken to NERC IS/TISWG for
+approval.
+
+Please let me know by the end of business June 15, 2001.
+
+Bob Harshbarger
+425.882.4643
+> ----------
+> From: 	JERRY DEMPSEY[SMTP:DEMPSEY@wapa.gov]
+> Sent: 	Sunday, June 03, 2001 10:42 AM
+> To: 	bharsh@puget.com
+> Cc: 	Mark.Hackney@aps.com
+> Subject: 	Possible new E-tag time table
+>
+>  <<tag time table draft june 01.doc>>
+> Bob,
+>
+> Mark Hackney suggested I start with you on this issue since you were
+> heading up the timing group for ISAS.
+>
+> Here is the issue - under the current WSCC timing table for tags in Policy
+> 3, it is impossible to program whether or not the tag is preschedule or
+> real-time.  The NERC tagging group is the group that came up with manually
+> selecting the preschedule "flag".  I know that PPW, BPA and ourselves have
+> run into a couple of problems with this.  It's been when the merchant has
+> selected that flag when it was actually a real-time transaction.  PPW and
+> ourselves put it in our scheduling system, BPA (and someone else) did not.
+>
+>
+> At the NERC OSC meeting last week, I asked the question again about how
+> can this be fixed in version 1.7.  I was hoping it was as easy as having
+> each authority register their timezone in the new Master registry that's
+> being developed.  Well - it wasn't that easy.  They explained the other
+> problems and I then developed the attached time table.  The group reviewed
+> this time table and agreed that it could be automated to determine if a
+> tag was preschedule or realtime.
+>
+> In order to get this programmed into version 1.7, we need to get Policy 3
+> revised with the new time table.  In order to get the new time table
+> approved, it probably starts with your subgroup, then probably goes to
+> Hackney for an e-mail vote to ISAS, then probably on to WSCC OC, then
+> finally to NERC.  Problem is we need to do this quickly, by the end of
+> June if possible, so that the new Policy 3 will be out in time for 1.7
+> release in October.
+>
+> Now - there's nothing that says this has to happen either.  Another option
+> is to just leave it as it is today.  I'd prefer to automate it, but that's
+> only my opinion.
+>
+> At any rate - the NERC OSC has agreed to include timezone in the new NERC
+> Master registry.  They have also agreed to incorporate this change into
+> 1.7 if it's part of Policy 3.  That's were we stand right now.
+>
+> As for your subgroup - I don't think I'm on your list, but go ahead and
+> add me on if you don't mind.
+>
+> Call or e-mail if you have any questions.
+>
+> Thanks - Jerry
+> dempsey@wapa.gov
+> (970)461-7299
+>
+>
+
+
+ - Jerry's Proposal.doc 
+ - Mons' Proposal.doc 

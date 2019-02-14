@@ -1,0 +1,82 @@
+Received: from dns.berrybros.net (63.254.40.76)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:17 -0000
+Received: by dns.berrybros.net (Postfix)
+	id 72A04132427; Mon, 18 Jul 2005 15:14:25 -0500 (CDT)
+Date: Mon, 18 Jul 2005 15:14:25 -0500 (CDT)
+From: MAILER-DAEMON@dns.berrybros.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="E47681323A4.1121717665/dns.berrybros.net"
+Message-Id: <20050718201425.72A04132427@dns.berrybros.net>
+
+This is a MIME-encapsulated message.
+
+--E47681323A4.1121717665/dns.berrybros.net
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host dns.berrybros.net.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Postfix program
+
+<distinguishingchanters@f-t-i.com>: host mail.berrybros.net[63.231.182.59]
+    said: 550 User distinguishingchanters@f-t-i.com not found.
+
+--E47681323A4.1121717665/dns.berrybros.net
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; dns.berrybros.net
+Arrival-Date: Mon, 18 Jul 2005 15:13:52 -0500 (CDT)
+
+Final-Recipient: rfc822; distinguishingchanters@f-t-i.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host mail.berrybros.net[63.231.182.59] said: 550
+    User distinguishingchanters@f-t-i.com not found.
+
+--E47681323A4.1121717665/dns.berrybros.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com (p3161-ip01hirade.tochigi.ocn.ne.jp [61.207.133.161])
+	by dns.berrybros.net (Postfix) with SMTP id E47681323A4
+	for <distinguishingchanters@f-t-i.com>; Mon, 18 Jul 2005 15:13:52 -0500 (CDT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190634;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinguishingchanters@f-t-i.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716384">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--E47681323A4.1121717665/dns.berrybros.net--

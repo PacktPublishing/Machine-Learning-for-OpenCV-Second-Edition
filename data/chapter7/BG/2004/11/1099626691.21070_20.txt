@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-birdcall@em.ca
+Received: (qmail 28777 invoked by uid 115); 5 Nov 2004 08:19:50 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.193.216.186):. 
+ Processed in 0.361203 secs); 05 Nov 2004 08:19:50 -0000
+Received: from unknown (HELO yahoo.co.uk) (81.193.216.186)
+  by churchill.factcomp.com with SMTP; 5 Nov 2004 08:19:44 -0000
+Date: Fri, 05 Nov 2004 02:07:17 +0000 (Hora padrão de GMT)
+From: FEMALE djs <femaledjs@yahoo.co.uk>
+To: bait-birdcall@em.ca
+Message-ID: 38296.088391203702_33008149884524
+Subject: Queen Nakadia...      booking now NEW YEARS EVE (europe only)
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Queen Nakadia - New Years Eve - DJ Booking</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0066CC" vlink="#0066CC" alink="#0066CC">
+<table width="450"  border="0" align="center" cellpadding="5" cellspacing="0">
+  <tr>
+    <td valign="bottom"><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><font size="3">Open date:<strong><br>
+    </strong></font><strong><em>NEW YEARS EVE</em> </strong>booking now only Europe<strong><em><br>
+    2004</em> </strong>Full</font></p></td>
+  </tr>
+  <tr>
+    <td><img src="http://vidric.com/work/hs/queen/queen2.jpg" alt="Queen Nakadia" width="450" height="314" border="0"></td>
+  </tr>
+  <tr>
+    <td><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="3">Music and Looks </font></strong><br>
+    From VIP parties at film festivals to huge club venues, Queen Nakadia manages to put out the right tunes and impresses with her perfect mixing skills and her lovely appearance.<br>
+    <br>
+    With performances at over 100 locations in 17 countries in the year 2004 alone, Nakadia could easily be seen as the world's most successful newcomer DJ.</font></p>
+      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Book her now for <strong>your</strong> NYE Party!</font></p>
+      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+            <strong>Booking contact:</strong><br>
+            <a href="mailto:femaledjs@yahoo.co.uk">femaledjs@yahoo.co.uk</a></font></p></td>
+  </tr>
+</table>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

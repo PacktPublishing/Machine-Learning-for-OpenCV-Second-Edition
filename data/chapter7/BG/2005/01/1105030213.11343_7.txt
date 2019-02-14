@@ -1,0 +1,58 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S262753AbVAFGnN@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 530 invoked from network); 6 Jan 2005 06:45:38 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 06 Jan 2005 06:45:38 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 06 Jan 2005 06:45:38 -0000
+Received: (qmail 14292 invoked from network); 6 Jan 2005 06:45:37 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 06 Jan 2005 06:45:37 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S262753AbVAFGnN (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Thu, 6 Jan 2005 01:43:13 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S262752AbVAFGnN
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Thu, 6 Jan 2005 01:43:13 -0500
+Received: from 66-108-251-183.nyc.rr.com ([66.108.251.183]:45326 "HELO
+	66-108-251-183.nyc.rr.com") by vger.kernel.org with SMTP
+	id S262748AbVAFGnG (ORCPT <rfc822;linux-kernel@vger.kernel.org>);
+	Thu, 6 Jan 2005 01:43:06 -0500
+Received: from herndon.mgw.rr.com by 66-108-251-183.nyc.rr.com [66.108.251.183]
+	with HTTP;
+	Wed, 05 Jan 2005 23:25:27 -0600
+Received: from 129.20.210.39 by 66-108-251-183.nyc.rr.com [66.108.251.183] with ESMTP id cmyrvdyxk; Wed, 05 Jan 2005 23:24:36 -0600
+Received: (qmail 59058 invoked by uid 752); Wed, 05 Jan 2005 23:24:05 -0600
+Message-ID: <000301c4f3b0$215b6d10$76178194@FPKAKGSJ>
+Subject: Re: Good God!' Riukhin thought
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-11";
+Mzgjomypql: 199855642
+To:	Mindy Linux-net <linux-net@vger.kernel.org>
+Content-Transfer-Encoding: 7bit
+Date:	Wed, 05 Jan 2005 23:24:35 -0600
+From:	"Silver" <adcdjef@rr.com>
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+Good day:
+
+Mr. Costello just called from the bank and told me that they can
+decrease your   m o rtg age   payment by 2%. It will take no 
+p a perwork, so just go here and we will take care of the rest.
+http://www.zrwkd.com/
+
+Thank you
+
+Silver
+US Department
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

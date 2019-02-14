@@ -1,0 +1,53 @@
+Return-Path: <i.hardingyk@wxs.nl>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 22331 invoked from network); 17 May 2005 19:27:40 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 17 May 2005 19:27:40 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 May 2005 19:27:40 -0000
+Received: (qmail 25162 invoked from network); 17 May 2005 19:27:39 -0000
+Received: from att.net (unknown [212.182.189.133])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 17 May 2005 19:27:38 -0000
+Message-ID: <059901c55b15$c2d0728c$83809f20@w5b1fqa>
+From: "Ignacio Harding" <i.hardingyk@wxs.nl>
+MIME-Version: 1.0
+To: cvs@bruce-guenter.dyndns.org
+Date: Tue, 17 May 2005 19:24:08 +0000
+Subject: Amazing Funding with options.
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+Content-Length: 445
+Lines: 31
+
+Dear Homeowner,
+
+You have been pre-approved for a $402,000 Home Loan at EXTREMELY low Fixed Rate.
+
+This offer is being extended to you unconditionally and your credit is in no way a factor.
+
+
+To take Advantage of this Limited Time opportunity all
+
+we ask is that you visit our Website and complete
+
+the 1 minute post Approval Form.
+
+http://wreadmeny.com/special/
+
+
+Best Regards,
+
+Alexander Reeves
+Regional CEO
+
+
+
+
+
+
+
+
+http://wreadmeny.com/no/

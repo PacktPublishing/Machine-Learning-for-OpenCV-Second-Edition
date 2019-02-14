@@ -1,0 +1,48 @@
+Delivered-To: em-ca-bait-precedes@em.ca
+Received: (qmail 19712 invoked by uid 115); 19 Jul 2005 21:32:04 -0000
+Received: from sweetendavidson@bsh.com.au by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(84.95.104.181):. 
+ Processed in 1.473383 secs); 19 Jul 2005 21:32:04 -0000
+Received: from 84.95.104.181.cable.012.net.il (84.95.104.181)
+  by churchill.factcomp.com with SMTP; 19 Jul 2005 21:32:01 -0000
+Received: from convolution.aem1.com (convolution.aem1.com)
+	by convolution.aem1.com (convolution.aem1.com) with ESMTP
+	id KRE23455; Tue, 19 Jul 2005 19:19:50 -0300
+Date: Tue, 19 Jul 2005 21:26:50 -0100
+From: "Marc Darling" <sweetendavidson@bsh.com.au>
+To: bait-portrays@em.ca
+Message-Id: <tektite27600.hangover@taylor.932.fatty.EDU>
+Subject:  Eugenia Cole Wed, 20 Jul 2005 04:25:50 +06007
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0"
+
+----0
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+<body>
+<p>Hello</p>
+
+<p>Here is the the link to the Website we talked about last week, we saved a lot
+on our Meds.</p>
+
+<p>Please have a look<br>
+<br>
+<a href="http://whxwj.val10.com/pharmacy/92771/exkfm.com">Press Here</a><br>
+<br>
+Thank you<br>
+Marc Darling</p>
+
+</body>
+
+</html>
+
+----0--
+

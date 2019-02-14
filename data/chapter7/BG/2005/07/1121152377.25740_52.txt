@@ -1,0 +1,69 @@
+Return-Path: <test@yahoo.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 21895 invoked by uid 115); 12 Jul 2005 03:17:36 -0000
+Received: from test@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(218.17.197.71):. 
+ Processed in 0.121661 secs); 12 Jul 2005 03:17:36 -0000
+Received: from unknown (HELO yrg-392fc31f61b) (218.17.197.71)
+  by churchill.factcomp.com with SMTP; 12 Jul 2005 03:17:35 -0000
+From: test@yahoo.com
+Subject: =?GB2312?B?zKnWrtH01dDJzA==?=
+To: bruceg@em.ca
+Content-Type: text/plain;
+	charset="US-ASCII"
+Reply-To: test@yahoo.com
+Date: Tue, 12 Jul 2005 11:18:25 +0800
+X-Priority: 3
+X-Qmail-Scanner-Message-ID: <112113825667221887@churchill>
+
+尊敬的先生/小姐：
+
+上海泰之阳视讯科技有限公司成功研发、生产自主品牌威发(walkover)
+
+嵌入式数字硬盘录像机（TYD-2000）、网络视频服务器(TYS-2000)等系列产品。
+
+现于2005年07月30日在上海召开威发系列产品展示会 欢迎各界朋友尉临！
+
+此次会议目的在于推荐我公司DVR/DVS等系列产品并诚招全国各级代理商，会期
+
+两天、食宿由我司承担（交通费自理）。有意者请传真如下资料到我司：
+
+企业名称，营业执照副本，参会人员姓名、职务（限1人）。 
+
+传真：0755－27528752 　联系人：杨先生
+ 
+ 
+基本产品：４／８／１２／１６路嵌入式硬盘录像机，４路网络视频服务器
+      
+基本参数：
+
+16 路视频信号输入 	? 16 路音频信号输入 	? 16 路视频环路输出 
+
+? 1 路视频信号输出 	? 4 路音频信号输出 	? 1 路视频信号输出 
+
+?一个 USB2.0 接口 	?一个 RS232 接口 	?一个标准以太网接口 
+
+? 16 路报警信号输入口 	? 4 路报警信号输出口 	  支持8块大容量硬盘
+
+? 一路线路音频输入输出 ( 用于语音对讲 ) 
+
+?二个 RS485 接口（一个用于云台控制，一个用于小键盘控制） ，H.264压缩格式、
+
+监视、录象、回放全实时、具有双向语音对讲、环路输出、IE浏览，动态IP、超级终端、
+
+报警输入输出、网络功能、VGA显示、高速USB2.0备份、远程升级等功能。
+
+
+详情请登陆我公司网站：www.taivision.com
+
+或致电：
+   
+泰之阳视讯科技（深圳）有限公司
+	
+地址：深圳市宝安龙华横岭四区15栋303
+	
+电话：0755-27527852　　27528752   	传真：0755-27528752
+
+联系人：杨先生        电话：13322998445	　　　E-MAIL：yang_ronggui@yahoo.com.cn
+
+邮编：518000          工作QQ:59498632   　　　HTTP//：www.taivision.com

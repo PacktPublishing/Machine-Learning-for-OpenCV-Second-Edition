@@ -1,0 +1,54 @@
+Return-Path: <ubnii@mailpride.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 6836 invoked from network); 2 May 2005 02:39:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 02 May 2005 02:39:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2005 02:39:08 -0000
+Received: (qmail 26408 invoked from network); 2 May 2005 02:39:07 -0000
+Received: from FILE-SERVER (unknown [211.254.130.109])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 02 May 2005 02:39:06 -0000
+Message-ID: <t7695f25WB2J399U93ZN24FSZ93447185U789906@211.254.130.109>
+Location: 746 circuitous binary
+Reply-To: "Lela Miner" <ubnii@mailpride.com>
+From: "Lela Miner" <ubnii@mailpride.com>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Application approval #024
+Date: Mon, 02 May 2005 07:35:02 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--83361988881434728"
+Content-Length: 571
+Lines: 27
+
+----83361988881434728
+Content-Type: text/plain;
+	charset="iso-3074-6"
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.goodwayz.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Young Nixon
+
+http://www.goodwayz.com/x/st.html
+
+
+
+----83361988881434728--

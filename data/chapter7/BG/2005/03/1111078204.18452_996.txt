@@ -1,0 +1,131 @@
+Return-Path: <info@lems.ca>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 11444 invoked by uid 115); 17 Mar 2005 16:42:14 -0000
+Received: from info@lems.ca by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(209.161.202.236):. 
+ Processed in 0.167634 secs); 17 Mar 2005 16:42:14 -0000
+Received: from unknown (HELO equipemicrosolutions.com) (209.161.202.236)
+  by churchill.factcomp.com with SMTP; 17 Mar 2005 16:42:13 -0000
+Received: from rene@equipemicrosolutions.com (unverified [209.161.202.236]) 
+	by equipemicrosolutions.com (SurgeMail 2.1c7) with ESMTP id 175591 
+	for multiple; Thu, 17 Mar 2005 10:55:38 -0500
+Return-Path: <info@lems.ca>
+Message-ID: <4169-220053417155742453@rene@equipemicrosolutions.com>
+To: "mailling 01" <info@equipemicrosolutions.com>
+From: "Equipe Micro Solutions" <info@lems.ca>
+Subject: Information sur la Promo du Vendredi Saint
+Date: Thu, 17 Mar 2005 10:57:42 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+X-Server: High Performance Mail Server - http://surgemail.com
+Content-Length: 4801
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Merci de nous visiter
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Annonce</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;">
+<link href=3D"http://www=2Eequipemicrosolutions=2Ecom/mail/fonts=2Ecss" re=
+l=3D"stylesheet" type=3D"text/css">
+<style type=3D"text/css">
+<!--
+=2EStyle1 {color: #FF0000}
+=2EStyle2 {color: #000000}
+-->
+</style>
+</head>
+<body bgcolor=3D"#ffffff">
+<table width=3D"100%"  border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><table width=3D"81%" border=3D"0" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0">
+      <tr>
+        <td width=3D"36%"><a href=3D"http://www=2Eequipemicrosolutions=2Ec=
+om"><img name=3D"EMSmail_r1_c1" src=3D"http://www=2Eequipemicrosolutions=2E=
+com/mail/emailEMS/EMSmail_r1_c1=2Ejpg" width=3D"294" height=3D"106" border=
+=3D"0" alt=3D""></a></td>
+        <td width=3D"28%"><a href=3D"http://www=2Eequipemicrosolutions=2Ec=
+om"><img name=3D"EMSmail_r1_c3" src=3D"http://www=2Eequipemicrosolutions=2E=
+com/mail/emailEMS/EMSmail_r1_c3=2Ejpg" width=3D"229" height=3D"106" border=
+=3D"0" alt=3D""></a></td>
+        <td width=3D"80%" background=3D"http://www=2Eequipemicrosolutions=2E=
+com/mail/emailEMS/EMSmail_r1_c4=2Ejpg">&nbsp;</td>
+      </tr>
+    </table>
+      <table width=3D"81%" border=3D"0" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0">
+        <tr>
+          <td width=3D"5%" valign=3D"top"><img src=3D"http://www=2Eequipem=
+icrosolutions=2Ecom/mail/emailEMS/EMSmail_r2_c1=2Ejpg" alt=3D"" name=3D"EM=
+Smail_r2_c1" width=3D"39" height=3D"93" border=3D"0"></td>
+          <td width=3D"95%" align=3D"right"><blockquote>
+            <p align=3D"justify">&nbsp;</p>
+            <p align=3D"justify"><strong>Visitez notre nouveau site web en=
+ cliquant sur la banniere !!</strong></p>
+            <p align=3D"justify"><strong>Journ&eacute;e LIQUIDATION le Ven=
+dredi <span class=3D"Style1">25</span> mars 2005 ( Vendredi Saint ) </stro=
+ng></p>
+            <p align=3D"justify"><strong>Chacun d entre vous se m&eacute;r=
+itera <span class=3D"Style1">10 x CD-R 80 min</span> avec pochette</strong=
+></p>
+            <p align=3D"justify"><a href=3D"http://www=2Eequipemicrosoluti=
+ons=2Ecom/debutant/2005-pic/annonce10CDR=2Ejpg"><img src=3D"http://www=2Ee=
+quipemicrosolutions=2Ecom/debutant/2005-pic/annonce10CDR=2Ejpg" width=3D"4=
+00" height=3D"400" border=3D"0"></a></p>
+            <p align=3D"justify"><strong>Si vous franchissez la porte du m=
+agasin le <span class=3D"Style1">25 mars <span class=3D"Style2">2005</span=
+></span></strong></p>
+            <p align=3D"justify"><strong><span class=3D"Style1">1</span> e=
+r =3D <span class=3D"Style1">500$ <span class=3D"Style2">CASH</span></span=
+></strong></p>
+            <p align=3D"justify"><strong>2 ieme =3D <span class=3D"Style1"=
+>300$ <span class=3D"Style2">CASH</span></span></strong></p>
+            <p align=3D"justify"><strong>3 iem =3D <span class=3D"Style1">=
+200$ <span class=3D"Style2">CASH</span></span> </strong></p>
+            <p align=3D"justify">( exemple : si un couple entre ensemble p=
+remier et deuxieme ils recevront 800$ cash + 20 cds-r ) </p>
+            <p align=3D"justify" class=3D"Style1"><strong>Ouverture des Po=
+rtes a <span class=3D"Style2">10H00</span> AM </strong></p>
+            <p align=3D"justify"><strong>Liquidation annuelle de <span cla=
+ss=3D"Style1">10%</span> a <span class=3D"Style1">50%</span> de rabais</st=
+rong></p>
+            <p align=3D"justify"><strong>Liste disponible le 23 Mars 10 AM=
+</strong></p>
+            <p align=3D"justify"><strong><a href=3D"http://www=2Eequipemic=
+rosolutions=2Ecom/promo=2Epdf">www=2Eequipemicrosolutions=2Ecom/promo=2Epd=
+f</a></strong></p>
+            <p align=3D"justify"><strong>***   Concours du mois ( 350$ en =
+bon d achat ) ***</strong></p>
+            <p align=3D"justify"><strong><a href=3D"http://www=2Eequipemic=
+rosolutions=2Ecom">http://www=2Eequipemicrosolutions=2Ecom</a></strong></p=
+>
+            <p align=3D"justify"><strong>Merci de nous visiter </strong></=
+p>
+            <p align=3D"justify">&nbsp;</p>
+            <p align=3D"center"><img src=3D"http://www=2Eequipemicrosoluti=
+ons=2Ecom/mail/emailEMS/slogan=2Ejpg" width=3D"500" height=3D"50"></p>
+            <p align=3D"center">&nbsp;</p>
+            <p align=3D"center">&nbsp;</p>
+            <p align=3D"center">&nbsp;</p>
+            <p align=3D"center">&nbsp;</p>
+            <p align=3D"center">&nbsp;</p>
+          </blockquote></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_84815C5ABAF209EF376268C8--

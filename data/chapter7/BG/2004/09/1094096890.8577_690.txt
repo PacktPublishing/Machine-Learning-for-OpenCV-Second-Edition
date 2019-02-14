@@ -1,0 +1,90 @@
+Return-Path: <kandemir@cemrelojistik.com.tr>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 14786 invoked from network); 02 Sep 2004 03:44:02 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Sep 2004 03:44:02 -0000
+Received: (qmail 10029 invoked from network); 2 Sep 2004 03:44:02 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx05.futurequest.net ([69.5.6.176])
+  with QMQP via TCP; 02 Sep 2004 03:44:02 -0000
+Delivered-To: er@ezmlm.org
+Received: (fqmail 14719 invoked from network); 02 Sep 2004 03:44:01 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Sep 2004 03:44:01 -0000
+Received: (qmail 18772 invoked from network); 2 Sep 2004 03:44:01 -0000
+Received: from hostm ([212.45.75.85])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 02 Sep 2004 03:44:01 -0000
+Received: from mail pickup service by hostm with Microsoft SMTPSVC;
+	 Thu, 2 Sep 2004 06:43:51 +0300
+thread-index: AcSPvFsvzbMgVcJUR7CeanwNZA5CWA==
+Thread-Topic: Web Market
+From: "Cemre Lojistik" <kandemir@cemrelojistik.com.tr>
+To: <er@ezmlm.org>
+Subject: Web Market
+Date: Wed, 1 Sep 2004 03:41:01 +0300
+Message-ID: <00d201c48fbc$5b2f8100$554b2dd4@hostm>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00D3_01C48FD5.807CB900"
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+X-OriginalArrivalTime: 02 Sep 2004 03:43:51.0078 (UTC) FILETIME=[0FB29C60:01C4909F]
+Content-Length: 2329
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00D3_01C48FD5.807CB900
+Content-Type: text/plain;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: quoted-printable
+
+Say=FDn Kamu Kurum ve Kurulu=FElar=FD , =D6zel Sekt=F6r ve Belediye =
+Yetkilileri ;
+
+    Teknik olarak ispatlanm=FD=FE maksimum kaliteye sahip, TRAF=DDK & =
+YOL &
+PERSONEL & ASKER=DD & =DD=DE VE =DD=DE=C7=DD G=DCVENL=DDK ve KORUYUCU =
+EK=DDPMANLARI & =DD=DE VE
+=DD=DE=C7=DD KIYAFETLER=DDNDEN olu=FEan yakla=FE=FDk 4.500 =E7e=FEitlik =
+=FCr=FCn yelpazesine
+minimum maliyetlerle ula=FEabilece=F0iniz, arad=FD=F0=FDn=FDz her =FEeyi
+bulabilece=F0iniz SEKT=D6R=DCN =DDLK VE TEK WEB MARKET=DD' ni l=FCtfen =
+not ediniz.=20
+
+Sayg=FDlar=FDm=FDzla.
+
+CEMRE LOJ=DDST=DDK G=DCVENL=DDK LTD. =DET=DD.
+http://www.cemrelojistik.com.tr
+  " it's your life partner "
+
+
+------=_NextPart_000_00D3_01C48FD5.807CB900
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+
+<p><font face="Tahoma" size="2"><b>Sayýn Kamu Kurum ve Kuruluþlarý , Özel Sektör 
+ve Belediye Yetkilileri ;</b></font></p>
+<p align="justify" style="line-height: 150%"><font face="Arial" size="2">&nbsp;&nbsp;&nbsp; 
+Teknik olarak ispatlanmýþ maksimum kaliteye sahip, <b><font color="#CC0066">
+TRAFÝK</font> </b>&amp; <font color="#CC0066"><b>YOL</b></font> &amp;
+<font color="#CC0066"><b>PERSONEL</b></font> &amp; <font color="#CC0066"><b>ASKERÝ</b></font> 
+&amp; <font color="#CC0066"><b>ÝÞ VE ÝÞÇÝ GÜVENLÝK</b></font> ve <b>
+<font color="#CC0066">KORUYUCU EKÝPMANLARI</font> </b>&amp;<font color="#CC0066"> <b>
+ÝÞ VE ÝÞÇÝ KIYAFETLERÝNDEN</b></font> oluþan yaklaþýk <font color="#CC6600"><b>
+4.500</b></font> çeþitlik ürün yelpazesine minimum maliyetlerle 
+ulaþabileceðiniz, aradýðýnýz her þeyi bulabileceðiniz <font color="#0066CC"><b>
+SEKTÖRÜN ÝLK VE TEK WEB MARKETÝ</b></font>' ni lütfen not ediniz. </font></p>
+<p><font face="Arial" size="2">Saygýlarýmýzla.</font></p>
+<p style="line-height: 150%"><b><font color="#CC6600">CEMRE LOJÝSTÝK GÜVENLÝK 
+LTD. ÞTÝ.</font></b><font color="#CC6600"><br>
+</font><font face="Verdana" size="2"><b>
+<a href="http://www.cemrelojistik.com.tr">http://www.cemrelojistik.com.tr</a></b></font><br>
+<font face="Times New Roman" color="#FF0000"><i>&nbsp;<b> &quot; it's your life 
+partner &quot;</b></i></font></p>
+------=_NextPart_000_00D3_01C48FD5.807CB900--

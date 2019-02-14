@@ -1,0 +1,24 @@
+Message-ID: <24927694.1075840778425.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 15:28:00 -0700 (PDT)
+From: amitava.dhar@enron.com
+To: david.hoog@enron.com, alex.tartakovski@enron.com, larry.marcus@enron.com, 
+	joana.bekerman@enron.com, tony.chang@enron.com, john.best@enron.com
+Subject: Outage Pricing Model Revision : Allowing for power price vs. outage
+ correlation
+Cc: vasant.shanbhogue@enron.com, per.sekse@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vasant.shanbhogue@enron.com, per.sekse@enron.com, vince.kaminski@enron.com
+X-From: Amitava Dhar <Amitava Dhar/Corp/Enron@ENRON>
+X-To: David Hoog <David Hoog/NY/ECT@ECT>, Alex Tartakovski <Alex Tartakovski/NY/ECT@ECT>, Larry Marcus <Larry Marcus/NY/ECT@ECT>, Joana Ryan Bekerman <Joana Ryan Bekerman/NA/Enron@Enron>, Tony Chang <Tony Chang/Corp/Enron@ENRON>, John Best <John Best/NA/Enron@ECT>
+X-cc: Vasant Shanbhogue <Vasant Shanbhogue/HOU/ECT@ECT>, Per Sekse <Per Sekse/NY/ECT@ECT>, Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+I have included provision for providing rank correlation between "jump occurrence in daily average power price" and "outage occurrence".  The model will provide the same claim distribution as before when PriceVsOutage Correlation = 0 is used.  Claim goes up as the correlation is increased.  I have performed some sensitivity analysis and the results seem to make sense.  
+
+The new model workbook is "OutagePricingModel040901.xls" and corresponding dll is "OutagePricing040901.dll", both located in O:\GRM\RESEARCH\OUTAGERISK\  subdirectory.  The price vs. outage rank correlation input will need to be provided in "MAIN" spreadsheet.  Please call me if you have any questions.
+
+-Amitava

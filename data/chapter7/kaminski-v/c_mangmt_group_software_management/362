@@ -1,0 +1,43 @@
+Message-ID: <29801399.1075857028062.JavaMail.evans@thyme>
+Date: Fri, 17 Mar 2000 08:31:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: all.users@enron.com
+Subject: Oracle NT Client Software Upgrade - Manual Upgrade Steps
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Corp Domain Users
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+This weekend, the Enron Global Information Technologies department will be 
+distributing a new version of the Oracle 8i client.  Due to the mobile 
+environment of our user base, not all machines will receive the automatic 
+update.  If you are a user of an Oracle based application and your machine is 
+not available to the network this weekend, you can manually upgrade your 
+machine via the following steps:  
+
+ 1) Click on Start - Programs - Utilities 
+ 2) Then  click on "Install Oracle 8i Client".
+
+
+If you are a user of Microsoft Excel spreadsheets or Microsoft Access 
+databases that retrieve information from our Oracle databases, you can 
+manually convert your Oracle ODBC connections to the proper drivers via the 
+following steps:  
+
+ 1) Click on Start - Programs - Utilities
+ 2) Then  click on "Update ODBC Data Source Names to Oracle 8i".
+
+
+If you do not see these icons, there is another icon under Start - Programs - 
+Utilities called "Update Start Menu" that will re-populate your Start Menu.
+
+
+Thank you for your co-operation -
+Scott Williamson
+Director, Database Infrastructure
+Enron Global Technology 

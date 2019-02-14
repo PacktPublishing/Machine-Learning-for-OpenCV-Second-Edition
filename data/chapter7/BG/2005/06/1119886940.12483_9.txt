@@ -1,0 +1,63 @@
+Return-Path: <Tkuohfb@dogmail.org>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 25198 invoked from network); 27 Jun 2005 07:25:31 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 Jun 2005 07:25:31 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Jun 2005 07:25:31 -0000
+Received: (qmail 6093 invoked from network); 27 Jun 2005 07:25:30 -0000
+Received: from lh (unknown [61.79.139.117])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Jun 2005 07:25:29 -0000
+From: "Lucinda Cahill" <Tkuohfb@dogmail.org>
+To: cvs@bruce-guenter.dyndns.org
+Subject: Friendly notification
+Date: Mon, 27 Jun 2005 05:18:53 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_ANAAVNLY.OTDKMYNJ"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 1556
+Lines: 40
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_ANAAVNLY.OTDKMYNJ
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+How have you been?
+I have very exciting news!
+
+We FINALLY were able to save an extra $450 a month.
+
+We reflnanced our m0rtgage with a 3.75% lower rate, and closing was fast!
+
+The application was free and we got several low rate quotes within days
+
+CIick on this link and check it out!
+
+
+Time to Save.
+
+If you prefer to be left out of this amazing offer going here will help you to do so.
+
+------=_NextPart_000_0000_ANAAVNLY.OTDKMYNJ
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<BODY bgColor=#ffffff>
+<FONT face=Verdana size=2>How have you been?<P>
+I have very exciting news!<P>
+We FINALLY were able to save an extra $450 a month.<P>
+We reflnanced our m0rtgage with a 3.75% lower rate, and closing was fast!<P>
+The application was free and we got several low rate quotes within days<P>
+CIick on this link and check it out!<P><P>
+
+<A HREF="http://rds.yahoo.com/S=2901110/K=computer/v=6/SID=f/l=WS1/R=1/SS=49280286/IPC=us/SHE=0/H=0/SIG=86otQD3941/EXP=104449364/*-http://google.com.gr0ups.com/home.asp">Time to Save.</A><P>
+
+If you prefer to be left out of this amazing offer going <A HREF="http://rds.yahoo.com/S=7831841/K=computer/v=1/SID=a/l=WS1/R=1/SS=62928919/IPC=us/SHE=0/H=0/SIG=70smAS961/EXP=592222287/*-http://google.com.gr0ups.com/del.asp"> here</A> will help you to do so.</FONT></BODY></HTML>
+
+------=_NextPart_000_0000_ANAAVNLY.OTDKMYNJ--

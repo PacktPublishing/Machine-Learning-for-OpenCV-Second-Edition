@@ -1,0 +1,87 @@
+Received: from mx6.go2.pl (193.17.41.46)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:15 -0000
+Received: by mx6.go2.pl (Postfix)
+	id 4D7F393F7C; Tue, 19 Jul 2005 12:59:14 +0200 (CEST)
+Date: Tue, 19 Jul 2005 12:59:14 +0200 (CEST)
+From: MAILER-DAEMON@mx6.go2.pl (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="6446C9464A.1121770754/mx6.go2.pl"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105914.4D7F393F7C@mx6.go2.pl>
+
+This is a MIME-encapsulated message.
+
+--6446C9464A.1121770754/mx6.go2.pl
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host mx6.go2.pl.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<zdjeco@o2.pl>: unknown user: "zdjeco"
+
+--6446C9464A.1121770754/mx6.go2.pl
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx6.go2.pl
+X-Postfix-Queue-ID: 6446C9464A
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 12:59:12 +0200 (CEST)
+
+Final-Recipient: rfc822; zdjeco@o2.pl
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; unknown user: "zdjeco"
+
+--6446C9464A.1121770754/mx6.go2.pl
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from mx6.go2.pl (localhost [127.0.0.1])
+	by mx6.go2.pl (Postfix) with ESMTP id 6446C9464A
+	for <zdjeco@o2.pl>; Tue, 19 Jul 2005 12:59:12 +0200 (CEST)
+Received: from mailwisconsin.com (YahooBB221030064059.bbtec.net [221.30.64.59])
+	by mx6.go2.pl (Postfix) with SMTP
+	for <zdjeco@o2.pl>; Tue, 19 Jul 2005 12:59:09 +0200 (CEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359756;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: zdjeco@o2.pl
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891093">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--6446C9464A.1121770754/mx6.go2.pl--

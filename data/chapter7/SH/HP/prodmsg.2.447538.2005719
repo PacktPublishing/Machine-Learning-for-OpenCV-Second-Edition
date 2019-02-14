@@ -1,0 +1,78 @@
+Received: from smtp50.wxs.nl (195.121.6.34)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:28 -0000
+Received: from localhost (localhost)
+	by smtp50.wxs.nl (8.12.10/8.12.10) id j6JAxRWE032388;
+	Tue, 19 Jul 2005 12:59:27 +0200
+Date: Tue, 19 Jul 2005 12:59:27 +0200
+From: Mail Delivery Subsystem <MAILER-DAEMON@smtp50.wxs.nl>
+Message-Id: <200507191059.j6JAxRWE032388@smtp50.wxs.nl>
+To: <projecthoneypot@projecthoneypot.org>
+To: postmaster@smtp50.wxs.nl
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAxRWE032388.1121770767/smtp50.wxs.nl"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAxRWE032388.1121770767/smtp50.wxs.nl
+
+The original message was received at Tue, 19 Jul 2005 12:59:25 +0200
+from [222.89.79.217]
+
+   ----- The following addresses had permanent fatal errors -----
+<info@adm-kantoorbega.info>
+
+   ----- Transcript of session follows -----
+554 5.0.0 Username or Alias unknown
+550 5.1.1 <info@adm-kantoorbega.info>... User unknown
+
+--j6JAxRWE032388.1121770767/smtp50.wxs.nl
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; smtp50.wxs.nl
+Received-From-MTA: DNS; [222.89.79.217]
+Arrival-Date: Tue, 19 Jul 2005 12:59:25 +0200
+
+Final-Recipient: RFC822; info@adm-kantoorbega.info
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; adm-kantoorbega.info
+Last-Attempt-Date: Tue, 19 Jul 2005 12:59:27 +0200
+
+--j6JAxRWE032388.1121770767/smtp50.wxs.nl
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([222.89.79.217])
+	by smtp50.wxs.nl (8.12.10/8.12.10) with SMTP id j6JAxJWE032260
+	for <info@adm-kantoorbega.info>; Tue, 19 Jul 2005 12:59:25 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359917;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@adm-kantoorbega.info
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891170">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--j6JAxRWE032388.1121770767/smtp50.wxs.nl--
+

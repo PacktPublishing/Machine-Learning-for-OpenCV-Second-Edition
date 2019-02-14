@@ -1,0 +1,113 @@
+Return-Path: <iejlceuxqza@hotmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30036 invoked by uid 115); 11 Aug 2004 07:43:10 -0000
+Received: from iejlceuxqza@hotmail.com by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(195.174.223.122):. 
+ Processed in 3.538371 secs); 11 Aug 2004 07:43:10 -0000
+Received: from cable223-122.avrupa.kablonet.com.tr (195.174.223.122)
+  by churchill.factcomp.com with SMTP; 11 Aug 2004 07:43:05 -0000
+X-Message-Info: 3xMAqS24WbY7X8ADsZBvqflrjWpPm86P
+Received: from sainthood.collision.com ([206.241.64.69]) by jn7-r90.hotmail.com with Microsoft SMTPSVC(5.0.2195.6824);
+	 Wed, 11 Aug 2004 07:34:19 -0100
+Received: from celerity.arroyo.com (lenten.gillespie.com [62.192.62.206])
+	by opus.byronic.com (8.12.10/8.12.9) with ESMTP id y7UHAlHJ822568
+	for <bob.smith@em.ca>; Wed, 11 Aug 2004 11:33:19 +0300 (EST)
+	(envelope-from iejlceuxqza@hotmail.com)
+Received: from OS809923336832 (modemcable259.143-071-09.ym.videotron.ca [104.108.72.4])
+	(authenticated bits=0)
+	by seeable.abbreviate.com (8.12.10/8.12.9) with ESMTP id l4EGX4od739094
+	for <bob.smith@em.ca>; Wed, 11 Aug 2004 03:35:19 -0500 (EST)
+	(envelope-from iejlceuxqza@hotmail.com)
+Message-ID: <165012p0gsq9$xy4q1a73$4584j7a3@JD681488385133>
+From: "Meagan Lopez" <iejlceuxqza@hotmail.com>
+To: <Bob.smith>
+Subject: 2.jpg
+Date: Wed, 11 Aug 2004 06:37:19 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--827311853060076"
+
+----827311853060076
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Joke of the day</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFF00">
+<div align=3D"center"><a href=3D"http://damngreatwebsites1.com/98615/full.=
+html"><img src=3D"http://damngreatwebsites1.com/98615/1.jpg" width=3D"400"=
+ height=3D"331" border=3D"0"></a><br>
+  <font color=3D"#FFFFFF"><strong><font color=3D"#000000" face=3D"Geneva, =
+Arial, Helvetica, sans-serif"><br>
+  Joke Of The Day #1</font></strong></font> 
+  <p><font face=3D"Geneva, Arial, Helvetica, sans-serif">A guy is driving =
+across 
+    country trying to get home for Christmas. As he passes through Mississ=
+ippi 
+    he sees a Nativity Pageant and notices the three wise men are dressed =
+as firemen.<br>
+    He stops and asks, &quot;Hey--why are you guys dressed up like that?&q=
+uot; 
+    to which the biggest bubba replies, &quot;You yankees sure are dumb. I=
+t says 
+    right here in the song that three strangers came from afar.&quot;</fon=
+t></p>
+  <p><font face=3D"Geneva, Arial, Helvetica, sans-serif"><strong>Joke Of T=
+he Day 
+    #2</strong></font></p>
+  <p><font face=3D"Geneva, Arial, Helvetica, sans-serif">One night, a litt=
+le blind 
+    boy's mother said to him, &quot;Anthony, if you pray really, REALLY ha=
+rd tonight, 
+    when the sun rises tomorrow you will be able to see!&quot; Needless to=
+ say, 
+    Anthony prays up a storm! Morning came and Anthony is still blind.<br>=
+
+    He starts crying and his mom rushes in. She gasps, &quot;Anthony, what=
+'s wrong?&quot;<br>
+    Anthony wails, &quot;Mommy, I prayed so hard but I'm still blind!&quot=
+; His 
+    Mom gently pats him on the head. &quot;I know, honey. April Fools!&quo=
+t; </font></p>
+  <p><font face=3D"Geneva, Arial, Helvetica, sans-serif"><br>
+    <strong>Joke Of The Day #3</strong></font></p>
+  <p><font face=3D"Geneva, Arial, Helvetica, sans-serif">Two drunks are wa=
+lking 
+    along. One drunk says to the other, &quot;What a beautiful night, look=
+ at 
+    the moon.&quot;<br>
+    The other drunk stops and looks at his drunk friend. &quot;You're wron=
+g, that's 
+    not the moon, that's the sun.&quot;<br>
+    They began to argue when they come upon another drunk. They asked, &qu=
+ot;Sir, 
+    could you please help settle our argument? Tell us what that thing is =
+up in 
+    the sky that's shining. Is it the moon or the sun?&quot; The third dru=
+nk looked 
+    at the sky and said, &quot;Sorry, I don't live around here.&quot;<br>
+    </font> </p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p><font color=3D"#FFFFFF"><a href=3D"http://damngreatwebsites1.com/9861=
+5/remove.php">TAKE 
+    ME DOWN</a><br>
+    </font> </p>
+</div>
+</body>
+</html>
+
+
+----827311853060076--
+

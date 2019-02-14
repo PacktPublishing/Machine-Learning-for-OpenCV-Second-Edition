@@ -1,0 +1,51 @@
+Return-Path: <cozzi_xxowv@astal.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 12093 invoked from network); 30 Jul 2005 22:21:36 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Jul 2005 22:21:36 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Jul 2005 22:21:36 -0000
+Received: (qmail 26064 invoked from network); 30 Jul 2005 22:21:43 -0000
+Received: from COUNTER (unknown [210.101.155.10])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 30 Jul 2005 22:21:42 -0000
+Return-Path: <Roman.YDGNieves@bearingsupply.com>
+Received:from Roman by fpc (Wostfix Roman)
+        id 07B94C1149379; Sat, 30 Jul 2005 17:19:42 -0600
+Date: Sun, 31 Jul 2005 02:20:42 +0300
+From: "Timmy Decker" <YDGNieves@bearingsupply.com>
+Message-ID: <Roman.YDGNieves@bearingsupply.com>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Your Prime Lenders Account Has Been Created
+Errors-To: YDGNieves@bearingsupply.com
+X-Virus-Scanned: amavisd-new at bresnan.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit 
+Content-Length: 713
+Lines: 27
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you last week about refinancing your home at a lower rate.<br>
+I would like to inform you know that you have been pre-approved.<p>
+
+Here are the results:<p>
+
+*Account ID: [618-530]<br>
+*Negotiable Amount: $195,582 to $636,962<br>
+*Rate: 3.08% - 5.85%<p>
+
+Please fill out this quick form and we will have a broker contact you as soon as possible.<br>
+<a href="http://www.google.com/url?sa=D&q=http://www.v8refi.net/?id=j22">http://www.v8refi.net/?id=j22</a><p>
+
+Regards,<p>
+
+Timmy Decker<br>
+Senior Account Manager<br>
+American National Lenders, LLC.<p>
+
+Database Deletion:<br>
+www.v8refi.net/book.php
+</html>

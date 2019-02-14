@@ -1,0 +1,75 @@
+Message-ID: <4577031.1075856596471.JavaMail.evans@thyme>
+Date: Wed, 30 Aug 2000 04:09:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com
+Subject: Transport Fuel P/L
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Vince J Kaminski, Stinson Gibner
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Zimin Lu/HOU/ECT on 08/30/2000 11:06 AM 
+---------------------------
+
+
+Zimin Lu
+08/30/2000 11:07 AM
+To: Colleen Sullivan/HOU/ECT@ECT
+cc: Andrew H Lewis/HOU/ECT@ECT, Greg Couch/HOU/ECT@ECT 
+Subject: Transport Fuel P/L
+
+
+
+Colleen,
+
+After looking into the transport deals for NBPL (long term deal 1,2, 25,26), 
+I think I figured it out why
+we see positive fuel P/L for deal 1,25,and 26 and negative fuel P/L for deal 
+2. 
+
+The following plot shows NYMEX curve as of 8/23/00:
+
+
+
+
+For short term, NYMEX moved up compared to that of 8/22/00, while the long 
+term NYMEX moved down.
+
+Here are the tenor for each deal:
+
+Deal 1:   start 01-Sep-00, end 22-May-09,    the above graph suggested a 
+positve fuel P/L
+Deal 2:   start 01-sep-00, end 28-feb-02,       the above graph suggested a 
+small negative P/L
+Deal 25: start 01-may-02, end 28-feb-09,      the above graph suggested a 
+positve fuel P/L
+Deal 26: start 01-mar-09, end 31-may-09,    the above graph suggested a 
+positve fuel P/L
+
+The transport book seems to be correct on these fuel P/Ls. 
+
+Another point worth to mention is that the fuel cost is related to index 
+price (NYMEX+basis+index premium), to correctly interpret fuel P/L,
+we need to look at the index curve change. 
+
+Let me know your thoughts on this.
+
+
+
+Zimin
+
+
+
+
+
+
+
+
+
+
+

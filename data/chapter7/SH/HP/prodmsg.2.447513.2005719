@@ -1,0 +1,74 @@
+Received: from mail.agrocom.com.ar (HELO spamfilter.agrocomsj.com.ar) (200.69.140.66)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:50 -0000
+Received: from localhost (spamfilter [127.0.0.1])
+	by spamfilter.agrocomsj.com.ar (Postfix) with ESMTP id 2B33E1A8345
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 07:58:49 -0300 (ART)
+MIME-Version: 1.0
+Subject: Considered UNSOLICITED BULK EMAIL from you
+In-Reply-To: <ccrtOX.squirrel@205.214.42.66>
+Message-Id: <SS14006-01@spamfilter>
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary="----------=_1121770729-14006-1"
+From: amavisd-new <postmaster@spamfilter.agrocomsj.com.ar>
+To: <projecthoneypot@projecthoneypot.org>
+Date: Tue, 19 Jul 2005 07:58:49 -0300 (ART)
+
+This is a multi-part message in MIME format...
+
+------------=_1121770729-14006-1
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+Your message to:
+-> distmora@agrocom.com.ar
+
+was considered unsolicited bulk e-mail (UBE).
+Subject: Just to her...
+Return-Path: <projecthoneypot@projecthoneypot.org>
+
+Delivery of the email was stopped!
+
+------------=_1121770729-14006-1
+Content-Type: message/delivery-status
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; spamfilter
+Received-From-MTA: smtp; spamfilter.agrocomsj.com.ar ([127.0.0.1])
+Arrival-Date: Tue, 19 Jul 2005 07:58:46 -0300 (ART)
+
+Final-Recipient: rfc822; distmora@agrocom.com.ar
+Action: failed
+Status: 5.7.1
+Diagnostic-Code: smtp; 550 5.7.1 Message content rejected, UBE, id=14006-01
+Last-Attempt-Date: Tue, 19 Jul 2005 07:58:49 -0300 (ART)
+
+------------=_1121770729-14006-1
+Content-Type: text/rfc822-headers
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Undelivered-message headers
+
+Received: from mailwisconsin.com (ntibrk070111.ibrk.nt.ftth.ppp.infoweb.ne.jp [211.2.26.111])
+	by spamfilter.agrocomsj.com.ar (Postfix) with SMTP id 877881A8293
+	for <distmora@agrocom.com.ar>; Tue, 19 Jul 2005 07:58:43 -0300 (ART)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190898;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distmora@agrocom.com.ar
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+------------=_1121770729-14006-1--

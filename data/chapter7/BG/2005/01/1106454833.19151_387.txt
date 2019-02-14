@@ -1,0 +1,100 @@
+Return-Path: <ascend@ozone.mkoh.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 26556 invoked from network); 23 Jan 2005 04:21:22 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 23 Jan 2005 04:21:22 -0000
+Received: (qmail 16604 invoked from network); 23 Jan 2005 04:21:22 -0000
+Received: from pt03.futurequest.net (pt03.futurequest.net [69.5.6.179])
+  by mx10.futurequest.net ([69.5.6.182])
+  with QMQP via TCP; 23 Jan 2005 04:21:22 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 26520 invoked from network); 23 Jan 2005 04:21:18 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 23 Jan 2005 04:21:18 -0000
+Received: (qmail 22673 invoked from network); 23 Jan 2005 04:21:17 -0000
+Received: from ozone.mkoh.com (ns9.mkoh.com [64.191.126.135])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 23 Jan 2005 04:21:17 -0000
+Received: from ascend by ozone.mkoh.com with local (Exim 4.43)
+	id 1CsZFU-0003J9-Og
+	for webmaster@ezmlm.org; Sat, 22 Jan 2005 23:21:16 -0500
+To: webmaster@ezmlm.org
+X-Autorespond: Hello
+X-Loop: webmaster@ezmlm.org
+From: "Ascend India Management Solutions" <careers@ascendindia.com>
+Content-type: text/plain; charset=us-ascii
+Subject: Shortlisted for SAP-ABAP/4 Training Cum Recruitment Programme (ERP01)
+Message-Id: <E1CsZFU-0003J9-Og@ozone.mkoh.com>
+Sender: <ascend@ozone.mkoh.com>
+Date: Sat, 22 Jan 2005 23:21:16 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ozone.mkoh.com
+X-AntiAbuse: Original Domain - ezmlm.org
+X-AntiAbuse: Originator/Caller UID/GID - [32150 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - ozone.mkoh.com
+X-Source: /usr/local/cpanel/bin/autorespond
+X-Source-Args: /usr/local/cpanel/bin/autorespond careers@ascendindia.com /home/ascend/.autorespond 
+X-Source-Dir: /
+Content-Length: 2314
+
+Ref : IT Software Professionals 
+
+We are pleased to inform you that you have been short-listed for our Training-cum-Recruitment Program.
+
+Before we go ahead, Something about us : 
+
+Ascend India Management Solutions (AIMS) is a organisation involved in Enterprise Resource Planning (ERP) Solutions, DataWareHousing, CRM, End-to-End Business Solutions, Human Resources Services etc. to its various clientele. We have corporate tie-ups with several MNCs, IT Companies, Government Sector Organisations etc, for providing them Business Solutions relating to Technology, Marketing, Human Resources etc. 
+
+Some of our Esteemed Clients are : 
+
+Datamatics Ltd.
+Godrej Infotech.
+Atos Origin Ltd..
+Patni Computers Systems (PCS) Ltd.
+Aurion Pro Solutions Ltd.
+Mahindra British Telecom (MBT)
+ACE Software.
+Esstech.
+Allied Computers International (ACI)
+Aakit Technologies.
+L & T Infotech Ltd.
+Yash Technologies.
+Netpro Technologies Pvt. Ltd.
+Giltedge Infotech Solutions Ltd.
+Motech Software Ltd.
+Adept Infotech Solutions Pvt. Ltd.
+Winsoft Technologies Pvt. Ltd.
+E-Gain Comunication Pvt. Ltd.
+Tellus Tech Pvt Ltd.
+ix-Tech Pvt.Ltd.
+
+We will be training you according to the needs of our clients and after the training you have to join on the client-side. 
+
+Training Details :
+
+Training on     : SAP-ABAP/4                 
+Total Training Hours   : 84.
+Commencement        : 24th Jan' 2005.
+Confirmation Date     : 22nd Jan’ 2005.
+Total Candidates       : 5
+Training Charges      : Rs. 35,000/-
+
+We will be charging only partly amount of the overall charges now, and the remaining balance can be paid once you have been recruited and will be deducted in part payments from your salaries. This is an 100% JOB GUARANTEED Training-cum-Recruitment Program.
+
+After the Training, you will be working on client-side. You should be ready to relocate to any part of India or Abroad.
+
+For further queries feel free to mail on query@ascendindia.com or call us on 91 - 22 - 5693 1906 / 07.
+
+Or contact us via :
+
+Address	: Ms.Shashi.
+	  Operation Dept.		  107, Marwah Complex,
+                  Marwah Estate,
+                  Saki-Vihar Rd,
+               	 Andheri (E), Mumbai-400072.  
+
+Tel	: 91 - 22 - 5693 1906 / 5693 1907.
+
+e-Mail	: query@ascendindia.com    

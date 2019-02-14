@@ -1,0 +1,90 @@
+Message-ID: <20891718.1075856051661.JavaMail.evans@thyme>
+Date: Thu, 31 Aug 2000 04:52:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com
+Subject: Summary of Cash Flow Events
+Cc: gary.hickerson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gary.hickerson@enron.com
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price
+X-cc: Gary Hickerson
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally and Brent,
+Here are the details behind our phone calls this morning. "M" is millions.
+
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 08/31/2000 11:43 
+AM ---------------------------
+
+
+Clara Carrington
+08/31/2000 10:31 AM
+To: Sheila Glover/HOU/ECT@ECT
+cc: Joyce Kuo/NA/Enron@Enron 
+Subject: Summary of Cash Flow Events
+
+Sheila,
+
+We have been having issues with the commodity cash flows since last Friday, 
+Aug 25.  This is a listing of what's been going on.
+
+
+            TIME PDH
+DATE     COMMODITY BOOK GIVEN TO TRADER   SUMMARY OF DISCUSSION
+
+8/25/00 ENPOWER - WEST  7:05    Original    West cash flows did not look 
+right.  Valerie left voice mail
+         late Thursday night stating not to treat the $18M gain as
+          final.  She indicated that Lavorato was going to review the
+         cash flows  this morning and she will let us know the final
+          number at that time.  These cashflows created a $19,000
+         PV01 affect. 
+        
+     7:45    Re-ran w/old West CF  After consulting with Pushkar, we 
+replaced  the new west              cash flows with prior days so hedging 
+could begin.
+
+    10:15   Final    Spoke with Monica Lande at 9:30am and she stated that 
+the             original cash flows received were real. We then had to 
+         bring the original cash flows back and re-do the PDH 
+         reports.
+
+8/28/00 refer to email sent by Sheila on this day.
+
+8/29/00 UK-NAP-LT-PRC 7:35     Cash flows received from the UK book looked 
+really weird. 
+         The $38M cash flow curve change created a 15,000 PV01
+         affect.  We contacted Guy Freshwater regarding.  He
+         indicated that per Mark Fondren, the book was officialized 
+         Monday, on Friday since Monday was a Holiday for their 
+         Office.  We backed out the new cash flow, and then substituted
+         the old ones.
+
+8/30/00 UK-NAP-LT-PRC 7:30  Original    The same thing happened as 8/29/00.  
+The book was not officialized  
+    7:45  Final    on 8/29, therefore we received the same incorrect cash 
+flows.  We again
+         substituted these cash flows with those received on 8/25/00.  I 
+talked with
+         Mark Fondren and he indicated that the book has now been 
+officialized.
+         (In the past we have not had issues with the UK commodity Books in 
+the 
+         ERMS system. )
+
+8/31/00 ENPOWER - WEST 7:20  Original    Cash flows received for west created 
+a 14,000 PV01 affect.  We contacted
+    8:00  Final    Monica Lande and she informed us that there was a $14 M 
+loss in their book, 
+         but $6 M was not real.  We asked for a cash flow strip for the 
+incorrect flows, but          she was not able to provide it.  Therefore, we 
+used the previous day's cash
+         flows.  After the 7:20 PDH report, the system started running slow, 
+therefore
+         it took even longer to produce a revised report. 

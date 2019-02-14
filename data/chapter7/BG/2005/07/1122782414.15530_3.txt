@@ -1,0 +1,61 @@
+Return-Path: <Valeriebreezey@kittymail.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 11848 invoked from network); 30 Jul 2005 22:14:42 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 30 Jul 2005 22:14:42 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Jul 2005 22:14:42 -0000
+Received: (qmail 25956 invoked from network); 30 Jul 2005 22:14:49 -0000
+Received: from 69.5.6.152 (unknown [204.111.138.85])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 30 Jul 2005 22:14:41 -0000
+Subject: Hi, my new email address
+Message-ID: <67P58DU3A1Q4Y8XG7R28J98@boyardism%222.hush.com>
+From: "Compton O. Jean" <Valeriebreezey@kittymail.com>
+To: "Compton O. Jean" <Valeriebreezey@kittymail.com>
+Cc: bruce@bruce-guenter.dyndns.org, cvs@bruce-guenter.dyndns.org
+Date: Sun, 31 Jul 2005 01:14:33 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--Next_CZVQnc5Q0.yOBzzIWoXS0"
+Content-Length: 846
+Lines: 38
+
+----Next_CZVQnc5Q0.yOBzzIWoXS0
+Content-Type: text/plain;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+Hi bruce@bruce-guenter.dyndns.org,
+
+I don't practice reading once a week.
+
+Whenever you find you are on the side of the majority, it is time to pause and reflect.	-Mark Twain [Samuel Langhornne Clemens] (1835-1910)	
+
+Later,
+
+Bennett Abrams
+
+----Next_CZVQnc5Q0.yOBzzIWoXS0
+Content-Type: text/html;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+Hi bruce@bruce-guenter.dyndns.org,
+<br><br>
+All Natural Weight loss formula leaves you thinner
+<br><br>
+Goto our site for more info & a sample!
+<br><br>
+Our Site : check4system.com
+<br><br>
+To be taken off our campaign, add /r to the domain above.
+<br><br>
+Later,<br>
+Compton O. Jean<br>
+Valeriebreezey@kittymail.com
+
+----Next_CZVQnc5Q0.yOBzzIWoXS0--

@@ -1,0 +1,188 @@
+Return-Path: <eventosage@pep.ufrj.br>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 26866 invoked from network); 26 Apr 2005 20:27:36 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 26 Apr 2005 20:27:36 -0000
+Received: (qmail 26682 invoked from network); 26 Apr 2005 20:27:36 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx02.futurequest.net ([69.5.6.172])
+  with QMQP via TCP; 26 Apr 2005 20:27:36 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 26860 invoked from network); 26 Apr 2005 20:27:36 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 26 Apr 2005 20:27:36 -0000
+Received: (qmail 28744 invoked from network); 26 Apr 2005 20:27:36 -0000
+Received: from hermes (201008069231.user.veloxzone.com.br [201.8.69.231])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 26 Apr 2005 20:27:29 -0000
+From: "Sistemas Avançados de Gestão da Produção" <eventosage@pep.ufrj.br>
+To: <webmaster@ezmlm.org>
+Subject: Curso de CRM-Custumer Relationship Management
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 26 Apr 2005 17:38:02
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Sage - GED</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.style3 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: #FFFFFF;
+}
+.style6 {font-family: Arial, Helvetica, sans-serif}
+.style7 {font-size: 12px}
+.style8 {font-weight: bold; color: #FFFFFF;}
+.style11 {font-size: 14px}
+.style13 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.style14 {font-size: 18px}
+.style15 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="712" height="1072" border="1" align="center" bordercolor="#FFFFFF">
+  <tr> 
+    <td colspan="5" height="98"><div align="center"><img src="http://www.sage.coppe.ufrj.br/images/logo_sage.gif" width="144" height="69"><img src="http://www.sage.coppe.ufrj.br/images/tit1.gif" width="185" height="69"><img src="http://www.sage.coppe.ufrj.br/images/tit2.gif" width="182" height="69"><img src="http://www.sage.coppe.ufrj.br/images/tit3.jpg" width="171" height="69"><img src="http://www.sage.coppe.ufrj.br/images/logo_coppe.gif" width="98" height="69"></div></td>
+  </tr>
+  <tr bgcolor="#009966"> 
+    <td height="31" colspan="5"><div align="center" class="style6 style14"><font face="Arial, Helvetica, sans-serif"><span class="style8">Curso 
+        de CRM - </span></font><b><font face="Arial" color="#FFFFFF">Customer 
+      Relationship Management</font></b><font face="Arial, Helvetica, sans-serif"><span class="style8"> </span></font></div></td>
+  </tr>
+  <tr bgcolor="#009A63"> 
+    <td height="31" colspan="5"><div align="center" class="style3"><font face="Arial, Helvetica, sans-serif">
+      24 de Maio de 2005 - Rio de Janeiro </font></div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td width="3" rowspan="12" bgcolor="#009A63" height="888"><font face="Arial, Helvetica, sans-serif"><span class="style7"></span></font></td>
+    <td height="28" colspan="3"><font face="Arial, Helvetica, sans-serif"><span class="style7"></span></font></td>
+    <td width="1" rowspan="11" bgcolor="#009A63" height="832"><font face="Arial, Helvetica, sans-serif"><span class="style7"></span></font></td>
+  </tr>
+  <tr> 
+    <td width="576" height="24" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif"><span class="style15">Objetivo:</span></font></td>
+    <td width="4" rowspan="10" align="center" valign="top" bgcolor="#009A63" height="798"><p align="left"><span class="style6"><span class="style7"><span class="style7"><span class="style11"><span class="style11"><span class="style7"><span class="style7"><font face="Arial, Helvetica, sans-serif"></font></span></span></span></span></span></span></span></p></td>
+    <td width="172" rowspan="10" align="center" valign="top" bgcolor="#FFFFFF" height="798"><table width="187" border="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+        <tr> 
+          <td width="177" valign="top" bordercolor="#FFFFFF" class="style13"><p><font face="Arial, Helvetica, sans-serif"><strong>Carga 
+              Hor&aacute;ria: </strong> 8 horas </font></p>
+            <p><font face="Arial, Helvetica, sans-serif"> <strong>Hor&aacute;rio </strong>: 
+              8:30 &agrave;s 18:00horas </font></p>
+            <p>
+            <font face="Arial, Helvetica, sans-serif" color="#330033" size="2">
+            <b>Local</b>: Hotel Novo Mundo, Praia do Flamengo, 20 - RJ - (21) 
+            2105-7000</font></p>
+            <p><font face="Arial, Helvetica, sans-serif"><strong>Inscri&ccedil;&atilde;o: 
+              R$ 620,00 </strong></font></p>
+            <p><font face="Arial, Helvetica, sans-serif"><strong>Informa&ccedil;&otilde;es 
+              complementares </strong>: 21-3089-5275 ou <a href="mailto:sage@pep.ufrj.br" target="_blank">sage@pep.ufrj.br 
+              </a></font></p>
+            <p><font face="Arial, Helvetica, sans-serif"><strong>Treinamento na 
+              sua empresa </strong></font></p>
+            <p><font face="Arial, Helvetica, sans-serif">Este treinamento poder&aacute; 
+              ser ministrado nas suas instala&ccedil;&otilde;es. Consulte o SAGE 
+              sobre a agenda. </font></p>
+            <p><font face="Arial, Helvetica, sans-serif"><strong><a href="http://www.sage.coppe.ufrj.br/cursos/inscricao.doc" target="_blank">Clique 
+              aqui para baixar a ficha de inscri&ccedil;&atilde;o </a></strong></font></p>
+            <p><font face="Arial, Helvetica, sans-serif"><strong><a href="http://www.sage.coppe.ufrj.br" target="_blank">www.sage.coppe.ufrj.br 
+              </a></strong></font></p>
+            <p>&nbsp;</p></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td height="165" bgcolor="#FFFFFF">
+    <p class="MsoNormal">Descrever sobre as justificativas de uso, aplicações, 
+    potencialidades e restrições, tendências e tecnologias correlatas. </p>
+    <p class="MsoNormal">Descrever as funcionalidades do CRM .</p>
+    <p class="MsoNormal">Analisar os principais impactos nas organizações : 
+    postos de trabalho e estrutura.</p>
+    <p class="MsoNormal">Analisar segundo uma visão crítica o processo de 
+    implementação.</td>
+  </tr>
+  <tr bgcolor="#CCCCCC"> 
+    <td height="24" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif"><span class="style15">Ementa:</span></font></td>
+  </tr>
+  <tr> 
+    <td height="126" bgcolor="#FFFFFF">
+    <p class="MsoNormal"><font face="Times New Roman">Conceitos fundamentais de 
+    CRM; </font></p>
+    <p class="MsoNormal"><font face="Times New Roman">Justificativas do uso de 
+    CRM;</font></p>
+    <p class="MsoNormal"><font face="Times New Roman">Planejamento Estratégico;</font></p>
+    <p class="MsoNormal"><font face="Times New Roman">Impactos na estrutura 
+    organizacional; </font></p>
+    <p class="MsoNormal"><font face="Times New Roman">Impactos nos funcionários;</font></p>
+    <p class="MsoNormal"><font face="Times New Roman">Tendências;</font></p>
+    <p><span style="font-family: Times New Roman">Recomendações. </span></td>
+  </tr>
+  <tr> 
+    <td height="23" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif"><span class="style15">P&uacute;blico 
+      alvo:</span></font></td>
+  </tr>
+  <tr> 
+    <td height="141"><p class="style13"><font face="Arial, Helvetica, sans-serif">Gerentes 
+        de TI envolvidos em projetos de CRM; </font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Respons&aacute;veis pela implanta&ccedil;&atilde;o e defini&ccedil;&atilde;o 
+        de solu&ccedil;&otilde;es de Tecnologia da informação na corpora&ccedil;&atilde;o; </font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Gerentes de projeto; </font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Consultores e fornecedores de solu&ccedil;&otilde;es 
+      de CRM; </font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Pessoal respons&aacute;vel por comprar ou coordenar implanta&ccedil;&atilde;o 
+        de CRM em sua empresa;</font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Respons&aacute;veis 
+        pela documenta&ccedil;&atilde;o da empresa; </font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Centros de 
+        Documenta&ccedil;&atilde;o, bibliotec&aacute;rios, Arquivistas, Gerentes 
+        de informa&ccedil;&atilde;o; </font></p></td>
+  </tr>
+  <tr> 
+    <td height="23" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif"><span class="style15">Crit&eacute;rio 
+      de inscri&ccedil;&atilde;o:</span></font></td>
+  </tr>
+  <tr> 
+    <td height="87"><p class="style13"><font face="Arial, Helvetica, sans-serif">O 
+        candidato dever&aacute; enviar a ficha de incri&ccedil;&atilde;o ao SAGE. 
+        <a href="http://www.sage.coppe.ufrj.br/cursos/inscricao.doc" target="_blank">Clique 
+        aqui para baixar a ficha de inscri&ccedil;&atilde;o </a>. </font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif">Ser&aacute; 
+        considerado inscrito o candidato que comprovar dep&oacute;sito banc&aacute;rio 
+        em at&eacute; 5 dias antes do in&iacute;cio do treinamento. </font></p></td>
+  </tr>
+  <tr> 
+    <td height="23" bgcolor="#CCCCCC"> <font face="Arial, Helvetica, sans-serif"><span class="style15">Inclusos:</span></font></td>
+  </tr>
+  <tr> 
+    <td height="108"> <p class="style13"><font face="Arial, Helvetica, sans-serif">Apostila com os 
+        slides apresentados, material de apoio, <em>coffe-break </em>, certificado 
+        de conclus&atilde;o.</font></p>
+      <p class="style13"><font face="Arial, Helvetica, sans-serif"> O Sage se 
+        reserva o direito de cancelar um curso ou evento por n&atilde;o atingir 
+        n&uacute;mero m&iacute;nimo de participantes ou motivo de for&ccedil;a 
+        maior.</font></p></td>
+  </tr>
+  <tr> 
+    <td height="50" colspan="4" bgcolor="#009A63"><font face="Arial, Helvetica, sans-serif"><span class="style13">Se 
+      desejar retirar seu email de nosso cadastro de mala direta por favor <a href="mailto:sage@pep.ufrj.br?subject=Remove" target="_blank">clique 
+      aqui </a>ou&nbsp; responda para <strong><a href="mailto:sage@pep.ufrj.br" target="_blank">sage@pep.ufrj.br 
+      </a></strong>com o seguinte assunto: REMOVE. </span></font></td>
+  </tr>
+</table>
+</body>
+</html>

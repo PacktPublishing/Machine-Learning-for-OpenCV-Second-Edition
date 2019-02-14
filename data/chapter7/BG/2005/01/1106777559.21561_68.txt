@@ -1,0 +1,65 @@
+Return-Path: <YXSYKJE@mailblocks.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 23758 invoked from network); 20 Jan 2005 16:59:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 20 Jan 2005 16:59:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 20 Jan 2005 16:59:55 -0000
+Received: (qmail 2018 invoked from network); 20 Jan 2005 16:59:53 -0000
+Received: from dsl-201-138-194-224.prod-empresarial.com.mx (unknown [201.138.194.224])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 20 Jan 2005 16:59:45 -0000
+X-Message-Info: AV+ylht/6+ppn/F+343/1257252276
+Received: from smtp-wash.carolyn.YXSYKJE@mailblocks.com ([201.138.194.224]) by hr3-f94.YXSYKJE@mailblocks.com with Microsoft SMTPSVC(5.0.2687.4924);
+	 Thu, 20 Jan 2005 19:49:46 +0300
+Received: from legitimacy11.stagestruck.YXSYKJE@mailblocks.com (bruce00.YXSYKJE@mailblocks.com [201.138.194.224])
+	by smtp-kaplan.inviolable.YXSYKJE@mailblocks.com (Postfix) with SMTP id 2H092T3MYYY
+	for <rait@bruce-guenter.dyndns.org>; Thu, 20 Jan 2005 20:47:46 +0400
+X-Message-Info: NDLY+%ND_LC_CHAR[1-3]23+id+KW+50/886688887066165
+Received: (qmail 05442 invoked by uid 993); Thu, 20 Jan 2005 09:46:46 -0700
+Date: Thu, 20 Jan 2005 18:48:46 +0200
+Message-Id: <5942075636807.17518@YXSYKJE@mailblocks.com>
+From: Billy Mckee <YXSYKJE@mailblocks.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: Ship Notification, Tracking Number : 7771
+MIME-Version: 1.0 (produced by batcheldercommensurable 8.2)
+Content-Type: multipart/alternative;
+	boundary="--35743974469892018646"
+Content-Length: 626
+Lines: 34
+
+----35743974469892018646
+Content-Type: text/plain;
+	charset="iso-2625-3"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: delude rob pinto
+
+Online pharmacy - Visit our online store and save.
+
+Save up to 80% compared to normal rates.
+
+All popular drugs are available, including Vicodin!
+
+- World wide shipping
+- No Doctor Visits
+- No Prescriptions
+- Next Day Priority Shipping
+- Discreet Packaging
+- Buy in Bulk and Save!
+
+We make it easier and faster than ever to get the prescriptions you
+need.
+
+Go here: http://www.fidrugs.com/rx/?7
+
+
+
+
+
+No thanks: http://www.fidrugs.com/rmv/
+
+
+
+
+----35743974469892018646--

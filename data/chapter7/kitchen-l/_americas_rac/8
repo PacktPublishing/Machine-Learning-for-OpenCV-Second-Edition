@@ -1,0 +1,49 @@
+Message-ID: <18543025.1075840894398.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 05:43:12 -0700 (PDT)
+From: chip.schneider@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: DASH Spending Controls Team Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Schneider, Chip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSCHNEID>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+We're making good progress with a new project expense management protocol that will provide Business Unit Executives with higher quality information on project expenditures as well as automatically require management authorization or re-authorization at pre-determined levels of spend or DASH approved limits.  My plan is to have this implemented by 1Q2002.
+
+Richard Lauer from RAC is leading this effort.  I'll keep you posted on developments.
+
+Let me know if you have any specific thoughts or requests on this.
+
+
+ -----Original Message-----
+From: 	Lauer, Richard  
+Sent:	Monday, October 22, 2001 6:19 PM
+To:	Vargas, Hope; Pierce, Jody; Hodges, Georganne; Schneider, Chip; Boehm, Rick; Musser, Paul; Dupre, David; Carson, Rick L.; Lowry, Donna; Stafford, Clayton
+Subject:	DASH Spending Controls Team Meeting
+
+This e-mail follows the October 18th ISC (SAP) working session and other one-on-one accounting process meetings.  Both working session and process meetings have been very productive.  In preparation of tomorrow's team meeting, Clayton Stafford has outlined several SAP Features and possible process enhancements as follows:
+
+?	Opportunity may exist to create projects at the Project definition level in SAP.  This would enable aggregate charges to be summarized and actual compared to budget across multiple company codes.  Need to further understand the relationship between profit centers and project definition levels in SAP.
+
+?	May consider default project budgets of $2.5MM until an approved DASH is received that commits funds in excess of $2.5MM.
+
+?	SAP has an email notification feature that could be used to alert a designated person/group when a project is approaching or has exceeded budget (within an approved tolerance level).  Some limitations do exist.
+
+?	SAP can be coded to capture unique data (possibly the DASH number) at the project definition level.  Management reports can be generated from the unique field.
+
+?	Reporting features may be enhanced through the current Sunrise project.
+
+
+Please bring your thoughts and ideas.  See you tomorrow in EB2386 at 9am.
+
+
+Richard Lauer
+RAC Compliance Manager
+(713) 853-4884

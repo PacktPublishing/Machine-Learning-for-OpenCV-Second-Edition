@@ -1,0 +1,56 @@
+Message-ID: <15962623.1075855890068.JavaMail.evans@thyme>
+Date: Fri, 22 Sep 2000 10:58:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: sally.beck@enron.com
+Subject: New Graph
+Cc: shona.wilson@enron.com, jennifer.nguyen@enron.com, 
+	maria.aguilera-peon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com, jennifer.nguyen@enron.com, 
+	maria.aguilera-peon@enron.com
+X-From: Eugenio Perez
+X-To: Sally Beck
+X-cc: Shona Wilson, Jennifer Nguyen, Maria Teresa Aguilera-Peon
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As you know, now that we are nearly done in capturing the DPR numbers in the 
+database, we have been working to present the data in compelling ways.  We 
+have started to do this by creating the VaR Limit Usage graphs and the 
+Sharpe, Rovar, and Risk - Return graphs.  
+
+I am sorry for the misunderstanding with Ted concerning the latter.  I had 
+explained what I wanted to produce in an e-mail and during a Risk Forum 
+Luncheon.  Therefore, Shona and I did not expect the reaction we got.  I have 
+talked to Naveen and Rudi since then, and we have changed the graphs to be 
+agreeable to RAC.
+
+Today I worked on the graphs below.  They show the P&L decomposition for the 
+month (rolling 20 business days) up to 9/20 (one in dollar terms and the 
+other as a percentage of P&L).  I showed them to Shona, and she thought you 
+should see them before Naveen, Rudi, and Ted, because these graphs are very 
+powerful and are likely to be controversial.  The graphs show that European 
+Gas and UK Power released a lot of prudency.  Half of total P&L for European 
+Gas is prudency, and UK Power would have had a loss of about $20 million 
+(instead of a gain of $27 million) were it not for prudency.   In the case of 
+North American Gas, $46 million gain in new deals partly offset about $106 
+million in trading losses.  
+
+Please note that these are rough drafts intended to show what we can do.  I 
+do not think that there are problems with the data, but I threw these 
+together today, and I have not yet double-checked the accuracy of my 
+aggregating calculations.
+
+Please launch the attached spreadsheet, and feel free to call or page me with 
+questions or concerns.
+
+Thank you,
+
+
+
+Eugenio
+
+

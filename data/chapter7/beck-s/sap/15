@@ -1,0 +1,54 @@
+Message-ID: <26477489.1075855896051.JavaMail.evans@thyme>
+Date: Fri, 30 Jun 2000 09:46:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: theresa.brogan@enron.com, clara.carrington@enron.com
+Subject: SAP and Seller Rules!!!! Please read
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Sheila Glover
+X-To: Theresa T Brogan, Clara Carrington
+X-cc: Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Fyi...
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 06/30/2000 04:42 
+PM ---------------------------
+
+
+Laurel Adams
+06/30/2000 10:48 AM
+To: Jan-Erland Bekeng/OSL/ECT@ECT, Patryk Wlodarski/LON/ECT@ECT, Peter 
+Griffiths/LON/ECT@ECT, Raymond Dollman/LON/ECT@ECT, William 
+Quinn/LON/ECT@ECT, Maya Beyhum/LON/ECT@ECT
+cc: Esther Demetz/LON/ECT@ECT, Denisa Jozana/LON/ECT@ECT, Kelly 
+Lane/LON/ECT@ECT, Ian Sloman/LON/ECT@ECT, Ana Rizvi/HOU/ECT@ECT, Sheila 
+Glover/HOU/ECT@ECT, Jeffrey McClellan/HOU/ECT@ECT, Trena 
+McFarland/LON/ECT@ECT, Jurgen Hess/LON/ECT@ECT 
+Subject: SAP and Seller Rules!!!! Please read
+
+All,
+
+July 1, SAP goes into effect for us here in Houston.  Also, the seller rules 
+principle comes into play.  This means that if we (the IR/FX desk) owe you a 
+payment in USD, GBP or EUR, you MUST book the payable in SAP to company 0967 
+(we are no longer company 1Y3).  We then go into SAP and remove the block and 
+that allows the payment to be sent.  
+
+Per Corp., all intercompany trades are to be handled in this  manner.  This 
+means that when you are paying us any of the 3 above currencies, we will go 
+into SAP and book a payable to your company.  Going forward, when confirming 
+settlements with Ana, you must be prepared to provide her with your company 
+number.  You are then responsible for going into SAP and removing the block 
+to allow payments to be released.  
+
+Is SIFT UK interfacing directly to SAP, or will you manually be booking these 
+entries?  If you are interfacing, the payable entry should automatically be 
+created.  If you are  manually booking into SAP, you will need to coordinate 
+with your accounting/reporting contacts to make sure that all of this goes 
+smoothly.  If you are not the person who will be manually booking the entries 
+into SAP, please forward this message to the appropriate person.  

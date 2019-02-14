@@ -1,0 +1,270 @@
+Message-ID: <19451789.1075844103603.JavaMail.evans@thyme>
+Date: Fri, 27 Oct 2000 05:34:00 -0700 (PDT)
+From: jeffery.fawcett@enron.com
+To: steven.harris@enron.com
+Subject: Electric Developments
+Cc: kevin.hyatt@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kevin.hyatt@enron.com
+X-From: Jeffery Fawcett
+X-To: Steven Harris
+X-cc: Kevin Hyatt
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+I consulted with Kevin before I took the oars in trying to answer your 
+question, as well as the questions raised in Drew's e-mail.  Here's what we 
+found out...
+
+Steve's question:
+
+What economics would determine if a developer could site a power plant in New 
+Mexico (maybe 3,000MW) and build a line to the grid in California versus us 
+expanding to deliver the gas to a power plant in California?
+
+What you're really asking here is "What are the comparative economics of 
+energy delivered by wire versus energy delivered by pipeline?"  In this 
+analysis, there are a few considerations -- (1) original capital cost to 
+construct facilities, (2) the operating cost of the facilities, including 
+energy loss, and (3) environmental and other permitting considerations. 
+
+ Engineers tell us that, as a rule of thumb, high voltage transmission lines 
+and tower facilities cost approximately $800,000 to $1MM/mile to construct 
+turnkey.  This figure is comparable to the $1MM/mile "rule of thumb" we use 
+for turnkey construction of mainline diameter (30-36") high-pressure steel 
+pipeline.  
+
+In terms of operating costs, for anything over 100 miles in length, there are 
+three (3) basic sources of energy loss in electric transmission: (1) 
+transformation loss, (2) radiation loss (EFM) and (3) heat loss across the 
+conductors.  A rule of thumb for electric transmission loss is 3%.  This 
+number is comparable to the actual fuel used for compression on 
+Transwestern's pipeline.   
+
+The most critical issue impacting construction of high voltage transmission 
+lines is in the area of permitting.  There just aren't many new transmission 
+lines being approved.  It was suggested by more than one source that an 
+electric transmission project on the order posited in your example, could 
+take anywhere from 6 to 10 years to secure authorization.  The issues of 
+electromagnetic field (EMF) radiation around high voltage power lines, along 
+with other wildlife endangerment concerns, are significant obstacles in 
+securing permits for right-of-way.
+
+In short, the answer is that while the economics on face appear to be 
+comparable for construction and operation of both natural gas pipelines and 
+electric transmission lines, the protracted permitting process for electric 
+transmission lines tips the scale considerably towards the more immediate 
+returns available on investment in natural gas pipeline infrastructure.
+
+
+Drew's questions:
+
+1. What are the key factors that determine where a power plant developer puts 
+his plant?
+
+For purposes of this exercise, I'm assuming we're talking gas-fired 
+generation.  Developers generally describe four considerations in deciding 
+where to site a new electric power plant:
+ 1. Market area demand (distributive) and/or Transmission access to market
+ 2. Water rights for turbine cooling
+ 3. Ease of permitting (environmental, encroachment, fed/state/local 
+regulations, affected agencies/jurisdiction)
+ 4. Proximity to natural gas pipeline/supply infrastructure  
+
+
+2. Do the transmission access and pricing rules of the various 
+utilities/power pools vary all that much or are Order 888 tariffs pretty much 
+the same all over?
+
+FERC Order 888 and 889 require public utilities to commit to standards of 
+conduct and to file open access tariffs affecting transmission among and 
+between other utilities and/or power pools in the various operating regions.  
+FERC ordered public utility transmission owners to provide transmission 
+access and comparable service to competitors and to functionally separate 
+their transmission/reliability functions from their wholesale merchant 
+functions. The rulemaking is analogous to the open access requirements under 
+FERC Order 436/500/636 affecting interstate natural gas pipelines.  It's 
+pretty obvious from the California example this past summer, that with 
+respect to the overall operation of a deregulated power market in individual 
+states, particularly as concerns the establishment and regulation of 
+Independent System Operators (ISO's), there is substantial room for 
+improvement (and possible further FERC involvement).
+ 
+"In the open access final rule (Order No. 888), the Commission issues a 
+single pro forma tariff describing the minimum terms and conditions of 
+service to bring about this nondiscriminatory open access transmission 
+service.  All public utilities that own, control, or operate interstate 
+transmission facilities are required to offer service to others under the pro 
+forma tariff.  They must also use the pro forma tariffs for their own 
+wholesale energy sales and purchases.  Order No. 888 also provides for the 
+full recovery of stranded costs--that is, costs that were prudently incurred 
+to serve power customers and that could go unrecovered if these customers use 
+open access to move to another supplier."  
+
+
+3.  How do IPP's decide what fuel supply strategy works best (i.e., buy 
+bundled delivered fuel from someone vs. buy gas, storage, transport, etc. 
+separately)?
+
+In my experience, there is no "one size fits all" formula or strategy.  For 
+example, in the past we've seen Calpine take a very hands-on approach to 
+supplying its IPP projects.  In the mid to late '80's, during the build out 
+of several QF's (cogens), Calpine bought natural gas reserves in the ground 
+and dedicated them to the project.  In today's market, Calpine has scavenged 
+the gas and basis traders from Statoil and set-up a natural gas desk for the 
+purchase and transportation management of gas supplies needed for its western 
+U.S. power projects.  In other projects, developer/owners and their lenders 
+are satisfied with a less active role in securing gas supply/transportation 
+to the project.  In short, projects look at the liquidity of the gas supply/ 
+transportation market in deciding whether they can achieve project economics 
+and secure reliable supply by taking bids or RFP's for gas 
+supply/transportation, or whether to take a more hands-on approach ala 
+Calpine.
+
+
+4.  What is the RTO Rule and why should we care?
+
+Last December, the FERC issued Order No. 2000, a final rule on Regional 
+Transmission Organizations (RTO's).  Order 2000 builds on the foundation of 
+Orders 888 and 889 (issued in 1996).  According to FERC Chairman Jim Hoecker, 
+Order 2000 makes "a persuasive case for separating control of grid operations 
+from the influence of electricity market participants."  Therefore, Order 
+2000 can be seen as a natural outgrowth of the perceived limitations on the 
+functional unbundling adopted in Orders 888 and 889, continuing balkanization 
+of the electric transmission grid based on corporate, not state or regional 
+boundaries, as well as pressure to provide guidance on acceptable forms of 
+privately-owned transmission companies.  
+
+FERC prescribes a voluntary approach to RTO participation.  The order 
+initiates a regional collaborative process to foster RTO formation.  The 
+Order also imposes filing requirements on the privately owned "public 
+utilities" that are subject to FERC jurisdiction, and requires these private 
+utilities to describe in their filings how they have attempted to accommodate 
+the needs of transmission owning state/municipal, cooperative and federally 
+owned systems.  FERC believes that, regardless of format, RTO's will offer 
+the following benefits: (1) alleviate stress on the bulk power system caused 
+by structural changes in the industry, (2) improve efficiencies in 
+transmission grid management through better pricing and congestion 
+management, (3) improve grid reliability, (4) remove remaining opportunities 
+for discriminatory practices, (5) improve market performance, (6) increase 
+coordination among state regulatory agencies, (7) cut transaction costs, (8) 
+facilitate the success of state retail access programs, and (9) facilitate 
+lighter-handed regulation. 
+
+Critics point out that with its emphasis on flexibility, voluntary RTO 
+formation and transmission rate reforms (i.e., incentives), Order 2000 defers 
+for case-specific disposition many of the tough issues that must be resolved 
+in order to create an operational RTO.   Moreover, Order 2000 does not compel 
+any transmission owner to join an RTO, but provides only regulatory guidance 
+and incentives for willing participants, as well as a veiled threat of 
+further consequences for the hold-outs. 
+
+As to the final part of the question ("why should we care?"), presumably, the 
+development of a fully-functioning RTO network will promote both the 
+efficiency and market transparency goals of the original FERC orders.  As 
+FERC reads it, the future of gas-fired generation for both merchant and 
+utility systems, depends on an efficiently operated open access transmission 
+system.  Therefore, the promise of the RTO is to stimulate competition and 
+the ongoing investment in new generation infrastructure.  Unfortunately, 
+sources tell me that the voluntary nature of the RTO program may ultimately 
+cripple its effectiveness in meeting its stated goals.  
+
+
+5.  Has $5/mmbtu gas killed the gas fired power market?
+
+Natural gas prices of $5/MMBtu can only "kill" gas-fired power plants in 
+those instances where (1) there are more economical alternatives to natural 
+gas fuel, (2) demand for electric power is offset through demand side 
+management or (3) natural gas in an environment of short supply is expressly 
+prohibited from use as a power plant fuel.  In the Western U.S. marketplace, 
+particularly in California, I see no viable alternative to natural gas fuel 
+for electric power generation.  Renewable resources currently meet less than 
+5% of the total electric resource requirements.  $32/barrel oil prices give 
+fuel oil no clear economic advantage over natural gas (even at a $5/MMBtu 
+price).  Moreover, California environmental and permitting regulations make 
+the installation of new electric generation based on anything other than 
+natural gas fuel or renewable resources virtually impossible.   While demand 
+side management programs are the politically correct approach to meeting 
+resource needs, historically, they have served only a minor role in 
+offsetting the growth in electric power.  As to the final point, I'm unable 
+to comment on the risk of future legal/regulatory restrictions governing the 
+use of natural gas as a boiler or turbine fuel.
+
+
+
+
+
+
+Steven Harris
+10/26/2000 10:05 AM
+To: Kevin Hyatt/ET&S/Enron@Enron
+cc: Jeffery Fawcett/ET&S/Enron@ENRON 
+
+Subject: Re: Electric Developments  
+
+Since you are the "expert" in this area, I need to know what economics would 
+determine if a developer could site a power plant in New Mexico (maybe 
+3,000MW) and build a line to the grid in California versus us expanding to 
+deliver the gas to a power plant in California. If you could let me know by 
+next Friday I would appreciate it.   
+
+
+
+Kevin Hyatt
+10/25/2000 04:32 PM
+To: sharris1@enron.com
+cc:  
+
+Subject: Electric Developments
+
+Steve, see below.  Drew asked me to help him out with his meeting.
+kh
+
+
+---------------------- Forwarded by Kevin Hyatt/ET&S/Enron on 10/25/2000 
+04:34 PM ---------------------------
+   
+	Enron Energy Services
+	
+	From:  Drew Fossum                           10/25/2000 01:49 PM
+	
+
+To: Dari Dornan/ET&S/Enron@ENRON, Lee Huber/ET&S/Enron@ENRON, Tony 
+Pryor/ET&S/Enron@ENRON, Maria Pavlou/ET&S/Enron@ENRON, Susan 
+Scott/ET&S/Enron@ENRON, Jim Talcott/ET&S/Enron@ENRON, Kathy 
+Ringblom/ET&S/Enron@ENRON
+cc: Michael Moran/ET&S/Enron@ENRON, Kim Wilkie/ET&S/Enron@ENRON, Kevin 
+Hyatt/ET&S/Enron@Enron, John Dushinske/ET&S/Enron@ENRON, Shelley 
+Corman/ET&S/Enron@ENRON 
+Subject: Electric Developments
+
+When we originally decided to use my staff meetings for "graduate education" 
+one of the hot topics was the electric industry.  We all had a first lesson 
+on this topic in Shelley's electricity seminar last summer.  Now, John and 
+Kevin have graciously agreed to join us Tuesday at 1:30 to discuss recent 
+developments in electric markets and NN's and TW's efforts to attract power 
+generation load to the system.  Specific topics I hope to cover include the 
+following:
+1.  What are the key factors that determine where a power plant developer 
+puts his plant?  
+2.  Do the transmission access and pricing rules of the various 
+utilities/power pools vary all that much or are Order 888 tariffs pretty much 
+the same all over? 
+3.  How do IPPs decide what fuel supply strategy works best (i.e., buy 
+bundled delivered fuel from someone vs. buy gas, storage, transport, etc.  
+separately)?
+4.  What is the RTO Rule and why should we care? 
+5.  Has $5/mmbtu gas killed the gas fired power market?
+ Depending on how deeply we get into these topics, we may need to schedule a 
+follow-up session at a later date.  I look forward to seeing you on Tuesday.  
+DF
+    
+
+
+
+
+
+

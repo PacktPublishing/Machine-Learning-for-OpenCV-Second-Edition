@@ -1,0 +1,53 @@
+Message-ID: <31882479.1075857050371.JavaMail.evans@thyme>
+Date: Fri, 31 Mar 2000 05:45:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: vince.kaminski@enron.com, maureen.raymond@enron.com
+Subject: UK Swap RPI Model
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Vince J Kaminski, Maureen Raymond
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Zimin Lu/HOU/ECT on 03/31/2000 01:44 PM 
+---------------------------
+
+
+Martina Angelova
+03/22/2000 02:59 PM
+To: Zimin Lu/HOU/ECT@ECT
+cc: Anjam Ahmad/LON/ECT@ECT, Trena McFarland/LON/ECT@ECT 
+Subject: UK Swap RPI Model
+
+Hi Zimin!
+
+Please find attached the RPI model I developed by bootstrapping RPI swaps. 
+The structure of this particular swap is:  
+
+semi/semi Act/365F
+>
+> YOYUKRPI = (UKRPI(p-2)/UKRPI(p-14) - 1)/2
+> p = payment month
+>
+The first payment is the latest known historical RPI, February 2000. You will 
+notice that I have assumed constant cashflows between the quoted years (as 
+opposed to interpolating swaps which distorts the curve a lot).
+
+Please find below a graphic comparison between the RPI curve produced by 
+swaps and the one produced by the GILT market.
+
+
+
+Looking forward to your comments.
+
+Best regards,
+
+Martina
+x34327
+
+
+

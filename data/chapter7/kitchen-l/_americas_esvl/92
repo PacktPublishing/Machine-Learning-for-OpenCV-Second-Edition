@@ -1,0 +1,201 @@
+Message-ID: <29236751.1075840829747.JavaMail.evans@thyme>
+Date: Sat, 5 Jan 2002 15:31:21 -0800 (PST)
+From: ursula.mills@ubsw.com
+To: jay.webb@enron.com, louise.kitchen@enron.com
+Subject: FW: Service Bureau Prohibitions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ursula.Mills@ubsw.com@ENRON
+X-To: Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JWEBB>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LKITCHEN>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Hi Louise / Jay
+
+If you can help shed any light on your vendor relationship with Legato
+and Rational, and whether you believe there is scope for reviewing
+these licenses with a view to changing the relevant license agreements,
+that would be extremely helpful.  We understand that both these
+products would be critical components to running the Netco systems.
+
+Thx
+Ursula
+
+-----Original Message-----
+From: Roger.Ross
+Sent: 05 January 2002 18:07
+To: bwells
+Cc: Roger.Ross; stephen.kahn; Mills, Ursula
+Subject: RE: Service Bureau Prohibitions
+
+
+
+Thanks Bert.  As promised, I am following up with E Company on the
+various
+assigned agreements that prohibit providing service to a third party.
+Feel
+free to have Ursula pursue the question simultaneously.  I am also
+looking
+into what services the parties intend Fire to provide for transition as
+this is not a part of the transaction that I have been following
+closely to
+date.
+
+Roger
+
+
+
+
+
+
+"Wells, Bert" <bwells@cov.com> on 01/05/2002 01:46:31 PM
+cc:   "'ursula.mills@ubsw.com'" <ursula.mills@ubsw.com>
+Subject:  RE: Service Bureau Prohibitions
+
+
+
+
+> This message is from a law firm and may contain information that
+> is confidential or legally privileged.  If you are not the
+> intended recipient, please immediately advise the sender by
+> reply e-mail that this message has been inadvertently
+> transmitted to you and delete this e-mail from your system.
+> Thank you for your cooperation.
+>
+>
+> Steve and Roger,
+>
+> We are reviewing a sampling of third party software licenses E
+> Company entered and seem to have found two licenses not
+> previously noted by E Company as containing an express
+> prohibition on use as part of a service bureau.  As I discussed
+> with Roger briefly yesterday, this we assume is as much an issue
+> for you as it would be for us because operation of the IT on a
+> service bureau basis initially is a key mutual expectation.
+> Both licenses are listed on your draft Schedule 2.1(f)(i) to the
+> Contribution Agreement so I'm guessing they are material to the
+> Business and the relevant software would have to be operated for
+> U Company's benefit.  U Company hasn't spoken to any E Company
+> IT personnel to learn the significance of the affected software,
+> but Ursula Mills is planning to raise the question with Jay Webb
+> or another appropriate person.
+>
+     The two licenses are:
+
+     1.  Enterprise Software License Agreement between Legato
+Systems, Inc. and [E] Corp, dated as of Sept. 27, 2001, respecting
+numerous software products generally branded with the names
+NetWorker, GEMS, Celestra, Octopus and others.  Section 2.2
+provides:  "Restrictions on Use.  Licensee shall not, and shall
+not aid, abet or permit any third party to: . . . (iii) . . . use
+for timesharing or service bureau purposes or otherwise use . . .
+the Software . . . for the benefit of third parties . . . ."
+
+     2.  Products License Agreement #3185 Modified for [E]
+Corp, issued by Ration Software Corp., dated as of Feb. 17, 1998,
+respecting various software products branded Clearcase, Rational,
+Purify, and Quantify and others.  Section 1.1 provides:  "General
+Grant of License. . . . You may not rent, lease or use the Product
+in a service bureau capacity. . . . ."
+
+     We continue to review the agreements for the Service
+Bureau issue as it is the most pressing from a time perspective.
+We have already found several ambiguous licenses and will bring
+those to your attention as a group later.
+
+     If other express provisions such as the above turn up, I
+will let you know on a case by case basis as this issue is one our
+IT personnel are taking seriously.
+
+     Bert
+
+
+> ....................................................
+> Bert Wells
+> Covington & Burling
+> 1330 Avenue of the Americas
+> New York, New York 10019
+> (212) 841-1074 (voice)
+> (212) 841-1010 (fax)
+> bwells@cov.com
+> ....................................................
+>
+
+
+
+
+
+
+
+**********NOTE**********
+The information contained in this email message is intended only
+for use of the individual or entity named above.  If the reader
+of this message is not the intended recipient, or the employee or
+agent responsible to deliver it to the intended recipient, you
+are hereby notified that any dissemination, distribution or
+copying of this communication is strictly prohibited.  If you
+have received this communication in error, please immediately
+notify us by telephone (650-802-3000), and destroy the original
+message. Thank you.
+
+
+
+
+
+Received: from ln4p1013pos.ldn.swissbank.com (ln4p1013pos.ldn.swissbank.com [172.16.232.64])
+	by ln16p1175.ldn.swissbank.com (8.8.6 (PHNE_14041)/8.8.6/WDR gamma evision: 1.4 $) with ESMTP id XAA09294
+	for </S=Mills/G=Ursula/I=/Q=/@ln16p1175.ldn.swissbank.com>; Sat, 5 Jan 2002 23:20:19 GMT
+From: Roger.Ross@weil.com
+Received: from virscan3.swissbank.com (virscan3.swissbank.com [192.168.0.6])
+	by ln4p1013pos.ldn.swissbank.com (8.8.8/8.8.8) with ESMTP id XAA26152
+	for <ursula.mills@ubsw.com>; Sat, 5 Jan 2002 23:20:17 GMT
+Received: from gate2.ldn.ubswarburg.com (virscan3 [192.168.0.6])
+	by virscan3.swissbank.com (8.8.8/8.8.8) with ESMTP id XAA29144
+	for <ursula.mills@ubsw.com>; Sat, 5 Jan 2002 23:18:45 GMT
+Received: (from smap@localhost)
+	by gate2.ldn.ubswarburg.com (8.8.8/8.8.8) id XAA27124
+	for <ursula.mills@ubsw.com>; Sat, 5 Jan 2002 23:20:16 GMT
+Received: from <Roger.Ross@weil.com> (mail.nycl.twtelecom.net [216.54.204.190]) by gate2 via smap (V2.0)
+	id xma027112; Sat, 5 Jan 2002 23:20:07 GMT
+Received: from ip201.weil.com (ip201.weil.com [64.132.60.201])
+	by mail.nycl.twtelecom.net (Postfix) with SMTP
+	id 956B6331D5; Sat,  5 Jan 2002 17:14:56 -0600 (CST)
+Received: from no.name.available by ip201.weil.com
+          via smtpd (for mail.nycl.twtelecom.net [216.54.204.190]) with SMTP; 5 Jan 2002 23:05:30 UT
+Received: from 115.1.100.5 by wtalk-ny01.weil.com with ESMTP (Tumbleweed
+ MMS SMTP Relay (MMS v4.7)); Sat, 05 Jan 2002 18:13:11 -0500
+X-Server-Uuid: 009e143c-f45b-11d3-ab0f-00508ba380d8
+Subject: RE: Service Bureau Prohibitions
+To: "Wells, Bert" <bwells@cov.com>
+Cc: stephen.kahn@weil.com, "'ursula.mills@ubsw.com'" <Ursula.Mills@ubsw.com>
+Date: Sat, 5 Jan 2002 15:07:05 -0800
+Message-ID: <OFCD1BF650.C7888A08-ON88256B38.007E5CCA@weil.com>
+X-MIMETrack: Serialize by Router on SMTP-NY01/LS/WGM/US(Release 5.0.8
+ |June 18, 2001) at 01/05/2002 06:11:04 PM
+MIME-Version: 1.0
+X-WSS-ID: 1029570D440368-01-01
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+
+Visit our website at http://www.ubswarburg.com
+
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.

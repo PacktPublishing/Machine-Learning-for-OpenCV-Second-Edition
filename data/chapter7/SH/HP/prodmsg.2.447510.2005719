@@ -1,0 +1,97 @@
+Received: from ns2.fnbs.net.my (HELO relay1.fnbs.net.my) (202.9.108.180)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:41 -0000
+Received: by fnsrvlx10.fnbs.net.my (Postfix)
+	id 1C6165F10C; Tue, 19 Jul 2005 18:58:38 +0800 (MYT)
+Date: Tue, 19 Jul 2005 18:58:38 +0800 (MYT)
+From: MAILER-DAEMON@fnsrvlx10.fnbs.net.my (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="874225F116.1121770718/fnsrvlx10.fnbs.net.my"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105838.1C6165F10C@fnsrvlx10.fnbs.net.my>
+
+This is a MIME-encapsulated message.
+
+--874225F116.1121770718/fnsrvlx10.fnbs.net.my
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host fnsrvlx10.fnbs.net.my.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<distinfo_kl@iprestige.com>: host 202.9.108.195[202.9.108.195] said: 550 No
+    such user (distinfo_kl) -ERR distinfo_kl@iprestige.com not found (in reply
+    to RCPT TO command)
+
+--874225F116.1121770718/fnsrvlx10.fnbs.net.my
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; fnsrvlx10.fnbs.net.my
+X-Postfix-Queue-ID: 874225F116
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 18:58:33 +0800 (MYT)
+
+Final-Recipient: rfc822; distinfo_kl@iprestige.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host 202.9.108.195[202.9.108.195] said: 550 No such
+    user (distinfo_kl) -ERR distinfo_kl@iprestige.com not found (in reply to
+    RCPT TO command)
+
+--874225F116.1121770718/fnsrvlx10.fnbs.net.my
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from localhost (fnsrvlx10.fnbs.net.my [127.0.0.1])
+	by fnsrvlx10.fnbs.net.my (Postfix) with ESMTP id 874225F116
+	for <distinfo_kl@iprestige.com>; Tue, 19 Jul 2005 18:58:33 +0800 (MYT)
+Received: from relay1.fnbs.net.my ([127.0.0.1])
+ by localhost (fnsrvlx10.fnbs.net.my [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 06185-08 for <distinfo_kl@iprestige.com>;
+ Tue, 19 Jul 2005 18:58:33 +0800 (MYT)
+Received-SPF: none (fnsrvlx10.fnbs.net.my: 221.239.136.5 is neither permitted nor denied by domain of mail.scoaway.com) client-ip=221.239.136.5; envelope-from=projecthoneypot@projecthoneypot.org; helo=mailwisconsin.com;
+Received: from mailwisconsin.com (unknown [221.239.136.5])
+	by fnsrvlx10.fnbs.net.my (Postfix) with SMTP id 72A425F10E
+	for <distinfo_kl@iprestige.com>; Tue, 19 Jul 2005 18:58:27 +0800 (MYT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190941;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinfo_kl@iprestige.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Virus-Scanned: amavisd-new at relay1.fnbs.net.my
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716147">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--874225F116.1121770718/fnsrvlx10.fnbs.net.my--

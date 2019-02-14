@@ -1,0 +1,51 @@
+Return-Path: <RTMVGZEDL@nuukiemail.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 22692 invoked from network); 19 Dec 2004 07:16:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 19 Dec 2004 07:16:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 19 Dec 2004 07:16:14 -0000
+Received: (qmail 19380 invoked from network); 19 Dec 2004 07:16:13 -0000
+Received: from wbar1.sjo1-4-4-017-002.sjo1.dsl-verizon.net (unknown [4.4.17.2])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 19 Dec 2004 07:16:10 -0000
+Message-ID: <j7344s8ZM9L990W62FY74OCB08782437M939275@4.4.17.2>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+Location: 594 capsize install
+Reply-To: "Augustine Holland" <RTMVGZEDL@nuukiemail.com>
+From: "Augustine Holland" <RTMVGZEDL@nuukiemail.com>
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Take advantage of low interest-rates!
+Date: Sun, 19 Dec 2004 09:08:57 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--50248629259930929394"
+Content-Length: 445
+Lines: 24
+
+----50248629259930929394
+Content-Type: text/plain;
+	charset="iso-3475-1"
+Content-Transfer-Encoding: quoted-printable
+
+November Update: 
+
+Further drop! Rates starting at 3.25%
+
+Fixed Your mortgage process is pre-approved
+
+Please use our secure site to fill-out your application. 
+
+Visit us at:http://www.thebestmortage.net/x/loan2.php?id=3Dsas
+
+Thank you, 
+
+Augustine Holland
+
+http://www.thebestmortage.net/st.html
+ 
+
+
+----50248629259930929394--

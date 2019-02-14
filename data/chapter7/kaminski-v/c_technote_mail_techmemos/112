@@ -1,0 +1,68 @@
+Message-ID: <1814957.1075856596397.JavaMail.evans@thyme>
+Date: Fri, 13 Oct 2000 04:59:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: brad.horn@enron.com
+Subject: Re: Option P&L
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, robert.shiring@enron.com, 
+	jay.knoblauh@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, robert.shiring@enron.com, 
+	jay.knoblauh@enron.com
+X-From: Zimin Lu
+X-To: Brad Horn
+X-cc: Vince J Kaminski, Stinson Gibner, Robert Shiring, Jay Knoblauh
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Brad,
+
+I was extreamly busy yesterday.  Sorry for answing your question till now.
+
+Although I am not exactly sure how  the system handle gamma, this is what I=
+=20
+think the system is doing:
+
+
+Curve shift =3D today's price - yesterady's price
+
+P/L due to curve shift =3D today's market value using today's price curve (=
+with=20
+everything esle the same as yesterday's) - yesterday's market value using=
+=20
+yesterday's price curve.
+
+So P/L due to curve shift contains both delta and gamma and higher order=20
+terms.
+We then use theoretical gamma (meaning option model gamma: 0.5*gamma * (pri=
+ce=20
+change)2 ) for gamma contribution and?define delta =3D curve shift - theore=
+tical gamma.??Therefore, the gamma may not be very accurate to explain the =
+delta change, ?especially when you have big price change due to higher orde=
+r contribution. ??Let me know your thoughts on this.???Best wishes,??Zimin?=
+????????   Brad Horn                10/12/2000 07:11 AM??To: Zimin Lu/HOU/E=
+CT@ECT, Stinson Gibner/HOU/ECT@ECT?cc: Vince J Kaminski/HOU/ECT@ECT, Vladim=
+ir Gorny/HOU/ECT@ECT, Robert ?Shiring/HOU/ECT@ECT, Jay Knoblauh/HOU/ECT@ECT=
+ ?Subject: Option P&L??Gentleman:?        The ERMS system, as you know, has=
+ an excellent capability for ?decomposing option P&L into the following com=
+ponents:??new deals?curve shift?gamma?vega?theta?rho?drift?2nd order adjust=
+ments??What i dont understand is the gamma component which is reported in d=
+ollars.  ?The unit of measure suggests that incremental changes in a contra=
+ct position ?is being associated with specific prices.  These prices are th=
+e effective buy ?or sell prices associated with the dynamic delta position.=
+  ??Stated differently, the standard taylor expansion has incorporated a pr=
+ice ?variable in such a way as to convert the unit of measure from gamma's =
+?standard contract count to total gamma dolalrs.  This is something I dont =
+?understand.  To date, inquiries to the risk management accounting group ha=
+s ?further revealed that the gamma component of P&L is not well understood.=
+  ??This is what concerns me: Bridgeline has 2 books with option exposures =
+(NYMEX ?and Gas Daily).  Both books dynamically hedged its positions during=
+ ?yesterdays large price move and, through anticipitory hedging in advance =
+or ?during the large price move, secured sufficient coverage to neutralize =
+?expected changes in delta.  However, our P&L from our underlying position =
+did ?not offset our gamma P&L.  Consequently, I have to ask WHY?  Im hoping=
+ that a ?brief look at the why gamma dollars are calculated may reveal some=
+thing which ?will better guide our hedging decisions.??Any help is apprecia=
+ted??

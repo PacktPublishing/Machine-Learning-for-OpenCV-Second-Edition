@@ -1,0 +1,19 @@
+Return-Path: <jameshp@rr.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4217 invoked by uid 115); 21 Nov 2004 05:20:46 -0000
+Received: from jameshp@rr.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.209.19.10):. 
+ Processed in 0.164023 secs); 21 Nov 2004 05:20:46 -0000
+Received: from unknown (HELO rr.com) (211.209.19.10)
+  by churchill.factcomp.com with SMTP; 21 Nov 2004 05:20:45 -0000
+From: "James" <jamesrt@rr.com>
+To: <bruceg@em.ca>
+Subject: 
+Date: Sat, 20 Nov 2004 22:26:35 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Qmail-Scanner-Message-ID: <11010144466724212@churchill>
+
+Want a Watch?
+http://vwk.afeet.com
+

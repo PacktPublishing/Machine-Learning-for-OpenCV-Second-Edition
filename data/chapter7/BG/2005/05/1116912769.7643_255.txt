@@ -1,0 +1,77 @@
+Return-Path: <info@roter-sueden.de>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30339 invoked by uid 115); 24 May 2005 05:11:56 -0000
+Received: from info@roter-sueden.de by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(212.227.126.171):. 
+ Processed in 0.137247 secs); 24 May 2005 05:11:56 -0000
+Received: from moutng.kundenserver.de (212.227.126.171)
+  by churchill.factcomp.com with SMTP; 24 May 2005 05:11:55 -0000
+Received: from M694P008.adsl.highway.telekom.at [62.47.246.168] (helo=Gustl-Compaq)
+	by mrelayeu.kundenserver.de with ESMTP (Nemesis),
+	id 0MKwtQ-1DaRxz1Oxe-0006oy; Tue, 24 May 2005 07:28:35 +0200
+From: "info@roter-sueden.de" <info@roter-sueden.de>
+Subject: Der neue Kontaktanzeigen-Markt   ROTER-SUEDEN
+To: bruceg@em.ca
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_6B7_4766_673706A6.677686B0"
+MIME-Version: 1.0
+Reply-To: info@roter-sueden.de
+Date: Tue, 24 May 2005 07:28:35 +0200
+Message-Id: <20050524072834DD69411B9A$873C26D77D@GUSTLCOMPAQ>
+X-Mailer-Version: 3.81
+X-Sender: AE8E7D71-AA96-49E5-922A-80E1E012354
+X-Provags-ID: kundenserver.de abuse@kundenserver.de login:11dd0bfb17f7844191283cee195c2e65
+Content-Length: 1871
+
+This is a multi-part message in MIME format
+
+------=_NextPart_6B7_4766_673706A6.677686B0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+Sehr geehrte Damen und Herren,
+
+
+wir d=FCrfen Ihnen hiermit unseren neuen Kontaktanzeigenmarkt ROTER-SUED=
+EN vorstellen,
+seit 3 Tagen am Start. 
+
+Einzugsgebiet: Deutschland, =D6sterreich, Schweiz und S=FCdtirol
+
+http://www.roter-sueden.de 
+
+v=F6llig real und fair - keine Abzocke - keine Dialer,
+mit vielen Features und Auswahlkriterien.
+   
+Besuchen Sie uns und =FCberzeugen Sie sich selbst davon. 
+
+
+Viel Spa=DF - Ihr Team Roter S=FCden
+
+------=_NextPart_6B7_4766_673706A6.677686B0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> <html><he=
+ad>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Diso-88=
+59-1">
+  <META content=3D3.81 name=3DGenerator> <title>Der neue Kontaktanzeigen=
+-Markt   ROTER-SUEDEN</title>
+ </head>
+ <body bgColor=3D#ffffff> <P align=3Dleft>&nbsp;</P><P align=3Dleft>Sehr=
+ geehrte Damen und Herren,</P><P align=3Dleft>wir d=FCrfen Ihnen hiermit=
+ unseren neuen Kontaktanzeigenmarkt ROTER-SUEDEN vorstellen,<BR>seit 3 T=
+agen am Start. </P><P align=3Dleft>Einzugsgebiet: Deutschland, =D6sterre=
+ich, Schweiz und S=FCdtirol</P><P align=3Dleft><A href=3D"http://www.rot=
+er-sueden.de">http://www.roter-sueden.de</A> </P><P align=3Dleft><BR><ST=
+RONG>v=F6llig real und fair - keine Abzocke - keine Dialer</STRONG>&nbsp=
+;&nbsp; </P><P align=3Dleft>Besuchen Sie uns und =FCberzeugen Sie sich s=
+elbst davon. </P><P align=3Dleft>Mit vielen Features und Auswahlkriterie=
+n.</P><P align=3Dleft>&nbsp;</P><P align=3Dleft>Viel Spa=DF - Ihr Team</=
+P><P align=3Dleft>Roter S=FCden</P></body>
+ </html>
+ 
+
+------=_NextPart_6B7_4766_673706A6.677686B0--

@@ -1,0 +1,34 @@
+Return-Path: <info@catho.com.br>
+Delivered-To: em-ca-bait-satinite@em.ca
+Received: (qmail 21028 invoked by uid 115); 26 Jun 2005 14:24:52 -0000
+Received: from info@catho.com.br by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(220.112.105.165):. 
+ Processed in 0.503284 secs); 26 Jun 2005 14:24:52 -0000
+Received: from unknown (HELO @firstmailboxes.com) (220.112.105.165)
+  by churchill.factcomp.com with SMTP; 26 Jun 2005 14:24:50 -0000
+Received: from 213.197.128.71
+        (SquirrelMail authenticated user info@catho.com.br);
+        by firstmailboxes.com with HTTP id J85Gz030808577;
+        Sun, 26 Jun 2005 14:25:21 +0000
+Message-Id: <jaUgPW.squirrel@213.197.128.71>
+Date: Sun, 26 Jun 2005 14:25:21 +0000
+Subject: Just to her...
+From: "Arline Mcmahon" <info@catho.com.br>
+To: bait-satinite@em.ca
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://jenny.medashop.com/vt/?86262900">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>

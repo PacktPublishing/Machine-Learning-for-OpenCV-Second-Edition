@@ -1,0 +1,52 @@
+Return-Path: <cellgprs@iespana.es>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 11049 invoked by uid 115); 29 Jul 2005 09:12:12 -0000
+Received: from cellgprs@iespana.es by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(168.226.108.105):. 
+ Processed in 0.121939 secs); 29 Jul 2005 09:12:12 -0000
+Received: from 168-226-108-105.speedy.com.ar (HELO 192.168.2.2) (168.226.108.105)
+  by churchill.factcomp.com with SMTP; 29 Jul 2005 09:12:11 -0000
+From: "NETPATAGONIA" <cellgprs@iespana.es>
+To: <bruceg@em.ca>
+Subject: REDUZCA SUS GASTOS TELEFONICOS
+Sender: "NETPATAGONIA" <cellgprs@iespana.es>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 0729050614"
+Date: Fri, 29 Jul 2005 06:14:23 -0300
+Reply-To: "NETPATAGONIA" <cellgprs@iespana.es>
+X-Qmail-Scanner-Message-ID: <112262833267211039@churchill>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 0729050614
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+EMPRESA LIDER MUNDIAL LE PERMITE UTILIZAR SU NUEVA TECNOLOGIA Y LLAMAR A TODO EL MUNDO GRATIS!!
+PARA MAS INFORMACION PINCHE AQUI
+
+--= Multipart Boundary 0729050614
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 6.00.2900.2668" name=GENERATOR>
+<STYLE>BODY {
+	FONT-FAMILY: arial
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV><STRONG>EMPRESA LIDER MUNDIAL LE PERMITE UTILIZAR SU NUEVA TECNOLOGIA Y 
+LLAMAR A TODO EL</STRONG> <FONT color=#ff0000><STRONG>MUNDO 
+GRATIS!!</STRONG></FONT></DIV>
+<DIV><STRONG><A href="http://www.netpatagonia.com/inaki.htm">PARA MAS 
+INFORMACION PINCHE AQUI</A></STRONG></DIV></BODY></HTML>
+
+--= Multipart Boundary 0729050614--
+

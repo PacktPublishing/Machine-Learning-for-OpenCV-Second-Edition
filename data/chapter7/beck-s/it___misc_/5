@@ -1,0 +1,155 @@
+Message-ID: <2143102.1075855878290.JavaMail.evans@thyme>
+Date: Wed, 18 Oct 2000 02:48:00 -0700 (PDT)
+From: beth.perlman@enron.com
+To: john.lavorato@enron.com
+Subject: Re: Systems - ERMS
+Cc: philippe.bibi@enron.com, sally.beck@enron.com, jeffrey.gossett@enron.com, 
+	stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: philippe.bibi@enron.com, sally.beck@enron.com, jeffrey.gossett@enron.com, 
+	stephen.stock@enron.com
+X-From: Beth Perlman
+X-To: John J Lavorato
+X-cc: Philippe A Bibi, Sally Beck, Jeffrey C Gossett, Stephen Stock
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+John,
+
+These issues are being addressed by Steve Stock and Chris Hanz in my area a=
+s=20
+well as people on the infrastructure side (in Jenny Rub's organization).  W=
+e=20
+understand the significance of these problems and they have not gone=20
+unrecognised.  There are 3 components to this plan, the DBA fixes are noted=
+=20
+below (I know it's a lot of technical terms, but this is a highly complex=
+=20
+problem).  The other 2 pieces are the application and the hardware.  I will=
+=20
+include these plans as soon as I receive them.
+
+My team stayed last night with Jeff Gossett and his folks.  A number of ite=
+ms=20
+came out of observing what transpires in risk.  We feel that there are many=
+=20
+performance enhancements that can be made to the macros to speed up non ERM=
+S=20
+processing.   I'll keep you posted on what we find and the plans to fix the=
+m.
+
+Beth
+
+
+
+Database Observed Problems
+
+? OS - Severe I/O contention (due to 6 years old disk storage device)
+? OS - Max CPU utilization (due to wait I/O contention)
+? DB - Redo Log Sync (synchronization of Redo information memory with disk)
+? DB - Shared Pool fragmentation (due to unbound SQL )
+? DB - Inefficient buffer cache utilization (due to inefficient SQL)
+
+
+Recommendation
+
+Short Term
+
+? Alleviate Shared Pool contention
+- increased Shared Pool size
+- disabled MTS
+- increased session_cached_cursors
+Implemented on 10/15/2000
+
+? Alleviate Redo Log Sync
+- increased redo_log_buffer
+Implemented on 10/15/2000
+
+? Alleviate I/O contention for rollback segment tablespace
+- added additional tablespace with 2/3more rollback segments
+Implemented on 10/17/2000
+
+? Alleviate I/O contention for redo logs
+- reorg disk storage and implement striping for Redo logs
+- turn on force direct I/O write for intensive volumes
+Under investigation =01) 2 days work
+
+? Turn on Veritas tuning feature
+- expect 5% improvement
+- tested on Shemp today
+Required system reboot=20
+
+? SQL Tuning=20
+Deliver Lists of expensive SQL with recommendation by 10/27/2000
+
+? Reassess CPR migration to different UNIX host
+Waiting for disk storage =01) 2 to 3 weeks
+       New 10K located in Ardmore
+
+Long Term
+
+? Latest storage technology
+
+? Capacity planning
+
+? ERMT and CPR application review
+
+? Upgrade ERMT to 8I
+
+
+
+
+
+
+=09John J Lavorato@ENRON
+=0910/17/2000 01:31 PM
+=09=09=20
+=09=09 To: Beth Perlman/HOU/ECT@ECT, Philippe A Bibi/HOU/ECT@ECT
+=09=09 cc:=20
+=09=09 Subject: Systems - ERMS
+
+
+---------------------- Forwarded by John J Lavorato/Corp/Enron on 10/17/200=
+0=20
+01:25 PM ---------------------------
+  =20
+=09
+=09
+=09From:  Jeffrey C Gossett @ ECT                           10/17/2000 09:4=
+5 AM
+=09
+
+To: John J Lavorato/Corp/Enron@Enron
+cc: =20
+
+Subject: Systems - ERMS
+
+John -
+
+Again,  we are having "big time" systems issues.  While we are having the=
+=20
+usual length of time issues (a few people were here past midnight last=20
+night), the issues that occured last night are much more serious than in th=
+e=20
+past.  The system brought through totally inaccurate information on a few=
+=20
+books.  (Positions,  value,  etc.)  Luckily, these errors were all caught=
+=20
+last night,  but if a less experienced person had been on those books,  it=
+=20
+could have been a disaster.  (Traders getting incorrect positions and p&l a=
+nd=20
+interest rate and credit getting incorrect numbers.)  I have contacted thos=
+e=20
+in ERMS that need to be involved,  but I would appreciate it if you could=
+=20
+provide additional support to this effort.
+
+Thanks,
+
+Jeff
+
+

@@ -1,0 +1,67 @@
+Message-ID: <16295720.1075855008254.JavaMail.evans@thyme>
+Date: Mon, 30 Jul 2001 14:23:50 -0700 (PDT)
+From: ramona.betancourt@enron.com
+To: lindy.donoho@enron.com, kimberly.watson@enron.com
+Subject: FW: TW Flow Direction
+Cc: tk.lohman@enron.com, michelle.lokay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tk.lohman@enron.com, michelle.lokay@enron.com
+X-From: Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RBETANC>
+X-To: Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldonoho>, Watson, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwatson>
+X-cc: Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>, Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+
+Kim and Lindy,
+
+It looks like the timing on Flow Direction requirements should be around Sept. 1st. I got copies on the meeting notes rom Michelle after Steve's staff meeting today. I know Lindy is back on Thursday, then I will be out the following week of Aug. 6th - 13th. I have some hand outs from some of our previous meetings last year that we can start with.
+Please give me a call when you return Lindy.
+Thanks Ramona
+ -----Original Message-----
+From: 	Betancourt, Ramona   
+Sent:	Monday, July 30, 2001 11:44 AM
+To:	Lee, Dennis
+Cc:	Sawyer, Lisa; Trevino, Linda; Holmes, Bradley; Dietz, Rick; Betancourt, Ramona 
+Subject:	RE: TW Flow Direction
+
+Dennis,
+
+I do not have anything documented in any detail yet. Lindyis out on vacation & I lknow I will be reviewing the requirments with her. I will be working on the flow direction requirements over the next 2 to 3 maybe 4 weeks. After discussing with Hasan, we plan to implement in the December / January time frame so that it moves in with TW's new contract system.This Flow Direction Project was part of the TW 2001 system enhancement budget dollars. I know that at the CMS status update meeting last week Lisa noted these two items for TW. Also noted was a comment about needing the details on the Winthin and Outside the path . The Within and Outside the  path is already coded in the current CBS system and PLE system. You should be able to pull from the current system the process. I know it will need to merge into the new system. The basic concept is as Follows:
+
+All points on TW are tied to a Marketing Lateral code.
+This code is stored in PLE for each point on TW
+A Batch Process is set up in CBS that is a stored procedure that runs everyday at 12:00 noon to calculate the inside/outside the paths on all firm contracts. (Release, FTS3, FTS1, LFT, EFBH). This process finds the marketing lateral for the primary receipt and primary delivery pionts & identifies all possible laterals between the primary receipt to primary delivery that can be valid alternate points inside the path and stores those to be used in the allocation process. It maps it out for each firm contract. This process is uses the valid  marketing laterals to build the inside alternate paths. Any contract whose alternate receipt or alternate delvery point that is not in the valid available marketing lateral is an outside the path transaction. TMS uses this process in the allocations on TW.
+With revalidation the TMS system checks for contracts that change primary receipt points and delivery points in the evening, nongrid, I/ D1 , and I/D2 cycles. However the stored procedure batch job is a maunal process, the contract team would submit this batch job on demand so that it can identify the valid marketing laterals for that specific contract that was changed. I would like to see this automated with the new CMS system. Each time a firm contract is changed for a gas day after the timely cycle is run, this batch job or stored procedure should automaticly rum again for that contract that was changed.
+
+Thanks Ramona
+
+ -----Original Message-----
+From: 	Lee, Dennis  
+Sent:	Friday, July 27, 2001 9:44 AM
+To:	Betancourt, Ramona 
+Subject:	FW: TW Flow Direction
+
+Ramona, let me know, please.
+
+Thanks,
+
+Dennis
+
+
+ -----Original Message-----
+From: 	Trevino, Linda  
+Sent:	Friday, July 27, 2001 7:19 AM
+To:	Lee, Dennis
+Subject:	TW Flow Direction
+
+Dennis,
+
+I noticed on Ramona's bullets she was working with Marketing and Contracts on the TW flow direction business requirements.  Are you in the loop on this?  If not could you please let her know that you need to be in the loop and see if there is anything documented as of yet on this?  I would like to see some type of documentation as soon as possible.
+
+Thanks
+
+Linda

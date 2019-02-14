@@ -1,0 +1,46 @@
+Message-ID: <29923924.1075844095881.JavaMail.evans@thyme>
+Date: Fri, 30 Jun 2000 11:50:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: ena.employees@enron.com, ees_employees@enron.com, gas.operations@enron.com
+Subject: SAP Expense Report Form
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: ENA Employees, EES_Employees, Gas Pipeline Group Operations
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+With the implementation of SAP, the employee expense report form has been 
+modified to reflect the new coding system.  The procedures for its use are 
+unchanged, but there are some cosmetic differences.  One item to note: the 
+form no longer requires entry of your Social Security Number; instead use 
+your new personnel number assigned through Human Resources (see 
+http://hrweb.enron.com).  For electronically submitted expense reports, enter 
+the same number on the receipt envelope.
+
+The form is now available at the SAP website.  To access the form:
+
+ From the Enron home page, go to the SAP intranet site http://sap.enron.com
+ Choose one of the following paths:
+ Click on Quick Reference Tools on the left menu
+  Click drop-down arrow for Accounts Payable Forms
+  Click SAP Expense Report Form
+
+  Click on Forms and Procedures Library on the left menu
+  Click drop-down arrow for Accounts Payable Forms
+  Click SAP Expense Report Form
+ Wait for it to load
+ Click Enable Macros (or Yes, allow macros)
+
+After you enter the data, save as Excel Workbook (.xls file extension) with a 
+new filename.  Do not save as Excel Template (.xlt extension).
+
+You may print the spreadsheet for submission to Accounts Payable, or attach 
+it to Notes for electronic submission.  Instructions are available at the 
+website, on the same drop down box as the form.
+
+If you have any questions, contact the Center of Expertise (COE) at 713 
+345-7427.

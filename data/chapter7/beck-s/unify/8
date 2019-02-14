@@ -1,0 +1,98 @@
+Message-ID: <2720304.1075855929664.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 03:20:00 -0700 (PDT)
+From: beverly.fennessy@enron.com
+To: regan.smith@enron.com
+Subject: Re: SAP / Global/ Unify replication problem on Friday June 30th
+Cc: jeff.johnson@enron.com, scott.mills@enron.com, beth.perlman@enron.com, 
+	sally.beck@enron.com, mark.schmidt@enron.com, 
+	randy.rippentrop@enron.com, susan.marshall@enron.com, 
+	mark.leskowitz@enron.com, theresa.shieh@enron.com, 
+	louie.truong@enron.com, richard.elwood@enron.com, 
+	kenneth.harmon@enron.com, scott.williamson@enron.com, 
+	jun.lu@enron.com, simon.sear@enron.com, kevin.dinh@enron.com, 
+	dave.nommensen@enron.com, terry.sanvido@enron.com, 
+	pamela.lebrane@enron.com, chris.schomer@enron.com, 
+	bill.hare@enron.com, lana.yu@enron.com, 
+	jaikishore.bharathi@enron.com, jim.ogg@enron.com, 
+	greg.whiting@enron.com, diem.pham@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.johnson@enron.com, scott.mills@enron.com, beth.perlman@enron.com, 
+	sally.beck@enron.com, mark.schmidt@enron.com, 
+	randy.rippentrop@enron.com, susan.marshall@enron.com, 
+	mark.leskowitz@enron.com, theresa.shieh@enron.com, 
+	louie.truong@enron.com, richard.elwood@enron.com, 
+	kenneth.harmon@enron.com, scott.williamson@enron.com, 
+	jun.lu@enron.com, simon.sear@enron.com, kevin.dinh@enron.com, 
+	dave.nommensen@enron.com, terry.sanvido@enron.com, 
+	pamela.lebrane@enron.com, chris.schomer@enron.com, 
+	bill.hare@enron.com, lana.yu@enron.com, 
+	jaikishore.bharathi@enron.com, jim.ogg@enron.com, 
+	greg.whiting@enron.com, diem.pham@enron.com
+X-From: Beverly Fennessy
+X-To: Regan M Smith
+X-cc: Jeff Johnson, Scott Mills, Beth Perlman, Sally Beck, Mark Schmidt, Randy Rippentrop, Susan S Marshall, Mark J Leskowitz, Theresa Shieh, Louie Truong, Richard Elwood, Kenneth M Harmon, Scott Williamson, Jun Lu, Simon Sear, Kevin T Dinh, Dave Nommensen, Terry Sanvido, Pamela Lebrane, Chris Schomer, Bill D Hare, Lana Yu, Jaikishore Bharathi, Jim Ogg, Greg Whiting, Diem Pham
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Hi.  To complete our discussion on the  manual monitoring & also to clarify, 
+see below.
+
+Greg Whiting will call ENA whenever he enters more than a specified number of 
+changes in the SAP T880 table. He will transition this procedure to the SAP 
+COE.  What is the threshold that Global needs to be notified?  Who in Global 
+should be notified?
+
+To clarify, the verification is manual & is subject to human error, such as 
+someone forgets or is on vacation.  If a large file is sent without 
+notification during the day, the impact is significant.  I think moving the 
+job to run in the evening will virtually eliminate the potential for this 
+problem to occur again.  However, to eliminate the risk completely I suggest 
+that the verification be automated.  You said that you'll have the ability to 
+do this in global in a few months.  If you can't do it, then we (SAP) need to 
+write an automated monitoring program.  
+
+
+
+
+
+
+Regan M Smith@ECT
+07/05/2000 08:53 AM
+To: Jeff Johnson/Corp/Enron@Enron, Scott Mills/HOU/ECT@ECT, Beth 
+Perlman/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Mark Schmidt/Corp/Enron@ENRON, 
+Randy Rippentrop/Corp/Enron@ENRON
+cc: Beverly Fennessy/Corp/Enron@ENRON, Susan S Marshall/HOU/ECT@ECT, Mark J 
+Leskowitz/HOU/ECT@ECT, Theresa Shieh/Corp/Enron@ENRON, Louie 
+Truong/GPGFIN/Enron@ENRON, Richard Elwood/HOU/ECT@ECT, Kenneth M 
+Harmon/HOU/ECT@ECT, Jeff Johnson/Corp/Enron@Enron, Scott 
+Williamson/HOU/ECT@ECT, Jun Lu/HOU/ECT@ECT, Simon Sear/Corp/Enron@Enron, 
+Kevin T Dinh/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Terry 
+Sanvido/Corp/Enron@ENRON, Pamela Lebrane/Corp/Enron@ENRON, Chris 
+Schomer/Corp/Enron@ENRON, Bill D Hare/HOU/ECT@ect, Lana Yu/HOU/ECT@ECT, 
+Jaikishore Bharathi/HOU/ECT@ECT, Jim Ogg/HOU/ECT@ECT 
+
+Subject: SAP / Global/ Unify replication problem on Friday June 30th
+
+
+On Friday June 30th, Unify's production performance was impacted by a large 
+volume (30k) of replication/ configuration transactions from SAP.
+The mass update from SAP to Global/ Unify effected Enron's business 
+throughout the afternoon, causing contract replication to be delayed, and 
+missed nominations.
+
+Corrective actions taken to ensure this does not occur again:
+Global Replication - Move the SAP to Global/ Unify replication for 
+Intercompany from hourly to a nightly (1:00 am) process.  As we could miss 
+new data setup dependencies, the volume is expected to be reduced.
+SAP Support - SAP IT support will notify Global systems of any scheduled 
+'rebuilds'/ mass updates to monitor/ move the schedule during an off-peak 
+time.
+
+
+Regan Smith, x39291
+Manager, Unify Accounting
+Unify/ SAP Interface
+

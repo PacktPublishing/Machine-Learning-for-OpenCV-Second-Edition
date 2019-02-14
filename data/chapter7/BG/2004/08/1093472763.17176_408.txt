@@ -1,0 +1,60 @@
+Return-Path: <gumfvit@cocolee.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 27174 invoked by uid 115); 22 Aug 2004 20:52:24 -0000
+Received: from gumfvit@cocolee.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.183.63.230):. 
+ Processed in 5.085133 secs); 22 Aug 2004 20:52:24 -0000
+Received: from unknown (HELO 209.5.178.248) (61.183.63.230)
+  by churchill.factcomp.com with SMTP; 22 Aug 2004 20:52:19 -0000
+Received: from 60.208.180.180 by 209.5.178.248; Mon, 23 Aug 2004 03:44:48 +0600
+Message-ID: <NRWLSUJVHJLWMBKFXFUT@finklfan.com>
+From: "Cherie Santiago" <gumfvit@cocolee.net>
+Reply-To: "Cherie Santiago" <gumfvit@cocolee.net>
+To: bruceg@em.ca
+Subject: No Dr, get it on-line
+Date: Mon, 23 Aug 2004 01:45:48 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--131917083978708016"
+X-Priority: 3
+X-CS-IP: 136.36.222.230
+
+----131917083978708016
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<title>Message</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+Howdy,
+<p>I represent the leading online offshore pharmacy on the net. <br>
+  I was wondering if you might like to be able to get your medications for <br>
+  70-percent less than what you are currently paying. </p>
+<p>Let us help you to save-thousands on your expensive meds &amp; costly DR visits.<br>
+  We ship worldwide &amp; have a full selection of meds that fall into <br>
+  many different health catergories:</p>
+<p>Angina, Arthritis, Antibiotic, Anxiety disorder, Allergy, <br>
+  Blood Thinner, Breast Cancer, Diuretic, Epilepsy,<br>
+  Stroke / Heart Attack, Headaches, Men's Health, Osteoporosis, <br>
+  Pain Relief, Diabetes, Stop Smoking, Sleeping Disorders, <br>
+  Blood Pressure, Anti Depressant, Cholesterol, Weight Loss, <br>
+  Upset Stomach, Muscle Relaxant, and more. </p>
+<p><a href="http://uq.23run.biz/?wid=100067"><img src="http://z.23run.biz/ads/images/60pills9.gif"></a></p>
+<p><a href="http://b.23run.biz/?wid=100067">Why not visit us and find out what your missing?</a><br>
+  <br>
+  <br>
+</p>
+<p>Truly yours,<br>
+  Cherie Santiago<br>
+  <a href="http://hea.23run.biz/book/">Contact-Preference</a><br>
+  </p>
+</body>
+</html>
+
+
+----131917083978708016--
+

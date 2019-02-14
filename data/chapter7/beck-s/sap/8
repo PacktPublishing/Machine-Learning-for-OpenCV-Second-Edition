@@ -1,0 +1,76 @@
+Message-ID: <24753882.1075855895877.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 06:22:00 -0700 (PDT)
+From: janet.tran@enron.com
+To: kathy.kokas@enron.com
+Subject: GCP / SAP / Mid Office Systems Master Data Issues
+Cc: wayne.andrews@enron.com, gary.sentiff@enron.com, diem.pham@enron.com, 
+	pamela.lebrane@enron.com, mary.solmonson@enron.com, 
+	bill.hare@enron.com, sally.beck@enron.com, john.paskin@enron.com, 
+	brian.hunter-lindsay@enron.com, bhautik.patel@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: wayne.andrews@enron.com, gary.sentiff@enron.com, diem.pham@enron.com, 
+	pamela.lebrane@enron.com, mary.solmonson@enron.com, 
+	bill.hare@enron.com, sally.beck@enron.com, john.paskin@enron.com, 
+	brian.hunter-lindsay@enron.com, bhautik.patel@enron.com
+X-From: Janet Tran
+X-To: Kathy Kokas
+X-cc: Wayne Andrews, Gary Sentiff, Diem Pham, Pamela Lebrane, Mary Solmonson, Bill D Hare, Sally Beck, John Paskin, Brian Hunter-Lindsay, Bhautik Patel
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Hello Everyone,
+Please find below the issues, action taken, and action plan / proposed 
+resolution for GCP / SAP / Mid Office Systems interface.
+If you have further questions/comments, please feel free to contact me.
+
+Regards,
+Janet
+
+Issues:
+Brazil and Argentina Tax Code - Counterparty tax code for these countries are 
+required in SAP but not in GCP.
+Bank Partner Type Changes - Partner bank type changes for counterparties -- 
+triggered by master data changes in GCP -- while bank data remains the same, 
+resulting in invoices being paid to the incorrect bank and/or bank account.
+Ownership - who owns what?
+
+Action Taken:
+Brazil and Argentina Tax Code
+Meeting took place.  Agreed upon plan is for mid office user to provide tax 
+requirements and/or codes to Bill.  SAP is waiting for tax requirements 
+and/or codes to determine whether user exits should be disable (these are 
+custom user exits SAP has implemented to accommodate the Brazil and Argentina 
+tax requirements back from 1/01/00 go-live)
+Bank Partner Type
+Our understanding is GCP has agreed to modify the GCP program to keep bank 
+partner type static.  GCP technical team is developing this solution.
+Ownership
+Mid Office Users own data
+GCP maintains counterparty master data
+GCP and SAP ensure that solution in place to move master data from GCP to SAP 
+satisfy invoicing and cash processing business requirements.
+
+Summary:
+Many meetings have taken place.  Major progress has been made.  Now we need 
+to evaluate GCP reengineering initiative to see whether it affects scope  and 
+requirements regarding current solution in place for this 3-way interface.
+
+Proposed Resolution:
+SWAT team representing both Houston and London to be formed and meet in 
+London week of Sep. 11- 15th to:
+Address all issues evolving around this interface.
+Develop solutions to issues, workplan, ownership, and timeline.
+SWAT team members:
+Janet Tran - SAP TRAPAR
+Pamela LeBrane - SAP TRAPAR
+Diem Pham - SAP Technical  -- Will already be in London that week for EEL
+Bill Hare - GCP Functional (Houston)
+Mary Solmonson - GCP Functional (Global)  -- Will already be in London that 
+week for other business
+Energy Operations Reprentative(s) - with Brazil / Argentina tax knowledge
+Bhautik Patel - GCP Functional (London)
+Brian Hunter-Lindsay - GCP Functional (London)
+John Paskin - SAP London

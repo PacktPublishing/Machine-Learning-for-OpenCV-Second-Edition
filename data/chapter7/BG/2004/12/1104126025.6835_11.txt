@@ -1,0 +1,47 @@
+Return-Path: <"\"L[5-]\""@doneasy.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 9620 invoked from network); 26 Dec 2004 14:41:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 26 Dec 2004 14:41:18 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 26 Dec 2004 14:41:18 -0000
+Received: (qmail 19782 invoked from network); 26 Dec 2004 14:41:17 -0000
+Received: from 69.5.6.152 (unknown [61.81.171.145])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 26 Dec 2004 14:41:16 -0000
+X-Message-Info: LLU/fq+750+zbt/YUG+6/9494386454213
+Received: from smtp-vexation.aile.L[5-]@doneasy.com ([61.81.171.145]) by y215-xnz0.L[5-]@doneasy.com with Microsoft SMTPSVC(5.0.7970.4446);
+	 Sun, 26 Dec 2004 17:36:13 +0300
+Received: from harrisburg970.rapier.L[5-]@doneasy.com (mention703.L[5-]@doneasy.com [61.81.171.145])
+	by smtp-ginseng.edison.L[5-]@doneasy.com (Postfix) with SMTP id 83RG3O6ME
+	for <cvs@bruce-guenter.dyndns.org>; Sun, 26 Dec 2004 10:36:13 -0400
+Received: from smtp-belle.rectitude.L[5-]@doneasy.com ([61.81.171.145]) by rz06-p28.L[5-]@doneasy.com with Microsoft SMTPSVC(5.0.2626.7173);
+	 Sun, 26 Dec 2004 08:32:13 -0600
+X-Message-Info: AZKRD+%ND_LC_CHAR[1-3]0+fz+TDA+233/92702761207873
+Received: (qmail 39856 invoked by uid 530); Sun, 26 Dec 2004 16:35:13 +0200
+Date: Sun, 26 Dec 2004 12:37:13 -0200
+Message-Id: <03740524965.54142@L[5-]@doneasy.com>
+From: Andrea  Garland <L[5-]@doneasy.com>
+To: Cvs <cvs@bruce-guenter.dyndns.org>
+Subject: Viagra for Free
+MIME-Version: 1.0 (produced by kalmiaconsult 6.1)
+Content-Type: multipart/alternative;
+	boundary="--3762049250866939"
+Content-Length: 360
+Lines: 14
+
+----3762049250866939
+Content-Type: text/plain;
+	charset="iso-0363-7"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: chattanooga titmouse sanctimonious
+
+Always wanted to try the drug the world has been talking about?
+
+Well now is your chance to try it for FREE!!!
+
+Get FREE Viagra here: www.247-4LESS.COM/free/?bonsay
+
+
+----3762049250866939--

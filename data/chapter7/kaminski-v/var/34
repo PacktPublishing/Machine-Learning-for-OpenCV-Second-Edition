@@ -1,0 +1,77 @@
+Message-ID: <11021498.1075856641429.JavaMail.evans@thyme>
+Date: Wed, 21 Mar 2001 01:58:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: naveen.andrews@enron.com
+Subject: Re: estimating tail of distribution and additional risk measures
+Cc: vince.kaminski@enron.com, david.port@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, david.port@enron.com
+X-From: Tanya Tamarchenko
+X-To: Naveen Andrews
+X-cc: Vince J Kaminski, David Port
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Naveen,
+the "analytical VAR" approach is working for Equity portfolio. 
+It gives us the tool to examine the tails' behavior for this portfolio and 
+calculate "Expected Tail Loss".
+The same should be done for commodities portfolio as well.
+
+Meanwhile, as we discussed, we can give some rough estimates of the losses 
+corresponding to percentiles other than 5th.
+
+Look at the figure below. You can see VAR numbers for 5%, 1%, 0.5% and 0.1% 
+calculated with 
+1) simulations (100 thousand simulations);
+2) analytical VAR (gamma-delta positions representation)
+
+ 1) and 2) are very close because there are not many options in Equity 
+portfolio.
+
+3) simulations (1000 simulations) to calculate 5% VAR. Then in order to 
+approximately estimate VAR for 1%, 0.5% and 0.1%
+I scaled 5% VAR with factors corresponding to normal distribution (for 
+example: Norminv(0.001,0,1)/Norminv(0.05,0,1) for 0.1%).
+The result of such extrapolation in this case is quite good (just 5% 
+different from the correct number). 
+We probably can use such rough estimates of tail for commodities portfolio 
+until we have proper methods implemented. 
+
+
+
+
+
+
+Tanya Tamarchenko
+02/28/2001 01:17 PM
+To: Wenyao Jia/HOU/ECT, Debbie R Brackett/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT 
+Subject: Re: "analytical" var implementation in RisktRAC  
+
+Debbie,
+I am forwarding to you a 2 page document describing implementation of 
+"analytical" VAR in RisktRAC.
+
+Here is why this effort is very important:
+1. We need to calculate VAR for other percentile but 5 (1% or even 0.2% as 
+mentioned by Rick Buy)
+and our simulation model can not handle required number of simulations;
+2. We need to present additional risk measures (such as Mean Tail Loss) to 
+the Board.
+
+The analytical approach is implemented in a spreadsheet and fully tested 
+already so there will be no problems
+with the algorithm itself.
+
+We need to get together and discuss IT implementation.
+
+What do you think?
+
+Tanya
+
+
+

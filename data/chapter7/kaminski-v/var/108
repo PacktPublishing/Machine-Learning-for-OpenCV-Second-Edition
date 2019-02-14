@@ -1,0 +1,123 @@
+Message-ID: <31419552.1075856643197.JavaMail.evans@thyme>
+Date: Tue, 11 Jul 2000 09:10:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: VAR Priorities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ted Murphy
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince
+Thanks for the quick response.  Agree on #5  just bear in mind it says SCOPE 
+not implement so it is more of a development of a project.
+RE; MG I will keep Tanya apprised of travel plans and give her the option to 
+be in or out as you two see fit.
+Ted
+
+
+
+
+Vince J Kaminski
+07/11/2000 03:57 PM
+To: Ted Murphy/HOU/ECT@ECT
+cc: Tanya Tamarchenko/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT 
+Subject: Re: VAR Priorities  
+
+Ted,
+
+Item # 5 will require help from IT. My understanding is that currently we are 
+receiving the
+positions aggregated to a daily level.
+
+Also, I talked to Tanya about visiting MG in New York. She is leaving for 
+vacation on the 26th of July 
+and can go for a day to NYC prior to this date.
+
+I think that it makes a lot of sense for her to visit MG and to kick
+the tires. I asked her to coordinate the trip with you: it makes sense
+for both of you to go together. I may join you depending on my availability.
+
+Vince 
+
+
+
+
+
+
+   
+
+
+From:  Ted Murphy                                                             
+07/11/2000 03:20 PM	
+	
+	
+	                           
+	
+
+To: Vince J Kaminski/HOU/ECT@ECT, John Sherriff/LON/ECT@ECT
+cc:  
+Subject: VAR Priorities
+
+Vince/John,
+Below is a brief summary of near-term projects for the enhancement of VAR and 
+the use of VAR.  As you can tell some are not directly Research issues (some 
+require the guidance but not direct work product), and are very North 
+American Wholesale-centric.    
+Vince,
+I think that the only one in which progress requires your input to get kick 
+started is #5.  All others are in progress with Tanya/Grant involved through 
+Jeff Shankman's regular meeting.
+We would like to get your input as to your priorities (we were thinking Top 
+5?) and then start knocking some of them out.  It is not meant to be 
+exhaustive and is focused on fixes as opposed to overhauls. 
+Thanks
+Ted
+---------------------- Forwarded by Ted Murphy/HOU/ECT on 07/11/2000 03:10 PM 
+---------------------------
+   
+
+
+From:  Ted Murphy                                                             
+06/28/2000 07:45 AM	
+	
+	
+	                           
+	
+
+To: Rick Buy
+cc:  
+Subject: VAR Priorities
+
+Rick,
+This is my initial attempt to summarize our meeting with John.  The next 
+steps would be to solicit feedback from other interested parties and scope 
+the resources and responsibilities.
+Ted
+
+Rick Buy, John Lavorato and I met to discuss priorities as it relates to the 
+calculation of VAR.  We are making the following recommendations
+
+ 1) Inclusion of monthly index positions into VAR calculations as the 
+indicies set in North American Natural Gas
+ 2) Development of a methodology to re-run correlations (factor loadings) 
+including criteria, responsibilities and acceptance/rejection criteria
+ 3) Development of process by which to analyze the output of factor loading 
+process.  Database to store output and management reports.
+ 4) Finalize debate on the calculation of Forward/Forward volatility
+ 5) Scope a project to analyze the possibility of calculating hourly 
+volatility for power.
+
+It was further recommended that we continue to not include unpriced index 
+positions in VAR calculation.
+
+
+
+
+
+

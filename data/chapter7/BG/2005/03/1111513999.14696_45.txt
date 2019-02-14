@@ -1,0 +1,80 @@
+Return-Path: <nobody@abbott.resellernow.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 31863 invoked by uid 115); 22 Mar 2005 12:18:32 -0000
+Received: from nobody@abbott.resellernow.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(69.93.229.212):. 
+ Processed in 0.09793 secs); 22 Mar 2005 12:18:32 -0000
+Received: from 212.69-93-229.reverse.theplanet.com (HELO abbott.resellernow.com) (69.93.229.212)
+  by churchill.factcomp.com with SMTP; 22 Mar 2005 12:18:31 -0000
+Received: from nobody by abbott.resellernow.com with local (Exim 4.44)
+	id 1DDfsb-0003Jv-Qy; Tue, 22 Mar 2005 04:40:54 -0500
+To: 
+Subject: PERSONAL
+From: victorloopez <victorlopez20@tsamail.co.za>
+X-Priority: 3 (Normal)
+CC: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: RLSP Mailer
+Message-Id: <E1DDfsb-0003Jv-Qy@abbott.resellernow.com>
+Date: Tue, 22 Mar 2005 04:40:53 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - abbott.resellernow.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - abbott.resellernow.com
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: infiniteinc.com:/public_html/phpnuke
+
+
+NUEVO ORO LOTTO COMPANY S.L
+CALLE LIMA 27. 
+MADRID 28081 
+SPAIN. 
+FROM: THE PROMOTIONS MANAGER, INTERNATIONAL PROMOTIONS/PRIZE AWARD 
+DEPARTMENT. 
+REF: NL/3167084000127/04 BATCH: 17/00421/IPD 
+RE: AWARD NOTICE.
+ 
+We are pleased to inform you of the announcement, of winners of the 
+NUEVO LOTERIA/INTERNATIONAL PROMOTION PROGRAM held on 15TH 
+Febuary,2005. Yourcontact is attached to ticket number 106-007225644647, with serial number 114876 drew the lucky numbers 07-13-27-29-31-47, and consequently won the lottery in the 1A category. You have therefore been approved for a lump sum pay out of One Million Six Hundred and fourty-Seven Thousand, Eight Hundred and Twenty Eight Euros and Eighty-Seven Euro Cents.(EUROS 1.647.828.87) in cash credited to file  No:LP/26510460037/02. For all our international winners the value of the amount comes to ($2.045.238.63 USD) Two Million Fouty-Five thousand, two hundred and  thrity-eight United States Dollars and Sixty three cents. This is from total prize money of EUROS 47.640.120.00 shared among the Fifty three local and international winners in all the categories. All participants were selected through a computer ballot system drawn form 116,000 names from Australia, New Zealand, Africa, Europe, North and South America and Asia as part of International Promotions Program, which is conducted annually.
+ 
+CONGRATULATIONS!!! Your fund is now insured to your contact. Due to the computer mix up of some numbers and contacts, we ask that you keep this award strictly from public notice until your claim has been processed and your money remitted to your account. This is part of our security protocol to avoid double claiming or unscrupulous acts by participants of this program. We hope with a part of you prize, you will participate in our end of year high stakes Euros 1.1 billion International Lottery. To begin your claim, please contact the undersigned.Since all we have now is the winning ticket number and your contact which was attached to the ticket number, we shall thus await further directives from you on how to have your winning paid to you. For due processing and remittance of your prize money to a designated account . We also want to apologise for this late notification which was due a computer mix up.Remember, all prize money must be claimed not later than 15TH April 2005. After this date, all funds will be returned as unclaimed. NOTE: In order to avoid unnecessary delays and complications, please remember to quote your reference and batch numbers in every one of your correspondences with us. Furthermore, should there be any change of your address, do inform your claims agent as soon as possible. Congratulations again from all our staff and thank you for being part  of our promotions program.
+ 
+Sincerely, 
+VICTOR LOPEZ
+To file for your claim, please contact our fiduciary agent
+Mr. PAUL FERNANDO
+EMAIL:agentpaul90@netscape.net
+NUEVO ORO LOTTO COMPANY S.L
+CALLE LIMA 27. 
+MADRID 28081 
+SPAIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________
+Mail sent from WebMail service at PHP-Nuke Powered Site
+- http://yoursite.com

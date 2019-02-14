@@ -1,0 +1,81 @@
+Message-ID: <14130163.1075855928681.JavaMail.evans@thyme>
+Date: Tue, 10 Oct 2000 02:35:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: September Status Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi - see Joel's status report below and my comments.  What I would like to 
+do is start hosting a monthly meeting to give a status update on our 
+projects.  What do you think ?
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/10/2000 
+09:32 AM ---------------------------
+
+
+Mary Solmonson
+10/10/2000 09:33 AM
+To: Joel Henenberg/NA/Enron@ENRON
+cc:  
+Subject: Re: September Status Report  
+
+Good.  It is nice to get a recap of what's going on.
+
+A few comments....
+
+1) Can I see the OPM vision document?
+
+2) MKM Phase I - what's included?  what's the business benefit?
+
+3) MKM - Decommisioning of Phoenix.  I think you might be getting a little 
+ahead of yourself here.  First you will need to integrate MKM with EnPower, 
+Unify, and Sitara.  What are the plans for that?  I also think the delay in 
+the Calculation component could be a problem.  For instance, we currently use 
+spreadsheets to calculate the average prices and then key them into Unify 
+(maybe Phoenix).  We do this because we don't have the ability to key 
+anything into either Phoenix or MKM.  How will we do this if Phoenix goes 
+away?  I want to make sure the process is thoroughly thought through here.
+
+4) MKM - Support of both Phoenix and LIM is a duplication of efforts and 
+costly.....   The plans here need to go back to the vision.  Where is the 
+step by step plan of getting to the vision?
+
+5) GRS Support - The most important interim priority is not reflected here 
+which concerns me.  Because Reuters accuracy is so poor, the most critical 
+thing we need is the ability to select an alternate source for pricing, such 
+as CQG, for the downloads!
+
+6) GRS Support - OPIS validation.  This is a business issue and I'm not sure 
+this should be reflected in your status report, but you do need to make sure 
+Steve gets on this.
+
+
+Clearly from this, I think good coordination and project management is still 
+lacking in the Rates/MKM world.  Is Stuart calling the shots (Phoenix 
+decommisioning) or are we?
+
+
+
+
+   
+	
+	
+	From:  Joel Henenberg @ ENRON                           10/09/2000 04:21 PM
+	
+
+To: Mary Solmonson/HOU/ECT@ECT
+cc:  
+Subject: September Status Report
+
+
+
+
+

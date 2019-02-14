@@ -1,0 +1,77 @@
+Message-ID: <24705597.1075863300244.JavaMail.evans@thyme>
+Date: Fri, 17 Aug 2001 13:46:39 -0700 (PDT)
+From: savita.puthigai@enron.com
+To: traders.eol@enron.com, traders.eol@enron.com
+Subject: NEW ENRONONLINE FUNCTIONALITY
+Cc: center.eol@enron.com, europe.eol@enron.com, sydney.eol@enron.com, 
+	houston.product@enron.com, jay.webb@enron.com, 
+	brad.richter@enron.com, group.enron@enron.com, carl.carter@enron.com, 
+	leonardo.pacheco@enron.com, lindsay.renaud@enron.com, 
+	francis.gonzales@enron.com, teresa.mandola@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: center.eol@enron.com, europe.eol@enron.com, sydney.eol@enron.com, 
+	houston.product@enron.com, jay.webb@enron.com, 
+	brad.richter@enron.com, group.enron@enron.com, carl.carter@enron.com, 
+	leonardo.pacheco@enron.com, lindsay.renaud@enron.com, 
+	francis.gonzales@enron.com, teresa.mandola@enron.com
+X-From: Puthigai, Savita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SPUTHIGA>
+X-To: EOL Non North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NON NORTH AMERICA TRADERS>, EOL North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NORTH AMERICA TRADERS>
+X-cc: EOL Call Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL CALL CENTER>, EOL Marketing Europe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOLMARKETINGEUROPE>, EOL Product Control Group, Enron Sydney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C54B7BAA-3D476E0B-862568BD-54B03B>, Product Control - Houston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PRODUCT CONTROL - HOUSTON>, Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JWEBB>, Richter, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BRICHTE>, Enron London - EOL Product Control Group, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EB17BF3-5A5745-802567F4-3D719C>, Carter, Carl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CCARTER4>, Pacheco, Leonardo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPACHECO>, Renaud, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LRENAUD>, Gonzales, Francis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FGONZAL4>, Mandola, Teresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TMANDOLA>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+In order to continually develop and make improvements to the functionality of EnronOnline we are rolling out several changes tonight, which will be in effect on Monday August 20, 2001. Some of these changes will affect Stack Manager while others affect the Website. A summary of these changes is listed below.
+
+Stack Manager Changes
+
+Top of Stack limit orders - This feature will allow the price submitted via limit orders to be displayed on the website if their bid or offer is better than the trader's stack price. Stack Manger will list the price and the names of counterparties submitting such orders on the  floated stack window.  Orders will be queued by price and time stamp. When a counterparty trades on a " Top of Stack Entry" it will create back to back transactions; one between Enron and the counterparty submitting the order, and the other between Enron and the counterparty clicking on the website.
+
+In order to turn on this functionality select the " Allowed Top of Stack" option, in the Orders section of the product properties page.  If regular limit order functionality is desired the "Allowed"  option should be selected.
+
+Please note that this feature will be released in a disabled mode and will be turned on sometime next week after determining which business units want to roll this out.
+
+Restricted Top of Stack limit orders - This feature will allow the price submitted only by internal traders via limit orders to be displayed on the website if their bid or offer is better than the trader's stack price. Stack Manger will list price and the names of counterparties submitting such orders on the  floated stack window.  Orders will be queued by price and time stamp. When a counterparty trades on a " Top of Stack Entry" it will create back to back transactions one between Enron and the counterparty submitting the order, and the other between Enron and the counterparty clicking on the website.
+
+In order to turn on this functionality select the " allowed as Restricted Top of Stack" option, in the Orders section of the product properties page.  If regular limit order functionality is desired the "Allowed"  option should be selected. If a product has active orders against it you will not be able to select the "Restricted Top of Stack" feature.
+
+Advanced Filtering Ability on All Products Tab -  Drop down filtering capability is now available for each field in the All Products tab in stack manager. In order to filter click on the arrow next to the field title. A drop down box with a list of attributes will appear. Highlight the attribute by which you wish to filter. To turn off the filter click on the arrow and select the " All" option from the drop down box.
+
+
+Website Changes
+
+New Submission Screen for Restricted Top of Stack Limit Orders -  The submission screen for  products that allow  Top of Stack or Restricted Top of Stack limit orders is as follows.
+ 
+
+The submit button on the left makes a submission for a normal transaction, while the button on the right will submit as a limit order.  In case of the Restricted Top of Stack limit orders only internal traders will see the new submission box. 
+
+Price of Limit Orders 
+
+Modify Limit Orders
+ Customers now have the ability to modify the price of any active order. In order to do so highlight the order to be modified and use the plus or minus sign next to the price field on  at the top of the "Today's Orders" section. The price will move up or down in the same increments as the tick size for that product. Once the price is at the desired level click the "Set" button and the price will be modified. Another way to modify the price on a limit order is to click on the price field on a particular limit order.  You will see a box with plus, minus and set buttons that allow you to modify that order.
+
+Expiration time for Limit Orders
+Customers can now place limit orders with expiration times of up to 30 days. Currently they may place orders for only up to 12 hours.
+
+Float the Today's Orders Section
+You can now float the " Limit Order " section. In order to do so, right click in the "Today's Orders " section and select the float window option. In order to make the window " Stay On Top " right click on the floated window and select the stay on top option.
+
+Mid Market Client - Mid market originators will now have the ability to transact on behalf of their customers, while including their desired margin on the trade, on EnronOnline products. In order to do so Click on the bid or offer price, a customised submission window will appear.  Select the counterparty for whom you wish to transact from a drop down list , enter the desired customer price and margin and click submit. For example if a customer wants to buy Nymex Sep 01 at 3.36 and you wish to have a 1 cent margin, please enter 3.36 as the desired price and 0.01 as the margin. The system will trade the order when the EnronOnline offer for Nymex Sep 01 is at 3.35, book the trade at 3.36 and record the 0.01 origination amount.
+
+In order to be set up to use this functionality. Please call the EnronOnline Product Control Group.
+
+Changes to Website Passwords - As an added security measure, which has been requested by many customers, some new password rules have been instituted. First, the password cannot be equal to the login ID. Second, each user will be prompted to change his password every 90 days. These rules apply to all website passwords for both internal and external users.
+
+
+Please note  Stack Manager changes will be available all traders as of Monday August 20, 2001. The changes to the website will be rolled out to a few internal users on Monday with the rest of the internal users being upgraded Monday night, and external users by the end of the week.  Over the next couple of weeks all users will be prompted to change their website passwords.
+
+If you have any questions regarding these changes please contact me at 713-853-1787.
+
+Savita Puthigai
+
+
+
+
+<Embedded Paintbrush Picture>

@@ -1,0 +1,59 @@
+Message-ID: <15627346.1075856590293.JavaMail.evans@thyme>
+Date: Thu, 28 Dec 2000 09:27:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: stinson.gibner@enron.com
+Subject: Re: EOL WTI Historical Trade Simulation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Stinson Gibner
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson,
+
+Thanks a lot for so much work you have done for the simulation model.
+It seems that our work will make an impact on EOL trading, that is very
+exciting.
+
+Could you e-mail me the spreadsheet model so that I can catch up with
+the changes you have made ?   
+
+I read a few books during this vocation. Especially a stochastic processes
+book, I finished the entire book.  The queueing theory is very fascinating,
+ and hopefully we can apply the theory to a real EBS project.
+
+I will take my family out to see the Nature Bridge Caverns near San Antonio
+tomorrow.
+
+See you on Tuesday. 
+
+Happy New Year !
+
+Zimin
+
+
+
+
+
+
+
+Stinson Gibner
+12/27/2000 08:09 PM
+To: Greg Whalley/HOU/ECT@ECT, John J Lavorato/Corp/Enron@Enron
+cc: Vince J Kaminski/HOU/ECT@ECT, Zimin Lu/HOU/ECT@ECT 
+Subject: EOL WTI Historical Trade Simulation
+
+Greg,
+
+Here are results corrected for spread profit per round-trip transaction.   
+Prior results incorrectly counted a spread profit per trade.
+
+Stinson
+
+
+
+

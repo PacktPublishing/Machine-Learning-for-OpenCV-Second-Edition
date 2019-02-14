@@ -1,0 +1,23 @@
+Message-ID: <368324.1075863317762.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 14:52:30 -0700 (PDT)
+From: david.poston@enron.com
+To: ron.nolte@enron.com
+Subject: Deal Confirmation Changes
+Cc: duong.luu@enron.com, bill.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: duong.luu@enron.com, bill.williams@enron.com
+X-From: Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPOSTON2>
+X-To: Nolte, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rnolte>
+X-cc: Luu, Duong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dluu>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Afternoon Ron,
+
+We just had a meeting with Bill Williams, head of real-time trading in Portland, to discuss some problems we are having with the real-time deals flowing to the Deal Confirmation system.  Currently, the deal confirmation system is pulling the term information so that changes made by real-time to reflect actual volumetric flow & price are not seen by the confirmation groups.  One possible solution has already been examined and that would be to have the real-time traders use deal entry to make all the changes.  This solution will NOT work.  If the real-time guys start changing the deals in deal entry, the original negotiated deal will be lost.  Also, and more importantly, the time to make all the changes for the real-time adjustments in Deal Entry would make it impossible to keep up with the high volume of deals we are now seeing.
+
+Thanks,  David Poston
+IT Manager, Portland

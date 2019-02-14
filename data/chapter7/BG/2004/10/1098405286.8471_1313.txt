@@ -1,0 +1,190 @@
+Return-Path: <newlook@hotmail.com>
+Received: (fqmail 30538 invoked from network); 21 Oct 2004 23:44:59 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 21 Oct 2004 23:44:59 -0000
+Received: (qmail 27948 invoked from network); 21 Oct 2004 23:45:00 -0000
+Received: from vzio (ppp-61.90.105.171.revip.asianet.co.th [61.90.105.171])
+  by mx03.futurequest.net ([69.5.6.174])
+  with SMTP via TCP; 21 Oct 2004 23:44:59 -0000
+From: <newlook@hotmail.com>
+To: <webmaster@ezmlm.org>
+Subject: ผอมถาวร...คลิกด่วน???
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 22 Oct 2004 06:45:15
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./thip_retail.files/filelist.xml">
+<link rel=Edit-Time-Data href="./thip_retail.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title> </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>VZIO</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>VZIO</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2004-09-26T17:06:00Z</o:Created>
+  <o:LastSaved>2004-09-26T17:09:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:Version>9.6615</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Angsana New";
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:16777219 0 0 0 65537 0;}
+@font-face
+	{font-family:"Cordia New";
+	panose-1:2 11 3 4 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:16777219 0 0 0 65537 0;}
+@font-face
+	{font-family:CordiaUPC;
+	panose-1:2 11 3 4 2 2 2 2 2 4;
+	mso-font-charset:222;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:16777219 0 0 0 65536 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:CordiaUPC;
+	color:red;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:414.75pt;
+ height:311.25pt'>
+ <v:imagedata src="http://www.geocities.com/krongthip_w/thip_retail.jpg" o:title="thip_retail"/>
+</v:shape><![endif]--><![if !vml]><img width=553 height=415
+src="http://www.geocities.com/krongthip_w/thip_retail.jpg" v:shapes="_x0000_i1025"><![endif]></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:16.0pt;mso-bidi-font-family:
+CordiaUPC;color:red'>*** </span><span lang=TH style='font-size:16.0pt;
+mso-ansi-font-size:12.0pt;font-family:CordiaUPC;color:red'>หากภาพไม่แสดงขึ้นมา<span
+style="mso-spacerun: yes">&nbsp; </span>กรุณากดคำสั่งโชว์ภาพ </span><span
+style='mso-bidi-font-size:16.0pt;mso-bidi-font-family:CordiaUPC;color:red'>***<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-bidi-font-size:16.0pt;mso-bidi-font-family:
+CordiaUPC;color:red'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-family:CordiaUPC'>VCD
+</span><span lang=TH style='font-size:16.0pt;font-family:CordiaUPC'>แจกฟรี</span><span
+style='font-size:16.0pt;mso-bidi-font-family:CordiaUPC'>!!! </span><span
+lang=TH style='font-size:16.0pt;font-family:CordiaUPC'>สำหรับคนที่จริงจังที่จะเปลี่ยนแปลงรูปร่าง
+ลดน้ำหนัก 5-20 กก.</span><span style='font-size:16.0pt;mso-bidi-font-family:
+CordiaUPC'><o:p></o:p></span></p>
+
+<p class=MsoNormal><u><span style='font-size:16.0pt;mso-bidi-font-family:CordiaUPC'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></u></p>
+
+<p class=MsoNormal><u><span lang=TH style='font-size:16.0pt;font-family:CordiaUPC'>สำหรับผู้ที่จริงจังเพียง
+10 ท่านเท่านั้น</span></u><u><span style='font-size:16.0pt;mso-bidi-font-family:
+CordiaUPC'>!</span></u><span lang=TH style='font-size:16.0pt;font-family:CordiaUPC'><span
+style="mso-spacerun: yes">&nbsp; </span>ขอรับ</span><span style='font-size:
+16.0pt;mso-bidi-font-family:CordiaUPC'> VCD </span><span lang=TH
+style='font-size:16.0pt;font-family:CordiaUPC'>แนะนำโปรแกรมการดูแลรูปร่าง</span><span
+style='font-size:16.0pt;mso-bidi-font-family:CordiaUPC'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=TH style='font-size:16.0pt;font-family:CordiaUPC'><span
+style="mso-spacerun: yes">&nbsp;</span>สุขภาพ และผิวพรรณ<span
+style="mso-spacerun: yes">&nbsp; </span>ให้ดูดีไปตลอดชีวิตฟรี<b><span
+style="mso-spacerun: yes">&nbsp; </span></b></span><b><span style='font-size:
+16.0pt;mso-bidi-font-family:"Cordia New"'>02-2751900 # 555, slimecare@pop.co.th</span></b><b><span
+style='font-size:16.0pt;mso-bidi-font-family:CordiaUPC'><o:p></o:p></span></b></p>
+
+<p class=MsoBodyText><span style='font-size:16.0pt;color:windowtext'>@ </span><span
+lang=TH style='font-size:16.0pt;font-family:CordiaUPC;color:windowtext'>กรุณาแจ้งชื่อ
+อายุ เบอร์ติดต่อกลับที่สะดวก ที่อยู่ในการจัดส่งให้ชัดเจน </span><span
+style='font-size:16.0pt;color:windowtext'><o:p></o:p></span></p>
+
+<p class=MsoBodyText><span lang=TH style='font-size:16.0pt;font-family:CordiaUPC;
+color:windowtext'>เราจะติดต่อกลับเพื่อให้ข้อมูลเพิ่มเติม </span><span
+style='font-size:16.0pt;color:windowtext'>@<o:p></o:p></span></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

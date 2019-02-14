@@ -1,0 +1,74 @@
+Message-ID: <1397630.1075854121290.JavaMail.evans@thyme>
+Date: Tue, 11 Jan 2000 14:15:00 -0800 (PST)
+From: scott.mills@enron.com
+To: edward.terry@enron.com, katherine.kelly@enron.com, tricia.bowen@enron.com, 
+	victor.lamadrid@enron.com, george.smith@enron.com, 
+	mary.smith@enron.com, daren.farmer@enron.com, jim.homco@enron.com, 
+	randall.gay@enron.com, mark.friedman@enron.com, 
+	jeffrey.gossett@enron.com, william.kelly@enron.com, 
+	eric.bass@enron.com, kathryn.cordes@enron.com, 
+	sheri.thomas@enron.com, lisa.csikos@enron.com, rita.wynne@enron.com, 
+	bryce.baxter@enron.com, martha.stevens@enron.com, 
+	thomas.engel@enron.com, william.kasemervisz@enron.com, 
+	russ.severson@enron.com, regina.perkins@enron.com, 
+	hunaid.engineer@enron.com, karie.hastings@enron.com, 
+	imelda.frayre@enron.com, stephen.schwarz@enron.com, 
+	melissa.white@enron.com, dorothy.ricketts@enron.com, 
+	trang.le@enron.com, christy.sweeney@enron.com, 
+	scotty.gilbert@enron.com, richard.pinion@enron.com, 
+	david.rohan@enron.com, michael.eiben@enron.com, 
+	clem.cernosek@enron.com, kathryn.bussell@enron.com, 
+	scott.sitter@enron.com, dave.nommensen@enron.com, 
+	kenneth.harmon@enron.com, inja.chun@enron.com, 
+	peggy.hedstrom@enron.com, kevin.heal@enron.com, 
+	dianne.seib@enron.com, cheryl.dawes@enron.com, laura.scott@enron.com, 
+	steve.venturatos@enron.com, dave.mcmullan@enron.com, 
+	lisa.cousino@enron.com, elwanda.bennett@enron.com, 
+	bob.bowen@enron.com, tom.moore@enron.com, nagesh.kavi@enron.com, 
+	ranjini.lakshman@enron.com, connie.sutton@enron.com, 
+	mary.gosnell@enron.com, mary.solmonson@enron.com, 
+	faye.ellis@enron.com, donna.consemiu@enron.com
+Subject: Upcoming Sitara Risk Assignment Release
+Cc: sally.beck@enron.com, brent.price@enron.com, brenda.herod@enron.com, 
+	philippe.bibi@enron.com, anthony.dayao@enron.com, 
+	larrissa.sharma@enron.com, tommy.yanowski@enron.com, 
+	robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, brent.price@enron.com, brenda.herod@enron.com, 
+	philippe.bibi@enron.com, anthony.dayao@enron.com, 
+	larrissa.sharma@enron.com, tommy.yanowski@enron.com, 
+	robert.superty@enron.com
+X-From: Scott Mills
+X-To: Edward Terry, Katherine L Kelly, Tricia Bowen, Victor Lamadrid, George Smith, Mary M Smith, Daren J Farmer, Jim Homco, Randall L Gay, Mark Friedman, Jeffrey C Gossett, William Kelly, Eric Bass, Kathryn Cordes, Sheri Thomas, Lisa Csikos, Rita Wynne, Bryce Baxter, Martha Stevens, Thomas Engel, William E Kasemervisz, Russ Severson, Regina Perkins, Hunaid Engineer, Karie Hastings, Imelda Frayre, Stephen P Schwarz, Melissa White, Dorothy Ricketts, Trang Le, Christy Sweeney, Scotty Gilbert, Richard Pinion, David Rohan, Michael Eiben, Clem Cernosek, Kathryn Bussell, Scott Sitter, Dave Nommensen, Kenneth M Harmon, Inja Chun, Peggy Hedstrom, Kevin Heal, Dianne Seib, Cheryl Dawes, Laura E Scott, Steve Venturatos, Dave McMullan, Lisa B Cousino, Elwanda Bennett, Bob Bowen, Tom E Moore, Nagesh Kavi, Ranjini Lakshman, Connie Sutton, Mary G Gosnell, Mary Solmonson, Faye Ellis, Donna Consemiu
+X-cc: Sally Beck, Brent A Price, Brenda F Herod, Philippe A Bibi, Anthony Dayao, Larrissa Sharma, Tommy J Yanowski, Robert Superty
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+In order to prepare for the upcoming Sitara Release to production scheduled 
+on 01/24, Sitara will be unavailable as follows:
+
+ Production 01/21 (Fri.) 7:00 PM (CST) thru 01/23 (Sun.) 12:00 PM (CST) 
+Conversion and checkout of data for Risk Assignment release
+         (Sitara and CPR)
+
+ Parallel 01/14 (Fri.) 7:00 PM (CST) thru 02/01 (Tue.) 8:00 AM (CST) Parallel 
+environment will be used as hot back-up, view access only
+ (Sitara)
+
+I wanted to make sure everyone had plenty of advance notice.  I would like 
+each of you to review these times with your staff.  The Production release is 
+the largest to date and the time required to convert the data cannot be 
+shortened any more.  Production users will not be impacted by the lack of the 
+Parallel environment -we will continue to bridge deal updates to Unify 
+Parallel as we do now for the period stated above; however access to Sitara 
+parallel will be kept to view only.  A list of items included in this release 
+will be forthcoming, as well as training for groups impacted by the Risk 
+Assignment change.
+
+I appreciate your help in making this happen.  Any questions, please do not 
+hesitate to call myself or the Sitara hotline (x37049)
+
+Scott Mills (x33548)

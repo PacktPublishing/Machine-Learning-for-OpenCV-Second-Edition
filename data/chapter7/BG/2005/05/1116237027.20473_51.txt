@@ -1,0 +1,54 @@
+Return-Path: <RAHFI@mail2world.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 19944 invoked from network); 15 May 2005 23:42:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 15 May 2005 23:42:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 15 May 2005 23:42:08 -0000
+Received: (qmail 24887 invoked from network); 15 May 2005 23:42:07 -0000
+Received: from 69.5.6.152 (unknown [211.209.100.154])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 15 May 2005 23:42:06 -0000
+Message-ID: <e9973u2IG5J547O70KS82DYP64789831J590219@211.209.100.154>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+Location: 721 consonant acquittal
+Reply-To: "Darius Kane" <RAHFI@mail2world.com>
+From: "Darius Kane" <RAHFI@mail2world.com>
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Application approval #518
+Date: Mon, 16 May 2005 01:35:25 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--55910189394323902"
+Content-Length: 569
+Lines: 27
+
+----55910189394323902
+Content-Type: text/plain;
+	charset="iso-5491-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.r8tdrop.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Young Nixon
+
+http://www.r8tdrop.com/x/st.html
+
+
+
+----55910189394323902--

@@ -1,0 +1,49 @@
+Return-Path: <aegelmaere@hit1.every1.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 13784 invoked by uid 115); 12 Nov 2004 19:45:14 -0000
+Received: from aegelmaere@hit1.every1.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(80.13.226.140):. 
+ Processed in 5.627241 secs); 12 Nov 2004 19:45:14 -0000
+Received: from alyon-210-1-2-140.w80-13.abo.wanadoo.fr (80.13.226.140)
+  by churchill.factcomp.com with SMTP; 12 Nov 2004 19:45:08 -0000
+Return-Path: <aegelmaere@hit1.every1.net>
+Received: from 132.137.69.88 (HELO spooky4.thing.com.ar) (200.42.0.162) by mta157.mail.re2.menial.com with SMTP; ell
+Original-Recipient: rfc822; aegelmaere@hit1.every1.net
+Date: Fri, 12 Nov 2004 19:41:23 -0100
+Message-Id: <000b01c4c5a5$cc123231$521f52c8@bengogigp4eyze>
+From: "Herbert H. Laird " <aegelmaere@hit1.every1.net>
+To: 004227@em.ca, asetar@em.ca, bait@em.ca, bait-passover@em.ca, bait-precedes@em.ca, bait-proverbs@em.ca, bait-reckless@em.ca, bob.smith@em.ca, design@em.ca
+X-Originating-Email: [aegelmaere@hit1.every1.net]
+X-Originating-IP: [160.192.125.121]
+X-Sender: aegelmaere@hit1.every1.net
+Subject:  Hi, how are you?
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Message-flag: Authentic Sender, Hash: YmGmCcHg
+Content-Disposition: inline
+
+<HTML>
+<BODY bgColor=#ffffff>
+<DIV align=center><FONT face="Arial Black">If you are paying more than 3.6% on 
+your mortgage, </FONT></DIV>
+<DIV align=center><FONT face="Arial Black">we can slash your monthly 
+payment!</FONT></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>(must have owned your home at 
+least 24 months to qualify for this special program)</FONT></STRONG></DIV>
+<DIV><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>GUARANTEED LOWEST RATES ON THE 
+PLANET</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT></DIV>
+<DIV align=center><STRONG><FONT face=Arial>CREDIT REPORT NOT 
+NEEDED<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>Start </FONT></STRONG><A 
+href="http://hotpink.states-equity.com/h7/jwex.php?n5n=51 " target=_blank><STRONG><FONT 
+face=Arial>here</FONT></STRONG></A><STRONG><FONT face=Arial> for 
+an&nbsp;insta-quote and<BR>monthly savings calculation<BR></FONT></STRONG></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>&nbsp;No other way to so quickly 
+and easily<BR>lower your monthly payments!</FONT></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV></BODY></HTML>
+

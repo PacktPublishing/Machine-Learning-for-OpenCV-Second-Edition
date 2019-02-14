@@ -1,0 +1,66 @@
+Return-Path: <cupid@infoemail-web.com>
+Received: (fqmail 1896 invoked from network); 08 Sep 2004 19:29:22 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 08 Sep 2004 19:29:22 -0000
+Received: (qmail 14443 invoked from network); 8 Sep 2004 19:29:21 -0000
+Received: from emg-982r3v9uj1x (lima.emcmailserve.net [69.6.66.8])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 08 Sep 2004 19:29:21 -0000
+From: "Cupid at ChristianCupid.com" <cupid@infoemail-web.com>
+Subject: Meet Christian singles at ChristianCupid.com
+To: bugs@ezmlm.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: cupid@infoemail-web.com
+Date: Wed, 8 Sep 2004 14:32:45 -0500
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body &#123;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+&#125;
+style1 &#123;font-size: 12px&#125;
+-->
+</style>
+</head>
+
+<body>
+<table width="550"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr align="left" valign="top">
+    <td rowspan="2"><a href='http://www.a1info.net/080E100715013217081F1E1F5C1D00150E43474446420E41460E400E4347404145470E08.aspx'><img src="http://www.a1info.net/images2/cupid/emailmarketing.jpg" width="550" height="360" border="0"></a></td>
+    <td width="104">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+</table>
+<p align="center"><font size="1">We are vitually concerned with your privacy on the internet<br>
+  If you wish to be omitted from future distributions, please <a href='http://www.a1info.net/080E100715013217081F1E1F5C1D00150E43474446420E41460E400E4345454741450E08.aspx'>click here</a>.<br>
+  Your email address will be purged permanently from this database.</font></p>
+<p align="center"><font size="1">We take part in responsible email marketing and respect your right to refuse any further distributions. </font></p>
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.a1info.net/080E100715013217081F1E1F5C1D00150E43474446420E41460E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">eMed Security, LLC  <a href="http://ChristianCupid.com">http://ChristianCupid.com</a> &#183; PO Box 10538 &#183; Bozeman, Montana 59719</font></p></td></tr></table></body>
+</html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

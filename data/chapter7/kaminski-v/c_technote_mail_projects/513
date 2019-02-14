@@ -1,0 +1,48 @@
+Message-ID: <29224241.1075857033589.JavaMail.evans@thyme>
+Date: Thu, 20 Jan 2000 02:56:00 -0800 (PST)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: Spreadsheet for George Posey
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince-
+
+Here is an analysis of the fund giving at the church.
+
+First off, it appears from the data that a special "appeal" for fund giving 
+was made (from the pulpit?) on April 19, 1998 and April 25, 1999, (perhaps 
+tied rhetorically into Income Taxes?). Then, by going back and incorporating 
+obvious dates from the calendars for 1997-1999, the following regression 
+analysis is made, where each effect is added independently:
+
+giving this Sunday = $4403
+
++ a minor $3 weekly time trend (i.e., multiply by the number of weeks since 
+Jan. 5, 1997)
+
++ no pure effect from last week's contributions (i.e., denies first-order 
+autoregressive effects)
+
++ $2426 if Easter Sunday or the Sunday nearest Christmas
+
++ $9695 if (pastoral appeal) April 19,1998 or April 25,1999
+
+- $340 if the Sunday falls on the weekend of a Monday Federal holiday
+
+- $50 if the Sunday following Thanksgiving
+
+- $73  if a Summer weekend (June 1 thru August 31)
+
+The pure time trend is very small, so an annual projection based on all 3 
+years data would be for giving to increase only a minor amount ($150) for 
+2000 assuming a similar appeal for giving is made this April.
+
+Clayton

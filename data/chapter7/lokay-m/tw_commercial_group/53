@@ -1,0 +1,95 @@
+Message-ID: <12647940.1075844098513.JavaMail.evans@thyme>
+Date: Wed, 19 Jul 2000 07:51:00 -0700 (PDT)
+From: lindy.donoho@enron.com
+To: toby.kuehl@enron.com
+Subject: Re: interactive open season test packages
+Cc: michelle.lokay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michelle.lokay@enron.com
+X-From: Lindy Donoho
+X-To: Toby Kuehl
+X-cc: Michelle Lokay
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Thanks!  Also, I'm forwarding this to Michelle.
+---------------------- Forwarded by Lindy Donoho/ET&S/Enron on 07/19/2000 
+02:50 PM ---------------------------
+   
+	
+	
+	From:  Toby Kuehl                           07/19/2000 01:41 PM
+	
+
+To: Lindy Donoho/ET&S/Enron@ENRON
+cc:  
+
+Subject: Re: interactive open season test packages
+
+Oops! forgot you on the list!
+---------------------- Forwarded by Toby Kuehl/ET&S/Enron on 07/19/2000 01:42 
+PM ---------------------------
+   
+	
+	
+	From:  Toby Kuehl                           07/19/2000 01:40 PM
+	
+
+To: Lorraine Lindberg/ET&S/Enron@ENRON, TK Lohman/ET&S/Enron@ENRON, Christine 
+Stokes/ET&S/Enron@ENRON, Jeffery Fawcett/ET&S/Enron@ENRON
+cc: Richard Abramowicz/ET&S/Enron@ENRON, Girish Kaimal/OTS/Enron@ENRON, 
+Sheila Nacey/ET&S/Enron@Enron 
+
+Subject: Re: interactive open season test packages  
+
+Does your testing seem to be going ok?  I haven't heard from anyone yet.
+
+Let Rich or myself know....
+
+Toby
+
+
+
+
+Richard Abramowicz
+07/19/2000 08:27 AM
+To:  Jeffery Fawcett/ET&S/Enron@ENRON, TK Lohman/ET&S/Enron@ENRON, Christine 
+Stokes/ET&S/Enron@ENRON, Lorraine Lindberg/ET&S/Enron@ENRON, Girish 
+Kaimal/OTS/Enron@ENRON
+cc:  
+
+Subject: interactive open season test packages
+
+The interactive open season test packages are loaded on ios.ets.enron.com.  
+We put in the change where shippers must bid on the full capacity of the 
+package, no partial capacities are allowed.  Even though the package with the 
+3 month term has been loaded, we can remove it if we need to.  The following 
+test user have been set up for testing.
+
+user id  password package 15 volume package 16 volume
+
+test1  user1  20000   0
+test2  user2  20000   0
+test3  user3  20000   0
+test4  user4  20000   0
+test5  user5  20000   49000
+test6  user6  20000   49000
+test7  user7  0   49000
+test8  user8  0   49000
+test9  user9  0   49000
+test10  user10  0   49000
+
+This iosadmin password is k97hyt86
+
+Because the ios application hasn't been thoroughly used since February of 
+1999, it is very important to do this testing.  I you need us to reset the 
+bids or the end time, or if you notice any problems while testing, please 
+page us at (877)497-3254.
+
+
+
+
+

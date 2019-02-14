@@ -1,0 +1,43 @@
+Return-Path: <eldon.falcon@jojaqu.crammedproducts.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16766 invoked by uid 115); 16 Jan 2005 17:55:27 -0000
+Received: from eldon.falcon@jojaqu.crammedproducts.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(67.43.50.127):. 
+ Processed in 0.131838 secs); 16 Jan 2005 17:55:27 -0000
+Received: from client-67.43.50.127-printer.biggoods.net (67.43.50.127)
+  by churchill.factcomp.com with SMTP; 16 Jan 2005 17:55:24 -0000
+From: "Gift Dept." <eldon.falcon@jojaqu.crammedproducts.net>
+To: bruceg@em.ca <bruceg@em.ca>
+Subject: Your Star Wars DVD Trilogy Set is pending shipping authorization: confirmation needed
+Date: Sun, 16 Jan 2005 09:57:05 -0800
+MIME-Version: 1.0
+Content-type: text/html; charset="ISO-8859-1"
+Content-transfer-encoding: 7bit
+Message-Id: <0365757866686A436870316664$4df803ge2@jojaqu.crammedproducts.net>
+
+
+<html>
+</head>
+<body>
+<p align="center">
+<a href="http://vapesh.discountinformation.net/starz/?y=ylw0365v&u=j75786mv&in=n6686axo&oy=nol43687m&g=ji0316664r&l=jqk">
+<br>
+<p align="center">
+<br>
+<img border="0" src="http://vapesh.discountinformation.net/starz/starzwarz.gif" width="497" height="212"><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</a>
+<img border="0" src="http://vapesh.discountinformation.net/starz/swdvd_emc_d4f4_08.gif" width="740" height="59">
+<br>
+<p align="center">
+<a href="http://vapesh.discountinformation.net/starz/tr.cgi?y=ylw0365v&u=j75786mv&in=n6686axo&oy=nol43687m&g=ji0316664r&l=jqk">
+<img border="0" src="http://vapesh.discountinformation.net/starz/rchere.gif" width="481" height="36"><br>
+<img src="http://vapesh.discountinformation.net/starz/spacer.img?y=ylw0365v&u=j75786mv&in=n6686axo&oy=nol43687m&g=ji0316664r&l=jqk" border=0>
+</body>
+</html>
+

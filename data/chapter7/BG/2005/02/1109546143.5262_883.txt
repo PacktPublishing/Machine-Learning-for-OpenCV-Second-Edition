@@ -1,0 +1,58 @@
+Return-Path: <Saundra@huhmail.com>
+Delivered-To: em-ca-bait-snooping@em.ca
+Received: (qmail 20427 invoked by uid 115); 8 Feb 2005 02:18:52 -0000
+Received: from Saundra@huhmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(205.241.34.66):. 
+ Processed in 0.240489 secs); 08 Feb 2005 02:18:52 -0000
+Received: from host-205-241-34-66.acelerate.net (HELO host-205-241-34-66.acelerate.com) (205.241.34.66)
+  by churchill.factcomp.com with SMTP; 8 Feb 2005 02:18:51 -0000
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+FCC: mailbox://Saundra@huhmail.com/Sent
+X-Identity-Key: id1
+Date: Tue, 08 Feb 2005 06:13:54 +0400
+From: Corine Nash <Saundra@huhmail.com>
+X-Mozilla-Draft-Info: internal/draft; vcard=0; receipt=0; uuencode=0
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: bait-snooping@em.ca
+Subject: hi..
+Content-Type: multipart/related;
+ boundary="------------090909070606090507000004"
+X-Qmail-Scanner-Message-ID: <110782913267220420@churchill>
+
+This is a multi-part message in MIME format.
+--------------090909070606090507000004
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html><body><p align="center"><a href="http://whichhasbeen.com/?a=637"><IMG SRC="cid:part1.00000703.04080803@Valerie@lovergirl.com"></a><br></p></body></html>
+
+--------------090909070606090507000004
+Content-Type: image/gif;
+ name="cloddish.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <part1.00000703.04080803@Valerie@lovergirl.com>
+Content-Disposition: inline;
+ filename="cloddish.gif"
+
+R0lGODlh0gA4AJHVAAD//wAAAP8AAAAAACH5BAAAAAAALAAAAADSADgAAAL/hI+py+0Po5y02ouz3rz7
+D4biSJbmiabqyrbuC8fyTNf2jbvCzvdC4lv0hL+cLYAIKI0Hn7Pp3CGe02JEiR0hFdtXt2sBG8SloYEH
+taIB67P1ISZ34rJvhiwftdvu4nr/5pB3kDWWlDQIYEe4RJiwhVT4KDkGBoklR3n4aLhZSdn4YMYmVeVX
++ofK57mwaOmo2LAY20kLG8rlCQlrm1vL2kn36wrBt5p6etq3yphouzss+8zZS5uYuTkr2IpZKPwNDFSa
+Jp7cR/qDLIjbfdusSf1rTe2Mq9g+zYAf755Nv69g1DlTaVINZNYqWjBeEF75ewhHG688DvkthHix2Dhy
+/wQLHlQVqNo8huwmVMyIEo68WhTDiYTWL6YDgQM5MhinzhdLRojiXfNJEmbCiTFbVhqKMdSXWXkQorNJ
+pKNTTJMi9ayqEiuiJUK52ZMkcavIl+96ZbFkD2o5KjcDsWUCF4UzjzNpBgyJDm/cvRzC8v0LGAO8wIQL
+Gz6MOLHixYwbO34MObLkv3P3Vlbs8HIYpfpW6hsc4qTMC5o9ixAdmiFSCX5BoB5LWrCJzDybGbokTSfn
+Z2l3xsL9qXbw1cBHQjs7CA+x32etlc4t8fhRl2PBjcztHKX1bdWkG0+p2rv3exZj57snXuzqiY1g9v7E
+1Pfwue7bX0y/nur38+jn0P/evxwe/eA3moD3PSTMJAMeCKBFyhU1mmAVgWWfbdXt1p9xGK6EloUZZpgJ
+WuN5w+A7lyzFnlnvnVDPbCs8pwGMga04WY023ohjjjruyGOPPv4IZJAzpiCja33FUCQJSVJQ5D6gdbbB
+klHiICV3sDEpH5RXmoSkCkqx8xVXHd42XVmgLJUcUQqiFwmYjojoIXlkInfVfPKc+WaZ5hHI4HHj+Wad
+Ufzt16CcC3Y33Z/XpYRfhTKSSGifGemnJprgmRXepMFAiiBLFRLKKaObfkopl4UGWqKgjXo2IT2A3unL
+qvnIWuehako44leTagMPV54qemdvbtbX1YfEvsqbpaohXRfqk0IS6cWzjVVpXlXdXHuttNpuy2233n4L
+brjiSlYAACH+dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0
+cHBoZG5heGdtYXdhbndtYmx5aGdwbW1hZWR5Z2JpeWloYmVxaWVoaGd1a3RueHkAO2==
+
+--------------090909070606090507000004--
+

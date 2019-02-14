@@ -1,0 +1,93 @@
+Return-Path: <nobody@host.f4h.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22845 invoked by uid 115); 8 Mar 2005 17:05:43 -0000
+Received: from nobody@host.f4h.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(70.85.42.212):. 
+ Processed in 0.094146 secs); 08 Mar 2005 17:05:43 -0000
+Received: from 212.70-85-42.reverse.theplanet.com (HELO host.f4h.net) (70.85.42.212)
+  by churchill.factcomp.com with SMTP; 8 Mar 2005 17:05:41 -0000
+Received: from nobody by host.f4h.net with local (Exim 4.44)
+	id 1D8fi1-0001w9-Q6; Tue, 08 Mar 2005 16:29:17 +0200
+To: 
+Subject: Notification of lotto result
+From: victoria <victoria_foh@mail2world.com>
+X-Priority: 1 (Highest)
+CC: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: RLSP Mailer
+Message-Id: <E1D8fi1-0001w9-Q6@host.f4h.net>
+Date: Tue, 08 Mar 2005 16:29:17 +0200
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.f4h.net
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - host.f4h.net
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: al-farooq.com:/public_html/n7
+
+
+
+FROM THE OFFICE OF THE VICE PRESIDENT
+LUCKYDAY E-MAIL LOTTERY INTERNATIONAL
+PROMOTIONS/PRIZE AWARD DEPT
+www.luckyday.nl
+
+BATCH NO: PTP/31211214257/190888/2202
+REF. NO: PTP/21449267220/255100//2202
+
+WINNING NOTIFICATION / FINALNOTICE...CONGRATULATIONS!!!!
+
+This is to inform you of the release of the E-MAILLOTTERY BALLOT INTERNATIONAL/ WORLD GAMING BOARD held on the 20th of December, 2004. Due to the mix up of number,
+the results were released on the 26th of January 2005. Your
+name attached to ticket number 219028657434 with serial
+number 918735625drew the lucky numbers of 21-70-81-82-99
+which consequently won the lottery in the 1st category.
+You have therefore been approved for a lump sum payout
+Of 1,000,000.00Euros only in cash which is deposited with a Finance &
+Security Company in your favor as beneficiary and covered with HIGH
+INSURANCE POLICY
+Due to mix up of some numbers and names, we ask that
+You keep your winning information confidential until your
+claims has been processed and your money remitted to you. This is
+part of our security protocol to avoid double claiming and
+unwarranted abuse of this program by some participants.
+All participants were selected through a computer
+ballot system drawn from only Microsoft users from over 20,000.00
+companies and 3,000,000 individual email addresses and names
+from all over the world.
+To begin your lottery claim, please contact our agent
+below that have been appointed for the processing of your claim
+with your contact telephone and fax number to begin the
+processing of your claim:
+
+CONTACT NAME:  JULIO MCCOY
+CITY/ COUNTRY:   LONDON, ENGLAND
+EMAIL: mccoy4luckyday@mail2world.com
+WEB SITE: www.luckyday.nl
+
+Note that all winning must be claimed not later than
+10th of April 2005. After this date all unclaimed, funds will be
+included in the next stake.
+Please note in order to avoid unnecessary delays and
+Complications please remember to quote your reference number and batch
+numbers in all correspondence.
+Furthermore, should there be any change of address do
+inform our agent as soon as possible.
+Congratulations once more from our members of staff
+and thank you for being part of our promotional program.
+
+Note: Anybody under the age of 18 is automatically
+disqualified.Please do not reply to this mail contact your claim agent immediately.
+
+Yours Sincerely,
+Mr.Todd Hannson
+ 
+
+
+
+___________________________________________________________________________
+Mail sent from WebMail service at PHP-Nuke Powered Site
+- http://al-farooq.com

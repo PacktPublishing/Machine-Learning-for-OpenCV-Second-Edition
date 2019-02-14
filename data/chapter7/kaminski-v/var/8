@@ -1,0 +1,65 @@
+Message-ID: <10927340.1075840797254.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 18:48:00 -0700 (PDT)
+From: david.port@enron.com
+To: vince.kaminski@enron.com
+Subject: RE: VaR
+Cc: john.lavorato@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.lavorato@enron.com, tanya.tamarchenko@enron.com
+X-From: David Port <David Port/ENRON@enronXgate@ENRON>
+X-To: Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-cc: John J Lavorato <John J Lavorato/ENRON@enronXgate>, Tanya Tamarchenko <Tanya Tamarchenko/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Vince
+
+Thanks for the update - especially your point 3 which echoes our own discussion yesterday: I want to clarify responsibilities for maintenance and administration of VAR. 
+We need transparency around the process so that mapping decisions, for example, are easily made, supported and reviewed. 
+
+It became clear after last Friday's events, that we are in an awkward paradigm with respect to how we handle VAR here, particularly at "pressure points".
+
+I am putting together the scope of a "general overhaul" of the VAR process, including method and administration, to which I hope we would all buy in, so be assured of our co-operation.
+
+DP 
+
+
+ -----Original Message-----
+From: 	Kaminski, Vince  
+Sent:	Wednesday, April 11, 2001 2:49 PM
+To:	Port, David
+Cc:	Lavorato, John; Kaminski, Vince; Tamarchenko, Tanya
+Subject:	VaR
+
+David,
+
+During today's VaR coordination meeting  we had a discussion of issues 
+related to mapping of the forward price curves into core locations.
+
+Mapping is a  necessity dictated by the limitations of the computer system:
+we have to reduce the dimensionality of the problem to stay within the bounds
+of available CPU memory. Also, in some cases the quality of price discovery is poor 
+and it's difficult to model the price curves independently: we solve the problem by mapping
+them into more liquid and better behaved core  locations curves.
+
+We have agreed on the following:
+
+1. Winston will investigate the IT side and determine to what extent we can increase the number
+of forward price curves that are simulated as basic (core) curves. He will investigate the impact of a larger
+number of the core curves on the time required to complete the VaR run.
+
+2. The curves associated with the biggest 10-20 positions in each commodity should be
+modeled as core curves (i.e. no mapping into other locations). It makes sense to monitor
+the biggest risks separately and avoid aggregating them into  less transparent aggregates.
+
+3. The results of an automated clustering (mapping) procedures should be systematically
+monitored by a human and corrected if they misrepresent the risks of the trading positions.
+This responsibility should be vested with one person (right now the responsibility is
+dispersed through the organization and this means in practice that nobody
+is responsible). Research can allocate one person to this task;
+cooperation of trading and RAC will be critical.
+
+Vince

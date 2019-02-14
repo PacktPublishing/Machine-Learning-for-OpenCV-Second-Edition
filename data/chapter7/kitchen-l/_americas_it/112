@@ -1,0 +1,59 @@
+Message-ID: <26078163.1075840862374.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 11:25:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com, 
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Cc: zhiyong.wei@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com
+X-From: Dave Nommensen <Dave Nommensen/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/ENRON@enronXgate>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>
+X-cc: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Dave Nommensen, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Russ Severson, Narasim Kasaru, Mike Swaim, Chuck Ames, Jay Krish.
+
+Accomplishments:
+
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process & its unit testing have been completed.
+o	Loading prior-day curves into position manager has been completed.
+o	Changes for the view aggregation have been completed (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is in user testing with some minor corrections being made as detected.
+
+?	Gas Daily deals:
+o	Changes to PortCalc application to create GDI calc in ERMS are complete and ready for testing.
+o	IT development items are in progress and on schedule (please see the attached project timeline).
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+?	Option Grid (phase 2):
+o	Conversion from Motif into Powerbuilder is in progress.
+
+?	Gas Daily options:
+o	Changes to PortCalc application have been completed; waiting for user acceptance testing.
+
+Plans for the week ending 5/4/01:
+
+?	Continue IT development of Phase I items.
+?	Continue IT development of Phase 2 issues.
+
+Issues / Open Items:
+
+?	To be determined:  whether  "group of groups" on Cash Positions must be included in the rollout.
+?	To be determined:  whether Cash Total needs to be included in Position Manager rollout (and how).
+?	Excluding the above 2 items, rollout to production is planned for mid-May.
+
+ 
+Thanks, Dave N.

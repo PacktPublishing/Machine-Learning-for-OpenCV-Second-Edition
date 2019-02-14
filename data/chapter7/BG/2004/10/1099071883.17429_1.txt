@@ -1,0 +1,126 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S262905AbUJ1UBr@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 1042 invoked from network); 28 Oct 2004 20:07:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 28 Oct 2004 20:07:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Oct 2004 20:07:04 -0000
+Received: (qmail 22664 invoked from network); 28 Oct 2004 20:07:02 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 28 Oct 2004 20:07:02 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S262905AbUJ1UBr (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Thu, 28 Oct 2004 16:01:47 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S262653AbUJ1T6w
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Thu, 28 Oct 2004 15:58:52 -0400
+Received: from reddragon.ipdiveo.net.pe ([200.31.96.2]:56519 "EHLO
+	reddragon.americatelnet.com.pe") by vger.kernel.org with ESMTP
+	id S262214AbUJ1TxK (ORCPT <rfc822;linux-kernel@vger.kernel.org>);
+	Thu, 28 Oct 2004 15:53:10 -0400
+Received: by reddragon.americatelnet.com.pe (Postfix, from userid 1002)
+	id 88E6AC5F9B; Thu, 28 Oct 2004 14:44:54 -0500 (PET)
+Received: from dwarf.americatelnet.com.pe (unknown [200.31.96.8])
+	by reddragon.americatelnet.com.pe (Postfix) with ESMTP
+	id AE9C8C5F9A; Thu, 28 Oct 2004 14:44:49 -0500 (PET)
+Received: from 200.31.96.8 (localhost.americatelnet.com.pe [127.0.0.1])
+	by dwarf.americatelnet.com.pe (Postfix) with SMTP
+	id 5B3FD261843; Thu, 28 Oct 2004 14:52:09 -0500 (PET)
+Received: from 213.255.194.13
+        (SquirrelMail authenticated user rc_a01@free.com.pe)
+        by 200.31.96.8 with HTTP;
+        Thu, 28 Oct 2004 14:52:09 -0500 (PET)
+Message-ID: <3686.213.255.194.13.1098993129.squirrel@200.31.96.8>
+Date:	Thu, 28 Oct 2004 14:52:09 -0500 (PET)
+Subject: MRS REBECCA ATKINS
+From:	rc_a01@free.com.pe
+User-Agent: SquirrelMail/1.4.2
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+Importance: Normal
+To:	undisclosed-recipients:;
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+Dear Sir/Madam,
+I greet you in the Name of GOD.
+I am MRS REBECCA ATKINS from South Africa.
+I am married to Late MR SMITH ATKINS of
+blessed memory who was an oil explorer in
+Kuwait and Brunei for fifteen years before
+he died in the year 2000.
+We were married for twelve years without a
+child. He died after a brief illness that
+lasted for only four days. Before his death
+we were both devoted to our God and respect
+other who serve him.
+Since his death, I too have been battling with
+both Cancer and fibroid problems. When my late
+Husband was alive he Deposited the sum of
+$18.5million (Eighteen Million, Five Hundred
+thousand U.S Dollars) with a deposit Company
+in Europe.the money is deposited as Family
+Valuables/Treasure for security reasons.
+Recently, my doctor told me that I have only six
+months to live due to my cancer problem, and this
+lead to a stroke attack which bother me most though
+because I cannot move as I use to.
+Having known my condition I decided to entrust this
+fund to either a philanthropic organization or
+devoted individual that will utilize this money
+the way I am going to instructs herein.30% of the
+US$18.5million goes to you to ensure that you are
+prepared for the task ahead, 60% of this money will
+be used in all sincerity to fund philanthropic
+organization, orphanages, widows and 5% will go to
+the family Attorney who will prepare the Authorisation
+and the balance 5% sent to me to at least prepare for
+my funeral and off-set my medical bills.
+I am taking this decision because I don't have any
+child or devoted relations whose behavior has left
+much to be desired while I am ill and above all I
+don't want a situation where this money will be
+used in an UnGodly manner,hence this bold decision.
+Since my health is Retrogressing by the minute,
+you will have to send your POSTAL ADDRESS, CONTACT
+PHONE NUMBER AND FAX and a little details about
+yourself, because I got your address from the internet
+after a thorough search.
+As soon as I receive this information from you I
+will make arrangement to prepare the Authorization
+through the family Attorney for you to get Possession
+of the Deposit. As soon as I receive your reply to my
+confidential email address.
+                        rebecca_atkins1968@onego.net
+and the authorization is given to you by me, I will
+give you the name and  contact of the deposit company
+where the money was Deposited in Europe, for claims
+to the consignment.
+Until I hear from you, I pray that this letter bring
+you and your family good tiding while my dreams to help
+humanity rest squarely on your shoulders.
+May the Almighty God continue to guide and protect you.
+
+Remain Blessed,
+MRS REBECCA ATKINS.
+NOTE; All replies should be forwarded to my
+confidential email address:
+                           rebecca_atkins1968@onego.net
+
+
+
+-----------------------------------------
+Internet gratis en: http://www.free.com.pe
+Americatel Internet Free
+Tu conexión Free más rápida
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

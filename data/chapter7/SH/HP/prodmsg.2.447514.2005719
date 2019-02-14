@@ -1,0 +1,64 @@
+Received: from smtpout65.terra.cl (HELO mail.terra.cl) (200.28.216.65)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:54 -0000
+Received: from correo.terra.cl (200.28.216.10) by mail.terra.cl (7.0.028)
+        id 42DC1C42000BDB34 for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 06:59:39 -0400
+Received: by correo.terra.cl (7.0.028) id 42D2E91E01F7E859 for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 07:01:52 -0400
+From: Servicio de reparto de correo <postmaster@ctcinternet.cl>
+Subject: =?ISO-8859-1?Q?Notificaci=F3n_del_estado_de_entrega?=
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 07:01:52 -0400
+Message-ID: <42D2E91E01F7E852@correo.terra.cl>
+MIME-Version: 1.0
+Content-Type: Multipart/Report; report-type=delivery-status; boundary="========/42D2E91E01F7E851/correo.terra.cl"
+
+Este mensaje MIME de múltiples partes trae una notificación del estado de entrega.
+Si ve este texto, quiere decir que su cliente de correo podría no entender los mensajes
+de formato MIME o DSN (véase del RFC 2045 al 2049 para obtener información general sobre mensajes MIME
+y del RFC 1891 al 1894 para obtener información específica sobre DSN).
+
+--========/42D2E91E01F7E851/correo.terra.cl
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+ - Los siguientes destinatarios fueron cursados por el servidor de correo:
+distlarach@infovia.cl; Fallido; 4.4.7 (tiempo de entrega vencido)
+
+
+
+--========/42D2E91E01F7E851/correo.terra.cl
+Content-Type: Message/Delivery-Status
+
+Reporting-MTA: dns; correo.terra.cl
+Received-from-MTA: dns; mailwisconsin.com (217.96.160.142)
+Arrival-Date: Tue, 19 Jul 2005 07:01:52 -0400
+
+Final-Recipient: rfc822; distlarach@infovia.cl
+Action: Failed
+Status: 4.4.7 (delivery time expired)
+
+--========/42D2E91E01F7E851/correo.terra.cl
+Content-Type: Text/RFC822-headers
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (217.96.160.142) by correo.terra.cl (7.0.028)
+        id 42D2E91E01F7E851 for distlarach@infovia.cl; Tue, 19 Jul 2005 07:01:52 -0400
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190842;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distlarach@infovia.cl
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+
+--========/42D2E91E01F7E851/correo.terra.cl--
+

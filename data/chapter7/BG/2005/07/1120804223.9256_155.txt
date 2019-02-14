@@ -1,0 +1,70 @@
+Return-Path: <SPEWXBXKTWJTPP@atlaswebmail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 407 invoked by uid 115); 8 Jul 2005 04:50:30 -0000
+Received: from SPEWXBXKTWJTPP@atlaswebmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(71.107.23.96):. 
+ Processed in 0.680213 secs); 08 Jul 2005 04:50:30 -0000
+Received: from pool-71-107-23-96.lsanca.dsl-w.verizon.net (71.107.23.96)
+  by churchill.factcomp.com with SMTP; 8 Jul 2005 04:50:28 -0000
+Received: from roomful relict (firewall.conduitbehest.com [202.64.148.48]) by 71.107.23.96 (0.1.7/3.4.1) with ESMTP id FTED786023135 for <bait@em.ca>; Fri, 08 Jul 2005 09:42:04 +0400
+Message-ID: <i4672f9BG8T572O55UF71OTZ38260740I378013@71.107.23.96>
+Reply-To: "Irene Bragg" <SPEWXBXKTWJTPP@atlaswebmail.com>
+From: "Irene Bragg" <SPEWXBXKTWJTPP@atlaswebmail.com>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+To: "Bait" <bait@em.ca>
+Subject: Apply for Mortgage Online
+Date: Fri, 08 Jul 2005 00:42:04 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--3692078163243772"
+
+----3692078163243772
+Content-Type: text/html;
+	charset="iso-2528-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<title> </title>
+</head>
+
+<body>
+
+            <DIV ALIGN=3Dcenter> 
+              <h3><FONT COLOR=3D"#FF0000" FACE=3D"Verdana, Arial, Helvetic=
+a, sans-serif"><STRONG><FONT COLOR=3D"#DC2A1E">If 
+                you are looking for  mortgage quotes, here's an excellent =
+new 
+                FREE service.</FONT></STRONG></FONT></h3>
+            </DIV>
+            <P ALIGN=3D"CENTER"><FONT SIZE=3D"2" FACE=3D"Verdana, Arial, H=
+elvetica, sans-serif">All 
+              you do is submit some basic details once.<BR>
+              <FONT COLOR=3D"#DC2A1E">These immediately go to a highly rec=
+ommended 
+              mortgage adviser.</FONT><BR>
+              While you relax they use their expertise to <strong><font co=
+lor=3D"#0033FF">quickly</font></strong> 
+              find you your best mortgage quote. <BR>
+              <FONT COLOR=3D"#000000"><FONT COLOR=3D"#DC2A1E">You 
+              can <strong>save time, money and effort</strong> wading thro=
+ugh 
+              the thousands of possible UK mortgage deals </FONT>(<strong>=
+and 
+              there is <font color=3D"#0033FF">no obligation</font> at all=
+ to proceed</strong>)</FONT></FONT></P>
+            <P ALIGN=3D"CENTER">
+            <font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"4=
+">
+            <span style=3D"background-color: #FF0000">&gt;</span><u><a hre=
+f=3D"http://www.cardservices3.com/quote/">PLEASE 
+            CLICK HERE</a></u><span style=3D"background-color: #FF0000">&l=
+t;</span></font></P>
+            
+</body>
+
+</html>
+
+----3692078163243772--

@@ -1,0 +1,67 @@
+Message-ID: <25167834.1075860981910.JavaMail.evans@thyme>
+Date: Mon, 4 Mar 2002 14:58:18 -0800 (PST)
+From: kimberly.watson@enron.com
+To: michelle.lokay@enron.com, mark.mcconnell@enron.com, paul.y'barbo@enron.com
+Subject: FW: Draft - SoCal/Topock Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Watson, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KWATSON>
+X-To: Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>, McConnell, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MMcConne>, Y'barbo, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pybarbo>
+X-cc: 
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: mlokay (Non-Privileged).pst
+
+FYI, Kim.
+
+ -----Original Message-----
+From: 	Donoho, Lindy  
+Sent:	Monday, March 04, 2002 2:16 PM
+To:	Watson, Kimberly; Lindberg, Lorraine; Lohman, TK
+Cc:	Betancourt, Ramona 
+Subject:	FW: Draft - SoCal/Topock Announcement
+
+FYI,
+	Looks like we have a few adm things to get in place before we can implement.
+
+ -----Original Message-----
+From: 	Betancourt, Ramona   
+Sent:	Monday, March 04, 2002 2:13 PM
+To:	Donoho, Lindy; Kowalke, Terry; Corman, Shelley
+Cc:	Schoolcraft, Darrell
+Subject:	RE: Draft - SoCal/Topock Announcement
+
+Lindy,
+
+Since Socal will not be confirming during the timely cycle, this gas will be incremental and the supplies may not get scheduled. Also,  I know Socal confirms the Needles point via EDI. Will they also confirm this Socal Topock point via EDI? If they do confirm via EDI, it would be good to have them work with Mary Draemer on a test EDI file. Will they give us a window like they do at Socal needles?
+
+Today in TMS, we do have a Non Grid cycle that runs just prior to the gas day starting at 7:30 am. I know Socal does not confirm  this cycle today for Needles. Also, currently in production today Socal Needles point 10487 is set up as a passive point for confirmation. This Topock point would need to be set up with the same point status role for confirmation if they confirm this point via EDI. Socal will need to complete the Operator Choice request form that is posted on the TW web site.
+
+Thanks Ramona
+
+ -----Original Message-----
+From: 	Donoho, Lindy  
+Sent:	Monday, March 04, 2002 9:22 AM
+To:	Kowalke, Terry; Corman, Shelley; Betancourt, Ramona 
+Subject:	FW: Draft - SoCal/Topock Announcement
+
+I'm asking Ramona a question - it would probably be good if I had her on the address list =)
+
+Also, Terry & Shelley - any comments?  We were discussing this in a meeting Friday afternoon and after I incorporate all of our comments, we're going to run it past SoCal as well.  This change is pursuant to a conversation Steve had with Ladd Lorenz last week.
+
+ -----Original Message-----
+From: 	Donoho, Lindy  
+Sent:	Friday, March 01, 2002 3:16 PM
+To:	Watson, Kimberly; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Kilmer III, Robert; Harris, Steven
+Subject:	Draft - SoCal/Topock Announcement
+
+Here's a simple first draft.  I didn't know how much detail we should get into.
+
+Ramona, am I using the correct terminology?  They are not going to confirm in Cycle 1.  They are just going to let us fill-in where El Paso filled-up all the capacity downstream.
+
+ << File: SoCal-TopockScheduling.doc >> 
+
+Let me know your comments.
+
+Thanks!

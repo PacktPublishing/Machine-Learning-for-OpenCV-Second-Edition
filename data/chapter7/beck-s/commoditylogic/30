@@ -1,0 +1,40 @@
+Message-ID: <7066038.1075855816633.JavaMail.evans@thyme>
+Date: Wed, 15 Nov 2000 03:13:00 -0800 (PST)
+From: thomas.gros@enron.com
+To: greg.whalley@enron.com, louise.kitchen@enron.com, philippe.bibi@enron.com
+Subject: CommodityLogic Financial Invoice Exchange v1.0
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Thomas D Gros
+X-To: Greg Whalley, Louise Kitchen, Philippe A Bibi
+X-cc: Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The FIX module v1.0 is now operational and meets all the specifications as 
+shown in the FRS.  The team would be happy to show you a demo at your 
+convenience, perhaps early next week.  We anticipate our back office using 
+FIX in parallel with existing systems for December 2000, and then using FIX 
+"under fire" for January 2001 invoices.
+
+The demo uses actual data from Sempra, our largest volume natgas financial 
+counterparty.  In about a minute, FIX is able to compare Enron data and 
+Sempra data (received electronically as an excel spreadsheet and stored on a 
+mini version of our Deal Database), immediately matching about 1450 of the 
+1500 deals.  It then helps the user to manually match those 50 deals that the 
+primary match engine could not.  This whole process, if it were purely 
+manual, would take more than a day.  Using excel spreadsheets (and sort 
+functions), Enron currently spends 4 to 8 hours per month matching Sempra 
+invoices. FIX allows the user to perform all matching in about 10 minutes.
+
+Our next deliverable is the Confirm Central module v1.0, due 1 December.  We 
+anticipate delivering it on time, as we have with FIX.
+
+
+All the best,
+
+Tom

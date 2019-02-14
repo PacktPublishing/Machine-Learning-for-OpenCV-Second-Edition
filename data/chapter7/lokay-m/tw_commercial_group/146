@@ -1,0 +1,38 @@
+Message-ID: <8164096.1075844100852.JavaMail.evans@thyme>
+Date: Tue, 29 Aug 2000 05:54:00 -0700 (PDT)
+From: jim.wiltfong@enron.com
+To: lindy.donoho@enron.com, kevin.hyatt@enron.com, tk.lohman@enron.com, 
+	christine.stokes@enron.com, michelle.lokay@enron.com, 
+	jeffery.fawcett@enron.com, darrell.schoolcraft@enron.com, 
+	terry.galassini@enron.com, bob.burleson@enron.com, 
+	steve.weller@enron.com, sean.bolks@enron.com, 
+	kimberly.watson@enron.com, lee.ferrell@enron.com, 
+	steven.harris@enron.com, lee.huber@enron.com, 
+	lorraine.lindberg@enron.com, pkrishn@ect.enron.com, 
+	youyi.feng@enron.com, kenneth.chow@enron.com
+Subject: Variables
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jim Wiltfong
+X-To: Lindy Donoho, Kevin Hyatt, TK Lohman, Christine Stokes, Michelle Lokay, Jeffery Fawcett, Darrell Schoolcraft, Terry Galassini, Bob Burleson, Steve Weller, Sean Bolks, Kimberly Watson, Lee Ferrell, Steven Harris, Lee Huber, Lorraine Lindberg, pkrishn@ect.enron.com, Youyi Feng, Kenneth Chow
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The attached file contains a list of the variables we identified in our 
+August 18th meeting.  I tried to break them down into smaller group just for 
+organizational purposes.  The items under Prices and Temperatures should be 
+easy to gather using the LIM database.  The items in the Other category may 
+require more research.  What we have done in the past if we could not find 
+the exact variable try and fine a proxy for it.  For example it may be 
+difficult to find irrigation usage, but less difficult to find precipitation 
+in a region.  Since these two items would intuitively seem to have an inverse 
+relationship it may be possible to use precipitation as a proxy for 
+irrigation.  After we have begun to research the Other variables we may have 
+to come back to you and discuss proxy variables so keep that in mind.  We 
+added a column for use to keep track of the statues on each variable this is 
+just for us to keep track of where we found the variable or why we did not 
+pursue it.  Let me know if we have missed anything or you have subsequently 
+thought of anything not on the list.

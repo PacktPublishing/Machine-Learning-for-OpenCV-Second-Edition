@@ -1,0 +1,30 @@
+Message-ID: <17547832.1075854130375.JavaMail.evans@thyme>
+Date: Tue, 25 Apr 2000 01:53:00 -0700 (PDT)
+From: jackie.young@enron.com
+To: daren.farmer@enron.com
+Subject: 98-2601
+Cc: pat.clynes@enron.com, howard.camp@enron.com, aimee.lannou@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pat.clynes@enron.com, howard.camp@enron.com, aimee.lannou@enron.com
+X-From: Jackie Young
+X-To: Daren J Farmer
+X-cc: Pat Clynes, Howard B Camp, Aimee Lannou
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Hi Daren,
+
+I'm attempting to clear the above mentioned meter from an error report 
+(Revenue Volume Comparison Report).  Howard apprised me, in a meeting last 
+week, that the reason this meter is appearing in the aforementioned report is 
+due to no volumes being scheduled in POPS but volumes appearing in MOPS.  The 
+volumes @ this meter is for 4449 (Sitara deal tickets 240095 and 227697.  Due 
+to this being a "check meter" the volumes will not bridge to POPS from MOPS.  
+I'd like to request to revise the nome of 4449 to show "0" instead.  Can you 
+approve this modification?
+
+Thanks
+-Jackie-

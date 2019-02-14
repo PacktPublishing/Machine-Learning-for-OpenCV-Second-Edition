@@ -1,0 +1,52 @@
+Return-Path: <healthplans@e-mrktg.com>
+Received: (fqmail 16261 invoked from network); 17 Aug 2004 23:17:27 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 17 Aug 2004 23:17:27 -0000
+Received: (qmail 13903 invoked from network); 17 Aug 2004 23:17:28 -0000
+Received: from sierra ([69.6.66.18])
+  by mx01.futurequest.net ([69.5.6.171])
+  with ESMTP via TCP; 17 Aug 2004 23:17:28 -0000
+From: "American Medical" <healthplans@e-mrktg.com>
+Subject: New Health Plan - Only 85 a Month
+To: bugs@ezmlm.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: healthplans@e-mrktg.com
+Date: Tue, 17 Aug 2004 18:13:53 -0500
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body bgcolor="020167" text="#000000" color="#000000">
+<table border=0 align="center" cellpadding=0 cellspacing=0 bgcolor="#FFFFFF">
+<tr>
+<td height="58px" width="58px" background="http://www.a1info.net/images2/nbraia/newimages/topleft.jpg"></td>
+<td height="58px" width="*" background="http://www.a1info.net/images2/nbraia/newimages/top.jpg"></td>
+<td height="58px" width="58px" background="http://www.a1info.net/images2/nbraia/newimages/topright.jpg"></td>
+</tr><tr>
+<td height="*" width="58px" background="http://www.a1info.net/images2/nbraia/newimages/left.jpg"></td>
+<td><h1><font color="#CC0000">
+  <center>
+  1-877-512-3890</font></h1>
+<img src="http://www.a1info.net/images2/nbraia/newimages/top45.jpg"><br><img src="http://www.a1info.net/images2/nbraia/newimages/botom45.jpg"></td>
+<td height="*" width="58px" background="http://www.a1info.net/images2/nbraia/newimages/right.jpg"></td>
+</tr>
+<tr>
+
+<td height="58px" width="58px" background="http://www.a1info.net/images2/nbraia/newimages/bottomleft.jpg"></td>
+<td height="58px" width="*" background="http://www.a1info.net/images2/nbraia/newimages/bottom.jpg"></td>
+<td height="58px" width="58px" background="http://www.a1info.net/images2/nbraia/newimages/bottomright.jpg"></td>
+</tr></table><br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.a1info.net/080E100715013217081F1E1F5C1D00150E4346404A410E470E08.aspx'><img src='http://www.a1info.net/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.a1info.net/080E100715013217081F1E1F5C1D00150E4346404A410E470E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">American Medical &#183; 2471 McMullan Booth Rd &#183; Clearwater, FL 33759</font></p></td></tr></table></body></html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

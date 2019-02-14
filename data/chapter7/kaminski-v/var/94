@@ -1,0 +1,60 @@
+Message-ID: <6794703.1075856642831.JavaMail.evans@thyme>
+Date: Tue, 25 Jul 2000 15:02:00 -0700 (PDT)
+From: anjam.ahmad@enron.com
+To: tanya.tamarchenko@enron.com, kirstee.hewitt@enron.com, 
+	cantekin.dincerler@enron.com, vince.kaminski@enron.com, 
+	grant.masson@enron.com, ted.murphy@enron.com
+Subject: MG Metals VaR Preliminary Model1a - Subject to Minor
+ Updating/Correcting
+Cc: eric.gadd@enron.com, bjorn.hagelmann@enron.com, david.port@enron.com, 
+	zimin.lu@enron.com, dale.surbey@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: eric.gadd@enron.com, bjorn.hagelmann@enron.com, david.port@enron.com, 
+	zimin.lu@enron.com, dale.surbey@enron.com, stinson.gibner@enron.com
+X-From: Anjam Ahmad
+X-To: Tanya Tamarchenko, Kirstee Hewitt, Cantekin Dincerler, Vince J Kaminski, Grant Masson, Ted Murphy
+X-cc: Eric Gadd, Bjorn Hagelmann, David Port, Zimin Lu, Dale Surbey, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear all,
+
+I am leaving the office now, and sending you the preliminary model 1a for MG 
+Metals VaR that Tanya, Cantekin, Kirstee have put together.  We are now in a 
+position to look at the VaR by metal for positions as of 19th July 2000, 
+subject to some data that needs updating/correcting; we still need to update 
+some information/data flow processes as follows:-
+
+i) Factor Loadings for silver, gold, cocoa beans and TC (treatment charge for 
+copper concentrate)
+ii) Check correlations between Nickel and Alu and Nickel and Copper (I got 
+different answers to Houston)
+iii) Ensure latest forward price curves are included (perhaps through live 
+link to Telerate/Reuters)
+iiia) Price for silver is wrong (units should be $ per troy ounce), and 
+similarly for gold (price should be $ per troy ounce), also we need cocoa 
+bean forward curve
+iv) Find a better way to extract positional information from MG Metals/link 
+to the spreadsheet in an automated fashion
+v) Add "minor" metals like cobalt, palladium, platinum, cadmium etc. (N.B. we 
+have 1,093 troy ounces of palladium short posn and 3,472 troy ounces platinum 
+long as of 19th July)
+
+Please feel free to add to this list if I have missed anything; I believe 
+that we have most of the bases covered in respect of issues to resolve ahead 
+of the deadline of 7th August and fully expect that we will deliver.
+
+Regards,
+
+Anjam Ahmad
+x35383
+
+SPREADSHEET:
+
+
+P.S. The DLL the spreadsheet requires is in 
+O:\Research\Common\from_vsh\Value@Risk\Ccode\Debug\varcsnl.dll -> most of you 
+have access to this.

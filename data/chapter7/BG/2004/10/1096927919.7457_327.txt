@@ -1,0 +1,47 @@
+Return-Path: <w.fritzwq@xcelco.on.ca>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24108 invoked by uid 115); 30 Sep 2004 15:37:34 -0000
+Received: from w.fritzwq@xcelco.on.ca by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(219.104.246.148):. 
+ Processed in 0.282229 secs); 30 Sep 2004 15:37:34 -0000
+Received: from hmmt121148.catv.ppp.infoweb.ne.jp (HELO xs4all.nl) (219.104.246.148)
+  by churchill.factcomp.com with SMTP; 30 Sep 2004 15:37:33 -0000
+From: "Willard Fritz" <w.fritzwq@xcelco.on.ca>
+MIME-Version: 1.0
+Date: Thu, 30 Sep 2004 15:35:31 +0000
+To: asetar@em.ca, bruceg@em.ca
+X-Mailer: Windows Eudora Pro Version 2.2 (32)
+Message-ID: <2.2.32.200409301535310015f002@xcelco.on.ca>
+Subject: =?iso-8859-1?B?V2Ugd2lsbCByZVxkdWNlIHlvdXIgcGF5bWVudA==?=
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+<div align="center">
+  <center><!--31mq3mLe6dyiq80-->
+    <table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="256">
+        <a href="http://www.infobeanz.biz/green/index.php?affiliateid=m8">
+	<img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c1.gif" width="256" height="82" border="0"></a></td>
+        <td width="125"><a href="http://www.infobeanz.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c2.gif" width="166" height="82" border="0"></a></td>
+        <td width="219" rowspan="2"><a href="http://www.infobeanz.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c3.gif" width="178" height="283" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.infobeanz.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c1.gif" width="256" height="201" border="0"></a></td>
+        <td><a href="http://www.infobeanz.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c2.gif" width="166" height="201" border="0"></a></td>
+      </tr>
+      <tr bgcolor="#990000">
+        <td colspan="3"></td>
+      </tr>
+    </table>
+</body>
+</html>
+
+

@@ -1,0 +1,73 @@
+Return-Path: <lmnop@mailweb.co.za>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 25943 invoked by uid 115); 21 Dec 2004 12:37:07 -0000
+Received: from lmnop@mailweb.co.za by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.173.37.240):. 
+ Processed in 0.220852 secs); 21 Dec 2004 12:37:07 -0000
+Received: from unknown (HELO mailweb.co.za) (61.173.37.240)
+  by churchill.factcomp.com with SMTP; 21 Dec 2004 12:37:05 -0000
+Message-ID: <13BCAA2A.15EC791@mailweb.co.za>
+Date: Tue, 21 Dec 2004 09:19:04 -0200
+Reply-To: "Accept Credit Cards Now" <lmnop@mailweb.co.za>
+From: "Accept Credit Cards Now" <lmnop@mailweb.co.za>
+User-Agent: Mail System Express 6.00.2810.1106
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <bruceg@em.ca>
+Subject: Start Accepting Credit Cards Within Hours!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>                                                    
+
+<body bgcolor="#FFCC66" text="#CC3300">
+<div align="center">
+  <p><strong><font color="#993300" size="4">There's still time to stop
+losing Christmas sales (and take advantage of post Christmas
+shoppers!!)</font><font color="#996633"><br>
+  </font><br>
+    <font size="5">YOU CAN START ACCEPTING CREDIT CARDS WITHIN HOURS!!!<br>
+    <font size="4">No start up costs.<br>
+    No monthly minimum quotas.<br>
+    Real people answer our phones to help you find the best program, and
+make it easy to get started!<br>
+    Call today for a free, no pressure, phone consultation with one of our
+friendly, knowledgeable specialists.<br>
+    1-800-795-6676<br>
+  Member of the Better Business Bureau.</font> </font></font></strong></p>
+  <p><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <font color="#000000" size= "-2">This message is sent to you in
+compliance with the Federal CAN-Spam Bill and the Electronic Commerce (EC
+Directive) Regulations of 2004.
+    <br>
+    This is a commercial email which includes an unsubscribe method for
+remove processing as mandated by law.  <br>
+    Footer also includes the sender's information.
+      
+Quantum International
+    5985 S. University Dr. #138
+    Davie, Florida 33328<br>
+    To be excluded from future mailings, please reply to this email with
+"rem" in the subject line.</font>
+      
+
+  </p>
+</div>
+</body>
+</html>
+
+

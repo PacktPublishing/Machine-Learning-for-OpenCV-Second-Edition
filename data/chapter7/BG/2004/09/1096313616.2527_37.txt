@@ -1,0 +1,73 @@
+Return-Path: <"\"A[5-]\""@activatormail.com>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 11228 invoked from network); 25 Sep 2004 03:25:32 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 25 Sep 2004 03:25:32 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 25 Sep 2004 03:25:32 -0000
+Received: (qmail 26248 invoked from network); 25 Sep 2004 03:25:32 -0000
+Received: from S010600d009d7d2ba.vc.shawcable.net (unknown [24.80.106.65])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 25 Sep 2004 03:25:31 -0000
+X-Message-Info: MYCOC+dcs/697+isw/ZJZ+25/919169864612253
+Received: from smtp-strobe.billionth.A[5-]@activatormail.com ([24.80.106.65]) by ec32-d64.A[5-]@activatormail.com with Microsoft SMTPSVC(5.0.8773.5550);
+	 Sat, 25 Sep 2004 00:23:35 -0400
+Received: from sara82.galenite.A[5-]@activatormail.com (cope05.A[5-]@activatormail.com [24.80.106.65])
+	by smtp-marshall.orr.A[5-]@activatormail.com (Postfix) with SMTP id 2EC25VW6ECB
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri, 24 Sep 2004 22:24:35 -0600
+X-Message-Info: GFGP+%ND_LC_CHAR[1-3]690+j+RQX+11/91659966374985
+Received: (qmail 68017 invoked by uid 7); Fri, 24 Sep 2004 21:20:35 -0700
+Date: Sat, 25 Sep 2004 10:16:35 +0600
+Message-Id: <17538531.42375@A[5-]@activatormail.com>
+From: Rachel  Funk <A[5-]@activatormail.com>
+To: Lists-bikini <lists-bikini@bruce-guenter.dyndns.org>
+Subject: Don't wait any longer.
+MIME-Version: 1.0 (produced by tailagrarian 4.9)
+Content-Type: multipart/alternative;
+	boundary="--2296660188264734144"
+
+----2296660188264734144
+Content-Type: text/html;
+	charset="iso-8243-5"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: mendel patrice depend
+
+<html>
+<head>
+<style type=3D"text/css">
+<!--
+style2 {color: #FF0000}
+style3 {color: #000000}
+style4 {color: #00FF00}
+style5 {color: #3366FF;}
+style7 {color: #999999}
+style9 {color: #33CC33}
+style10 {color: #CCFF00}
+style12 {color: #FFCC00}
+style13 {color: #99FF00}
+-->
+</style>
+</head>
+
+<body>
+<p align=3D"center" class=3D"style2">Unsatisfied with your performance in =
+bed?
+</p>
+<p align=3D"center" class=3D"style3">Want an extra boost?</p>
+<p align=3D"center" class=3D"style5">Try the new Viagra Softab, disloves o=
+n your tongue and works in less then 15 minutes.</p>
+<p align=3D"center" class=3D"style5"><span class=3D"style7">Discrete and C=
+onfidential.</span> <span class=3D"style13">Doctor Approved.</span> <span =
+class=3D"style9">Shipped Worldwide.</span> <span class=3D"style10"><span c=
+lass=3D"style12">100% Guarantee</span>.</span></p>
+<p align=3D"center" class=3D"style3">We have the cheapest prices on the ne=
+t.</p>
+<p align=3D"center" class=3D"style3"><a href=3D"http://888-luvu.com/st/?bo=
+nsay" class=3D"style4">Go Here</a> <span class=3D"style5">to check out the=
+ details.</span></p>
+</body>
+</html>
+
+
+----2296660188264734144--

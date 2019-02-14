@@ -1,0 +1,34 @@
+Message-ID: <20153605.1075856643243.JavaMail.evans@thyme>
+Date: Thu, 6 Jul 2000 09:57:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: andreas.barschkis@mgusa.com
+Subject: Re: ORACLE tables which contain the position and curves information
+ for Enron's VAR system
+Cc: ganapathy.ramesh@enron.com, bjorn.hagelmann@enron.com, 
+	vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ganapathy.ramesh@enron.com, bjorn.hagelmann@enron.com, 
+	vince.kaminski@enron.com
+X-From: Tanya Tamarchenko
+X-To: Andreas.barschkis@mgusa.com
+X-cc: Ganapathy Ramesh, Bjorn Hagelmann, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Andreas,
+as we discussed today, I am sending you some information on how the positions 
+and curves
+are stored in our database. In the enclosed file you'll find the list of 
+columns for 4 tables and
+2 quarries as an example. 3 of these tables contain the positions 
+information, 1 table has the curves information.
+
+Ramesh (who supports our VAR model from IT side) will send you the 
+description of these tables.
+
+Regards,
+
+Tanya.

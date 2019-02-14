@@ -1,0 +1,46 @@
+Message-ID: <20982172.1075857033523.JavaMail.evans@thyme>
+Date: Fri, 28 Jan 2000 07:15:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: vince.kaminski@enron.com
+Subject: Project with Maria Garcia
+Cc: stinson.gibner@enron.com, vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vasant.shanbhogue@enron.com
+X-From: Zimin Lu
+X-To: Vince J Kaminski
+X-cc: Stinson Gibner, Vasant Shanbhogue
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+
+Here is a brief about the project with Maria Garcia.
+
+Promigas, in partnership with others,  wants to acquire $80 MM TVCable 
+company in Mexico.
+Promigas's ownership would be 25%, i.e. , 20MM.  10MM of it would come from 
+debt.
+Enron wants to participate this deal by offer Promigas loan guarantee in 
+exchange of call options
+on 50% Promigas equity in TVCable.
+
+Following suggestions have been made:
+
+1) get a market quote for the loan guarantee;
+    use credit risk model to price the guarantee internally;
+    need to speak to Vasant
+
+2) find a comparable company, study the volatility
+    using company value histogram from economics model(crystal ball output), 
+I can fit a lognormal
+    distribution, then find the volatility
+
+3)calcalte the call option value, find braek-even strike.
+
+
+Any inputs are extremely welcome.
+
+Zimin

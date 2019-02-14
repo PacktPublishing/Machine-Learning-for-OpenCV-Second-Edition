@@ -1,0 +1,145 @@
+Return-Path: <admonit@admonit.co.il>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 20121 invoked by uid 115); 23 Jan 2005 09:26:02 -0000
+Received: from admonit@admonit.co.il by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.218.255.47):. 
+ Processed in 0.209388 secs); 23 Jan 2005 09:26:02 -0000
+Received: from bzq-218-255-47.red.bezeqint.net (HELO 192.168.12.13) (81.218.255.47)
+  by churchill.factcomp.com with SMTP; 23 Jan 2005 09:26:00 -0000
+From: "admonit" <admonit@admonit.co.il>
+To: <bruceg@em.ca>
+Subject:
+Sender: "admonit" <admonit@admonit.co.il>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 0123051059"
+Date: Sun, 23 Jan 2005 10:59:30 +0200
+X-Qmail-Scanner-Message-ID: <110647236267220075@churchill>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 0123051059
+Content-Type: text/plain;
+	charset="ISO-8859-8"
+Content-Transfer-Encoding: 8bit
+
+
+--= Multipart Boundary 0123051059
+Content-Type: text/html;
+	charset="ISO-8859-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1255">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+<STYLE>BODY {
+	FONT-FAMILY: arial
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV></DIV><!-- ImageReady Slices (admonit.psd) -->
+<TABLE cellSpacing=0 cellPadding=0 width=599 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=234></TD>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=60></TD>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=124></TD>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=181></TD></TR>
+  <TR>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=82 
+      src="http://www.admonit.co.il/email/Images2/tel.gif" width=294 
+      border=0></A></TD>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=82 
+      src="http://www.admonit.co.il/email/Images2/logo.jpg" width=305 
+      border=0></A></TD></TR>
+  <TR>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=314 
+      src="http://www.admonit.co.il/email/Images2/text.gif" width=294 
+      border=0></A></TD>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=314 
+      src="http://www.admonit.co.il/email/Images2/picture2.jpg" width=305 
+      border=0></A></TD></TR>
+  <TR>
+    <TD colSpan=2 rowSpan=2><A href="http://www.admonit.co.il/"><IMG height=41 
+      src="http://www.admonit.co.il/email/Images2/text2.gif" width=294 
+      border=0></A></TD>
+    <TD><A href="http://www.admonit.co.il/"><IMG height=21 
+      src="http://www.admonit.co.il/email/Images2/admonit_08.gif" width=124 
+      border=0></A></TD>
+    <TD><A href="http://www.admonit.co.il/"><IMG height=21 
+      src="http://www.admonit.co.il/email/Images2/homepage.gif" width=181 
+      border=0></A></TD></TR>
+  <TR>
+    <TD><IMG height=20 
+      src="http://www.admonit.co.il/email/Images2/admonit_10.gif" width=124></TD>
+    <TD><A href="mailto:admonit@admonit.co.il?subject=contact"><IMG height=20 
+      src="http://www.admonit.co.il/email/Images2/email.gif" width=181 
+      border=0></A></TD></TR>
+  <TR>
+    <TD><IMG height=23 
+      src="http://www.admonit.co.il/email/Images2/admonit_12.gif" width=234></TD>
+    <TD colSpan=2><A href="mailto:admonit@admonit.co.il?subject=remove"><IMG 
+      height=23 src="http://www.admonit.co.il/email/Images2/off_all.gif" 
+      width=184 border=0></A></TD>
+    <TD><IMG height=23 
+      src="http://www.admonit.co.il/email/Images2/admonit_14.gif" 
+  width=181></TD></TR></TBODY></TABLE><!-- End ImageReady Slices --><!-- ImageReady Slices (admonit.psd) -->
+<TABLE cellSpacing=0 cellPadding=0 width=599 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=234></TD>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=60></TD>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=124></TD>
+    <TD><IMG height=1 src="http://www.admonit.co.il/email/Images2/spacer.gif" 
+      width=181></TD></TR>
+  <TR>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=82 
+      src="http://www.admonit.co.il/email/Images2/tel.gif" width=294 
+      border=0></A></TD>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=82 
+      src="http://www.admonit.co.il/email/Images2/logo.jpg" width=305 
+      border=0></A></TD></TR>
+  <TR>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=314 
+      src="http://www.admonit.co.il/email/Images2/text.gif" width=294 
+      border=0></A></TD>
+    <TD colSpan=2><A href="http://www.admonit.co.il/"><IMG height=314 
+      src="http://www.admonit.co.il/email/Images2/picture2.jpg" width=305 
+      border=0></A></TD></TR>
+  <TR>
+    <TD colSpan=2 rowSpan=2><A href="http://www.admonit.co.il/"><IMG height=41 
+      src="http://www.admonit.co.il/email/Images2/text2.gif" width=294 
+      border=0></A></TD>
+    <TD><A href="http://www.admonit.co.il/"><IMG height=21 
+      src="http://www.admonit.co.il/email/Images2/admonit_08.gif" width=124 
+      border=0></A></TD>
+    <TD><A href="http://www.admonit.co.il/"><IMG height=21 
+      src="http://www.admonit.co.il/email/Images2/homepage.gif" width=181 
+      border=0></A></TD></TR>
+  <TR>
+    <TD><IMG height=20 
+      src="http://www.admonit.co.il/email/Images2/admonit_10.gif" width=124></TD>
+    <TD><A href="mailto:admonit@admonit.co.il?subject=contact"><IMG height=20 
+      src="http://www.admonit.co.il/email/Images2/email.gif" width=181 
+      border=0></A></TD></TR>
+  <TR>
+    <TD><IMG height=23 
+      src="http://www.admonit.co.il/email/Images2/admonit_12.gif" width=234></TD>
+    <TD colSpan=2><A href="mailto:admonit@admonit.co.il?subject=remove"><IMG 
+      height=23 src="http://www.admonit.co.il/email/Images2/off_all.gif" 
+      width=184 border=0></A></TD>
+    <TD><IMG height=23 
+      src="http://www.admonit.co.il/email/Images2/admonit_14.gif" 
+  width=181></TD></TR></TBODY></TABLE><!-- End ImageReady Slices --></BODY></HTML>
+
+--= Multipart Boundary 0123051059--
+

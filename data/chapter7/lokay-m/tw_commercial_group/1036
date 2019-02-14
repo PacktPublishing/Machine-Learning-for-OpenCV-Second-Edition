@@ -1,0 +1,27 @@
+Message-ID: <7248831.1075855008983.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 04:41:34 -0700 (PDT)
+From: terry.kowalke@enron.com
+To: michelle.lokay@enron.com
+Subject: Allocation Order
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKOWALK>
+X-To: Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>
+X-cc: 
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+Michelle,
+
+To answer your question on the allocation order is;
+
+1st     Primary to Primary
+2nd    Primary to Alternate (Inside)
+3rd     Alternate to Primary (Inside)
+4th    Alternate to Alternate (Inside)
+5th    Primary to Alternate  (Outside)
+6th    Alternate to Primary  (Outside)
+7th    Alternate to Alternate (Outside)
+8th    OverRun / Interuptible                     

@@ -1,0 +1,57 @@
+Message-ID: <3718853.1075857050665.JavaMail.evans@thyme>
+Date: Tue, 14 Mar 2000 02:36:00 -0800 (PST)
+From: anjam.ahmad@enron.com
+To: vince.kaminski@enron.com
+Subject: Benzene Forward Curve & Hedge Calculator
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Anjam Ahmad
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+New market we are trying to develop in Benzene swaps - possibly hedging with 
+financial naphtha and physical toluene.
+
+Rgds,
+
+Anjam
+---------------------- Forwarded by Anjam Ahmad/LON/ECT on 14/03/2000 10:35 
+---------------------------
+
+
+Anjam Ahmad
+14/03/2000 10:34
+To: Robert Brewis/LON/ECT@ECT, Stuart Bland/LON/ECT@ECT
+cc: Dale Surbey/LON/ECT@ECT, Hrvoje Paver/LON/ECT@ECT, Stinson 
+Gibner/HOU/ECT@ECT, Tracy Wallace/LON/ECT@ECT 
+
+Subject: Benzene Forward Curve & Hedge Calculator
+
+Dear All,
+
+Attached is the spreadsheet "BenzeneCurves.xls" (also available in 
+S:\RESEARCH\GLOBALPRODUCTS) that will hopefully allow you to derive a 
+mid-curve for Benzene based upon our existing naphtha curve produced by 
+Tracy.  The previous hedge ratio analysis is still part of the new 
+spreadsheet.
+
+For clarity a graph of the curve based on 1996 through 2000 data is depicted 
+below:
+
+
+
+I can also provide confidence bands on the regression model, if this can 
+assist in deciding the bid-offer spread for the forward curve, but this is 
+slightly more involved - let me know you'd like this.
+
+Regards,
+
+Anjam
+x35383
+
+ATTACHMENT:
+

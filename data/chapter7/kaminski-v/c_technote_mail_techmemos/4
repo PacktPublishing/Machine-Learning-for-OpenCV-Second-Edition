@@ -1,0 +1,28 @@
+Message-ID: <26932051.1075840778242.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 11:48:00 -0700 (PDT)
+From: bob.lee@enron.com
+To: mike.maggi@enron.com
+Subject: Vol Skew No-Arbitrage Constraints
+Cc: john.arnold@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com, 
+	stinson.gibner@enron.com, savita.puthigai@enron.com, 
+	john.griffith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.arnold@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com, 
+	stinson.gibner@enron.com, savita.puthigai@enron.com, 
+	john.griffith@enron.com
+X-From: Bob Lee <Bob Lee/NA/Enron@ENRON>
+X-To: Mike Maggi <Mike Maggi/Corp/Enron@Enron>
+X-cc: John Arnold <John Arnold/HOU/ECT@ECT>, Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>, Zimin Lu <Zimin Lu/HOU/ECT@ECT>, Stinson Gibner <Stinson Gibner/HOU/ECT@ECT>, Savita Puthigai <Savita Puthigai/Enron@EnronXGate>, John Griffith <John Griffith/Corp/Enron@Enron>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+The attached note lists conditions that can be used to verify that a given vol skew curve does not generate arbitrage opportunities in a strip of option prices.
+
+If you have questions or want to discuss implementation, please give me a call.
+
+Bob Lee
+x35163 
+ 

@@ -1,0 +1,47 @@
+Message-ID: <14267514.1075863304377.JavaMail.evans@thyme>
+Date: Mon, 6 Aug 2001 11:54:13 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: EPE Lending/Day-Ahead Short for 8/7
+Cc: lisa.gang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.gang@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+We will be short under the West BOM book both in SP15 and Palo Verde for tomorrow. Following are the details of these positions. As always, please let me know if you have questions.
+
+1. EPE LENDING - STWBOM and STSW are each short 25 mw on peak at Palo at a price of $71.50. Please reduce the puchase prices to $4 after buying in the Real Time market. Sell back to El Paso under the respective desks at $0. Deal numbers and terms are:
+
+	719949 - STWBOM buys EPE
+		 25 mw @ $71.50
+
+	719952 - STWBOM sells STSW
+		 25 mw @ $71.50
+
+	719954 - STSW buys EPE
+		 25 mw @ $71.50
+
+2. DAY-AHEAD SHORT - STWBOM is short a shaped schedule in SP15 at a price of $75. Following are deal numbers and volumes:
+
+	719925 - STWBOM buys Cal-Imbalance
+		 HE 11 - 10 mw
+		 HE 12 - 30 mw
+		 HE 13 - 30 mw		} @ $75
+		 HE 14 - 25 mw
+		 HE 15 - 15 mw
+		 HE 16 - 5 mw
+
+	719943 - STWBOM sells STWROCKIES
+		 Same shape @ $75
+
+3. DAY-AHEAD SHORT - STWBOM will also be short 75 mw on peak in SP15 at a price of $63.49. These deals were entered in the new FSP system as opposed to good old Enpower, so be on the lookout for mistakes. Deal numbers are as follows:
+
+	719920 - STWBOM buys Cal-Imbalance
+		 75 mw @ $63.49

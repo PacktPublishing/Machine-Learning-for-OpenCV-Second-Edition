@@ -1,0 +1,59 @@
+Received: from hrndva-mx-04.mgw.rr.com (24.28.204.23)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:38 -0000
+Received: from unknown (0.0.0.0)
+  by hrndva-mx-04.mgw.rr.com with ; 19 Jul 2005 07:00:30 -0400
+Date: 19 Jul 2005 07:00:30 -0400
+To: projecthoneypot@projecthoneypot.org
+From: Mail Delivery System <MAILER-DAEMON@hrndva-mx-04.mgw.rr.com>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="36808780111614642.hrndva-mx-04.mgw.rr.com"
+
+--36808780111614642.hrndva-mx-04.mgw.rr.com
+content-type: text/plain
+
+The following message to <gkoppma1@elp.rr.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'5.1.1 unknown or illegal alias: gkoppma1@elp.rr.com'
+
+--36808780111614642.hrndva-mx-04.mgw.rr.com
+content-type: message/delivery-status
+
+Final-Recipient: rfc822;gkoppma1@elp.rr.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'5.1.1 unknown or illegal alias: gkoppma1@elp.rr.com' (delivery attempts: 0)
+Reporting-MTA: dns; hrndva-mx-04.mgw.rr.com
+
+--36808780111614642.hrndva-mx-04.mgw.rr.com
+content-type: message/rfc822
+
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360629;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: gkoppma1@elp.rr.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836351">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--36808780111614642.hrndva-mx-04.mgw.rr.com--
+

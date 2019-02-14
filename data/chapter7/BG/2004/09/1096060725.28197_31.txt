@@ -1,0 +1,23 @@
+Return-Path: <enid.navarro_mz@skrzynka.pl>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18812 invoked by uid 115); 24 Sep 2004 12:14:25 -0000
+Received: from enid.navarro_mz@skrzynka.pl by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.0.53.14):. 
+ Processed in 0.576646 secs); 24 Sep 2004 12:14:25 -0000
+Received: from unknown (HELO asgard.net.au) (218.0.53.14)
+  by churchill.factcomp.com with SMTP; 24 Sep 2004 12:14:24 -0000
+From: "Enid Navarro" <enid.navarro_mz@skrzynka.pl>
+X-Mailer: Windows Eudora Pro Version 2.2 (32)
+Date: Fri, 24 Sep 2004 12:08:04 +0000
+MIME-Version: 1.0
+Subject: =?iso-8859-1?b?R2V0IHlvdXIgcHJlc2NyaXB0aW8lbiBkZWxpdmVyZWQgdG8geW91ciBkb29yIQ==?=
+Message-ID: <2.2.32.2004092412080400c644e6@skrzynka.pl>
+To: bruceg@em.ca, bait@em.ca
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<center><a href="http://thethingsonline.com"><img src="http://www.thethingsdirect.com/2ir8sTdmRXhiO1K.gif" border=0></a></center>
+</body></html>
+

@@ -1,0 +1,36 @@
+Message-ID: <10250028.1075849852314.JavaMail.evans@thyme>
+Date: Wed, 20 Dec 2000 09:42:00 -0800 (PST)
+From: bob.shults@enron.com
+To: leslie.reeves@enron.com, jefferson.sorenson@enron.com, gail.hill@enron.com, 
+	kim.theriot@enron.com, larry.hunter@enron.com, 
+	debbie.nicholls@enron.com
+Subject: Broker Client Procedure
+Cc: sally.beck@enron.com, debbie.brackett@enron.com, michael.bridges@enron.com, 
+	mark.taylor@enron.com, andy.zipper@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, debbie.brackett@enron.com, michael.bridges@enron.com, 
+	mark.taylor@enron.com, andy.zipper@enron.com
+X-From: Bob Shults
+X-To: Leslie Reeves, Jefferson D Sorenson, Gail Hill, Kim Theriot, Larry Joe Hunter, Debbie Nicholls
+X-cc: Sally Beck, Debbie R Brackett, Michael.bridges@enron.com, Mark Taylor, Andy Zipper
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Attached is a draft of the Broker Electronic Transaction Agreement which will 
+be used to allow Brokers to transact on behalf of their customers.  Please 
+review the document and give me any comments.  Please pay particuliar 
+attention to Section 3 Transactions.  
+
+Also please note that it will be imperative that broker confirmations are 
+done each day on Broker Client Transactions to limit the exposure associated 
+with online transaction broker breakage costs.  The confirmations group will 
+be responsible for confirming each day and notifying credit immediately of 
+any discrepancies between Enron and the Broker.   Notification by the 
+confirmations group will be the only means by which credit will be informed 
+to shut down broker activity in the case of a transaction that has not been 
+confirmed and/or verified by the broker.
+
+Thank you

@@ -1,0 +1,195 @@
+Return-Path: <roundup-users-admin@lists.sourceforge.net>
+Delivered-To: lists-roundup-users@bruce-guenter.dyndns.org
+Received: (qmail 11065 invoked from network); 5 Oct 2004 14:48:41 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 05 Oct 2004 14:48:41 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 05 Oct 2004 14:48:41 -0000
+Received: (qmail 29922 invoked from network); 5 Oct 2004 14:48:40 -0000
+Received: from sc8-sf-list1.sourceforge.net (unknown [66.35.250.206])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 05 Oct 2004 14:48:39 -0000
+Received: from localhost ([127.0.0.1] helo=projects.sourceforge.net)
+	by sc8-sf-list1.sourceforge.net with esmtp (Exim 4.30)
+	id 1CEqWw-0001Jt-Iu; Tue, 05 Oct 2004 07:43:06 -0700
+Received: from sc8-sf-mx2-b.sourceforge.net ([10.3.1.12] helo=sc8-sf-mx2.sourceforge.net)
+	by sc8-sf-list1.sourceforge.net with esmtp (Exim 4.30)
+	id 1CEqUD-0000Wj-BD
+	for roundup-users@lists.sourceforge.net; Tue, 05 Oct 2004 07:40:17 -0700
+Received: from externalmx-1.sourceforge.net ([12.152.184.25])
+	by sc8-sf-mx2.sourceforge.net with esmtp (TLSv1:AES256-SHA:256)
+	(Exim 4.41)
+	id 1CEqT1-0000iw-6g
+	for roundup-users@lists.sourceforge.net; Tue, 05 Oct 2004 07:40:17 -0700
+Received: from bb-203-125-27-88.singnet.com.sg ([203.125.27.88] helo=203.125.27.88)
+	by externalmx-1.sourceforge.net with smtp (Exim 4.41)
+	id 1CEqSw-0006iP-PZ
+	for roundup-users@lists.sourceforge.net; Tue, 05 Oct 2004 07:39:01 -0700
+From: "Cephas" <duyiwu3r@singnet.com.sg>
+To: <roundup-users@lists.sourceforge.net>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 1005042238"
+Reply-To: "Cephas" <duyiwu3r@singnet.com.sg>
+Message-ID: <E1CEqSw-0006iP-PZ@externalmx-1.sourceforge.net>
+Subject: [Roundup-users] Global Business Opportunity In New Industry
+Sender: roundup-users-admin@lists.sourceforge.net
+Errors-To: roundup-users-admin@lists.sourceforge.net
+X-BeenThere: roundup-users@lists.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Unsubscribe: <https://lists.sourceforge.net/lists/listinfo/roundup-users>,
+	<mailto:roundup-users-request@lists.sourceforge.net?subject=unsubscribe>
+List-Id: <roundup-users.lists.sourceforge.net>
+List-Post: <mailto:roundup-users@lists.sourceforge.net>
+List-Help: <mailto:roundup-users-request@lists.sourceforge.net?subject=help>
+List-Subscribe: <https://lists.sourceforge.net/lists/listinfo/roundup-users>,
+	<mailto:roundup-users-request@lists.sourceforge.net?subject=subscribe>
+List-Archive: <http://sourceforge.net/mailarchive/forum.php?forum=roundup-users>
+X-Original-Date: Tue, 5 Oct 2004 22:38:56 +0800
+Date: Tue, 5 Oct 2004 22:38:56 +0800
+Content-Length: 8359
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 1005042238
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Dear Business Owner/Professional,
+ 
+I am Cephas Ng, a Singapore based businessman with global businessman operation. Our Company is currently open up a New Industry in the Philippines and globally. We will be traveling and conducting our Global Business previews in the city of Makati, Quezon, Davao and Lipa respectively. Of these the major business preview will be conducted in Makati.
+ 
+If your are open to new business ideas/opportunity and interested and find out more, kindly provide your particular as follow:
+ 
+Name: 
+Country/City:
+Profession:
+Contact No. (HP/Office):
+ 
+We will invite you and revert you with more information.
+Hear from you soon¡­& God Bless!
+ 
+ 
+Sincerely,
+Cephas Ng
+Email: duyiwu3r@singnet.com.sg
+L88 International Singapore 
+ 
+Disclaimer:
+This email, together with any attachments, is intended ONLY for the use of the individual or entity to which it is addressed, and may contain information that is legally privileged, confidential, and/or subject to copyright. If you are not the intended recipient, please be informed that any dissemination, distribution or copying of this email, any attachment, or part thereof is strictly prohibited. Kindly note that Internet communications are not secure, and therefore are susceptible to alterations. If you have received this email in error, please advise the sender by reply email, and delete this message. Your co-operation on this matter is highly appreciated. Thank you.
+
+--= Multipart Boundary 1005042238
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE>BODY {
+	FONT-FAMILY: arial
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Dear 
+Business Owner/Professional,</SPAN><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-fareast-language: EN-US"><?xml:namespace 
+prefix = o ns = "urn:schemas-microsoft-com:office:office" 
+/><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">I 
+am Cephas Ng, a Singapore based businessman with global businessman operation. 
+Our Company is currently open up a <B><U>New Industry </U></B>in the Philippines 
+and globally. We will be traveling and conducting our <B><U>Global 
+Business</U></B> previews in the city of Makati, Quezon, Davao and Lipa 
+respectively. Of these the major business preview will be conducted in 
+Makati.<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">If 
+your are open to new business ideas/opportunity and interested and find out 
+more, kindly provide your particular as follow:<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Name: 
+<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Country/City:<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Profession:<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Contact 
+No. (HP/Office):<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">We 
+will invite you and revert you with more information.<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Hear 
+from you soon¡­&amp; God Bless!<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Sincerely,<o:p></o:p></SPAN></P>
+<H1 style="MARGIN: 0in 0in 0pt"><FONT face="Book Antiqua" size=3>Cephas 
+Ng</FONT></H1>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Email: 
+<A 
+href="mailto:duyiwu3r@singnet.com.sg">duyiwu3r@singnet.com.sg</A><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><B><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">L88 
+International Singapore</SPAN></B><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial"> 
+<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><B><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">Disclaimer:<o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial">This 
+email, together with any attachments, is intended ONLY for the use of the 
+individual or entity to which it is addressed, and may contain information that 
+is legally privileged, confidential, and/or subject to copyright. If you are not 
+the intended recipient, please be informed that any dissemination, distribution 
+or copying of this email, any attachment, or part thereof is strictly 
+prohibited. Kindly note that Internet communications are not secure, and 
+therefore are susceptible to alterations. If you have received this email in 
+error, please advise the sender by reply email, and delete this message. Your 
+co-operation on this matter is highly appreciated. Thank you.</SPAN><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'"><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><SPAN 
+style="FONT-FAMILY: 'Book Antiqua'">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><FONT 
+face="Times New Roman">&nbsp;<o:p></o:p></FONT></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt"><FONT 
+face="Times New Roman">&nbsp;<o:p></o:p></FONT></P></DIV></BODY></HTML>
+
+--= Multipart Boundary 1005042238--
+
+
+
+
+-------------------------------------------------------
+This SF.net email is sponsored by: IT Product Guide on ITManagersJournal
+Use IT products in your business? Tell us what you think of them. Give us
+Your Opinions, Get Free ThinkGeek Gift Certificates! Click to find out more
+http://productguide.itmanagersjournal.com/guidepromo.tmpl
+_______________________________________________
+Roundup-users mailing list
+Roundup-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/roundup-users

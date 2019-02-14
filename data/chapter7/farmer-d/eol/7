@@ -1,0 +1,49 @@
+Message-ID: <192611.1075840430815.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 12:50:33 -0700 (PDT)
+From: savita.puthigai@enron.com
+To: traders.eol@enron.com, traders.eol@enron.com
+Subject: NEW ENRONONLINE FUNCTIONALITY
+Cc: center.eol@enron.com, sydney.eol@enron.com, houston.product@enron.com, 
+	group.enron@enron.com, greg.piper@enron.com, brad.richter@enron.com, 
+	jay.webb@enron.com, mark.pickering@enron.com, 
+	lindsay.renaud@enron.com, kevin.meredith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: center.eol@enron.com, sydney.eol@enron.com, houston.product@enron.com, 
+	group.enron@enron.com, greg.piper@enron.com, brad.richter@enron.com, 
+	jay.webb@enron.com, mark.pickering@enron.com, 
+	lindsay.renaud@enron.com, kevin.meredith@enron.com
+X-From: Puthigai, Savita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SPUTHIGA>
+X-To: EOL North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NORTH AMERICA TRADERS>, EOL Non North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NON NORTH AMERICA TRADERS>
+X-cc: EOL Call Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL CALL CENTER>, EOL Product Control Group, Enron Sydney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C54B7BAA-3D476E0B-862568BD-54B03B>, Product Control - Houston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PRODUCT CONTROL - HOUSTON>, Enron London - EOL Product Control Group, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EB17BF3-5A5745-802567F4-3D719C>, Piper, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GPIPER>, Richter, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BRICHTE>, Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JWEBB>, Pickering, Mark </O=ENRON/OU=EU/CN=RECIPIENTS/CN=MPICKER>, Renaud, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LRENAUD>, Meredith, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KMEREDI>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+The following additions and modifications to Stack Manager will be effective as of Saturday September 8, 2001.
+
+Stack Manager Modifications
+
+Inactivate All Stack - In addition to the individual Activate/Inactive Stack buttons, there is now an Inactivate All Stack button. Similar to the Suspend All button, this button will inactivate the trader's stack on all active products. Any existing top of stack limit orders will continue to post to the website and remain transactable. See screen shot below: Inactivate All Stack button on far right. 
+
+	 
+
+Please note that we have switched the positions of the suspend and inactivate buttons in Stack Manager.
+
+Fill Order - If a product is set up as either Restricted Top of Stack or Top of Stack the trader now has the ability to automatically fill any order that is at the top of the stack. In order to fill a limit order that is at the top of the product's stack, which will appear in pink, the trader should right click anywhere on the stack window and choose "Fill order". The volume filled on an order will be that which is offered by the trader. In order to fill the complete volume of the order, the trader will need to adjust the volume in his stack.
+
+Floated Stack windows - If the stack is inactive on a product, the price and volume fields on the my products tab will continue to be blank. On the depth window and floated stack window of these products the trader's prices will be in gray and italics. Children of products that have inactive stacks will not be gray and italicised in the floated stack windows and will not see the calculated prices.
+
+No Auto Inactivate Stack - It is now possible to keep a product active even if the trader is not logged into Stack Manager. If the trader wishes to enable this functionality on the upper right corner of the product properties page the trader should choose "No Auto Inactivate when Stack Manager is down". 
+
+Changes regarding Suspension of products
+
+Stack Manager will inactivate products rather than suspend them in the following cases:
+
+?	Market Close - If a product is active at the end of its trading hours its stack will automatically become inactive rather than suspending. In order to keep a product's stack active past the set trading hours, the trader should choose "Keep Awake" next to the trading hours section of the product properties page.
+?	Auto Suspend now inactivates stack - On a product with the Auto Suspend function enabled to monitor the price changes on the product, the product's stack will be inactivated if the Suspend at level is reached. This feature can be used by checking the Enable box on the product properties page under the Auto Suspend section. 
+?	Logging Out of Stack Manager- When you log out of Stack Manager without inactivating or suspending your products, the system will now inactivate your products rather than suspending them.
+
+
+<Embedded Paintbrush Picture>

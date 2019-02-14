@@ -1,0 +1,40 @@
+Message-ID: <8780442.1075844096424.JavaMail.evans@thyme>
+Date: Tue, 10 Oct 2000 08:08:00 -0700 (PDT)
+From: sap.hotline@enron.com
+To: isc.groups@enron.com, enron.users@enron.com, enron.list@enron.com
+Subject: SAP SYSTEM OUTAGE NOTIFICATIONS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: SAP COE Hotline
+X-To: ISC ORG ALL GROUPS, ENRON COE PRODUCTION SAP USERS, Enron COE SAP London Production Users List
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The following servers will be coming down, please click on the icon for more 
+details and scheduled times :
+
+
+-------------------------------------------------------------
+
+          SYSTEM OUTAGE NOTIFICATION      
+
+-------------------------------------------------------------
+
+FOR:  PR2 - HR Production (SPR2DB00)
+
+
+Outage Start: (CST) 10/10/2000 at 02:30:00 PM
+
+Outage End: (CST) 10/10/2000 at 04:00:00 PM
+
+Outage Abstract:  PR2 is down due to a technical glitch
+
+Outage Description: PR2 is down due to a technical glitch. It should be back 
+up momentarly
+
+Outage Implication: Access to PR2 is denied
+
+Contact Name:alexandra malone   #:  3-6844

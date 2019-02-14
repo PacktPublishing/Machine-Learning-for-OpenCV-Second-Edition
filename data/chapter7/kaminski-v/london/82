@@ -1,0 +1,101 @@
+Message-ID: <5658182.1075856610109.JavaMail.evans@thyme>
+Date: Fri, 25 Aug 2000 03:57:00 -0700 (PDT)
+From: michael.schilmoeller@enron.com
+To: karolina.potter@enron.com
+Subject: Re: Henwood query
+Cc: grant.masson@enron.com, williams@enron.ene.matthew, steven.leppard@enron.com, 
+	vince.kaminski@enron.com, mike.niman@enron.com, 
+	wiz.ixgate.vkamins@wiz.ixgate.vkamins
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: grant.masson@enron.com, williams@enron.ene.matthew, steven.leppard@enron.com, 
+	vince.kaminski@enron.com, mike.niman@enron.com, 
+	wiz.ixgate.vkamins@wiz.ixgate.vkamins
+X-From: Michael SCHILMOELLER
+X-To: Karolina Potter
+X-cc: Grant Masson, Enron.ENE.Matthew D Williams@Enron.ENE.Matthew D Williams@GWISE@Gateway, Steven Leppard, Vince J Kaminski, MIKE NIMAN, wiz.ixgate.vkamins@wiz.ixgate.vkamins@GWISE@Gateway
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Good talking with you this morning.  By all means, talk to Grant Masson about
+who else is using the Henwood model within Enron.
+
+Attached are the workbooks I mentioned.  The "Details of Jan and July.xls"
+workbook contains the resulting listing from the query I gave you yesterday
+and you can see how the supply curve was created from that.  The supply curve
+becomes nonsense at points for reasons I believe are related to reliability
+commitment constrants, instead of pure economic dispatch, and to the aggregate
+reporting problem I described in my note yesterday.
+
+The workbook "Supply Curve.xls" has the simplistic, average supply curve I
+mentioned, constructed from fuel and VOM costs.  Depending on the question you
+are trying to answer, it may be an approach to consider.
+
+The Henwood Contacts I had in mind are:
+
+Tao Guo, PhD, Senior "Algorithmist"  (916-569-0985) * the one I was thinking
+of
+Wenxiong Huang, PhD Senior Project Consultant (916-569-0985)
+Ajit Kulkarni, PhD, Software Product Manager (916-569-0985) * more a trainer,
+but sharp
+Cosimo Coscia, Senior Consultant (South Australia) 618-8357-1244 * very
+resourceful
+Wade Schauer, Staff Consultant, (916-569-0985) * best for questions about EMSS
+per se
+
+all have emails, of course.  Template:  tguo@hesinet.com
+
+Also, if you can not get satisfaction, contact Eric Toolson, VP
+(916-569-0985).  He has a laconic style, but is very focused on customer
+satisfaction and retention.  And he has the pull to make things happen.
+
+Regards,
+Michael
+
+
+
+
+
+
+>>> Karolina Potter/LON/ECT@ENRON 08/24/00 07:08AM >>> 
+Michael, 
+
+I am an analyst in Paul Mead's Continental Power Trading group in London. I am
+currently working on the project, which requires the use of EMSS, and
+experience some difficulties interpreting the output results. Steven Leppard
+from our research group gave me your name as an expert in this system and
+consequently the person to contact in case of problems. 
+
+I have been running simulations for the Dutch market and was asked to provide
+the traders with some front-end screen graphs in order to interpret the
+numerical results. One of the graphs is to show an hourly generation stack and
+system's marginal cost, as we only run cost based scenarios. To sort each
+station's hourly generation I need its marginal cost. To my knowledge though,
+marginal cost is only generated for a systems marginal unit (TransArea
+Marginal Units query, Marg_cost unit). Therefore I was sorting the stations
+according to the cost which I calculated based on the outputs from Station
+Detail by Hour query. The calculation was as follows: 
+
+For each hour, for each generating station: 
+
+"marginal cost" [o/MWh] = (Generation_Cost [o000] * 1000)/Generation [MWh] -
+VOM_cost [o/MWh] 
+
+This I thought would include fuel cost and start up costs. However, a marginal
+station which I get on the stack as a result of the above calculation is not a
+station given in Marginal Station field in TransArea Marginal Units query. I
+have also looked into TransArea_Data_Hr table and TransArea_Data table but non
+of the costs there match my results. 
+
+Do you happen to know what formula is used to determine Marg_cost and which
+outputs I should be using to obtain the right results? 
+
+It might be easier if we could discuss this issue on the phone. In this case
+could you please send me your direct telephone number. I am struggling
+understanding what is going on and would appreciate your help very much. 
+
+Regards 
+
+Karolina

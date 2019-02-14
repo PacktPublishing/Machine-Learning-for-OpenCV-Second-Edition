@@ -1,0 +1,56 @@
+Return-Path: <woodward@bk.every1.net>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 32503 invoked from network); 21 Nov 2004 03:10:00 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 21 Nov 2004 03:10:00 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 21 Nov 2004 03:10:00 -0000
+Received: (qmail 15615 invoked from network); 21 Nov 2004 03:09:59 -0000
+Received: from l249242.upc-l.chello.nl (unknown [84.119.249.242])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 21 Nov 2004 03:09:59 -0000
+Return-Path: <woodward@bk.every1.net>
+Received: (from www@localhost)
+	by www08.@auric.biz (8.66.1/8.13.1) id i65EaEZj088048;
+	Sun, 21 Nov 2004 05:03:04 +0200
+Original-Recipient: rfc822; woodward@bk.every1.net
+Date: Sun, 21 Nov 2004 01:08:04 -0200
+Message-Id: <3000571877.i93ErrTw009201@monkishding.biz>
+From: "Lucille H. Vickers " <woodward@bk.every1.net>
+To: rait@bruce-guenter.dyndns.org
+X-Sender: woodward@bk.every1.net
+X-Originating-Email: [woodward@bk.every1.net]
+X-Originating-IP: [79.112.72.3]
+Subject: How have you been?
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Message-flag: Authentic Sender, Hash: YmGmCcHg
+Content-Disposition: inline
+Content-Length: 1300
+Lines: 24
+
+<HTML>
+<BODY bgColor=#ffffff>
+<DIV align=center><FONT face="Arial Black">If you are paying more than 3.6% on 
+your mortgage, </FONT></DIV>
+<DIV align=center><FONT face="Arial Black">we can slash your monthly 
+payment!</FONT></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>(must have owned your home at 
+least 24 months to qualify for this special program)</FONT></STRONG></DIV>
+<DIV><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>GUARANTEED LOWEST RATES ON THE 
+PLANET</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT></DIV>
+<DIV align=center><STRONG><FONT face=Arial>CREDIT REPORT NOT 
+NEEDED<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>Start </FONT></STRONG><A 
+href="http://darkorchid.your-refi.com/s6/li.php?weo=51" target=_blank><STRONG><FONT 
+face=Arial>here</FONT></STRONG></A><STRONG><FONT face=Arial> for 
+an&nbsp;insta-quote and<BR>monthly savings calculation<BR></FONT></STRONG></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>&nbsp;No other way to so quickly 
+and easily<BR>lower your monthly payments!</FONT></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV></BODY></HTML>

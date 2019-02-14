@@ -1,0 +1,164 @@
+Received: from modena360.cwihosting.com (209.18.76.204)
+  by projecthoneypotmailserver with SMTP; 3 Jul 2005 03:30:57 -0000
+Received: from mailnull by modena360.cwihosting.com with local (Exim 4.50)
+	id 1DovC4-0004OY-6J
+	for projecthoneypot@projecthoneypot.org; Sat, 02 Jul 2005 23:30:56 -0400
+X-Failed-Recipients: kthurman@awareconcepts.com
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@modena360.cwihosting.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1DovC4-0004OY-6J@modena360.cwihosting.com>
+Date: Sat, 02 Jul 2005 23:30:56 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - modena360.cwihosting.com
+X-AntiAbuse: Original Domain - mail04.oasiscomm.net
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  kthurman@awareconcepts.com
+    mailbox is full
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from awarecon by modena360.cwihosting.com with local-bsmtp (Exim 4.50)
+	id 1DmdzJ-0006c4-Pm
+	for kthurman@awareconcepts.com; Sun, 26 Jun 2005 16:44:24 -0400
+Received: from localhost by modena360.cwihosting.com
+	with SpamAssassin (version 3.0.3);
+	Sun, 26 Jun 2005 16:44:24 -0400
+From: Charley Holcomb <astree@ti.uni-trier.de>
+To: Webmaster <webmaster@awareconcepts.com>
+Subject: POSSIBLE SPAM Message subject
+Date: Sun, 26 Jun 2005 14:34:45 -0700
+Message-Id: <43003165.47796@Altstadt-Buchhandlung-Essen@t-online.de>
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.3 (2005-04-27) on 
+	modena360.cwihosting.com
+X-Spam-Level: *************************************
+X-Spam-Status: Yes, score=37.2 required=3.0 tests=BAYES_99,HELO_DYNAMIC_HCC,
+	HELO_DYNAMIC_IPADDR2,HTML_00_10,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	MIME_BOUND_DD_DIGITS,MIME_HTML_ONLY,MIME_HTML_ONLY_MULTI,
+	MPART_ALT_DIFF,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_DSBL,RCVD_IN_XBL,
+	URIBL_AB_SURBL,URIBL_OB_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL 
+	autolearn=spam version=3.0.3
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_42BF13A8.07CF8F37"
+
+This is a multi-part message in MIME format.
+
+------------=_42BF13A8.07CF8F37
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Spam detection software, running on the system "modena360.cwihosting.com", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+the administrator of that system for details.
+
+Content preview:  Got Debt? We can help you with virtually all Unsecured 
+  Debts. Unsecured debt is a money you owe to a creditor but the debt is 
+  NOT secured by a physical asset. Examples of unsecured debts include: 
+  Credit cards (AMEX, Visa, Mastercard) Most personal loans/signature 
+  loans Store credit cards We cannot work with Student loans, auto loans,
+   home loans or cash advance/payday loans Dont waste you time and 
+  contact us today! http://uscard-debt.com/index.php?ref=wrw [...] 
+
+Content analysis details:   (37.2 points, 3.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 4.1 MIME_BOUND_DD_DIGITS   Spam tool pattern in MIME boundary
+ 3.5 HELO_DYNAMIC_IPADDR2   Relay HELO'd using suspicious hostname (IP addr 2)
+ 3.7 HELO_DYNAMIC_HCC       Relay HELO'd using suspicious hostname (HCC)
+ 0.0 HTML_MESSAGE           BODY: HTML included in message
+ 1.1 HTML_00_10             BODY: Message is 0% to 10% HTML
+ 0.1 MPART_ALT_DIFF         BODY: HTML and text parts are different
+ 3.5 BAYES_99               BODY: Bayesian spam probability is 99 to 100%
+                            [score: 1.0000]
+ 0.2 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ 3.8 RCVD_IN_DSBL           RBL: Received via a relay in list.dsbl.org
+                            [<http://dsbl.org/listing?24.177.59.176>]
+ 1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+               [Blocked - see <http://www.spamcop.net/bl.shtml?24.177.59.176>]
+ 3.1 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+                            [24.177.59.176 listed in sbl-xbl.spamhaus.org]
+ 1.0 URIBL_SBL              Contains an URL listed in the SBL blocklist
+                            [URIs: uscard-debt.com]
+ 0.4 URIBL_AB_SURBL         Contains an URL listed in the AB SURBL blocklist
+                            [URIs: uscard-debt.com]
+ 1.5 URIBL_WS_SURBL         Contains an URL listed in the WS SURBL blocklist
+                            [URIs: uscard-debt.com]
+ 3.2 URIBL_OB_SURBL         Contains an URL listed in the OB SURBL blocklist
+                            [URIs: uscard-debt.com]
+ 4.3 URIBL_SC_SURBL         Contains an URL listed in the SC SURBL blocklist
+                            [URIs: uscard-debt.com]
+ 0.1 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+ 2.4 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+
+The original message was not completely plain text, and may be unsafe to
+open with some email clients; in particular, it may contain a virus,
+or confirm that your address can receive spam.  If you wish to view
+it, it may be safer to save it to a file and open it with an editor.
+
+
+------------=_42BF13A8.07CF8F37
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Received: from [24.177.59.176] (helo=24-177-59-176.dhcp.oxfr.ma.charter.com)
+	by modena360.cwihosting.com with smtp (Exim 4.50)
+	id 1DmdzI-0006bx-Oq
+	for webmaster@awareconcepts.com; Sun, 26 Jun 2005 16:44:21 -0400
+Received: (qmail 66663 invoked by uid 518); Mon, 27 Jun 2005 03:40:45 +0600
+Date: Sun, 26 Jun 2005 14:34:45 -0700
+Message-Id: <43003165.47796@Altstadt-Buchhandlung-Essen@t-online.de>
+From: Charley Holcomb <astree@ti.uni-trier.de>
+To: Webmaster <webmaster@awareconcepts.com>
+Subject: Message subject
+MIME-Version: 1.0 (produced by contrabandarachne 7.0)
+Content-Type: multipart/alternative;
+	boundary="--5130865335487510"
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus
+X-Spam-Exim: Nngs2zLCd5PdmWB5Il1C6HRR
+
+----5130865335487510
+Content-Type: text/html;
+	charset="iso-7769-4"
+Content-Transfer-Encoding: 7Bit
+Content-Description: contentious grandiose weatherstripping
+
+Got Debt?
+
+We can help you with virtually all Unsecured Debts.
+
+Unsecured debt is a money you owe to a creditor but the debt is NOT secured by a physical asset. 
+
+Examples of unsecured debts include:
+
+Credit cards (AMEX, Visa, Mastercard)
+Most personal loans/signature loans
+Store credit cards
+
+We cannot work with Student loans, auto loans, home loans or cash advance/payday loans
+
+Dont waste you time and contact us today!
+http://uscard-debt.com/index.php?ref=wrw
+
+----5130865335487510--
+
+------------=_42BF13A8.07CF8F37--
+

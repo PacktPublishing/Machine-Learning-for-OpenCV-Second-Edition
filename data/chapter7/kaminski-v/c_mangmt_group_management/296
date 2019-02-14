@@ -1,0 +1,47 @@
+Message-ID: <11332308.1075856579489.JavaMail.evans@thyme>
+Date: Mon, 9 Oct 2000 06:43:00 -0700 (PDT)
+From: alex.huang@enron.com
+To: vince.kaminski@enron.com
+Subject: Recent Projects
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Alex Huang
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince,
+I have been working on and/or planning to work on the following projects:
+1.  Finished a gas daily swing option model for commodity structuring 
+group (Sanjeev Khanna).  The model uses American Monte Carlo 
+Simulation and dynamic programming techniques. 
+
+2. Continue working on PSIM model. This includes reading power generation
+and operation books as well as thinking about ways to model power plant and
+its operation. The standard approach (i.e. turn the plant on if power 
+price>total
+generation cost, else turn the plant off) is not particularly good if the 
+regional
+demand is very high and the plant still has some un-utilized generation 
+capacity.
+That is, the generation criteria is quite different depending on we model 
+power 
+plant from regional point view or from plant point of view.  Plan to have 
+meetings
+with Tom and Lance. 
+
+3.  Started working on stochastic process parameter estimation.  I will 
+concentrate
+on four processes: GBM, mean reverting, jump diffusion, and jump diffusion 
+with
+mean reverting.  I have looked at Tanya's earlier  work and decided to 
+discretize
+the processes slightly differently.  It is hoped that this will give a more 
+stable
+estimation. 
+
+Best,
+Alex

@@ -1,0 +1,209 @@
+Return-Path: <contactar@rentabilidad.org>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 7412 invoked from network); 22 Dec 2004 01:38:02 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 22 Dec 2004 01:38:02 -0000
+Received: (qmail 17606 invoked from network); 22 Dec 2004 01:37:56 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx04.futurequest.net ([69.5.6.175])
+  with QMQP via TCP; 22 Dec 2004 01:37:56 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 5002 invoked from network); 22 Dec 2004 01:37:52 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 22 Dec 2004 01:37:52 -0000
+Received: (qmail 26292 invoked from network); 22 Dec 2004 01:37:52 -0000
+Received: from psanchez (68.red-83-33-46.pooles.rima-tde.net [83.33.46.68])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 22 Dec 2004 01:37:49 -0000
+From: "El Rentabilidad" <contactar@rentabilidad.org>
+To: webmaster@ezmlm.org
+Subject: Feliz Navidad 
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 22 Dec 2004 02:37:49
+Content-Length: 10262
+
+<table cellSpacing="0" cellPadding="0" width="750" border="0">
+  <tr>
+    <td vAlign="top" width="550">
+    <table height="346" cellSpacing="0" cellPadding="0" width="746" border="0">
+      <tr>
+        <td vAlign="top" width="735" bgColor="#cc0000" height="228">
+        <table cellSpacing="0" cellPadding="0" width="753" border="0">
+          <tr>
+            <td width="744" colSpan="4"><font color="#ffffff">Si no puede ver 
+            correctamente esta postal </font>
+            <a href="http://www.hbch.net/felicidades.htm"><font color="#ffffff">
+            pulse aquí</font></a></td>
+          </tr>
+          <tr>
+            <td width="744" colSpan="4">
+            <font face="Arial Black" color="#0000ff" size="7">
+            <font color="#c0c0c0">El </font><a href="http://www.hbch.net/">
+            <font color="#c0c0c0">Rentabilidad</font></a></font></td>
+          </tr>
+          <tr>
+            <td width="12" height="7"></td>
+            <td width="184" colSpan="2" height="7"></td>
+            <td width="548" height="7"></td>
+          </tr>
+          <tr>
+            <td width="12">&nbsp;</td>
+            <td width="184" colSpan="2">&nbsp;</td>
+            <td width="548" background="http://www.hbch.net/dash_line_vert.gif">
+            &nbsp;</td>
+          </tr>
+          <tr>
+            <td width="95" bgColor="#cc0000" colSpan="2" height="4">&nbsp;</td>
+            <td width="654" colSpan="2" height="4">
+            <table id="AutoNumber3" style="BORDER-COLLAPSE: collapse" borderColor="#111111" height="1" cellSpacing="4" cellPadding="4" width="100%" border="0">
+              <tr>
+                <td width="100%" bgColor="#000000" colSpan="5" height="19">
+                <p align="center"><font face="Arial" color="#0000ff" size="2">
+                Feliz Navidad para todos y los mejores deseos para este año 
+                nuevo que nos traiga salud y prosperidad</font></td>
+              </tr>
+              <tr>
+                <td width="100%" colSpan="5" height="17">
+                <table style="BORDER-COLLAPSE: collapse" cellSpacing="0" cellPadding="0" width="638" bgColor="#000000" border="0">
+                  <tr>
+                    <td width="7" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="5" border="0"></font></td>
+                    <td width="592" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="590" border="0"></font></td>
+                    <td width="8" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="8"><font face="Arial Black" size="2">&nbsp;</font></td>
+                  </tr>
+                  <tr>
+                    <td width="599" colSpan="2">
+                    <font face="Arial Black" size="2">
+                    <img height="5" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="8" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="8"><font face="Arial Black" size="2">
+                    <img height="5" alt src="http://www.housebank.org/img/null.gif" width="5" border="0"></font></td>
+                  </tr>
+                  <tr>
+                    <td vAlign="top" align="middle" width="599" colSpan="2">
+                    <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+                      <tr>
+                        <td>
+                        <!-- START STAMP -->
+                        <div align="right">
+                          <font face="Arial Black" size="2">&nbsp;</font></div>
+                        <table cellPadding="7" width="620">
+                          <tr>
+                            <td vAlign="center" align="middle" width="602">
+                            <!-- IE --><font face="Arial Black" size="2">
+                            <embed pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" src="http://www.postalvirtual.net/card/images/pic_2004-12-01_195050.swf" width="500" height="325" type="application/x-sh
+href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Get 
+Macromedia Flash Player 
+NOW!</a></NOEMBED><br>
+                            &nbsp;</font></td>
+                          </tr>
+                        </table>
+                        <p align="center">
+                        <font face="Arial Black" color="#0000ff" size="2">Feliz 
+                        Navidad</font></p>
+                        <font face="Arial Black" size="2">
+                        <p>&nbsp;<!-- END CONTENT --></font></td>
+                      </tr>
+                    </table>
+                    </td>
+                    <td width="8" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="8" bgColor="#111111">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                  </tr>
+                  <tr>
+                    <td width="7" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="592" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="8" bgColor="#000000">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                    <td width="8" bgColor="#808080">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                  </tr>
+                  <tr>
+                    <td width="7"><font face="Arial Black" size="2">
+                    <img height="5" alt src="http://www.housebank.org/img/null.gif" width="5" border="0"></font></td>
+                    <td width="592" bgColor="#111111">
+                    <font face="Arial Black" size="2">
+                    <img height="1" alt src="http://www.housebank.org/img/null.gif" width="1" border="0"></font></td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" bgColor="#cc0000" colSpan="5" height="1">
+                <font face="Times New Roman" color="#c0c0c0" size="2">
+                <span style="BACKGROUND-COLOR: #cc0000">&nbsp;&nbsp;Si desea enviar esta 
+                postal a un amigo </span></font>
+                <font face="Times New Roman" color="#c0c0c0">
+                <a href="http://www.hbch.net/enviar_a_un_amigo.htm">
+                <font color="#c0c0c0" size="2">
+                <span style="BACKGROUND-COLOR: #cc0000">Enviar a un amigo</span></font></a></font><font face="Times New Roman" color="#c0c0c0" size="2"><span style="BACKGROUND-COLOR: #cc0000">,
+                </span></font></td>
+              </tr>
+              <tr>
+                <td width="20%" bgColor="#cc0000" height="17"><b>
+                <font face="Arial" color="#d8b266">
+                <a href="http://www.hbch.net/index.htm"><font color="#c0c0c0">
+                Home</font></a></font></b></td>
+                <td width="20%" bgColor="#cc0000" height="17">
+                <font face="Arial" color="#ffffff">
+                <a href="http://www.hbch.net/contactar.htm" target="_blank">
+                <font color="#c0c0c0">contactar</font></a></font></td>
+                <td width="20%" bgColor="#cc0000" height="17">
+                <a href="http://www.hbch.net/suscripcion.htm">
+                <font face="Arial" color="#c0c0c0">Suscripción</font></a></td>
+                <td width="20%" bgColor="#cc0000" height="17">
+                <font face="Arial" color="#ffffff">
+                <a href="http://www.hbch.net/colaboraciones.htm">
+                <font color="#c0c0c0">colaboraciones</font></a></font></td>
+                <td width="20%" bgColor="#cc0000" height="17">
+                <font face="Arial" color="#ffffff">
+                <a href="http://www.hbch.net/links.htm" target="_blank">
+                <font color="#c0c0c0">links</font></a></font></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="middle" width="95" bgColor="#cc0000" colSpan="2">&nbsp;</td>
+            <td align="middle" width="654" bgColor="#cc0000" colSpan="2" rowSpan="2">
+            <font face="Times New Roman"><font color="#c0c0c0">Si no desea 
+            recibir&nbsp; El Rentabilidad </font><font color="#000080">
+            <a href="http://www.hbch.net/excluir.htm"><font color="#c0c0c0">
+            pulse aquí</font></a></font></font></td>
+            <td align="middle" width="4" bgColor="#666666">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="95" bgColor="#cc0000" colSpan="2" height="4">&nbsp;</td>
+          </tr>
+        </table>
+        </td>
+        <td vAlign="top" width="6" bgColor="#cc0000" height="346">&nbsp;</td>
+        <td vAlign="top" width="5" bgColor="#cc0000" height="346">
+        <img height="380" src="http://www.hbch.net/dot_clear.gif" width="1">
+        <p><img height="1" src="http://www.hbch.net/dot_clear.gif" width="1"></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>

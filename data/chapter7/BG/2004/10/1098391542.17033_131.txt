@@ -1,0 +1,67 @@
+Return-Path: <support@citibank.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17924 invoked by uid 115); 21 Oct 2004 12:46:29 -0000
+Received: from support@citibank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.66.62.192):. 
+ Processed in 0.373187 secs); 21 Oct 2004 12:46:29 -0000
+Received: from unknown (HELO 209.5.178.248) (220.66.62.192)
+  by churchill.factcomp.com with SMTP; 21 Oct 2004 12:46:28 -0000
+X-Message-Info: UYJ+sl/0+xtu/SD+9/926184569515
+Received: from smtp-carnage.agone.support@citibank.com ([212.68.229.19]) by xd5-y79.support@citibank.com with Microsoft SMTPSVC(5.0.1390.6305);
+	 Thu, 21 Oct 2004 10:33:02 -0300
+Received: from penh90.deck.support@citibank.com (dole69.support@citibank.com [212.68.229.19])
+	by smtp-glory.chasm.support@citibank.com (Postfix) with SMTP id 1T84Z7JP
+	for <bruceg@em.ca>; Thu, 21 Oct 2004 07:33:02 -0600
+X-Message-Info: RLLXU+%ND_LC_CHAR[1-3]80+a+BNV+276/02828307280
+Received: (qmail 12386 invoked by uid 755); Thu, 21 Oct 2004 11:41:02 -0200
+Date: Thu, 21 Oct 2004 11:40:02 -0200
+Message-Id: <34160991.36242@support@citibank.com>
+From: Customer Support <support@citibank.com>
+To: Bruceg <bruceg@em.ca>
+Subject: NOTE! Citibank account suspend in process
+MIME-Version: 1.0 (produced by canec 8.6)
+Content-Type: multipart/alternative;
+	boundary="--77030882747492635952"
+
+----77030882747492635952
+Content-Type: text/plain;
+	charset="iso-8285-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: formatting bauer skirmish
+
+Dear Customer:
+
+Recently there have been a large number of cyber attacks pointing our data=
+base servers. In order to safeguard your account, we require you to sign o=
+n immediately. 
+
+This personal check is requested of you as a precautionary measure and to =
+ensure yourselves that everything is normal with your balance and personal=
+ information.
+
+This process is mandatory, and if you did not sign on within the nearest t=
+ime your account may be subject to temporary suspension.
+
+Please make sure you have your Citibank(R) debit card number and your User=
+ ID and Password at hand.
+
+Please use our secure counter server to indicate that you have signed on, =
+please click the link bellow:
+
+http://219.101.47.75/cgi-scripts
+
+!! Note that we have no particular indications that your details have been=
+ compromised in any way.
+
+Thank you for your prompt attention to this matter and thank you for using=
+ Citibank(R)
+
+Regards,
+
+Citibank(R) Card Department
+
+(C)2004 Citibank. Citibank, N.A., Citibank, F.S.B., 
+Citibank (West), FSB. Member FDIC.Citibank and Arc 
+Design is a registered service mark of Citicorp.
+
+----77030882747492635952--

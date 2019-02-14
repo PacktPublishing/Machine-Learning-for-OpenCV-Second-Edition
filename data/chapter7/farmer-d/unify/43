@@ -1,0 +1,44 @@
+Message-ID: <26986436.1075854184299.JavaMail.evans@thyme>
+Date: Wed, 15 Nov 2000 04:41:00 -0800 (PST)
+From: pat.clynes@enron.com
+To: daren.farmer@enron.com, david.baumbach@enron.com
+Subject: Re: Prelminary Findings on Deals Not Bridging
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Clynes
+X-To: Daren J Farmer, David Baumbach
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+	Matt Pena
+	11/15/2000 12:09 PM
+	
+To: Robert Superty/HOU/ECT@ECT
+cc: Edward Terry/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Donna Greif/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT, 
+Patti Sullivan/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Randall L 
+Gay/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT, Carlos J Rodriguez/HOU/ECT@ECT, 
+Tom Acton/Corp/Enron@ENRON 
+
+Subject: Prelminary Findings on Deals Not Bridging
+
+I've attached a spreadsheet showing deals that were not bridged to Unify for 
+November.  Please don't let this alarm you, this is how the bridge has always 
+worked.  If you have questions or would like to discuss, please let me know.
+
+Every instance I've found looks okay because of the following:
+
+* A Transport Ut ticket on the same pipe was the deal
+* The deal was killed
+* The deal was entered as a mistake buy and should of been a sell hence the 
+Inactive state in Unify
+* The deal was a demand based deal price with no volumes
+* The deal didn't have a point assigned to it, only a zone
+
+Thanks
+
+
+

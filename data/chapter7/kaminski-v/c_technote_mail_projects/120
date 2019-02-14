@@ -1,0 +1,105 @@
+Message-ID: <13977739.1075856588971.JavaMail.evans@thyme>
+Date: Thu, 11 Jan 2001 01:08:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: bob.lee@enron.com
+Subject: Re: Costless Collar for Hanover
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: Bob Lee
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bob,
+
+Good job.
+
+Zimin
+
+
+
+
+
+Bob Lee@ENRON
+01/11/2001 08:10 AM
+To: Zimin Lu/HOU/ECT@ECT
+cc:  
+Subject: Costless Collar for Hanover
+
+FYI  - looks like we've converged.
+
+Bob
+---------------------- Forwarded by Bob Lee/NA/Enron on 01/11/2001 07:04 AM 
+---------------------------
+From: Chris Loehr@ECT on 01/10/2001 04:50 PM
+To: Ron Baker/Corp/Enron@ENRON
+cc: Anne Yaeger/HOU/ECT@ECT, Ryan Siurek/Corp/Enron@ENRON, Wes 
+Colwell/HOU/ECT@ECT, Bob Lee/NA/Enron@Enron 
+
+Subject: Costless Collar for Hanover  
+
+Ryan and I have looked at the research model and made some adjustments.  
+The treasury rate at 12/28/00 was 5.127% (research uses 4.6% which probably 
+takes into account the recent Fed 50 bp cut)
+The maturity is 6/30/03 or 2.5 years (research uses 3 years)
+
+Using these assumptions and a 47.2% volatility in the Bloomberg collar 
+function results in a ceiling of 92 103/256 and a floor of 34 7/8.  After 
+adjusting the research model for the changes above, Ryan and I got a similar 
+range from the research model so we are comfortable with these numbers.
+
+Let me know if there are any questions.
+
+Chris
+x33092
+
+
+  
+
+
+
+
+	Ron Baker@ENRON
+	01/10/2001 10:52 AM
+		 
+		 To: Wes Colwell/HOU/ECT@ECT, Ryan Siurek/Corp/Enron@ENRON, Chris 
+Loehr/HOU/ECT@ECT, Anne Yaeger/HOU/ECT@ECT
+		 cc: 
+		 Subject: Costless Collar
+
+Attached is the updated valuation from Bob Lee in Research using the actual 
+3-year historical vol. of 47.2 which results in a call strike of 97.978.  
+Also, he has confirmed that the presence of the swap has no impact on the 
+value of the collar.  Let me know if you have questions.  Thanks,
+Ron
+   
+----- Forwarded by Ron Baker/Corp/Enron on 01/10/2001 10:28 AM -----
+
+	Bob Lee
+	01/10/2001 08:44 AM
+		 
+		 To: Andrea V Reed/HOU/ECT@ECT, Ron Baker/Corp/Enron@ENRON
+		 cc: Zimin Lu/HOU/ECT@ECT
+		 Subject: Costless Collar
+
+Here's the calculation using the historical volatility.  The strike drops 
+slightly.  The volatility in the calculation is the expected future 
+vol;atility - looking at traded options for HC and an expected fall off in 
+vol for long dated options, one could justify a vol estimate in the range 40 
+- 50% for the collar.
+
+The presence of the swap makes no difference on the collar valuation.
+
+Bob
+
+
+
+
+
+
+

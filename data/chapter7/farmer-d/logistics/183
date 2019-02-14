@@ -1,0 +1,24 @@
+Message-ID: <26080863.1075840436596.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 08:31:23 -0700 (PDT)
+From: lauri.allen@enron.com
+To: carlos.rodriguez@enron.com
+Subject: Duke Deliveries to Mobil
+Cc: edward.terry@enron.com, danny.conner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: edward.terry@enron.com, danny.conner@enron.com
+X-From: Allen, Lauri </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E75399CA-E1AD213A-862564B4-4AA04F>
+X-To: Rodriguez, Carlos </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=BC60F91E-65B70C9B-862564B3-60568E>, dfarmer@enron.com
+X-cc: Terry, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=7B023D70-6FBEACFB-86256498-4F8D6C>, Conner, Danny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=ED09970E-3F6BA423-862568EF-4CAA56>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Apparently, we inadvertently rolled the Duke delivery to Mobil refinery into April and gas flowed to Mobil via Centana from Duke April 1, 2, and 3.  I understand that there were no tickets entered into Sitara to cover that flow, so I have captured the transaction in Sitara utilizing the following tickets:
+
+#727481  reflects the HPLC purchase from Duke on Centana's pipe April 1,2,3 total volume estimated to be 21,490mm
+#538950  has been updated to show deliveries to Mobil refinery off Centana's pipe for the same time period, same volume
+#727497  reflects HPLC selling the gas back to Duke (payback) at the same price it was purchased, a volume of 10,000mm for 4/12, at meter 7001
+
+Please let me know if there are any questions.  If I've screwed something up, my apologies!!

@@ -1,0 +1,49 @@
+Return-Path: <report@creditserv.prserv.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3205 invoked by uid 115); 6 Nov 2004 22:20:03 -0000
+Received: from report@creditserv.prserv.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.169.172.107):. 
+ Processed in 0.104036 secs); 06 Nov 2004 22:20:03 -0000
+Received: from h4280.serverkompetenz.net (81.169.172.107)
+  by churchill.factcomp.com with SMTP; 6 Nov 2004 22:20:02 -0000
+Received: (qmail 15664 invoked from network); 28 Oct 2004 08:56:39 -0000
+Received: from cc-admin.de (HELO 81.169.172.151) (81.169.172.151)
+  by h4280.serverkompetenz.net with SMTP; 28 Oct 2004 08:56:39 -0000
+Message-ID: <000073315715$00001596$00003eb0@81.169.172.151>
+To: <EducatedConsumer>
+From:"CreditManager" <report@creditserv.prserv.net>
+Subject: See Your FREE Credit Report Instantly!
+Date: Thu, 28 Oct 2004 04:00:18 -0500
+Reply-To: report@creditserv.prserv.net
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.4510
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<div align="center"><a href="http://pws.prserv.net/Insystcom/Automatic102.htm">
+  <img src="http://pws.prserv.net/Insystcom/Top5.GIF" width="520" height="400" border="0"></a></div>
+	  <p align="left"><font face="Verdana" style="font-size: 9pt"><font color="#4E4E4E">You have received this advertisement because you have registered with Planet1Media. 
+      If you feel that this service is no longer of benefit to you, and you do 
+      not want to be notified along with the other subscribers on this service, 
+      Please </font> <a href="http://mysite.verizon.net/resofcff/Service2.htm">
+      <font color="#4E4E4E">Edit</font></a><font color="#4E4E4E"> your email preferences.</font></font></p>
+      <p align="left">
+      <font face="Verdana" color="#4E4E4E" style="font-size: 9pt"><b>Planet 
+      1 Media</b><br>
+      2806 Prairie Avenue<br>
+      Miami Beach, FL 33140</font></body></html>
+
+

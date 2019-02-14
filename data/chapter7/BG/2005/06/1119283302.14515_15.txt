@@ -1,0 +1,54 @@
+Return-Path: <YFDGEIXR@papelariavogal.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 30579 invoked from network); 20 Jun 2005 05:01:51 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 20 Jun 2005 05:01:51 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 20 Jun 2005 05:01:51 -0000
+Received: (qmail 32420 invoked from network); 20 Jun 2005 05:01:49 -0000
+Received: from pcp01033060pcs.dothan01.al.comcast.net (unknown [68.59.58.104])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 20 Jun 2005 05:01:48 -0000
+Received: from mail.daci-wca.com (68.59.58.104)
+          by 68.59.58.104 (dawson4) with SMTP
+          id <13674919h6q>
+          (Authid: 6067); Mon, 20 Jun 2005 07:55:20 +0200
+Reply-To: "zdenek joshia" <htbbsfdc.fpituydpr@daci-wca.com>
+From: "zdenek joshia" <htbbsfdc.fpituydpr@daci-wca.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org, cvs@bruce-guenter.dyndns.org, rait@bruce-guenter.dyndns.org
+Subject: How Low Can You Go
+Date: Mon, 20 Jun 2005 01:02:20 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--280337_8439163.Zzyl90"
+Content-Length: 664
+Lines: 26
+
+----280337_8439163.Zzyl90
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Homeowner,<p>
+
+Did you realize that you don't need to be paying high rates on your home.<br>
+We are extending refinance opportunities unheard of in the industry.<p>
+
+How would you feel saving hundreds monthly at 3.15%?<p>
+
+Follow this link to process an application:<br>
+<a href="http://www.funding-live.com/index2.php?refid=malx">Approval Form</a>.<p>
+
+Sincerely,<p>
+
+Sara Foster<br>
+Senior Account Manager<p>
+------------------------------------------------<p>
+www.funding-live.com/r.php .. not interested
+</html>
+
+
+
+----280337_8439163.Zzyl90--

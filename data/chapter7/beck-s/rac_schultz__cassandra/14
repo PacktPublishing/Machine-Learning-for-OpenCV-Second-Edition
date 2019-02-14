@@ -1,0 +1,116 @@
+Message-ID: <24061902.1075849858573.JavaMail.evans@thyme>
+Date: Wed, 6 Dec 2000 07:38:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: james.new@enron.com, chris.abel@enron.com, mike.jordan@enron.com, 
+	oliver.gaylard@enron.com
+Subject: Re: Loss Notification - "Structured Derivatives"- resolution
+Cc: ted.murphy@enron.com, david.port@enron.com, sally.beck@enron.com, 
+	shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com, david.port@enron.com, sally.beck@enron.com, 
+	shona.wilson@enron.com
+X-From: Cassandra Schultz
+X-To: James New, Chris Abel, Mike Jordan, Oliver Gaylard
+X-cc: Ted Murphy, David Port, Sally Beck, Shona Wilson
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I discussed with Ted and David, and they agree with Oliver's analysis below, 
+so Chris, let's go ahead and report on the $20MM loss against UK Gas in 
+today's notifications.  Then perhaps you can work with James to adjust DPR 
+reporting accordingly going forward.
+
+Thank you,
+Cassandra.
+
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/06/2000 
+03:28 PM ---------------------------
+
+
+Oliver Gaylard@ECT
+12/06/2000 02:55 PM
+To: Cassandra Schultz/NA/Enron@ENRON
+cc: David Port/Market Risk/Corp/Enron@ENRON, James New/LON/ECT@ECT, Ted 
+Murphy/HOU/ECT@ECT 
+
+Subject: Re: Loss Notification - "Structured Derivatives"  
+
+Cassandra
+
+As discussed with Ted, David and yourself the loss should not be looked at on 
+its own as it is due to movements in two markets.
+
+The UK power price curve shifted and the UK gas volatility curve shifted. The 
+P+L break out is as follows:
+
+UK Power delta P+L      $38MM
+Spread options (Structured derivatives) gamma P+L  $(20)MM
+Spread options (Structured derivatives) vega P+L  $(23)MM
+UK Gas  vega P+L      $4MM
+
+If prudency releases are stripped out I think if we allocate P+L to the 
+correct books we get the following total P+Ls exluding reserve releases:
+
+UK Power       $18MM
+UK Gas        $(20)MM (Excludes reserve release of $17MM)
+
+Therefore we only have a loss violation in UK gas. This is not trying to 
+avoid the $42MM loss notification, I am only trying to represent the loss 
+that reflects the true risk in the books of Europe.
+
+Please hold off on the issue of a notification until it is decided that only 
+a loss notification is issued for gas.
+
+Rgds
+
+Oliver
+
+
+   
+
+
+From:  Cassandra Schultz @ ENRON                                              
+               06/12/2000 19:55	
+	
+	
+	                           
+	
+
+To: Michael Kass/EU/Enron@Enron, Chris Abel/HOU/ECT@ECT, James New/LON/ECT@ECT
+cc: Oliver Gaylard/LON/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON, Mike 
+Jordan/LON/ECT@ECT, Shona Wilson/NA/Enron@Enron 
+
+Subject: Loss Notification - "Structured Derivatives"
+
+Per discussion with Ted Murphy, P/L related to the Eastern spread options 
+should be included in our Loss Notification monitoring in accordance with the 
+Risk Management Policy.  However, my understanding is that the positions and 
+VaR are captured in European Gas and UK Power, but the P/L is reported 
+separately in "Structured Derivatives".  This reporting is perhaps further 
+complicated by related prudencey being released in the line item European 
+Gas.  
+
+The 12/5 DPR reflects a ($43MM) loss in Structured Derivatives, and Oliver 
+indicated this represents the market moving against our Eastern spread option 
+position.  This is a Ken Lay level notification by any measurement standards, 
+regardless of whether you compare it to the $7,500 VAR limit for Gas, or the 
+$15,300 VaR limit for UK Power. Or even split it between them.
+
+Chris, please include this loss in today's notification letters to Ken Lay 
+and Jeff Skilling for the 5th.  Per Oliver, the loss was due to power price 
+curve shift and gas volatility curve shift against the Eastern spread options.
+
+Going forward, James, perhaps you could work with Oliver and the commercial 
+team to determine a reasonable methodology to support the allocation of P/L 
+and related DPR reporting  for these positions so we can continue to evaluate 
+in compliance with the policy.
+
+Thank you,
+Cassandra.
+
+
+

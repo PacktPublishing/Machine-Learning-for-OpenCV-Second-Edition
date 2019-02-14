@@ -1,0 +1,98 @@
+Message-ID: <11487162.1075863307664.JavaMail.evans@thyme>
+Date: Thu, 26 Jul 2001 17:25:22 -0700 (PDT)
+From: crcommunications@caiso.com
+To: scsettlecontacts@caiso.com
+Subject: CAISO Notification: Revised DRAFT  ISO Charge Matrix and Statement
+ File Specification (V13.2) -  FERC Order Implementation -  to be effective
+ trade date June 21, 2001
+Cc: tswg@caiso.com, isoclientrelations@caiso.com, ng@enron.com, cng@caiso.com, 
+	blatchford@enron.com, jblatchford@caiso.com, klussmann@enron.com, 
+	rklussmann@caiso.com, morgan@enron.com, emorgan@caiso.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tswg@caiso.com, isoclientrelations@caiso.com, ng@enron.com, cng@caiso.com, 
+	blatchford@enron.com, jblatchford@caiso.com, klussmann@enron.com, 
+	rklussmann@caiso.com, morgan@enron.com, emorgan@caiso.com
+X-From: CRCommunications <CRCommunications@caiso.com>
+X-To: SC Settlements Contacts <IMCEAEX-_O=CAISO_OU=CORPORATE_CN=DISTRIBUTION+20LISTS_CN=SCSETTLECONTACTS@caiso.com>
+X-cc: TSWG <TSWG@caiso.com>, ISO Client Relations <ISOClientRelations@caiso.com>, Ng, Chi-Pui <CNg@caiso.com>, Blatchford, James <JBlatchford@caiso.com>, Klussmann, Rhonda <RKlussmann@caiso.com>, Morgan, Elizabeth <EMorgan@caiso.com>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+SC Settlement Contacts:
+
+
+IMPORTANT NOTICE
+Revised ISO Charge Matrix & Statement File Specification (V13.2) 
+
+In compliance with recent FERC Order dated 6/19/01, ISO will make implement
+changes in its Settlement System to support the following:
+
+*	Credit Risk Adder; and
+*	Emissions & Start-Up Cost Recovery.
+
+Credit Risk Adder
+The FERC Order put in place a price mitigation scheme for the energy markets
+in the western United States.  It also directed ISO to add 10% to Market
+Clearing Prices (MCPs)paid to generators for all prospective sales in its
+market to reflect credit uncertainty.  The Credit Risk Adder is only used
+for settlement purposes.  The ISO Scheduling System will continue to
+determine MCPs using existing algorithms and the MCPs published in ISO's
+OASIS will also reflect the unadjusted MCPs.  During the settlement
+calculations, ISO will increase the following MCPs by 10%:
+*	Dayahead and Hourahead MCPs for Ancillary Services (A/S); and
+*	MCP for Real Time incremental energy.
+
+The adder raises the MCPs, but does not affect the underlying settlement
+formulation.  The only change made to the Settlement Files is the inclusion
+of a new data field for the unadjusted MCP.
+
+Emissions and Start-Up Cost Recovery
+The FERC Order also directed ISO to exclude emissions and start-up fuel
+costs from the calculation of ISO's mitigated Market Clearing Prices.
+Generators can invoice ISO for such costs incurred as a direct result of ISO
+dispatch actions.  ISO will implement two new charges:
+*	Charge Type 591 - Emissions Cost Recovery; and
+*	Charge Type 592 - Start-Up Cost Recovery.
+
+These new charges serve as a mechanism for ISO to collect funds which will
+be kept in trust accounts to pay the generators' invoices.  A rate will be
+established by ISO for each charge.  For Emissions Cost Recovery, the rate
+will equal that of the forecasted annual total of all emission costs,
+incurred by Must-offer Generators as a direct result of ISO dispatch
+instructions, adjusted for interest as may accrue in the Emissions Cost
+Trust Account, divided by the sum of the forecasted in-state load served by
+the ISO's transmission system.  For Start-Up Cost Recovery, the rate will be
+determined similarly.  It will equal that of the forecasted annual total of
+all start-up costs, incurred by Must-offer Generators as a direct result of
+ISO dispatch instructions, adjusted for interest as may accrue in the
+Start-Up Cost Trust Account, divided by the sum of the forecasted in-state
+load served by the ISO's transmission system.  ISO plans to publish these
+rates shortly.  The rates may be adjusted monthly based on ISO's latest
+forecast.
+
+Both charges will appear as monthly lump sums in the Scheduling
+Coordinator's Settlement Statement for the last day of the trade month.
+Detail breakdown of the charges incurred by the Scheduling Coordinator on a
+given day will be provided in the statement for that day.  
+
+Implementation Timeline
+The Credit Risk Adder and the new Emission & Start-Up Cost Recovery scheme
+went into effect on trade date 6/21/2001.  The statements for 6/21 will be
+issued on 8/15/2001.
+
+Comments & Questions
+Attached for your review are drafts of the revised Charge Matrix and
+Statement Files Specification (version 13.2).   
+
+Questions and comments related to the attached documents can be directed to
+Mr. C. P. Ng via email (cng@caiso.com).  ISO plans to finalize the
+specification by 8/6/2001.
+
+ <<File Spec - Version 13.2 - 072601 - Draft.doc>>  <<Charge Matrix
+(Automated Chrg Types) - Version 13.2 - 072501 - Draft.xls>> 
+
+Client Relations Communication
+CRCommunications@caiso.com

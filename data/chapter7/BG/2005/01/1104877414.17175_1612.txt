@@ -1,0 +1,30 @@
+Return-Path: <ceufgpyp@hotmail.com>
+Delivered-To: em-ca-bait-arranged@em.ca
+Received: (qmail 14082 invoked by uid 115); 30 Dec 2004 10:00:34 -0000
+Received: from ceufgpyp@hotmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.37.156.23):. 
+ Processed in 0.18079 secs); 30 Dec 2004 10:00:34 -0000
+Received: from host.outsourcepromotions.com (66.37.156.23)
+  by churchill.factcomp.com with SMTP; 30 Dec 2004 10:00:32 -0000
+Received: from 123.140.105.100 by 66.37.156.23; Thu, 30 Dec 2004 12:55:42 +0300
+Message-ID: <SCBFQEZBGLWISYXLDWSJRJQ@yahoo.com>
+From: "Greg " <ceufgpyp@hotmail.com>
+Reply-To: "Greg " <ceufgpyp@hotmail.com>
+To: bait-abrogate@em.ca
+Subject: note
+Date: Thu, 30 Dec 2004 04:58:42 -0500
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0239502902498758"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+----0239502902498758
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body bgcolor="#FFFFFE" text="#0755BA"><p><a href="http://hooa.nhgaembl.info/?2QAqAazwC6FmPSyppgideyekt"><IMG SRC="cid:part1.04050005.08040409@gvdjjjwbhpoe@hotmail.com" border="0" ALT=""></a></p><p><font color="#FFFFF6">   </font></p><p><font color="#FFFFF7"> </font></p></body></html>
+
+----0239502902498758--
+

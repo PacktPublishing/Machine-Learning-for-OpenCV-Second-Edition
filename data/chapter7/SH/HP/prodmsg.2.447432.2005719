@@ -1,0 +1,78 @@
+Received: from cherrycreekgroup.com (198.65.246.173)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:19 -0000
+Received: (localhost) by cherrycreekgroup.com (8.12.11) id j6JAvJlh001897; Tue, 19 Jul 2005 04:57:19 -0600 (MDT)
+Date: Tue, 19 Jul 2005 04:57:19 -0600 (MDT)
+From: MAILER-DAEMON@cherrycreekgroup.com (Mail Delivery Subsystem)
+Subject: Returned mail: see transcript for details
+Message-Id: <200507191057.j6JAvJlh001897@cherrycreekgroup.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAvJlh001897.1121770639/cherrycreekgroup.com"
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAvJlh001897.1121770639/cherrycreekgroup.com
+
+The original message was received at Tue, 19 Jul 2005 04:57:18 -0600 (MDT)
+from 65.18.201.worldaxxs.net [65.18.201.74] (may be forged)
+
+   ----- The following addresses had permanent fatal errors -----
+<lauraa@greentreehomes.com>
+
+   ----- Transcript of session follows -----
+imail: mail quota exceeded: lauraa
+554 5.0.0 Service unavailable
+
+--j6JAvJlh001897.1121770639/cherrycreekgroup.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; cherrycreekgroup.com
+Received-From-MTA: dns; 65.18.201.worldaxxs.net
+Arrival-Date: Tue, 19 Jul 2005 04:57:18 -0600 (MDT)
+
+Final-Recipient: rfc822; lauraa@greentreehomes.com
+X-Actual-Recipient: rfc822; lauraa@cherrycreekgroup.com
+Action: failed
+Status: 5.5.0
+Last-Attempt-Date: Tue, 19 Jul 2005 04:57:19 -0600 (MDT)
+
+--j6JAvJlh001897.1121770639/cherrycreekgroup.com
+Content-Type: message/rfc822
+
+Return-Path: projecthoneypot@projecthoneypot.org
+Received: from coalcreekvillage.net (65.18.201.worldaxxs.net [65.18.201.74] (may be forged)) by cherrycreekgroup.com (8.12.11) id j6JAvIlh001881; Tue, 19 Jul 2005 04:57:18 -0600 (MDT)
+Received: from mailwisconsin.com (YahooBB220056020109.bbtec.net [220.56.20.109])
+	by coalcreekvillage.net (8.12.10/8.11.2) with SMTP id j6JAvAMV004475
+	for <info@coalcreekvillage.net>; Tue, 19 Jul 2005 06:57:12 -0400
+X-Authentication-Warning: coalcreekvillage.net: coalcreek owned process doing -bs
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816325;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@coalcreekvillage.net
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273859">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JAvJlh001897.1121770639/cherrycreekgroup.com--
+

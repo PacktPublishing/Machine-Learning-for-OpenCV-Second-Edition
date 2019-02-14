@@ -1,0 +1,70 @@
+Message-ID: <11947249.1075854184003.JavaMail.evans@thyme>
+Date: Fri, 5 May 2000 02:02:00 -0700 (PDT)
+From: brenda.herod@enron.com
+To: daren.farmer@enron.com
+Subject: Unify performance problem on Wednesday
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+FYI.
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 05/05/2000 
+09:01 AM ---------------------------
+
+
+Rita Wynne
+05/05/2000 08:11 AM
+To: Brenda F Herod/HOU/ECT@ECT
+cc:  
+Subject: Unify performance problem on Wednesday
+
+FYI.........
+---------------------- Forwarded by Rita Wynne/HOU/ECT on 05/05/2000 08:10 AM 
+---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           05/04/2000 06:56 PM
+	
+
+To: George Smith/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Tricia 
+Bowen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Patti Sullivan/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Carlos J Rodriguez/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, Bryce Baxter/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, Donna 
+Greif/HOU/ECT@ECT
+cc: Jeff Johnson/Corp/Enron@Enron, Tommy J Yanowski/HOU/ECT@ECT, Beth 
+Perlman/HOU/ECT@ECT, Scott Williamson/HOU/ECT@ECT, Jim Ogg/HOU/ECT@ECT, Regan 
+M Smith/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT 
+Subject: Unify performance problem on Wednesday
+
+As you are aware, the Unify system experienced significant performance 
+problems Wednesday from approx 9:30 am - 11:20 am.  The duration of the 
+problem was due to a type of system behavior we had not experienced before.  
+The problem was exacerbated by a multitude of additional user logins thinking 
+that a fresh login might work better.  Additional logins never improve 
+performance and generally degrade it, but that is another story.  (There was 
+actually a single user with 21 sessions!)  We had to "bounce" the server 
+twice to bring the system back to its normal level of performance.
+
+The good news is that we found out what caused the problem.  It was not a 
+particular user or a particular report or process.  It was actually an 
+intentional change to a specific table that we have done numerous times in 
+the past, but this particular change had drastic side effects.  We have 
+contacted Sybase with this problem to see if they can help determine if the 
+behavior is a "feature" or a bug.  In the meanwhile, we will do these types 
+of changes at night during scheduled outages.
+
+I apologize for the frustration, anxiety, and extra work brought on by this 
+problem and will take every precaution to see that it does not happen again.  
+If you have any further questions or comments, please feel free to give me a 
+call.
+
+Dave N.
+
+

@@ -1,0 +1,52 @@
+Return-Path: <lancamentos@martinscoml.com.br>
+Received: (fqmail 21743 invoked from network); 02 Aug 2004 05:17:16 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Aug 2004 05:17:16 -0000
+Received: (qmail 17397 invoked from network); 2 Aug 2004 05:17:14 -0000
+Received: from martinscoml.com.br (200-140-026-213.cpece7006.dsl.brasiltelecom.net.br [200.140.26.213])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 02 Aug 2004 05:17:14 -0000
+From: "Martins Livraria" <lancamentos@martinscoml.com.br>
+To: <diretoria@ezmlm.org>
+Subject: Saiba tudo sobre sua moto
+Sender: "Martins Livraria" <lancamentos@martinscoml.com.br>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Mon, 2 Aug 2004 01:20:43 -0300
+Content-Transfer-Encoding: 8bit
+
+Manual de Mecânica de Motos
+
+2 CD's repletos de informações sobre mecânica de Motos 
+ 
+Troca de óleo;  
+Troca de filtro de óleo e filtro de ar;  
+Serviços no sistema  
+elétrico (desde trocar uma simples lâmpada "biodo", até a instalar alarme; 
+Entenderá o que é um chicote); 
+Desmontagem e lubrificação do motor;  
+Embreagem;  
+Remover e limpar o carburador;  
+Sistema de ignição; 
+Como verificar a bateria (saber se está boa ao medir com um aparelho
+chamado voltímetro);  
+Troca de pastilhas de freio;  
+Ajuste de corrente;  
+Troca de transmissão (corrente, coroa e pião);  
+Trocar fluido de freio e sangramento;  
+Lubrificar cabos de freio e embreagem; 
+Como desmontar as rodas (dianteira e traseira), sem nenhum sacrifício e
+sem se sujar; 
+Desmontar o motor do jeito mais simples possível. 
+E Muito mais... 
+
+Confira em:
+
+http://www.mmotos.kit.net
+
+Para cancelar o recebimento desta mensagem acesse:
+
+http://www.mmotos.kit.net/remover.htm
+
+

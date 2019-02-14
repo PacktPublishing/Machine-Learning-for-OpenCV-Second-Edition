@@ -1,0 +1,76 @@
+Return-Path: <nobody@net10.rightdns.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 21991 invoked by uid 115); 4 Jul 2005 19:39:54 -0000
+Received: from nobody@net10.rightdns.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(69.56.237.98):. 
+ Processed in 0.180603 secs); 04 Jul 2005 19:39:54 -0000
+Received: from net10.rightdns.net (69.56.237.98)
+  by churchill.factcomp.com with SMTP; 4 Jul 2005 19:39:53 -0000
+Received: from nobody by net10.rightdns.net with local (Exim 4.50)
+	id 1DpWoy-0002oq-EZ
+	for bruceg@em.ca; Mon, 04 Jul 2005 15:41:36 -0400
+To: bruceg@em.ca
+Subject: Notification Of Limited Account Access
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-15
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: php
+From: "service@paypal.com" <service@paypal.com>
+Message-Id: <E1DpWoy-0002oq-EZ@net10.rightdns.net>
+Date: Mon, 04 Jul 2005 15:41:36 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - net10.rightdns.net
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - net10.rightdns.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 2479
+
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p><img src="https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif"></p>
+<p>Dear User,</p>
+<p>As part of our security measures, we regularly screen activity in the<br>
+  PayPal system. We recently noticed the following issue on your account: </p>
+<p>We would like to ensure that your account was not accessed by an<br>
+  unauthorized third party. Because protecting the security of your account<br>
+  is our primary concern, we have limited access to sensitive PayPal account<br>
+  features. We understand that this may be an inconvenience but please<br>
+  understand that this temporary limitation is for your protection.</p>
+<p> For your protection, we have limited access to your account until<br>
+  additional security measures can be completed. We apologize for any<br>
+  inconvenience this may cause.</p>
+<p>Please log in to PayPal to restore your account access as soon as possible:<br>
+</p>
+<p><a href="http://www.personaltours.hu/images/.sec2/account-reactivate/Pp/index.htm">http://www.paypal.com/cgi-bin/webscr?cmd=_login-submit</a></p>
+<p>&nbsp;</p>
+<p>Once you log in, you will be provided with steps to return your<br>
+  account to regular standing. We appreciate your understanding as we work to<br>
+  ensure account safety.</p>
+<p>In accordance with PayPal\'s User Agreement, your account access will remain<br>
+  limited until the issue has been resolved. Unfortunately, if access to your<br>
+  account remains limited for an extended period of time, it may result in<br>
+  further limitations or eventual account closure. We encourage you to log in<br>
+  to your PayPal account as soon as possible to help avoid this. </p>
+<p>To review your account and some or all of the information that PayPal used<br>
+  to make its decision to limit your account access, please visit the<br>
+  Resolution Center. If, after reviewing your account information, you seek<br>
+  further clarification regarding your account access, please contact PayPal<br>
+  by visiting the Help Center and clicking &quot;Contact Us&quot;.<br>
+  We thank you for your prompt attention to this matter. Please understand<br>
+  that this is a security measure intended to help protect you and your<br>
+  account. We apologize for any inconvenience.</p>
+<p>Sincerely,<br>
+  PayPal Account Review Department</p>
+<p>PayPal Email ID PP523</p>
+</body>
+</html>

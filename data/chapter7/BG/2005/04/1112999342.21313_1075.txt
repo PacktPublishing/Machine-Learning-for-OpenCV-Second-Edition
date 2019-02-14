@@ -1,0 +1,54 @@
+Return-Path: <cwfbc@ayna.com>
+Delivered-To: em-ca-bait-proverbs@em.ca
+Received: (qmail 32320 invoked by uid 115); 7 Apr 2005 07:53:13 -0000
+Received: from cwfbc@ayna.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.64.60.23):. 
+ Processed in 0.425065 secs); 07 Apr 2005 07:53:13 -0000
+Received: from unknown (HELO 209.5.178.248) (220.64.60.23)
+  by churchill.factcomp.com with SMTP; 7 Apr 2005 07:53:12 -0000
+Received: from leatherneck.ausi.com ([205.215.232.2])
+          by clothesline.dreamer.com.tw
+          (InterMail vK.4.04.00.03 720-946-290-20030220 license 102730dv29qo1fln7jf527c9y28r7f60)
+          with ESMTP
+          id <20040389205079.CLHX33691.clothesline@leatherneck.ausi.com>
+          for <bait-portrays@em.ca>; Thu, 07 Apr 2005 03:03:11 -0600 
+Received: from mail pickup service by leatherneck.ausi.com with Microsoft SMTPSVC;
+	 Thu, 07 Apr 2005 14:54:11 +0600
+	 Date: Thu, 07 Apr 2005 03:03:11 -0600
+From: Carlo Stokes <cwfbc@ayna.com>
+Subject: Online Pharmacy
+To: <bait-portrays@em.ca>
+References: <IRM61ZYUH1Q5EWBM@dreamer.com.tw>
+In-Reply-To: <IRM61ZYUH1Q5EWBM@dreamer.com.tw>
+Message-ID: <094904804564.UUP64858@forum.dk>epidemiology.ausi.com>
+Message-ID: <094904804564.UUP64858@forum.dk>
+MIME-version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_001_1843_00T59LG9.59FJ9714"
+X-Mailer: Apple Mail (2.618)
+
+This is a multi-part message in MIME format.
+
+------_001_1843_00T59LG9.59FJ9714
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7Bit
+
+Hi,
+You can buy the most wanted medications from our site.
+we sell ViCODiN(179 $),VALiUM(169 $) and ViAGRA(199 $) at a very reasonable price.
+we ship worldwide and no prescription is needed.
+http://www.grx-meds.com/scripts/default.asp?idaff=110
+Cheapest Online Pharmacy
+
+------_001_1843_00T59LG9.59FJ9714
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 7Bit
+
+Hi,<br>You can buy the most wanted medications from our site.<br>we sell ViCODiN(179 $),VALiUM(169 $) and ViAGRA(199 $) at a very reasonable 
+price.<br>
+we ship worldwide and no prescription is needed.<br><A HREF="http://www.grx-meds.com/scripts/default.asp?idaff=110">Cheapest Online 
+Pharmacy</A>
+
+------_001_1843_00T59LG9.59FJ9714--

@@ -1,0 +1,47 @@
+Message-ID: <24081055.1075856641902.JavaMail.evans@thyme>
+Date: Fri, 17 Nov 2000 08:41:00 -0800 (PST)
+From: naveen.andrews@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: smoothing methodology for extracting forward forward
+ volatilities
+Cc: alex.huang@enron.com, vince.kaminski@enron.com, vasant.shanbhogue@enron.com, 
+	ted.murphy@enron.com, vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: alex.huang@enron.com, vince.kaminski@enron.com, vasant.shanbhogue@enron.com, 
+	ted.murphy@enron.com, vladimir.gorny@enron.com
+X-From: Naveen Andrews
+X-To: Tanya Tamarchenko
+X-cc: Alex Huang, Vince J Kaminski, Vasant Shanbhogue, Ted Murphy, Vladimir Gorny
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+            The exponentials we tried earlier (a+bexp(-cx), etc, fit well b=
+ut=20
+gave negative numbers in the bootstrapping.
+            I tried a + b(t+c)(-1) , a standard power law, and as the ?acco=
+mpanying graph shows (for the 12 months), the fits are quite good.?        =
+    In this case, the ffvols do not become negative (I believe this ?corres=
+ponds to your 0 beta).  ?  I would have preferred exp(-t) and variants (can=
+ explain owing to ?mean-reverting vols), but the power law might be a pract=
+ical alternative ?(from an implementation standpoint).?Naveen??? ?????Tanya=
+ Tamarchenko@ECT?11/17/2000 02:59 PM?To: Naveen Andrews/Corp/Enron@ENRON, A=
+lex Huang/Corp/Enron@ENRON?cc: Vince J Kaminski/HOU/ECT@ECT, Vasant Shanbho=
+gue/HOU/ECT@ECT, Vladimir ?Gorny/HOU/ECT@ECT ??Subject: Re: smoothing metho=
+dology for extracting forward forward ?volatilities  ??Following up on our =
+discussions I implemented one method for creating forward ?forward curve?fr=
+om implied vol curve. ?I sorted out 12 forward curves from an original forw=
+ard vol curve, each of 12 ?curves corresponding?to certain month. Then I fi=
+tted each of 12 curves with a function:??y=3Da+A/power(x+b, beta)??I figure=
+d out that when beta is from (0, .5) the above function is suitable ?for pe=
+rforming our bootstrapping?routine of deriving ff vols from implied, becaus=
+e:??y(x+t) * y(x+t) * (x+t) - y(x) * y(x) * tx> 0                  for all =
+x, t.??(I have to double check on this again. Also when beta>0.5 there are =
+some ?combinations of parameters a, A, b, beta?for which above equality hol=
+ds). Even with restriction on beta this class of ?functions represents quit=
+e a variety of shapes.??Below you see the example of fitting as well as the=
+ example of ff vol curve ?constructed from implied vol curve for NG.??I'll =
+try this for power as well.??Any comments????????????

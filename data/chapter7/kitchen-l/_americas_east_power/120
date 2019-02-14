@@ -1,0 +1,30 @@
+Message-ID: <6768086.1075840817542.JavaMail.evans@thyme>
+Date: Tue, 31 Jul 2001 07:20:49 -0700 (PDT)
+From: mitch.robinson@enron.com
+To: georganne.hodges@enron.com
+Subject: FW: ERCOT prices
+Cc: john.lavorato@enron.com, louise.kitchen@enron.com, wes.colwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.lavorato@enron.com, louise.kitchen@enron.com, wes.colwell@enron.com
+X-From: Robinson, Mitch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MROBINS>
+X-To: Hodges, Georganne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghodges>
+X-cc: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Colwell, Wes </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcolwel>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Georganne -
+
+Attached is a brief presentation demonstrating 3 methods of correlating gas and power prices in Texas.  All show a high correlation (>85%).  This is to show Arthur Andersen that John's Nymex swap is a good hedge for the coal plant build option.
+
+The spreadsheet provides the raw data.
+
+My recommendation is to use the "Liquidated Price" method since it uses historical MW Daily and Gas Daily indexes and does not rely on internal curves.
+
+Mitch
+
+
+
+  

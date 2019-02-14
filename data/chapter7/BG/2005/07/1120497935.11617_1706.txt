@@ -1,0 +1,55 @@
+Return-Path: <vzyshkacc@myfastmail.com,>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 16491 invoked by uid 115); 4 Jul 2005 04:03:54 -0000
+Received: from vzyshkacc@myfastmail.com, by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(201.255.35.131):. 
+ Processed in 0.117011 secs); 04 Jul 2005 04:03:54 -0000
+Received: from 201-255-35-131.mrse.com.ar (201.255.35.131)
+  by churchill.factcomp.com with SMTP; 4 Jul 2005 04:03:53 -0000
+X-Message-Info: fg/P+43/MJ/x+0/54973244982
+Received: from acts057.editorial.vzyshkacc@myfastmail.com, (shelter507.vzyshkacc@myfastmail.com, [201.255.35.131])
+	by smtp-predecessor.logic.vzyshkacc@myfastmail.com, (Postfix) with SMTP id 18XY183LW5PKI
+	for <bait@em.ca>; Mon, 04 Jul 2005 06:06:31 +0100
+Received: from smtp-allspice.press.vzyshkacc@myfastmail.com, ([201.255.35.131]) by o18-de7.vzyshkacc@myfastmail.com, with Microsoft SMTPSVC(5.0.1151.8135);
+	 Mon, 04 Jul 2005 01:57:31 -0300
+Received: from smtp-hungarian.irrefutable.vzyshkacc@myfastmail.com, ([201.255.35.131]) by jgr4-qz61.vzyshkacc@myfastmail.com, with Microsoft SMTPSVC(5.0.0371.5986);
+	 Sun, 03 Jul 2005 22:04:31 -0700
+X-Message-Info: CYLCZ+%ND_LC_CHAR[1-3]43+cg+PUK+48/41953480266
+Received: from caricature.vzyshkacc@myfastmail.com, ([128.148.87.82]) by clive.vzyshkacc@myfastmail.com, with MailEnable ESMTP; Mon, 04 Jul 2005 10:05:31 +0500
+Date: Sun, 03 Jul 2005 22:57:31 -0600
+Message-Id: <3795850435.07268@vzyshkacc@myfastmail.com,>
+From: Cyril  <vzyshkacc@myfastmail.com,>
+To: Bait <bait@em.ca>
+Subject: TurboNet Pro
+MIME-Version: 1.0 (produced by rapidfatima 4.3)
+Content-Type: multipart/alternative;
+	boundary="--422898443922214"
+
+----422898443922214
+Content-Type: text/plain;
+	charset="iso-5893-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: butyric chorale constipate
+
+Hi, 
+
+Make your ordinary 56k modem go speeds of upto 250k+!
+(Average increased speeds of 195 - 200K!) 
+
+Download music/programs in seconds, not minutes! 
+
+This hardware is compatible with EVERY Dialup ISP! 
+
+Check it out: 
+
+http://look4net.info
+
+Don't forget to save our site URL!
+(If its not up, try again later!) 
+
+Goodbye,
+http://look4net.info/r/
+Casey=20
+
+
+----422898443922214--

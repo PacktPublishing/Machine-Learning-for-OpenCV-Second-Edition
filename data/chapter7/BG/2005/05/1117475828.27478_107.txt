@@ -1,0 +1,60 @@
+Return-Path: <info@tjallen.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 27684 invoked from network); 30 May 2005 08:14:49 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 30 May 2005 08:14:49 -0000
+Received: (qmail 24575 invoked from network); 30 May 2005 08:14:49 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx02.futurequest.net ([69.5.6.172])
+  with QMQP via TCP; 30 May 2005 08:14:49 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 27678 invoked from network); 30 May 2005 08:14:49 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 30 May 2005 08:14:49 -0000
+Received: (qmail 26705 invoked from network); 30 May 2005 08:14:49 -0000
+Received: from @ayr-mail.com (m217.net81-65-128.noos.fr [81.65.128.217])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 30 May 2005 08:14:47 -0000
+Received: from 211.99.25.1
+        (SquirrelMail authenticated user info@tjallen.com);
+        by ayr-mail.com with HTTP id J85Gz021627608;
+        Mon, 30 May 2005 08:19:29 +0000
+Message-Id: <LiAOUV.squirrel@211.99.25.1>
+Date: Mon, 30 May 2005 08:19:29 +0000
+Subject: Are you ready to get it?
+From: "Katharina Hancock" <info@tjallen.com>
+To: webmaster@ezmlm.org
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body>
+<table>
+<tr>
+<td>
+<p>
+Hello!
+</p>
+<p>
+Viagra is the #1 med to struggle with mens' erectile dysfunction.<br>
+Like one jokes sais ,it is strong enouqh for a man, but made for a woman ;-)
+</p>
+<p>
+Ordering Viaqra online is a very convinient ,fast and secure way!<br>
+Millions of people do it daily to save their privacy and money
+</p>
+<p>
+<a href="http://abjldhmek.healup.info/?cfgiekxssryabjlzgvdhm">Order here...</a>
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

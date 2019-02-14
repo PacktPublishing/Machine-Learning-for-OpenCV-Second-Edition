@@ -1,0 +1,35 @@
+Message-ID: <28038453.1075857027651.JavaMail.evans@thyme>
+Date: Fri, 19 May 2000 04:14:00 -0700 (PDT)
+From: samer.takriti@enron.com
+To: ravi.thuraisingham@enron.com
+Subject: RE: CPLEX floating license
+Cc: chonawee.supatgiat@enron.com, pinnamaneni.krishnarao@enron.com, 
+	samer_takriti@enron.net, stinson.gibner@enron.com, 
+	tom.halliburton@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chonawee.supatgiat@enron.com, pinnamaneni.krishnarao@enron.com, 
+	samer_takriti@enron.net, stinson.gibner@enron.com, 
+	tom.halliburton@enron.com, vince.kaminski@enron.com
+X-From: Samer Takriti
+X-To: Ravi Thuraisingham
+X-cc: Chonawee Supatgiat, Pinnamaneni Krishnarao, samer_takriti@enron.net, Stinson Gibner, Tom Halliburton, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Chonawee and I just had a phone conversation with Cplex. There are other 
+alternatives (products) that may help in saving time and cost. Chonawee and I 
+feel that one floating develoment license, and one or two OPL (a package on 
+sale that provides modeling and optimization features) licenses will do. In 
+addition, we need floating deployment licenses. For the development licenses, 
+the charges should be split "equally" between the different groups that may 
+ask for optimization help (although it is hard to predict who may ask for 
+future help). We are suggesting equally since these licenses are used to 
+develop the needed solution but are not (in general) used to run the 
+software. The deployment licenses can be charged on per-use basis for 
+different groups.
+Cplex is going to send us a new quote. We'll make the decision soon after 
+that.
+-Samer

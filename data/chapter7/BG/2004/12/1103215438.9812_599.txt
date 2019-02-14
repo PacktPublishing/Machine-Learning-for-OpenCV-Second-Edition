@@ -1,0 +1,32 @@
+Return-Path: <yzfas@yahoo.com>
+Delivered-To: em-ca-bait-sneakily@em.ca
+Received: (qmail 1278 invoked by uid 115); 11 Dec 2004 18:44:22 -0000
+Received: from yzfas@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.43.249.244):. 
+ Processed in 0.661535 secs); 11 Dec 2004 18:44:22 -0000
+Received: from host244.200-43-249.telecom.net.ar (200.43.249.244)
+  by churchill.factcomp.com with SMTP; 11 Dec 2004 18:44:20 -0000
+Message-ID: <36759459603292.96780.qmail@web11325.mail.yahoo.com>
+Received: from [200.43.249.244] by web11325.mail.yahoo.com via HTTP; Sat, 11 Dec 2004 12:46:17 -0600
+Date: Sat, 11 Dec 2004 12:46:17 -0600
+From: "Terra Terrell" <yzfas@yahoo.com>
+Subject: Say goodbye to pain
+To: 004227@em.ca
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-9975500015-3000814965=:91861"
+
+--0-9975500015-3000814965=:91861
+Content-Type: text/plain; charset=us-ascii
+
+<a href="http://www.wringman.com/33/2/index.php?ai=7781&com=30">
+<img src="http://www.brillimojo.com/0/14/14-7.jpg" border="0"></a>
+<br><br><br><br>
+<a href="http://www.wringman.com/unsub/">unsub</a>
+--0-9975500015-3000814965=:91861
+Content-Type: text/html; charset=us-ascii
+
+<a href="http://www.wringman.com/33/2/index.php?ai=7781&com=30">
+<img src="http://www.brillimojo.com/0/14/14-7.jpg" border="0"></a>
+<br><br><br><br>
+<a href="http://www.wringman.com/unsub/">unsub</a>
+--0-9975500015-3000814965=:91861--

@@ -1,0 +1,52 @@
+Message-ID: <7347485.1075854140747.JavaMail.evans@thyme>
+Date: Mon, 13 Nov 2000 09:31:00 -0800 (PST)
+From: david.stadnick@enron.com
+To: aimee.lannou@enron.com, alisha.guerrero@enron.com, amy.felling@enron.com, 
+	andy.unverzagt@enron.com, anita.patton@enron.com, 
+	benjamin.markey@enron.com, brad.blevins@enron.com, 
+	brad.horn@enron.com, brad.mckay@enron.com, cathy.phillips@enron.com, 
+	chris.sonneborn@enron.com, dan.mccairns@enron.com, 
+	daren.farmer@enron.com, david.stadnick@enron.com, 
+	david.oliver@enron.com, earl.tisdale@enron.com, ed.terry@enron.com, 
+	edward.gottlob@enron.com, garry.wilson@enron.com, 
+	gary.hanks@enron.com, gerald.nemec@enron.com, 
+	ginger.causey@enron.com, gregory.schockling@enron.com, 
+	jackie.young@enron.com, james.mckay@enron.com, jeff.ford@enron.com, 
+	jeff.gilliam@enron.com, jenny.latham@enron.com, 
+	jesse.villarreal@enron.com, john.merkert@enron.com, 
+	karen.mcilvoy@enron.com, kathy.hilliard@enron.com, 
+	ken.choyce@enron.com, kenneth.ellerman@enron.com, 
+	lal.echterhoff@enron.com, lauri.allen@enron.com, 
+	lee.pinkston@enron.com, leonard.dillehay@enron.com, 
+	marcie.holtman@enron.com, mark.knippa@enron.com, 
+	mary.smith@enron.com, michael.legler@enron.com, 
+	michael.kaspereit@enron.com, mike.mcconnell@enron.com, 
+	mike.morris@enron.com, michael.winders@enron.com, 
+	molly.carriere@enron.com, nathan.hlavaty@enron.com, 
+	ping.he@enron.com, ragan.bond@enron.com, robert.lloyd@enron.com, 
+	robert.morgan@enron.com, robert.shiring@enron.com, 
+	sam.garner@enron.com, scott.neal@enron.com, scott.sitter@enron.com, 
+	sean.smith@enron.com, sharon.o'farrell@enron.com, 
+	silver.breaux@enron.com, stella.morris@enron.com, 
+	steve.weller@enron.com, susan.trevino@enron.com
+Subject: Change in SCADA Server to NAHOU-SCADA2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Stadnick
+X-To: Aimee Lannou, Alisha Guerrero, Amy Felling, Andy Unverzagt, Anita K Patton, Benjamin Markey, Brad Blevins, Brad Horn, Brad McKay, Cathy Phillips, Chris Sonneborn, Dan McCairns, Daren J Farmer, David Stadnick, David Oliver, Earl Tisdale, Ed Terry, Edward D Gottlob, Garry D Wilson, Gary A Hanks, Gerald Nemec, Ginger Causey, Gregory Schockling, Jackie Young, James McKay, Jeff Ford, Jeff Gilliam, Jenny Latham, Jesse Villarreal, John Merkert, Karen D McIlvoy, Kathy Hilliard, Ken Choyce, Kenneth W Ellerman, Lal Echterhoff, Lauri A Allen, Lee Pinkston, Leonard Dillehay, Marcie Holtman, Mark Knippa, Mary M Smith, Michael J Legler, Michael Kaspereit, Mike McConnell, Mike Morris, Michael C Winders, Molly L Carriere, Nathan L Hlavaty, Ping He, Ragan Bond, Robert E Lloyd, Robert D Morgan, Robert Shiring, Sam Garner, Scott Neal, Scott Sitter, Sean J Smith, Sharon O'Farrell, Silver Breaux, Stella L Morris, Steve Weller, Susan D Trevino
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The name of the SCADA server has been changed from ECTHOU_SCADA1 to 
+NAHOU-SCADA2.
+
+If you have a personal Excel spreadsheet that obtains data from the SCADA 
+server using NetDDE, you will have to edit the spreadsheet.  Change the old 
+name to the new name.
+
+If you have any questions or need assistance, please call 34200.
+
+-Dave Stadnick

@@ -1,0 +1,52 @@
+Message-ID: <26362254.1075856597194.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 02:38:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: keith.bowie@enron.com
+Subject: Re: PortCalc methodology
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, grant.masson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, grant.masson@enron.com
+X-From: Zhiyong Wei
+X-To: Keith Bowie
+X-cc: Vince J Kaminski, Stinson Gibner, Grant Masson
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Keith,
+
+Both power and EMRS use a C library provided (also implemented) by research 
+group. The methodology of greek calculations in power portcalc has not 
+changed for more than 6 years since I joined Enron 6 years ago. Vince 
+Kaminski, Stinson Gibner or Grant Masson should be able to help you with both 
+questions.
+
+Zhiyong
+
+
+
+
+Keith Bowie
+06/28/2000 04:22 AM
+To: Zhiyong Wei/HOU/ECT@ECT
+cc: Brian Hudson/LON/ECT@ECT 
+Subject: PortCalc methodology
+
+
+Zi
+
+I've been asked by Risk Management:
+a)  who in research originally signed off the PortCalc formulae
+b) for a copy of the documentation of the methodology (greek calculations, 
+etc.)
+
+Hope you can help on both counts.
+
+Thanks
+
+Keith
+
+
+

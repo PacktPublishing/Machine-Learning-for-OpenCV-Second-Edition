@@ -1,0 +1,50 @@
+Message-ID: <28562672.1075856586451.JavaMail.evans@thyme>
+Date: Mon, 21 Aug 2000 08:12:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	vasant.shanbhogue@enron.com, grant.masson@enron.com, 
+	zimin.lu@enron.com, tanya.tamarchenko@enron.com, 
+	amitava.dhar@enron.com, chonawee.supatgiat@enron.com, 
+	kevin.kindall@enron.com, alex.huang@enron.com, 
+	hector.campos@enron.com, sevil.yaman@enron.com, 
+	claudio.ribeiro@enron.com, joseph.hrgovcic@enron.com, 
+	wendell.licon@enron.com, naveen.andrews@enron.com, 
+	narsimha.misra@enron.com, peter.makkai@enron.com, 
+	rika.imai@enron.com, alan.chen@enron.com, tim.heizenrader@enron.com, 
+	cooper.richey@enron.com
+Subject: SAS Online Tutorial
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Vince J Kaminski, Stinson Gibner, Vasant Shanbhogue, Grant Masson, Zimin Lu, Tanya Tamarchenko, Amitava Dhar, Chonawee Supatgiat, Kevin Kindall, Alex Huang, Hector Campos, Sevil Yaman, Claudio Ribeiro, Joseph Hrgovcic, Wendell Licon, Naveen Andrews, Narsimha Misra, Peter Makkai, Rika Imai, Alan Chen, Tim Heizenrader, Cooper Richey
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi-
+
+We have access to the SAS Online Tutorial for the next 30 days. Point your 
+browser to 
+
+http://www2.sas.com/onlinetutor_v8prod/welcome.htm
+
+and use the username "enron" and password "enron" to enter.
+
+The way this product works is designed for a single user (it sets a "cookie" 
+allowing you to "resume" your place in the tutorial when you re-enter.) 
+
+Since several of us may use it, we'll need to work around this, each of us 
+remembering where we were before and recreating any sample data sets, etc 
+necessary for the lesson in progress.
+
+Clayton
+
+PS The module EIS/OLAP will be a part of our installation next month, but is 
+not currently available
+
+PPS Please remember to use your local browser to browse the SAS Online 
+Documentation. Invoking a browser on the Unix server is inefficient.
+
+

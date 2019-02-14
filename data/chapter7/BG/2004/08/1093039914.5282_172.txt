@@ -1,0 +1,21 @@
+Return-Path: <a@a.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17532 invoked by uid 115); 20 Aug 2004 08:45:34 -0000
+Received: from a@a.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.215.149.107):. 
+ Processed in 0.447887 secs); 20 Aug 2004 08:45:34 -0000
+Received: from unknown (HELO ommo.net) (81.215.149.107)
+  by churchill.factcomp.com with SMTP; 20 Aug 2004 08:45:34 -0000
+From: "a" <a@a.net>
+To: bruceg@em.ca
+Date: Fri, 20 Aug 2004 11:45:32 +0300
+Subject: a
+X-Priority: 1
+X-Mailer: Microsoft Outlook Express 5.00.2919.7000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-Qmail-Scanner-Message-ID: <109299153467217526@churchill>
+
+
+

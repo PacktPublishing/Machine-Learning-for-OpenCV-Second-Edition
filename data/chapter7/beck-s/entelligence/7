@@ -1,0 +1,100 @@
+Message-ID: <24861707.1075855870228.JavaMail.evans@thyme>
+Date: Fri, 5 May 2000 06:25:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: john.sherriff@enron.com, bryan.seyfried@enron.com
+Subject: Dun & Bradstreet Info for Credit Trading
+Cc: philippe.bibi@enron.com, sally.beck@enron.com, stuart.ffoulkes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: philippe.bibi@enron.com, sally.beck@enron.com, stuart.ffoulkes@enron.com
+X-From: Mary Solmonson
+X-To: John Sherriff, Bryan Seyfried
+X-cc: Philippe A Bibi, Sally Beck, Stuart Ffoulkes
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I have received preliminary information from D&B.  I think several 
+issues/questions have been raised that if explored, could result in a better 
+solution for the money.  
+
+Option 1
+The update frequency for our current file can be improved from quarterly to 
+monthly for a cost of $87,000 (USD) through March, 2001.
+
+Option 2
+I wasn't sure what specific data in the file you might be interested in.  If 
+you are particularly interested in the Financial Stress Score and Credit 
+Score, for example, there are multiple alternatives :
+ 
+ 2a) Keep quartlery refresh of base data (party name, etc) and refresh scores 
+that are added/changed on a monthly basis.  Cost - $1.17(USD) per 
+record.          Note that there are 575,000 records in the file currently 
+with financial and credit scores, making this potentially a very expensive 
+alternative 
+        (575,000 X 1.17=$ 672,750).
+
+ 2b) Batch or FTP updates of the financial and stress scores can only be 
+provided monthly.  D&B is working on a solution that would provide a 
+weekly         update to their customers in a batch or FTP manner, but has 
+not committed to when this will be ready.  Therefore, if more timely updates 
+than monthly                          are desired, it is also possible to 
+transactionally access records one at a time using D&B's software.  The cost 
+for this is extremely high at $10.52         (USD) per score. 
+
+Option 3
+D&B Connect Product.
+ D&B Connect is a tool set of matching software, an externally validated 
+reference file, credit and marketing information, and D&B services that 
+enables the  most effective integration of customer information and 
+third-party information with D&B information.  Only this type of process and 
+information integration  capability can facilitate and ensure accurate 
+identification, linkage and maintenance of your customer's complete 
+relationship.   In addition, D&B Connect  assures organizations of 
+referential integrity by providing an automated and electronic link to D&B so 
+that the most recent D&B information is always  transmitted to your 
+organization and updated within your local D&B Connect Reference File.  D&B 
+Connect is scalable.  
+
+ Cost Typically ranging from
+ * Customer Access Module (CAM) Batch- - $25,000
+ * CAM Online - $50,000
+ * Full Information Integrator - $350,000 + data
+
+With more specifics as to your needs, this option should perhaps be pursued.
+
+
+Questions/Issues
+
+1) D&B had questions regarding the use of their data and whether Enron 
+customers would be offered this information for a fee or free.  I explained 
+that I  did not feel the data would be offered directly to Enron customers, 
+but that it would be used to support analysis that would be available 
+externally via web  site, etc.  All pricing above is based upon this 
+understanding.  If I have not portrayed the usage correctly, it will be 
+imperative to get a better understanding  before final pricing can be 
+negotiated.
+
+2)  Are there specific data elements that you are interested in ?  
+Alternatives may vary by data element.  Financial Stress Score and Credit 
+Score reference  above were explored as an example.
+
+3)  What is timeframe for needing a solution ?
+
+4)  Financial Stress Score and Credit Score are only available on U.S. 
+companies.  A comparable measure - Global Failure Score (the liklihood of 
+default or  bankruptcy)  is available for international companies.  This 
+rating score however, is NOT currently available via a batch or FTP manner.  
+This could result  in additional cost if we wish to pursue obtaining this 
+score in a batch manner.
+
+5)  Pricing also varies whether the information is to be used for credit 
+analysis or risk management decisions versus for marketing purposes.  This is 
+probably  negotiable as the data is the same.  The thought process is that if 
+the repository is used for credit or risk decisions, D&B will see decreased 
+usage and  revenue on a transactional basis by the credit departments.
+
+ If you would like me to follow up further, please give me a call at 
+713-853-6079.
+

@@ -1,0 +1,35 @@
+Return-Path: <JavierBrandon6910@futurakylma.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 9773 invoked from network); 3 Jul 2005 04:50:53 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 03 Jul 2005 04:50:53 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 Jul 2005 04:50:53 -0000
+Received: (qmail 18104 invoked from network); 3 Jul 2005 04:50:52 -0000
+Received: from 71-8-64-159.dhcp.leds.al.charter.com (unknown [71.8.64.159])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 03 Jul 2005 04:50:47 -0000
+Received:  from hexadecimal.tarampi.com (71.8.64.159)
+	  by mediocrity-398VZ.tarampi.com with Microsoft SMTPSVC(20.991.2064.006);Sun, 03 Jul 2005 02:47:56 -0300
+Message-ID: <JSEVBX67GGH@tarampi.com>
+Reply-To: "Ulysses Long" <Rogelio3071492Honeycutt@tarampi.com>
+From: "Ulysses Long" <Rogelio3071492Honeycutt@tarampi.com>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Here is The Money we Owe You
+Date: Sun, 03 Jul 2005 04:51:56 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--4608510_8993893.3mj469"
+Content-Length: 809
+Lines: 8
+
+----4608510_8993893.3mj469
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Applicant,<p>After further review upon receiving your application your current mortgage qualifies for a 4.75 rate.<p>Your new monthly payment will be as low as $340/month for a $200,000 loan.<p>Please confirm your information in order for us to finalize your loan, or you may also apply for a new one.<br>Complete the final steps by visiting: <a href="http://www.ndbhw.com/i/LzEvaW5kZXgvamVlenkvNHBhaG5uYjVy">Approval Form</a><p>We look foward to hearing from you.<p>Thank you,<p>Ulysses Long, Account Manager<br>LPC and Associates, LLC.<p>-------------------------------------------------<p>not interested? -> http://www.ndbhw.com/1/index/jeezy/rem.php</html>
+
+----4608510_8993893.3mj469--

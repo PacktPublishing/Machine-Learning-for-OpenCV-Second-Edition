@@ -1,0 +1,43 @@
+Message-ID: <2250237.1075860978664.JavaMail.evans@thyme>
+Date: Thu, 20 Dec 2001 05:48:54 -0800 (PST)
+From: center.ets@enron.com
+To: sue.rich@enron.com, center.ets@enron.com
+Subject: Risk Acceptance in eRequest!!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: ETS Solution Center, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B502D3D9-A0AB9D3B-8625693C-5D4DD1>
+X-To: Rich, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRICH>, ETS Omaha Solution Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_ETSSOLNCTR>, Enron Everyone_FGT@ENRON <??SEnron Everyone_FGT@ENRON>, Enron Everyone_OTS@ENRON <??SEnron Everyone_OTS@ENRON>, Enron Everyone_ET&S_Houston@ENRON <??SEnron Everyone_ET&S_Houston@ENRON>
+X-cc: 
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: mlokay (Non-Privileged).pst
+
+
+
+Announcing The New ETS Categories Of Risk Acceptance In eRequest!!
+All deviations from the Corp/ETS IT standards will require appropriate business justification and can now be submitted from the eRequest system.  The following categories are available:
+?	Group IDs
+?	Local Server Admin
+?	Local Workstation Admin
+?	Mass Storage Devices
+?	Service Accounts
+?	Support Accounts
+?	Test Accounts
+?	Training Accounts
+Procedures For Obtaining Risk Acceptance Are Documented Below:
+1.	Connect to eRequest at <http://itcapps.corp.enron.com/srrs/entry/srrs.asp>.
+2.	If you have a Corp id, click on the CORP LOGON button. If you do not have a Corp id, select the NON-CORP login. You will have to input your email id or select 	SEARCH, and select your email address from a pick list.
+	Note: First time users will be prompted to set up a New Logon Profile by providing your company number, cost center, social security number, 	location, and phone number.
+3.	Select the button that represents the type of request you want to make (i.e., Update Account Access, New Account, etc.).
+4.	Confirm who the request is for; you may have to do a SEARCH to find your id. Click OK upon confirmation.
+5.	Click on the Applications icon.
+	It is very important that you select ETS for your Region. If you do not, your request may incorrectly route to Corp and will be denied.
+	(Hint:  To set your default region to ETS, click on the My Info button.  At this screen, Houston users should select ETS-Houston, Omaha users should select ETS-	Omaha, etc.)
+6.	With the Applications box blank, click SHOW ALL or enter Risk Acceptance in the Applications box and click SEARCH.
+7.	All Risk Acceptance categories are expanded under Risk Acceptance in the Applications list.  (Many of the categories have been defined to enable approval from 	Houston, Omaha, and Field offices.)  Select the category you desire and submit the request.
+
+This information is also available at <http://www.ets.enron.com/services/solution_center/QReference/erequest.asp>
+
+ETS Solution Center - Houston, at 713-345-4745
+ETS Solution Center - Omaha, at 402-398-7454

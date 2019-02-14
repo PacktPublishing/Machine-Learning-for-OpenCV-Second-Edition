@@ -1,0 +1,52 @@
+Message-ID: <30716107.1075856596967.JavaMail.evans@thyme>
+Date: Mon, 10 Jul 2000 02:25:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: john.disturnal@enron.com
+Subject: Re: Vol rollup
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: John Disturnal
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+John,
+
+We can approach this problem this way.  Basically you are asking how
+the total variance (66%)2*143 are distributed among 113 days and the last?30 days.   Assuming volatility for the first period is simga1 and that in the ?last 30 ?days is sigma2, then??(66%)2*143=sigma12*113+sigma22*30
+
+Futhermore, we can use Nov-00 implied volatility as a proxy to sigma1, then 
+we can
+calculate sigma2 which is the volatility for Dec-00 contract in the last 30 
+days.
+
+sigam2=sqrt((66%)2*143-sigma12*113)/30.
+
+Make sense ?
+
+
+Zimin
+
+
+
+
+
+
+
+John Disturnal
+07/09/2000 04:10 PM
+To: Zimin Lu/HOU/ECT@ECT
+cc:  
+Subject: Vol rollup
+
+Zimin, I am trying to understand what the near winter NG implied vols will 
+look like as they approach expiration.  For example, is it possible to infer 
+what the implied volatility of the Dec00 NG contract will look like with 30 
+days to expiry given we know current vol (66%) and term to maturity ( 143 
+days)?
+

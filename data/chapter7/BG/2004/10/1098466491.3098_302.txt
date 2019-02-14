@@ -1,0 +1,97 @@
+Return-Path: <qxzqwmbroibw@msn.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29889 invoked by uid 115); 22 Oct 2004 06:38:08 -0000
+Received: from qxzqwmbroibw@msn.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(80.228.83.49):. 
+ Processed in 0.342484 secs); 22 Oct 2004 06:38:08 -0000
+Received: from dynadsl-080-228-83-049.ewetel.net (80.228.83.49)
+  by churchill.factcomp.com with SMTP; 22 Oct 2004 06:38:07 -0000
+Received: from 32.227.230.116 by 80.228.83.49; Fri, 22 Oct 2004 10:13:42 +0300
+Message-ID: <ZAFRKQLOQTTRGTSUYYVNLIDST@msn.com>
+From: "Karen Hooper" <qxzqwmbroibw@msn.com>
+Reply-To: "Karen Hooper" <qxzqwmbroibw@msn.com>
+To: bait@em.ca
+Subject: Online Application Available
+Date: Fri, 22 Oct 2004 11:12:42 +0400
+X-Mailer: AOL 6.0 for Windows US sub 975
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--844607202286064881"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-IP:46.188.168.200
+----844607202286064881
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#000000">
+<table width=3D"351" border=3D"2" cellspacing=3D"5" cellpadding=3D"5" bord=
+ercolor=3D"#000066">
+  <tr> 
+    <td bgcolor=3D"#FFFFCC" width=3D"356">
+      <div align=3D"center"><font size=3D"4" face=3D"Arial, Helvetica, san=
+s-serif"><b><font color=3D"#990000">WANT 
+        BANKS TO <br>
+        COMPETE OVER YOU?</font></b></font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor=3D"#66CCCC" width=3D"356" bordercolor=3D"#333333"> 
+      <div align=3D"center"><font size=3D"4" face=3D"Arial, Helvetica, san=
+s-serif"><b><font color=3D"#990000" size=3D"3"><i><font color=3D"#000066">=
+30 
+        Year Fixed Rate Trend!</font></i><br>
+        <font size=3D"4" color=3D"#333333">LOWEST RATES IN 40 YEARS</font>=
+</font></b></font><br>
+      </div>
+      <ul>
+        <li><b><font face=3D"Arial, Helvetica, sans-serif">Free, No Obliga=
+tion!</font></b></li>
+        <li><font face=3D"Arial, Helvetica, sans-serif" color=3D"#CC0000">=
+<b><font color=3D"#FFFFFF">Fast, 
+          Professional Service!</font></b></font></li>
+        <li><font face=3D"Arial, Helvetica, sans-serif"><b>Approval in as =
+little 
+          as 24 Hours!</b></font></li>
+        <li><font face=3D"Arial, Helvetica, sans-serif"><b><font color=3D"=
+#FFFFFF">Our 
+          motgage lenders compete for your business</font></b></font></li>=
+
+      </ul>
+      <table width=3D"253" border=3D"1" cellspacing=3D"0" cellpadding=3D"5=
+" align=3D"center" bordercolor=3D"#666666" bgcolor=3D"#000066">
+        <tr> 
+          <td width=3D"239"> 
+            <div align=3D"center"><font color=3D"#FFFFFF"><b><font face=3D=
+"Arial, Helvetica, sans-serif" size=3D"4" color=3D"#CCCCCC"><a href=3D"htt=
+p://www.getextracash.biz/APPLICATION/application.htm" target=3D"_blank"><f=
+ont color=3D"#FFFFFF">APPLY 
+              HERE</font></a></font></b></font></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To be removed from out high quality promotions please <a href=3D"http:/=
+/www.getextracash.biz/remove" target=3D"_self">click 
+  here</a></p>
+</body>
+</html>
+
+----844607202286064881--
+

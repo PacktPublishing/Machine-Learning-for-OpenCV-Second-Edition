@@ -1,0 +1,82 @@
+Return-Path: <skdzie@worldnet.att.net>
+Received: (fqmail 32456 invoked from network); 02 Jan 2005 03:53:59 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Jan 2005 03:53:59 -0000
+Received: (qmail 13088 invoked from network); 2 Jan 2005 03:53:59 -0000
+Received: from 222.47.62.219 ([222.47.62.219])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 02 Jan 2005 03:53:59 -0000
+Return-path: <subscribe@awayofwellness.com>
+Received: from 236.95.152.180 by ; Sun, 02 Jan 2005 22:46:16 +0400
+Message-ID: <HTVPOEYOGKOFWOATORPG@prodigy.com>
+From: "Ross" <eymcnjhyxggi@prodigy.com>
+Reply-To: "Ross" <wxtlevwu@prodigy.com>
+To: webmaster@ezmlm.org
+Subject: Server for webmaster@ezmlm.org
+Date: Sun, 02 Jan 2005 20:45:16 +0200
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--499756883055274695"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Return-Path: subscribe@awayofwellness.com
+----499756883055274695
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 4.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<title>Server</title>
+</head>
+
+<body>
+
+<p style=3D"MARGIN-LEFT: 0.5in"><font face=3D"Arial" size=3D"2"><br>
+Stable offshore resources to&nbsp;promote your services/products:</font></=
+p>
+
+<p style=3D"MARGIN-LEFT: 0.5in">
+<b><font face=3D"Arial" size=3D"2">-&nbsp; Mailing Dedicated Server<br>
+-&nbsp; Offshore web Hosting</font></b></p>
+<p style=3D"MARGIN-LEFT: 0.5in"><font face=3D"Arial"><b>
+<font face=3D"Arial" size=3D"2">
+-&nbsp; Custom-built E-mail Marketing Solutions
+<br>
+</font></b></font></p>
+<p style=3D"MARGIN-LEFT: 0.5in"><a href=3D"http://www.2965.com/Bullet-Proo=
+f.asp"><font face=3D"Arial" size=3D"2">More 
+Information</font></a></p>
+
+<p style=3D"MARGIN-LEFT: 0.5in"><font size=3D"2" face=3D"Arial">Dont reply=
+ to this e-mail. Please kindly contact us
+by&nbsp;<a href=3D"mailto:sales@izbb.com;sales@izbz.com"><br>
+S</a><a href=3D"mailto:sales@izbb.com;sales@izbz.com">sales@izbz.com&nbsp;=
+&nbsp;
+or&nbsp;&nbsp; sales@izbb.com<br>
+</a><br>
+<br>
+Jane<br>
+Sales Dept<br>
+ICQ: 3396 16524<br>
+<br>
+**************************************************************************=
+**************<br>
+Please click to away:&nbsp; <a href=3D"mailto:Jon@yahoo.com?subject=3Doff"=
+>ForOur@Hotmail.com?subject=3Dwebmaster@ezmlm.org</a><br>
+**************************************************************************=
+**************</font></p>
+
+</body>
+
+</html>
+
+
+----499756883055274695--
+

@@ -1,0 +1,64 @@
+Message-ID: <22334134.1075854127158.JavaMail.evans@thyme>
+Date: Tue, 21 Mar 2000 01:32:00 -0800 (PST)
+From: charlotte.hawkins@enron.com
+To: lauri.allen@enron.com
+Subject: Re: PG&E Texoma Volumes
+Cc: robert.lloyd@enron.com, tom.acton@enron.com, daren.farmer@enron.com, 
+	pat.clynes@enron.com, bryan.hull@enron.com, gary.hanks@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.lloyd@enron.com, tom.acton@enron.com, daren.farmer@enron.com, 
+	pat.clynes@enron.com, bryan.hull@enron.com, gary.hanks@enron.com
+X-From: Charlotte Hawkins
+X-To: Lauri A Allen
+X-cc: Robert E Lloyd, Tom Acton, Daren J Farmer, Pat Clynes, Bryan Hull, Gary A Hanks
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Daren and Lauri:
+
+We do have a problem with some of our mirrored meters.  When MIPS receives an 
+"incomplete" from the parent meter it sends a -0- to POPS.  Yes, this is a 
+big problem.  Our POPS team (Romeo D'Souza) has identified this problem and 
+notified MIPS.  However, he was told this was not a priority item.   In the 
+mean time we are overriding the volumes in POPS with the estimated volumes.
+
+This particular meter was correct last night, the 14th rolled last night from 
+MIPS and overrode the BAV with a -0- from day 14 forward.
+
+This was corrected this morning and the meter re-allocated.
+
+Thanks,
+
+Charlotte
+
+
+
+
+
+Lauri A Allen
+03/21/2000 09:04 AM
+To: Robert E Lloyd/HOU/ECT@ECT, Tom Acton/Corp/Enron@ENRON, Charlotte 
+Hawkins/HOU/ECT@ECT
+cc: Daren J Farmer/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Bryan 
+Hull/HOU/ECT@ECT, Gary A Hanks/HOU/ECT@ECT 
+Subject: PG&E Texoma Volumes
+
+In reviewing some of the imbalance numbers, I discovered that Valero Texoma 
+(#71) BAV volumes have not fed into POPS since 3/14 causing an out of balance 
+at the meter in excess of 500,000mm month to date.  The more critical part of 
+this problem, however, is that POPS has fed 0 volumes back to Sitara on some 
+of the HPLC deals.  This means that these purchase volumes (expenses) have 
+not been picked up in Tom's P&L and are, instead, sitting in UA4.  To the 
+extent that the purchase prices vary from the UA4 value, the P&L may take a 
+hit when these actual volumes flow through.
+
+I realize that Kim is out and that you guys are stretched thin, however, a 
+problem of this magnitude needs to be addressed as soon as it's discovered.  
+Someone needs to be overriding the 0 volumes so that Sitara is receiving 
+correct information and the P&L is kept as accurate as possible.
+
+Please give me a call if you have any questions.
+

@@ -1,0 +1,36 @@
+Return-Path: <plus01@hotmail.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 14301 invoked by uid 115); 14 Oct 2004 11:16:32 -0000
+Received: from plus01@hotmail.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.196.251.106):. 
+ Processed in 0.359551 secs); 14 Oct 2004 11:16:32 -0000
+Received: from unknown (HELO hotmail700.com) (211.196.251.106)
+  by churchill.factcomp.com with SMTP; 14 Oct 2004 11:16:32 -0000
+From: =?iso-8859-1?q?=C7=C3=B7=AF=BD=BA_<plus01@hotmail.net>?=
+To: bruceg@em.ca
+Reply-To: plus01@hotmail.net
+Subject: =?iso-8859-1?q?[=B1=DD=C0=B6]_'=C0=DA=B1=DD'_=B0=B0=C0=CC_=B0=ED=B9=CE=C7=CF=B0=DA=BD=C0=B4=CF=B4=D9.!_?=
+Date: Thu, 14 Oct 2004 20:12:20 +0900
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="dd2fa50c-4b5f-49d4-8dcd-93c0660ed23c"
+X-Qmail-Scanner-Message-ID: <109775259267214294@churchill>
+
+
+This is a multi-part message in MIME format
+--dd2fa50c-4b5f-49d4-8dcd-93c0660ed23c
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><a href=3D"http://222.234.2.2:2343/pl_13.asp"><img src=3D=
+"http://222.234.2.2:2343/images/mpl11.jpg" border=3D0></a></td>
+  </tr>
+  <tr>
+    <td><a href=3D"http://222.234.2.2:2343/pl_newno.asp"><img src=3D=
+"http://222.234.2.2:2343/images/mpl11.gif" border=3D0></a></td>
+  </tr>
+</table>
+</table>  
+--dd2fa50c-4b5f-49d4-8dcd-93c0660ed23c--
+

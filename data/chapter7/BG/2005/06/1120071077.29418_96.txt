@@ -1,0 +1,28 @@
+Return-Path: <11odmimi@nifty.net>
+Delivered-To: em-ca-bait-mentally@em.ca
+Received: (qmail 6167 invoked by uid 115); 29 Jun 2005 17:11:12 -0000
+Received: from 11odmimi@nifty.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(221.214.192.250):. 
+ Processed in 1.093373 secs); 29 Jun 2005 17:11:12 -0000
+Received: from unknown (HELO v5la5x5t) (221.214.192.250)
+  by churchill.factcomp.com with SMTP; 29 Jun 2005 17:10:58 -0000
+Subject: =?ISO-2202-JP?Q?Re:?=
+Sender: "=?ISO-2202-JP?Q?=93=87=93c?=" <11odmimi@nifty.net>
+From: "=?ISO-2202-JP?Q?=93=87=93c?=" <11odmimi@nifty.net>
+Date: Thu, 30 Jun 2005 02:11:54 +0900
+To: "=?ISO-2202-JP?Q?bait-mentally?=" <bait-mentally@em.ca>
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Mailer: =?ISO-2202-JP?Q?ypm1fs8juhv6futiszfcstn6gslfrob0hsr5ennarsbq8?=
+Content-Type: text/plain;
+	charset="ISO-2202-JP"
+X-Qmail-Scanner-Message-ID: <11200650716726066@churchill>
+
+YmFpdC1tZW50YWxseZXUjpaCoILogqqCxig9Xl9ePSkNCoKggUGCv4LIgt2C
+yYKxguqCqoy+gsGCxIK9guKCwoK+guaBYIGrDQpodHRwOi8vd3d3Lm1vbmtl
+eS1kLmNvbS8NCoKxgrGCyY3agsGCxILpgqmC55P8gsGCxJBpgvGCxYLdgsSB
+mQ0KlaqCqYLngsiCoo6WgqCCwYK9gueLQ4x5gsmVt4KigsSCpQ0K
+
+

@@ -1,0 +1,43 @@
+Return-Path: <wazfciffsfofl@incamail.com>
+Received: (qmail 1841 invoked from network); 28 Jan 2005 19:28:29 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 28 Jan 2005 19:28:29 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Jan 2005 19:28:29 -0000
+Received: (qmail 20344 invoked from network); 28 Jan 2005 19:28:28 -0000
+Received: from pcp09897257pcs.ewndsr01.nj.comcast.net (unknown [68.83.181.64])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 28 Jan 2005 19:28:28 -0000
+X-Message-Info: MFV/uzv+21+dkh/SK+17/781949218407
+Received: from smtp-bergen.ellsworth.wazfciffsfofl@incamail.com ([68.83.181.64]) by d232-isr4.wazfciffsfofl@incamail.com with Microsoft SMTPSVC(5.0.1494.4884);
+	 Fri, 28 Jan 2005 21:21:04 +0200
+Received: from cranberry645.cuff.wazfciffsfofl@incamail.com (shrugging554.wazfciffsfofl@incamail.com [68.83.181.64])
+	by smtp-sorrow.ghetto.wazfciffsfofl@incamail.com (Postfix) with SMTP id 5E1JY4Q
+	for <cvs@bruce-guenter.dyndns.org>; Fri, 28 Jan 2005 13:20:04 -0600
+Received: from smtp-circumflex.linotype.wazfciffsfofl@incamail.com ([68.83.181.64]) by zp99-t85.wazfciffsfofl@incamail.com with Microsoft SMTPSVC(5.0.1983.9220);
+	 Fri, 28 Jan 2005 13:17:04 -0600
+X-Message-Info: SKKFT+%ND_LC_CHAR[1-3]3+oxx+WGV+87/71864040152671
+Received: from incipient.wazfciffsfofl@incamail.com ([148.158.213.80]) by cosgrove.wazfciffsfofl@incamail.com with MailEnable ESMTP; Fri, 28 Jan 2005 14:18:04 -0500
+Date: Fri, 28 Jan 2005 18:23:04 -0100
+Message-Id: <158248701010.00623@wazfciffsfofl@incamail.com>
+From: Sarah Wills <wazfciffsfofl@incamail.com>
+To: Cvs <cvs@bruce-guenter.dyndns.org>
+Subject: Get Your Free Viagra
+MIME-Version: 1.0 (produced by signboardheadstrong 6.5)
+Content-Type: multipart/alternative;
+	boundary="--7767007272370069"
+
+----7767007272370069
+Content-Type: text/plain;
+	charset="iso-4785-5"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: siegfried compressible colosseum
+
+Always wanted to try the drug the world has been talking about?
+
+Well now is your chance to try it for FREE!!!
+
+Get FREE Viagra here: http://www.rxonlinesale.com/free/?bonsay=20
+
+----7767007272370069--

@@ -1,0 +1,45 @@
+Message-ID: <7048731.1075856051637.JavaMail.evans@thyme>
+Date: Tue, 5 Sep 2000 04:59:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com, shona.wilson@enron.com
+Subject: CASH FLOWS FROM EI-GNS-GAS-PRC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price, Shona Wilson
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, Brent, Shona,
+This morning we had two problems:
+One related to EIs numbers and the other relates to Portland.  Clara talked 
+to Susan regarging International's problem.  Susan said they should have 
+caught the incorrect commodity curve load but did not.  Clara is forwarding 
+an e-mail regarding Portland.
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/05/2000 11:46 
+AM ---------------------------
+
+
+Clara Carrington
+09/05/2000 11:23 AM
+To: Sheila Glover/HOU/ECT@ECT
+cc: Joyce Kuo/NA/Enron@Enron, Scott Mills/HOU/ECT@ECT, Susan 
+Smith/HOU/ECT@ECT 
+Subject: CASH FLOWS FROM EI-GNS-GAS-PRC
+
+Infinity showed a $19 MM notional curve shift change in the EI-GNS-GAS-PRC 
+commodity book for 9/1/00.  This change caused a (10,200) PV01 affect on the 
+trader's sensitivity report.  After talking with Susan in EI, it was brought 
+to our attention that the Bolivian curve was loaded incorrectly on Friday, 
+due to a change in EI's curve upload process.   This change resulted in the 
+Bolivian curve loading throughout 2012, when it actually goes out to 2019.  
+The incomplete curve caused  infinity to get bad cash flows.  
+
+As a result, we had to re-do PDH reports this morning.  Final reports were 
+given to traders at 9:00 am.
+
+Clara

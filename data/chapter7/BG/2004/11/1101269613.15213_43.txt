@@ -1,0 +1,51 @@
+Return-Path: <gennis@fusiongt.com>
+Delivered-To: em-ca-bait-proverbs@em.ca
+Received: (qmail 10477 invoked by uid 115); 24 Nov 2004 04:00:29 -0000
+Received: from gennis@fusiongt.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(162.39.57.168):. 
+ Processed in 0.223369 secs); 24 Nov 2004 04:00:29 -0000
+Received: from h168.57.39.162.ip.alltel.net (162.39.57.168)
+  by churchill.factcomp.com with SMTP; 24 Nov 2004 04:00:26 -0000
+Return-Path: <gennis@fusiongt.com>
+Received: from greenery.gmail.com ([51.32.104.47]:85899 "EHLO petroglyph.gmail.com")
+	by avas-mx75.blackdiamondmail.com with ESMTP id S814901AbUJINqX;
+	Tue, 23 Nov 2004 22:18:06 -0600
+Original-Recipient: rfc822; gennis@fusiongt.com
+Date: Wed, 24 Nov 2004 00:10:06 -0400
+Message-Id: <6789938394.i93ErrTw00005@uraniadiscern.biz>
+From: "Millicent H. Caudill " <gennis@fusiongt.com>
+To: bait@em.ca, bait-passover@em.ca, bait-precedes@em.ca, bait-proverbs@em.ca, bait-reckless@em.ca
+X-Sender: gennis@fusiongt.com
+X-Originating-IP: [180.91.104.252]
+X-Originating-Email: [gennis@fusiongt.com]
+Subject:  Did you get my message??
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Message-flag: Authentic Sender, Hash: YmGmCcHg
+Content-Disposition: inline
+
+<HTML>
+<BODY bgColor=#ffffff>
+<DIV align=center><FONT face="Arial Black">If you are paying more than 3.6% on 
+your mortgage, </FONT></DIV>
+<DIV align=center><FONT face="Arial Black">we can slash your monthly 
+payment!</FONT></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>(must have owned your home at 
+least 24 months to qualify for this special program)</FONT></STRONG></DIV>
+<DIV><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>GUARANTEED LOWEST RATES ON THE 
+PLANET</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT></DIV>
+<DIV align=center><STRONG><FONT face=Arial>CREDIT REPORT NOT 
+NEEDED<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>Start </FONT></STRONG><A 
+href="http://mediumspringgreen.your-loanz.com/p3/e7.php?n5n=51" target=_blank><STRONG><FONT 
+face=Arial>here</FONT></STRONG></A><STRONG><FONT face=Arial> for 
+an&nbsp;insta-quote and<BR>monthly savings calculation<BR></FONT></STRONG></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>&nbsp;No other way to so quickly 
+and easily<BR>lower your monthly payments!</FONT></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV></BODY></HTML>
+

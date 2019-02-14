@@ -1,0 +1,59 @@
+Message-ID: <25357250.1075856591510.JavaMail.evans@thyme>
+Date: Mon, 30 Oct 2000 05:06:00 -0800 (PST)
+From: marc.roche@enron.com
+To: kevin.kindall@enron.com
+Subject: Re: JCC
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, doug.leach@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, doug.leach@enron.com
+X-From: Marc De La Roche
+X-To: Kevin Kindall
+X-cc: Vince J Kaminski, Stinson Gibner, Doug Leach
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Kevin,
+
+Thanks for the heads-up. I'm doing face-time with a customer on Wednesday, 
+but I'm in all day tomorrow, Thursday and Friday (I've a got a deadline to 
+meet this PM). When would it be convenient to meet, and could we do it early 
+in the morning so as to be able to conference Ansguman Srivastav (Enron 
+India) into the meeting?
+
+Regards,
+
+Marc
+
+
+
+
+Kevin Kindall@ENRON
+10/30/2000 10:55 AM
+To: Marc De La Roche/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT 
+Subject: JCC
+
+ Good morning.  I apologize for the response delay.  I've gone back through 
+the analysis that I did back in April, and have thrown around some ideas with 
+Vince and Stinson.  The issue may be summarized as follows.
+
+ The hedge relationship was derived using JCC and prompt Brent, and is valid 
+for JCC and prompt Brent.  No problems here.  However, it will not be valid 
+for points far out on the forward curve.  Intuitively, this hedge 
+relationship will approach one as we move far out on the curve, but since 
+there is no data, I can not statistically determine this.  One can imagine a 
+term structure of heding ratios that start at 0.67 and move to 1.0, so that 
+the back end of the curves would move together, but how fast it converges to 
+one is anyone's guess.
+
+ If there is a way of determining the historical JCC forward curve, then the 
+hedge relationships may be estimated.  However, I have been unable to 
+determine a rigorous approach to building the JCC curve.  
+
+ I can explain this far better in person, and would like to talk as soon as 
+possible at your convenience.  
+-Kevin Kindall
+

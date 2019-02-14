@@ -1,0 +1,118 @@
+Message-ID: <2738100.1075855928575.JavaMail.evans@thyme>
+Date: Thu, 26 Oct 2000 04:06:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: Livelink
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/26/2000 
+11:04 AM ---------------------------
+   
+	
+	
+	From:  Joel Henenberg @ ENRON                           10/26/2000 10:39 AM
+	
+
+To: Ryan Orsak/Corp/Enron@Enron
+cc: Carolyn Gilley/HOU/ECT@ECT, kbaldwin@opentext.com (bcc: Mary 
+Solmonson/HOU/ECT)
+Subject: Re: Livelink  
+
+Ryan, thank you for your timely response.   It is a concern of mine that our 
+current test sytems does not represent the current production system.  I feel 
+we run a large risk by not adequately testing a product and all associated 
+processes prior to moving it into production.  My concerns are based on the 
+following: 
+
+The volume of data that ENA puts into the Livelink system daily, and 
+ultimately into iRIMS, exceeds any load testing that OpenText has done. 
+ Due to our volume, without testing it is unknown if the performance will be 
+adequate.  
+There is an inherent risk to putting such a heavy volume application into 
+production without proper load testing.
+Being the test database server is not the same as the production database 
+server, how will we ever know if the application will work?  More so, how 
+will we be able to test the restore procedures?
+iRIMS testing will include custom modules for iRIMS/Livelink migration.  This 
+will require testing of "adding classifications" to  massive amounts of 
+LiveLink folders.  The current volume is somewhere around 500,000 folders.  
+It is my understanding the current test system can not handle this volume.  
+The implementation of iRIMS effects the Livelink repository which needs to be 
+tested as well.  There is some concern as to; can the current test system 
+accommodate this.  
+
+The question of having another Unix 4500 which will give us an identical test 
+database or something smaller that might accomplish the same end result is 
+one I can not answer.  However,  I would look to you and your technical team 
+for recommendations in this matter and would agree to serving on the 
+evaluation team.
+
+If you have any questions please feel free to call me at 58841 and as usual, 
+thank you for your help and support on this project.
+
+Regards,
+
+
+Joel
+
+
+
+
+Ryan Orsak
+10/25/2000 05:23 PM
+To: Joel Henenberg/NA/Enron@Enron
+cc: Carolyn Gilley/HOU/ECT@ECT, kbaldwin@opentext.com 
+
+Subject: Re: Livelink  
+
+Hi Joel,
+ The project plan at this point is very preliminary.  There will be a revised 
+(more accurate) plan by the end of next week when OTPS and EDMS have time to 
+meet with Carolyn and Barbara.  This is scheduled for next Wed.
+
+This is complete;
+Server for iRIMS Beta 9.0 is at Ardmore
+iRIMS Test has been created (Oracle)
+Test Data from EDMS Test is being copied at this time
+
+
+Do you want me to purchase another Unix 4500 for Livelink (300K) that will 
+give us an identical test database or should I look at getting a smaller less 
+expensive Unix box?  Please inform and I will move ahead.
+
+Thanks in advance,
+
+rlo
+
+
+
+	Joel Henenberg
+	10/25/2000 05:00 PM
+		 
+		 To: Ryan Orsak/Corp/Enron@Enron
+		 cc: Carolyn Gilley/HOU/ECT@ECT
+		 Subject: Livelink
+
+Ryan, being there was not a meeting this past Monday, can I please have a 
+status on where we are on the project.  I am particularly interested in where 
+we stand against the plan
+
+
+Thanks
+
+
+Joel
+
+
+
+
+

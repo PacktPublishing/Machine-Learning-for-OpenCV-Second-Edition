@@ -1,0 +1,38 @@
+Return-Path: <PWCCVLFNSG@hotmail.com>
+Received: (fqmail 4520 invoked from network); 08 Aug 2004 01:22:09 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 08 Aug 2004 01:22:09 -0000
+Received: (qmail 26684 invoked from network); 8 Aug 2004 01:22:05 -0000
+Received: from 200-140-065-103.gnace7004.dsl.brasiltelecom.net.br (200-140-065-103.gnace7004.dsl.brasiltelecom.net.br [200.140.65.103])
+  by mx06.futurequest.net ([69.5.6.177])
+  with SMTP via TCP; 08 Aug 2004 01:22:05 -0000
+X-Message-Info: 09ZEW55WTqxilL300jdwASMiG653GQ276twjZuaZDN912
+Received: from dns295msn.com ([135.57.200.16]) by jjv7-0019.PWCCVLFNSG@hotmail.com with Microsoft SMTPSVC(5.0.2195.8659);
+	 Thu, 07 Aug 2003 22:12:02 -0700
+Received: (from attrition@localhost)
+	by cambrian1.PWCCVLFNSG@hotmail.com (8.81.7/2.58.0) id s825OLfE89096;
+	Fri, 08 Aug 2003 06:18:02 +0100
+Message-ID: <391851940209.73114@PWCCVLFNSG@hotmail.com>
+Reply-To: "Robert Savage" <PWCCVLFNSG@hotmail.com>
+From: "Robert Savage" <PWCCVLFNSG@hotmail.com>
+To: "Bugs" <bugs@ezmlm.org>
+Subject: I gained 3 inches coattail
+Date: Fri, 08 Aug 2003 04:18:02 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--28942673648511689217"
+
+----28942673648511689217
+Content-Type: text/html;
+	charset="iso-1375-8"
+Content-Transfer-Encoding: quoted-printable
+
+Try our new extender for mans !
+
+<p>Try <a href=3D"http://www.fastsize.com/?rid=3D1706">FastSize</a></p>
+<p><font size=3D"1">Click here to get </font>
+<a href=3D"http://damngreatwebsites1.com/99297/remove.php"><font size=3D"1=
+">removed</font></a></p>
+
+----28942673648511689217--

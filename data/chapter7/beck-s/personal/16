@@ -1,0 +1,63 @@
+Message-ID: <27064665.1075849857220.JavaMail.evans@thyme>
+Date: Tue, 6 Feb 2001 07:43:00 -0800 (PST)
+From: darcilla@viviance.com
+To: cwhite@viviance.com, sally.beck@enron.com, sjaiswal@viviance.com, 
+	sjaiswal@viviance.com, ealto@viviance.com, mhoy@viviance.com, 
+	mmcphee@viviance.com, jhokkanen@viviance.com
+Subject: RE: path names, file extentions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Daniel Arcilla" <darcilla@viviance.com>
+X-To: "Cindy White" <cwhite@viviance.com>, "Sally" <sally.beck@enron.com>, "sonia" <sjaiswal@viviance.com>, "sonia" <sjaiswal@viviance.com>, "emrul" <ealto@viviance.com>, "Mike" <mhoy@viviance.com>, "mollie" <mmcphee@viviance.com>, <jhokkanen@viviance.com>
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Everything sounds good, but can we use .html instead? .htm doesn't work on
+Linux web servers, and it's best to be universal, in case they want to
+deploy in diff. contexts.
+
+-Daniel
+
+-----Original Message-----
+From: Cindy White [mailto:cwhite@viviance.com]
+Sent: Tuesday, February 06, 2001 2:52 PM
+To: Sally; sonia; sonia; emrul; Mike; darcilla@viviance.com; mollie;
+jhokkanen@viviance.com
+Subject: path names, file extentions
+
+
+So that we can avoid last minute "oh my gosh we've used different file
+structures/naming convention--quick we need to change all of these paths in
+the next ten minutes", can we do the following?
+
+All html files will be considered as in the root directory and will use the
+extension of ".htm"
+
+Subdirectories/folders:
+
+images--images for Sales Guide and Intro and any image that is used
+throughout the deliverable, such as logos, navigation buttons, etc.  So an
+example would  be: images/dell_logo.gif
+
+scripts--one script folder for all of the Coursebuilder scripts used in the
+deliverable
+
+timer--for the timer interaction that Daniel is building
+
+images/mollie--for images specific to Mollie pages (this way if we have more
+than one drag/drop we won't have to rename any Coursebuilder created
+images/targets, etc.
+
+images/warren
+
+images/sally
+
+images/david
+
+Will this work for everyone?  If not, please let me know and I will send out
+modifications.
+
+Cindy

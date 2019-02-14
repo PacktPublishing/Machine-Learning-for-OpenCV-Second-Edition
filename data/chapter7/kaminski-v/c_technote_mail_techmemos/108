@@ -1,0 +1,90 @@
+Message-ID: <7281044.1075856596307.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 10:06:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: andrew.lewis@enron.com
+Subject: transport model
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, 
+	colleen.sullivan@enron.com, greg.couch@enron.com, 
+	john.griffith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, 
+	colleen.sullivan@enron.com, greg.couch@enron.com, 
+	john.griffith@enron.com
+X-From: Zimin Lu
+X-To: Andrew H Lewis
+X-cc: Stinson Gibner, Vince J Kaminski, Colleen Sullivan, Greg Couch, John Griffith
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Andy,
+
+The scale effect in the transport model can be explained. 
+
+I use a European option to do the illustration.
+
+I raise the underlying and strike price by the same amount, use the fuel 
+percentage to adjust the strike.
+The net result is the intrinsic value decreases as the level goes up.
+
+If the fuel percentage is not very high, the option premium actually 
+increases with the level, although the
+intrinsic value decreases.  
+
+If the fuel percentage is very high (>8%), then we see a decreasing option 
+price.
+
+In the transport deal, fuel change is often below 5%, so you will not see a 
+decreasing spread option price
+when NYMEX moves up.  So I think the transport model still does what it 
+should do.
+
+
+Zimin
+
+
+In the following exmaple, I used r=6%, vol=20%, T=100days, see spreadsheet 
+for details. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------- Forwarded by Zimin Lu/HOU/ECT on 10/20/2000 01:24 PM 
+---------------------------
+
+
+Zimin Lu
+10/20/2000 10:45 AM
+To: Andrew H Lewis/HOU/ECT@ECT
+cc: Colleen Sullivan/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT 
+Subject: level effect in transport
+
+
+
+Andy,
+
+The following spread sheet domenstrates the leve effect in transport 
+valuation.
+
+I add an "NYMEX add-on" to both delivery and receipt price curve before fuel
+adjustment, keep everything else the same.  The transport value (PV of the 
+spread options) 
+increases when NYMEX add-on increases.  
+
+I can visit you at your desk if you have further question.
+
+Zimin
+
+

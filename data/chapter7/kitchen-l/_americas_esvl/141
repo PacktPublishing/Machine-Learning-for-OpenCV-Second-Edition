@@ -1,0 +1,197 @@
+Message-ID: <18346673.1075840831031.JavaMail.evans@thyme>
+Date: Wed, 2 Jan 2002 13:50:21 -0800 (PST)
+From: j..yanowski@enron.com
+To: beth.perlman@enron.com, jeff.johnson@enron.com, steve.stock@enron.com, 
+	bob.mcauliffe@enron.com
+Subject: IT & Back Office Service Agreements
+Cc: jay.webb@enron.com, richard.burchfield@enron.com, sally.beck@enron.com, 
+	greg.piper@enron.com, louise.kitchen@enron.com, 
+	peggy.hedstrom@enron.com, c..koehler@enron.com, 
+	brian.redmond@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: jay.webb@enron.com, richard.burchfield@enron.com, sally.beck@enron.com, 
+	greg.piper@enron.com, louise.kitchen@enron.com, 
+	peggy.hedstrom@enron.com, c..koehler@enron.com, 
+	brian.redmond@enron.com
+X-From: Yanowski, Tommy J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TYANOWS>
+X-To: Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Johnson, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jjohnso3>, Stock, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, McAuliffe, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmcauli>
+X-cc: Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwebb>, Burchfield, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rburchf>, Beck, Sally </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbeck>, Piper, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gpiper>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Hedstrom, Peggy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Phedstr>, Koehler, Anne C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Akoehle>, Redmond, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bredmon>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Enron North America and Enron Canada are still providing IT and Back Office=
+ Services to several parties.  Beth has expressed some concerns about the e=
+state's ability to be able to support  a production trading environment onc=
+e a split of applications and hardware is made between NETCO and the estate=
+.  Given this we need to make some decisions as to how to best handle these=
+ services agreements.  Here are some suggestions:
+
+Peggy Hedstrom, in Calgary would like to assign the Enron Canada Master Ser=
+vices agreements to NETCO and continue to service those via that entity.
+
+Bridgeline, which is a JV in which ENA owns a 40% interest, currently has n=
+o way that they can support themselves.  They are totally dependent on Enro=
+n for everything from email, internet, network services and office applicat=
+ions as well as trading, risk and back office applications.  If there are c=
+oncerns about the estate's ability to support Bridgeline then it may be in =
+Enron's best interest to assign this agreement to NETCO.
+
+AEP/HPL is more of a stand alone operation.  They have their own infrastruc=
+ture in place and currently provide for their own email and office support =
+services.  They have also brought up with their own version of our SCADA sy=
+stem and are in the process of trying to bring up their own version of our =
+Pipeline Operations system.  If we sell them our version of PGAS to support=
+ their measurement operations they will then try to tie these applications =
+into their own Trade Blotter, Open Link Financials and Altra.  Their goal w=
+as to try and have all of this in place by sometime in June of this year.  =
+Given all of the Commercial conflicts with AEP regarding the sale of HPL it=
+ may make the most sense to leave this agreement with the estate and sugges=
+t that AEP try to be stand alone ASAP.  That way if the estate defaults on =
+the service agreement then they can at least manually rekey information fro=
+m one system to another until they have put in their own integration betwee=
+n the applications listed above.
+
+Please let me know if you have any comments or if it makes sense to put tog=
+ether a meeting to discuss the issues of Service Agreements.
+
+ =20
+
+Tommy J Yanowski
+Sr. Director - Enron Net Works
+Work # 713.853.6858
+Cell # 713.539.7094
+
+
+ -----Original Message-----
+From: =09Perlman, Beth =20
+Sent:=09Wednesday, December 19, 2001 3:54 PM
+To:=09Johnson, Jeff; Stock, Steve; McAuliffe, Bob
+Cc:=09Webb, Jay; Yanowski, Tommy J.; Burchfield, Richard
+Subject:=09RE: Integration Test Planning / Coordination Mtg Summary
+
+The AEP and Bridgeline deals must be investigated.  There is no way the est=
+ate can support a production environment.  I will be reviewing the contract=
+s to determine our obligations and possible alternatives.
+
+Beth
+
+ -----Original Message-----
+From: =09Johnson, Jeff =20
+Sent:=09Wednesday, December 19, 2001 2:23 PM
+To:=09Stock, Steve; McAuliffe, Bob; Greig, Iain; Nommensen, Dave; Ward, Bob=
+; Sanvido, Terry; Wei, Zhiyong; Nat, Steve; Harmon, Kenneth M.; Warner, Joh=
+n; Saleem, Aftab; Smith, Regan M.; Hillier, Bob
+Cc:=09Webb, Jay; Perlman, Beth
+Subject:=09Integration Test Planning / Coordination Mtg Summary
+
+
+
+Key Planning Assumptions
+1) Jan 20 go live
+2) New Co Conversions must be completed and tested by application teams by =
+Jan 15. This assumes all major production data setup - users, rights, books=
+, global data - is completed and tested on a per application basis. Some co=
+de changes may still be in process but integration testing can begin to ens=
+ure the applications still talk to each other.=20
+3) Integration test planning focus will be to run representative transactio=
+ns from EOL to SAP through all core trading applications to ensure that app=
+lications and interfaces still work. We will not be testing functional perm=
+utations, data conditions, validation or exceptions to any significant degr=
+ee.=20
+4) Each application conversion team must test their changes before approvin=
+g their changes for integration testing. We are operating from the premise =
+that data, infrastructure and code changes have been tested at a applicatio=
+n system level before the enterprise integration test starts.=20
+4) All systems will be physically split (even Unify at this point).=20
+5) Integration test team will develop and execute the test plan for both Es=
+tate and New Co.=20
+6) We will integrate key business reps into the process for planning and ex=
+ecution and they will have shared responsibility for signoff on the test to=
+ support go live to production.=20
+7) We will minimize the differentiation between New Co and Estate for conve=
+rsion and test team purposes. There are two teams - Conversion and Integrat=
+ion Test. Each team will focus on both Estate and New Co. Resources are too=
+ tight and the process is too inefficient to separate responsibility.=20
+8) Estate conversions must happen at the application level before New Co co=
+nversion work can begin in earnest. Estate conversion is on the critical pa=
+th for New Co.=20
+
+
+Key Issues
+1) We will push to get a decision to see if we can focus on financial tradi=
+ng first, then physical. If financial is the focus, delivery risk goes down=
+ dramatically. For now, we must plan on the worst case -- physical and fina=
+ncial on Jan 20.=20
+2) We need both a dev and a test environment for all systems that support A=
+EP and Bridgeline in Estate. This means that we need a dev environment (and=
+ HW gap addressed) for Unify, Sitara, CPR, TAGG/ERMS. Conversion teams need=
+ to coordinate with infrastructure immediately on this issue to make sure w=
+e're in synch.=20
+3) Unify servers probably can't be owned by New Co while running a single l=
+icense of Unify.=20
+4) Some systems are using 'short name' instead of Duns ID as a key for coun=
+terparties from Global. The Global, TAGG / ERMS, Unify and SAP reps must qu=
+ickly define the best approach for making global data changes and minimizin=
+g hard coded reference id risks.=20
+5) We must clearly define limits of conversion and test scope to hit these =
+potential dates. We must focus on core systems with only core changes requi=
+red to support day one trading.=20
+6) We can only convert Estate over the weekend due to AEP / Bridgeline cons=
+iderations. The time window will be very small.=20
+
+
+Core Conversion Team =20
+1) Steve Stock - Applications
+2) Bob McAuliffe - Infrastructure
+3) Ziyong Wei
+4) Steve Nat
+5) Dave Nommensen
+6) Ken Harmon
+7) John Warner
+8) Bob Ward
+....
+
+Core Integration Test Team=20
+1) Jeff Johnson
+2) Iain Greig
+3) Aftab Saleem
+4) Terry Sanvido
+5) Regan Smith
+
+Program Coordination=20
+1) Jane Henry
+2) Steve Simpson
+
+Next Steps For Integration Test Team
+1) Due 12/20. Define integration test approach and id test script and expec=
+ted results templates. Owner: Aftab Saleem / Regan Smith
+2) Due Jan 3. Application system flow diagram at appropriate granularity fo=
+r communicating flow on integration test for core systems. Owner: Terry San=
+vido / Steve Simpson
+3) Due 12/20. Identify list of core systems for test purposes. Identify key=
+ IT owner and key business owner and respresentative for integration test. =
+Owner: Iain Greig.=20
+4) Due 12/21. Define integration test workplan for integration test plannin=
+g and execution for both Estate and New Co. Owner: Jeff Johnson
+5) Ongoing. Participation in daily program management coordination meeting =
+at 8:30. Owners: Jeff Johnson, Iain Greig, Aftab Saleem.=20
+6) Due 12/21. Organize meeting with key users and IT contacts to communciat=
+e foundation assumptions, context, team and approach for integration test. =
+Develop first cut at sample trade transaction set. Owner: Iain Greig / Afta=
+b Saleem.=20
+7) Completed. Contact Bob Hall, Leslie Reeves, Bob Superty, Brice Baxter to=
+ communicate above and set up meeting to begin planning with them on the in=
+tegration testing process. Owner: Jeff Johnson
+8) Due 12/21.  Refine core system list with IT owners and Business owners f=
+or integration test purposes. Owner: Iain Greig.=20
+9) Due 12/20. Set up Integration Test folder on O drive under Infotech / De=
+velopment Support.  Owner: Aftab Saleem.=20
+
+Let me know if you have questions or changes. I am out tomorrow but I'm bac=
+k on Friday.=20
+
+Thanks.=20
+

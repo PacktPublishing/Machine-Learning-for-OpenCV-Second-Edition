@@ -1,0 +1,43 @@
+Message-ID: <26544219.1075856641713.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 06:09:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: naveen.andrews@enron.com, matthew.adams@enron.com
+Subject: Re: UK portfolios and books setup in RisktRac
+Cc: rabi.de@enron.com, jaesoo.lew@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rabi.de@enron.com, jaesoo.lew@enron.com, vince.kaminski@enron.com
+X-From: Tanya Tamarchenko
+X-To: Naveen Andrews, Matthew Adams
+X-cc: Rabi De, Jaesoo Lew, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Naveen and Matthew,
+I started looking systematically through UK positions and corresponding VAR 
+numbers in the RisckRac.
+I found a few inconsistencies so far.
+
+1. The portfolio E1SB1-NBP has a book E1SB1 under it.  The sum of delta 
+positions for this book is 
+239,021,655, the sum of gamma positions is -211,031,450. VAR for the 
+portfolio E1SB1-NBP is zero.
+
+The same refers to a few other portfolios, for example E1SB2-NBP, E1SB3-NBP, 
+E2XX1-NBP.
+
+2. The portfolio E1SBP1-PPP also has the book E1SB1 under it. This book 
+contains the positions on PPPWD1
+through PPPWD6 and PPPWE1 through PPPWE4. 
+
+The same refers to the other books, for example E1SB2.
+
+This looks messy.  Can someone in RAC go over all the portfolios, all the 
+corresponding books and curves
+in RisktRac and make sure they are set up properly?
+
+Thank you,
+
+Tanya.

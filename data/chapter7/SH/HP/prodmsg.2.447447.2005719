@@ -1,0 +1,67 @@
+Received: from mailcenter.whatifnet.com (65.217.206.7)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:33 -0000
+MIME-Version: 1.0
+From: MAILER-DAEMON <>
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Subject: **Message you sent blocked by our bulk email filter**
+Content-Type: multipart/report; report-type=delivery-status;
+    charset=utf-8;
+    boundary="----------=_1121770649-19681-17"
+To: <projecthoneypot@projecthoneypot.org>
+Date: Tue, 19 Jul 2005 06:57:29 -0400 (EDT)
+
+This is a multi-part message in MIME format...
+
+------------=_1121770649-19681-17
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+WW91ciBtZXNzYWdlIHRvOiBpbmZvQGxlYXJuaW5nbmV0d29ya3MubmV0Cndh
+cyBibG9ja2VkIGJ5IG91ciBTcGFtIEZpcmV3YWxsLiBUaGUgZW1haWwgeW91
+IHNlbnQgd2l0aCB0aGUgZm9sbG93aW5nIHN1YmplY3QgaGFzIE5PVCBCRUVO
+IERFTElWRVJFRDoKClN1YmplY3Q6IEp1c3QgdG8gaGVyLi4uCgo=
+
+------------=_1121770649-19681-17
+Content-Type: message/delivery-status
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; mailcenter.whatifnet.com
+Received-From-MTA: smtp; mailcenter.whatifnet.com ([127.0.0.1])
+Arrival-Date: Tue, 19 Jul 2005 06:57:28 -0400 (EDT)
+
+Final-Recipient: rfc822; info@learningnetworks.net
+Action: failed
+Status: 5.7.1
+Diagnostic-Code: smtp; 550 5.7.1 Message content rejected, UBE, id=19681-02-10
+Last-Attempt-Date: Tue, 19 Jul 2005 06:57:29 -0400 (EDT)
+
+------------=_1121770649-19681-17
+Content-Type: text/rfc822-headers
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Undelivered-message headers
+
+Received: from mailwisconsin.com (unknown [61.106.118.27])
+	by mailcenter.whatifnet.com (Spam Firewall) with SMTP id 23CADD013AAE
+	for <info@learningnetworks.net>; Tue, 19 Jul 2005 06:57:21 -0400 (EDT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024817134;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@learningnetworks.net
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+------------=_1121770649-19681-17--

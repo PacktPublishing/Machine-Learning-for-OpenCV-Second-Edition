@@ -1,0 +1,31 @@
+Return-Path: <gabriexport@mail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 14310 invoked by uid 115); 27 Oct 2004 01:58:26 -0000
+Received: from gabriexport@mail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.215.137.132):. 
+ Processed in 0.085434 secs); 27 Oct 2004 01:58:26 -0000
+Received: from dsl81-215-35204.adsl.ttnet.net.tr (HELO ommo.net) (81.215.137.132)
+  by churchill.factcomp.com with SMTP; 27 Oct 2004 01:58:25 -0000
+From: "Gabriella / Export Dept" <gabriexport@mail.com>
+Reply-To: altinpetek@superposta.com
+To: bruceg@em.ca
+Date: Tue, 26 Oct 2004 23:00:23 +0300
+Subject: We are able to supply following items for all tenders
+X-Priority: 1
+X-Mailer: Microsoft Outlook Express 5.00.2919.7000
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-Qmail-Scanner-Message-ID: <109884230667214296@churchill>
+
+=3CHTML=3E
+=3CHEAD=3E
+=3C=2FHEAD=3E
+=3Ccenter=3E
+=3CP=3E=3CIMG alt=3D=22=22 hspace=3D0 src=3D=22http=3A=2F=2Fwww=2Eavciasansor=2Ecom=2Fitaly1=2Egif=22 align=3Dbaseline 
+border=3D0=3E=3CB=3E=3C=2FP=3E
+=3CP=3E=3CIMG alt=3D=22=22 hspace=3D0 src=3D=22http=3A=2F=2Fwww=2Eavciasansor=2Ecom=2Fitaly2=2Egif=22 align=3Dbaseline 
+border=3D0=3E=3CB=3E=3C=2FP=3E
+=3C=2FB=3E=3C=2FA=3E=3C=2FFONT=3E=3C=2FFONT=3E=3C=2FDIV=3E=3C=2Fcenter=3E=3C=2FBODY=3E=3C=2FHTML=3E
+
+

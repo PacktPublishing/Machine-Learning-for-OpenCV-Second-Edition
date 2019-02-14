@@ -1,0 +1,107 @@
+Message-ID: <20118512.1075855930974.JavaMail.evans@thyme>
+Date: Wed, 22 Nov 2000 06:47:00 -0800 (PST)
+From: shona.wilson@enron.com
+To: james.new@enron.com, lloyd.fleming@enron.com, andrew.cornfield@enron.com, 
+	david.wall@enron.com, jeffrey.gossett@enron.com, 
+	stacey.white@enron.com, peggy.hedstrom@enron.com, 
+	jenny.latham@enron.com, scott.mills@enron.com, 
+	martha.stevens@enron.com, scott.earnest@enron.com, 
+	michelle.bruce@enron.com, sheila.glover@enron.com, 
+	clara.carrington@enron.com, d.hall@enron.com, brenda.herod@enron.com, 
+	michael.moscoso@enron.com, barry.pearce@enron.com, 
+	kristin.albrecht@enron.com, gary.stadler@enron.com, 
+	neil.hong@enron.com, warren.prihoda@enron.com, 
+	louis.colarusso@enron.com, christian.lebroc@enron.com, 
+	rebecca.miller@enron.com, jan-erland.bekeng@enron.com, 
+	heidi.mason@enron.com, david.port@enron.com, 
+	vladimir.gorny@enron.com, frank.hayden@enron.com, 
+	bjorn.haglemann@enron.com, debbie.brackett@enron.com
+Subject: requests for new curves, new books, porfolio changes
+Cc: sally.beck@enron.com, brent.price@enron.com, mike.jordan@enron.com, 
+	chris.abel@enron.com, susan.trevino@enron.com, 
+	burton.mcintyre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, brent.price@enron.com, mike.jordan@enron.com, 
+	chris.abel@enron.com, susan.trevino@enron.com, 
+	burton.mcintyre@enron.com
+X-From: Shona Wilson
+X-To: James New, Lloyd Fleming, Andrew Cornfield, David A Wall, Jeffrey C Gossett, Stacey W White, Peggy Hedstrom, Jenny Latham, Scott Mills, Martha Stevens, Scott Earnest, Michelle Bruce, Sheila Glover, Clara Carrington, D Todd Hall, Brenda F Herod, Michael E Moscoso, Barry Pearce, Kristin Albrecht, Gary Stadler, Neil Hong, Warren Prihoda, Louis Colarusso, Christian LeBroc, Rebecca Miller, Jan-Erland Bekeng, Heidi Mason, David Port, Vladimir Gorny, Frank Hayden, Bjorn Haglemann, Debbie R Brackett
+X-cc: Sally Beck, Brent A Price, Mike Jordan, Chris Abel, Susan D Trevino, Burton McIntyre
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+In the past few months, the procedures for setting up new curves and books 
+have not been followed by everyone. 
+
+The following memo documents the procedures to 1) set up a new curve, 2) set 
+up a new book, and 3) change a portfolio hierarchy.  Please note that risk 
+management (for each commodity group), "risk management"  is responsible for 
+ensuring that information is flowing appropriately between the valuation 
+systems and RisktRAC (Risk Analysis and Reporting can help, but do not have 
+all of the ERMS information to be able to ensure the completeness of 
+RisktRAC).
+
+I have attached the request form for each of these changes at the bottom of 
+this memo.  Please ensure that everyone in your group obtains a copy. 
+
+The procedure to set up a new curve is as follows:
+
+Trader starts trading at a new location or a new commodity and needs a new 
+curve set up
+Trader communicates this to risk management
+Risk management constructs new curve in ERMS (with the help of the IT 
+department)
+Risk management completes a curve set up request form to set up curve in 
+RisktRAC
+Curve form is forwarded to Risk Analysis and Reporting
+Risk Analysis and Reporting sets up curve in RisktRAC
+A system generated message is sent to people on the "curve list" indicating a 
+change in the RisktRAC curves has been made
+
+If the curve is not set up in RisktRAC the positions are not captured in the 
+VAR or engine, thereby making VAR inaccurate.  As a side note, Risk Analysis 
+and Reporting has implemented a new process in which on a weekly basis new 
+curves set up in ERMS are reviewed to ensure that these have been set up in 
+RisktRAC.  We did this for the first time today and noted numerous curves in 
+ERMS that are not in RisktRAC - which we are working with you to resolve.
+
+The procedure to set up a new book in RisktRAC is as follows:
+
+Trader/risk management determines new book is needed
+New book request form (for RisktRAC) is completed by risk management
+New book request form is forwarded to Risk Analysis and Reporting
+Risk Analysis and Reporting sets up book in RisktRAC
+Risk Analysis and Reporting forwards request to ERMS administrator and global 
+counterparty group to request that book is set up in valuation and 
+counterparty systems
+Once all groups have completed their individual set ups, a final e-mail is 
+sent to personnel on the "books list" and the book administrator in the risk 
+management department who requested the book
+
+It is important that there is a one to one link between the ERMS and RisktRAC 
+books, or not all positions will be captured in RisktRAC (two commodities per 
+ERMS book does not flow properly into RisktRAC).
+
+The above two processes have formally existed for a number of months.  
+Additionally, we are formalizing the procedure for changing portfolio 
+hierarchies.  The procedure now is:
+
+Risk management is responsible for requesting all portfolio hierarchy 
+changes.  Previously, changes could be made through a request by Risk 
+Analysis and Reporting or RAC.  These two groups are no longer allowed to 
+submit change requests.  All requests must come through risk management.
+Risk management completes a request, including the reason for the requested 
+change in structure
+Risk management forwards the request to Risk Analysis and Reporting
+Risk Analysis and Reporting makes the change and notifies risk management 
+that the change has been made.
+
+If you have any questions, comments or concerns, please call: me X39123, 
+Chris Abel X33012, Burton McIntyre X57197, or Susan Trevino X31462.
+
+Thanks,
+
+Shona

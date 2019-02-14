@@ -1,0 +1,154 @@
+Message-ID: <5962166.1075849860135.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 07:44:00 -0800 (PST)
+From: kathy.kokas@enron.com
+To: sally.beck@enron.com, wes.colwell@enron.com
+Subject: SAP feedback followup
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kathy Kokas
+X-To: Sally Beck, Wes Colwell
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Last week y'all asked us to follow up with several key individuals within the 
+ENA group to see how it's going with SAP.  We were not to give any "hints"; 
+just ask some open-ended (but probing) questions.  I'm attaching all the 
+responses (Georgeann directed us to Greg W ).  I don't see anything alarming 
+or red-hot -- I just hope they were being totally candid and honest with 
+us!!  Overall I would categorize them as normal support issues around the 
+areas of needing some spot "1-on-1" training for users, more experience in 
+overall information retrieval, editing of some reports, our security process 
+and the difficulty of getting information from various and sundry databases 
+(since SAP is interfaced) to get the full picture.
+
+We have passed all these items on to the appropriate Solution Mgr, so that 
+they can specifically address them.
+
+As I think I mentioned several months ago we had complaints about 
+nonresponsiveness (calls not being returned, being passed around alot, etc).  
+Hopefully we've turned the corner there.
+
+Please let me know if there are other areas you'd like us to address (as we 
+discussed), otherwise we will continue to try to keep our finger on the 
+pulse.  And please let me know who our contact person from ENA should be.
+
+
+Thanks,
+
+KK
+
+ 
+
+
+
+
+Mary Sloan
+12/13/2000 07:44 AM
+To: Kathy Kokas/Corp/Enron@ENRON
+cc: Rebecca Miles/Corp/Enron@ENRON 
+
+Subject: ENA Summary
+
+Kathy,
+
+Please find the highlights below from my ENA customer meetings:
+
+Bryce Baxter
+
+Pleased overall with the support provided by the ISC
+
+Small issues voiced by Bryce, not strong sources of contention :
+Feels the response time does not happen with 'lightning speed', but works 
+fine once they agree to a deadline with Pamela LeBrane
+Zcash specification changes delayed due to errors identified by both groups, 
+but they are still moving forward
+Payment runs are generated early on occassion and it is tough to cancel a 
+payment (they are blocking all payments now to avoid this issue)
+Unify to SAP interface - files are not being picked up at least once a week 
+(certain files 'drop off'); Mary Tyler Marz (ENA) and Teresa Mira (ISC) are 
+working on this issue 
+
+Leslie Reeves
+Pleased overall with the support provided by the ISC
+
+Areas Leslie would like assistance from the ISC:
+Further editing on reports; understanding what information is available and 
+how they can extract the information from SAP
+Further training (coaching sessions) by members of the ISC Solution Teams to 
+help with the following areas:
+How to pull data from SAP (data mining)
+Explanation of how to find all the pieces required to complete their monthly 
+reconciliation process (balancing cost centers, reconciling the P&L to the G/L
+Explanation of the interface reconciliation process for financial out of 
+balances
+Explanation of the steps required for new accounts, business areas, cost 
+centers, allocation process (needs to fully understand the process in SAP)
+Follow up with Debbie Brackett in Credit to determine if she is receiving the 
+credit information from SAP in a timely manner
+I told Leslie that I would follow up with Susan B. and Brandee and ask them 
+to call her directly.  Leslie would like to meet with each of them and then 
+determine the correct individuals on her team to become involved in the 
+process.
+
+Both Bryce and Leslie were very appreciative of the customer focused 
+attention from the ISC.  They both thought it was great that we scheduled 
+time to visit with them and understand their questions/issues.
+
+Please let me know if you have any questions.
+
+Mary
+
+
+---------------------- Forwarded by Rebecca Miles/Corp/Enron on 12/12/2000 
+03:09 PM ---------------------------
+   
+	
+	
+	From:  Rebecca Miles                           12/12/2000 03:08 PM
+	
+
+To: Greg Whiting/Corp/Enron@ENRON
+cc:  
+
+Subject: Feedback for the ISC
+
+Greg,
+
+Thank you for taking time to meet with me today about the ISC and SAP.  I 
+appreciated your explanations and your feedback.  Please see if I have 
+captured the main points below.  If so, no need to reply.  If not, please 
+provide corrections or elaborations.  
+
+I will talk with Sheila and Brandee about the best course of action to get 
+Laura Scott's feedback about the issues in Canada.  I'll also check on the 
+status of Hyperion.
+
+I passed along your comments about Michael Gilmore to both Michael and his 
+manager Vince Cacaro.  Both were pleased to receive positive customer 
+feedback.
+
+Regards,
+Rebecca
+
+----------------------
+
+ENA's (Financial) SAP "Wish List"
+
+Earlier inter-company cutoffs in month-end close, to facilitate the overall 
+close process.
+Clarity around the status of Hyperion -- will it be here beyond the end of 
+the year?  If so, will the process for mapping between FI/CO and Hyperion be 
+addressed?
+Getting all the information for our customers into the same repository.  Brio 
+should be the answer to many of our issues, as it should ultimately integrate 
+data from the Tag database (ERMS), Empower, Unify, CPI, and Solark.  
+A different type or level of support during month-end close, at least through 
+1Q 2001.  In order of criticality, the issues/needs to be addressed are:
+security (making sure people have the correct security and have it prior to 
+month-end close)
+cost center & profit center set-up (ultimately, centralized set-up is the 
+right thing, but the process during close needs work)
+reporting (quicker/better access to the right data post close)

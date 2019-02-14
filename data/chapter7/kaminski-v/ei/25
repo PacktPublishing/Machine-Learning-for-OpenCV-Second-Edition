@@ -1,0 +1,56 @@
+Message-ID: <11208037.1075856605934.JavaMail.evans@thyme>
+Date: Thu, 21 Dec 2000 08:03:00 -0800 (PST)
+From: sandeep.kohli@enron.com
+Subject: LNG Hedging
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sandeep Kohli
+X-To: Vince J Kaminski@ECT
+X-cc: Pinnamaneni Krishnarao@ECT
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+
+FYI.  This is something the team has been working on with Krishna.
+
+Regards,
+Sandeep.
+---------------------- Forwarded by Sandeep Kohli/ENRON_DEVELOPMENT on 
+12/21/2000 04:03 AM ---------------------------
+
+
+Sandeep Kohli
+12/21/2000 04:00 PM
+To: James A Hughes/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc:  
+Subject: LNG Hedging
+
+Jim,
+
+I am attaching below a small draft note prepared by Anshuman on LNG hedging.
+
+It talks of two products: 
+(1) Volumetric Options (where we buy a call on 100% of the volumes and sell a 
+put on 50% of the volumes to finance the call), and
+(2)  Ratio Derivative where we buy two calls at a higher price, and sell one 
+at a lower price to finance it.  This is not one that the traders agree to, 
+since at the upper price, the calls bought are just at the money, while the 
+sold call is in the money, and will cost the seller.
+
+Hence, only Option 1 is useful.  It could provide risk mitigation in the high 
+price scenario, while allowing some participation in low prices.  To test it, 
+we used March 2001 period.  To have it cost neutral, we would buy a call at 
+$26, and sell the put at $25.15.  
+
+As we bounce these ideas, I think it is very important that we work closely 
+with the Global Markets group.  The team on the ground knows the contracts 
+better, and maybe able to give you insights on what can be sold to MSEB.
+
+Would love to discuss the same with you.
+
+Regards,
+Sandeep.
+

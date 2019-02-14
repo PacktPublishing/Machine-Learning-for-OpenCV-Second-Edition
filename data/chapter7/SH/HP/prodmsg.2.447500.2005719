@@ -1,0 +1,49 @@
+Received: from unknown (HELO online.ln.cn) (202.96.74.113)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:27 -0000
+From: PostMaster@online.ln.cn <>
+Message-Id: mail5.online.ln.cn.25773.540940.1121770263
+To: projecthoneypot@projecthoneypot.org
+Date: 19 Jul 2005 18:51:03 CST
+Subject: 来自 online.ln.cn 的退信
+Content-type: multipart/report; report-type=delivery-status; boundary=aimc
+
+--aimc
+Content-type: text/plain
+
+以下的邮件:
+
+> 日期: Tue, 19 Jul 2005 10:57:46 +0000
+> 主题: Just to her...
+> 大小: 1153 bytes 字节
+> 动作: 失败
+
+没有能够发送到以下的收件人:
+
+ distinguish "(3), ErrMsg=mail box space not enough, account=distinguish "
+
+不会再有任何动作来尝试发送你的邮件了。 请联系你的系统管理员或先通过其它非电子邮件的方式向你的朋友发送信息以免耽误。 
+--aimc
+Content-type: message/rfc822; name="original.eml"
+
+Received: from mailwisconsin.com([59.42.210.148]) by online.ln.cn(AIMC 2.9.5.2)
+	with SMTP id jm3842dd3fc1; Tue, 19 Jul 2005 18:51:02 +0800
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190992;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinguish@online.ln.cn
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<<原邮件的正文及附件由于篇幅关系在这里省略了>>
+--aimc--
+

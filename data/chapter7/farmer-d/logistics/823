@@ -1,0 +1,101 @@
+Message-ID: <2148869.1075854124704.JavaMail.evans@thyme>
+Date: Tue, 22 Feb 2000 05:40:00 -0800 (PST)
+From: rita.wynne@enron.com
+To: daren.farmer@enron.com, pat.clynes@enron.com
+Subject: Cilco Pathing - Withdrawl and HPLC transport pathing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rita Wynne
+X-To: Daren J Farmer, Pat Clynes
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Hey guys,
+
+Just wanted to make known my concerns on this issue.  While I agree that 
+Howard, Robert and George needed to work on this together, I do not think 
+that Howard should have been the driving force behind this.  Once we left the 
+meeting, they all convened on the 37th floor and worked from Howard's desk - 
+with Howard sitting down doing much of the work.  I also think that the below 
+e-mail should not have come from Howard, but should have originated out of 
+the Logistics group.  I understand that Howard has prior scheduling 
+experience, but he is not functioning in a scheduling role now and bascially 
+took on that role in getting this set up correctly.  He too had to sit down 
+and try to figure out what needed to be done and set everything up correctly 
+(?).  In my opinion this is a kudoo for Howard for stepping up, but I am 
+concerned at the role that he played.  Team effort is important and it's what 
+we all want between our groups, but I want to ensure that everyone does their 
+fair share and expectations are appropriately placed.  Let me know what you 
+both think.  Thanks!
+---------------------- Forwarded by Rita Wynne/HOU/ECT on 02/22/2000 01:31 PM 
+---------------------------
+
+
+Howard B Camp
+02/17/2000 05:55 PM
+To: Aimee Lannou/HOU/ECT@ECT
+cc: Fred Boas/HOU/ECT@ECT, Robert E Lloyd/HOU/ECT@ECT, Howard B 
+Camp/HOU/ECT@ECT, Gregory Steagall/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, 
+George Grant/HOU/ECT@ECT, Kenny J Soignet/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT 
+Subject: Cilco Pathing - Withdrawl and HPLC transport pathing
+
+
+Cilco needs to be pathed the following way on a withdrawl day or month
+   The pathing that was done for December 1999 and January 2000 worked.
+
+Source                                                                       
+Path                                                                          
+                             Destination
+                                                                              
+              
+012-27049-05-001/Stg/F                                       012-27049-05-001 
+Firm Storage                                                   External 
+Bammel - Meter 56l
+Storage 
+Account                                                                       
+                                                                              
+               Meter 56 must be attached to this pool
+
+
+External Bammel  - Meter 56                             012-27049-02-001 
+Transport                                                         
+012-27049-02-001/Transport/I/1/E
+Meter 56 must be 
+attached                                                                      
+                                                                          
+Transport Imbalance
+
+
+
+The HPLC transport in or out of storage should be pathed as follows
+
+INJECTION
+
+Source                                                                    
+Path                                                                          
+                            Destination
+
+012-41500-02-015/Transport/I/1/E               
+012-41500-02-015                                                              
+                 External Bammel  - Meter 57
+Transport 
+Imbalance                                                                     
+                                                                              
+      Meter 57 must be attached to this pool
+
+
+WITHDRAWL
+
+External Bammel  - Meter 57                        
+012-41500-02-015                                                              
+                  012-41500-02-015/Transport/I/1/E 
+Meter 57 must be attached to this 
+pool                                                                          
+                                             Transport Imbalance
+
+
+
+   

@@ -1,0 +1,28 @@
+Return-Path: <musoktavv@mail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29939 invoked by uid 115); 14 Oct 2004 00:04:24 -0000
+Received: from musoktavv@mail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.215.147.100):. 
+ Processed in 0.751145 secs); 14 Oct 2004 00:04:24 -0000
+Received: from dsl81-215-37732.adsl.ttnet.net.tr (HELO ommo.net) (81.215.147.100)
+  by churchill.factcomp.com with SMTP; 14 Oct 2004 00:04:23 -0000
+From: "Mustafa OKTAV" <musoktavv@mail.com>
+Reply-To: jim@ilkposta.com
+To: bruceg@em.ca
+Date: Thu, 14 Oct 2004 03:00:32 +0300
+Subject: SANEM PRINTING
+X-Priority: 1
+X-Mailer: Microsoft Outlook Express 5.00.2919.7000
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-Qmail-Scanner-Message-ID: <109771226467229910@churchill>
+
+=3CHTML=3E
+=3CHEAD=3E=3C=2FHEAD=3E
+=3CBODY=3E
+=3CP=3E=3CIMG height=3D353 src=3D=22http=3A=2F=2Fsayfam=2Ee-kolay=2Enet=2F=5Fweb=2Fs=2Fsanemc=2Fsanem=2EGIF=22 width=3D783 
+border=3D0=3E=3C=2FP=3E
+=3C=2FBODY=3E=3C=2FHTML=3E
+
+

@@ -1,0 +1,97 @@
+Message-ID: <11525885.1075855929852.JavaMail.evans@thyme>
+Date: Mon, 28 Feb 2000 09:18:00 -0800 (PST)
+From: robert.superty@enron.com
+To: sally.beck@enron.com
+Subject: Unify
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Superty
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, FYI - We've had many complaints and I've had many discussions today 
+with Dave N. and Inja. They did discover some system board that is going to 
+be replaced tonight. Hopefully replacing the board will do it but history 
+makes me skeptical that this is the sole cause for the slow performance.
+
+Needless to say we had to get Settlements and Volume Management to stop their 
+work and we still didn't see any improvement. I know everyone is just as 
+frustrated as Logistics. At our last several meetings to discuss this problem 
+I was insistent that unless they have an answer it seems to me, and the rest 
+of the staff, that the system just cannot support the real heavy demand that 
+first of month noms and the monthly close require. 
+
+I've included an email I received from Kathy Kelly if you want some gory 
+detail. To save you the trouble it normally takes 2-3 minutes to create 
+nominations on the largest pipes today some have taken as long as 55 
+minutes.  
+
+I'll keep you posted - Bob
+---------------------- Forwarded by Robert Superty/HOU/ECT on 02/28/2000 
+04:52 PM ---------------------------
+
+
+Robert Superty
+02/28/2000 04:47 PM
+To: Inja Chun/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT
+cc:  
+Subject: Unify
+
+FYI - Inja, Dave - Please read Kathy's memo below. 
+
+Don't know what to tell them. We've been down this road at the same time of 
+the month over and over again.  
+
+Any suggestions - Bob
+---------------------- Forwarded by Robert Superty/HOU/ECT on 02/28/2000 
+04:30 PM ---------------------------
+   
+	
+	
+	From:  Katherine L Kelly                           02/28/2000 04:26 PM
+	
+
+To: Robert Superty/HOU/ECT@ECT
+cc: Edward Terry/HOU/ECT@ECT 
+Subject: Unify
+
+Bob,
+
+You have probably already caught wind of this since it seems to be the only 
+thing anyone is talking about today, but I wanted to bring it to your 
+attention that unify is at an all time pathetic slowness today.  Basically, 
+this is all I've heard about today from the schedulers.  Clarissa has just 
+handed me a screen print that shows that it took 33.23 minutes to create a 
+nom on Tennessee.  Robert has informed me that it has taken him 55 minutes to 
+create a nom on Columbia Gas.  It took me over 30 minutes to log on today and 
+as soon as I ran a report, it kicked me out saying that I didn't have enough 
+memory.  
+
+This has always been a problem at the end of the month, but this month has 
+reached in all time low.  I've talked to Dave about three or four times today 
+and so has Ed.  Ed has been monitoring the system and he seems to think that 
+client services has been taking a large part of the CPU time.  We have both 
+questioned Dave on this, but he doesn't seem to see anything unusual with the 
+amount of users from accounting, although he does agree that a huge amount of 
+CPU time is being used.  
+
+I hate to end this on a  negative note, but at this rate, no one will be 
+clean by 1:45 tomorrow.  I don't know what the status is as far as people 
+looking into ways to make unify faster, but maybe it is time to draw some 
+attention to this again.  
+
+By the way, the bridge from sitara to unify has also been crawling today.  
+I've already informed Dave of this, but the bridge was totally out of 
+commission this past weekend as well.   This effected those people who tried 
+to get a jump start on cleaning for the month and working on the first of the 
+month noms.  I hate to say it, but once again, how can we expect people to 
+get their work done, if we don't give them systems that work.  On a good 
+note, I did get feedback from Clarissa that terminal server was working well 
+over the weekend.  Unfortunately, she said that unify was terribly slow, but 
+no slower than it is when she's here in the office.  
+
+

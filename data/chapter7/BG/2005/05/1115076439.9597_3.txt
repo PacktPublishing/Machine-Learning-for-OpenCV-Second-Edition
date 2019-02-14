@@ -1,0 +1,61 @@
+Return-Path: <linux-kernel-announce-owner@vger.kernel.org>
+Delivered-To: lists-announce@bruce-guenter.dyndns.org
+Received: (qmail 15465 invoked from network); 2 May 2005 07:13:07 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 02 May 2005 07:13:07 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 May 2005 07:13:07 -0000
+Received: (qmail 30981 invoked from network); 2 May 2005 07:13:06 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 02 May 2005 07:13:06 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S261338AbVEBHMu (ORCPT
+	<rfc822;lists-announce@bruce-guenter.dyndns.org>);
+	Mon, 2 May 2005 03:12:50 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S261348AbVEBHMu
+	(ORCPT <rfc822;linux-kernel-announce-outgoing>);
+	Mon, 2 May 2005 03:12:50 -0400
+Received: from zeus2.kernel.org ([204.152.191.36]:36580 "EHLO zeus2.kernel.org")
+	by vger.kernel.org with ESMTP id S261338AbVEBHMt (ORCPT
+	<rfc822;linux-kernel-announce@vger.kernel.org>);
+	Mon, 2 May 2005 03:12:49 -0400
+Received: from xx-4agsem5h7iol (201-254-175-136.speedy.com.ar [201.254.175.136] (may be forged))
+	by zeus2.kernel.org (8.13.1/8.13.1) with ESMTP id j427ChZm012374
+	for <linux-kernel-announce@vger.kernel.org>; Mon, 2 May 2005 00:12:47 -0700
+Message-Id: <200505020712.j427ChZm012374@zeus2.kernel.org>
+Reply-To: "EuroFinanzas" <EuroFinanzas@hotmail.com>
+From:	"EuroFinanzas" <EuroFinanzas@hotmail.com>
+To:	<linux-kernel-announce@vger.kernel.org>
+Subject: Euro Finanzas te invita a comercializar los mejoeres productos de trading
+Date:	Mon, 2 May 2005 09:12:28 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Virus-Scanned: ClamAV version 0.84, clamav-milter version 0.84e on zeus2
+X-Virus-Status:	Clean
+Sender:	linux-kernel-announce-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel-announce@vger.kernel.org
+
+
+
+Si con los mas bajos costos por movimiento, solo dos Euros, y con la pagina web que arroja los mejores
+resultados y te brida las mejores estadisticas. WWW.SISTEMAS-FUTUROS.COM elegi un sistema y envia
+un correo que te enviamos los contratos y pasaras rapidamente a trabjar con sistemas futuros y Eurobroker.
+
+consultas a EuroFinanzas@hotmail.com
+
+www.sistemas-futuros.com
+www.eurorefco.com
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel-announce" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

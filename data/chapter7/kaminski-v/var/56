@@ -1,0 +1,39 @@
+Message-ID: <4207979.1075856641968.JavaMail.evans@thyme>
+Date: Thu, 9 Nov 2000 02:05:00 -0800 (PST)
+From: kirstee.hewitt@enron.com
+To: jason.seigal@enron.com
+Subject: Precious Metals VaR
+Cc: tani.nath@enron.com, steven.leppard@enron.com, bjorn.hagelmann@enron.com, 
+	vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tani.nath@enron.com, steven.leppard@enron.com, bjorn.hagelmann@enron.com, 
+	vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+X-From: Kirstee Hewitt
+X-To: Jason Seigal
+X-cc: Tani Nath, Steven Leppard, Bjorn Hagelmann, Vince J Kaminski, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Jason,
+After our brief discussion last night I think I should discuss a few of the 
+issues I have with respect to calculating a VaR on the deal that you are 
+proposing.  The VaR model, as I illustrated, is set up to accept a term 
+structure of delta positions, prices and vols and it may be difficult to 
+translate the 'silver mine' position into these inputs. 
+I do not think that we can simply take the net silver content of the mine and 
+then make some assumptions about vol and price. The VaR model 
+also assumes a certain amount of liquidity in the market and a 1 day holding 
+period. 
+To do this properly I would need to understand fully how the deal is priced 
+as these sensitivities are ultimately what will effect the change in MTM 
+in the future and that is essentially what VaR is supposed to predict.
+If you need me to work on this then you need to contact Steve who will help 
+to prioritise my time. I will also need to consult with Vince Kaminski and 
+Tanya Tamarachenko in Houston for advice.
+RAC will also assist in the process.
+Please contact me if you have any further questions,
+Kirstee
+x34529

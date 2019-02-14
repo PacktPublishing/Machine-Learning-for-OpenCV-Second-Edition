@@ -1,0 +1,143 @@
+From: <MAILER-DAEMON@beta.zentek.net>
+To: <paliourg@iit.demokritos.gr>
+Subject:  failure notice
+Date: Tue, 3 Feb 2004 06:51:30 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-7">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7036.0">
+<TITLE> failure notice</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Hi. This is the qmail-send program at =
+beta.zentek.net.<BR>
+I'm afraid I wasn't able to deliver your message to the following<BR>
+addresses.<BR>
+This is a permanent error; I've given up. Sorry it didn't work out.<BR>
+<BR>
+&lt;facts@certyourself.com&gt;:<BR>
+Warning: Cannot open config file, using defaults.<BR>
+Sorry, no mailbox here by that name. vpopmail (#5.1.1)<BR>
+<BR>
+--- Below this line is a copy of the message.<BR>
+<BR>
+Return-Path: &lt;paliourg@iit.demokritos.gr&gt;<BR>
+Received: (qmail 32250 invoked from network); 3 Feb 2004 03:51:19 =
+-0000<BR>
+Received: from unknown (HELO iit.demokritos.gr) (61.3.253.4)<BR>
+&nbsp; by 203.98.189.28 with SMTP; 3 Feb 2004 03:51:19 -0000<BR>
+From: paliourg@iit.demokritos.gr<BR>
+To: facts@certyourself.com<BR>
+Subject:  MAIL DELIVERY SYSTEM<BR>
+Date: Tue, 3 Feb 2004 09:21:13 +0530<BR>
+MIME-Version: 1.0<BR>
+Content-Type: multipart/mixed;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+boundary=3D&quot;----=3D_NextPart_000_0004_61CB5FEE.B04DAD72&quot;<BR>
+X-Priority: 3<BR>
+X-MSMail-Priority: Normal<BR>
+X-Spam-Flag: YES<BR>
+X-Spam-Checker-Version: SpamAssassin 2.61 (1.212.2.1-2003-12-09-exp) =
+on<BR>
+beta<BR>
+X-Spam-Report:<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 0.2 NO_REAL_NAME =
+From: does not include a real name<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 5.4 BAYES_99 BODY: =
+Bayesian spam probability is 99 to 100%<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [score: 0.9978]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 1.1 =
+RCVD_IN_SORBS_HTTP RBL: SORBS: sender is open HTTP proxy server<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [61.3.253.4 listed in =
+dnsbl.sorbs.net]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 0.1 RCVD_IN_SORBS =
+RBL: SORBS: sender is listed in SORBS<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [61.3.253.4 listed in =
+dnsbl.sorbs.net]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 0.1 RCVD_IN_NJABL =
+RBL: Received via a relay in dnsbl.njabl.org<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [61.3.253.4 listed in =
+dnsbl.njabl.org]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 0.7 RCVD_IN_DSBL RBL: =
+Received via a relay in list.dsbl.org<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&lt;<A =
+HREF=3D"http://dsbl.org/listing?ip=3D61.3.253.4">http://dsbl.org/listing?=
+ip=3D61.3.253.4</A>&gt;]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 0.5 =
+RCVD_IN_NJABL_PROXY RBL: NJABL: sender is an open proxy<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [61.3.253.4 listed in =
+dnsbl.njabl.org]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 1.2 =
+RCVD_IN_SORBS_SOCKS RBL: SORBS: sender is open SOCKS proxy server<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [61.3.253.4 listed in =
+dnsbl.sorbs.net]<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 1.6 MISSING_MIMEOLE =
+Message has X-MSMail-Priority, but no X-MimeOLE<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp; 1.2 PRIORITY_NO_NAME =
+Message has priority setting, but no X-Mailer<BR>
+X-Spam-Status: Yes, hits=3D12.1 required=3D5.0 =
+tests=3DBAYES_99,MISSING_MIMEOLE,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+NO_REAL_NAME,PRIORITY_NO_NAME,RCVD_IN_DSBL,RCVD_IN_NJABL,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+RCVD_IN_NJABL_PROXY,RCVD_IN_SORBS,RCVD_IN_SORBS_HTTP,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RCVD_IN_SORBS_SOCKS =
+autolearn=3Dno version=3D2.61<BR>
+X-Spam-Level: ************<BR>
+<BR>
+This is a multi-part message in MIME format.<BR>
+<BR>
+------=3D_NextPart_000_0004_61CB5FEE.B04DAD72<BR>
+Content-Type: text/plain;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+charset=3D&quot;Windows-1252&quot;<BR>
+Content-Transfer-Encoding: 7bit<BR>
+<BR>
+The message contains Unicode characters and has been sent as a =
+binary<BR>
+attachment.<BR>
+<BR>
+<BR>
+------=3D_NextPart_000_0004_61CB5FEE.B04DAD72<BR>
+Content-Type: plain/text;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; name=3D&quot;Norton AntiVirus =
+Deleted1.txt&quot;<BR>
+Content-Transfer-Encoding: base64<BR>
+Content-Disposition: attachment;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; filename=3D&quot;Norton =
+AntiVirus Deleted1.txt&quot;<BR>
+<BR>
+Tm9ydG9uIEFudGlWaXJ1cyByZW1vdmVkIHRoZSBhdHRhY2htZW50OiB0ZXh0LnppcC4NClRo<=
+BR>
+ZSBhdHRhY2htZW50IHdhcyBpbmZlY3RlZCB3aXRoIHRoZSBXMzIuTm92YXJnLkFAbW0gdmly<=
+BR>
+dXMu<BR>
+------=3D_NextPart_000_0004_61CB5FEE.B04DAD72--<BR>
+<BR>
+<BR>
+<BR>
+</FONT>
+</P>
+
+</BODY>
+</HTML>

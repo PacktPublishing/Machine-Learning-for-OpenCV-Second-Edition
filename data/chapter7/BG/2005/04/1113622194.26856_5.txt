@@ -1,0 +1,59 @@
+Return-Path: <kellie.wiley92@ccl.de>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 26700 invoked from network); 16 Apr 2005 03:28:48 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 16 Apr 2005 03:28:48 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 Apr 2005 03:28:48 -0000
+Received: (qmail 6059 invoked from network); 16 Apr 2005 03:28:47 -0000
+Received: from nott.ac.uk (unknown [67.76.189.123])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 16 Apr 2005 03:28:47 -0000
+Received: from 24.236.144.154 by smtp.ccl.de;
+	Sat, 16 Apr 2005 02:57:18 +0000
+Message-ID: <6dc501c5422f$14019c36$3965d5cc@nott.ac.uk>
+From: "Kellie Wiley" <kellie.wiley92@ccl.de>
+To: cvs@bruce-guenter.dyndns.org
+Subject: Prescription Drugs
+Date: Fri, 15 Apr 2005 19:56:57 -0700
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Content-Length: 793
+Lines: 30
+
+Online pharmacy - Visit our online store and save.
+
+Save up to 80% compared to normal rates.
+
+All popular drugs are available!
+
+- World wide shipping
+- No Doctor Visits
+- No Prescriptions
+- Next Day Priority Shipping
+- Discreet Packaging
+- Buy in Bulk and Save!
+
+We make it easier and faster than ever to get the prescriptions you
+need.
+
+Go here: http://oxls.com/
+
+
+
+Simply Rx is your convenient, safe and private online source for
+FDA approved pharmacy prescriptions. We sell brand-name and exact
+generic equivalents of US FDA approved prescription drugs through
+our fully-licensed overseas pharmacy. Upon approval of your medical
+information, a licensed physician will issue a free prescription
+which can be filled and shipped to you in one business day.
+
+
+No thanks: http://tolr.com/z.php

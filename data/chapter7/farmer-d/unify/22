@@ -1,0 +1,42 @@
+Message-ID: <24916353.1075854183780.JavaMail.evans@thyme>
+Date: Tue, 11 Jan 2000 08:47:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: paul.poellinger@enron.com, dave.mcmullan@enron.com
+Subject: rollout schedule for Unify real-time Deal/Path updates
+Cc: inja.chun@enron.com, tommy.yanowski@enron.com, scotty.gilbert@enron.com, 
+	robert.superty@enron.com, daren.farmer@enron.com, 
+	kevin.heal@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: inja.chun@enron.com, tommy.yanowski@enron.com, scotty.gilbert@enron.com, 
+	robert.superty@enron.com, daren.farmer@enron.com, 
+	kevin.heal@enron.com
+X-From: Dave Nommensen
+X-To: Paul F Poellinger, Dave McMullan
+X-cc: Inja Chun, Tommy J Yanowski, Scotty Gilbert, Robert Superty, Daren J Farmer, Kevin Heal
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+A walk-thru/demo of this new functionality was held today with the Logistics 
+Managers and representative schedulers from each region except for Texas and 
+Calgary.  The changes were well received and no revisions were requested.  
+They would like to have the changes migrated to Production the evening of 
+Tuesday, January 18 for use the morning of Wednesday, January 19.
+
+Paul, could you please insure that the network folks have the Tibco install 
+complete by Monday, including Terminal Server.
+Scotty, Paul may need one of your folks to insure that the Tibco install 
+works OK on Terminal Server (none of us have access).
+Scotty, can you follow up with Calgary and Texas since they missed the demo.
+ Also, what level of security is desired for the rollout - selected 
+schedulers or all of Logistics?
+Dave M, plan to have the last few related items in Stage by Monday to insure 
+all is clean by Tuesday night. (print, filter, closed Path List, & app close 
+error msg)
+
+If you do not feel like this schedule can be met, please let me know as you 
+become aware.
+
+Thanks, d.n.

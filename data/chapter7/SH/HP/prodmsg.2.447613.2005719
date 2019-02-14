@@ -1,0 +1,93 @@
+Received: from sp-internet-ext-ply.uhc.com (HELO firewall-cluster.uhc.com) (198.203.175.175)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:06 -0000
+Received: from MSGW0001.uhc.com (msgw0001.uhc.com [10.114.42.75])
+	by firewall-cluster.uhc.com (8.12.11/8.11.6) with ESMTP id j6JB15Yo015116
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 06:01:05 -0500
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: DELIVERY FAILURE: User antonio_ortega (antonio_ortega@msgw0001.uhc.com) not
+ listed in Domino Directory
+From: Postmaster@uhc.com
+To: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MIMETrack: Itemize by SMTP Server on MSGW0001/Unitedmail(Release 6.5.4 HF129|May 12, 2005) at
+ 07/19/2005 06:01:04 AM,
+	Serialize by Router on MSGW0001/Unitedmail(Release 6.5.4 HF129|May 12, 2005) at
+ 07/19/2005 06:01:05 AM,
+	Serialize complete at 07/19/2005 06:01:05 AM
+Message-ID: <OF4F28055D.2E8C4737-ON86257043.003C85EA-86257043.003C8640@uhc.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary="==IFJRGLKFGIR36350502UHRUHIHD"
+
+--==IFJRGLKFGIR36350502UHRUHIHD
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+WW91ciBtZXNzYWdlDQoNCiAgU3ViamVjdDogSnVzdCB0byBoZXIuLi4NCg0Kd2FzIG5vdCBkZWxp
+dmVyZWQgdG86DQoNCiAgYW50b25pb19vcnRlZ2FAbXNndzAwMDEudWhjLmNvbQ0KDQpiZWNhdXNl
+Og0KDQogIFVzZXIgYW50b25pb19vcnRlZ2EgKGFudG9uaW9fb3J0ZWdhQG1zZ3cwMDAxLnVoYy5j
+b20pIG5vdCBsaXN0ZWQgaW4gRG9taW5vIERpcmVjdG9yeQ0KDQo=
+
+--==IFJRGLKFGIR36350502UHRUHIHD
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;MSGW0001.uhc.com
+
+Final-Recipient: rfc822;antonio_ortega@msgw0001.uhc.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Notes; User antonio_ortega (antonio_ortega@msgw0001.
+ uhc.com) not listed in Domino Directory
+ 
+--==IFJRGLKFGIR36350502UHRUHIHD
+Content-Type: message/rfc822
+
+Received: from scanri5.uhc.com ([10.85.124.100])
+          by MSGW0001.uhc.com (Lotus Domino Release 6.5.4 HF129)
+          with ESMTP id 2005071906010442-4730711 ;
+          Tue, 19 Jul 2005 06:01:04 -0500 
+Received: from firewall-cluster.uhc.com (uhtsmtp01.uhc.com [10.114.32.40]) by scanri5.uhc.com
+ (Content Technologies SMTPRS 4.3.12) with ESMTP id <T723a1683960a557c643fc@scanri5.uhc.com> for <antonio_ortega@scanri.uhc.com>;
+ Tue, 19 Jul 2005 06:00:25 -0500
+Received: from esmtp02.uhc.com (esmtp02.uhc.com [198.203.174.6])
+	by firewall-cluster.uhc.com (8.12.11/8.12.1) with ESMTP id j6JB0x7K005631
+	for <antonio_ortega@uhc.com>; Tue, 19 Jul 2005 06:01:03 -0500
+Received: from mailwisconsin.com (unknown [218.14.74.146])
+	by esmtp02.uhc.com (Postfix) with SMTP id 59A8137E47
+	for <antonio_ortega@uhc.com>; Tue, 19 Jul 2005 06:00:52 -0500 (CDT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516471;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonio_ortega@uhc.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MIMETrack: Itemize by SMTP Server on MSGW0001/Unitedmail(Release 6.5.4 HF129|May 12, 2005) at
+ 07/19/2005 06:01:04 AM,
+	Serialize by Router on MSGW0001/Unitedmail(Release 6.5.4 HF129|May 12, 2005) at
+ 07/19/2005 06:01:05 AM
+Message-ID: <OF4F28055D.2E8C4737-ON86257043.003C85EA-86257043.003C8640@uhc.com>
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body alink=3D"blue" bgcolor=3D"white" link=3D"blue" text=3D"black" vlink=
+=3D"blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color=3D"#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href=3D"http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973407=
+">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+--==IFJRGLKFGIR36350502UHRUHIHD--

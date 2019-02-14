@@ -1,0 +1,441 @@
+Return-Path: <eventossage@pep.ufrj.br>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 21680 invoked from network); 18 Jun 2005 00:45:58 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 18 Jun 2005 00:45:58 -0000
+Received: (qmail 3121 invoked from network); 18 Jun 2005 00:45:58 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx05.futurequest.net ([69.5.6.176])
+  with QMQP via TCP; 18 Jun 2005 00:45:58 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 21674 invoked from network); 18 Jun 2005 00:45:58 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 18 Jun 2005 00:45:58 -0000
+Received: (qmail 8474 invoked from network); 18 Jun 2005 00:45:58 -0000
+Received: from hermes (proxy-ftp.tripweb.com.br [200.160.61.4])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 18 Jun 2005 00:45:39 -0000
+From: "Sistemas Avançados de Gestão Da Produção" <eventossage@pep.ufrj.br>
+To: <webmaster@ezmlm.org>
+Subject: Curso de Workflow 
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 17 Jun 2005 21:47:20
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0061)http://www.sage.coppe.ufrj.br/home/cursos/curso_workflow.html -->
+<HTML><HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="pt-br">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<TITLE>Sistemas Avançados de Gestão da Produção</TITLE>
+</HEAD>
+<BODY>
+<!-- BEGIN: Logo or Header Image Include --><!-- END: Logo or Header Image Include -->
+<DIV style="width: 615; height: 69" align=right>
+  <p align="center"><a href="http://www.sage.coppe.ufrj.br"><img border="0" src="http://www.sage.coppe.ufrj.br/images/logo_sage.gif" width="144" height="69"><img border="0" src="http://www.sage.coppe.ufrj.br/images/logo_coppe.gif" width="98" height="69"></a>
+  <p align="center"><font face="Arial"><a href="http://www.sage.coppe.ufrj.br">www.sage.coppe.ufrj.br</a>&nbsp;</font></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width=641 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=bottom width=639 bgcolor="#0099CC">
+      <TABLE height=1 cellSpacing=0 cellPadding=0 width=616 border=0>
+        <TBODY>
+        <TR>
+          <TD align=middle width=2 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD align=middle width=135 bgColor=#0099CC height=1>
+            <P 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=center>&nbsp;</P></TD>
+          <CENTER>
+          <TD align=middle width=958 bgColor=#0099CC height=1>
+          <font face="Arial">&nbsp;</CENTER> </font>
+            <P align=left><I><b><SPAN 
+            style="FONT-SIZE: 26pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt">
+            <FONT color=#FFFF00>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></SPAN>
+            <SPAN 
+            style="FONT-SIZE: 26pt; mso-bidi-font-size: 12.0pt">
+            <FONT color=#FFFFCC face="Arial">
+            <span style="background-color: #0099CC">Curso 
+            de Workflow</span></FONT></SPAN><font color="#C0C0C0"><SPAN 
+            style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; background-color:#0099CC">&nbsp; </SPAN>
+            </font></b> 
+            <O:P></I></P>
+            <O:P>
+          <CENTER>
+            <P>&nbsp;</P></center></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=9>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFFFCC colSpan=2 height=9>
+            <b> <font size="3"><span style="font-family: Arial">Nova data 
+            definida: 21 e 22/06/05</span></font><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            Rio de Janeiro</font></b></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=9>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=9>
+            <P align=right><font face="Arial">&nbsp; </font> </P></TD></TR>
+        <CENTER>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=9>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=9><SPAN 
+            style="mso-bidi-font-family: Times New Roman">
+          <FONT face=Arial size=2><B>Objetivos:</B></FONT></SPAN></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=10>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=10 bgcolor="#FFFFFF">
+            <P class=MsoNormal style="TEXT-INDENT: 35.4pt"><SPAN 
+            style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Por mais que os 
+            processos de negócios de uma empresa estejam documentados, 
+            organizados, simplificados, eles não são ativos. Nenhum processo na 
+            verdade o é. Workflow é a tecnologia que pode ativar qualquer 
+            processo, garantindo o acompanhamento constante de todas as 
+            atividades que o compõe. Workflow é a única tecnologia que garante o 
+            aumento de produtividade com objetividade e segurança. Com Workflow 
+            cada atividade é gerenciada de forma isolada quanto aos tempos e 
+            métodos com os quais ela tem que ser realizada e de forma coletiva 
+            quanto ao processo como um todo.<O:P> </O:P></SPAN></P><SPAN 
+            style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA">O 
+            participante aprenderá como e por que implantar um software de 
+            Workflow. Quais as principais características destes softwares e de 
+            que forma eles podem aumentar a produtividade de velhos e novos 
+            sistemas.</SPAN><font face="Arial"> </font> 
+          </TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=1>
+          <FONT face=Arial size=2><B><SPAN 
+            style="mso-bidi-font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA">Comentários 
+            de quem já fez o treinamento:</SPAN></B></FONT></TD></TR></CENTER>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=27>
+            <P align=left>&nbsp;</P></TD>
+          <TD width=1093 colSpan=2 height=27 bgcolor="#FFFFFF">
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><SPAN style="FONT-FAMILY: Arial"><FONT size=2>“Uma 
+            apresentação sobre o workflow completa e abrangete, possibilitando 
+            ter uma visão da tecnologia e suas aplicabilidades&quot;.</FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><span style="font-family: Arial"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;
+            </font><font size="1">Carlos Batista - ACAL Consultoria - RJ</font></span></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left>&nbsp;</P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><font size="2"><span style="font-family: Arial">&quot;</span></font><SPAN style="FONT-FAMILY: Arial"><FONT size=2>Foi 
+            um dos melhores (se não o melhor) curso que já fiz. Muito bem 
+            estruturado e ministrado”.</FONT><FONT size=1><O:P> </O:P></FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><SPAN style="FONT-FAMILY: Arial"><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT size=1>João 
+            Augusto da Costa Jr. - Consultor<O:P> </O:P>- Unisys<SPAN 
+            style="FONT-FAMILY: Arial; mso-spacerun: yes">&nbsp; </SPAN>Brasil - 
+            SP</FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><SPAN style="FONT-FAMILY: Arial"><FONT 
+            size=1><O:P></O:P></FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><SPAN style="FONT-FAMILY: Arial"><FONT size=2>“O curso 
+            teve seu ganho maior pela figura do treinador - Tadeu Cruz - que 
+            pode trazer de forma clara exemplos que efetivamente refletem 
+            acontecimentos organizacionais”.</FONT><FONT size=1><O:P> 
+            </O:P></FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp; <font size="1">Joelma Ferreira 
+            da Rocha - SHELL - SP</font></font></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left>&nbsp;</P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><SPAN style="FONT-FAMILY: Arial"><FONT size=2>“O 
+            treinamento me deu uma ótima base para adquirir e trabalhar com 
+            Workflow”.</FONT><FONT size=1><O:P> </O:P></FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp; <font size="1">Georgea de Souza 
+            Oliveira - Sola Brasil - RJ</font></font></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left>&nbsp;</P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><SPAN style="FONT-FAMILY: Arial"><FONT size=2>“O 
+            treinamento foi bastante claro, dinâmico e objetivo.Foi bastante 
+            satisfatório!”.</FONT><FONT 
+            size=1><O:P> </O:P></FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp; <font size="1">Helane Medeiros 
+            Pinheiro Serrão - Associação Britânica de Educação - RJ</font></font></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%" 
+            align=left>&nbsp;</P>
+            </TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=1><SPAN 
+            style="mso-bidi-font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA"><FONT 
+            face=Arial color=#0000ff size=2><B>Ementa:</B></FONT></SPAN></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=1 bgcolor="#FFFFFF">
+            <P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT face=Arial 
+            size=2><B>Parte I</B><BR>&nbsp;&nbsp;&nbsp;- Como analisar a empresa 
+            através do Modelo de Relacionamento Cíclico<BR>&nbsp;&nbsp;&nbsp;- A 
+            reengenharia<BR>&nbsp;&nbsp;&nbsp;- A norma ISO 
+            9000.<BR>&nbsp;&nbsp;&nbsp;- Os processos.<BR>&nbsp;&nbsp;&nbsp;- Os 
+            subprocessos.<BR>&nbsp;&nbsp;&nbsp;- As atividades.<BR><B>Parte 
+            II</B><BR>&nbsp;&nbsp;&nbsp;- Discutindo organização e 
+            cultura.<BR>&nbsp;&nbsp;&nbsp;- Analise das curvas de aprendizagem e 
+            aceitação do Workflow.<BR><B>Parte III</B><BR>&nbsp;&nbsp;&nbsp;- 
+            Fundamentos do Workflow.<BR>&nbsp;&nbsp;&nbsp;- O que é 
+            Groupware?<BR>&nbsp;&nbsp;&nbsp;- O que é o modelo 
+            Workgroup?<BR>&nbsp;&nbsp;&nbsp;- O que é o modelo 
+            Workflow?<BR>&nbsp;&nbsp;&nbsp;- Tipos de Workflow.<BR><B>Parte 
+            IV</B><BR>&nbsp;&nbsp;&nbsp;- Estrutura do 
+            Workflow.<BR>&nbsp;&nbsp;&nbsp;- Os três Rs do 
+            Workflow.<BR>&nbsp;&nbsp;&nbsp;- Aprendendo a definir o elemento 
+            Papel.<BR>&nbsp;&nbsp;&nbsp;- Aprendendo a metodologia 
+            P3Rs.<BR>&nbsp;&nbsp;&nbsp;- Aprendendo a definir 
+            Regras.<BR><B>Parte V</B><BR>&nbsp;&nbsp;&nbsp;- Aprendendo a 
+            implantar um sistema de 
+            Workflow.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar processos de 
+            negócios.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar os clientes internos e 
+            externos.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar as áreas envolvidas no 
+            processo.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar os papéis 
+            funcionais.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar os responsáveis pelos papéis 
+            funcionais.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar os dados que serão 
+            administrados.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar a origem e o armazenamento dos 
+            dados.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar os formulários 
+            eletrônicos.<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 
+            Identificar as aplicações externas.<BR><B>Parte 
+            VI</B><BR>&nbsp;&nbsp;&nbsp;- Parte 
+            prática<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstração de um software 
+            de Workflow.</FONT></P>
+            <P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"> </P></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=21>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=21><B>
+          <FONT 
+            face=Arial size=2>Público Alvo:</FONT></B></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=21>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=21 bgcolor="#FFFFFF">
+            <P class=MsoBodyTextIndent 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; mso-list: l20 level1 lfo34; tab-stops: list 53.4pt"><FONT 
+            face=Arial size=2>Diretores, gerentes, supervisores, profissionais 
+            em desenvolvimento, profissionais da área de processos, 
+            profissionais da área de tecnologia da informação.<BR>Fortemente 
+            recomendado para profissionais das áreas de GED, O&amp;M e áreas 
+            correlatas.</FONT></P>
+            <P class=MsoBodyTextIndent 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; mso-list: l20 level1 lfo34; tab-stops: list 53.4pt">&nbsp;</P></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=16>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=16>
+          <FONT face=Arial size=2><B>Informações Gerais</B></FONT></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=17>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=17 bgcolor="#FFFFFF">
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Carga Horária</FONT></SPAN></B><FONT face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman">: <FONT 
+            color=#ff0000><B><U>16 Horas<O:P> - 2 dias</O:P></U></B></FONT> 
+            </SPAN></FONT></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Horário</FONT></SPAN></B><FONT face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman">: 9:00 às 12:30 e 
+            13:30 às 18:00 horas – 8:30 às 9:00 do primeiro dia é reservado para 
+            retirada do material e crachá de identificação.<O:P> 
+            </O:P></SPAN></FONT></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Valor</FONT></SPAN></B><FONT face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman">: Curso realizado no 
+            Rio de Janeiro - R$ 620,00&nbsp;&nbsp;</SPAN></FONT></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><FONT 
+            face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            Desconto de 5% para a segunda ou mais pessoas da mesma empresa.<O:P> 
+            </O:P></SPAN></FONT></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Inclusos</FONT></SPAN></B><FONT face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman">: Apostila com os slides 
+            apresentados, material de apoio, <I 
+            style="mso-bidi-font-style: normal">coffe-break</I>, certificado de 
+            conclusão.</SPAN></FONT></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify">&nbsp;</P></TD></TR>
+        <tr>
+          <TD width=57 bgColor=#0099CC height=21>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=14>
+          <FONT 
+            face=Arial size=2>
+          <b>Local:</b></FONT></TD>
+        </tr>
+        <tr>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=1 bgcolor="#FFFFFF">
+            <p style="word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0"><font face="Arial" size="2" color="#800000">H</font><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="2" color="#800000"><SPAN 
+                  style="FONT-FAMILY: Arial"><FONT size=2>otel Othon Palace
+
+Av. Atlântica, 3264,
+Copacabana - RJ</FONT></SPAN></font><font face="Arial" size="2" color="#800000">
+    
+        </font>
+            </p>
+            <p style="word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0">
+            <FONT size=1 face="Arial">&nbsp;&nbsp;&nbsp;</FONT></p>
+          </TD>
+        </tr>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=21>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=14>
+          <FONT 
+            face=Arial size=2>
+          <b>Critério 
+            de inscrição:</b></FONT></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=1 bgcolor="#FFFFFF">
+            <p style="word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0"><font face="Arial" size="2"><span style="mso-bidi-font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA">O
+            candidato deverá enviar a ficha de incrição ao SAGE. <a href="http://www.sage.coppe.ufrj.br/cursos/inscricao.doc">Clique
+            aqui para baixar a ficha de inscrição</a>.</span></font></p>
+            <p style="word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0">
+            <FONT size=1 face="Arial">&nbsp;&nbsp;&nbsp;</FONT></p>
+                  <p style="word-spacing: 0; line-height: 100%; text-indent: 0; margin: 0"><SPAN 
+                  style="mso-bidi-font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA"><FONT 
+                  face=Arial size=2>Será considerado inscrito o candidato que 
+                  comprovar depósito bancário em até 5 dias antes do início do 
+                  treinamento.</FONT></SPAN></p>
+          </TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=19>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=19>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Opção de treinamento dentro da 
+            empresa:</FONT></SPAN></B><FONT face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><O:P> 
+            </O:P></SPAN></FONT></P></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=81>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=81 bgcolor="#FFFFFF">
+            <P 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%"><SPAN 
+            style="mso-bidi-font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA"><FONT 
+            face=Arial size=2>Este treinamento poderá ser efetuado dentro de sua 
+            empresa e direcionado às suas necessidades. Entre em contato com o 
+            SAGE para informações adicionais.</FONT></SPAN></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify">&nbsp;</P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Local do treinamento</FONT></SPAN></B><FONT face=Arial 
+            size=2><SPAN style="mso-bidi-font-family: Times New Roman">: a 
+            empresa deverá providenciar espaço físico para o treinamento, com os 
+            seguintes itens: </SPAN></FONT><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Cadeiras com apoio para anotações, um projetor de multimídia, 
+            um computador com CD-ROM e<SPAN style="mso-spacerun: yes">&nbsp; 
+            </SPAN><I style="mso-bidi-font-style: normal">Power Point</I> 2000 
+            instalado, quadro com pincéis coloridos, c</FONT></SPAN><I 
+            style="mso-bidi-font-style: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>offe break</FONT></SPAN></I><FONT face=Arial size=2><SPAN 
+            style="mso-bidi-font-family: Times New Roman"> (se assim o 
+            desejar).<O:P> </O:P></SPAN></FONT></P>
+            <P class=MsoNormal 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%; TEXT-ALIGN: justify"><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Alteração do programa para adaptação às necessidades da 
+            Empresa<O:P> </O:P></FONT></SPAN></B></P>
+            <P class=MsoBodyTextIndent 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>A proposta de treinamento apresentada poderá ser alterada e 
+            adaptada às necessidades de sua empresa ou instituição<O:P> 
+            </O:P></FONT></SPAN></P>
+            <P class=MsoBodyTextIndent 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%"><SPAN 
+            style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+            size=2>Tanto a carga horária quanto conteúdo poderão ser alterados e 
+            adaptados.<O:P> </O:P></FONT></SPAN></P>
+          </TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 bgColor=#FFCC00 colSpan=2 height=1><B 
+            style="mso-bidi-font-weight: normal"><SPAN 
+            style="mso-bidi-font-family: Times New Roman">
+          <FONT face=Arial size=2>Informações adicionais:</FONT></SPAN></B></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=1>&nbsp;</TD>
+          <TD width=1093 colSpan=2 height=1 bgcolor="#FFFFFF">
+                  <P 
+                  style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%"><SPAN 
+                  style="mso-bidi-font-family: Times New Roman"><FONT face=Arial 
+                  size=2>Laboratório de Sistemas Avançados de Gestão da Produção 
+                  – SAGE-COPPE -UFRJ&nbsp;</FONT></SPAN></P>
+                  <P 
+                  style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%"><FONT 
+                  face=Arial size=2><SPAN 
+                  style="mso-bidi-font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA">Tel:
+                  21-3089-5275<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>E-mail:
+                  <a href="mailto:sage@pep.ufrj.br"> sage@pep.ufrj.br</a></SPAN></FONT></P>
+                  <P 
+                  style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%">&nbsp;</P>
+                  <P 
+                  style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%"><font face="Arial" size="2"><span style="mso-bidi-font-family: Times New Roman">O
+                  Sage se reserva o direito de cancelar um curso ou evento por
+                  não atingir número mínimo de participantes ou motivo de
+                  força maior.</span></font></P>
+            <P 
+            style="MARGIN: 0px; WORD-SPACING: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 100%">&nbsp;</P></TD></TR>
+        <TR>
+          <TD width=57 bgColor=#0099CC height=21>&nbsp;</TD>
+          <TD width=1093 bgColor=#0099CC colSpan=2 height=21><SPAN 
+                  style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; mso-bidi-font-size: 10.0pt; mso-ansi-language: PT-BR">Se desejar retirar seu email de nosso cadastro 
+                  de mala direta por favor </SPAN><a href="mailto:sage@pep.ufrj.br?subject=Remove">
+          <SPAN 
+                  style="font-size: 9pt; font-family: Arial; mso-bidi-font-size: 10.0pt; mso-ansi-language: PT-BR; font-weight:700">
+          <font color="#FFFFCC">clique 
+                  aqui </font> </SPAN></a><SPAN 
+                  style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; mso-bidi-font-size: 10.0pt; mso-ansi-language: PT-BR">ou&nbsp; responda para</SPAN><SPAN 
+                  style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-ansi-language: PT-BR"> 
+                  <a href="mailto:sage@pep.ufrj.br"><font color="#FFFFCC">s<b>age@pep.ufrj.br</b></font></a> 
+                  </SPAN><SPAN 
+                  style="FONT-SIZE: 9pt; FONT-FAMILY: Arial; mso-bidi-font-size: 10.0pt; mso-ansi-language: PT-BR">com o seguinte assunto: 
+              REMOVE.</SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>

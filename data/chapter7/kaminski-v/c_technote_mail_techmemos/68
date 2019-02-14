@@ -1,0 +1,46 @@
+Message-ID: <19266082.1075856595232.JavaMail.evans@thyme>
+Date: Wed, 10 Jan 2001 07:49:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: kenneth.parkhill@enron.com
+Subject: Storage model change: Commodity Delta
+Cc: stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com
+X-From: Zimin Lu
+X-To: Kenneth Parkhill
+X-cc: Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear All,
+
+
+I change the storage model output to its total value versus the unit value 
+before.
+The total value refers to the total present value of the storage capacity at 
+given
+status (initial conditions).
+
+The way I calculate the unit value is 
+
+(Total PV - S*capacity taken)/total capacity
+
+which could suffer some negative numbers since S, the spot price could be
+very high.  The correct way is to define the S as the average injection gas 
+price, but
+ this would be troublesome to compute.
+
+By switching to total PV, the delta can be interpreted as total commodity 
+delta for the
+hedge.  Actually, Duffie also suggested using the total PV as the output in 
+his audit
+review.
+
+I have attached the XLL model below.
+
+Zimin
+
+

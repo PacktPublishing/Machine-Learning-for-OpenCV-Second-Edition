@@ -1,0 +1,41 @@
+Return-Path: <ltldofm@o2.pl>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 26592 invoked from network); 27 Jan 2005 17:42:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 Jan 2005 17:42:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Jan 2005 17:42:20 -0000
+Received: (qmail 25347 invoked from network); 27 Jan 2005 17:42:19 -0000
+Received: from adsl-4-35.cytanet.com.cy (unknown [83.168.4.35])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Jan 2005 17:42:16 -0000
+Received: from marvit (modem-2345.rns.tamu.edu [148.15.170.41])
+	by morpheus.tamu.edu (8.6.3 (MessagingDirect 1.8.4)/8.8.3) with SMTP id OA84022760
+	for <lists-bikini@bruce-guenter.dyndns.org>; Thu, 27 Jan 2005 10:34:09 -0700
+Date: Thu, 27 Jan 2005 16:40:09 -0100
+From: "Lindsey Crump" <ltldofm@o2.pl>
+Message-ID: <2D6AA7EB.9300599@island.net>
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: Re: 
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Ximian Evolution 1.4.3 (1.4.3-0)
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2800.1479" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<P>How have you been? I have very exciting news!</P>
+<P>We FINALLY were able to save an extra $450 a month</P>
+<P>We refinanced our mortgage with a 3.75% lower rate, and closing was fast!</P>
+<P>The application was free and we got several low rate quotes within days</P>
+<P>CIick on this link and check it out!</P><A 
+href="http://www.just-mort-gage.com/?d37">Time to Save</A> 
+<P>Hope you do good with money over the coming year</P>
+<P>Lindsey Crump</BODY></HTML>
+

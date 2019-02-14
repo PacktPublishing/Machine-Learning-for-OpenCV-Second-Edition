@@ -1,0 +1,48 @@
+Return-Path: <Cornelius.Murdock@bresnan.net>
+Received: (fqmail 4111 invoked from network); 14 Oct 2004 08:42:36 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 14 Oct 2004 08:42:36 -0000
+Received: (qmail 16837 invoked from network); 14 Oct 2004 08:42:36 -0000
+Received: from 69.5.6.171 ([218.237.221.167])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 14 Oct 2004 08:42:35 -0000
+X-Message-Info: qrs926X15g83J855KFTZgYQD206lFB1mikDHMxdNUN73ZI77
+Received: (from contralateral@218.237.221.167)
+	by hurry0.75.98.202.161 (1.35.9/7.62.2) id j08HEkP024051;
+	Thu, 14 Oct 2004 01:44:10 -0700
+Message-ID: <5995878$45840O$1055@optonline.net>
+Delivery-Date: Thu, 14 Oct 2004 10:40:10 +0200
+Keywords: clime dachshund 
+Comments: fogy whomever 
+Reply-To: "Lucinda Rivas" <Cornelius.Murdock@bresnan.net>
+From: "Lucinda Rivas" <Cornelius.Murdock@bresnan.net>
+To: webmaster@ezmlm.org
+Cc: bugs@ezmlm.org
+Subject: Confirm Your Application Today
+Date: Thu, 14 Oct 2004 13:45:10 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--31626734077138550815"
+
+----31626734077138550815
+Content-Type: text/html;
+	charset="iso-8026-9"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+
+Dear Applicant,<p>
+
+Because you're a valued member, you're been approved for a loan of $350,000.<br>
+Accept this offer before 10/16/2004 and start enjoying your loan today.<p>
+
+Accept today at:<br>
+<a href="http://polar.moneyanalysis.net/s6/jj.php?n5n=63">http://polaroid.moneyanalysis.net/s6/jj.php?n5n=63</a><p>
+Sincerely,<br>
+PayLoan Co.<br>
+
+</html>
+
+
+----31626734077138550815--

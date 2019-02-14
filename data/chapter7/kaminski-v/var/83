@@ -1,0 +1,74 @@
+Message-ID: <14319226.1075856642581.JavaMail.evans@thyme>
+Date: Fri, 28 Jul 2000 13:19:00 -0700 (PDT)
+From: kirstee.hewitt@enron.com
+To: vince.kaminski@enron.com
+Subject: VaR numbers for the 26th
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kirstee Hewitt
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince,
+I apologise that I did not send you the following mail ...
+Kirsteee
+---------------------- Forwarded by Kirstee Hewitt/LON/ECT on 28/07/2000 
+20:21 ---------------------------
+   
+
+
+	Enron Europe
+	
+	From:  Kirstee Hewitt                           27/07/2000 20:33
+	
+
+To: Andreas.Barschkis@mgusa.com
+cc: Bjorn Hagelmann/HOU/ECT@ECT, Grant Masson/HOU/ECT@ECT 
+
+Subject: VaR numbers for the 26th
+
+Hi Andreas,
+
+I have run the VaR model for the 26th July and have attached a zip file of 
+the results:
+
+The total VaR is $4,170,653 and the Cu position is $1,852,876.
+
+
+I have had trouble getting hold of you so I thought I would summarised what I 
+wanted to talk about (also I thought 
+I would give your ears a rest!)
+Basically it is wrt the second point in your mail yesterday (we briefly 
+discussed it earlier). 
+The fax you sent me to explain the risk calculation suggested that you use a 
+5 day period of adjustment to calculate 
+the risk (in this case it is called Capital at Risk). The VaR calculation for 
+our model is for a one day holding period which means that your risk factor
+will be reduced by a factor equal the sqrt(5) or 2.24. 
+Since :
+
+Old risk factor (%) =  1.65*(std of the price movement) = 3.99%
+ 
+New daily risk factor = 3.99/2.24  = 1.78%    which actually equates to std 
+of approx 1.1% a day.
+I am happy with this as a estimate of the vol as the annualized spot vol we 
+are showing for Cu is approx 19% which equates to approx 1.2% daily.
+
+Using this new risk factor for the daily VaR the Cu positions would give a 
+VaR (for the 19th) of approx $2m which is less that the 
+figure we estimated ($3,100,568).
+The other thing is that by taking net numbers we are disregarding the term 
+structure of the price curve/vol curve and position 
+curve and are hence collapsing everything into a one factor model which means 
+that it is difficult to compare the numbers.
+I hope that this helps to explain our number.
+
+Hopefully we can talk tomorrow,
+Cheers
+Kirstee
+
+ 

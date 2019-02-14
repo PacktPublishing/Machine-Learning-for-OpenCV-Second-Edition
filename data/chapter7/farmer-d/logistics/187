@@ -1,0 +1,55 @@
+Message-ID: <16884979.1075840436699.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 10:08:48 -0700 (PDT)
+From: bob.hall@enron.com
+To: brian.redmond@enron.com, sally.beck@enron.com, james.coffey@enron.com, 
+	anne.koehler@enron.com, barbara.gray@enron.com, 
+	michael.eiben@enron.com, edward.terry@enron.com, 
+	edward.gottlob@enron.com, leslie.thomas@enron.com, 
+	jeffrey.gossett@enron.com, david.baumbach@enron.com, 
+	rita.wynne@enron.com
+Subject: AEP_HPL Transition Issues
+Cc: kathryn.bussell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kathryn.bussell@enron.com
+X-From: Hall, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=16FA6AC9-767A307A-86256930-4B7B3A>
+X-To: Redmond, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=70D26BEC-D9650E89-862567BA-48531A>, Beck, Sally </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FEDD94A-C41CD5B2-862564B4-5C47AD>, Coffey, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GWADDR/CN=HQ1.EM1.JAMES COFFEY>, Koehler, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5D34CBD-14EDCD05-862567F5-4A7C13>, Gray, Barbara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9A4C7098-FDDDF864-86256500-6CAFFF>, Eiben, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8FE3512A-FC7DFFAF-86256491-68DF39>, Terry, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=7B023D70-6FBEACFB-86256498-4F8D6C>, Gottlob, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D576B619-E9D1D35B-86256514-723D81>, Thomas A Martin/HOU/ECT@ENRON, Daren J Farmer/HOU/ECT@ENRON, Reeves, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8C1A5ED7-DE168006-86256497-4DF994>, Gossett, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A7EA6A46-528529CC-86256546-79A536>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4024A912-59AF1432-8625679E-6E5440>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=64258C88-3B43FF56-86256490-4BDE29>, Tommy J Yanowski/HOU/ECT@ENRON
+X-cc: Bussell, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4F40194C-FED4451C-86256583-98C37>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Attached is an updated transitions list.
+
+Please review and send any changes so I can update.
+
+I will update again Thursday and will include a column for status.
+
+We are in the process of drafting procedures which will have to become a formal protocol for AEP.
+
+These are:
+
+Request for New/maintenance of counterparties.  Once Web page is developed, procedures will
+be completed.
+
+Request for new portfolios (books) after close.  Drafting procedures.
+
+Request for new employee security.
+
+Request to change curve mapping in ERMS/CPS.  Drafting procedures.
+
+Also, it appears the IT service agreement may have to be amended to cover the 
+Web pages used to push operational data to customers (If AEP wants to continue
+the service) and the Tariff filing system we just put into production.
+
+Also, we will need to resolve how we handle counterparties that Enron credit has request we suspend trading when
+AEP wants to continue trading.
+
+We have had discussions with AEP about all of these issues and procedures.
+
+
+
+
+
+ 

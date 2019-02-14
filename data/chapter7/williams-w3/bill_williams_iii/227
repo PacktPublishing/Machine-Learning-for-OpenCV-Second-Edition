@@ -1,0 +1,23 @@
+Message-ID: <11113758.1075863300480.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 17:36:40 -0700 (PDT)
+From: sean.crandall@enron.com
+To: shift.dl-portland@enron.com, diana.scholtes@enron.com, 
+	cara.semperger@enron.com
+Subject: Day-Ahead transactions to be handled Real-Time
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCRANDA>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>, Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>, Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csemper>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+1.  Friday, August 17, and Saturday, August 18 we are 25 MW SHORT at PGE's System for HE 15 thru HE 20.  Note:  This is not the same as being short at the Mid-C.  Purchases to fill this short should be put in the short-term Northwest book.  Buy from whomever and notify PGE Real-Time Merchant of the supply.
+
+2.  Friday, August 17, and Saturday, August 18 we are 45 MW short for HE 1-6 and HE 23-24, and 27 MW short for HE 7-22 to Portland General at the MID-C.  Supplier should be at the Mid-C.  Purchases to fill this short should be put in the short-term Northwest book.  Buy from whomever and notify PGE Real-Time Merchant of the supply.
+
+3.  For Friday, August 17 we have 100 MW for HE 07-23 delivered to Portland General at their system (Puget->BPA->PGE).  This is supply for a schedule we will have going to NCPA at COB (PGE->Enron->PGE Trans->NCPA).  The tags have been built already (30070 for Friday and 30071 for Saturday) and are pending.  You will have to implement them at the appropriate time.  You do not need to notify Puget or BPA.  Just coordinate the schedule between PGE and NCPA.
+
+4.   For Friday, August 18 we have 100 MW for HE 07-22.  Same set up as in (3), only 7-22 instead of 7-23. 

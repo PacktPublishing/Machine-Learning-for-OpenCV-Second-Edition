@@ -1,0 +1,77 @@
+Message-ID: <4443625.1075856609380.JavaMail.evans@thyme>
+Date: Tue, 24 Oct 2000 09:22:00 -0700 (PDT)
+From: steven.leppard@enron.com
+To: vince.kaminski@enron.com
+Subject: In Confidence/Project Status
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven Leppard
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince
+
+I'd originally been told you wouldn't be back until Wednesday, and so have 
+another meeting booked for 4:30pm (London time) today.  I really need to 
+speak with you about the situation here in London re Anjam.  To be blunt, 
+Sharad, Kirstee and I have all been tempted to just walk out of the office 
+until Anjam is removed.  The major problems are:
+1. I have no authority to demand Anjam should cooperate with Sharad, Kirstee 
+etc. on their work.  He does his best to impede their work, and I have no 
+ability to access his drives for data/spreadsheets.
+2. Anjam removes me from the cc lists in reply to all emails received by him, 
+in an attempt to remove me from the loop.
+3. Anjam continues to "do business", and people in London still think he's 
+head of Research.
+4. Pending your "announcement", people will continue to go to Anjam, and the 
+business will remain dependent on him.
+5. We're severely under-resourced.  I'm still awaiting your review of the 
+email I drafted for John S, requesting additional resource.  I can't make a 
+big recruitment drive until I have the authority to hire more.
+I honestly feel I can't do my job, and I'm currently asking myself what I'm 
+even doing here.
+
+Notwithstanding the above, here is the current picture with our projects:
+
+Steve
+1. Initiated new pre-trade system for oil trading desk.  Hooked up relevant 
+IT resource with business people, keeping an overall eye on making sure the 
+business reqts get translated into IT-speak.
+2. Enron Direct demand forecasting system review.
+3. Initiated global supply/demand database with coal group.
+4. Constant firefighting across all desks.
+
+Ben
+1. Work on regression-based placement model.
+2. General review of EnronCredit.com's quant models.
+
+Matthew
+1. Ongoing work with EnGOAL.
+2. Produced first prototype of gas capacity charge optimisation tool for 
+Continental Gas desk.  Need to purchase local copy of CPLEX.
+
+Kirstee
+1. Diverted from Richard Lewis's request for the UK gas/power vol curves to 
+be sorted out, onto Eastern Virtual Power Station restructuring project.  
+Involves extension runs of credit reserve model, and now it seems the model 
+needs to be extended.
+2. Constant VaR firefighting.
+
+Slava
+1. Finished all regressions and model identification for UK gas and power 
+demand forecasting.  We are now ready to start IT implementation.
+2. Enron Direct demand forecasting system review.
+
+Sharad
+1. Exotica support/firefighting, made nearly impossible by Anjam.
+2. Option on strip of metals futures for Enron Metal.
+
+I do hope we get a chance to speak and resolve some of these issues.  I'm 
+really not happy at present.
+
+Best regards,
+Steve

@@ -1,0 +1,41 @@
+Return-Path: <newsletter@_cercaeletrica_.com.br>
+Received: (fqmail 5839 invoked from network); 18 Jan 2005 21:40:52 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 18 Jan 2005 21:40:52 -0000
+Received: (qmail 20616 invoked from network); 18 Jan 2005 21:40:52 -0000
+Received: from _cercaeletrica_.com.br (200-171-244-193.customer.telesp.net.br [200.171.244.193])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 18 Jan 2005 21:40:51 -0000
+From: =?ISO-8859-1?Q?CONFI'HASTES?= <newsletter@_cercaeletrica_.com.br>
+To: <webmaster@ezmlm.org>
+Subject: =?ISO-8859-1?Q?Aten=E7=E3o distribuidores de hastes p/ cerca el=E9trica?=
+Sender: =?ISO-8859-1?Q?CONFI'HASTES?= <newsletter@_cercaeletrica_.com.br>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Tue, 18 Jan 2005 19:40:51 -0200
+Reply-To: "=?ISO-8859-1?Q?CONFI'HASTES?=" <newsletter@_cercaeletrica_.com.br>
+Content-Transfer-Encoding: quoted-printable
+
+                   www.confihastes.com.br=20
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">=20
+<HTML><HEAD>=20
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-=
+1252">=20
+<META content=3D"MSHTML 6.00.2900.2523" name=3DGENERATOR>=20
+<STYLE>BODY {=20
+	FONT-FAMILY: arial=20
+}=20
+</STYLE>=20
+</HEAD>=20
+<BODY bottomMargin=3D0 topMargin=3D0 marginheight=3D"0" marginwidth=3D"0=
+">=20
+<P align=3Dcenter><A href=3D"http://www.confihastes.com.br"><IMG =20
+style=3D"WIDTH: 500px; alt: " hspace=3D0 =20
+src=3D"http://www.confihastes.com.br/newsletter/Flyer_11.jpg" border=3D0=
+ ?></A></P>=20
+<P align=3Dcenter><FONT face=3DVerdana size=3D2>Se voc=EA n=E3o quiser m=
+ais receber nossa =20
+newsletter <A href=3D"mailto:newsletter@confihastes.com.br?subject=3DRem=
+ove!"><FONT =20
+color=3D#808000>clique aqui</FONT></A></FONT></P></BODY></HTML>=20

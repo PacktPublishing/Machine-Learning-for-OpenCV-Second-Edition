@@ -1,0 +1,34 @@
+Return-Path: <rqk74xms@>
+Delivered-To: em-ca-bait-20030326114143@em.ca
+Received: (qmail 28939 invoked by uid 115); 13 Feb 2005 01:43:35 -0000
+Received: from rqk74xms@ by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.90.181.9):. 
+ Processed in 0.21901 secs); 13 Feb 2005 01:43:35 -0000
+Received: from unknown (HELO KENSTURGEN) (218.90.181.9)
+  by churchill.factcomp.com with SMTP; 13 Feb 2005 01:43:33 -0000
+To: bait-20030326114143@em.ca
+From: " Jenny" <rqk74xms@>
+Reply-To: " Jenny" <rqk74xms@>
+Date: Sat, 12 Feb 2005 20:45:13 -0500
+Subject: 
+Message-ID: <7gw1c6h90edkpk693dlurqk74xms@>
+MIME-Version: 1.0
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.4227.4425
+Content-Type: multipart/alternative;
+	boundary="--59576_4995908_3423317290431"
+
+----59576_4995908_3423317290431
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 8bit
+
+     
+    
+     
+
+----59576_4995908_3423317290431
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 8bit
+
+
+
+----59576_4995908_3423317290431--

@@ -1,0 +1,375 @@
+Return-Path: <bob@bitser.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13773 invoked by uid 115); 24 Nov 2004 08:15:05 -0000
+Received: from bob@bitser.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.90.123.29):. 
+ Processed in 0.325958 secs); 24 Nov 2004 08:15:05 -0000
+Received: from ppp-61.90.123.29.revip.asianet.co.th (HELO Bob) (61.90.123.29)
+  by churchill.factcomp.com with SMTP; 24 Nov 2004 08:15:03 -0000
+From: B Walker General Manager Bitser Corporation<bob@bitser.com>
+To: <bruceg@em.ca>
+Date: Wed, 24 Nov 2004 15:17:32 +0000
+Subject: Personal Security Software - Advertisement
+X-Mailer: TOL Mailer
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary=_0_.__.__TOL__Mailer__Part_Boundary_
+X-Qmail-Scanner-Message-ID: <110128410567213763@churchill>
+
+This is a multi-part message in MIME format.
+
+
+--_0_.__.__TOL__Mailer__Part_Boundary_
+Content-Type: multipart/related;
+	boundary=_1_.__.__TOL__Mailer__Part_Boundary_
+
+
+--_1_.__.__TOL__Mailer__Part_Boundary_
+Content-Type: multipart/alternative;
+	boundary=_2_.__.__TOL__Mailer__Part_Boundary_
+
+
+--_2_.__.__TOL__Mailer__Part_Boundary_
+Content-Type: text/plain
+Content-Transfer-Encoding: 7Bit
+
+<!---##6##--->
+<!---Image#1:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\img41.jpg1#--->
+<!---Image#2:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\bitser_email_logo.gif2#--->
+<!---Image#3:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\trans.gif3#--->
+<!---Image#4:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\layout4_flower.gif4#--->
+<!---Image#5:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\layout4_bg.jpg5#--->
+<!---Image#6:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\layout4_bg2.gif6#--->
+
+<!---Editable content starts here--->
+
+
+<html>
+<head>
+<title>Mail Wizard</title><meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1"></head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0"
+marginwidth="0" marginheight="0">
+<table width="550" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="45"><img src="images/layout4_flower.gif" width="45"
+height="25"></td>
+<td width="50" bgcolor="#A4231B">&nbsp;</td>
+<td width="435" bgcolor="#A4231B" align="left"> 
+<font face="Arial, Helvetica, sans-serif" size="2"><b><font
+color="#EFE4C1">
+<a href= "http://www.bitser.com"><Font color="white" face="Arial"
+size="2">ADVERTISEMENT FOR PERSONAL SECURITY
+SOFTWARE</Font></a></font></b></font></td>
+<td width="20" bgcolor="#A4231B">&nbsp;</td>
+ </tr>
+<tr> <td rowspan="4" background="images/layout4_bg.jpg">&nbsp;</td>
+<td width="50" background="images/layout4_bg2.gif">&nbsp;</td>
+<td width="435" background="images/layout4_bg2.gif"><br>
+<font face="Times New Roman, Times, serif" size="4"
+color="#A4231B"><i><p>Dear Computer User,</p></i></font>
+</td>
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+ </tr>
+<tr>
+ <td background="images/layout4_bg2.gif" colspan=3>
+<img src="images/trans.gif" width="7" height="7">
+</td>
+</tr><tr>
+<td width="50" background="images/layout4_bg2.gif">&nbsp;</td>
+<td width="435" background="images/layout4_bg2.gif" valign="top"><font
+face="Arial, Helvetica, sans-serif" size="2" color="#191919">
+<p>"SaveMine" personal security software provides two layers of protection
+for personal data files contained within your computer.  "SaveMine" creates a
+folder only accessable with the users personal password of up to 56
+characters.  Data files simply dragged and dropped into the password protected folder
+(or the window at the bottom of your desktop screen) are encrypted using
+128-bit technology.  Two layers of security protection. "SaveMine" is a MUST to
+protect personal data files.<BR></p><br>
+</font></td>
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+<tr> 
+<td width="50" background="images/layout4_bg2.gif">&nbsp;</td>
+<td width="435" background="images/layout4_bg2.gif" valign="top">
+<table width="435" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="145" valign="top">
+<table width="145" border="0" cellspacing="0" cellpadding="1">
+<tr> 
+ <td>
+<table width="144" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+  <td background="images/layout4_bg2.gif">
+<img width="144" height="142" src="Images\img41.jpg">	</td>
+</tr>
+ </table>
+</td>
+ </tr>
+ </table>
+ </td>
+<td valign="top" width="5"><img src="images/trans.gif" width="5"
+height="5">
+</td>
+<td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr> 
+<td colspan="3"><font face="Arial, Helvetica, sans-serif" size="2"
+color="#9A0704">
+<p>Look what you get with this great product</p></font></td>
+</tr>
+<tr>
+ <td colspan="3" height="5"><img src="images/trans.gif" width="5"
+height="5"></td></tr>
+<tr> 
+<td width="18" align="right" height="15"></td>
+<td width="5" height="15"><img src="images/trans.gif" width="5"
+height="5"></td>
+<td width="275" height="15"><font face="Arial, Helvetica, sans-serif"
+size="2" color="#191919">
+<p><UL type="fillround"><li>User-friendly IDENTITY THEFT!
+protection.</li><li>US$29.00 Special offer (NORMALLY $87).</li><li>YOU NEED THIS IN TODAY'S
+UNSAFE WORLD</li><li>Free upgrades for the life of your
+computer.</li></UL></p></font></td></tr><tr><td colspan="3" height="8"><img src="images/trans.gif"
+width="8" height="8"></td>
+</tr>
+<tr align="left">
+<td colspan="3"><font face="Arial, Helvetica, sans-serif" size="2"
+color="#191919"><br>
+</font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+ <tr> 
+<td width="50" background="images/layout4_bg.jpg">&nbsp;</td>
+<td width="435" background="images/layout4_bg2.gif"> &nbsp; </td>
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+<tr>
+ <td rowspan="5" background="images/layout4_bg.jpg">&nbsp;</td>
+<td width="50" background="images/layout4_bg2.gif">&nbsp;</td>
+<td width="435" background="images/layout4_bg2.gif">
+<a  href="http://www.bitser.com"><font face="Arial, Helvetica, sans-serif"
+size="3" color="#B32305"><p><Font color="gray" face="Arial" size="2">Bitser
+Corporation Co. Ltd.</a><br>
+ 13th Floor Olympia Thai Tower, Ratchadapisek Rd.,<br>
+ Bangkok, Thailand<br><br>
+<a href="mailto:bw@bitser.com">B.Walker General Manager</a><br>
+No more advertisements? <a href="mailto:unsubscribe@bitser.com">Click
+Here</a> Type unsubscribe click send.</Font></p></font></u>
+</td>
+
+
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+ <tr>
+ <td width="50" background="images/layout4_bg2.gif">&nbsp;</td><td
+width="435" background="images/layout4_bg2.gif" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+ <td height="22">&nbsp;</td>
+<td height="22" width="30">&nbsp;</td>
+<td height="22">&nbsp;</td>
+</tr><tr>
+<td width="182"><img width="182" height="79"
+src="Images\bitser_email_logo.gif"></td> <td colspan=2 vAlign="bottom" Align="right"><a
+href="http://www.bitser.com"><B><font face="Arial, Helvetica, sans-serif" size="2"
+color="#9A0704"><u><p>http://www.bitser.com</p></font></a></td>
+ </tr>
+<tr> 
+<td colspan="3">&nbsp;</td>
+</tr>
+</table>
+</td>
+<td width="20" background="images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>
+
+--_2_.__.__TOL__Mailer__Part_Boundary_
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!---##6##--->
+<!---Image#1:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\img41.jpg1#--->
+<!---Image#2:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\bitser_email_logo.gif2#--->
+<!---Image#3:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\trans.gif3#--->
+<!---Image#4:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\layout4_flower.gif4#--->
+<!---Image#5:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\layout4_bg.jpg5#--->
+<!---Image#6:C:\Documents and Settings\TOSHIBA\My Documents\Email search
+results\Images\layout4_bg2.gif6#--->
+
+<!---Editable content starts here--->
+
+
+<html>
+<head>
+<title>Mail Wizard</title><meta http-equiv=3D"Content-Type"
+content=3D"text/html; charset=3Diso-8859-1"></head>
+<body bgcolor=3D"#FFFFFF" text=3D"#000000" leftmargin=3D"0" topmargin=3D"0"
+marginwidth=3D"0" marginheight=3D"0">
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"45"><img src=3D"images/layout4_flower.gif" width=3D"45"
+height=3D"25"></td>
+<td width=3D"50" bgcolor=3D"#A4231B">&nbsp;</td>
+<td width=3D"435" bgcolor=3D"#A4231B" align=3D"left"> 
+<font face=3D"Arial, Helvetica, sans-serif" size=3D"2"><b><font
+color=3D"#EFE4C1">
+<a href=3D "http://www.bitser.com"><Font color=3D"white" face=3D"Arial"
+size=3D"2">ADVERTISEMENT FOR PERSONAL SECURITY
+SOFTWARE</Font></a></font></b></font></td>
+<td width=3D"20" bgcolor=3D"#A4231B">&nbsp;</td>
+ </tr>
+<tr> <td rowspan=3D"4" background=3D"images/layout4_bg.jpg">&nbsp;</td>
+<td width=3D"50" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+<td width=3D"435" background=3D"images/layout4_bg2.gif"><br>
+<font face=3D"Times New Roman, Times, serif" size=3D"4"
+color=3D"#A4231B"><i><p>Dear Computer User,</p></i></font>
+</td>
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+ </tr>
+<tr>
+ <td background=3D"images/layout4_bg2.gif" colspan=3D3>
+<img src=3D"images/trans.gif" width=3D"7" height=3D"7">
+</td>
+</tr><tr>
+<td width=3D"50" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+<td width=3D"435" background=3D"images/layout4_bg2.gif"
+valign=3D"top"><font face=3D"Arial, Helvetica, sans-serif" size=3D"2" color=3D"#191919">
+<p>"SaveMine" personal security software provides two layers of protection
+for personal data files contained within your computer.  "SaveMine" creates a
+folder only accessable with the users personal password of up to 56
+characters.  Data files simply dragged and dropped into the password protected folder
+(or the window at the bottom of your desktop screen) are encrypted using
+128-bit technology.  Two layers of security protection. "SaveMine" is a MUST to
+protect personal data files.<BR></p><br>
+</font></td>
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+<tr> 
+<td width=3D"50" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+<td width=3D"435" background=3D"images/layout4_bg2.gif" valign=3D"top">
+<table width=3D"435" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"145" valign=3D"top">
+<table width=3D"145" border=3D"0" cellspacing=3D"0" cellpadding=3D"1">
+<tr> 
+ <td>
+<table width=3D"144" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr> 
+  <td background=3D"images/layout4_bg2.gif">
+<img width=3D"144" height=3D"142" src=3D"Images\img41.jpg">	</td>
+</tr>
+ </table>
+</td>
+ </tr>
+ </table>
+ </td>
+<td valign=3D"top" width=3D"5"><img src=3D"images/trans.gif" width=3D"5"
+height=3D"5">
+</td>
+<td valign=3D"top">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr> 
+<td colspan=3D"3"><font face=3D"Arial, Helvetica, sans-serif" size=3D"2"
+color=3D"#9A0704">
+<p>Look what you get with this great product</p></font></td>
+</tr>
+<tr>
+ <td colspan=3D"3" height=3D"5"><img src=3D"images/trans.gif" width=3D"5"
+height=3D"5"></td></tr>
+<tr> 
+<td width=3D"18" align=3D"right" height=3D"15"></td>
+<td width=3D"5" height=3D"15"><img src=3D"images/trans.gif" width=3D"5"
+height=3D"5"></td>
+<td width=3D"275" height=3D"15"><font face=3D"Arial, Helvetica, sans-serif"
+size=3D"2" color=3D"#191919">
+<p><UL type=3D"fillround"><li>User-friendly IDENTITY THEFT!
+protection.</li><li>US$29.00 Special offer (NORMALLY $87).</li><li>YOU NEED THIS IN TODAY'S
+UNSAFE WORLD</li><li>Free upgrades for the life of your
+computer.</li></UL></p></font></td></tr><tr><td colspan=3D"3" height=3D"8"><img
+src=3D"images/trans.gif" width=3D"8" height=3D"8"></td>
+</tr>
+<tr align=3D"left">
+<td colspan=3D"3"><font face=3D"Arial, Helvetica, sans-serif" size=3D"2"
+color=3D"#191919"><br>
+</font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+ <tr> 
+<td width=3D"50" background=3D"images/layout4_bg.jpg">&nbsp;</td>
+<td width=3D"435" background=3D"images/layout4_bg2.gif"> &nbsp; </td>
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+<tr>
+ <td rowspan=3D"5" background=3D"images/layout4_bg.jpg">&nbsp;</td>
+<td width=3D"50" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+<td width=3D"435" background=3D"images/layout4_bg2.gif">
+<a  href=3D"http://www.bitser.com"><font face=3D"Arial, Helvetica,
+sans-serif" size=3D"3" color=3D"#B32305"><p><Font color=3D"gray" face=3D"Arial"
+size=3D"2">Bitser Corporation Co. Ltd.</a><br>
+ 13th Floor Olympia Thai Tower, Ratchadapisek Rd.,<br>
+ Bangkok, Thailand<br><br>
+<a href=3D"mailto:bw@bitser.com">B.Walker General Manager</a><br>
+No more advertisements? <a href=3D"mailto:unsubscribe@bitser.com">Click
+Here</a> Type unsubscribe click send.</Font></p></font></u>
+</td>
+
+
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+ <tr>
+ <td width=3D"50" background=3D"images/layout4_bg2.gif">&nbsp;</td><td
+width=3D"435" background=3D"images/layout4_bg2.gif" valign=3D"top">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr> 
+ <td height=3D"22">&nbsp;</td>
+<td height=3D"22" width=3D"30">&nbsp;</td>
+<td height=3D"22">&nbsp;</td>
+</tr><tr>
+<td width=3D"182"><img width=3D"182" height=3D"79"
+src=3D"Images\bitser_email_logo.gif"></td> <td colspan=3D2 vAlign=3D"bottom" Align=3D"right"><a
+href=3D"http://www.bitser.com"><B><font face=3D"Arial, Helvetica, sans-serif"
+size=3D"2" color=3D"#9A0704"><u><p>http://www.bitser.com</p></font></a></td>
+ </tr>
+<tr> 
+<td colspan=3D"3">&nbsp;</td>
+</tr>
+</table>
+</td>
+<td width=3D"20" background=3D"images/layout4_bg2.gif">&nbsp;</td>
+</tr>
+</table>
+</body>
+</html>
+--_2_.__.__TOL__Mailer__Part_Boundary_--
+--_1_.__.__TOL__Mailer__Part_Boundary_--
+--_0_.__.__TOL__Mailer__Part_Boundary_--
+

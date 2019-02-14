@@ -1,0 +1,49 @@
+Return-Path: <oakes@tuoitho.net>
+Delivered-To: em-ca-bait-reckless@em.ca
+Received: (qmail 22435 invoked by uid 115); 21 Nov 2004 02:02:41 -0000
+Received: from oakes@tuoitho.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(24.0.135.68):. 
+ Processed in 0.112917 secs); 21 Nov 2004 02:02:41 -0000
+Received: from c-24-0-135-68.client.comcast.net (24.0.135.68)
+  by churchill.factcomp.com with SMTP; 21 Nov 2004 02:02:40 -0000
+Return-Path: <oakes@tuoitho.net>
+Received: from 22.32.25.200 (HELO blank4.codebreak.com.ar) (200.42.0.162) by mta157.mail.re2.capacitate.com with SMTP; width
+Original-Recipient: rfc822; oakes@tuoitho.net
+Date: Sun, 21 Nov 2004 01:01:08 -0200
+Message-Id: <000b01c4c5a5$cc286312$521f52c8@bengovxdg4eyze>
+From: "Sung H. Fair " <oakes@tuoitho.net>
+To: bait-proverbs@em.ca, bait-reckless@em.ca, bob.smith@em.ca, design@em.ca, msuggitt@em.ca, siobhan@em.ca, songbird@em.ca, tam@em.ca, tomg@em.ca, uid0@em.ca, wushuguan@em.ca
+X-Originating-Email: [oakes@tuoitho.net]
+X-Originating-IP: [112.180.248.214]
+X-Sender: oakes@tuoitho.net
+Subject:  Did you decide yet?
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Message-flag: Authentic Sender, Hash: YmGmCcHg
+Content-Disposition: inline
+
+<HTML>
+<BODY bgColor=#ffffff>
+<DIV align=center><FONT face="Arial Black">If you are paying more than 3.6% on 
+your mortgage, </FONT></DIV>
+<DIV align=center><FONT face="Arial Black">we can slash your monthly 
+payment!</FONT></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>(must have owned your home at 
+least 24 months to qualify for this special program)</FONT></STRONG></DIV>
+<DIV><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>GUARANTEED LOWEST RATES ON THE 
+PLANET</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT></DIV>
+<DIV align=center><STRONG><FONT face=Arial>CREDIT REPORT NOT 
+NEEDED<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>Start </FONT></STRONG><A 
+href="http://lightgoldenrodyellow.your-refinance.com/s5/o0o.php?n5n=51" target=_blank><STRONG><FONT 
+face=Arial>here</FONT></STRONG></A><STRONG><FONT face=Arial> for 
+an&nbsp;insta-quote and<BR>monthly savings calculation<BR></FONT></STRONG></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>&nbsp;No other way to so quickly 
+and easily<BR>lower your monthly payments!</FONT></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV></BODY></HTML>
+

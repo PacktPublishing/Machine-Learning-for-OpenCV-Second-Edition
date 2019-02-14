@@ -1,0 +1,33 @@
+Message-ID: <21656677.1075863301744.JavaMail.evans@thyme>
+Date: Tue, 14 Aug 2001 13:42:48 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: A few reminders....
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+
+Please make a note of the following. I know we have several new traders, and details often get overlooked in the midst of the learning process. But this is not only information for the new guys a reminder for the old that attention to detail is an important part of the job. Thanks.
+
+1. Purchases made under one book must be sold under the same book. Pay attention when extending deals. If you don't purchase the energy in a particular book, you don't have energy to sell from that book.
+
+2. Specify EPEC as the group when entering deals for El Paso. Also, pay attention to detail with EPE spinning reserves (as a violation is extremely expensive for EPE), also curtail units in the right order. Copper then Newman 4 then Four Corners (Be sure to curtail Four Corners before selling under cost!)
+
+3. El Paso model must tie out with CARP when trading day is done. Check spreadsheet formulas. Print a copy of the model and attach it to the CARP before filing.
+
+4. El Paso totals should be logged in the reconciliation model (m://electric/epe/epe01/aug01/epe reconciliation model) and all variances explained.
+
+5. Bloomberg deals need to be assigned a $15 FLAT broker fee per trade. If you begin a deal with Bloomberg trades, enter a per-megawatt fee, and extend the deal later with bilateral trades, you're effectively charging yourself extra brokerage because THAT FEE WILL BE ASSIGNED TO EVERY MW IN YOUR DEAL. 
+
+6. Most importantly, if you are not sure, call someone who is.
+
+Thanks again for your attention to these matters.
+
+Kate

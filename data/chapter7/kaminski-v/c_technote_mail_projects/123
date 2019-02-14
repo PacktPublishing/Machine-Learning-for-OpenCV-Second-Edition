@@ -1,0 +1,29 @@
+Message-ID: <26314006.1075856589042.JavaMail.evans@thyme>
+Date: Tue, 9 Jan 2001 07:04:00 -0800 (PST)
+From: alex.huang@enron.com
+To: gary.hickerson@enron.com, michelle.cisneros@enron.com
+Subject: Power Plant Model
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, alex.huang@enron.com, 
+	vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, alex.huang@enron.com, 
+	vasant.shanbhogue@enron.com
+X-From: Alex Huang
+X-To: Gary Hickerson, Michelle D Cisneros
+X-cc: Vince J Kaminski, Stinson Gibner, Alex Huang, Vasant Shanbhogue
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Ken of RDI and I have gone through his model together and I have a clear idea
+of how it's going step by step. I believe we can almost start recoding now. 
+
+I need a C programmer who's familiar with Access data base.
+I.e., he (or she) knows how to extract data from an Access data table (of
+certain format) and output the results into an Access data table of certain
+format.  Once the programmer is assigned, I will go through the model
+with him and incorporate his ideas and Ken's, then we can start coding.
+
+Alex

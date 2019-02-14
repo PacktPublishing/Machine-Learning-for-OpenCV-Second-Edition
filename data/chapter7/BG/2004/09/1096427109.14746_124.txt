@@ -1,0 +1,163 @@
+Return-Path: <info@i-mrktng.com>
+Received: (fqmail 10891 invoked from network); 29 Sep 2004 01:52:54 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 29 Sep 2004 01:52:54 -0000
+Received: (qmail 7487 invoked from network); 29 Sep 2004 01:52:51 -0000
+Received: from your-jikohaxmot ([69.6.66.24])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 29 Sep 2004 01:52:51 -0000
+From: "Infolink Technologies, Ltd." <info@i-mrktng.com>
+Subject: 'Voicemail Courier', the New Legal Alternative to Fax Broadcasting
+To: lindberg@ezmlm.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: info@i-mrktng.com
+Date: Tue, 28 Sep 2004 20:53:04 -0500
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+
+
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href='http://www.infoemail-web.com/080E1E1B1C16101700153217081F1E1F5C1D00150E414A4742400E430E400E404141404647410E08.aspx'>
+<link rel=Edit-Time-Data href='http://www.infoemail-web.com/080E1E1B1C16101700153217081F1E1F5C1D00150E414A4742400E430E400E404141404645440E08.aspx'>
+<!--[if !mso]>
+<style>
+v\:* &#123;behavior:url(#default#VML);&#125;
+o\:* &#123;behavior:url(#default#VML);&#125;
+w\:* &#123;behavior:url(#default#VML);&#125;
+shape &#123;behavior:url(#default#VML);&#125;
+</style>
+<![endif]-->
+<title>For Further Information related to Infolink Technologies Ltd</title>
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:DoNotRelyOnCSS/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DocumentKind>DocumentEmail</w:DocumentKind>
+  <w:EnvelopeVis/>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	&#123;font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;&#125;
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	&#123;mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";&#125;
+a:link, span.MsoHyperlink
+	&#123;color:blue;
+	text-decoration:underline;
+	text-underline:single;&#125;
+a:visited, span.MsoHyperlinkFollowed
+	&#123;color:blue;
+	text-decoration:underline;
+	text-underline:single;&#125;
+p
+	&#123;mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";&#125;
+span.EmailStyle18
+	&#123;mso-style-type:personal-reply;
+	mso-style-noshow:yes;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:navy;&#125;
+@page Section1
+	&#123;size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;&#125;
+div.Section1
+	&#123;page:Section1;&#125;
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */ 
+ table.MsoNormalTable
+	&#123;mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";&#125;
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<a href='http://www.infoemail-web.com/080E1E1B1C16101700153217081F1E1F5C1D00150E414A4742400E430E400E40414140464B4B0E08.aspx'><img src="http://www.a1info.net/images2/infolink/img1.gif" width="616" height="542" border="0"></a>
+
+  <p style='margin-bottom:12.0pt'><b><font size=3 face=Arial><span
+style='font-size:12.0pt;font-family:Arial;font-weight:bold'>For Further
+Information related to Infolink Technologies Ltd., Please visit<br>
+us on-line at <a href='http://www.infoemail-web.com/080E1E1B1C16101700153217081F1E1F5C1D00150E414A4742400E430E400E40414140464B4B0E08.aspx'>www.infolinkca.com</a>.<br>
+<br>
+Or Contact us Personally:<br>
+<br>
+Laura Leduc<br>
+National Account Manager<br>
+<a href="mailto:laura@infolinkca.com">laura@infolinkca.com</a><br>
+1-800-973-1870 ext. 245</span></font></b><o:p></o:p></p>
+
+
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.infoemail-web.com/080E1E1B1C16101700153217081F1E1F5C1D00150E414A4742400E430E08.aspx'><img src='http://www.infoemail-web.com/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.infoemail-web.com/080E1E1B1C16101700153217081F1E1F5C1D00150E414A4742400E430E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">Infolink Technologies &#183; 662 King Street West, Suite 205 &#183; Toronto, ON M5V 1M7</font></p></td></tr></table></body>
+
+</html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

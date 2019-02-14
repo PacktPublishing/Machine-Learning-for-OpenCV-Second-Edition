@@ -1,0 +1,91 @@
+Received: from mail.mi.camcom.it (HELO camcomvir.mi.camcom.it) (80.82.5.198)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:19 -0000
+Received: from localhost (localhost)
+	by camcomvir.mi.camcom.it (8.12.3/8.12.3/Debian -4) id j6JB1jEi012957;
+	Tue, 19 Jul 2005 13:01:45 +0200
+Date: Tue, 19 Jul 2005 13:01:45 +0200
+From: Mail Delivery Subsystem <MAILER-DAEMON@camcomvir.mi.camcom.it>
+Message-Id: <200507191101.j6JB1jEi012957@camcomvir.mi.camcom.it>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JB1jEi012957.1121770905/camcomvir.mi.camcom.it"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JB1jEi012957.1121770905/camcomvir.mi.camcom.it
+
+The original message was received at Tue, 19 Jul 2005 13:01:45 +0200
+from root@localhost
+
+   ----- The following addresses had permanent fatal errors -----
+<distintavanzellivanzelli@mi.camcom.it>
+    (reason: 550 5.1.1 <distintavanzellivanzelli@mi.camcom.it>... User Unknown distintavanzellivanzelli@mi.camcom.it)
+
+   ----- Transcript of session follows -----
+... while talking to [172.24.5.90]:
+>>> DATA
+<<< 550 5.1.1 <distintavanzellivanzelli@mi.camcom.it>... User Unknown distintavanzellivanzelli@mi.camcom.it
+550 5.1.1 <distintavanzellivanzelli@mi.camcom.it>... User unknown
+<<< 503 5.0.0 Need RCPT (recipient)
+
+--j6JB1jEi012957.1121770905/camcomvir.mi.camcom.it
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; camcomvir.mi.camcom.it
+Arrival-Date: Tue, 19 Jul 2005 13:01:45 +0200
+
+Final-Recipient: RFC822; distintavanzellivanzelli@mi.camcom.it
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; [172.24.5.90]
+Diagnostic-Code: SMTP; 550 5.1.1 <distintavanzellivanzelli@mi.camcom.it>... User Unknown distintavanzellivanzelli@mi.camcom.it
+Last-Attempt-Date: Tue, 19 Jul 2005 13:01:45 +0200
+
+--j6JB1jEi012957.1121770905/camcomvir.mi.camcom.it
+Content-Type: text/rfc822-headers
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: (from root@localhost)
+	by camcomvir.mi.camcom.it (8.12.3/8.12.3/Debian -4) id j6JB1jEh012957
+	for <distintavanzellivanzelli@mi.camcom.it>; Tue, 19 Jul 2005 13:01:45 +0200
+Received: from dnsmx.inrete.it (mx1.inrete.it [85.89.128.4])
+	by camcomvir.mi.camcom.it (8.12.3/8.12.3/Debian -4) with ESMTP id j6JB1cIQ012707
+	for <distintavanzellivanzelli@mi.camcom.it>; Tue, 19 Jul 2005 13:01:42 +0200
+Received: (from root@localhost)
+	by dnsmx.inrete.it (8.12.3/8.12.3/Debian -4) id j6JAx5AX000533
+	for <distintavanzellivanzelli@mi.camcom.it>; Tue, 19 Jul 2005 12:59:05 +0200
+Received: from mailwisconsin.com ([218.159.142.108])
+	by dnsmx.inrete.it (8.12.3/8.12.3/Debian -4) with SMTP id j6JAx1vK000507
+	for <distintavanzellivanzelli@mi.camcom.it>; Tue, 19 Jul 2005 12:59:03 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190370;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distintavanzellivanzelli@mi.camcom.it
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on 
+	camcomvir.mi.camcom.it
+X-Spam-Status: No, hits=7.3 required=50.0 tests=BAYES_90,DISGUISE_VIAGRA,
+	HTML_50_60,HTML_FONTCOLOR_RED,HTML_MESSAGE,
+	LOCAL_DRUGS_MALEDYSFUNCTION,MIME_HTML_ONLY,NO_RDNS2,RATWR20_MESSID,
+	RM_KNOWN_WEBMAIL,SARE_SXLIFE autolearn=no version=2.63
+X-Spam-Level: *******
+X-Inrete-Amavisjob-Virus-Scanned: PDAmail Multiple Antivirus with Mcafee Fsecure
+X-Inrete-Amavisjob-Service-Runned: 1 2 7 (j6JB1cIQ012707)
+X-Inrete-Amavisjob-Service-Disabled: No Service disabled (j6JB1cIQ012707)
+
+--j6JB1jEi012957.1121770905/camcomvir.mi.camcom.it--
+

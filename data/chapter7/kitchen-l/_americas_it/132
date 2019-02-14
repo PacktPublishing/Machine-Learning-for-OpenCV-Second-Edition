@@ -1,0 +1,50 @@
+Message-ID: <8436803.1075840862864.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 19:35:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com, 
+	philippe.bibi@enron.com, beth.perlman@enron.com, 
+	stephen.stock@enron.com
+Subject: GTV II weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Below please find the weekly status report for the Gas Trading Vision II. The project timeline is updated in the attached file.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Jay Krish, Mike Swaim, George Grant, Chuck Ames, Jeff Gossett, Geoff Storey.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process & its unit testing have been completed.
+o	Changes for the view aggregation are being tested.
+o	The user has requested some changes for the position manager; hence, 2 more weeks are required for the completion of development of this task (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Establishing communication between TDS client & Sitara server & its testing has been completed.
+o	Other IT items are in progress and on schedule (please see the attached project timeline).
+
+?	Gas Daily deals:
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline).
+o	Creating GDI Calc in ERMS is in progress and on schedule (please see the attached project timeline).
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+Plans for the week ending 4/13/01:
+?	Continue IT development of Phase I items.
+?	Clarify user requirements for the Gas Daily reports.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+
+Issues:
+None
+
+ 
+Thanks
+
+Zhiyong

@@ -1,0 +1,52 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S262428AbVESAoT@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 27029 invoked from network); 19 May 2005 00:45:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 19 May 2005 00:45:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 19 May 2005 00:45:55 -0000
+Received: (qmail 20597 invoked from network); 19 May 2005 00:45:55 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 19 May 2005 00:45:54 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S262428AbVESAoT (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Wed, 18 May 2005 20:44:19 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S262427AbVESAoT
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Wed, 18 May 2005 20:44:19 -0400
+Received: from 201-002-226-004.jvece7005.dsl.brasiltelecom.net.br ([201.2.226.4]:16133
+	"HELO 201-002-226-004.jvece7005.dsl.brasiltelecom.net.br")
+	by vger.kernel.org with SMTP id S262428AbVESAoR (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Wed, 18 May 2005 20:44:17 -0400
+Received: from [74.86.210.113] (port=2054 helo=[rudely])
+    by 201-002-226-004.jvece7005.dsl.brasiltelecom.net.br with esmtp 
+    id 164559649move56186
+    for linux-kernel@vger.kernel.org; Wed, 18 May 2005 22:44:23 -0200
+Mime-Version: 1.0 (Apple Message framework v725)
+Content-Transfer-Encoding: 7bit
+Message-Id: <1937931159.11841@201-002-226-004.jvece7005.dsl.brasiltelecom.net.br>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+To:	linux-kernel@vger.kernel.org
+From:	Louisa <receding@darkpower.com>
+Subject: Daily News - Rolex watches online 
+Date:	Wed, 18 May 2005 22:44:22 -0200
+X-Mailer: Apple Mail (2.725)
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 355
+
+Do your friends wear Rolex?
+http://switch.pqer.com/rep/vron/suppressor.html
+Swiss watches online - only $150
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

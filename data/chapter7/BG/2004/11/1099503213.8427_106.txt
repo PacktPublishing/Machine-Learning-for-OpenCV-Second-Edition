@@ -1,0 +1,62 @@
+Return-Path: <alert@citibank.com>
+Delivered-To: em-ca-bait-precedes@em.ca
+Received: (qmail 3914 invoked by uid 115); 3 Nov 2004 23:22:48 -0000
+Received: from alert@citibank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(4.246.203.34):. 
+ Processed in 0.477028 secs); 03 Nov 2004 23:22:48 -0000
+Received: from dialup-4.246.203.34.dial1.sanjose1.level3.net (4.246.203.34)
+  by churchill.factcomp.com with SMTP; 3 Nov 2004 23:22:46 -0000
+X-Message-Info: 582+flnj4/qMPCgBQaZSmnHH11BYIff
+Received: (qmail 6764 invoked by uid 837065); Wed, 03 Nov 2004 13:21:41 -0400
+Date: Wed, 03 Nov 2004 13:18:41 -0400
+Message-ID: <484762397163673422.660170143.alert@citibank.com>
+From: "Citibank" <alert@citibank.com>
+Reply-To: alert@citibank.com
+To: "Asetar" <asetar@em.ca>
+Subject: Citibank Alerting Service
+MIME-Version: 1.0 (produced by gladiatorrune 3.4)
+Content-Type: multipart/alternative;
+	boundary="--216077093797132"
+
+----216077093797132
+Content-Type: text/html;
+	charset="iso-3780-6"
+Content-Transfer-Encoding: 7Bit
+Content-Description: stunk stork nucleotide
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+  <tr> 
+    <td width="10" rowspan="2"><SPACER height="1" width="10" 
+      type="block"></td>
+    <td align="left"> <font color="#000066" face="Arial"> 
+      <p><img src="http://www.citibank.com/domain/images/citi44a.gif"><br><br><br><br></p>
+      </font></td>
+  </tr>
+  <tr>
+    <td width="590"> 
+      <p><font face="Arial, Helvetica, sans-serif">Dear Citibank Customer </font></p><p><font face="Arial, Helvetica, sans-serif">We were unable to 
+      process the recent transactions on<br>
+      your account. To ensure that your account is not<br>
+      suspended, please update your information by clicking<br>
+      <a href=http://200.189.70.90/citi>here</a>. </font>
+      <p><font face="Arial, Helvetica, sans-serif">If you have recently updated 
+        your information, please<br>
+        disregard this message as we are processing the<br>
+        changes you have made.<br>
+        </font></p>
+      <p>&nbsp;</p>
+      <p><b>Citibank Customer Service</b></p>
+      <font color="#000000" face="Arial"></font></td>
+  </tr>
+  <tr> 
+    <td width="600" colspan="2" bgcolor="#000060"><SPACER height="1" width="600" 
+      type="block"></td>
+  </tr>
+  <!-- <tr>
+	<td width="600" colspan="2" align="right"><font color="#777777" face="Arial" size="1">Copyright © 2004 Citicorp</font></td>
+</tr> -->
+</table>
+
+
+----216077093797132--

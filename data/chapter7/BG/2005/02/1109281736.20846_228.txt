@@ -1,0 +1,44 @@
+Return-Path: <omurqfbqeh@dragoncon.net>
+Delivered-To: em-ca-bait-baseline@em.ca
+Received: (qmail 5971 invoked by uid 115); 24 Feb 2005 13:28:04 -0000
+Received: from omurqfbqeh@dragoncon.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(63.151.217.40):. 
+ Processed in 0.084119 secs); 24 Feb 2005 13:28:04 -0000
+Received: from unknown (HELO P3-550) (63.151.217.40)
+  by churchill.factcomp.com with SMTP; 24 Feb 2005 13:28:03 -0000
+Received: from robbery.aemail4u.com ([208.254.3.160])
+ by portrait.aemail4u.com (Sun Java System Messaging Server 6.1 HotFix 0.01 (built
+ Aug 21 2004)) with ESMTP id <0V8G00TG562YV07@portrait.aemail4u.com> for
+ 004227@em.ca; Thu, 24 Feb 2005 16:25:16 +0300 (IST)
+Received: from decrease.telkom.net ([64.202.167.192])
+ by robbery.aemail4u.com
+ (Sun Java System Messaging Server 6.1 HotFix 0.03 (built Aug 22 2004))
+ with ESMTP id <0T9I00YX173SU72@robbery.aemail4u.com> for 004227@em.ca
+ (ORCPT 004227@em.ca); Thu, 24 Feb 2005 11:32:16 -0200 (IST)
+Received: from doherty.telkom.net ([213.130.63.235])
+ by decrease.telkom.net with Microsoft SMTPSVC(6.0.9429.741); Thu, 24 Feb 2005 09:31:16 -0400
+Date: Thu, 24 Feb 2005 09:24:16 -0400
+From: "Aron Le" <omurqfbqeh@dragoncon.net>
+To: <004227@em.ca>
+Subject: Make your PC faster!
+Sender: "Aron Le" <omurqfbqeh@dragoncon.net>
+Message-ID: <913800058814.XYG80623@decrease.telkom.net>
+MIME-Version: 1.0
+Content-type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+Computer News Daily  Magazine advise:
+Spy-Control is the most important step you can take is to secure your system!
+Free Download Here: http://bunt.fightpyco.net
+
+Reduce Spam
+Restrict the actions of potentially dangerous sites in Internet Explorer
+Prevent the installation of ActiveX-based spyware
+and other potentially unwanted pests.
+
+Try our online scan now: http://bean.fightpyco.net
+
+
+
+
+Q'u-1-t http://slaughter.fightpyco.net/discon

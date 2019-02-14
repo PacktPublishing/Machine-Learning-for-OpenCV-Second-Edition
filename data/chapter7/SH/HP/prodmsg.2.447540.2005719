@@ -1,0 +1,81 @@
+Received: from unknown (HELO mail.falck.com) (194.255.16.193)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:29 -0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: DELIVERY FAILURE: User lena.gunnarsson (lena.gunnarsson@falck.com) not
+ listed in Domino Directory
+From: Postmaster@falck.com
+To: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MIMETrack: Itemize by SMTP Server on GWG4F/Server/DK/Falck(Release 6.5.1|January 21, 2004) at
+ 19-07-2005 12:59:31,
+	Serialize by Router on GWG4F/Server/DK/Falck(Release 6.5.1|January 21, 2004) at
+ 19-07-2005 12:59:33,
+	Serialize complete at 19-07-2005 12:59:33
+Content-Type: multipart/report; report-type=delivery-status; boundary="==IFJRGLKFGIR33500UHRUHIHD"
+
+--==IFJRGLKFGIR33500UHRUHIHD
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+WW91ciBtZXNzYWdlDQoNCiAgU3ViamVjdDogSnVzdCB0byBoZXIuLi4NCg0Kd2FzIG5vdCBkZWxp
+dmVyZWQgdG86DQoNCiAgbGVuYS5ndW5uYXJzc29uQGZhbGNrLmNvbQ0KDQpiZWNhdXNlOg0KDQog
+IFVzZXIgbGVuYS5ndW5uYXJzc29uIChsZW5hLmd1bm5hcnNzb25AZmFsY2suY29tKSBub3QgbGlz
+dGVkIGluIERvbWlubyBEaXJlY3RvcnkNCg0K
+
+--==IFJRGLKFGIR33500UHRUHIHD
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;mail.falck.com
+
+Final-Recipient: rfc822;lena.gunnarsson@falck.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Notes; User lena.gunnarsson (lena.gunnarsson@falck.c
+ om) not listed in Domino Directory
+ 
+--==IFJRGLKFGIR33500UHRUHIHD
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([218.23.38.202])
+          by mail.falck.com (Lotus Domino Release 6.5.1)
+          with SMTP id 2005071912592954-73072 ;
+          Tue, 19 Jul 2005 12:59:29 +0200 
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359767;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: lena.gunnarsson@falck.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MIMETrack: Itemize by SMTP Server on GWG4F/Server/DK/Falck(Release 6.5.1|January 21, 2004) at
+ 19-07-2005 12:59:31,
+	Serialize by Router on GWG4F/Server/DK/Falck(Release 6.5.1|January 21, 2004) at
+ 19-07-2005 12:59:33
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body alink=3D"blue" bgcolor=3D"white" link=3D"blue" text=3D"black" vlink=
+=3D"blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color=3D"#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href=3D"http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891030"=
+>Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--==IFJRGLKFGIR33500UHRUHIHD--

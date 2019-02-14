@@ -1,0 +1,169 @@
+Message-ID: <32016030.1075856602554.JavaMail.evans@thyme>
+Date: Mon, 19 Jun 2000 06:52:00 -0700 (PDT)
+From: vasant.shanbhogue@enron.com
+To: benjamin.parsons@enron.com
+Subject: Re: Pricing credit on thousands of names
+Cc: ect.trading@enron.com, vince.kaminski@enron.com, amitava.dhar@enron.com, 
+	steven.leppard@enron.com, grant.masson@enron.com, 
+	dale.surbey@enron.com, david.wall@enron.com, 
+	jitendra.patel@enron.com, oliver.gaylard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ect.trading@enron.com, vince.kaminski@enron.com, amitava.dhar@enron.com, 
+	steven.leppard@enron.com, grant.masson@enron.com, 
+	dale.surbey@enron.com, david.wall@enron.com, 
+	jitendra.patel@enron.com, oliver.gaylard@enron.com
+X-From: Vasant Shanbhogue
+X-To: Benjamin Parsons
+X-cc: ECT London Credit Trading, Vince J Kaminski, Amitava Dhar, Steven Leppard, Grant Masson, Dale Surbey, David A Wall, Jitendra J Patel, Oliver Gaylard
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+We can continue the discussion in Tuesday's conference call, but I discussed 
+with Ben about the issues below, and here are some thoughts.  This is NOT a 
+complete approach, but only a starting point for discussion.
+
+The main task is to build a pricing system for many names.
+This has two components --- 
+1) How to price a single name?
+ 1.1) How to price a liquid single name?
+ 1.2) How to price an illiquid single name?
+2) How to efficiently apply the methodology to multiple names?
+
+The approach I would take for 1.1 is 
+a) Define a small set of liquid names
+b) Apply each of the different models we have, say, the six models Ben has 
+mentioned below, to these names
+c) Include market prices, if any, for these names
+d) Sit with traders, get trader's intuition on where each liquid name should 
+price and note this on the spectrum of prices obtained in (b) and (c)
+e) Try to determine attributes of the names that may explain the dispersion 
+of the trader prices across the models
+f) Quantify these attributes, if possible
+g) Try a different set of liquid names and repeat the process, and see if the 
+decisions in the last round still make sense
+
+The approach for 1.2 may be
+a) Define a small set of illiquid names
+b) Apply each of the different models we have to these names
+c) Sit with traders, get trader's intuition on where each illiquid name 
+should price and note this on the spectrum of prices obtained in (b)
+d) Try to determine attributes of the names that may explain the dispersion 
+of the trader prices across the models
+e) Check if these are similar to the attributes identified for liquid names
+f)  Define a master set of liquid names
+g) Look for relationships (by analyzing cross-section of data) between 
+attributes or prices of illiquid names to those of liquid names 
+
+Once a mapping has been defined for an illiquid name to a set of liquid names 
+and their attributes, then this mapping can be entered into a table, and the 
+pricing can be automated for all names (IN THEORY)!  The success will depend 
+on the success of the round-table sessions for the approaches for 1.1 and 
+1.2.  
+
+Building a new fundamental model is always a worthwhile task, but we can get 
+going with the above approaches immediately in parallel with developing any 
+new models that we may build.  New models can be added to the suite of 
+existing models. I do not believe there will ever be a single model that will 
+answer all questions for all names, but rather we can refine the mappings and 
+relative choices among models over time, which would mean continuing 
+round-table sessions with traders.  Limited data makes calibration very hard, 
+so I would continually ask the question "What do we calibrate?" throughout 
+the discussions for 1.1 and 1.2, and this may help guide us to new models.
+
+Vasant
+
+
+
+
+
+Benjamin Parsons
+06/19/2000 04:11 AM
+To: ECT London Credit Trading
+cc: Vince J Kaminski/HOU/ECT@ECT, Vasant Shanbhogue/HOU/ECT@ECT, Amitava 
+Dhar/Corp/Enron@ENRON, Steven Leppard/LON/ECT@ECT, Grant Masson/HOU/ECT@ECT, 
+Dale Surbey/LON/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT, Jitendra J 
+Patel/LON/ECT@ECT, Oliver Gaylard/LON/ECT@ECT 
+Subject: Pricing credit on thousands of names
+
+All -
+
+Our challenge for the next few months is to build an automated system to 
+provide differential pricing on thousands of credits [5,000 by year-end]. 
+Most of these credits will be illiquid in terms of market price information, 
+making the challenge harder, and the end result more important in terms of 
+competitive pricing advantage. What we need is an overall strategy for how we 
+plan to achieve this from the quantitative perspective.
+
+Currently we have several models for credit pricing either in use or under 
+development:
+FMC Model (default probability approach). Using Bloomberg's Fair Market (par 
+yield) Curves, probabilities are generated from the risky-LIBOR, then 
+default/bankruptcy swap prices computed using expectation methodology.
+FMC Model (credit spread approach). Using the FMCs, then directly taking the 
+LIBOR credit spread at each tenor, adjusting for basis and compounding 
+differences.
+Bond Model (FMC approach). Taking the FMCs as benchmark curves, the model 
+regresses the input bonds (specific to a name) on the two best fitting 
+benchmarks. The result is a zero yield curve with the same shape as the FMCs, 
+but with the level tweaked for the specific issuer. Prices are then generated 
+using both spread and probability approaches. Under testing.
+Bond Model (spline approach). Taking only the bonds specific to an issuer, 
+the model fits an exponential cubic spline to the zero-coupon price curve, 
+then builds a zero yield curve from this. Under testing.
+Market Prices. For certain liquid names, or sectors/ratings, CDS market 
+prices are used, then recovery and event discount used to get bankruptcy swap 
+prices.
+KMV. Using Expected Default Frequencies (EDFs) from the KMV model and 
+database, we will build a model to price default swaps, making appropriate 
+risk adjustments. KMV is being installed now, so model will be worked on next.
+
+Each of these models returns a price (credit default and bankruptcy), and the 
+accuracy of the price depends on many factors - liquidity and regulatory 
+differences between bond and CDS markets, recovery assumptions, risk premia, 
+capital charges, etc. The aim will be to accurately price as many liquid 
+names as possible, based upon these models, then use these prices, alongside 
+other financial information, as the backbone to a full automated pricing 
+system. 
+
+Our inputs to the proposed pricing system for a specific name are model and 
+market prices for all issuers, alongside name-specific 'soft' data from 
+credit reports and financial statements. If the credit is liquid enough, a 
+price will be generated from their own information only. Otherwise, the 
+credit will be mapped onto a subset of liquid credits, with financial 
+information and historical price movements providing the mapping and weights. 
+The model price will then be periodically adjusted to align itself with 
+market (or trader) prices, and this adjustment will feed back into the 
+weighting and mapping composition. In loose terms, we could think of the 
+system price for an illiquid credit as being a weighted average of liquid 
+market prices (bonds, equities, default swaps), where the weightings are 
+calibrated using credit analysis, financial ratios, etc.
+
+The key steps to implementing such a system will be:
+Establishing what exactly we want to 'predict' - is it a price, a rating, a 
+probability, or a score? We will need a clean market history to calibrate to, 
+which we only really have for ratings. We will then need to develop a mapping 
+from rating/score to price.
+Getting and cleaning the historical financial and credit data required to 
+calibrate the model.
+Building the mechanics of the model, ie, the calibration methodology. Neural 
+nets/fuzzy logic seem the obvious candidates, but which exact methods and 
+software packages to use?
+Determining an automated methodology for mapping names with limited 
+information into the model.
+Getting the "true" market price, in order to feed back an error. At present 
+such a price exists for very few credits.
+Allocating resources to the development. McKinsey claimed such a system would 
+take 6-10 man-months to develop.
+
+Further ideas or comments are requested, as we need to develop our strategy 
+asap. The model description above is fairly vague, as we don't yet have the 
+knowledge needed to fill in the specific details. Further help will be 
+especially required on this if we are to continue to move at 'internet speed'.
+
+Regards
+
+Ben
+

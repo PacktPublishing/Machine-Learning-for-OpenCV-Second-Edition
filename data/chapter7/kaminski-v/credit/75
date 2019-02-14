@@ -1,0 +1,191 @@
+Message-ID: <27526617.1075857041167.JavaMail.evans@thyme>
+Date: Tue, 7 Mar 2000 10:40:00 -0800 (PST)
+From: john.sherriff@enron.com
+To: soma.ghosh@enron.com
+Subject: Re: Eastern
+Cc: william.bradford@enron.com, tanya.rohauer@enron.com, 
+	vasant.shanbhogue@enron.com, bryan.seyfried@enron.com, 
+	vince.kaminski@enron.com, david.weekes@enron.com, 
+	steve.young@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: william.bradford@enron.com, tanya.rohauer@enron.com, 
+	vasant.shanbhogue@enron.com, bryan.seyfried@enron.com, 
+	vince.kaminski@enron.com, david.weekes@enron.com, 
+	steve.young@enron.com
+X-From: John Sherriff
+X-To: Soma Ghosh
+X-cc: William S Bradford, Tanya Rohauer, Vasant Shanbhogue, Bryan Seyfried, Vince J Kaminski, David Weekes, Steve W Young
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Unless we can model the protection in some form we will not know what our 
+true exposure is.  So I need our team reassessing how we can
+model the benefit of the credit proctection.  Please keep working on this.
+
+John
+
+
+
+
+Soma Ghosh
+07/03/2000 17:57
+To: John Sherriff/LON/ECT@ECT
+cc: William S Bradford/HOU/ECT@ECT, Tanya Rohauer/HOU/ECT@ECT, Vasant 
+Shanbhogue/HOU/ECT@ECT, Bryan Seyfried/LON/ECT@ECT 
+
+Subject: Re: Eastern  
+
+John,
+
+We are currently not modelling the effect of insurance on Eastern on an 
+individual  risk basis. I have spoken at length with Houston Research & 
+Credit Risk Management on this & whilst we can look at the effect of 
+protection on the portfolio, there appears to be no viable way of modelling 
+protection on a name by name basis; Given that the portfolio of risk is 
+dynamic, specific allocation of protection is not appropriate. As I mentioned 
+in my earlier message there is $135mm cap on any one loss, assuming no losses 
+have occured prior to that.
+
+I am happy to discuss this further with you if required.  
+
+Bill, I'd appreciate any comments you may have re. the above.
+
+Regards,
+
+Soma
+
+
+
+John Sherriff
+06/03/2000 15:06
+To: Soma Ghosh/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT, Mariano 
+Gentilini/LON/ECT@ECT
+cc:  
+
+Subject: Re: Eastern  
+
+
+Soma
+
+How are we modeling the affect of the insurance packages on the Eastern deal?
+
+John
+
+
+
+
+
+Soma Ghosh
+06/03/2000 11:53
+To: John Sherriff/LON/ECT@ECT
+cc:  
+
+Subject: Re: Eastern  
+
+The protection is not a fixed allocation of protection to individual 
+counterparties but covers the global portfolio of risk. Enron has in place 3 
+tranches of credit insurance covering up to $135mm per event. Whilst the 
+insurance is not counterparty specific, it would be available for credit loss 
+on Eastern provided that losses had not been incurred prior to an Eastern 
+loss. I have already discussed with Houston Credit Risk Management & Research 
+the possibility of allocation of risk protection on a name basis; at this 
+point in time there has been no resolution in finding an appropriate way to 
+allocate protection by name.
+
+Summary of insurance:
+Enron absorbs the first $10mm of losses in any one year capped at the 
+aggregate of $30mm over a ten year period.
+AEGIS absorbs the next $35mm of losses for the same ten year period. 
+Chubb will pick up the next $50mm losses for any single event and $100mm in 
+losses in the aggregate for 5 years
+RSA takes the next $50mm for losses in excess of $95mm over a five year 
+period & covers the top 9 counterparties by exposure
+
+Regards,
+
+Soma
+
+
+
+
+John Sherriff
+03/03/2000 18:16
+To: Soma Ghosh/LON/ECT@ECT
+cc:  
+
+Subject: Re: Eastern  
+
+Soma
+
+How does the company's credit insurance (done by Houston last year) affect 
+this exposure?
+
+John
+
+
+
+Soma Ghosh
+03/03/2000 16:24
+To: John Sherriff/LON/ECT@ECT
+cc: David Weekes/LON/ECT@ECT, Steve W Young/LON/ECT@ECT, Barry 
+Pearce/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, William S 
+Bradford/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT, Oliver Gaylard/LON/ECT@ECT 
+
+Subject: Re: Eastern
+
+Please note that Total Exposure $ number is $979.8mm NOT $783.2mm.
+
+Apologies,
+
+Soma
+---------------------- Forwarded by Soma Ghosh/LON/ECT on 03/03/2000 16:22 
+---------------------------
+
+
+Soma Ghosh
+03/03/2000 16:17
+To: John Sherriff/LON/ECT@ECT
+cc: David Weekes/LON/ECT@ECT, Steve W Young/LON/ECT@ECT, Barry 
+Pearce/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, William S 
+Bradford/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT, Oliver Gaylard/LON/ECT@ECT 
+
+Subject: Re: Eastern  
+
+John, as requested:
+
+Total exposure as at 29 Feb 2000:    o620.9mm ($783.2mm)
+Eurocash I monetezation:    -o124.7mm (-$196.1mm)
+Less credit derivatives:         o40.0mm ($63.1mm)
+Total Net Exposure as at 29 Feb 2000:  o456.2mm ($713.9mm) 
+Net  month on month increase:    o125.4mm ($197.9mm)
+
+Total Value of Eastern Group Guarantee:  o520mm ($820.6mm)
+Amount backed by TXU:    Zero
+
+As well as the increase in overall exposure, please note the change in shape 
+of the exposure month on month most notably credit exposure now peaking at 
+the front end of the transaction (ex credit derivs. the max exposure is at 
+day 1), compare to max. exp. at Feb 2005  for month end Jan.. 
+Shape of profile & increase in MtM primarily due to:
+ - Power curve downward shift at front end yrs 0-11
+ - Power curve upward shift at back end yrs 12-18
+ - Gas curve upward shift yrs 1-5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

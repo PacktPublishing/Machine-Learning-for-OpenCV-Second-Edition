@@ -1,0 +1,127 @@
+Message-ID: <25518989.1075856596240.JavaMail.evans@thyme>
+Date: Wed, 1 Nov 2000 07:40:00 -0800 (PST)
+From: vladimir.gorny@enron.com
+To: vince.kaminski@enron.com
+Subject: Price Caps
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Vladimir Gorny
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Vladimir Gorny/HOU/ECT on 11/01/2000 
+03:39 PM ---------------------------
+   
+	
+	
+	From:  Tim Belden                           10/27/2000 05:40 PM
+	
+
+To: John J Lavorato/Corp/Enron, Dave Delainey, Mike Swerzbin/HOU/ECT@ECT, 
+Robert Badeer/HOU/ECT@ECT, Sean Crandall/PDX/ECT@ECT, Tim Belden/HOU/ECT@ECT, 
+Jeff Richter/HOU/ECT@ECT, Diana Scholtes/HOU/ECT@ECT, Tom Alonso/PDX/ECT@ECT, 
+Mark Fischer/PDX/ECT@ECT, John M Forney/HOU/ECT@ECT, Paul Choi/SF/ECT@ECT, 
+John Malowney/HOU/ECT@ECT, Holli Krebs/HOU/ECT@ECT, Greg Wolfe/HOU/ECT@ECT, 
+Chris H Foster/HOU/ECT@ECT, Stewart Rosman/HOU/ECT@ECT, Kim Ward/HOU/ECT@ECT, 
+Debra Davidson/PDX/ECT@ECT, Tim Belden/HOU/ECT@ECT, Lester 
+Rawson/PDX/ECT@ECT, John Zufferli/CAL/ECT@ECT, James D 
+Steffes/NA/Enron@Enron, Mary Hain/HOU/ECT@ECT, Christopher F 
+Calger/PDX/ECT@ECT, Dave Parquet, Phillip K Allen/HOU/ECT@ECT, Vladimir 
+Gorny/HOU/ECT@ECT, Monica Lande/PDX/ECT@ECT, Elliot Mainzer/PDX/ECT@ECT, Tim 
+Heizenrader/PDX/ECT@ECT, Cooper Richey, Stephen Swain/PDX/ECT@ECT, Susan J 
+Mara/SFO/EES@EES, Steven J Kean/NA/Enron@Enron, Mark Palmer/Corp/Enron@ENRON
+cc: Debra Davidson/PDX/ECT@ECT 
+Subject: Price Caps
+
+The following summarizes recent price cap events in California.  I think that 
+I have most of it right.  If there is anything wrong or missing please let me 
+know.  Please don't share the attached spreadsheet with anyone outside of 
+Enron.
+
+Regards,
+Tim
+
+New Cap Specifics
+On 10/26/2000 the ISO Board passed a motion by a vote of 13-10 to implement a 
+new price cap methodology.
+The new methodology will become effective 11/3/2000 or as soon thereafter as 
+can be implemented.  CAISO staff has indicated that it will be difficult to 
+achieve that start date.  They have not yet indicated what an achievable date 
+might be.
+The new price cap methodology will remain in place until:
+Comprehensive market changes have been implemented and the market has proven 
+to be workably competitive under a variety of load conditions.
+Either FERC or the ISO board orders its removal.
+Cap prices will be based on the average NYMEX L3D settlement average and the 
+following heat rate table:
+  Load Level  Heat Rate  4.00 Gas Example Cap
+  <25 GW   10,775   $43.10
+  25 GW to 30 GW 14,175   $56.70
+  30GW to 35 GW  17,225   $68.90
+  35GW to 40 GW  27,225   $108.90
+  >40 GW   $250/MWh  $250/MWh
+Caps will be rounded up to the nearest $5/MWh increment.
+Demand bids and demand responsiveness programs are exempt from these caps.
+The ISO will post the price caps for each load level at least 48 hours prior 
+to the beginning of each calendar month.  Based on the ISO's two day-ahead 
+system load forecast, the ISO will post hourly caps at least 24 hours prior 
+to the hour of delivery.
+
+FERC Context
+FERC has delegated cap authority to the CAISO until 11/15/2000.
+The ISO has asserted that they don't need FERC authority since it is a bid 
+cap rather than a sales cap.  FERC regulates sales, not purchases, of 
+electricity and therefore can regulate sales prices but not purchase prices.
+The ISO has filed with FERC for an extension of the price cap authority.  
+FERC has to rule on the filing by 11/18/2000.  (Note that this is 3 days 
+after their authority expires)
+FERC will release its proposed order on 11/1/2000 based on the results of its 
+206 investigation of the California wholesale power markets.  We don't know 
+what they will find or what they will propose.
+The proposed order will have a 30 day comment period, after which FERC will 
+likely issue a final order.  FERC will be accepting oral comments on 
+11/9/2000 in Washington.  Enron still has to determine who will provide oral 
+comments.
+Many companies have filed at FERC advocating or opposing a litany of price 
+caps, cost based rates, and market redesign recommendations.
+It is likely that the price caps approved by the ISO board will go into 
+effect.  How long they will remain in effect will depend on whether FERC 
+extends the ISO price cap authority and whether the final order stemming from 
+the current 206 investigation stipulates a specific price cap policy.
+
+Impact of Price Caps
+The attached spreadsheet contains a table of likely maximum monthly prices at 
+different gas price levels.  We think that this is the highest that markets 
+would clear since it assumes that each hour clears at the cap.  It is hard to 
+say whether actual prices would clear significantly lower than the cap 
+because we don't know whether sellers will offer below the cap or at the 
+cap.  The assumptions behind our analysis are detailed in the bullets below.
+Take actual historical loads from 1999 and 2000.   
+Calculate implied price cap for each hour using actual historical load, new 
+price cap methodology, and a range of gas prices.
+Divide historical hours into peak and off-peak buckets.
+Calculate average price for each month for peak hours and off-peak hours.  
+For example, we have two years worth of data for the months of January 
+through September.  Each month has approximately 400 hours.  for January 
+through September, we took approximately 800 observations for each month (400 
+from each year) and calculated a simple average of all of the individual 
+observations.
+We created a peak table and an off-peak table.  The table shows the 
+calculated implied cap based off of the acutal loads at varying gas prices 
+for each month.  This value represents what the month would clear at if each 
+hour cleared at the cap (based on historic loads).  While any given hour 
+could be above this value, our calculation estimates the likely monthly 
+average cap value!
+The blue shading indicates what the caps would be given current (10/27/2000 
+NYMEX) forward prices.  The yellow shading indicates those forward power 
+prices which are in excess of the proposed cap.
+
+
+
+
+
+

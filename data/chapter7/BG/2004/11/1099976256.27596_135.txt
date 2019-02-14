@@ -1,0 +1,32 @@
+Return-Path: <pkiomaujjd@yahoo.com>
+Delivered-To: em-ca-bruceg-spam@em.ca
+Received: (qmail 5752 invoked by uid 700); 9 Nov 2004 03:12:57 -0000
+Delivered-To: em-ca-em-ca-bruceg@em.ca
+Received: (qmail 5724 invoked by uid 115); 9 Nov 2004 03:12:56 -0000
+Received: from pkiomaujjd@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.234.27.63):. 
+ Processed in 0.598017 secs); 09 Nov 2004 03:12:56 -0000
+Received: from unknown (HELO 209.5.178.248) (200.234.27.63)
+  by churchill.factcomp.com with SMTP; 9 Nov 2004 03:12:55 -0000
+Message-ID: <54398295123140.96019.qmail@web58665.mail.yahoo.com>
+Received: from [200.234.27.63] by web58665.mail.yahoo.com via HTTP; Mon, 08 Nov 2004 21:15:26 -0600
+Date: Mon, 08 Nov 2004 21:15:26 -0600
+From: "Eliza Maynard" <pkiomaujjd@yahoo.com>
+Subject: Lose weight fast
+To: bruceg@em.ca
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-4012285012-2195845903=:13166"
+Content-Length: 518
+Lines: 11
+
+--0-4012285012-2195845903=:13166
+Content-Type: text/plain; charset=us-ascii
+
+<a href="http://7frying.com/4/8/index.php?ai=7860&com=35"><img src="http://7frying.com/0/8/8-4.jpg"></a>
+<br><br><a href="http://7frying.com/unsub/">Unsubscribe</a>
+--0-4012285012-2195845903=:13166
+Content-Type: text/html; charset=us-ascii
+
+<a href="http://7frying.com/4/8/index.php?ai=7860&com=35"><img src="http://7frying.com/0/8/8-4.jpg"></a>
+<br><br><a href="http://7frying.com/unsub/">Unsubscribe</a>
+--0-4012285012-2195845903=:13166--

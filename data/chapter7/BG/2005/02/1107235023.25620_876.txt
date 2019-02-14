@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-oversand@em.ca
+Received: (qmail 25167 invoked by uid 115); 28 Jan 2005 18:31:53 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.146.30):. 
+ Processed in 0.78996 secs); 28 Jan 2005 18:31:53 -0000
+Received: from unknown (HELO sapo.pt) (82.155.146.30)
+  by churchill.factcomp.com with SMTP; 28 Jan 2005 18:31:45 -0000
+Date: Fri, 28 Jan 2005 13:35:02 +0000 (Hora padrão de GMT)
+From: CARNIVAL 2005 <carnavalemlisboa@sapo.pt>
+To: bait-oversand@em.ca
+Message-ID: 38380.565995370373_12971220603668
+Subject: CARNIVAL 2005 Lisbon @ EXPO Pav PORTUGAL
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Heart and Soul - Carnival 2005</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#DBE1E5">
+<div align="center">
+  <p><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/images/carnival_net.jpg" width="500" height="706" border="0" /></a></p>
+  <table width="400" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><div align="justify"><font color="#EEEEEE" size="1" face="Arial, Helvetica, sans-serif"><font color="#CCCCCC">Esta mensagem &eacute; enviada sob a nova legisla&ccedil;&atilde;o sobre correio Electr&oacute;nico, Sec&ccedil;&atilde;o 301, Par&aacute;grafo (a) (2) (c) Decreto S 1618, T&iacute;tulo Terceiro aprovado pelo 105&ordm; Congresso Base das Normativas Internacionais sobre o SPAM. "Um e-mail n&atilde;o poder&aacute; ser considerado SPAM quando inclui uma forma de ser removido". <br />
+      Para remover o seu e-mail, devolva-nos uma mensagem com a palavra "REMOVER" na linha de assunto.</font></font></div></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

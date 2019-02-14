@@ -1,0 +1,89 @@
+Received: from plmler2.mail.eds.com (199.228.142.72)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:43 -0000
+Received: from localhost (localhost)
+	by plmler2.mail.eds.com (8.13.4/8.12.10) id j6JAwh4G001617;
+	Tue, 19 Jul 2005 05:58:43 -0500
+Date: Tue, 19 Jul 2005 05:58:43 -0500
+From: Mail Delivery Subsystem <MAILER-DAEMON@plmler2.mail.eds.com>
+Message-Id: <200507191058.j6JAwh4G001617@plmler2.mail.eds.com>
+X-EDS-Source-Ip: 210.207.1.119
+X-EDS-Source-Name: [210.207.1.119]
+X-EDS-Reported-Name: localhost
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAwh4G001617.1121770723/plmler2.mail.eds.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAwh4G001617.1121770723/plmler2.mail.eds.com
+
+The original message was received at Tue, 19 Jul 2005 05:58:42 -0500
+from [210.207.1.119]
+
+   ----- The following addresses had permanent fatal errors -----
+<disti_incentive@3com.com>
+    (reason: 553 5.3.0 <disti_incentive@3com.com>... Relay Validation Failed - User Not Found)
+
+   ----- Transcript of session follows -----
+... while talking to localhost:
+>>> DATA
+<<< 553 5.3.0 <disti_incentive@3com.com>... Relay Validation Failed - User Not Found
+550 5.1.1 <disti_incentive@3com.com>... User unknown
+<<< 503 5.0.0 Need RCPT (recipient)
+
+--j6JAwh4G001617.1121770723/plmler2.mail.eds.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; plmler2.mail.eds.com
+Received-From-MTA: DNS; [210.207.1.119]
+Arrival-Date: Tue, 19 Jul 2005 05:58:42 -0500
+
+Final-Recipient: RFC822; disti_incentive@3com.com
+Action: failed
+Status: 5.3.0
+Remote-MTA: DNS; localhost
+Diagnostic-Code: SMTP; 553 5.3.0 <disti_incentive@3com.com>... Relay Validation Failed - User Not Found
+Last-Attempt-Date: Tue, 19 Jul 2005 05:58:43 -0500
+
+--j6JAwh4G001617.1121770723/plmler2.mail.eds.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([210.207.1.119])
+	by plmler2.mail.eds.com (8.13.4/8.12.10) with SMTP id j6JAwe4G001537
+	for <disti_incentive@3com.com>; Tue, 19 Jul 2005 05:58:42 -0500
+X-EDS-Source-Ip: 210.207.1.119
+X-EDS-Source-Name: [210.207.1.119]
+X-EDS-Reported-Name: mailwisconsin.com
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038191004;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: disti_incentive@3com.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82717664">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--j6JAwh4G001617.1121770723/plmler2.mail.eds.com--
+

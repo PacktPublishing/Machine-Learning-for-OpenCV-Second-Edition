@@ -1,0 +1,38 @@
+Message-ID: <23369997.1075854183757.JavaMail.evans@thyme>
+Date: Wed, 5 Jan 2000 01:36:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: robert.superty@enron.com, george.smith@enron.com, charles.muzzy@enron.com, 
+	daren.farmer@enron.com, edward.terry@enron.com, 
+	katherine.kelly@enron.com, randall.gay@enron.com, 
+	heather.choate@enron.com, pat.clynes@enron.com
+Subject: real time deal updates to Path Manager - test group
+Cc: scotty.gilbert@enron.com, tommy.yanowski@enron.com, inja.chun@enron.com, 
+	dave.mcmullan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scotty.gilbert@enron.com, tommy.yanowski@enron.com, inja.chun@enron.com, 
+	dave.mcmullan@enron.com
+X-From: Dave Nommensen
+X-To: Robert Superty, George Smith, Charles T Muzzy, Daren J Farmer, Edward Terry, Katherine L Kelly, Randall L Gay, Heather Choate, Pat Clynes
+X-cc: Scotty Gilbert, Tommy J Yanowski, Inja Chun, Dave McMullan
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Beginning this week, we are actively testing the changes to Path Manager to 
+receive real-time deal updates from Sitara.  To prepare for this, we would 
+like to have a limited group of schedulers from each desk go thru a quick 
+walkthru/training of the new features sometime early next week.  This should 
+only take about 30 minutes.  Once they are comfortable with the features and 
+performance, and once the testing is complete, we would like to migrate this 
+to Unify Production either next week or the week after.  This should give us 
+an adequate adjustment period prior to the next bid week.
+
+Once it is migrated to Production, we can either roll it out to all 
+schedulers or to selected schedulers via security.
+
+Heather, could you please schedule some time with the designated schedulers, 
+Scotty, and myself early next week.  A room with a projector would work best.
+
+Thanks, d.n.

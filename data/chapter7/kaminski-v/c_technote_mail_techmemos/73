@@ -1,0 +1,23 @@
+Message-ID: <25240240.1075856595344.JavaMail.evans@thyme>
+Date: Thu, 28 Dec 2000 02:30:00 -0800 (PST)
+From: alex.huang@enron.com
+To: vince.kaminski@enron.com, vasant.shanbhogue@enron.com, 
+	stinson.gibner@enron.com, zimin.lu@enron.com, 
+	tanya.tamarchenko@enron.com, amitava.dhar@enron.com, 
+	kevin.kindall@enron.com, naveen.andrews@enron.com
+Subject: Seasonal factors and curve fitting
+Cc: alex.huang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: alex.huang@enron.com
+X-From: Alex Huang
+X-To: Vince J Kaminski, Vasant Shanbhogue, Stinson Gibner, Zimin Lu, Tanya Tamarchenko, Amitava Dhar, Kevin Kindall, Naveen Andrews
+X-cc: Alex Huang
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+I have written a C++ code to do the following: For a given curve,
+the code will filter out the seasonal factor.  It then fits the deseasoned
+curve to a smooth function of the form  f(t)=a+A/(t+B)c, with 0<c<.5. ?The curve fitting is achieved by using Conjugate Gradient method. ??As Tanya pointed out, this form of function ensures that  ?f(t)2*t - f(t-1)2*(t-1) >0, which is useful in calculating forward-forward ?vol. ?The outputs are season patterns (2 different patterns are allowed)?and the smoothed curve.  One can then calculate forward-forward vol?from the smoothed curve and superimpose the seasonal factors back?onto the curve.??This procedure is not useful for VaR calcuation. However, I believe it ?is useful for other situations which require the knowledge of  seasonal ?forward-forward vols.  For example, in power plant valuation and?credit exposure simulations, it would reflect the reality more closely?if we add seasonality to our forward-forward vol in simulating the forward?prices. ??Attached are the spreadsheet and XLL file. I will forward the C code if?any of you is interested. ??Alex??

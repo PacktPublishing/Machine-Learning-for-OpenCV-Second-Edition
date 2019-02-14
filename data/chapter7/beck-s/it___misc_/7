@@ -1,0 +1,44 @@
+Message-ID: <6285391.1075855878376.JavaMail.evans@thyme>
+Date: Fri, 4 Aug 2000 12:10:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.enron@enron.com
+Subject: Oracle Client Upgrade
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Worldwide Enron
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+In approximately one month (9/9/2000), we are targeting that a new version of 
+the Oracle NT client (8.1.6), Borland Database Engine (BDE) 5.1.1 and 
+Microsoft Data Access Components (MDAC) 2.5. to all Corp/ENA workstations. 
+This software provides the connectivity from your workstation to Enron's 
+Oracle databases and the applications supported by them.  We are currently in 
+the process of testing all the applications managed by Corp/ENA Information 
+Technology to ensure that they will be compliant with this new software.
+
+This change may also effect your own developed MS-Access, MS-Excel 
+spreadsheets, and/or MS-Query documents that retrieve data from Enron's 
+Oracle databases via ODBC drivers. As part of the upgrade, all Oracle ODBC 
+connections will be upgraded to compliant driver versions. 
+
+If you would like to test your MS-Access databases and/or MS-Excel 
+spreadsheets under the new software releases, please use one of the 
+workstations at one of the following locations for your testing:
+
+General users
+EB2230D
+EB2778B
+EB0504P
+EB4857
+
+Traders and developers only please
+EB2904E 
+EB3067
+EB3138B
+
+You may contact your floor support representative for any testing assistance.

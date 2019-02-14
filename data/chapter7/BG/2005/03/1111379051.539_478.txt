@@ -1,0 +1,60 @@
+Return-Path: <BFUKCETVC@netscape.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 15632 invoked by uid 115); 19 Mar 2005 11:02:35 -0000
+Received: from BFUKCETVC@netscape.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.53.127.236):. 
+ Processed in 0.113375 secs); 19 Mar 2005 11:02:35 -0000
+Received: from unknown (HELO YOUR-7YFRYO75J0) (218.53.127.236)
+  by churchill.factcomp.com with SMTP; 19 Mar 2005 11:02:34 -0000
+X-Message-Info: LUN/bo+21+iz/AN+18/4806624174019
+Received: from smtp-deanna.brute.BFUKCETVC@netscape.net ([218.53.127.236]) by w959-ij7.BFUKCETVC@netscape.net with Microsoft SMTPSVC(5.0.1879.0495);
+	 Sat, 19 Mar 2005 09:04:09 -0200
+Received: from inland165.nebular.BFUKCETVC@netscape.net (emasculate574.BFUKCETVC@netscape.net [218.53.127.236])
+	by smtp-cacao.munson.BFUKCETVC@netscape.net (Postfix) with SMTP id 4BMK6L17G
+	for <bait@em.ca>; Sat, 19 Mar 2005 06:08:09 -0500
+Received: from smtp-deciduous.ambition.BFUKCETVC@netscape.net ([218.53.127.236]) by ih0-sn07.BFUKCETVC@netscape.net with Microsoft SMTPSVC(5.0.1640.2134);
+	 Sat, 19 Mar 2005 17:05:09 +0600
+X-Message-Info: CPUTJ+%ND_LC_CHAR[1-3]9+dw+Y+1/1807567097
+Received: (qmail 92596 invoked by uid 0); Sat, 19 Mar 2005 06:13:09 -0500
+Date: Sat, 19 Mar 2005 09:11:09 -0200
+Message-Id: <61655177.84035@BFUKCETVC@netscape.net>
+From: HIV <BFUKCETVC@netscape.net>
+To: Bait <bait@em.ca>
+Subject: HIV viruses? Check this site out. This may help
+MIME-Version: 1.0 (produced by debaucheryduane 3.7)
+Content-Type: multipart/alternative;
+	boundary="--12621967622244288"
+
+----12621967622244288
+Content-Type: text/plain;
+	charset="iso-4523-4"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: capstone dulcet bookkeep
+
+=A0
+The Ancient Secret of Life
+=A0
+'THE ANTIDOTE'
+
+http://crocinamillion.info/sash/
+=A0
+Kills ALL known deadly Viruses & Bacteria in the body that keep diseases, =
+namely: Influenza, SARS, Cancer, HIV etc. etc. active.
+=A0
+A disease must be made DORMANT to stop infection.
+'The ANTIDOTE' is the answer.
+=A0=A0
+WE ARE THE ONLY COMPANY IN THE WORLD WHO HAVE DEVELOPED AND ENHANCED THIS =
+PRODUCT FOR SALE.
+=A0
+LEARN MORE
+=A0
+http://crocinamillion.info/sash/
+
+
+
+
+
+
+
+----12621967622244288--

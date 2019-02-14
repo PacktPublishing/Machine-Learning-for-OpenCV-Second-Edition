@@ -1,0 +1,61 @@
+Return-Path: <aobdaqqzibcfjm@mailpanda.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 5708 invoked from network); 30 Jun 2005 17:47:02 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 30 Jun 2005 17:47:02 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 30 Jun 2005 17:47:02 -0000
+Received: (qmail 24454 invoked from network); 30 Jun 2005 17:46:59 -0000
+Received: from 227-42-28.dial.terra.cl (unknown [200.28.42.227])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 30 Jun 2005 17:46:57 -0000
+X-Message-Info: PG/zee+63+e/AE+333/0656233838881
+Received: from smtp-rash.aides.aobdaqqzibcfjm@mailpanda.com ([200.28.42.227]) by j424-syi9.aobdaqqzibcfjm@mailpanda.com with Microsoft SMTPSVC(5.0.9020.7099);
+	 Thu, 30 Jun 2005 17:44:54 -0100
+Received: from nighttime407.augmentation.aobdaqqzibcfjm@mailpanda.com (pink872.aobdaqqzibcfjm@mailpanda.com [200.28.42.227])
+	by smtp-kremlin.ahoy.aobdaqqzibcfjm@mailpanda.com (Postfix) with SMTP id 83RY47B65ZKRO
+	for <rait@bruce-guenter.dyndns.org>; Thu, 30 Jun 2005 14:45:54 -0400
+Received: from smtp-workmen.impeach.aobdaqqzibcfjm@mailpanda.com ([200.28.42.227]) by bf44-w27.aobdaqqzibcfjm@mailpanda.com with Microsoft SMTPSVC(5.0.0178.4914);
+	 Thu, 30 Jun 2005 11:40:54 -0700
+X-Message-Info: RUSP+%ND_LC_CHAR[1-3]122+na+J+175/32310645869
+Received: from monogamy.aobdaqqzibcfjm@mailpanda.com ([34.10.91.207]) by perch.aobdaqqzibcfjm@mailpanda.com with MailEnable ESMTP; Thu, 30 Jun 2005 15:45:54 -0300
+Date: Thu, 30 Jun 2005 20:47:54 +0200
+Message-Id: <16308382753.25660@aobdaqqzibcfjm@mailpanda.com>
+From: Allen Day <aobdaqqzibcfjm@mailpanda.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: TurboNet Pro
+MIME-Version: 1.0 (produced by clubembank 6.5)
+Content-Type: multipart/alternative;
+	boundary="--4691545246903334"
+Content-Length: 558
+Lines: 28
+
+----4691545246903334
+Content-Type: text/plain;
+	charset="iso-1500-3"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: infuse precedent bronchiolar
+
+Hi, 
+
+Make your ordinary 56k modem go speeds of upto 250k+!
+(Average increased speeds of 195 - 200K!) 
+
+Download music/programs in seconds, not minutes! 
+
+This hardware is compatible with EVERY Dialup ISP! 
+
+Check it out: 
+
+http://click4point.com/
+
+Don't forget to save our site URL!
+(If its not up, try again later!) 
+
+Goodbye,
+http://click4point.com/r/
+Saundra Logan
+
+
+----4691545246903334--

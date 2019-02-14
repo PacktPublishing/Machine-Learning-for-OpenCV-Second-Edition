@@ -1,0 +1,57 @@
+Return-Path: <iy123456@eyou.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18972 invoked by uid 115); 30 Apr 2005 19:22:57 -0000
+Received: from iy123456@eyou.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.6.19.122):. 
+ Processed in 0.133509 secs); 30 Apr 2005 19:22:57 -0000
+Received: from unknown (HELO eyou.com) (218.6.19.122)
+  by churchill.factcomp.com with SMTP; 30 Apr 2005 19:22:56 -0000
+From: "Janson" <iy123456@eyou.com>
+To: <bruceg@em.ca>
+Subject: Re: Marketing Service
+Sender: "Janson" <iy123456@eyou.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Sun, 1 May 2005 03:36:20 +0800
+Reply-To: "Janson" <sales@dns5588.com>
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <111488897767218964@churchill>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+We can&nbsp;promote your service/product:</span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><b>
+-&nbsp; We will supply the email list of your clients </b></span></font><b><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"> according to
+order<br>
+-&nbsp;
+We can send out targeted emails according to your
+order<br>
+</span></font></b><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+<br>
+<b>-&nbsp; Direct Mailing Server (Cheap!)<br>
+-&nbsp; Offshore web Hosting</b></span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><a href="http://www.marketingpromote.com">More 
+Information</a></span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="font-family: Arial; font-size: 10pt">Waiting for your prompt reply.</span></font></p>
+<br>
+Janson<br>
+Sales Dept<a href="mailto:sales@30600.com;marketingtoyou@tom.com"><br>
+</a><a href="mailto:sales@30600.com;marketingtoyou@tom.com">Sales@marketingpromote.com<br></a><br>
+<br>
+****************************************************************************************<br>
+Just no :<a href="mailto:Lit@yahoo.com?subject=take-off">LiYou@Hotmail.com?subject=bruceg@em.ca</a><br>
+****************************************************************************************</span></font></p>
+
+</body>
+
+</html>

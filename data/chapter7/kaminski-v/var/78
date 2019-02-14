@@ -1,0 +1,37 @@
+Message-ID: <14622865.1075856642470.JavaMail.evans@thyme>
+Date: Wed, 2 Aug 2000 12:43:00 -0700 (PDT)
+From: kirstee.hewitt@enron.com
+To: grant.masson@enron.com, vince.kaminski@enron.com, 
+	cantekin.dincerler@enron.com
+Subject: VaR for COB 1st Aug 2000
+Cc: bjorn.hagelmann@enron.com, andreas.barschkis@mgusa.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bjorn.hagelmann@enron.com, andreas.barschkis@mgusa.com
+X-From: Kirstee Hewitt
+X-To: Grant Masson, Vince J Kaminski, Cantekin Dincerler
+X-cc: Bjorn Hagelmann, Andreas.Barschkis@mgusa.com
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi,
+I have run the VaR for COB 1st Aug 2000. A summary of the results is as 
+follows :
+
+
+
+
+I have also attached the model.
+
+Again the prices for Cocoa Beans and Gold have not been updated since the 
+26th July. The gamma positions for the metals have been 
+added to check the effect on the VaR. The change  was small :
+Delta VaR - $4,899,196
+Delta/Gamma VaR - $4,780,797
+This is not a live daily feed as Andreas mannually created the file for me 
+today so that we could do this check.
+
+Regards
+Kirstee

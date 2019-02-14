@@ -1,0 +1,71 @@
+Message-ID: <18132723.1075856641645.JavaMail.evans@thyme>
+Date: Mon, 8 Jan 2001 07:38:00 -0800 (PST)
+From: kevin.kindall@enron.com
+To: osman.sezgen@enron.com
+Subject: EES Operational Risk
+Cc: vince.kaminski@enron.com, kate.lucas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, kate.lucas@enron.com
+X-From: Kevin Kindall
+X-To: Osman Sezgen
+X-cc: Vince J Kaminski, Kate Lucas
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+ Per our conversation, here is the model that I have for Simon.  The notes 
+that I gave you were from some work I did back in September as I was looking 
+for volume numbers.  The notes show what drives the final cash flow numbers.
+
+ Briefly, the issue surrounds exactly what is meant by nonmarket and 
+noncredit risk.   Ideally, this would be anything that effects NPV of the 
+deal.  However, I think that we should limit ourselves to those things that 
+effect the time and amount of the EAM volumes.  Even here, such a problem set 
+is quite large.  If you glance at the spreadsheet model, you will notice that 
+there exists a large number of possible items that effect the EAM volumes.  
+If we are to do this rigorously, then it is necessary to tear apart EES's 
+business model, and although such an attempt to do so would be noble, the 
+scope of such an excercise may be too large.  We need a clear definition of 
+EES Operational Risk.
+
+ Briefly, from the EES deals that I have looked at, two things drive their 
+profit:  a long term bet that power prices will go down, and that we can 
+improve the facility through various enhancements.  Each of these may be 
+gleaned from the spreadsheet, as well as the assumptions regarding the 
+funding of the facility improvements and so on.  95% of the savings is 
+assumed to come from power, and 5% from gas.  (The effeciency gain may not be 
+explicitly given).  If we have data that show the realized efficiency gains, 
+then it would be simple [in principle] to determine a distribution, and hence 
+a distribution of EAM volumes, NPV's, etc.  At this time, I understand that 
+RAC has determined some of the realized efficiency gains, but my knowledge is 
+quite sketchy.  Jay Hachen may have more info.
+
+ If I get a chance, I will try to see if I can do a "proof of concept" 
+excercise, but I have a late January deadline on something else.
+
+ Another point:  even if we are successful in doing this for the spreadsheet 
+model, EES has chosen to book things differently.  I do not have a thorough 
+understanding of their IT systems, but at least in principle, if we can do 
+this for the spreadsheet model, then we can do it in their IT environment 
+(data are data are data).  They may book efficiency gains through improvement 
+type, such as gains due to compressors, chillers, boilers, etc.  If this is 
+indeed the case, then we need to have distributions for each type of 
+improvement.   
+
+ If we are successful on the spreadsheet and not successful with their IT 
+systems, then the other alternative is to build our own reporting system.  It 
+would be similar to a database where the recordsets are replaced by Excel 
+workbooks.  It can be constructed in such a way as to enable us to run 
+simulations and queries, but this would probably take me about five or six 
+weeks.
+
+ Finally, Don Hawkins does Operational Audits for Enron's physical assets.  
+He sends out teams to audit our pipelines and strategic assets.  I don't 
+think that he does it for EES, but you might want to give him a call anyway.
+
+-Kevin K.
+
+PS:  The EES lunch meeting has been moved to Wednesdays.  Jay Hachen will 
+know more.

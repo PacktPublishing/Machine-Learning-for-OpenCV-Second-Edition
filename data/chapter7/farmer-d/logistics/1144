@@ -1,0 +1,32 @@
+Message-ID: <10917645.1075854132110.JavaMail.evans@thyme>
+Date: Wed, 24 May 2000 11:27:00 -0700 (PDT)
+From: heidi.withers@enron.com
+To: david.baumbach@enron.com, pat.clynes@enron.com, daren.farmer@enron.com
+Subject: June Transport Usage Tickets
+Cc: mary.smith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mary.smith@enron.com
+X-From: Heidi Withers
+X-To: David Baumbach, Pat Clynes, Daren J Farmer
+X-cc: Mary M Smith
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+I updated the June transport usage tickets today through HPL, and will be 
+finishing these tickets tomorrow.  Rates have been updated to reflect current 
+matrix rates and all baseload rates that I know of at this time.  I have not 
+yet received third party transport rates, so if you know of any, please let 
+me know.  Also, I have zeroed out some volumes on some tickets for June, so 
+your schedulers will have to update volumes as they know them.  Rule of thumb 
+was that if I had to add a month, I refreshed the rate but left volume at 
+zero.  If the months were already on the ticket, then I refreshed the rate 
+and left the volume as is.
+
+I would advise that your schedulers check volumes on all pipes to ensure 
+they're reflected in Position Manager correctly.  Please let me know if you 
+have any questions.  All pipes will be updated by tomorrow morning.
+
+Heidi

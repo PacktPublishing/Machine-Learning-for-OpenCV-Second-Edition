@@ -1,0 +1,108 @@
+Message-ID: <15689285.1075863296219.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 12:37:55 -0700 (PDT)
+From: bill.williams@enron.com
+To: bill.williams@enron.com
+Subject: FW: prior month adjustments for WHOURLY book
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Williams, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Bill - did you get this yet (I sent it to you once already) If you did not get it (twice), please call me.
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Tuesday, September 04, 2001 12:21 PM
+To:	Symes, Kate
+Cc:	Williams, Bill
+Subject:	RE: prior month adjustments for WHOURLY book
+
+Kate:
+please see below in Red for answers to your questions.
+In addition to the items I sent you for WHOURLY, settlements advised there are three additional items we need to take:
+1. BPA transmission actualization to invoicing, amount =+$12,896 => deal number unknown at this moment.  Settlements is looking it up.  Would you want me to take this or do you want Settlements to find out the deal number first? 
+2. price change for deal#479827.1 after liquidated, amount = +$1,625
+3. deal added (#556989.1) after flow date passed, amount = +$11,375
+
+Please advise if you have any questions.
+-Fran
+
+ -----Original Message-----
+From: 	Symes, Kate  
+Sent:	Tuesday, September 04, 2001 11:10 AM
+To:	Chang, Fran
+Cc:	Williams III, Bill
+Subject:	RE: prior month adjustments for WHOURLY book
+
+Questions -
+
+617161 - $900 debit due to volume change
+	SHOULD HAVE OFFSETTING $900 CREDIT FOR VOLUME CHANGE TO DEAL 617156
+=>   see row 16 for the $900 credit you are looking for 
+664447 - $1575 debit due to term change
+	SHOULD HAVE OFFSETTING $1575 CREDIT FOR TERM CHANGE TO DEAL 664444
+
+=>   I need more time to research why the credit didn't come through. Let's not take this item this month.
+ 
+666388 - $3500 debit due to price change
+	SHOULD HAVE OFFSETTING $2500 CREDIT FOR PRICE CHANGE TO DEAL 666386
+	$1000 OF THE DEBIT IS STATED AS A "MISC. PRICE CHANGE FOUND IN CARP TO UNIFY" - WHAT IS THIS?
+=>   see row 18 for the $2,500 credit you are looking for.  Also, from my research the $1000 debit is due to HE24 price changed from $50 to $25 in scheduling after the deal liquidated
+ 
+630335 - $315 credit due to zeroed out purchase deal
+	SHOULD HAVE $315 DEBIT FOR TRANNY DEAL 648312 WHICH REPLACED THIS AND OFFSETTING $675 CREDIT FOR SALE 	ANNUITY 630336
+=>   I need more time to research why the debit didn't come through. Let's not take this item this month.
+ 
+662547 - $1265 debit due to volume change
+	ADDED DEALS 761052 & 761082 UNDER STCA DESKS BECAUSE SALE SIDE WAS SPLIT BETWEEN STWHOURLY AND STCA BY 	VOLUME MANAGEMENT; PURCHASE SIDE LEFT ENTIRELY UNDER STWHOURLY - SHOULD HAVE BEEN SPLIT ACCORDING TO 	THE BOOKS IT'S BEING SOLD UNDER
+=>   I need more time to research. Let's not take this item this month.
+ 
+Please let me know if you have any questions. 
+
+Thanks,
+Kate
+
+
+
+
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Thursday, August 30, 2001 6:46 PM
+To:	Williams III, Bill; Symes, Kate
+Subject:	prior month adjustments for WHOULY book
+
+Bill and Kate:
+
+Attached please find the prior month adjustment items we got from Settlements for WHOURLY book.  The total P&L impact is 
+-$82,555.76.  Please note that this is still preliminary and please review and verify them (* I will do the same).  I am sending them to you just to give you a heads up.
+
+In some of the items Settlements didn't put the deal number under explanation.  I have sent out an email to them so we can know what those adjustments are for.  At this time of the month Settlements are usually overwhelmed by questions and requests so they might not get back to us before Risk needs to finalize the dpr on next Tuesday morning for 8/31.  If you feel uncomfortable taking any one of the items in your 8/31's P&L due to unclear explanation or other reasons, please let me know.
+
+ << File: STWHOURLY PMA 083101.xls >> 
+
+Thanks,
+Fran
+
+ -----Original Message-----
+From: 	Chang, Fran  
+Sent:	Thursday, August 30, 2001 6:12 PM
+To:	Williams III, Bill; Symes, Kate
+Subject:	prior month adjustments for WBOM book
+
+Bill and Kate:
+
+Attached please find the prior month adjusment items we just got from Settlements for WBOM book.  The total impact is -$198.13.  I have verified them and believe they are all valid.  Please take a look and let me know if you have any questions.  If you don't disagree, you shall expect to see those amounts recognized in your final P&L for 8/31/01 next Tuesday morning.
+
+ << File: STWBOM PMA 083101.xls >>   
+
+At this moment I am looking at the items we got for WHOURLY book.  I will let you know at the latest sometime Friday (8/31) afternoon when I pulled them together.
+
+Thanks,
+Fran
+x7973

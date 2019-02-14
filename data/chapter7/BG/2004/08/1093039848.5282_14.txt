@@ -1,0 +1,184 @@
+Return-Path: <singles@single4you.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10522 invoked by uid 115); 20 Aug 2004 01:05:40 -0000
+Received: from singles@single4you.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(62.92.43.232):. 
+ Processed in 0.427618 secs); 20 Aug 2004 01:05:40 -0000
+Received: from unknown (HELO godmedia-01) (62.92.43.232)
+  by churchill.factcomp.com with SMTP; 20 Aug 2004 01:05:40 -0000
+Received: from mail pickup service by godmedia-01 with Microsoft SMTPSVC;
+	 Fri, 20 Aug 2004 03:05:39 +0200
+thread-index: AcSGUc7j3HpCD93hRquY6WKLBFnEzQ==
+Thread-Topic: Mail from: Your Friends - Are you ready for the love of your life?
+From: <singles@single4you.net>
+To: <bruceg@em.ca>
+Subject: Mail from: Your Friends - Are you ready for the love of your life?
+Date: Fri, 20 Aug 2004 03:05:39 +0200
+Message-ID: <3855c01c48651$cee3e010$a600a8c0@godmedia01>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_3855D_01C48662.926CB010"
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.181
+X-OriginalArrivalTime: 20 Aug 2004 01:05:39.0704 (UTC) FILETIME=[CF071F80:01C48651]
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_3855D_01C48662.926CB010
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+ 	  	 
+| Home <http://www.single4you.net>  	 | Memberhip
+<http://www.single4you.net/membership/default.aspx>  	 | Matchmaker
+<http://www.single4you.net/matchmaker/search.aspx>  	 | Homepage
+<http://www.single4you.net/membership/homepage.aspx>  	 | SinglesChat
+<http://www.single4you.net/chat/chat.aspx?page=Single4Chat> 	 |
+Mailbox <http://www.single4you.net/mailbox/inbox.aspx>  |
+Single4you.net is giving away 999 free Premium memberships!
+
+
+Don't let another day go by, loneliness is no longer necessary for you,
+sign up today, IT'S 100% FREE!!!
+
+http://www.single4you.net
+
+All you need to do is to register and to complete your profile before
+Aug. 30. 2004 and you will be eligible for a 1 week 100% free premium
+membership! If you also upload a picture of yourself you will get a
+whole month for FREE!!! 
+
+Our times have become stressful and even if the world has become much
+smaller and more and more people can afford to go out more and more
+often, statistics show that there are fewer and fewer couples among us
+and that relationships often fails. But statistics also show that more
+and more people are finding a partner through services just like this
+one, and even better, that relationships started in places like this one
+are far more likely to succeed. 
+
+Why? Because services like this one uses large databases with 100.000 of
+thousands of users, all interested in the same as you, to find that
+someone special to share their life with. 
+
+Because Single4you provides you the tools to make a pre selection based
+on your wishes and interests before looking at each others pictures, get
+to know one another better before getting physical. Especially men tend
+to pick their partners mainly for their looks, but we all know, although
+it is important to be physically attracted to one another, there is far
+more to it than that to get a relationship working. Having common
+interests, religious or philosophical views are equally important as
+physical attraction. Having a common background and a similar financial
+situation also reduces stress on relationships. 
+
+But maybe most of all, getting to know each other more thoroughly before
+getting intimate can help you avoid making the wrong choice and waste
+time with the wrong person. Single4you offers the optimal playground for
+just that, we have chat rooms, private chats, instant messaging systems,
+e-mail alerts about new members you could be interested in and much,
+much more so you can get to know a bunch of new people just like you and
+get to choose the one witch is best for YOU! 
+
+Happy Dating! 
+
+http://www.single4you.net
+
+http://www.single4you.net
+
+
+
+| Home <http://www.single4you.net>  	 | Memberhip
+<http://www.single4you.net/membership/default.aspx>  	 | Matchmaker
+<http://www.single4you.net/matchmaker/search.aspx>  	 | Homepage
+<http://www.single4you.net/membership/homepage.aspx>  	 | SinglesChat
+<http://www.single4you.net/chat/chat.aspx?page=Single4Chat> 	 |
+Mailbox <http://www.single4you.net/mailbox/inbox.aspx>  |
+
+------=_NextPart_000_3855D_01C48662.926CB010
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' >
+<HTML>
+	<HEAD>
+		<LINK href='http://www.single4you.net/Styles.css' type='text/css' rel='stylesheet'></HEAD>
+	<body>
+			<TABLE id='tblMain' height='100%' cellSpacing='0' cellPadding='0' width='100%'>
+				<TR>
+					<TD class='Header' vAlign='top'>
+						<TABLE class='Header' id='tblHeader' cellSpacing='0' cellPadding='0'>
+							<TR>
+								<TD class='S4ULogo' width='165'>&nbsp;</TD>
+								<TD class='midbanner' id='midbanner' width='512'>
+									<TABLE id='Table1' style='WIDTH: 512px' height='100%' cellSpacing='0' cellPadding='0' width='512'
+										border='0'>
+										<TR>
+											<TD colSpan='8' height='97'>&nbsp;</TD>
+										</TR>
+										<tr>
+											<td class='navlink' width='42' height='25'>|&nbsp;<a class='links' id='Home' href='http://www.single4you.net'>Home</a>&nbsp;</td>
+											<td class='navlink' width='66' height='25'>|&nbsp;<a class='links' id='Membership' href='http://www.single4you.net/membership/default.aspx'>Memberhip</a>&nbsp;</td>
+											<td class='navlink' width='55' height='25'>|&nbsp;<a class='links' id='Matchmaker' href='http://www.single4you.net/matchmaker/search.aspx'>Matchmaker</a>&nbsp;</td>
+											<td class='navlink' width='27' height='25'>|&nbsp;<a class='links' id='Profile' href='http://www.single4you.net/membership/homepage.aspx'>Homepage</a>&nbsp;</td>
+											<td class='navlink' width='64' height='25'>|&nbsp;<a class='links' id='SinglesChat' href='http://www.single4you.net/chat/chat.aspx?page=Single4Chat'>SinglesChat&nbsp;</a></td>
+											<td class='navlink' width='48' height='25'>|&nbsp;<a class='links' id='Mailbox' href='http://www.single4you.net/mailbox/inbox.aspx'>Mailbox</a>&nbsp;|</td>
+											<td>&nbsp;</td>
+										</tr>
+										<TR>
+											<TD id='Subnavbar' colSpan='8'>&nbsp;</TD>
+										</TR>
+									</TABLE>
+								</TD>
+								<TD class='bannertexture' vAlign='top' align='right'>&nbsp;
+								</TD>
+								<TD class='rightbanner'>&nbsp;</TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+				<TR>
+					<TD vAlign='top'>
+						<table class='contens' id='Table3'>
+							<tr>
+								<TD class='tdContens' id='tdContens' vAlign='top'>
+										<TABLE id='Table2' cellSpacing='1' cellPadding='10' width='100%' border='0'>
+											<TR>
+												<TD class='normal'><h1>Single4you.net is giving away 999 free Premium memberships!</h1><h4>Don't let another day go by, loneliness is no longer necessary for you, sign up today, IT'S 100% FREE!!!</h4><a href='http://www.single4you.net'>http://www.single4you.net</a><br><br>All you need to do is to register and to complete your profile before Aug. 30. 2004 and you will be eligible for a 1 week 100% free premium membership! If you also upload a picture of yourself you will get a whole month for FREE!!! <br><br>Our times have become stressful and even if the world has become much smaller and more and more people can afford to go out more and more often, statistics show that there are fewer and fewer couples among us and that relationships often fails. But statistics also show that more and more people are finding a partner through services just like this one, and even better, that relationships started in places like this one are far more likely to succeed. <br><br>Why? Because services like this one uses large databases with 100.000 of thousands of users, all interested in the same as you, to find that someone special to share their life with. <br><br>Because Single4you provides you the tools to make a pre selection based on your wishes and interests before looking at each others pictures, get to know one another better before getting physical. Especially men tend to pick their partners mainly for their looks, but we all know, although it is important to be physically attracted to one another, there is far more to it than that to get a relationship working. Having common interests, religious or philosophical views are equally important as physical attraction. Having a common background and a similar financial situation also reduces stress on relationships. <br><br>But maybe most of all, getting to know each other more thoroughly before getting intimate can help you avoid making the wrong choice and waste time with the wrong person. Single4you offers the optimal playground for just that, we have chat rooms, private chats, instant messaging systems, e-mail alerts about new members you could be interested in and much, much more so you can get to know a bunch of new people just like you and get to choose the one witch is best for YOU! <br><br>Happy Dating! <br><br><a href='http://www.single4you.net'>http://www.single4you.net</a><br><br>http://www.single4you.net<br><br><br></TD>
+											</TR>
+										</TABLE>
+								</TD>
+							</tr>
+						</table>
+						<TABLE id='Table10' height='93' cellSpacing='0' cellPadding='0' width='100%' border='0'>
+							<TR>
+								<TD class='footerleft' align='right'>
+									<TABLE id='Table4' style='WIDTH: 512px' height='100%' cellSpacing='0' cellPadding='0' width='512'
+										border='0'>
+										<tr>
+											<td class='navlink' width='42' height='25'>|&nbsp;<a class='links' id='A1' href='http://www.single4you.net'>Home</a>&nbsp;</td>
+											<td class='navlink' width='66' height='25'>|&nbsp;<a class='links' id='A2' href='http://www.single4you.net/membership/default.aspx'>Memberhip</a>&nbsp;</td>
+											<td class='navlink' width='55' height='25'>|&nbsp;<a class='links' id='A3' href='http://www.single4you.net/matchmaker/search.aspx'>Matchmaker</a>&nbsp;</td>
+											<td class='navlink' width='27' height='25'>|&nbsp;<a class='links' id='A4' href='http://www.single4you.net/membership/homepage.aspx'>Homepage</a>&nbsp;</td>
+											<td class='navlink' width='64' height='25'>|&nbsp;<a class='links' id='A5' href='http://www.single4you.net/chat/chat.aspx?page=Single4Chat'>SinglesChat&nbsp;</a></td>
+											<td class='navlink' width='48' height='25'>|&nbsp;<a class='links' id='A6' href='http://www.single4you.net/mailbox/inbox.aspx'>Mailbox</a>&nbsp;|</td>
+											<td>&nbsp;</td>
+										</tr>
+										<TR>
+											<TD id='Subnavbar' colSpan='8'>&nbsp;</TD>
+										</TR>
+									</TABLE>
+								</TD>
+								<TD class='footertexture'>&nbsp;</TD>
+								<TD class='footerright'>&nbsp;</TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+			</TABLE>
+	</body>
+</HTML>
+------=_NextPart_000_3855D_01C48662.926CB010--

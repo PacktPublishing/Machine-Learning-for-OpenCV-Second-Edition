@@ -1,0 +1,35 @@
+Received: from unknown (HELO mxvip9.hichina.com) (218.30.103.169)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:23 -0000
+Received: (quarkmail queue processor 97032 invoked for bounce); Tue, 19 Jul 2005 18:59:07 +0800
+Date: Tue, 19 Jul 2005 18:59:07 +0800
+From: MAILER-DAEMON@mxvip9.hichina.com
+To: projecthoneypot@projecthoneypot.org
+Subject: FAILURE NOTICE
+
+Hi. This is the mailer daemon at mxvip9.hichina.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<distinguishablemidriff@h-hopex.com>: No such user. (#5.1.1)
+
+--- Below this line is a copy of the mailheader. ---
+
+Received: from 81.18.217.40 (HELO mailwisconsin.com) (envelope-from projecthoneypot@projecthoneypot.org)
+	by mxvip9.hichina.com (quarkmail-1.2.1) with SMTP id S334406AbVGSK7D
+	for distinguishablemidriff@h-hopex.com; Tue, 19 Jul 2005 18:59:03 +0800
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190723;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinguishablemidriff@h-hopex.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal

@@ -1,0 +1,57 @@
+Message-ID: <22232469.1075856566564.JavaMail.evans@thyme>
+Date: Mon, 31 Jul 2000 05:09:00 -0700 (PDT)
+From: tom.halliburton@enron.com
+To: jobrien@snowyhydro.com.au
+Subject: SDDP Model
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Tom Halliburton
+X-To: jobrien@snowyhydro.com.au
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+John,
+Attached is a copy of the SDDP Methodology manual, written by the 
+developers.  The model was developed by Mario Pereira, who is the proprietor 
+of PSRI (Power Systems Research Inc) in Rio de Janeiro.   Their web site is: 
+www.psr-inc.com where you can find more information about the company and 
+contact details.  Mario and most of the staff speak English, so phone calls 
+are possible.  
+
+Development of SDDP was originally done on a World Bank contract to compare 
+the benefits of new generation and transmission system interconnections in 
+Central America.  It has since found much wider application.  The code runs 
+on a PC, and is licensed to a number of consultants, power companies, etc.  
+While I was with ECNZ in Wellington, New Zealand, we purchased a copy around 
+1994.
+
+The model works with weekly or monthly time steps, with a time horizon of 
+from 1 to 10 years, for mid to long range planning of hydro thermal power 
+systems.  It represents loads in each period as from one to five load blocks, 
+so it is not a chronological model.  This type of model can not handle 
+thermal plant ramp rates and similar chronological system constraints.  I'm 
+not sure how important that would be to you.  The optimization phase of the 
+model takes into account hydrological uncertainty using a form of stochastic 
+dynamic programming with sampling.  This phase sets up a function for water 
+value in each large reservoir in the system.  The simulation phase uses a 
+number of hydrological outcomes to collect statistics on how the system would 
+operate.  The water values can be used with the short term optimization mode 
+of SDDP or in some other more detailed short term optimization model.
+
+Most constraints found in hydro systems can be modelled.  Many transmission 
+constraints can be modelled.  A DC load flow option can be used to determine 
+bus nodal prices.
+
+A Visual Basic user interface is provided which reads and writes text files.
+
+If you'd like to know more about SDDP, you could call me here in Houston. 
+(tel 001 713 345 8539)
+
+yours
+
+Tom Halliburton

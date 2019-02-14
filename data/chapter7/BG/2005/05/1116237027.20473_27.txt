@@ -1,0 +1,60 @@
+Return-Path: <emmie97000689sharyn@insurancepub.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 23690 invoked from network); 15 May 2005 01:41:36 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 15 May 2005 01:41:36 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 15 May 2005 01:41:36 -0000
+Received: (qmail 8567 invoked from network); 15 May 2005 01:41:35 -0000
+Received: from 69.5.6.152 (unknown [220.88.54.37])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 15 May 2005 01:41:33 -0000
+Received: from lightowl.taubman.net (220.88.54.37)
+          by 220.88.54.37 (barometer 5.8 7.4) with SMTP
+          id <3QQFQ29Y15>; Sat, 14 May 2005 21:37:29 -0500
+Message-ID: <PFA0319_MP_335q@taubman.net>
+X-Originating-IP: [220.88.54.37]
+Alternate-recipient: Allowed
+Reply-To: "koo mendelso" <GKGRSQ@taubman.net>
+From: "koo mendelso" <GKGRSQ@taubman.net>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Mortage Approval Confirmation
+Date: Sun, 15 May 2005 03:33:29 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--53796_845595.ry39"
+Content-Length: 818
+Lines: 30
+
+----53796_845595.ry39
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you earlier about flnancing your home at a lower rate.<br>
+We would like to let you know that we have gone ahead and started<br>
+the approval process,<p>
+
+Here are the results:<br>
+*Negotiable Amount: $250,000 - $700,000<br>
+*Rate: 4.87% - 5.36%<p>
+
+Please fill out this form and a broker will contact you soon.<br>
+<a href="http://www.lendinxsz.com/index2.php?refid=mal">Processing Form</a><p>
+Best Regards,<p>
+
+Kevin Garrett,<br>
+Account Manager<p>
+
+---------------------<p>
+
+No future contact:<br>
+<a href="http://www.lendinxsz.com/r.php">no thanks</a>
+<p>
+lovettmccleanarlinminne
+</html>
+
+----53796_845595.ry39--

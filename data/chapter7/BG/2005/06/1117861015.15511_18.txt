@@ -1,0 +1,63 @@
+Return-Path: <paraboloidal@mailpride.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 3248 invoked from network); 03 Jun 2005 20:11:15 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 03 Jun 2005 20:11:15 -0000
+Received: (qmail 1916 invoked from network); 3 Jun 2005 20:11:15 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx01.futurequest.net ([69.5.6.171])
+  with QMQP via TCP; 03 Jun 2005 20:11:15 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 3242 invoked from network); 03 Jun 2005 20:11:15 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 03 Jun 2005 20:11:15 -0000
+Received: (qmail 22866 invoked from network); 3 Jun 2005 20:11:15 -0000
+Received: from cpe-24-209-250-236.cinci.res.rr.com (cpe-24-209-250-236.cinci.res.rr.com [24.209.250.236])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 03 Jun 2005 20:11:15 -0000
+Received: from headlight-j734.bk.ru (74.143.111.48) by ugs1-qu7.bk.ru with Microsoft SMTPSVC(5.0.2195.6824);
+	 Fri, 03 Jun 2005 13:10:56 -0800
+From: Mike Thurman <paraboloidal@mailpride.com>
+To: Mike Thurman <webmaster@ezmlm.org>
+Subject: Re: Order in CD Shop
+Date: Fri, 03 Jun 2005 13:10:56 -0800
+Message-ID: <892639293.123.52916@breve-nd4.bk.ru>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="-----=871_3369_8B967M35.14RND_UC_CHAR[2]097O"
+
+-------=871_3369_8B967M35.14RND_UC_CHAR[2]097O
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV><font face="Arial" size="2">Have a nice day</font></DIV>
+<DIV><FONT face=Arial size=2><br>
+  You are looking for powerful software package but the prices have prevented 
+  you from purchasing?</FONT></DIV>
+<DIV><FONT face=Arial size=2> You save up to 70% with 
+us!</FONT></DIV>
+<DIV><FONT face=Arial size=2><BR><EM><U>We offer:</U></EM></FONT></DIV>
+<FONT face=Arial size=2><EM>
+<UL>
+  <LI>Office software</LI>
+  <LI>Operating systems </LI>
+  <LI>Anti-virus and security</LI>
+  <LI>Graphics software</LI>
+  <LI>Server software</LI>
+  <LI>Finance</LI>
+  <LI>and many other!</LI></UL></EM></FONT>
+<DIV><FONT face=Arial size=2><A 
+href="http://lamestrower.info/uk/">http://lamestrower.info/uk/</A><BR>Best regards</FONT></DIV>
+</BODY></HTML>
+
+-------=871_3369_8B967M35.14RND_UC_CHAR[2]097O
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+-------=871_3369_8B967M35.14RND_UC_CHAR[2]097O--

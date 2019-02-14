@@ -1,0 +1,68 @@
+Return-Path: <Gqybntlh@optonline.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 20509 invoked from network); 18 Jul 2005 00:04:09 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Jul 2005 00:04:09 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Jul 2005 00:04:09 -0000
+Received: (qmail 18297 invoked from network); 18 Jul 2005 00:04:08 -0000
+Received: from lh (unknown [148.244.205.224])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 18 Jul 2005 00:04:05 -0000
+From: "Olivia Howe" <Gqybntlh@optonline.com>
+To: cvs@bruce-guenter.dyndns.org
+Subject: FYI
+Date: Sun, 17 Jul 2005 21:01:05 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_SZNYHNTZ.VBGEDMWO"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 1762
+Lines: 45
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_SZNYHNTZ.VBGEDMWO
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Home0wner,
+After completing the review we are pleased to offer you the following,
+
+Your current mortgage qualifies you for more than a 3% lower rate!
+
+--------------------------------------------------------
+!! U.S MORTGAGE RATES HAVE NEVER BEEN LOWER! !!
+--------------------------------------------------------
+
+
+Millions of Americans have re-financed this month alone!
+
+So why not you?
+
+Go HERE to make that change.
+
+
+If you prefer to be left out of this amazing offer go here.
+
+------=_NextPart_000_0000_SZNYHNTZ.VBGEDMWO
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<BODY bgColor=#ffffff>
+<FONT face=Verdana size=2>Dear HomeOwner,<P>
+After completing the review we are pleased to offer you the following,<P>
+Your current mortgage qualifies you for more than a 3% lower rate!<P>
+--------------------------------------------------------<BR>
+!! U.S MORTGAGE RATES HAVE NEVER BEEN LOWER! !!<BR>
+--------------------------------------------------------<BR><P>
+Millions of Americans have re-financed this month alone!<P>
+So why not you?<P>
+
+Go <A HREF="http://rds.yahoo.com/S=3315845/K=computer/v=5/SID=w/l=WS1/R=1/SS=96447475/IPC=us/SHE=0/H=0/SIG=28exsH06/EXP=425151376/*-http://google.com.br3ws.net/home.asp">HERE</A> to make that change.<P><P>
+
+If you prefer to be left out of this amazing offer go <A HREF="http://rds.yahoo.com/S=1437725/K=computer/v=9/SID=e/l=WS1/R=1/SS=65593023/IPC=us/SHE=0/H=0/SIG=03685axnCR22/EXP=327011979/*-http://google.com.br3ws.net/del.asp"> here</A>.</FONT></BODY></HTML>
+
+------=_NextPart_000_0000_SZNYHNTZ.VBGEDMWO--

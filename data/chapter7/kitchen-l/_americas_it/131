@@ -1,0 +1,48 @@
+Message-ID: <20565992.1075840862839.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 21:30:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com, 
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ 
+Thanks
+
+Zhiyong

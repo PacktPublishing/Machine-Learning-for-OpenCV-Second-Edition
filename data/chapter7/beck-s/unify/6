@@ -1,0 +1,51 @@
+Message-ID: <31554246.1075855929613.JavaMail.evans@thyme>
+Date: Fri, 7 Jul 2000 01:36:00 -0700 (PDT)
+From: jefferson.sorenson@enron.com
+To: brent.price@enron.com, sally.beck@enron.com
+Subject: UNIFY TO SAP INTERFACE---DAY 2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jefferson D Sorenson
+X-To: Brent A Price, Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+07/07/2000 08:35 AM ---------------------------
+
+
+Bob Klein
+07/06/2000 05:12 PM
+To: Jefferson D Sorenson/HOU/ECT@ECT
+cc: Rebecca Ford/HOU/ECT@ECT 
+Subject: UNIFY TO SAP INTERFACE---DAY 2
+
+As on Day 1 we ran the UNIFY to SAP interface at 8:00 AM, Noon, and 3:00 PM. 
+Set out below are the results of these runs.
+
+The interfaces for Enron North America (financial for gas, weather, and pulp 
+and paper) were error free.
+The interfaces for ENA Global Products--Financial resulted in two invoices 
+not being accepted by SAP. This was due to a SAP error that has occurred 
+about three times in test. However, the SAP team cannot duplicate the error 
+in order to correct. They are still trying to find the root of this problem. 
+The two transactions which were not picked up by SAP were resent successfully.
+The interfaces for ENA FX Financial uncovered a breakdown in the process. The 
+payment program for this entity is to be processed manually by the Accounts 
+Payable Dept. For July 5 and today, the AP Dept. forgot to process the 
+payment program resulting in nine payments (7 US $, 1 Canadian, and 1 GBP) 
+not  being paid. We were able to get all payments out today through SAP 
+except the GBP payment. The GBP non-payment was discovered by a counterparty 
+calling and stating that they did not received their funds. The US$ and 
+Canadian non-payments were discovered when we reviewed our bank statements 
+and found that the funds were not disbursed. For future interfaces, Bernard 
+is to call Treasury after each interface is processed to ensure that the 
+payments for this entity were received by them.  
+
+Bob
+
+

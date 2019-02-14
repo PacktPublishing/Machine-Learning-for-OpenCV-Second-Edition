@@ -1,0 +1,49 @@
+Return-Path: <pkwaraxbguxu@baliguide.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 25717 invoked from network); 16 Jul 2005 16:06:41 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 16 Jul 2005 16:06:41 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 Jul 2005 16:06:41 -0000
+Received: (qmail 18015 invoked from network); 16 Jul 2005 16:06:40 -0000
+Received: from 201-254-172-122.speedy.com.ar (unknown [201.254.172.122])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 16 Jul 2005 16:06:29 -0000
+Received: from nucleolus.aowarehouse.com (helo=ultimatum)
+        by smtp7.cl with esmtp (Exim 3.35 #1 (salaamfable))
+        id 4AKaB6-2705vigorouspvc-00
+Date: Sat, 16 Jul 2005 15:06:11 -0200
+Message-Id:  <dauphin.LPT345345@regina.aowarehouse.com>
+From: "Yvonne Pacheco" <ultsuhgzehtnl@aowarehouse.com>
+To: cvs@bruce-guenter.dyndns.org
+Subject:  Here Are The Results of Your Form
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Length: 710
+Lines: 27
+
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you last week about refinancing your home at a lower rate.<br>
+I would like to inform you know that you have been pre-approved.<p>
+
+Here are the results:<p>
+
+*Account ID: [297-327]<br>
+*Negotiable Amount: $130,958 to $623,517<br>
+*Rate: 3.90% - 5.32%<p>
+
+Please fill out this quick form and we will have a broker contact you as soon as possible.<br>
+<a href="http://www.refin-xnd.net/index2.php?refid=mal">http://www.refin-xnd.net/index2.php?refid=mal</a><p>
+
+Regards,<p>
+
+Yvonne Pacheco<br>
+Senior Account Manager<br>
+Amston Lenders, LLC.<p>
+
+Database Deletion:<br>
+http://www.refin-xnd.net/r.php
+</html>

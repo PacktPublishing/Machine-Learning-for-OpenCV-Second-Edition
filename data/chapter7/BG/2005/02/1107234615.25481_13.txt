@@ -1,0 +1,189 @@
+Return-Path: <857264233849782916073048wsz@wamu.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13916 invoked by uid 115); 31 Jan 2005 23:44:45 -0000
+Received: from 857264233849782916073048wsz@wamu.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(172.176.194.205):. 
+ Processed in 3.852267 secs); 31 Jan 2005 23:44:45 -0000
+Received: from acb0c2cd.ipt.aol.com (HELO 172.176.194.205) (172.176.194.205)
+  by churchill.factcomp.com with SMTP; 31 Jan 2005 23:44:40 -0000
+Received: from 220.192.192.199 by ; Tue, 01 Feb 2005 02:36:34 +0300
+Message-ID: <NPAYUCJZKSHKRNHNIZPQ@aol.com>
+From: "Washington Mutual Bank Issues 778" <084079688131mycpo@wamu.com>
+Reply-To: "Washington Mutual Account Service 527" <65965416097973824725153553687689019vwwfpt@wamu.com>
+To: bruceg@em.ca
+Subject: Washington Mutual Issues 8408
+Date: Tue, 01 Feb 2005 02:43:34 +0300
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--2610124822683561"
+X-Priority: 1
+X-MSMail-Priority: High
+
+----2610124822683561
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta name=3D"GENERATOR" content=3D"Microsoft FrontPage 5.0">
+<meta name=3D"ProgId" content=3D"FrontPage.Editor.Document">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+</head>
+<body>
+<table class=3D"messageheader" cellSpacing=3D"0" cellPadding=3D"0" width=3D=
+"100%" border=3D"0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<div id=3D"message" style=3D"font-family: verdana,arial,helvetica,sans-ser=
+if; font-size: 12px;
+color: #000000">
+  <xmeta Content=3D"Microsoft DHTML Editing Control" NAME=3D"GENERATOR" />=
+
+  <xbody />
+  <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"600" align=3D"center=
+" border=3D"0">
+    <tr vAlign=3D"top">
+      <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-s=
+ize: 12px; color:
+#000000">
+      <a
+href=3D"https://login.personal.wamu.com/logon/logon.asp?dd=3D1"
+target=3D"_blank">
+      <img alt=3D"wamu.com" src=3D"https://login.personal.wamu.com/images/=
+wamucom_logo.gif" border=3D"0"
+width=3D"255" height=3D"35"></a>
+      </td>
+    </tr>
+  </table>
+  <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100%" border=3D"0">
+    <tr>
+      <td width=3D"100%" style=3D"font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; color:
+#000000">
+      <img height=3D"10" src=3D"http://images.paypal.com/images/pixel.gif"=
+ width=3D"1"
+border=3D"0"></td>
+    </tr>
+  </table>
+  <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"600" align=3D"center=
+" border=3D"0">
+    <tr vAlign=3D"top">
+      <td width=3D"400" style=3D"font-family: verdana,arial,helvetica,sans=
+-serif; font-size: 12px;
+color: #000000">
+      <table cellSpacing=3D"0" cellPadding=3D"5" width=3D"100=
+%" border=3D"0">
+        <tr vAlign=3D"top">
+          <td style=3D"font-family: verdana,arial,helvetica,sans-serif; fo=
+nt-size: 12px; color:
+#000000">
+          <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" border=3D"0">
+            <tr>
+              <td class=3D"pp_heading" align=3D"left"><br>
+              Security Center Advisory!</td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"font-family: verdana,arial,helvetica,sans-serif; fo=
+nt-size: 12px; color:
+#000000">
+          <br>
+          ID of Request 40635ozpnwo<br>
+          WAMU is committed to maintaining a safe environment for its
+          community of buyers and sellers. To protect the security of your=
+
+          account, WAMU employs some of the most advanced security systems=
+ in
+          the world and our anti-fraud teams regularly screen the WAMU sys=
+tem
+          for unusual activity.<br>
+          <br>
+          In accordance with WAMU's User Agreement and to ensure that your=
+
+          account has not been compromised, access to your account was lim=
+ited.
+          <br>
+          <br>
+          Your account access will remain limited until this issue has bee=
+n
+          resolved. <br>
+          <br>
+          In order to secure your account and quickly restore full access,=
+ we
+          may require some specific information from you for the following=
+
+          reason: <br>
+          <br>
+          We encourage you to log in and restore full access as soon as
+          possible.<br>
+                <br>
+                <br>
+                Please follow the link below and renew your account inform=
+ation 
+                : <br>
+                <br>
+                <br>
+		    <a href=3D"http://66.240.178.93/cshop/skin1/help/index.html"  onMous=
+eOver=3D"window.status=3D'https://login.personal.wamu.com/logon/logon.asp?=
+dd=3D1&Update&Your&Info';return true;" 
+    onMouseOut=3D"window.status=3D' ';return true;">https://login.personal=
+wamu.com/logon/logon.asp?dd=3D1&Update&Your&Info</a>
+                <br>
+                <br>
+          <p><br>
+          <br>
+          Should access to your account remain limited for an extended per=
+iod of
+          time, it may result in further limitations on the use of your ac=
+count
+          or may result in eventual account closure.<br>
+          <br>
+          Thank you for your prompt attention to this matter. Please under=
+stand
+          that this is a security measure meant to help protect you and yo=
+ur
+          account. <br>
+          <br>
+          We apologize for any inconvenience.<br>
+          <br>
+          <br>
+          If you choose to ignore our request, you leave us no choice but =
+to
+          temporarily suspend your account.<br>
+          <br>
+          Thank you for using WAMU!</td>
+        </tr>
+        <tr>
+          <td style=3D"font-family: verdana,arial,helvetica,sans-serif; fo=
+nt-size: 12px; color:
+#000000">
+          <hr class=3D"dotted"></td>
+        </tr>
+        <tr>
+          <td style=3D"font-family: verdana,arial,helvetica,sans-serif; fo=
+nt-size: 12px; color:
+#000000">
+          <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100=
+%" border=3D"0">
+            <tr>
+              <td style=3D"font-family: verdana,arial,helvetica,sans-serif=
+; font-size: 12px;
+color: #000000">
+              <img height=3D"10" src=3D"http://images.paypal.com/en_US/i/s=
+cr/pixel.gif" width=3D"1"
+border=3D"0"></td></tr></table></td></tr><tr>
+          <td style=3D"font-family: verdana,arial,helvetica,sans-serif; fo=
+nt-size: 12px; color:
+#000000">
+<br></td></tr></table></td></tr></table></div></body></html>
+
+----2610124822683561--
+

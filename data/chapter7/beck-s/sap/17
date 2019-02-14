@@ -1,0 +1,38 @@
+Message-ID: <27856481.1075855896095.JavaMail.evans@thyme>
+Date: Mon, 26 Jun 2000 15:49:00 -0700 (PDT)
+From: bryce.baxter@enron.com
+To: susan.harrison@enron.com, sally.beck@enron.com, lisa.csikos@enron.com, 
+	rita.wynne@enron.com, melissa.ratnala@enron.com, pam.boxx@enron.com, 
+	katherine.kelly@enron.com
+Subject: SAP A/R A/P Aging Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bryce Baxter
+X-To: Susan Harrison, Sally Beck, Lisa Csikos, Rita Wynne, Melissa K Ratnala, Pam B Boxx, Katherine L Kelly
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Tonight Kris and I met with the SAP team about the critical issues we 
+discussed in the meeting this morning.  
+
+As far as Xref1 (coordinator) and Xref2 (physical vs. financial flag) fields 
+go, it appears that we are getting what we have to have in order to go live 
+7/1.  Rena was working on a spec (the OSS that was discussed) that would 
+automatically populate these 2 fields.  However, the test was unsuccessful.  
+These two fields are being opened up for netting, so we can input them 
+manually when netting.  I believe we need to pursue the auto fill post 7/1, 
+but the first priority is having a place to put the data.
+
+As far as settlement period is concerned, we are probably going to get a 
+hybrid of what we want at this time.  The SAP team does appear to have 
+appropriate resources working on this issue.  For data created in SAP, I am 
+more comfortable that the data is being captured on the income statement side 
+of the entry, and the SAP folks now seem to think they can link over to it to 
+get the settlement data.  For data converted, we will not be able to get the 
+settlement period in the same manner.  The offsetting entry in conversion is 
+to a dummy conversion account rather than an income statement account.  The 
+dummy account doesn't carry the settlement date.  Another issue is related to 
+the indicator to let us know if an invoice has had cash applied or 

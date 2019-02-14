@@ -1,0 +1,234 @@
+Return-Path: <postadm@newslettermania.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 2308 invoked by uid 115); 1 Nov 2004 14:58:22 -0000
+Received: from postadm@newslettermania.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(69.10.144.113):. 
+ Processed in 1.119378 secs); 01 Nov 2004 14:58:22 -0000
+Received: from h69-10-144-113.n-01.net (HELO newslettermania.com) (69.10.144.113)
+  by churchill.factcomp.com with SMTP; 1 Nov 2004 14:58:19 -0000
+Received: by newslettermania.com id hgnlki06ooor; Sun, 31 Oct 2004 19:48:11 -0800 (envelope-from <postadm@newslettermania.com>)
+Date: Sun, 31 Oct 2004 19:48:11 -0800
+From: HOTLINE  INVESTMENTS <newsadmin@newslettermania.com>
+To: bait@em.ca
+Subject: Learn what JP Morgan, SG Cowan and the Wall St Journal have to say
+Content-type: text/html;
+X-Qmail-Scanner-Message-ID: <10993211016722301@churchill>
+
+<img src="http://wwww.newslettermania.com/info/?244,2,5,836506,title.gif">
+<html>
+<head>
+<title>Market Movers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body alink="#45583B" vlink="#45583B" link="#45583B" bgcolor="DAE9CD" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0" topmargin="0">
+<table align="center" width="650" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="100"><img src="http://www.newslettermania.com/img/mm/mmover_header.jpg" width="650" height="100"></td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#C8D6BC">
+	<table height="600" width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="*" valign="top">
+		<table width="100%"  border="0" cellspacing="0" cellpadding="5">
+  		<tr>
+    	<td valign="top">
+		<table width="100%"  border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td width="39%"><img src="http://www.newslettermania.com/img/mm/SCMI_logo.gif" width="170" height="100"></td>
+    <td width="61%" valign="top">
+	<table width="100%"  border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td><font size="5" face="Verdana, Arial, Helvetica, sans-serif" color="45583B"><strong>THE STOCK TO BUY</strong></font></td>
+  </tr>
+  <tr>
+    <td><font size="3" face="Verdana, Arial, Helvetica, sans-serif" color="45583B"><strong>Learn what JP Morgan, SG Cowan and the Wall Street Journal had to say about SunnComm.</strong></font></td>
+  </tr>
+</table>
+
+	</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+	<table width="100%"  border="0" cellspacing="0" cellpadding="3">
+  <tr>
+    <td width="38%" align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Stock Symbol</strong> </font>&nbsp;</td>
+    <td width="62%"><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>OTC: SCMI</strong></font></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Current Price</strong> </font>&nbsp;</td>
+    <td><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>$0.07</strong></font></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Shares Outstanding</strong> </font>&nbsp;</td>
+    <td><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>438 million</strong></font></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Approx. Float
+ </strong> </font>&nbsp;</td>
+    <td><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>365 million
+</strong></font></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>10 day volume
+</strong> </font>&nbsp;</td>
+    <td><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>1,537,117 shares
+</strong></font></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>52 Week High/Low</strong> </font>&nbsp;</td>
+    <td><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>$0.19 / $0.064</strong></font></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#455940"><font color="#D5E4C8" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Company Website</strong> </font>&nbsp;</td>
+    <td><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://wwww.newslettermania.com/?244,1,2,836506,5.html">www.sunncomm.com</a></strong></font></td>
+  </tr>
+  <tr align="left" bgcolor="#C8D6BC">
+    <td colspan="2"><font color="#45583B" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Top Analysts Predict Sunncomm International (Symbol: SCMI) is the one undiscovered and unknown technology.</strong></font></td>
+    </tr>
+</table>
+
+	</td>
+  </tr>
+</table>
+<br>
+		<table width="100%"  border="0" cellspacing="0" cellpadding="2">
+  		<tr>
+    	<td height="20" bgcolor="#89AF74"><font color="D5E4C8" size="3" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>The SunnComm Advantage:</strong></font></td>
+  		</tr>
+  		<tr>
+    	<td valign="top"><font color="34422C" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif">
+		<p><strong>SunnComm has single-handedly amassed more "firsts" in the audio copy control space than any other firm in the industry. Even more impressive is the fact that these pioneering achievements have been accomplished with only a fraction of the investment capital consumed by the Company's closest competitors. In March of 2001, the first copy controlled audio CD released in the U.S. market employed SunnComm’s copy management technology. The features offered within the Company’s copy management technology have set precedents among its competitors and are fast becoming industry standards. </strong></p>
+
+<p><strong>The Company's ability to consistently be first to market with solutions that work both technically and from a business standpoint, is a direct result of its success in developing unique and dynamic working relationships with its technology partners and customer base. These relationships have positioned the Company in such a way that facilitates an exchange of knowledge between customers, such as BMG Music and the Company’s development team. This exchange of knowledge has allowed customers to become active participants in the development process and enabled them to communicate specific product needs. In turn, this process allows the Company to design technology solutions that are both effective and capable of adaptability within a continuously evolving industry.</strong></p> 
+
+<p><strong>SunnComm's founders recognized early on that, in order to reduce illicit copying, artists, record companies and distributors must offer consumers something superior to what they can easily use the Internet to obtain illegally. The Company also chose to offer enhanced and bonus content on its copy managed discs in order to give consumers an added incentive to comply with the wishes of copyright holders.</strong></p>
+
+<p><strong><u>SunComm International (OTC: SCMI) has the recipe for success:</u></strong></p>
+
+<p><strong>SunnComm Technologies' top priority has always been:</strong></p>
+
+<p><strong>"... To develop entertainment technology that guards the content ownership rights of publishers, artists, and record companies without getting in the way of the listening experience."</strong></p>
+
+<p><strong>Our MediaMax TM CD-3 suite of products was designed in direct response to input from the world’s largest record companies, and is the culmination of 3 years’ work.</strong></p>
+
+<p><strong>Until MediaMax CD-3 was introduced and tested in the last quarter of 2002, no other available content protection enhancement technology product has been accepted by both the record industry and the CD consumer.</strong></p>
+
+<p><strong>MediaMax CD3 is always evolving. Sunncomm's MediaMax V.1.5 (and soon, Version 2) will allow a legitimate CD buyer the ability to enjoy the company's PLAY-MOVE-MAKETM experience.</strong></p>
+
+<p><strong>Our goal here at SunnComm Technologies is to achieve the important balance between copyright protection for content providers, and value consumers.</strong></p>
+<p><strong>SunComm in the News:</strong><br>
+  <a href="http://wwww.newslettermania.com/?244,2,2,836506,5.html">http://www.sunncomm.com/news/listnews.asp</a><br><br>
+  <strong>SunComm Press Releases:</strong><br>
+<a href="http://wwww.newslettermania.com/?244,3,2,836506,5.html">http://www.sunncomm.com/press/listpr.asp</a></p>
+
+<p><strong>INDUSTRY QUOTES:</strong></p>
+
+<p><strong>"Playability is our No. 1 concern," said Nathaniel Brown, a spokesman for BMG, a record-label owned by Bertelsmann AG. "At the moment, SunnComm is ahead of the curve in terms of playability."</strong></p>
+
+<p><strong>Wall Street Journal:  SunnComm now stands alone within its industry. A substantial competitive advantage over Macrovision (NasdaqNM:MVSN) </strong></p>
+
+		</font></td>
+  		</tr>
+		</table>
+		<br>
+		<table width="100%"  border="0" cellspacing="0" cellpadding="2">
+  		<tr>
+    	<td height="20" bgcolor="#89AF74"><font color="D5E4C8" size="3" face="Verdana, Verdana, Arial, Helvetica, sans-serif"><strong>Conclusion:</strong></font></td>
+  		</tr>
+  		<tr>
+    	<td valign="top"><font color="34422C" size="2" face="Verdana, Verdana, Arial, Helvetica, sans-serif">
+		<p><strong>From a leverage standpoint, if there are two main competitors where one stock is trading at $27.00 per share (NasdaqNM:MVSN) and the other is (OTC:SCMI ) trading at only 07 cents ( A FRACTION OF ITS VALUE), which one would you bet on to go ten times your investment?</strong></p>
+
+<p><strong>IN OUR OPINION IT WOULD BE NO CONTEST, IN FACT WHAT IS THERE EVEN TO THINK ABOUT!!!!!!! It would be much easier for SunnComm (OTC:SCMI) to hit $1.00 per share, THAT’S TEN TIMES OF ITS CURRENT TRADING PRICE.</strong></p> 
+
+<p><strong>To achieve the same rate of return (MVSN) would have to hit $200.00.  If both companies have an equal shot, the choice is certainly a no-brainer in our mind.</strong></p>
+
+<p><strong>SCMI is currently trading off of a 52 week low, where MVSN is trading at approximately a two percent less then its 52 week high. LOOK FOR A DEAD CAT BOUNCE ON (OTC: SCMI).</strong></p>  
+
+<p><strong>THE STOCK TO TRADE...........................</strong></p>
+
+		</font></td>
+  		</tr>
+		</table>
+		<div align="center"><br>
+		  <table width="389" border="0" cellspacing="0" cellpadding="5">
+		      <tr>
+		        <td width="294"><div align="center"><font color="45583B" size="4" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://wwww.newslettermania.com/?244,4,2,836506,5.html">Click
+		                Here for More Information</a> </strong></font></div></td>
+		        </tr>
+		      </table>
+		    <font color="45583B" size="4" face="Verdana, Arial, Helvetica, sans-serif"></font></div></td>
+  		</tr>
+		</table>		</td>
+        <td width="194" valign="top" bgcolor="#455940">
+		
+<table width="100%"  border="0" cellspacing="0" cellpadding="2">
+  <tr><td colspan="2"><font size="4" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>10 Reasons to buy SCMI Now:</strong></font></td></tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%" valign="top"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>BMG selects MediaMax™ (SCMI) to protect and manage its music CDs with America’s first commercial release October 2003, marking SunnComm’s entrance into this $32 billion market.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>Industry leaders have predicted audio CD copy protection will eventually be a $100 million dollar a year business based on over 2 billion legal CDs sold each year along with another 2 billion counterfeit CDs.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>SunnComm (SCMI) is the first Microsoft Technology Partner to license Microsoft’s technology for use on music CDs.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>SunnComm (SCMI) co-develops CD Protection Toolkit with Microsoft - released in January 2003.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>MediaMax (SCMI) are built upon groundbreaking patent-pending proprietary technology.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>SunnComm (SCMI) is the ONLY copy management technology used in the United State and has protected over 60 commercial releases generating 6,000,000 CDs sold across more than 25 record labels including Arista, BMG Canada, RCA, BMG Mexico, Warner Special Projects, Vik, BMG U.S./Latin, KOCH Records, Diamond Music, DIC Entertainment, J Records, Kinkybeat Records, Krpialu Muni Mandal, Music City Records, Plasma Records, Premium Latin Music, Kinkysweet Records, Six Degree Records, Steve Myland Publishing, Sunbird Records, Triumph Productions, Tuquinha Productions and more…</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>Earlier this year, JP Morgan declares SunnComm (SCMI) is ahead of, its only real competitor, copy protection giant, Macrovision.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>SG COWEN & CO reports on June 25, 2004: U.S. CD Copy Protection Gaining Momentum focusing on SunnComm’s (SCMI) technology.</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>Wall Street Journal says that whoever protects the US first, can wind up protecting the world’s CDs.  The US is the biggest market.  No other company has announced rolling out copy protection products in the US except SunnComm (SCMI) (yet).</strong></font></td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top"><img src="http://www.newslettermania.com/img/mm/arrow.gif" width="13" height="10"></td>
+    <td width="90%"><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#D5E4C8"><strong>SunnComm (SCMI) is poised to go NASDAQ or AMEX following the rollout of its 2nd major label deal.</strong></font></td>
+  </tr>
+</table>
+
+		
+		</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr><td height="20"><img src="http://www.newslettermania.com/img/mm/btn.jpg" width="650" height="20"></td>
+  </tr>
+  <tr><td>
+  <!-- bottom section --><br>
+  <font size="1" color="#455940" face="Arial, Helvetica, sans-serif">
+	Disclaimer:<br>
+	Verify all claims and do your own due diligence. Market Movers (MM) profiles are not a solicitation or recommendation to buy, sell or hold securities. MM is not offering securities for sale. All statements and expressions are the sole opinion of MM and are subject to change without notice. The companies that are discussed in this opinion have not approved the statements made in this opinion. This release may contain statements that constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E the Securities Exchange Act of 1934, as amended. The words "may" "would," "will," "expect," "estimate," "anticipate," "believe," "intend," and similar expressions and variations thereof are intended to identify forward-looking statements. Investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, many of which are beyond the Company's ability to control, and that actual results may differ materially from those projected in the forward-looking statements as a result of various factors. This profile is not without bias, and is a paid advertisement. MM is not liable for any investment decisions by its readers or subscribers. MM is not a registered broker dealer or investment advisor. It is strongly recommended that any purchase or sale decision be discussed with a financial adviser, or a broker-dealer, or a member of any financial regulatory bodies. The information contained in MM profiles is provided as an information only service. The accuracy or completeness of the information is not guaranteed and is only as reliable as the sources from which it was obtained. Investing in micro cap stocks is extremely risky and, investors are cautioned that they may lose all or a portion of their investment if they make a purchase in SCMI. MM has been compensated on SCMI 
+	 $75,000.00 from a third party (AVI) a non-Affiliated third party for the publication and circulation of this report. In addition. THE READER SHOULD VERIFY ALL CLAIMS AND DO THEIR OWN DUE DILIGENCE BEFORE INVESTING IN ANY SECURITIES MENTIONED. INVESTING IN SECURITIES IS SPECULATIVE AND CARRIES A HIGH DEGREE OF RISK. Subsequently MM may buy or sell shares of SCMI stock in the open market. Since MM has been compensated there is an inherent conflict of interest.
+	</font>
+    </td>
+  </tr>
+</table>
+<br>
+</body>
+</html>
+<center><center><font size="1"><p>This newsletter was sent to you because you requested to receive updates about new NewletterMania features and special offers.<br>If you do not want to receive this Newsletter anymore, unsubscribe by <a href="http://www.newslettermania.com/custserv/?836506,5,244.html">clicking here</a>.  To learn more about<br> NewsletterMania's use of personal information, please read our <a href="http://www.newslettermania.com/index.php?option=content&task=view&id=7&Itemid=25">Privacy Policy</a>.
+</p>
+</font>
+</center></center>

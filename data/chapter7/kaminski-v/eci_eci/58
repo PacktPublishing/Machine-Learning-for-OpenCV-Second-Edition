@@ -1,0 +1,65 @@
+Message-ID: <27956239.1075857042022.JavaMail.evans@thyme>
+Date: Fri, 19 May 2000 08:35:00 -0700 (PDT)
+From: chonawee.supatgiat@enron.com
+To: vince.kaminski@enron.com
+Subject: XPRESS and CPLEX Runtime Comparison results
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Chonawee Supatgiat
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince, 
+FYI
+below is the comparison of the computation time results from CPLEX and XPRESS 
+optimization softwares.
+-Chonawee
+
+
+---------------------- Forwarded by Chonawee Supatgiat/Corp/Enron on 
+05/19/2000 03:26 PM ---------------------------
+
+
+Chonawee Supatgiat
+05/17/2000 05:48 PM
+To: samer_takriti@enron.net, Stinson Gibner/HOU/ECT@ECT, Ravi 
+Thuraisingham/Enron Communications@Enron Communications
+cc: Tom Halliburton/Corp/Enron@Enron, Pinnamaneni Krishnarao/HOU/ECT@ECT, 
+ming-lung.lee@sycamorenet.com, ming888lee@aol.com 
+
+Subject: XPRESS and CPLEX Runtime Comparison results
+
+Hi,
+
+I have tested both CPLEX and XPRESS-MP optimization software in solving our 
+network design problem.
+XPRESS is more user friendly hence it takes less developing time. However, 
+CPLEX performs significantly better
+in term of computation time, especially in integer programming.
+As a result, eventhougth XPRESS is easier to use and cheaper, I would 
+recommend our EBS group to use CPLEX. 
+Please let me know what do you think...
+
+The test problem has 10 nodes, 77 cables, 5 cable speed. 
+
+
+The table below represents the computation time in seconds for solving this 
+problem.
+The second column indicates if the general integer variables are relaxed (but 
+still keep the binary variables). 
+The "LP" column represents the computational time when solving relaxed 
+problem (no binary & integer variable constraints). 
+XPRESS took too much time in solving case 4 and 6 so I had to stop the 
+process and report the best solutions it found.
+
+
+
+
+Below are the graph.
+
+
+

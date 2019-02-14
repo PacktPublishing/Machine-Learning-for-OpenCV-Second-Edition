@@ -1,0 +1,81 @@
+Return-Path: <nobody@ls101.ehostdepot.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15690 invoked by uid 115); 27 Nov 2004 02:37:07 -0000
+Received: from nobody@ls101.ehostdepot.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(216.23.188.189):. 
+ Processed in 0.717905 secs); 27 Nov 2004 02:37:07 -0000
+Received: from ls101.ehostdepot.net (216.23.188.189)
+  by churchill.factcomp.com with SMTP; 27 Nov 2004 02:37:02 -0000
+Received: from nobody by ls101.ehostdepot.net with local (Exim 4.43)
+	id 1CXsyS-0005Hw-DR; Fri, 26 Nov 2004 19:10:12 -0800
+To: 
+Subject: UTL: FINAL PROMO WINNER
+From: UNIVERSALTRUSTLOTTERY <info_2004@echina.com>
+X-Priority: 1 (Highest)
+CC: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: RLSP Mailer
+Message-Id: <E1CXsyS-0005Hw-DR@ls101.ehostdepot.net>
+Date: Fri, 26 Nov 2004 19:10:12 -0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ls101.ehostdepot.net
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - ls101.ehostdepot.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+UNIVERSAL TRUST WORLDWIDE PROMOTION LOTTERY
+138 EDWARD STREET,
+4TH FLOOR BARINOR BUILDING
+UK LONDON, ENGLAND
+Ref: UT/941OY2/02
+Batch: 12/25/DC34
+27/11/2004
+                                WINNING  NOTIFICATION:
+We happily announce to you the draw of the Euro - Afro Asian 
+SweepstakeInternational programs held on the 20th of Novermber 2004 in cairo 
+Egypt.Your e-mail address attached to ticket number: 56475600545-288 with 
+Serial number 5388/02 drew the lucky numbers 31-6-26-13-35-7, which 
+subsequently won you the lottery in the 3RD
+category You have therefore been approved to claim a total sum of 
+US$2,500,00000 (Two million, five hundred Thousand,United States Dollars) in 
+cash credited to file PC/9080118308/02. This is from a total cash prize
+of US $25Million dollars,shared amongst the first Fifty (50) lucky 
+winners in this category.Please note that your lucky winning number falls 
+within our European booklet representative office in Europe as indicated 
+in your
+playcoupon. Inview of this, your US$2,500,000.00 (Two million, five 
+hundred thousand,United States Dollars) would be released to you by our 
+security firm in Europe.
+OurEuropean agent will immediately commence the process to facilitate 
+the release of your funds as soon as you contact him. All participants 
+were selected randomly from World Wide Web site through computer draw
+system and extracted fromover 100,000 companies. This promotion takes 
+place annually. For security reasons, you are advised to keep your 
+winning information confidential till your claims is processed and your 
+money
+remitted to you in whatever manner you deem fit to claim your prize 
+This is part of our precautionary measure to avoid double claiming and 
+unwarranted abuse of this program by some unscrupulous elements. To file 
+for
+your claim, please contact our fiduciary agent:
+Mr Cole Smith.
+Email: smith03@nyc.com
+To avoid unnecessary delays and complications, please quote your 
+reference/batch numbers in any correspondences withus or our designated 
+agent. Congratulations once more from all members and staffs of this 
+program.
+Thank you for being part of our promotional lottery program.
+Sincerely,
+SIR H.J.PONFA
+UNIVERSAL TRUST WORLDWIDE LOTTERY Coordinator.
+EMAIL: smith03@nyc.com
+
+___________________________________________________________________________
+Mail sent from WebMail service at PHP-Nuke Powered Site
+- http://www.intensecity.net

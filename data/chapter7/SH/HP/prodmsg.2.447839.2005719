@@ -1,0 +1,82 @@
+Received: from h081217104222.dyn.cm.kabsi.at (HELO telecable.at) (81.217.104.222)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 16:24:49 -0000
+Date: Tue, 19 Jul 2005 18:24:55 +0100
+From: Mail Delivery Subsystem <MAILER-DAEMON@telecable.at>
+Message-Id: <200507191824.CBA10338@mx1.telecable.at>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary="CBA10338.1121731200/mx1.telecable.at"
+Subject: Returned mail: User unknown
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--CBA10338.1121731200/mx1.telecable.at
+
+The original message was received at Tue, 19 Jul 2005 18:24:55 +0100
+from scanner03.kabsi.at [195.202.128.134]
+
+   ----- The following addresses had permanent fatal errors -----
+<flo@telecable.at>
+    (expanded from: <flo@telecable.at>)
+
+   ----- Transcript of session follows -----
+mail.local: unknown name: flo
+550 <flo@telecable.at>... User unknown
+
+--CBA10338.1121731200/mx1.telecable.at
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx1.telecable.at
+Received-From-MTA: DNS; scanner03.kabsi.at
+Arrival-Date: Tue, 19 Jul 2005 18:24:55 +0100
+
+Final-Recipient: RFC822; <flo@telecable.at>
+X-Actual-Recipient: RFC822; flo@telecable.at
+Action: failed
+Status: 5.1.1
+Last-Attempt-Date: Tue, 19 Jul 2005 18:24:55 +0100
+
+--CBA10338.1121731200/mx1.telecable.at
+Content-Type: message/rfc822
+
+Received: from scanner03.kabsi.at (scanner03.kabsi.at [195.202.128.134])
+	by hal.kabsi.at (8.11.1/) with ESMTP id j6JB35r0000619610
+	for <r.bokor@telecable.at>; Tue, 19 Jul 2005 13:03:10 +0200 (CEST)
+Received: from mx03.kabsi.at (mx03.kabsi.at [195.202.128.130])
+	by scanner03.kabsi.at (8.13.3/8.13.3) with ESMTP id j6JB1I7P030661
+	for <r.bokor@telecable.at>; Tue, 19 Jul 2005 13:01:18 +0200
+Received: from mailwisconsin.com (usen-59x87x89x45.ap-US02.usen.ad.jp [59.87.89.45])
+	by mx03.kabsi.at (8.13.3/8.13.3) with SMTP id j6JAxfcC025462
+	for <r.bokor@telecable.at>; Tue, 19 Jul 2005 12:59:43 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360319;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: *****SPAM***** Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: r.bokor@telecable.at
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Brightmail-Tracker: AAAADAGzyZoBs8mXAbPBVQGzpawBs8BCAbO16gGzu8oBs7vFAbPAZgGzwEoBs0qCAbPABw==
+X-SCANNER: *****SPAM*****
+X-UIDL: d"<!!e`Z"!C1Y"!G>="!
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836871">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+--CBA10338.1121731200/mx1.telecable.at--
+

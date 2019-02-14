@@ -1,0 +1,38 @@
+Return-Path: <pservice@cassiopay.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2745 invoked by uid 115); 6 Feb 2005 23:04:04 -0000
+Received: from pservice@cassiopay.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.222.153.6):. 
+ Processed in 3.583306 secs); 06 Feb 2005 23:04:04 -0000
+Received: from 200222153006.user.veloxzone.com.br (200.222.153.6)
+  by churchill.factcomp.com with SMTP; 6 Feb 2005 23:04:00 -0000
+Message-ID: <20050216736.24692.qmail@cassiopay.net>
+Date: Sun, 6 Feb 2005 23:16:17 +0000
+From: "Payments Service" <pservice@cassiopay.net>
+Subject: CassioPay payment received [transaction id:csp2533916089]
+To: <bruceg@em.ca>
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 1163
+
+<html>
+<body>
+Hello, bruceg@em.ca<BR>You've got cash! <BR>&nbsp;<BR>Samuel 
+Morse just sent you money with CassioPay. 
+<BR>&nbsp;<BR>------------------------------ <BR>Payment Details 
+<BR>------------------------------ <BR>&nbsp;<BR>Amount: $359.00 USD 
+<BR>&nbsp;<BR>&nbsp;<BR>Simply click <A 
+href="http://www.cassiopay.net">http://www.cassiopay.net</A> and 
+complete<BR>CassioPay's easy registration form to claim your money. 
+<BR>&nbsp;<BR>&nbsp;<BR>CassioPay lets users send money to anyone with 
+an<BR>email address. Use CassioPay.net to settle restaurant <BR>tabs with 
+colleagues, pay friends for movie tickets, <BR>or buy a baseball card at an 
+online auction. You can <BR>also send personalized money requests to your 
+friends <BR>for a group event or party. <BR>&nbsp;<BR>For more information about 
+CassioPay, go to: <BR>&nbsp;<BR><A 
+href="http://www.cassiopay.net">http://www.cassiopay.net</A> 
+<BR>&nbsp;<BR>Welcome to CassioPay! <BR>The CassioPay Team <BR>&nbsp;<BR>Note: 
+If you are already a CassioPay member, click the<BR>link below to add and 
+confirm this email address so <BR>this payment can be credited to your account. 
+</body>
+</html>

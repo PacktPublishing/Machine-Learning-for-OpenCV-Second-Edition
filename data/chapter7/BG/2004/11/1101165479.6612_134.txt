@@ -1,0 +1,58 @@
+Return-Path: <b.GSM1.0-4583c16-11c4.em.ca.-bruceg@gs21.majorleagueoffers.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 21353 invoked by uid 115); 22 Nov 2004 19:36:26 -0000
+Received: from b.GSM1.0-4583c16-11c4.em.ca.-bruceg@gs21.majorleagueoffers.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(69.60.102.21):. 
+ Processed in 0.276695 secs); 22 Nov 2004 19:36:26 -0000
+Received: from gs21.majorleagueoffers.com (69.60.102.21)
+  by churchill.factcomp.com with SMTP; 22 Nov 2004 19:36:23 -0000
+Received: (from daemon@localhost)
+	by gs21.majorleagueoffers.com (8.8.8/8.8.8) id NAA05033;
+	Mon, 22 Nov 2004 13:49:59 -0500 (EST)
+Date: Mon, 22 Nov 2004 14:41:57 -0500 (EST)
+Message-Id: <200411221849.NAA05033@gs21.majorleagueoffers.com>
+From: Complimentary Apple iBook <GSM1@gs21.majorleagueoffers.com>
+To: bruceg@em.ca
+Subject: We're giving away an Apple iBook G4 Laptop 
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+
+<html><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><center>
+<table id="Table_01" width="740" height="500" border="0" cellpadding="0" cellspacing="0">
+	<tr><td colspan="2">
+			</a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_01.jpg" width="740" height="70" alt="" border="0"></a></td>
+	</tr><tr><td rowspan="3">
+			</a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_02.jpg" width="374" height="302" alt="" border="0"></a></td>
+		<td></a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_03.jpg" width="366" height="107" alt="" border="0"></a></td>
+	</tr><tr><td>
+			</a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_04.jpg" width="366" height="139" alt="" border="0"></a></td>
+	</tr><tr><td>
+			</a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_05.jpg" width="366" height="56" alt="" border="0"></a></td>
+	</tr><tr><td colspan="2">
+			</a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_06.jpg" width="740" height="43" alt="" border="0"></a></td>
+	</tr><tr><td colspan="2">
+			</a><img src="http://images.imgehost.com/1018/Nov2004/creatives/1/applebook_emc_d5f1_07.jpg" width="740" height="85" alt="" border="0"></a></td>
+	</tr></table>
+</center></body>
+</html><HTML><BODY>
+<BR><BR>
+<DIV>
+  <FONT FACE="helvetica,arial" SIZE="-1" COLOR="#000000">
+  To unsubscribe from this mailing list: <A HREF="http://gs21.majorleagueoffers.com/delete?l=GSM1.0-4583c16-11c4&e=bruceg%40em.ca">click here</A><BR>
+  or send a blank message to: <A HREF="mailto:r.GSM1.0-4583c16-11c4.em.ca.-bruceg@gs21.majorleagueoffers.com?subject=remove">r.GSM1.0-4583c16-11c4.em.ca.-bruceg@gs21.majorleagueoffers.com</A><BR>
+  </FONT>
+</DIV><BR>
+<div align="center">
+<font face="helvetica,arial" size="-1" color="#000000">
+BSS<br>
+4012 South Rainbow Drive<br>
+Las Vegas, NV 89103<br>
+USA<br>
+</font>
+</div>
+<BR>
+<BR CLEAR="ALL">
+<IMG SRC="http://gs21.majorleagueoffers.com/m/r?3a6-bnoj-0-3cgd8c" WIDTH=33 HEIGHT=12 BORDER=0 ALIGN="RIGHT" ALT="">
+
+</BODY></HTML>
+

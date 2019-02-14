@@ -1,0 +1,56 @@
+Return-Path: <junjebrmv@forfree.at>
+Delivered-To: em-ca-bait-passover@em.ca
+Received: (qmail 32228 invoked by uid 115); 7 Apr 2005 07:52:54 -0000
+Received: from junjebrmv@forfree.at by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.64.60.23):. 
+ Processed in 0.499134 secs); 07 Apr 2005 07:52:54 -0000
+Received: from unknown (HELO 209.5.178.248) (220.64.60.23)
+  by churchill.factcomp.com with SMTP; 7 Apr 2005 07:52:53 -0000
+Received: from pincushion.freeservers.com ([81.171.8.137])
+          by aegis.worldmexico.com
+          (InterMail vK.4.04.00.00 772-782-874 license 386472wl58yq4wyh7co194j6u92y1w57)
+          with ESMTP
+          id <20033307852233.NOFT203.aegis@pincushion.freeservers.com>
+          for <004227@em.ca>; Thu, 07 Apr 2005 03:02:50 -0600
+ Received: from Mari ([66.28.139.132]) by pincushion.freeservers.com
+ (iPlanet Messaging Server 5.2 HotFix 1.14 (built Mar 18 2003))
+ with ESMTPA id <0XHP002MXHB05V@pincushion.freeservers.com> for 004227@em.ca;
+ Thu, 07 Apr 2005 10:02:50 +0100 (IDT)
+ Date: Thu, 07 Apr 2005 03:02:50 -0600
+From: Fidel Sutherland <junjebrmv@forfree.at>
+Subject: Cheapest Pharmacy on the net
+To: <004227@em.ca>
+References: <XPG76XFAD5S7IGRR@worldmexico.com>
+In-Reply-To: <XPG76XFAD5S7IGRR@worldmexico.com>
+Message-ID: <221225117437.ZLB88646@gee-wiz.com>antiphonal.freeservers.com>
+Message-ID: <221225117437.ZLB88646@gee-wiz.com>
+MIME-version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_001_8951_91K33CV7.70ZM7175"
+X-Mailer: dMail (Demos Mail v1.13a)
+
+This is a multi-part message in MIME format.
+
+------_001_8951_91K33CV7.70ZM7175
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+Hi,
+You can buy the most wanted medications from our site.
+we sell ViCODiN(179 $),VALiUM(169 $) and ViAGRA(199 $) at a very reasonable price.
+we ship worldwide and no prescription is needed.
+http://www.grx-meds.com/scripts/default.asp?idaff=110
+Cheapest Online Pharmacy
+
+------_001_8951_91K33CV7.70ZM7175
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+Hi,<br>You can buy the most wanted medications from our site.<br>we sell ViCODiN(179 $),VALiUM(169 $) and ViAGRA(199 $) at a very reasonable 
+price.<br>
+we ship worldwide and no prescription is needed.<br><A HREF="http://www.grx-meds.com/scripts/default.asp?idaff=110">Cheapest Online 
+Pharmacy</A>
+
+------_001_8951_91K33CV7.70ZM7175--

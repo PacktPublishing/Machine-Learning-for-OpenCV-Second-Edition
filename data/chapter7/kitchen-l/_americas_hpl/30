@@ -1,0 +1,38 @@
+Message-ID: <27145671.1075840851202.JavaMail.evans@thyme>
+Date: Fri, 9 Mar 2001 16:19:00 -0800 (PST)
+From: tommy.yanowski@enron.com
+To: brian.redmond@enron.com
+Subject: Possible Temporary Move of HPL to Three Allen
+Cc: louise.kitchen@enron.com, philippe.bibi@enron.com, keith.dziadek@enron.com, 
+	jim.coffey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: louise.kitchen@enron.com, philippe.bibi@enron.com, keith.dziadek@enron.com, 
+	jim.coffey@enron.com
+X-From: Tommy Yanowski <Tommy Yanowski/ENRON@enronXgate@ENRON>
+X-To: Brian Redmond <Brian Redmond/HOU/ECT@ECT>
+X-cc: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Keith Dziadek <Keith Dziadek/ENRON@enronXgate>, Jim Coffey <Jim Coffey/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+According to facilities the 4th floor of Three Allen will be available starting April 1st.  I just finished a walk through of the space and have the following comments about possibly moving HPL on to the floor:
+
+It is a mezzanine type floor which has overhangs which are open to the elevator lobby down below.  We'd need to stick trading and logistics into some of the large offices or joining conference rooms to keep them away from the lobby noise.
+
+There are currently only 70 ports or network connections on the floor.  We'd need to pull additional cable to handle the approximately 150 people that would need to be on the floor.  If we decide so to use the floor we could get this done within a couple of weeks at most. 
+
+The floor is set up with mostly offices and very few cubes.  We'd need to put together several people in each office to fit everyone into the space.  If we put more than one person in the office the fire code we require us to put a strobe in each office set up this way.
+
+There is no telecom or wiring closet on the floor.  That means to make this work as is HPL would have to remain on our network and depend on us for telecom service via our Nortel switch during the stay in Three Allen since there would be nowhere for AEP to put servers or switches on the floor without any major build out.  There is no set up for the IPC Trader phones and currently no room to add an IPC rack on the 5th floor telecom closet.  We would have to either knock out a wall on the 5th floor closet or tell the traders to live without recorded phone conversations.
+
+The good news is that Keith Dziadek and his team have figured out a way to make the EOL connection with AEP work that will have minimal impact to EOL.  We could use this link for HPL to access their Trade Blotter, Risk Systems and People Soft from AEP.
+
+Bottom Line:  
+The space on 4 is not ideal but it is available.  I will be receiving a floor plan today and will kindly forward a copy on to someone within your group to work with Bill Donovans group to see if there is anyway to get 150 people on the floor.  There will be some costs to set things up like additional cabling and installing some additional desks or workstations.  If we decide that trader phones are necessary then we would have to expand the 5th floor wiring closet.  If we decide to do this we may need to purchase an IPC switch, system and phones.  It cost me $60,000 when I purchased an IPC system for Bridgeline.  I will also check to see if we have a switch anywhere that we could borrow for a few months. 
+
+We need to decide very quickly if this is what we want to do if we are shooting for having people over in Three Allen for the April Bid Week for May production.  We also need to talk about this additional cost with AEP and having them pick some or all of it up.  We also need to have AEP on board because they are building their side of the interfaces with our systems.  If the interfaces are not ready in time then the traders would need to enter trades into both Sitara and AEP's Risk System.  The bigger issue would be the interface with AEP's PeopleSoft system since they would be generating payments via this application.  The good news is that May production for physical trades will not settle until June giving them extra time to finish the interface.  Our side of the interfaces are pretty simple and I feel confident we will be ready to test in April.  
+
+Let me know if you need any additional information.  -  Tommy
+

@@ -1,0 +1,72 @@
+Return-Path: <jimbob@unlimitedmail.org>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23183 invoked by uid 115); 2 Oct 2004 15:27:42 -0000
+Received: from jimbob@unlimitedmail.org by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(64.164.0.210):. 
+ Processed in 0.093444 secs); 02 Oct 2004 15:27:42 -0000
+Received: from adsl-64-164-0-210.dsl.snfc21.pacbell.net (HELO Athlon-2100.me) (64.164.0.210)
+  by churchill.factcomp.com with SMTP; 2 Oct 2004 15:27:42 -0000
+From: "Dish Network Affilliate" <jimbob@unlimitedmail.org>
+Subject: Hello!  Have you ever thought about running your own web-based
+ business?
+To: bruceg@em.ca
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="-=_AUULSXHZHVNZQ.02A30232047ADJA.03020405"
+Reply-To: jimbob@unlimitedmail.org
+Organization: Vistronics
+Date: Sat, 2 Oct 2004 08:27:46 -0700
+Received: from Internet Mail Service ([5.5.0.1])
+	by host with ESMTP id i2O0tZo27169
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Message-ID: <0734701c385f1$b9b9f510$010a8c0@ESMTP>
+
+This is a multi-part message in MIME format
+
+---=_AUULSXHZHVNZQ.02A30232047ADJA.03020405
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+How are you?
+
+The following link will take you to a site that has an interesting offer on a web-based self employnet opportunity.
+
+http://JamesAschoff.94percent.com
+
+There is no committment involved up front in order to simply learn about this program called  "94 Percent".
+
+Feel free to stop by and take a tour, who knows, you may find a method to some alternate income or even financial freedom.  BTW you will soon see why it is called 94 Percent.
+
+Thank you!
+
+---=_AUULSXHZHVNZQ.02A30232047ADJA.03020405
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+
+<HTML><HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV>How are you?</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>The following link will take you to a site that has&nbsp;an interesting 
+offer on a web-based self employnet opportunity.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV><A class=MembershipInfo href="http://JamesAschoff.94percent.com" 
+target=_blank>http://JamesAschoff.94percent.com</A></DIV></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>There is no committment involved up front in order to simply learn about 
+this program called&nbsp; "<U>94 Percent"</U>.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Feel free to stop by and take a tour, who knows, you may find a method to 
+some alternate income or even financial freedom.&nbsp; BTW you will soon see why 
+it is called <U>94 Percent</U>.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Thank you!</DIV>
+</BODY></HTML>
+
+---=_AUULSXHZHVNZQ.02A30232047ADJA.03020405--

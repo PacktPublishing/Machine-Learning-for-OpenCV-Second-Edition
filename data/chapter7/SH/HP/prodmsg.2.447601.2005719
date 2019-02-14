@@ -1,0 +1,62 @@
+Received: from ns.melitacable.com (HELO Krypton1.melitacable.com) (212.56.128.132)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:45 -0000
+Received: from viruswall (silver2.melitacable.com [212.56.128.136])
+	by Krypton1.melitacable.com (8.12.11/8.12.11) with SMTP id j6JB3wRR000421
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 13:03:58 +0200 (CEST)
+Message-Id: <200507191103.j6JB3wRR000421@Krypton1.melitacable.com>
+Date: Tue, 19 Jul 2005 13:00:49 +0200
+From: mailer-daemon@onvol.net
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="----=_NextPartTM-000-e5dccf1a-6efd-4446-bd13-a1f9b383e0fc"
+Subject: Mail delivery failure
+
+
+------=_NextPartTM-000-e5dccf1a-6efd-4446-bd13-a1f9b383e0fc
+Content-type: text/plain
+
+****** Message from InterScan E-Mail VirusWall NT ******
+
+Sent >>> RCPT TO: <antonioc@onvol.net>
+Received <<< 553 5.3.0 <antonioc@onvol.net>... No such user here.
+
+Could not deliver mail to this user.
+antonioc@onvol.net
+*****************     End of message     ***************
+
+------=_NextPartTM-000-e5dccf1a-6efd-4446-bd13-a1f9b383e0fc
+Content-type: message/rfc822
+
+Received: from 212.56.128.205 by viruswall (InterScan E-Mail VirusWall NT); Tue, 19 Jul 2005 13:00:40 +0200
+Received: from mailwisconsin.com ([220.79.207.210])
+	by mx01.melitacable.com (8.12.11/8.12.11) with SMTP id j6JAwNkF018405
+	for <antonioc@onvol.net>; Tue, 19 Jul 2005 12:58:32 +0200 (CEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030517200;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonioc@onvol.net
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86970566">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+------=_NextPartTM-000-e5dccf1a-6efd-4446-bd13-a1f9b383e0fc--

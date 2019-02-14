@@ -1,0 +1,62 @@
+Received: from antonio.urjc.es (193.147.184.24)
+  by projecthoneypotmailserver with SMTP; 12 Jul 2005 10:09:35 -0000
+Received: from antonio.urjc.es (antonio.urjc.es [127.0.0.1])
+	by antonio.urjc.es (8.13.4/8.13.4/Debian-1) with ESMTP id j6CA9Xuq006879
+	for <projecthoneypot@projecthoneypot.org>; Tue, 12 Jul 2005 12:09:33 +0200
+Received: from antonio.urjc.es (localhost [127.0.0.1])
+	by antonio.urjc.es (8.13.4/8.13.4/Debian-1) with ESMTP id j6CA9XeU020005
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <projecthoneypot@projecthoneypot.org>; Tue, 12 Jul 2005 12:09:33 +0200
+Received: from localhost (root@localhost)
+	by antonio.urjc.es (8.13.4/8.13.4/Submit) with SMTP id j6CA9Xjk032559
+	for <projecthoneypot@projecthoneypot.org>; Tue, 12 Jul 2005 12:09:33 +0200
+From: mailer-daemon@antonio.urjc.es
+Message-Id: <200507121009.j6CA9Xjk032559@antonio.urjc.es>
+To: <projecthoneypot@projecthoneypot.org>
+Subject: Spam mail warning notification! (Attachment Removal)
+Date: Tue, 12 Jul 2005 12:09:25 +0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_1121162965_B78506032.R82506026"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_1121162965_B78506032.R82506026
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+**************** eManager Notification *****************
+
+The following mail was blocked since it contains sensitive content.
+
+Source mailbox: <projecthoneypot@projecthoneypot.org>
+Destination mailbox(es): cva@urjc.es
+Policy: Attachment Removal
+Attachment file name: your_document.pif - application/octet-stream
+Action: Replaced with text
+
+Por motivos de seguridad, los ficheros con extensión com, exe,bat, pif, scr y cpl han sido eliminados del correo.
+
+******************* End of message *********************
+
+------=_NextPart_000_1121162965_B78506032.R82506026
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Received: from urjc.es (178.Red-83-50-247.pooles.rima-tde.net [83.50.247.178])
+	by antonio.urjc.es (8.13.4/8.13.4/Debian-1) with ESMTP id j6CA9FRl000872
+	for <cva@urjc.es>; Tue, 12 Jul 2005 12:09:16 +0200
+Message-Id: <200507121009.j6CA9FRl000872@antonio.urjc.es>
+From: projecthoneypot@projecthoneypot.org
+To: cva@urjc.es
+Subject: Re: Re: Document
+Date: Tue, 12 Jul 2005 12:16:22 +0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_00001FDF.00002D7C"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+------=_NextPart_000_1121162965_B78506032.R82506026--

@@ -1,0 +1,30 @@
+Message-ID: <21614052.1075863309778.JavaMail.evans@thyme>
+Date: Wed, 18 Jul 2001 16:55:54 -0700 (PDT)
+From: virginia.thompson@enron.com
+To: heather.dunton@enron.com
+Subject: Annuity Deal changed
+Cc: bill.williams@enron.com, kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com, kate.symes@enron.com
+X-From: Thompson, Virginia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VTHOMPSO>
+X-To: Dunton, Heather </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hdunton>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksymes>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Heather,
+
+  According to our conversation on how to account for the 7 MW's missing on 6-4-01 from deal # 615780.1, I have done the following:
+
+  I found deal # 664324.1 that was entered by Bill Williams to account for these extra 7 MW's.  However, this deal was entered as a purchase annuity from LT_NW to MPC.  I didn't find any other deals for Real Time to pay back LT_NW.
+
+  SO I extended LT_NW deal # 615780.1 in EnPower Scheduling so that MPC could be kept whole, then I took Bill's annuity deal # 664324.1, changed it to a purchase annuity from the ST_WHOURLY book to the LT_NW and changed the price from $7150.92 to $7014.92 to compensate ST_NW for the energy not sold by Real Time. 
+
+  I hope this info will help you in calculating the DPR of these 2 deals, especially with a counterparty change.
+
+  Please see me with any questions.
+
+  Virginia

@@ -1,0 +1,163 @@
+Return-Path: <ux188556@virtdom.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5444 invoked by uid 115); 16 Dec 2004 21:31:20 -0000
+Received: from ux188556@virtdom.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(12.26.83.51):. 
+ Processed in 0.198398 secs); 16 Dec 2004 21:31:20 -0000
+Received: from s1morpheus.virtdom.com (12.26.83.51)
+  by churchill.factcomp.com with SMTP; 16 Dec 2004 21:31:19 -0000
+Received: from s1morpheus.virtdom.com (localhost.virtdom.com [127.0.0.1])
+	by s1morpheus.virtdom.com (8.12.10/8.12.10) with ESMTP id iBGLlB80010926
+	for <bruceg@em.ca>; Thu, 16 Dec 2004 16:47:11 -0500 (EST)
+	(envelope-from ux188556@s1morpheus.virtdom.com)
+Received: (from ux188556@localhost)
+	by s1morpheus.virtdom.com (8.12.10/8.12.10/Submit) id iBGLlB41010924;
+	Thu, 16 Dec 2004 16:47:11 -0500 (EST)
+	(envelope-from ux188556)
+Date: Thu, 16 Dec 2004 16:47:11 -0500 (EST)
+Message-Id: <200412162147.iBGLlB41010924@s1morpheus.virtdom.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+To: bruceg@em.ca
+From: Oil&Gas-update@stockbrokerprofile.com
+Reply-to: Oil&Gas-update@stockbrokerprofile.com
+X-Mailer: Perl Powered Socket Mailer
+Subject: Mid Day Volume Surge
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table border="0" width=720 cellspacing="0" cellpadding="4">
+  <tr> 
+    <td colspan="2"> 
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><img src="http://www.stockbrokerprofile.com/stock/outgoing/globalheader.gif" width="720" height="186"></font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="50%"> 
+      <table width="343" border="1" cellspacing="0" cellpadding="4">
+        <tr>
+          <td>
+            <table border="1" cellspacing="0" cellpadding="4" width="327">
+              <tr> 
+                <td width="89%"> <font face="Verdana, Arial, Helvetica, sans-serif" size="+1">Patch 
+                  International, Inc.<br>
+                  (OTCBB: PAII)<br>
+                  Recent price: 8 ¢<br>
+                  Target price: $1.00<br>
+                  Rating: Strong Buy<br>
+                  Website: <a href="http://www.patchenergy.com">www.patchenergy.com</a></font> 
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%"><font face="Arial, Helvetica, sans-serif" size="-1"> INVESTMENT 
+      STRATEGY<br>
+      To create greater shareholder value, Patch intends to follow a strategy 
+      of global energy investment alone or in joint partnership. At the same time, 
+      it continues to review investments outside the energy sector where there 
+      is the opportunity for substantial return on investment.<br>
+      PAII offers investors participation in the burgeoning global oil and gas 
+      industry with a ground-floor investment opportunity in a pharmaceutical 
+      company. Based on Patch's aggressive initiatives for growth, there is continued 
+      optimism the share price will begin moving upwards to a target price of 
+      $1.00 in the near future.</font></td>
+  </tr>
+  <tr> 
+        
+    <td width="52%" height="343"><font face="Arial, Helvetica, sans-serif" size="-1"><b>OVERVIEW</b><br>
+      Soaring global energy demand has put Patch International in the right place 
+      at the right time to capitalize on global energy projects where there is 
+      a substantial return on investment. Its latest project, in partnership with 
+      First Petroleum Inc., a private corporation, is in energy rich North Africa.<br>
+      <br>
+      Patch and First Petroieum executives recently returned from North Africa 
+      and Europe where they held discussions with top officials from Algeria and 
+      Libya. Subsequently, they received a partnership letter from the Algerian 
+      Ministry of Energy and Mines.<br>
+      <br>
+      First Petroleum's, Dr. Danilo Mancin, an international business and government 
+      specialist, who has extensive experience in dealing with senior government 
+      and industry executives in North Africa, was accompanied by David Stadnyk, 
+      president of Patch.<br>
+      <br>
+      Algeria has extensive hydrocarbon wealth and is relatively unexplored. Currently, 
+      its oil reserves are estimated at 15.4 billion bbl and its gas reserves 
+      are 146.5 TCF.<br>
+      <br>
+      Besides Algeria, projects have been identified in neighboring Libya, which 
+      has some 36-billion bbl of oil reserves and 47.4 TCF of natural gas reserves.</font></td>
+        
+    <td rowspan="2" width="48%"> 
+      <table border="1" cellspacing="0" cellpadding="4" width="100%" height="429">
+        <tr> 
+          <td><font face="Arial, Helvetica, sans-serif" size="-1"><b>WHY YOU SHOULD 
+            OWN PATCH INTERNATIONAL INC.<br>
+            <br>
+            • PATCH is uniquely and strategically positioned to participate 
+            in underdeveloped massive oil and gas energy projects in Algeria and 
+            Libya as well as in Europe.<br>
+            <br>
+            • PATCH is participating in 20 producing oil and gas wells in 
+            North America.<br>
+            <br>
+            • In partnership with noted investment house Rothschild's and 
+            other top investor groups, PATCH'S investment value in pharmaceutical 
+            company Pharmaxis currently stands at close to $10 million, and with 
+            recent developments expects this investment to grow substantially 
+            over the next 12 to 24 months.<br>
+            <br>
+            • PATCH is in the right industry at the right time. Oil and gas 
+            are at historically high prices and the fact remains that oil and 
+            gas will continue to be the dominant forms of energy for years to 
+            come at increased prices.<br>
+            <br>
+            • PATCH has an established experienced senior management team. 
+            CEO & President, David Stadnyk, has a significant background in 
+            the energy and investment sectors spanning some 20 years.</b></font></td>
+        </tr>
+      </table>
+      <p><font face="Arial, Helvetica, sans-serif" size="-1"><br>
+        The time to invest is now! As PATCH moves forward with its business plan 
+        and signs major new contracts, the stock will move quickly This could 
+        be your last chance to invest before major price appreciation. Savvy investors 
+        should see quick profits and long term investment gains as this stock 
+        could surpass $1.00 very shortly.<br>
+        <br>
+        </font></p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+        
+    <td width="50%" height="207"> 
+      <table border="1" cellspacing="0" cellpadding="10" width="359">
+        <tr> 
+          <td height="115"><font face="Arial, Helvetica, sans-serif" size="-1"><b>With 
+            oil continuing on its upward price trend, Algeria and Libya now represent 
+            the hot spots in the energy world for U.S., Canadian and other foreign 
+            companies to become major players in these lucrative oil and gas markets. 
+            </b></font></td>
+        </tr>
+      </table>
+      <font face="Arial, Helvetica, sans-serif" size="-1">Meantime, Patch International 
+      continues to be active in oil and gas projects in Texas, California and 
+      Saskatchewan, Canada, while it continues with negotiations in Algeria and 
+      Lybia as well as assessing energy projects in Ukraine.<br>
+      </font></td>
+  </tr>
+  <tr> 
+    <td colspan="2"> 
+      <div align="center"><b><font face="Arial, Helvetica, sans-serif" size="-1">IF 
+        YOU RECEIVED THIS EMAIL IN ERROR AND WOULD LIKE TO BE REMOVED, PLEASE 
+        <a href="mailto:remove@stockbrokerprofile.com">CLICK HERE</a> </font></b></div>
+      <hr>
+      </td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+</body>

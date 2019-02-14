@@ -1,0 +1,36 @@
+Message-ID: <11028315.1075856609424.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 08:58:00 -0700 (PDT)
+From: steven.leppard@enron.com
+To: vince.kaminski@enron.com, zimin.lu@enron.com, stinson.gibner@enron.com
+Subject: Exotica (yet again)
+Cc: sharad.agnihotri@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sharad.agnihotri@enron.com
+X-From: Steven Leppard
+X-To: Vince J Kaminski, Zimin Lu, Stinson Gibner
+X-cc: Sharad Agnihotri
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi guys
+
+I need some advice.
+
+Sharad is in the process of finding differences between your and our versions 
+of Exotica.  At some point we will need to migrate London office over to your 
+more up-to-date version, and I'm concerned that there may be RAC-style 
+implications.  I'm in favour of using the IT testers to carry out formal 
+regression testing, and they are apparently able to do this.
+
+Do we need to get our heads together to "form a view" before we involve RAC 
+or the business groups?
+
+Anjam tells Sharad that London Exotica was built using Excel 95, and that 
+neither he nor Zimin knows how to build/compile the XLA using later versions 
+of Excel.  Is this true?  If so, then we need to migrate to XLLs sooner 
+rather than later because of the maintenance implications.
+
+Steve

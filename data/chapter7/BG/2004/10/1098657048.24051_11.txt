@@ -1,0 +1,61 @@
+Return-Path: <jmfljxxhbr@dcemail.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 22510 invoked from network); 23 Oct 2004 06:31:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 23 Oct 2004 06:31:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 23 Oct 2004 06:31:34 -0000
+Received: (qmail 15014 invoked from network); 23 Oct 2004 06:31:33 -0000
+Received: from WEBSVR (unknown [203.118.34.237])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 23 Oct 2004 06:31:32 -0000
+X-Message-Info: EC/q+758+daw/A+31/55018267616061
+Received: from smtp-barnacle.arctangent.jmfljxxhbr@dcemail.com ([4.8.82.130]) by a20-euq8.jmfljxxhbr@dcemail.com with Microsoft SMTPSVC(5.0.3918.7104);
+	 Sat, 23 Oct 2004 11:32:09 +0400
+Received: from smtp-aft.bismarck.jmfljxxhbr@dcemail.com ([4.8.82.130]) by qt30-a78.jmfljxxhbr@dcemail.com with Microsoft SMTPSVC(5.0.8382.8713);
+	 Sat, 23 Oct 2004 03:32:09 -0400
+X-Message-Info: NMWM+%ND_LC_CHAR[1-3]282+km+TSJ+460/85664809897644
+Received: (qmail 04823 invoked by uid 2); Sat, 23 Oct 2004 03:34:09 -0400
+Date: Sat, 23 Oct 2004 03:32:09 -0400
+Message-Id: <9274601632469.01597@jmfljxxhbr@dcemail.com>
+From: Rhonda Briggs <jmfljxxhbr@dcemail.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: College
+MIME-Version: 1.0 (produced by espionageobey 5.8)
+Content-Type: multipart/alternative;
+	boundary="--4331335705944094183"
+Content-Length: 684
+Lines: 31
+
+----4331335705944094183
+Content-Type: text/plain;
+	charset="iso-0924-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: aerospace raffish claudio
+
+
+O N L I N E   U N I V E R S I T Y   D I P L O M A S
+
+Obtain the diploma you deserve, 
+Based on your life experience
+And present knowledge. 
+
+1-801-849-3104
+
+  Consider a prosperous future, money earning power,
+And the admiration of all.
+ Diplomas from prestigious non-accredited universities.
+
+No tests, coursework, or interviews required. 
+Discrete and affordable.
+Everyone eligible. 
+
+Call now - your diploma awaits you!!!
+
+1-801-849-3104
+Calls returned promptly.
+Confidentiality assured.
+
+
+----4331335705944094183--

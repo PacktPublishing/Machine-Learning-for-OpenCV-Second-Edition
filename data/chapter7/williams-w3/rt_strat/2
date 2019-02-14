@@ -1,0 +1,34 @@
+Message-ID: <19157736.1075839947186.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 05:40:58 -0700 (PDT)
+From: geir.solberg@enron.com
+To: shift.portland@enron.com
+Subject: EXPORT AT CASCADE.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Solberg, Geir </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GSOLBER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Hey Guys. 
+
+We have a new way to export from NP15 up to the Northwest. Cascade is a tie between CISO and PAC SYSTEM on the California Oregon border. There is currently 30MW Non-Firm Hourly transmission available on the tie.
+
+The capacity constraint is on the PacifiCorp side of the tie,  and you can find the real number available on the PAC oasis site. Check under TRANSMISSION REQUESTS/ Offerings. The path name you need to check is W/PPW/CRAG-PACW//. Make sure you pick Hourly non-firm. 
+
+On the CISO side the tie point is called CASCAD_1_CRAGVW by the CISO. 
+
+
+Procedure:
+Export at Cascade from the CISO. 
+Buy PAC Transmission from CRAG to BPAT or whoever is picking it up from Pac System. 
+
+Transmission costthrough PAC is only $5.84.
+
+I know the NP15/MIDC spread is not as large as we have seen it in the past. It does on the other hand give us another option.
+
+Geir
+

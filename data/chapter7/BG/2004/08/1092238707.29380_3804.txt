@@ -1,0 +1,651 @@
+Return-Path: <stockradar@e-mrktng.com>
+Received: (fqmail 10709 invoked from network); 11 Aug 2004 15:38:16 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 11 Aug 2004 15:38:16 -0000
+Received: (qmail 25254 invoked from network); 11 Aug 2004 15:38:16 -0000
+Received: from papa ([69.6.66.17])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 11 Aug 2004 15:38:16 -0000
+From: "Stock Radar 2" <stockradar@e-mrktng.com>
+Subject: AQGI, Back to Back News Releases, News Out After the Bell...
+ Tomorrow\'s Watch
+To: bugs@ezmlm.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: stockradar@e-mrktng.com
+Date: Wed, 11 Aug 2004 10:38:15 -0500
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+
+
+
+<link rel=File-List href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E460E400E4345444742400E08.aspx'>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="time"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PersonName" downloadurl="http://www.microsoft.com"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="date"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place" downloadurl="http://www.5iantlavalamp.com/"/>
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:DoNotRelyOnCSS/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DocumentKind>DocumentEmail</w:DocumentKind>
+  <w:EnvelopeVis/>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]>
+<style>
+st1\:*&#123;behavior:url(#default#ieooui) &#125;
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	&#123;font-family:"Arial Unicode MS";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;&#125;
+@font-face
+	&#123;font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;&#125;
+@font-face
+	&#123;font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;&#125;
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	&#123;mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";&#125;
+a:link, span.MsoHyperlink
+	&#123;color:blue;
+	text-decoration:underline;
+	text-underline:single;&#125;
+a:visited, span.MsoHyperlinkFollowed
+	&#123;color:blue;
+	text-decoration:underline;
+	text-underline:single;&#125;
+span.t
+	&#123;mso-style-name:t;&#125;
+span.tt
+	&#123;mso-style-name:tt;&#125;
+span.t2
+	&#123;mso-style-name:t2;&#125;
+span.EmailStyle21
+	&#123;mso-style-type:personal-reply;
+	mso-style-noshow:yes;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:navy;&#125;
+span.GramE
+	&#123;mso-style-name:"";
+	mso-gram-e:yes;&#125;
+@page Section1
+	&#123;size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;&#125;
+div.Section1
+	&#123;page:Section1;&#125;
+style1 &#123;
+	font-family: Arial;
+	font-size: 10.0pt;
+&#125;
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */ 
+ table.MsoNormalTable
+	&#123;mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";&#125;
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p ><font size=2 color=navy face=Arial><span style='font-size:
+10.0pt;font-family:Arial;color:navy'><o:p></o:p></span></font><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p  align=center style='text-align:center'><strong><b><font
+size=3 face="Times New Roman"><span style='font-size:12.0pt'><font color="#000000">Congratulations to
+all those that watched VPER!</font></span></font></b></strong><font color="#000000"><o:p></o:p><br>
+</font><font color="#000000"><strong><b><font
+size=3 face="Times New Roman"><span style='font-size:12.0pt'>**New Profile 1st
+Day**</span></font></b></strong><o:p></o:p><br>
+</font><font color="#000000"><st1:date Month="8"
+Day="11" Year="2004"><strong><b><font size=3 face="Times New Roman"><span
+ style='font-size:12.0pt'>August 11, 2004</span></font></b></strong></st1:date><strong><b><font
+face="Times New Roman"> &lt;-- Strong Alert</font></b></strong></font><o:p></o:p></p>
+
+<p  align=center style='text-align:center'><font size=3
+face="Times New Roman"><span style='font-size:12.0pt'>&nbsp;<o:p></o:p></span></font><font size=3
+face="Times New Roman"><span style='font-size:12.0pt'>&nbsp;<strong><b><font
+color=red face="Times New Roman"><span style='color:red'>BACK TO BACK MAJOR
+NEWS RELEASES FOR AQGi</span></font></b></strong><o:p></o:p><br>
+</span></font><strong><b><font
+size=3 color=red face="Times New Roman"><span style='font-size:12.0pt;
+color:red'>News out after the bell..</span></font></b></strong><o:p></o:p><br>
+<span class=t><b><font
+size=2 color=black face="Times New Roman"><span style='font-size:10.0pt;
+color:black;font-weight:bold'>Aquagen International Announces First Sales
+Through Broker Network to United Natural Foods, Inc.</span></font></b></span><b><font
+size=2 color=black><span style='font-size:10.0pt;color:black;font-weight:bold'><br>
+<span class=tt>Tuesday August 10, </span></span></font></b><st1:time Hour="16"
+Minute="51"><span class=tt><b><font size=2 color=black><span style='font-size:
+ 10.0pt;color:black;font-weight:bold'>4:51 pm ET</span></font></b></span></st1:time><font
+color=black><span style='color:black'> </span></font><strong><b><font size=1
+color=red face="Times New Roman"><span style='font-size:7.5pt;color:red'>&lt;AFTER
+THE </span></font></b></strong><st1:City><st1:place><strong><b><font size=1
+  color=red face="Times New Roman"><span style='font-size:7.5pt;color:red'>BELL</span></font></b></strong></st1:place></st1:City><o:p></o:p><br>
+<font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>SALT LAKE CITY, UT--(MARKET WIRE)--Aug 10, 2004 -- Aquagen
+International, Inc. (Other OTC:<a href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E460E400E4345444740470E08.aspx'>AQGI.PK</a>
+- <a href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E460E400E43454447464A0E08.aspx'>News</a>), a manufacturer
+and distributor of premier oxygen supplement products, announced today the
+first sales through its newly established broker network to United Natural
+Foods, the largest wholesale distributor to the natural and organic industry in
+the United States.<o:p></o:p></span></font><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><strong><b><font size=3 face="Times New Roman"><span
+style='font-size:12.0pt'>United Natural Foods, Inc. (UNFI)</span></font></b></strong>
+carries more than 35,000 SKUs, supplies to over 18,000 customers nationwide and
+serves a wide variety of retail formats, including super natural chains,
+independent natural products retailers, conventional supermarkets and food
+service. <o:p></o:p></p>
+
+<p  align=center style='text-align:center'><font size=3
+face="Times New Roman"><span style='font-size:12.0pt'>&nbsp;<o:p></o:p></span></font><strong><b><font
+size=3 face="Times New Roman"><span style='font-size:12.0pt'>We have placed
+some products through </span></font></b></strong><st1:place><st1:PlaceName><strong><b><font
+  face="Times New Roman">UNFI</font></b></strong></st1:PlaceName><strong><b><font
+ face="Times New Roman"> </font></b></strong><st1:PlaceType><strong><b><font
+  face="Times New Roman">Mountain</font></b></strong></st1:PlaceType></st1:place><strong><b><font
+face="Times New Roman"> Peoples in the past, but this order marks a 500%
+increase from our last sale.</font></b></strong><o:p></o:p><br>
+<strong><b><font
+size=1 color=red face="Times New Roman"><span style='font-size:7.5pt;
+color:red'>(Partial Clip from actual news release.&nbsp; Go to Yahoo and read
+the news now)</span></font></b></strong><o:p></o:p></p>
+
+<p  align=center style='text-align:center'><font size=3
+face="Times New Roman"><span style='font-size:12.0pt'>&nbsp;<o:p></o:p></span></font><span class=t><b><font
+size=3 face="Times New Roman"><span style='font-size:12.0pt;font-weight:bold'><font color="#000000">Electric
+Aquagenics Unlimited, Inc. (EAQU) Signs Joint Venture Agreement With Aquagen
+International, Inc. (Aquagen)</font></span></font></b></span><font color="#000000"><b><span
+style='font-weight:bold'><br>
+</span></b><span class=t2>Companies Plan to Introduce Commercial Drinking Water
+Product </span><o:p></o:p><br>
+</font><font color="#000000"><strong><b><font
+size=3 face="Times New Roman"><span style='font-size:12.0pt'>(Go to yahho or
+any financial site and read this now)</span></font></b></strong></font><o:p></o:p><font size=3
+face="Times New Roman"><span style='font-size:12.0pt'>&nbsp;<o:p></o:p></span></font></p>
+
+<p  align=center style='text-align:center; margin-bottom: 12.0pt;'><font size=2
+face=Arial><span style='font-size:10.0pt;font-family:Arial'>&nbsp;</span></font><strong><b><i><font
+size=4 color=green face=Arial><span style='font-size:13.5pt;font-family:Arial;
+color:green;font-style:italic'>Stock Radar Presents,</span></font></i></b></strong><o:p></o:p><br>
+  <strong><b><font
+size=3 face=Arial><span style='font-size:12.0pt;font-family:Arial;mso-fareast-font-family:
+"Arial Unicode MS"'><font color="#000000">Aquagen International, Inc.</font></span></font></b></strong><font color="#000000"> <o:p></o:p><br>
+  </font><font color="#000000"><strong><b><font
+size=3 face=Arial><span style='font-size:12.0pt;font-family:Arial;mso-fareast-font-family:
+"Arial Unicode MS"'>(OTCBB: AQGi)</span></font></b></strong><o:p></o:p></font></p>
+
+<p ><font color="#000000"><strong><b><font size=3 face="Times New Roman"><span
+style='font-size:12.0pt'>COMPANY OVERVIEW:</span></font></b></strong><o:p></o:p><br>
+</font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>Aquagen International, Inc. (OTCBB: AQGi) is located at the base of the
+</span></font><font color="#000000"><st1:place><st1:PlaceName><st1:PlaceName>Wasatch</st1:PlaceName></st1:PlaceName>
+ <st1:PlaceType><st1:PlaceType>Mountains</st1:PlaceType></st1:PlaceType>
+in <st1:place><st1:City><st1:City>Salt Lake City</st1:City></st1:City>,
+ <st1:State><st1:State>Utah</st1:State></st1:State>. <strong><b><font
+face="Times New Roman">The company was incorporated in November 1993 after two
+years of product research and development</font></b></strong>.<o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>Aquagen manufactures and markets products that include liquid
+stabilized oxygen supplements. It markets its products domestically and
+internationally. Its products include Aquagen, a safe, reliable and convenient
+source of additional oxygen. Aquagen is an oxygen supplement that is pH
+balanced and recognized by the FDA as a dietary supplement. Oxytime+ is
+Aquagen's unique sports energy drink. It includes the powerful combination of
+the amino acid L-Carnitine and stabilized oxygen. Oxytime+ provides a
+competitive edge for the serious athlete. Oxyzone is a complete body
+conditioner. It is a combination of oxygen, magnesium peroxide and vitamin C,
+working together to help cleanse and energize the body's cells and rid the body
+of toxins and nourish it with important nutrients. <o:p></o:p></span></font><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p  align=center style='text-align:center'><strong><b><font
+size=3 color=red face="Times New Roman"><span style='font-size:12.0pt;
+color:red'>*** Endurance, Performance, Healthy Living ***<o:p></o:p></span></font></b></strong></p>
+
+<p ><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>&nbsp;<o:p></o:p></span></font><strong><b><font size=3 face="Times New Roman"><span
+style='font-size:12.0pt'><font color="#000000">WHY AQGI SHOULD BE ON YOUR RADAR:<o:p></o:p></font></span></font></b></strong><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>1. AQGI has had a 60% increase in sales of its Oxyzone product
+to&nbsp;its distributor, Holistic Sverige AB, a natural product distribution
+company located in Sweden. (Growing international sales and presence!)<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>2. AQGI has enhanced its market reach with their recent brokerage
+agreement with Gemini/TCL Associates, Inc., a leading natural and specialty
+broker for the southwest and </span></font><font color="#000000"><st1:State><st1:place><st1:State><st1:place>California</st1:place></st1:State></st1:place></st1:State>
+regions. (Getting the products into wider distribution channels!)<o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>3. AQGI continues to expand its reach,&nbsp;it recently signed a
+brokerage agreement with GPW Marketing Group to increase its market to the
+eastern seaboard from </span></font><font color="#000000"><st1:State><st1:place><st1:State><st1:place>Florida</st1:place></st1:State></st1:place></st1:State>
+to <st1:State><st1:place><st1:State><st1:place>Maryland</st1:place></st1:State></st1:place></st1:State>.
+(New territories, new sales!)<o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>4.<span style='mso-spacerun:yes'>&nbsp; </span>AQGI has also signed a
+brokerage agreement with Hawk Mountain Natural Brokers that covers the
+influential states of </span></font><font color="#000000"><st1:State><st1:place><st1:State><st1:place>Pennsylvania</st1:place></st1:State></st1:place></st1:State>
+and <st1:State><st1:place><st1:State><st1:place>New York</st1:place></st1:State></st1:place></st1:State>.
+(More and more national coverage!)<o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>5. AQGI, in June, released results from a </span></font><font color="#000000"><st1:place><st1:PlaceType><st1:place><st1:PlaceType>University</st1:PlaceType></st1:PlaceType>
+ of <st1:PlaceName><st1:PlaceName>Cairo</st1:PlaceName></st1:PlaceName> study indicating&nbsp;that&nbsp;its Stabilized
+Oxygen,&nbsp;Aquagen&nbsp;product may be helpful to patients who suffer from
+chronic hypoxemia, or insufficient oxygenation of the blood. (Exciting news
+from third party research!)<o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>6. AQGI recently announced that year-end<strong><b> 2004 revenues increased 27%</b></strong> over
+2003 revenues. <o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>7. AQGI is supplying Aquagen as a basic ingredient in Oxzit&#8217;s acne
+medication. The company&nbsp;received an order recently for <strong><b>10,000 units a 1,000% increase in Oxzit&#8217;s previous order</b></strong>.
+<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>8.<span style='mso-spacerun:yes'>&nbsp; </span>AQGI has completed a brand
+development study with Hall Communications a leading brand development and full
+service advertising and public relations agency.<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>9. AQGI's proprietary Oxygen Supplement Products are: All Natural, pH
+Balanced, Nontoxic, Convenient and Easy to Use.&nbsp;<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>10. AQGI's liquid oxygen supplements are safe, reliable and a
+convenient source for the extra oxygen your body needs. <o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>11.&nbsp;AQGI has had the F.D.A. review AQUAGEN&reg; and it determined that
+the company's products meet all established guidelines to qualify them as
+dietary supplements.<o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>12. AQGI&nbsp;Products are unique formulations - they do not use
+any&nbsp;harsh chemicals or substances to create stabilized oxygen in its most
+soluble form. The actual manufacturing process is proprietary and confidential. <o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>13. AQGI&#8217;s product, AQUAGEN, has an oxygen level substantially above
+normal tap water. <o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'>14.&nbsp;AQGI signed an agreement with Creative Innovations, Inc., a
+San Diego-based marketing company, and appointed it as its national sales
+manager. Creative Innovations, President, Denise Whitney, has over 30 years
+experience in marketing and selling products in the natural foods and
+nutraceutical markets.<o:p></o:p></span></font><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p  align=center style='text-align:center'><strong><b><font
+size=3 color=red face="Times New Roman"><span style='font-size:12.0pt;
+color:red'>*** Oxygen, Vital for Life ***<o:p></o:p></span></font></b></strong></p>
+
+<p ><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font><strong><b><font size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial'><font color="#000000">SOME THINGS TO CONSIDER:<o:p></o:p></font><o:p></o:p></span></font></b></strong><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000"><strong><b><font size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial'>Oxygen is critical for life:</span></font></b></strong></font><o:p></o:p></p>
+
+<p  align=center style='text-align:center'><strong><b><font
+size=3 color=red face="Times New Roman"><span style='font-size:12.0pt;
+color:red'>27% increase in revenues! </span></font></b></strong><o:p></o:p><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'><font color="#000000">The body's need for oxygen makes it the most important
+supplement available. We simply cannot live without oxygen. <o:p></o:p></font></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>&quot;Oxygen is the source of life to all cells&quot;<o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Dr. Stephan Levine, Ph.D.Molecular Biologist and
+Geneticist <o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Current lifestyles rob oxygen from our bodies:<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Our bodies now receive less oxygen from the foods we eat and
+the water we drink than ever before. Causes include: <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Over-processed and &quot;fast&quot; foods <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Overworked farmlands stripped of their nutrients <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>-Significant increases in daily stress <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Unbalanced diets <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Lack of exercise and proper rest<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>&quot;Rubble, garbage, toxins, refuse debris and anything
+useless are destroyed by oxygen and carried out of the system. Just as a clean
+house holds little interest in passing flies, likewise an oxygen rich body is a
+difficult fortress to assail.<o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Brian Goulet, Certified Herbalist Canadian Journal of Health &amp; Nutrition<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p ><font color="#000000"><strong><b><font size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial'>ABOUT&nbsp;AQGI's PRODUCTS:<o:p></o:p></span></font></b></strong></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Aquagen's proprietary Oxygen Supplement Products can: <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Help a body use vitamins, minerals and other nutrients
+more completely<o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Enhance immune system<o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Act as a powerful bactericide, viricide, and fungicide<o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>- Improve energy, endurance, vitality and alertness <o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Aquagen - Maximum Performance, Aquagen&reg; Revitalize and
+Aquagen&reg; Essential <o:p></o:p><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>are the&nbsp;company's premier stabilized oxygen supplement
+products.<span style='mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Oxytime - A rejuvenated formula of Aquagen's natural
+pre-activity sports energy drink for peak performance.<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Oxyzone - Oxygenated </span></font><font color="#000000"><st1:City><st1:place><font
+  size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>Colon</span></font></st1:place></st1:City><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'> Detox. It
+is also an Immune system builder, energizer and cleanser.<o:p></o:p></span></font></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>The Suntory corporation, a mullti-billion dollar corporation
+in </span></font><font color="#000000"><st1:country-region><st1:place><font size=2 face=Arial><span
+  style='font-size:10.0pt;font-family:Arial'>Japan</span></font></st1:place></st1:country-region><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>, conducted
+a test on Aquagen&reg; through its independent research facility that showed an
+increased blood oxygen level in each individual after they ingested AQUAGEN&reg;.
+Blood was extracted and analyzed at intervals prior to the administration of
+AQUAGEN&reg; and at intervals afterward over a four-hour period.<o:p></o:p></span></font></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>There are numerous studies and research on the Aquagen site
+under the Research menu item. <strong><b><span
+style='font-family:Arial'>(Go to any financial site like yahoo and read the
+news.)</span></b></strong>&nbsp; Links to AQGI's website will be listed
+there.</span></font><font color="#000000"><o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000"><strong><b><font size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial'>MANAGEMENT AND OTHER COMMENTS<o:p></o:p></span></font></b></strong></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>On the increase in sales in </span><st1:country-region><st1:place></font><font color="#000000"><st1:country-region><st1:place><font
+  size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>Sweden</span></font><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>, Aquagen's
+Chief Executive Officer, Joanne Clinger, commented:<o:p></o:p><br>
+</span></font></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><br>
+</span></font><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;font-family:
+Arial'>&quot;Our primary distributor in </span><st1:country-region><st1:place></font><font color="#000000"><st1:country-region><st1:place><font
+  size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>Sweden</span></font><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>, Holistic
+Sverige AB, has been buying our Aquagen and Oxyzone products for the past
+several years. Two years ago, Holistic starting heavily marketing our
+oxygenated colon Detox product, Oxyzone, in </span><st1:country-region><st1:place></font><st1:country-region><st1:place><font
+  size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>Sweden</span></font><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>.<strong><b><font
+face=Arial><span style='font-family:Arial'> In 2003, Oxyzone sales rose 965%
+over the previous year and this year, our sales have increased 60% from
+2003,&quot; </span></font></b></strong></span></font><strong><b><font
+face="Times New Roman"><o:p></o:p></font></b></strong></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>On the 27% Increase in revenues for 2004, Aquagen's Chief
+Executive Officer, Joanne Clinger, commented:<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>&quot;We spent a great deal of time in the fourth quarter
+rolling our new products, modifying our corporate logo, refining our corporate
+identity and preparing the marketing materials and programs to increase sales
+dramatically this coming year. We revised our business plan greatly over the
+past year and we feel that we ready to market our products aggressively in our
+current marketing channels as well as to open new marketing channels for
+distribution,&quot;<o:p></o:p></span></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>On the recent brokerage deal, Dan Zorichak, </span><st1:place><st1:PlaceName></font><font color="#000000"><st1:place><st1:PlaceName><font
+  size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>Hawk</span></font><font
+ size=2 face=Arial> <st1:PlaceType></font><st1:PlaceType><font
+  size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>Mountain</span></font><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>'s owner,
+said:<o:p></o:p></span></font></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>&quot;We think Aquagen is a very good addition to our
+product line and are anxious to introduce it to our many and diverse client
+companies&quot;</span></font><font color="#000000"><o:p></o:p></font><font color="#000000" size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000"><strong><b><font size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial'>CONCLUSION</span></font><o:p></o:p></b></strong></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p ><font color="#000000" size=2 face=Arial><span style='font-size:10.0pt;
+font-family:Arial'>Aquagen has an established market, national and
+international sales, increasing consumer and industrial sales, forward looking
+management, and great products. Those, coupled with consumers ever growing
+interest in health, and the recent joint venture with </span></font><font color="#000000"><strong><b><font
+face="Times New Roman">Electric Aquagenics Unlimited, Inc. (EAU), a
+major&nbsp;news release just announced&nbsp;for&nbsp;AQGi, leads us to say....</font></b></strong><o:p></o:p></font><font color="#000000" size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p  align=center style='text-align:center'><font color="#000000"><strong><b><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>SOMETIMES
+ALL IT TAKES IS ONE&nbsp;GOOD NEWS ANNOUNCEMENT, </span></font></b></strong></font></p>
+<p  align=center style='text-align:center'><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'><strong><b><font color=red face=Arial><span style='font-family:Arial;
+color:red'>SAVVY INVESTORS DON'T MISS THIS ONE!</span></font></b></strong><span
+class=t><o:p></o:p><br>
+</span></span></font><strong><b><font
+size=3 color=red face="Times New Roman"><span style='font-size:12.0pt;
+color:red'>In our opinion this is GREAT NEWS!</span></font></b></strong><o:p></o:p><font size=3
+face="Times New Roman"><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+<p  align=center style='text-align:center'><strong><b><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'><font color="#000000">PUT AQGI ON
+YOUR RADAR SCREENS, </font></span></font></b></strong><font color="#000000"><o:p></o:p><br>
+</font><font color="#000000"><strong><b><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>AND WATCH
+THIS STOCK TRADE!</span></font></b></strong><o:p></o:p></font><font color="#000000" size=3
+face="Times New Roman"><span style='font-size:12.0pt'>&nbsp;<o:p></o:p></span></font></p>
+
+<p ><font size=1 color=#000000 face="Times New Roman"><span
+style='font-size:7.5pt'>Disclaimer:</span></font><font color="#000000"><o:p></o:p></font></p>
+
+<p ><font size=1 color=#000000 face=Verdana><span
+style='font-size:7.5pt;font-family:Verdana;mso-bidi-font-family:Arial'>Information within this email contains &quot;forward looking
+statements&quot; within the meaning of Section 27A of the Securities Act of
+1933 and Section 21B of the Securities Exchange Act of 1934. Any statements
+that express or involve discussions with respect to predictions, expectations,
+beliefs, plans, projections, objectives, goals, assumptions or future events or
+performance are not statements of historical fact and may be &quot;forward looking
+statements.&quot;Forward looking statements are based on expectations,
+estimates and projections at the time the statements are made that involve a
+number of risks and uncertainties which could cause actual results or events to
+differ materially from those presently anticipated. Forward looking statements
+in this action may be identified through the use of words such as
+&quot;projects&quot;, &quot;foresee&quot;, &quot;expects&quot;,
+&quot;will,&quot; &quot;anticipates,&quot; &quot;estimates,&quot; &quot;believes,&quot;
+&quot;understands&quot; or that by statements indicating certain actions
+&quot;may,&quot; &quot;could,&quot; or &quot;might&quot;
+occur.&nbsp;&nbsp;SR&nbsp;does not represent that the information contained in
+this message states all material facts or does not omit a material fact
+necessary to make the statements therein not misleading. All information
+provided within this email pertaining to investing, stocks, securities must be
+understood as information provided and not investment advice.&nbsp;SR advises
+all readers and subscribers to seek advice from a registered professional
+securities representative before deciding to trade in stocks featured within
+this email. None of the material within this report shall be construed as any
+kind of investment advice or solicitation. Many of these companies are on the
+verge of bankruptcy. You can lose all your money by investing in this stock.
+The publisher of&nbsp;SR is not a registered investment advisor. Subscribers
+should not view information herein as legal, tax, accounting or investment
+advice. Any reference to past performance(s) of companies are specially
+selected to be referenced based on the favorable performance of these
+companies. You would need perfect timing to achieve the results in the examples
+given. There can be no assurance of that happening. Remember, as always, past
+performance is never indicative of future results and a thorough due diligence
+effort should be completed prior to investing.&nbsp; Past performance is never
+indicative of future results. In compliance with the Securities Act of 1933,
+Section17(b),&nbsp;SR&nbsp;discloses the holding of one million free trading
+shares by a third party, who is Alexander Lindale LLC. not an officer
+or&nbsp;director of the company for the&nbsp;circulation of this
+report.&nbsp;&nbsp; Be aware of an inherent conflict of interest resulting from
+such compensation due to the fact that this is a paid advertisement. We will
+sell our free trading shares at anytime without notice. this could have an
+adverse impact on the stock price.&nbsp;All factual information in this report
+was gathered from public sources, including&nbsp;but not limited
+to&nbsp;Company Websites, SEC filings&nbsp;and Company Press
+Releases.&nbsp;Emerging Alerts&nbsp;believes this information to be reliable
+but can make no guarantee as to its accuracy or completeness. Use of the
+material within this email constitutes your acceptance of these terms</span></font><font color="#000000"><o:p></o:p></font><o:p></o:p></p>
+
+</div>
+
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E460E08.aspx'><img src='http://www.infoemail-web.com/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E460E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">Removal Services, Inc. &#183; 1771 Post Road East #342 &#183; Westport, CT 06880</font></p></td></tr></table></body>
+
+</html>
+
+
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

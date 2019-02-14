@@ -1,0 +1,38 @@
+Message-ID: <498927.1075844096447.JavaMail.evans@thyme>
+Date: Thu, 19 Oct 2000 02:51:00 -0700 (PDT)
+From: kim.kouri@enron.com
+To: michelle.lokay@enron.com
+Subject: socket vs tibco
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kim Kouri
+X-To: Michelle Lokay
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+FYI - note win 2000 comment below
+---------------------- Forwarded by Kim Kouri/ET&S/Enron on 10/19/2000 03:43 
+AM ---------------------------
+
+
+Meiling Chen
+10/19/2000 09:42 AM
+To: Kim Kouri/ET&S/Enron@ENRON
+cc:  
+
+Subject: socket vs tibco
+
+
+Yesterday's meeting concluded that real time fuel project should use socket 
+to communicate
+wtih SCADA to be in sync with other real time application in the group. 
+Steve Littel sent his VB codes to me and I am working on it.
+
+I asked Joe Zhou about TW Deal Analysis on Window 2000.  He said there should 
+be no problem.
+Window 2000 should have IE 5.0 features.
+
+Mei-Ling

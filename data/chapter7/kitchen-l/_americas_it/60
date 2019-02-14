@@ -1,0 +1,79 @@
+Message-ID: <25992009.1075840861064.JavaMail.evans@thyme>
+Date: Wed, 12 Sep 2001 16:32:46 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, mark.pickering@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV weekly project status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Pickering, Mark </O=ENRON/OU=EU/cn=Recipients/cn=mpicker>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the weekly project status update of GTV and the attached file for the updated project time lines.
+
+GTV status meeting attendees:  Thu Dang, Nayan Dattani, Bill Fortney, Jeff Gossett, George Grant, Brad Jones, Narasim Kasaru, Jay Krish, Francis Lim, Russ Severson, Geoff Storey, Michael Swaim, Zhiyong Wei, Jeremy Wong.
+
+Accomplishments:
+?	GTV2 Phase 1 items
+o	Released to production.
+?	Saving different views in TDS:
+o	Released to production.
+?	Capability for desk roll-ups on an ad hoc basis (phase 2, on hold since 7/9/01):
+o	New process for roll-up aggregators has been completed.
+?	Option Grid (phase 2):
+o	Released to production.
+?	Gas Daily options (phase 2):
+o	Released to production.
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options has been completed in TAGG.
+o	Development of loading correlation curves has been completed.
+o	Changes to the Translator have been completed.
+o	Development of Basis Options valuation has been completed.
+?	Transport Deal Capture & Valuation (phase 2):
+o	Creation of new deal entry type & database changes has been completed.
+o	Changes to the Translator have been completed.
+?	Add more information to the drill-down deal details.
+o	Released to production.
+?	New Flexible Deal Viewer.
+o	Database schema design completed.
+o	Initial Load of active Deals from Sitara completed.
+o	TIBCO work completed.
+o	Units of Measure conversions completed.
+o	Update of active deals from Sitara completed.
+o	Development of Query Engine completed.
+o	Development of Delphi feed to Excel completed.
+o	Schema mapping completed.
+o	Initial loading of active deals from TAGG completed.
+o	3 new requests (from last Wednesday's demo) for Update Server completed.
+o	Complete Development of Excel VB.
+o	Complete remaining new request for Update Server (SIC codes).
+o	Complete development of update of active deals from TAGG.
+
+Plans for the week ending 09/14/01:
+?	Continue IT development of Phase II issues.
+o	Complete Option reports (PL reports).
+o	Complete integration test of Basis Option valuation.
+o	Begin change to Portcalc to value Transport deals.
+?	New Flexible Deal Viewer.
+o	Complete user acceptance testing.
+?	Investigate efforts needed to implement TDS for Calgary office.
+?	Investigate ways of distinguishing deal changes and UNIFY volume feedback.
+?	Investigate ways of improving EOL bridging to Sitara and TAGG for term physical deals.
+
+Issues:
+?	None.
+
+Notes
+?	Canada still needs to test Y-Calc.
+?    Jeff Gossett is looking into possibly adding more requirements for Option Reports.
+
+ 
+
+Thanks
+
+Zhiyong

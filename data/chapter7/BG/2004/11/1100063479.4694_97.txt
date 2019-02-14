@@ -1,0 +1,48 @@
+Return-Path: <ux188556@virtdom.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 21426 invoked by uid 115); 10 Nov 2004 02:47:33 -0000
+Received: from ux188556@virtdom.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(12.26.83.51):. 
+ Processed in 0.102052 secs); 10 Nov 2004 02:47:33 -0000
+Received: from s1morpheus.virtdom.com (12.26.83.51)
+  by churchill.factcomp.com with SMTP; 10 Nov 2004 02:47:32 -0000
+Received: from s1morpheus.virtdom.com (localhost.virtdom.com [127.0.0.1])
+	by s1morpheus.virtdom.com (8.12.10/8.12.10) with ESMTP id iAA2u680044280
+	for <bruceg@em.ca>; Tue, 9 Nov 2004 21:56:06 -0500 (EST)
+	(envelope-from ux188556@s1morpheus.virtdom.com)
+Received: (from ux188556@localhost)
+	by s1morpheus.virtdom.com (8.12.10/8.12.10/Submit) id iAA2u5Rp044270;
+	Tue, 9 Nov 2004 21:56:05 -0500 (EST)
+	(envelope-from ux188556)
+Date: Tue, 9 Nov 2004 21:56:05 -0500 (EST)
+Message-Id: <200411100256.iAA2u5Rp044270@s1morpheus.virtdom.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+To: bruceg@em.ca
+From: Medupdate@stockbrokerprofile.com
+Reply-to: Medupdate@stockbrokerprofile.com
+X-Mailer: Perl Powered Socket Mailer
+Subject: Med alert
+
+<body bgcolor="yellow" text="#000000">
+<table width="533" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="http://www.stockbrokerprofile.com/stock/outgoing/wsa.gif"></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.stockbrokerprofile.com/stock/outgoing/stellar.gif" width="531" height="560"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <div align="center">
+        <p><font face="Arial, Helvetica, sans-serif" size="-1"><b>Link to complete 
+          PDF report <a href="http://www.stockbrokerprofile.com/stock/stellar_research_10-8-04(2).pdf">CLICK 
+          HERE</a></b></font></p>
+        <p>        <div align="center"><font size="-2"><b><a href="mailto:president@bankersfinance.com"><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">To 
+          Remove "Reply HERE"</font></a> <font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+          and type remove in subject line.</font></b></font></div>
+      </div>
+    </td>
+  </tr>
+</table>
+</body>

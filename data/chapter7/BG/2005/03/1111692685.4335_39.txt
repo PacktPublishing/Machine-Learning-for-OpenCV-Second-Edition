@@ -1,0 +1,50 @@
+Return-Path: <123321@mail.runan.ha.cn>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18492 invoked by uid 115); 24 Mar 2005 15:12:10 -0000
+Received: from 123321@mail.runan.ha.cn by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.6.21.217):. 
+ Processed in 0.189864 secs); 24 Mar 2005 15:12:10 -0000
+Received: from unknown (HELO mail.runan.ha.cn) (218.6.21.217)
+  by churchill.factcomp.com with SMTP; 24 Mar 2005 15:12:07 -0000
+From: "Jone" <123321@mail.runan.ha.cn>
+To: <bruceg@em.ca>
+Subject: Valid Marketing
+Sender: "Jone" <123321@mail.runan.ha.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Thu, 24 Mar 2005 23:20:28 +0800
+Reply-To: "Jone" <sales@dns5588.com>
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <111167713067218467@churchill>
+
+
+To bruceg@em.ca:
+
+Email is the best grow tool.
+
+We offer Marketing with quality service.
+
+1. Target Email list
+
+We can provide target email list you need, which are compiled 
+only on your order. We will customize your client email list.
+
+* We have millions of lists in a wide variety of categories.
+
+2. Send out Target list for you
+
+We can send your email message to your target clients! We will
+customize your email list and send your message for you.
+
+Our site: www.promotecompany.com
+
+* We also offer Web Hosting & mailing server.
+
+
+Regards!
+
+Jone
+Marketing Dept
+Sales@promotecompany.com
+
+NoThanks: Lose@MSN.com?subject=bruceg@em.ca

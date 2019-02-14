@@ -1,0 +1,112 @@
+Received: from berlinr.sprint.ca (209.5.194.99)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:15 -0000
+To: projecthoneypot@projecthoneypot.org
+From: Mail Administrator <Postmaster@sprint.ca>
+Reply-To: Mail Administrator <Postmaster@sprint.ca>
+Subject: Mail System Error - Returned Mail
+Date: Tue, 19 Jul 2005 06:58:14 -0400
+Message-ID: <20050719105814.NRMS11224.berlinr.sprint.ca@berlinr>
+MIME-Version: 1.0
+Content-Type: multipart/report;
+		report-type=delivery-status;
+		Boundary="===========================_ _= 6672668(11224)1121770694"
+Content-Transfer-Encoding: 8bit
+
+
+--===========================_ _= 6672668(11224)1121770694
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+
+This Message was undeliverable due to the following reason:
+
+Ce message n'a pu ¡tre transmis pour les raisons suivantes :
+
+Each of the following recipients was rejected by a remote mail server.
+The reasons given by the server are included to help you determine why
+each recipient was rejected.
+
+Les destinataires suivants ont ≈t≈ rejet≈s par un serveur de courrier
+ » distance. Les raisons donn≈es par le serveur sont incluses pour 
+vous aider » d≈terminer le probl…me dans chaque cas.
+
+    Recipient: <teklords@eol.ca>
+    Reason:    unknown local-part "1742560" in domain "primus.ca"
+
+
+Please reply to Postmaster@sprint.ca
+if you feel this message to be in error.
+
+Veuillez r≈pondre » Postmaster@sprint.ca
+si vous pensez que ce message est erron≈.
+
+--===========================_ _= 6672668(11224)1121770694
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; berlinr.sprint.ca
+Arrival-Date: Tue, 19 Jul 2005 06:58:12 -0400
+Received-From-MTA: dns; corp.nationaldirect.net (149.99.46.246)
+
+Final-Recipient: RFC822; <teklords@eol.ca>
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; eol.ca.s8a1.psmtp.com (64.18.7.10)
+Diagnostic-Code: smtp; 550 unknown local-part "1742560" in domain "primus.ca"
+
+--===========================_ _= 6672668(11224)1121770694
+Content-Type: message/rfc822
+
+Received: from corp.nationaldirect.net ([149.99.46.246])
+          by berlinr.sprint.ca
+          (InterMail vM.5.01.02.00 201-253-122-103-101-20001108) with ESMTP
+          id <20050719105812.NRMJ11224.berlinr.sprint.ca@corp.nationaldirect.net>
+          for <teklords@eol.ca>; Tue, 19 Jul 2005 06:58:12 -0400
+Received: from mail3.zoneedit.com (mail3.zoneedit.com [216.133.67.106])
+	by corp.nationaldirect.net (mail.corp.nationaldirect.net)
+	(MDaemon.PRO.v7.1.2.R)
+	with ESMTP id md50000025351.msg
+	for <teklords@eol.ca>; Tue, 19 Jul 2005 06:57:47 -0400
+Received: from mailwisconsin.com (unknown [220.78.161.252])
+	by mail3.zoneedit.com (Postfix) with SMTP id 846A742D2
+	for <info@markhamav.com>; Tue, 19 Jul 2005 06:57:28 -0400 (EDT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816293;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@markhamav.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Lookup-Warning: MAIL lookup on projecthoneypot@projecthoneypot.org does not match 216.133.67.106
+X-MDRemoteIP: 216.133.67.106
+X-Return-Path: projecthoneypot@projecthoneypot.org
+X-MDaemon-Deliver-To: teklords@eol.ca
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on 
+	server.corp.nationaldirect.net
+X-Spam-Status: No, hits=0.4 required=5.0 tests=HTML_50_60,HTML_FONTCOLOR_RED,
+	HTML_MESSAGE,MIME_HTML_ONLY autolearn=no version=2.63
+X-Spam-Level: 
+X-Spam-Processed: mail.corp.nationaldirect.net, Tue, 19 Jul 2005 06:57:52 -0400
+X-MDAV-Processed: mail.corp.nationaldirect.net, Tue, 19 Jul 2005 06:58:09 -0400
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273518">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+
+--===========================_ _= 6672668(11224)1121770694--
+
+

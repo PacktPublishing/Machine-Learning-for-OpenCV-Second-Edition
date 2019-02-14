@@ -1,0 +1,119 @@
+Message-ID: <23591029.1075856587025.JavaMail.evans@thyme>
+Date: Tue, 24 Apr 2001 13:02:00 -0700 (PDT)
+From: chonawee.supatgiat@enron.com
+To: stinson.gibner@enron.com, vince.kaminski@enron.com
+Subject: calculating bid-ask prices
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Chonawee Supatgiat
+X-To: Stinson Gibner, Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+This is about Enron movie trading business where we are a market maker for 
+trading future of a movie's gross box office receipt. Rich sent to many 
+people a writing explaining his movie trading idea and asked us to provide 
+some feedback.
+
+I think the idea (see below) might be applicable to other parts of Enron. We 
+can call it "Dynamic bid-ask price process".
+In fact, we can set that the bidding period is closed when no new bid is 
+submitted to the system within a specified amount of time. The final 
+(clearing) bid and ask prices are just the last "tentative" price shown to 
+the public before the bidding period ends. (So the customers can see the 
+final price before the market close and can revise their bids if they wish.)
+
+I think this method is suitable for illiquid products to be traded via 
+EnronOnline.com.
+-Chonawee
+
+
+---------------------- Forwarded by Chonawee Supatgiat/Corp/Enron on 
+04/24/2001 07:48 PM ---------------------------
+
+
+Chonawee Supatgiat
+04/24/2001 07:40 PM
+To: Richard DiMichele/Enron Communications@Enron Communications
+cc: Chonawee Supatgiat/Corp/Enron@ENRON, Cynthia Harkness/Enron 
+Communications@Enron Communications, Greg Wolfe/HOU/ECT@ECT, James 
+Ginty/Enron Communications@Enron Communications, Jim Fallon/Enron 
+Communications@Enron Communications, Kelly Kimberly/Enron 
+Communications@Enron Communications, Kevin Howard/Enron Communications@Enron 
+Communications, Key Kasravi/Enron Communications@Enron Communications, 
+Kristin Albrecht/Enron Communications@Enron Communications, Kristina 
+Mordaunt/Enron Communications@Enron Communications, Martin 
+Lin/Contractor/Enron Communications@Enron Communications, Paul Racicot/Enron 
+Communications@Enron Communications, Zachary McCarroll/Enron 
+Communications@Enron Communications, Martin Lin/Contractor/Enron 
+Communications@Enron Communications 
+
+Subject: calculating bid-ask prices
+
+
+I think we should let the price float with the market instead of trying to 
+forecast it. Otherwise, if our forecast is not consistence with the market, 
+we may have an imbalance in the bid-ask orders and we may end up taking some 
+positions. You know, as Russ and Martin pointed out, we cannot fight with the 
+studio and exhibitors because they have inside information and can game the 
+price easily.
+
+One way to ensure the balance of the bid-ask orders is to embed an exchange 
+system inside our bid-ask prices front end. Each week, we have a trading 
+period. During the period, instead of posting bid-ask prices, we post 
+"tentative" bid-ask prices, then we ask our customers to submit their 
+acceptable buying or selling price. These "tentative" bid-ask prices get 
+updated and are shown to the public. Of course, customers can revise/withdraw 
+their bids anytime during the trading period. At the end of the period, we 
+calculate and post the final bid and ask prices. The seller who submits lower 
+selling price than our final bid price gets paid at the bid price. The buyer 
+who submits higher buying price than our final ask price pays at the ask 
+price. Next week, we repeat the same process.
+
+This way, we can manage our positions easily and we can also behave like a 
+broker where we don't take any position at all. We make profit from those 
+bid-ask spread. We don't have to worry about forecasting accuracy and 
+insiders' trading because we don't have to take any position. Let the market 
+be the one who decides the price. 
+
+If we maintain our net position as zero, at the end, when all the actual 
+gross box office numbers are reported in those publications, our customers 
+with open long/short positions are perfectly matched. Using the 
+mark-to-market charge can reduce credit risk.
+
+Thanks,
+-Chonawee
+
+
+
+---------------------- Forwarded by Chonawee Supatgiat/Corp/Enron on 
+04/24/2001 07:24 PM ---------------------------
+
+
+Chonawee Supatgiat
+04/20/2001 04:31 PM
+To: Richard DiMichele/Enron Communications@Enron Communications, Key 
+Kasravi/Enron Communications@Enron Communications
+cc: Martin Lin/Contractor/Enron Communications@Enron Communications 
+
+Subject: some more input
+
+Hi Rich and Key,
+Again I think your idea is very good. I think that we, as a market maker, can 
+reduce our credit risk (risk of default) if we do the "mark-to-market" 
+charging. That is, each week when we release a new expected value of the 
+gross box office receipt, we balance all the opening positions the same way 
+as in a regular future market. This way, we can give margin calls to the 
+couterparties who are expected to owe us a lots of money.
+In the last paragraph, I think the gross box office can also be determined 
+from the market itself (i.e., if there are lots of buyers, our offer price 
+should go up.)
+We can offer other derivative products such as options as well.
+-Chonawee
+
+
+
+

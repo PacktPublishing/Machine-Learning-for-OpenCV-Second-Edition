@@ -1,0 +1,74 @@
+Received: from apexweb.co.uk (HELO mail.apexweb.co.uk) (217.33.105.123)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:46 -0000
+Received: from mail.apexweb.co.uk
+        by mail.apexweb.co.uk (Merak 7.4.5) with SMTP id DVA38085
+        for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 11:57:45 +0100
+Date: Tue, 19 Jul 2005 11:57:45 +0100
+From: Mail Delivery Subsystem <MAILER-DAEMON@apexweb.co.uk>
+To: <projecthoneypot@projecthoneypot.org>
+Message-Id: <854810422@mail.apexweb.co.uk>
+Subject: Returned mail: response error
+Content-Type: multipart/report; report-type=delivery-status; boundary="85481042220050719115744FDC5@mail.apexweb.co.uk"
+
+--85481042220050719115744FDC5@mail.apexweb.co.uk
+
+The original message was received at Tue, 19 Jul 2005 11:57:45 +0100
+
+  ----- The following addresses had permanent fatal errors -----
+<lexstudios@aol.com>
+
+  ----- Transcript of session follows -----
+... while talking to mailin-02.mx.aol.com
+>>> DATA
+<<< 554 TRANSACTION FAILED
+
+--85481042220050719115744FDC5@mail.apexweb.co.uk
+Content-Type: message/delivery-status
+
+Reporting-MTA: DNS; mail.apexweb.co.uk
+Arrival-Date: Tue, 19 Jul 2005 11:57:46 +0100
+
+Original-Recipient: RFC822; <lexstudios@aol.com>
+Final-Recipient: RFC822; <lexstudios@aol.com>
+Action: failed
+Remote-MTA: DNS; mailin-02.mx.aol.com
+Last-Attempt-Date: Tue, 19 Jul 2005 11:57:45 +0100
+
+--85481042220050719115744FDC5@mail.apexweb.co.uk
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from forward.lcn.com ([83.244.130.13])
+        by mail.apexweb.co.uk (Merak 7.4.5) with ESMTP id DVA38085
+        for <info@learnfast.co.uk>; Tue, 19 Jul 2005 11:57:44 +0100
+Received: from [222.93.57.249] (helo=mailwisconsin.com)
+	by forward.lcn.com with smtp (Exim 4.43)
+	id 1DupnB-0006aT-UW
+	for info@livingorganiser.com; Tue, 19 Jul 2005 11:57:43 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815947;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@livingorganiser.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279140">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+--85481042220050719115744FDC5@mail.apexweb.co.uk--

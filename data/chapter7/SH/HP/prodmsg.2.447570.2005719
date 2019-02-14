@@ -1,0 +1,112 @@
+Received: from imap.fraba.com (217.69.86.3)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:05 -0000
+Received: from localhost (localhost)
+	by imap.fraba.com (8.13.1/8.13.1) id j6JB04lj006981;
+	Tue, 19 Jul 2005 13:00:04 +0200
+Date: Tue, 19 Jul 2005 13:00:04 +0200
+From: Mail Delivery Subsystem <MAILER-DAEMON@fraba.com>
+Message-Id: <200507191100.j6JB04lj006981@imap.fraba.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JB04lj006981.1121770804/imap.fraba.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JB04lj006981.1121770804/imap.fraba.com
+
+The original message was received at Tue, 19 Jul 2005 13:00:00 +0200
+from mail.openit.de [217.69.65.2]
+
+   ----- The following addresses had permanent fatal errors -----
+<domainverwaltung@fraba.com>
+    (reason: 550-Mailbox unknown.  Either there is no mailbox associated with this)
+
+   ----- Transcript of session follows -----
+... while talking to localhost:
+>>> DATA
+<<< 550-Mailbox unknown.  Either there is no mailbox associated with this
+<<< 550-name or you do not have authorization to see it.
+<<< 550 5.1.1 User unknown
+550 5.1.1 <domainverwaltung@fraba.com>... User unknown
+<<< 503 5.5.1 No recipients
+
+--j6JB04lj006981.1121770804/imap.fraba.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; imap.fraba.com
+Received-From-MTA: DNS; mail.openit.de
+Arrival-Date: Tue, 19 Jul 2005 13:00:00 +0200
+
+Final-Recipient: RFC822; domainverwaltung@fraba.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: SMTP; 550-Mailbox unknown.  Either there is no mailbox associated with this
+Last-Attempt-Date: Tue, 19 Jul 2005 13:00:04 +0200
+
+--j6JB04lj006981.1121770804/imap.fraba.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mail.openit.de (mail.openit.de [217.69.65.2])
+	by imap.fraba.com (8.13.1/8.13.1) with ESMTP id j6JAxulj006974
+	for <domainverwaltung@fraba.com>; Tue, 19 Jul 2005 13:00:00 +0200
+Received: from mailwisconsin.com ([61.136.107.237])
+	by mail.openit.de (8.11.6/8.11.6) with SMTP id j6JAwP808651
+	for <domainverwaltung@fraba.com>; Tue, 19 Jul 2005 12:58:26 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360464;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: [SPAM] Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: domainverwaltung@fraba.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=14.4 required=5.0 tests=BAYES_99,DRUGS_ERECTILE,
+	DRUG_DOSAGE,HTML_50_60,HTML_MESSAGE,MIME_HTML_ONLY,URIBL_AB_SURBL,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no 
+	version=3.0.4
+X-Spam-Report: 
+	*  0.9 DRUG_DOSAGE BODY: Talks about price per dose
+	*  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.5 BAYES_99 BODY: Bayesian spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.0 URIBL_SBL Contains an URL listed in the SBL blocklist
+	*      [URIs: extra-m.info]
+	*  0.4 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  2.5 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  1.5 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  4.3 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  0.2 DRUGS_ERECTILE Refers to an erectile drug
+X-Spam-Level: **************
+X-Spam-Checker-Version: SpamAssassin 3.0.4 (2005-06-05) on imap.fraba.com
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836434">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--j6JB04lj006981.1121770804/imap.fraba.com--
+

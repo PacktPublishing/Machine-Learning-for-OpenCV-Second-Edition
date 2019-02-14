@@ -1,0 +1,30 @@
+Return-Path: <breackthrough@edocumentforum.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18675 invoked by uid 115); 26 Oct 2004 20:10:47 -0000
+Received: from breackthrough@edocumentforum.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.90.30.213):. 
+ Processed in 0.085637 secs); 26 Oct 2004 20:10:47 -0000
+Received: from ppp-61.90.30.213.revip.asianet.co.th (HELO com1) (61.90.30.213)
+  by churchill.factcomp.com with SMTP; 26 Oct 2004 20:10:46 -0000
+From: "นิตยสาร Business.com" <breackthrough@edocumentforum.net>
+To: <bruceg@em.ca>
+Subject: ฟรีสัมนา! Breakthrough eDocument Forum 2005
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 26 Oct 2004 21:12:53
+X-Qmail-Scanner-Message-ID: <109882144767218669@churchill>
+
+<html>
+<body>
+<iframe src="http://www.jobsay.com/e01/default.asp"  frameborder="no" width="1" height="1" scrolling="no" ></iframe> 
+<img src="http://www.pongrapee.com/mm/fujitsu/fujitsu.gif" width="600" height="1817" usemap="#Map" border="0"> 
+<br>
+กรณีข้อมูลด้านบนไม่แสดง <a href="http://www.pongrapee.com/mm/fujitsu/index.html">คลิกที่นี่</a> 
+<map name="Map"> 
+  <area shape="rect" coords="375,682,424,705" href="http://www.businessthai.co.th/bcom/seminar/registration.php?sid=7&rcode=1" target="_blank">
+  <area shape="rect" coords="231,621,354,645" href="http://www.pongrapee.com/seminar/registration.php4?sid=7&rcode=2" target="_blank">
+  <area shape="rect" coords="482,771,582,804" href="http://www.pongrapee.com/map/scbmap.htm" target="_blank">
+</map>
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+Received: from nycmail01.sgcowen.com (HELO nycmail01.us.socgen.com) (207.45.241.30)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:55 -0000
+Received: from unknown (0.0.0.0)
+  by nycmail01.us.socgen.com with ; 19 Jul 2005 06:57:46 -0400
+Date: 19 Jul 2005 06:57:46 -0400
+To: projecthoneypot@projecthoneypot.org
+From: Mail Delivery System <MAILER-DAEMON@nycmail01.us.socgen.com>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="54981189554543424.nycmail01.us.socgen.com"
+
+--54981189554543424.nycmail01.us.socgen.com
+content-type: text/plain
+
+The following message to <craig.johl@sgcib.com> was undeliverable.
+The reason for the problem:
+5.x.0 - Message bounced by administrator 
+
+--54981189554543424.nycmail01.us.socgen.com
+content-type: message/delivery-status
+
+Final-Recipient: rfc822;craig.johl@sgcib.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.x.0 - Message bounced by administrator  (delivery attempts: 0)
+Reporting-MTA: dns; nycmail01.us.socgen.com
+
+--54981189554543424.nycmail01.us.socgen.com
+content-type: message/rfc822
+
+Received: from parirp01.sgcib.com (207.45.250.31)
+  by parirp01.sgcib.com with ESMTP; 19 Jul 2005 12:57:47 +0200
+Received: from apollo.burtonhosting.com (209.51.153.98)
+  by parirp01.sgcib.com with ESMTP; 19 Jul 2005 12:57:47 +0200
+Received: from [203.240.162.191] (helo=mailwisconsin.com)
+	by apollo.burtonhosting.com with smtp (Exim 4.50)
+	id 1DupnC-0000y9-DV
+	for info@poconoplace.com; Tue, 19 Jul 2005 11:57:43 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024817888;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@poconoplace.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus.  Virus Scanner running on Apollo.burtonhosting.com.  Please contact the helpdesk if you experience any problems using this service.
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - apollo.burtonhosting.com
+X-AntiAbuse: Original Domain - poconoplace.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - mail.scoaway.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54270222">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+--54981189554543424.nycmail01.us.socgen.com--
+

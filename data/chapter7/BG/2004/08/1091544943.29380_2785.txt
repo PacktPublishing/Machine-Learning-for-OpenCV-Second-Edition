@@ -1,0 +1,46 @@
+Return-Path: <vudflpaz@seznam.cz>
+Received: (fqmail 29812 invoked from network); 03 Aug 2004 14:50:32 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 03 Aug 2004 14:50:32 -0000
+Received: (qmail 2101 invoked from network); 3 Aug 2004 14:50:31 -0000
+Received: from mail-market.com ([221.124.14.36])
+  by mx06.futurequest.net ([69.5.6.177])
+  with SMTP via TCP; 03 Aug 2004 14:50:31 -0000
+Received: from baddy (unknown [207.202.14.17])
+    by mail-market.com (SMTPD32-7.05) with ESMTP id J87Gz023724964
+    for <info@ezmlm.org>; Tue,  3 Aug 2004 14:17:42 -0400 (EDT)
+Message-Id: <717539030830.jov2gB0J031CLO@seznam.cz>
+From: "Wade Small" <vudflpaz@seznam.cz>
+To: info@ezmlm.org
+Subject: Best premaid logos
+Date: Tue,  3 Aug 2004 14:17:42 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: phpmailer [version 1.62]
+X-Priority: 3
+
+<html>
+<body>
+<table width=400>
+<tr>
+<td>
+<p align=justify>
+Good morning,<br><br>
+Do you need a <a href="http://www.bovanno.org/580541346567.asp">professional yet inexpensive logo</a>? We offer high guality <a href="http://www.bovanno.org/580541346567.asp">premade Iogos</a> at an increadibIy Iow price. Choose a desiqn you like most from our <a href="http://www.bovanno.org/580541346567.asp">huqe design gallery</a>, and instantly download it in editabIe source fiIes that are suitabIe for your stationery, website ,and promo materials. This is a qreat chance for you to create a <a href="http://www.bovanno.org/580541346567.asp">professional image</a> of your company or website at only a nominal fee. You can even create a new revenue stream for your business by offering our logos to your own clients. We look forward to hearing from you soon.
+</p>
+<p align=justify>
+Sincerely,<br>
+Wade Small<br>
+<a href="http://www.bovanno.org/580541346567.asp">Our Logo Gallery</a><br>
+</p>
+<br><br><br>
+_____________________________________________________<br>
+Please click <a href="http://www.bovanno.org/out.php?email=info@ezmlm.org">here</a> to remove from this list<br>
+_____________________________________________________<br>
+</td>
+</tr>
+</table>
+</body>
+</html>

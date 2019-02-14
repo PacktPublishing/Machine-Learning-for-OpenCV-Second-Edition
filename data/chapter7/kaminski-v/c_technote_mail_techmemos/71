@@ -1,0 +1,53 @@
+Message-ID: <22049483.1075856595300.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 02:07:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: eugene.zeitz@enron.com
+Subject: Option hedging for EES
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, bob.lee@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, bob.lee@enron.com
+X-From: Zimin Lu
+X-To: Eugene Zeitz
+X-cc: Vince J Kaminski, Stinson Gibner, Bob Lee
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Eugene,
+
+Bob and I had a discussion about your question you raised yesterday.
+
+For an option writer, he has the obligation to deliver, so he hedges it with 
+the underlying by adjesting delta positions.  The hedging cost, theoretically,
+should be equal to the fair value of the option premium. 
+
+On the other hand, for the option holder, he has no obligation, by delta 
+heging,
+he would pay double for the option, with no upside.  So he should not hedge 
+it at all.
+
+If the option holder wants to protect the time value of the option, he should 
+sell 
+the option to the market or some equivalent options to create a theta-neutral 
+portfolio.
+This may require trading in both the orginal and the equivalent option 
+underlyings.  
+
+Our question to you, if the call options you mentioned are embedded in the 
+EES 
+contracts, say fixed price sale contracts, What makes it possible to just 
+separate those options
+and sell them to the market to retain the full values of the options ?  We 
+conjecture that these
+ options are meant to hedge the original contract. By selling those options 
+you eliminate the upside of the
+ original contract.
+
+Give one of us a call if you want to discuss this further.
+
+Zimin
+
+
+

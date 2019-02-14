@@ -1,0 +1,41 @@
+Return-Path: <notebook@notebookexpo016.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 26616 invoked from network); 14 Jun 2005 23:57:08 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 14 Jun 2005 23:57:08 -0000
+Received: (qmail 20161 invoked from network); 14 Jun 2005 23:57:08 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx09.futurequest.net ([69.5.6.181])
+  with QMQP via TCP; 14 Jun 2005 23:57:08 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 26610 invoked from network); 14 Jun 2005 23:57:08 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 14 Jun 2005 23:57:08 -0000
+Received: (qmail 21007 invoked from network); 14 Jun 2005 23:57:08 -0000
+Received: from tiger (ppp-58.8.246.37.revip2.asianet.co.th [58.8.246.37])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 14 Jun 2005 23:57:07 -0000
+From: "SYNNEX Thailand" <notebook@notebookexpo016.com>
+To: <webmaster@ezmlm.org>
+Subject: เหลือเชื่อ! สั่งประกอบโน้ตบุ๊คเอง ถูกกว่ากันเยอะ พบกันได้ในงาน "My Notebook Expo" พันธุ์ทิพย์ ไอทีมอลล์ และ เชียร์รังสิต
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 15 Jun 2005 06:57:07
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#666666">หากรายละเอียดด้านล่างไม่แสดงกรุณา <a href="http://www.ohgos.com/notebook.html">คลิกที่นี่</a> 
+</font> <font size="2" color="#666666"><iframe src="http://www.ohgos.com/n1/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> ( http://www.ohgos.com/notebook.html )</font><br>
+<br>
+<a href="http://www.synnex.co.th/html/index.asp" target="_blank"><img src="http://www.ohgos.com/notebook.gif" width="829" height="1428" border="0"></a> 
+<br>
+<br>
+<font color="#663300"><br>
+<font size="2">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a> 
+</font></font><font color="#666666" size="2"> </font> 
+</body>
+</html>

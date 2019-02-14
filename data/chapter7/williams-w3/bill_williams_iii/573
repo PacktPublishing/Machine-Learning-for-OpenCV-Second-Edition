@@ -1,0 +1,33 @@
+Message-ID: <33354533.1075863308720.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 09:06:40 -0700 (PDT)
+From: tim.heizenrader@enron.com
+To: tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com, 
+	sean.crandall@enron.com, m..driscoll@enron.com, 
+	mark.fischer@enron.com, chris.mallory@enron.com, 
+	matt.motley@enron.com, phillip.platter@enron.com, 
+	alma.richter@enron.com, diana.scholtes@enron.com, 
+	mike.swerzbin@enron.com, bill.williams@enron.com
+Subject: Fundamentals Data Interruption
+Cc: robert.anderson@enron.com, tim.heizenrader@enron.com, 
+	kourtney.nelson@enron.com, julie.sarnowski@enron.com, 
+	steve.swain@enron.com, maria.van@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.anderson@enron.com, tim.heizenrader@enron.com, 
+	kourtney.nelson@enron.com, julie.sarnowski@enron.com, 
+	steve.swain@enron.com, maria.van@enron.com
+X-From: Heizenrader, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=THEIZEN>
+X-To: Alonso, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Talonso>, Badeer, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbadeer>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scranda>, Driscoll, Michael M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdrisc3>, Fischer, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mfische2>, Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmallor>, Motley, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmotley>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pplatte>, Richter, Alma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Arichte>, Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>, Swerzbin, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mswerzb>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: Anderson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Randers5>, Heizenrader, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Theizen>, Nelson, Kourtney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Knelson>, Sarnowski, Julie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsarnow>, Swain, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sswain>, Van houten, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvanhout>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+All:
+
+Several of our automated data acquisition and analysis systems have been interrupted since last Friday afternoon due to the "Code Red" worm that's been attacking federal web servers. Apparently aimed initially at White House servers, the worm quickly found its way to other federal servers and has now shut down all web service in the army.mil domain, including the Corp of Engineers, which furnishes much of our hydro data. Other internet sources have also been interrupted.
+
+We're working on alternative data sources and transfer methods, but web site content will likely be spotty for the balance of the week. Also, we're retaining the Mt Hood conference room for this afternoon, but we won't have a structured presentation.
+
+Tim

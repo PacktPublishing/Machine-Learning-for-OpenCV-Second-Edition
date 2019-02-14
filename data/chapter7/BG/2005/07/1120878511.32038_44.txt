@@ -1,0 +1,87 @@
+Return-Path: <chilefuma@walla.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 18122 invoked from network); 08 Jul 2005 18:12:48 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 08 Jul 2005 18:12:48 -0000
+Received: (qmail 27353 invoked from network); 8 Jul 2005 18:12:48 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx09.futurequest.net ([69.5.6.181])
+  with QMQP via TCP; 08 Jul 2005 18:12:48 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 18116 invoked from network); 08 Jul 2005 18:12:48 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 08 Jul 2005 18:12:48 -0000
+Received: (qmail 1430 invoked from network); 8 Jul 2005 18:12:48 -0000
+Received: from localhost (42-171-5.adsl.cust.tie.cl [200.42.171.5])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 08 Jul 2005 18:12:47 -0000
+Received: from blou ([127.0.0.1])
+	by localhost (Kerio MailServer 6.0.3)
+	for webmaster@ezmlm.org;
+	Fri, 8 Jul 2005 14:03:37 -0400
+Message-ID: <4189-2200575818337546@blou>
+Errors-to: chilefuma@walla.com
+Return-Path: chilefuma@walla.com
+Organization: www.ChileFuma.cl
+From: "ChileFuma.cl" <chilefuma@walla.com>
+To: webmaster@ezmlm.org
+Subject: www.ChileFuma.cl
+Date: Fri, 8 Jul 2005 14:03:37 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+Si no desea seguir recibiendo e-mail de ChileFuma=2Ecl presione aqui
+
+Bajo el decreto S=2E1618 titulo 3ro=2E Aprobado por el 105 congreso en bas=
+e de=20
+las normativas internacionales sobre SPAM, este mail no podr&aacute; ser=20=
+
+considerado SPAM mientras incluya una forma de ser removido=2E
+
+Este mail es enviado una sola vez=2E no lo recibiran denuevo=2E=2E
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://w=
+ww=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml" xml:lang=3D"es" lang=3D"e=
+s">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1" />
+<title>mailing</title>
+</head>
+<body bgcolor=3D"#ffff33">
+<div align=3D"center">
+  <p><a href=3D"http://www=2Echilefuma=2Ecl"><img src=3D"http://www=2Echil=
+efuma=2Ecl/mailing=2Ejpg" border=3D"0"></a>
+</p>
+  <p align=3D"center" class=3D"style2">Si no desea seguir recibiendo e-mai=
+l de ChileFuma=2Ecl <a href=3D"mailto:x@chilefuma=2Ecl" target=3D"_blank">=
+presione aqui</a></p>
+  <p align=3D"center" class=3D"style2">Bajo el decreto S=2E1618 titulo 3ro=
+=2E Aprobado por el 105 congreso en base de <br>
+  las normativas internacionales sobre SPAM, este mail no podr&aacute; ser=
+ <br>
+  considerado SPAM mientras incluya una forma de ser removido=2E</p>
+  <p>Este mail es enviado una sola vez=2E no lo recibiran denuevo=2E=2E</p=
+>
+</div>
+</body>
+</html>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+
+

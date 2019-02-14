@@ -1,0 +1,69 @@
+Received: from uk2mxarray1.uk2.net (83.170.64.225)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:23 -0000
+Received: from root by uk2mxarray1.uk2.net with local (Exim 4.52)
+	id 1Dupw1-0000JV-Bn
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:06:49 +0100
+X-Failed-Recipients: info@oceansoulwatersports.com
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@uk2mxarray1.uk2.net>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupw1-0000JV-Bn@uk2mxarray1.uk2.net>
+Date: Tue, 19 Jul 2005 12:06:49 +0100
+X-SA-Exim-Connect-IP: <locally generated>
+X-SA-Exim-Mail-From: 
+X-SA-Exim-Scanned: No (on uk2mxarray1.uk2.net); SAEximRunCond expanded to false
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@oceansoulwatersports.com
+    (sa) Message rejected by abuse@oceansoulwatersports.com
+    (sa) User profile spam level exceeded
+    
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [61.83.205.164] (helo=mailwisconsin.com)
+	by uk2mxarray1.uk2.net with smtp (Exim 4.52)
+	id 1Dupw0-0000Ik-Ay
+	for info@oceansoulwatersports.com; Tue, 19 Jul 2005 12:06:49 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816277;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@oceansoulwatersports.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-SA-Exim-Connect-IP: 61.83.205.164
+X-SA-Exim-Mail-From: projecthoneypot@projecthoneypot.org
+Subject: Just to her...
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 3.0.4 (2005-06-05) on 
+	uk2mxserver1-10.uk2.net
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.3 required=99.0 tests=DRUGS_ERECTILE,DRUG_DOSAGE,
+	HTML_50_60,HTML_MESSAGE,INFO_TLD,MIME_HTML_ONLY autolearn=no 
+	version=3.0.4
+X-SA-Exim-Version: 4.0 (built Sat, 24 Jul 2004 09:53:34 +0200)
+X-SA-Exim-Scanned: Yes (on uk2mxarray1.uk2.net)
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273500">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

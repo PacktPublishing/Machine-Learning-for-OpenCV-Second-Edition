@@ -1,0 +1,163 @@
+Message-ID: <19453810.1075856641826.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 08:08:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: UK Power/Gas
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tanya Tamarchenko
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince, just FYI:
+Oliver (Risk Control in London) was asking if it is appropriate to use a set 
+of factors corresponding to some commodity for another commodity.
+This "mapping" we do quite frequently in our VAR system when forward prices 
+for a commodity are not correlated (because of poor price history).
+
+I think using this kind of mappings is OK because we can not trust these 
+correlations based on illiquid price information.
+If we believed the matrix with low correlations represents what goes on in 
+the market and we simply can not reconstruct it with our 7 factors - then
+we might use more factors then 7 or the matrix itself. 
+
+Tanya
+
+
+
+
+Tanya Tamarchenko
+12/15/2000 02:36 PM
+To: Oliver Gaylard/LON/ECT@ECT
+cc: David Port/Market Risk/Corp/Enron@ENRON, Rudi Zipter/HOU/ECT@ECT, Wenyao 
+Jia/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT, 
+Naveen Andrews/Corp/Enron@ENRON 
+Subject: Re: UK Power/Gas  
+
+Oliver,
+I completely agree with you: validating VAR inputs like positions, prices and 
+volatilities which are used by RisktRac is the first thing to do.
+You also rise a valid question: if the factor loadings for some commodity do 
+not make sense should we use the factor loadings for another commodity?
+The factor loadings "do not make sense" when the correlations across the term 
+structure are not high. So if we believe that the forward prices for this
+commodity are market prices and statistical analysis on these prices produces 
+the correlations which we trust, then it would be proper to use this
+correlation matrix in VAR engine, not the factors. Using factors is simply 
+the way to speed up calculations for highly correlated prices without 
+sacrificing the accuracy.
+
+Tanya.
+
+
+
+Oliver Gaylard
+12/15/2000 07:11 AM
+To: Naveen Andrews/Corp/Enron@ENRON
+cc: David Port/Market Risk/Corp/Enron@ENRON, Rudi Zipter/HOU/ECT@ECT, Wenyao 
+Jia/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, Tanya Tamarchenko/HOU/ECT@ECT, 
+Ganapathy Ramesh/HOU/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT 
+Subject: Re: UK Power/Gas  
+
+Naveen
+
+Regarding the calculation of UK VaRs in Risk Trac I agree that we should be 
+using this calculation engine for all commodity VaRs. However we should not 
+focus solely on the UK but ensure that we use Risk Trac for continental power 
+and gas, UK power and gas, Nordic Power. 
+
+To use Risk Trac I think the following need to be resolved first, to 
+implement it "right the first time",  as I think it is incorrect to consider 
+the Risk Trac numbers "As the most accurate" since it depends on the validity 
+of these items:
+
+Positions (Delta and gamma) and curve mapping - These need to include all 
+positions including those outside the main risk systems
+ Positions, curves and mapping should now be no problem given the feeds, 
+apart from continental power, have been UAT'd and we have the   spreadsheet 
+feeds up and running.
+
+Price and vol curves - As used by the risk systems
+ As above
+
+Inter commodity correlation - prompt month
+ Correlation should be easy to calculate given an accurate and complete data 
+set (However the incomplete historic data for Europe in Risk   Trac, prior to 
+the formation of the task force, would mean a full data set needs to be 
+obtained and used). Term structure of correlation would be  good but I 
+understand this is difficult to use in the calculation.
+
+Factor loadings
+  I think factor loadings should be calculated, on the same data sets used 
+for inter commodity correlation, for all commodities. If this analysis   does 
+not appear to work I am not sure that using factor loadings for other markets 
+is adequate. Do we need to consider an alternative approach  to calculating 
+VaR for these markets?
+
+To ensure this moves forward I think a list of the mile stones, 
+responsibilities and time lines needs to be drawn up otherwise I fear the 
+process of moving across to Risk Trac from the spreadsheet VaR will 
+experience some slippage.
+
+I will call today to start the process off.
+
+Rgds
+
+Oliver
+
+
+
+
+
+Naveen Andrews@ENRON
+06/12/2000 21:50
+To: Oliver Gaylard/LON/ECT@ECT
+cc: David Port/Market Risk/Corp/Enron@ENRON, Rudi Zipter/HOU/ECT@ECT, Wenyao 
+Jia/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, Tanya Tamarchenko/HOU/ECT@ECT, 
+Ganapathy Ramesh/HOU/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT 
+
+Subject: UK Power/Gas
+
+Oliver,
+          I had a couple of issues pertaining to UK Power/UK Gas.  First, 
+just a few notes as it pertains to Risk Trac UK-implementation:
+
+(1) In RiskTrac, currently all the Gas Curves are mapped to NBP.
+(2) All the Power Curves are mapped to R4 (Cinergy).
+
+Factor loading analysis lends itself only to NBP and the Norewgian curves(for 
+reasons of liquidity, etc).  We have decided that NBP and Cinergy are the 
+best curves available at this time.  
+The spreadsheet which is utilized in the UK also has curves mapped to a 
+2-3-year old set of Factors derived from US Nat Gas, which is clearly not 
+optimal.   Hence
+
+(1) We should be using RiskTrac numbers for VaR, as it is the "most 
+accurate", both in terms of ENE-wide model usage and in terms of the most 
+recent updated data.  Ever since UK Power came on board in RiskTrac 3 weeks 
+ago, the UK Power number has been consistently 7-8MM above the numbers in 
+your spreadsheet.  This difference is to be ecpected, given the different 
+inputs.
+(2) The consistent numbers do not point to a data error in any obvious way, 
+however, if you believe that positions are not captured correctly, please let 
+our IT staff know that.  
+(3) Checks which Ramesh has done indicate that positions are tying in.  
+However, as you know, there could be disconnects with Enpower, etc.
+
+In any event, it would be ideal and optimal to have all the simulations run 
+out of RiskTrac for reasons of aggregation and analysis.  
+Your help is appreciated.
+
+Regards
+Naveen
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+Return-Path: <confirmation8@hotmail.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 14643 invoked from network); 18 Aug 2004 01:22:22 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Aug 2004 01:22:22 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Aug 2004 01:22:22 -0000
+Received: (qmail 548 invoked from network); 18 Aug 2004 01:22:21 -0000
+Received: from 69.5.6.152 (unknown [210.96.254.156])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 18 Aug 2004 01:22:21 -0000
+Xref: 56940233041860
+Language: English
+X-MIME-Autoconverted: Yes
+Alternate-Recipient: Allowed
+Auto-Forwarded: Yes
+Resent-Reply-To: "vibratoWatts" <confirmation8@hotmail.com>
+Reply-To: "vibratoWatts" <confirmation8@hotmail.com>
+From: "vibratoWatts" <confirmation8@hotmail.com>
+To: rait@bruce-guenter.dyndns.org
+Subject: goat
+Date: Tue, 17 Aug 2004 21:13:32 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--29900742502079309"
+Content-Length: 246
+Lines: 9
+
+----29900742502079309
+Content-Type: text/html;
+	charset="iso-1233-8"
+Content-Transfer-Encoding: quoted-printable
+
+<a href=3D"http://www.cremejelly.info"><img src=3D"4.gif" width=3D"783" he=
+ight=3D"250" border=3D"0"></a>
+
+----29900742502079309--

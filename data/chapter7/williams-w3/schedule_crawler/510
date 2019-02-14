@@ -1,0 +1,35 @@
+Message-ID: <746824.1075839965854.JavaMail.evans@thyme>
+Date: Thu, 17 Jan 2002 17:42:25 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: 
+Cc: albert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: albert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	pete.davis@enron.com, ryan.slinger@enron.com
+X-From: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-To: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-cc: Meyers, Albert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BMEYERS>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Dean, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CDEAN2>, dporter3@enron.com, Eric.Linder@enron.com, Solberg, Geir </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GSOLBER>, leaf.harasin@enron.com, monika.causholli@enron.com, Guzman, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MGUZMAN3>, Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>, Slinger, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSLINGER>
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+
+ No ancillary schedules awarded.  Variances detected.
+Variances detected in Load schedule. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> H:\Netco Finals\HA0116 Finals_Load.txt
+
+---- Load Schedule ----
+$$$ Variance found in table LOAD_SCHEDULE.
+     Details: (Hour: 1 / Preferred: 2 / Final: 1.5)
+  TRANS_TYPE: FINAL
+  MKT_TYPE: HA
+  FROM_LOCATION_ID: PGE1
+

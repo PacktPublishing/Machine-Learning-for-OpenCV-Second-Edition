@@ -1,0 +1,96 @@
+Message-ID: <15335471.1075856641667.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 13:15:00 -0800 (PST)
+From: oliver.gaylard@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: UK portfolios and books setup in RisktRac
+Cc: david.port@enron.com, vince.kaminski@enron.com, kirstee.hewitt@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.port@enron.com, vince.kaminski@enron.com, kirstee.hewitt@enron.com
+X-From: Oliver Gaylard
+X-To: Tanya Tamarchenko
+X-cc: David Port, Vince J Kaminski, Kirstee Hewitt
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya
+
+The books were set up incorrectly when the spreadsheet feeds were 
+implemented. This has since been corrected. Currently the European risk trac 
+numbers do not feed into the corporate reporting of VaR.
+
+The books should now contain gas exposures in UK gas and Power in UK power 
+and have no duplication.
+
+I have previously discussed with Naveen and  Kirstee that it would be a good 
+idea if we set up a regular meeting to projecct manage the implementation of 
+European VaR numbers, from risk trac, into the daily reporting. If you have 
+no objections I suggest we discuss this at the next weekly RAC/Research 
+meeting. 
+
+Rgds
+
+Oliver
+
+
+
+
+Tanya Tamarchenko
+03/01/2001 21:05
+To: David Port/Market Risk/Corp/Enron@ENRON, Vince J Kaminski/HOU/ECT@ECT
+cc: Kirstee Hewitt/LON/ECT@ECT, Oliver Gaylard/LON/ECT@ECT 
+
+Subject: Re: UK portfolios and books setup in RisktRac  
+
+David and Vince,
+in my e-mail below I pointed out to a inconsistency in the portfolio 
+hierarchy for UK positions in RisktRac that I found out, 
+namely: some books (for example E1SB1 and E1SB2) belong to UK-GAS portfolio 
+and to UK-POWER portfolio.
+I wanted to clarify this in order to reconcile positions in RisktRac and in 
+the spreadsheet.
+
+Tanya.
+
+
+
+
+Tanya Tamarchenko
+01/03/2001 02:09 PM
+To: Naveen Andrews/Corp/Enron@ENRON, Matthew Adams/Corp/Enron@ENRON
+cc: Rabi De/NA/Enron@ENRON, Jaesoo Lew/NA/Enron@ENRON, Vince J 
+Kaminski/HOU/ECT@ECT 
+Subject: Re: UK portfolios and books setup in RisktRac  
+
+Naveen and Matthew,
+I started looking systematically through UK positions and corresponding VAR 
+numbers in the RisckRac.
+I found a few inconsistencies so far.
+
+1. The portfolio E1SB1-NBP has a book E1SB1 under it.  The sum of delta 
+positions for this book is 
+239,021,655, the sum of gamma positions is -211,031,450. VAR for the 
+portfolio E1SB1-NBP is zero.
+
+The same refers to a few other portfolios, for example E1SB2-NBP, E1SB3-NBP, 
+E2XX1-NBP.
+
+2. The portfolio E1SBP1-PPP also has the book E1SB1 under it. This book 
+contains the positions on PPPWD1
+through PPPWD6 and PPPWE1 through PPPWE4. 
+
+The same refers to the other books, for example E1SB2.
+
+This looks messy.  Can someone in RAC go over all the portfolios, all the 
+corresponding books and curves
+in RisktRac and make sure they are set up properly?
+
+Thank you,
+
+Tanya.
+
+
+
+

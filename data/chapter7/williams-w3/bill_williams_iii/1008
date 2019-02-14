@@ -1,0 +1,30 @@
+Message-ID: <6560005.1075863319263.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 15:39:57 -0700 (PDT)
+From: donald.robinson@enron.com
+To: cara.semperger@enron.com, shift.portland@enron.com
+Subject: MIDC path going real-time
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>
+X-To: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>, Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Due to problems with a Mirant downstream, I had to change a couple of paths late Monday.  The new and improved paths are:
+
+LADWP-CISO(T)LDWP/SYL GF-LDWP(T)SYL/MALIN #LDWP00000178F-LA(T)SYL/MALIN LDWPCA0024-LADWP-MORGAN-BPA(T)MALIN/JD #10031F-BPA(T)JD/PGE #10031NF-MORGAN-AEP-EPMI-CAES-PGE.  Deal numbers 630912 and 556517.
+
+IPCO-IPCO(T)IPCO/LGBP #79606F-IPCO-EPMI-MIRANT-SNOH-BPA(T)LGBP/JD #96092NF-SNOH-MIRANT-BPA(T)JD/MALIN #371697F-CISO(T)MALIN/NP15-MIRANT.  Deal numbers 524174 and 626428.
+
+Both for 25mw on Light-load for 06/05.  I have made a tag, #24026, for the LA to PGE path.  It was made as a preschedule tag, but due to the lateness of it, BPA may deny it just because they can.  If that happens, EPMI real-time will have to make a real-time tag.  You can use my tag as a template.  Late breaking news - my tag went undelivered due to communication failure at PGE, so I faxed the tag to all the counterparties.  Mirant has made tag #5673 for the IPCO to NP15 path.  
+
+All counterparties have been called as of 15:30 and are aware that these schedules are going real-time - that is, their real time groups will call the schedules in to BPA.  EPMI real-time will have to make sure this gets done with a reminder phone call to our counterparties.
+
+I have spoken with PGE/Donna, AEP/Peggy, Mirant/Emily, and IPCO/Perry.  CAES (Conagra) had already gone home for the day and has no real-time.
+
+Any questions?  Please call.
+
+Thanks, Donald Robinson.

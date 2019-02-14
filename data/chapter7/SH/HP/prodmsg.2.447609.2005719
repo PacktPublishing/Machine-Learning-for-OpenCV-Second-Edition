@@ -1,0 +1,88 @@
+Received: from 200-215-102-138.fnsce702.e.brasiltelecom.net.br (HELO developer.inf.br) (200.215.102.138)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:58 -0000
+Received: from localhost (localhost [127.0.0.1])
+	by developer.inf.br (8.12.11/8.12.11) with ESMTP id j6JBtTS9010158
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 08:55:29 -0300
+Received: from developer.inf.br ([127.0.0.1])
+ by localhost (developerlnx [127.0.0.1]) (amavisd-new, port 10024) with LMTP
+ id 10076-03-2 for <projecthoneypot@projecthoneypot.org>;
+ Tue, 19 Jul 2005 08:55:27 -0300 (BRT)
+Received: from localhost (localhost)
+	by developer.inf.br (8.12.11/8.12.11) id j6JBtRdu010152;
+	Tue, 19 Jul 2005 08:55:27 -0300
+Date: Tue, 19 Jul 2005 08:55:27 -0300
+From: Mail Delivery Subsystem <MAILER-DAEMON@developer.inf.br>
+Message-Id: <200507191155.j6JBtRdu010152@developer.inf.br>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JBtRdu010152.1121774127/developer.inf.br"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+X-Virus-Scanned: by amavisd-new at developer.inf.br
+
+This is a MIME-encapsulated message
+
+--j6JBtRdu010152.1121774127/developer.inf.br
+
+The original message was received at Tue, 19 Jul 2005 08:55:23 -0300
+from c124-244.icpnet.pl [62.21.124.244]
+
+   ----- The following addresses had permanent fatal errors -----
+<antonio_sabbanelli@developer.inf.br>
+    (reason: 550 5.1.1 <antonio_sabbanelli@developer.inf.br>... User unknown)
+
+   ----- Transcript of session follows -----
+... while talking to [127.0.0.1]:
+>>> DATA
+<<< 550 5.1.1 <antonio_sabbanelli@developer.inf.br>... User unknown
+554 5.0.0 Service unavailable (<antonio_sabbanelli@developer.inf.br>... User unknown)
+
+--j6JBtRdu010152.1121774127/developer.inf.br
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; developer.inf.br
+Arrival-Date: Tue, 19 Jul 2005 08:55:23 -0300
+
+Final-Recipient: RFC822; antonio_sabbanelli@developer.inf.br
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: SMTP; 550 5.1.1 <antonio_sabbanelli@developer.inf.br>... User unknown
+Last-Attempt-Date: Tue, 19 Jul 2005 08:55:27 -0300
+
+--j6JBtRdu010152.1121774127/developer.inf.br
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (c124-244.icpnet.pl [62.21.124.244])
+	by developer.inf.br (8.12.11/8.12.11) with SMTP id j6JBtHOI010151
+	for <antonio_sabbanelli@developer.inf.br>; Tue, 19 Jul 2005 08:55:23 -0300
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516530;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonio_sabbanelli@developer.inf.br
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973986">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+--j6JBtRdu010152.1121774127/developer.inf.br--
+

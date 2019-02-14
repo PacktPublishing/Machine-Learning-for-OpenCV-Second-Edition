@@ -1,0 +1,54 @@
+Message-ID: <21230370.1075854317848.JavaMail.evans@thyme>
+Date: Thu, 28 Dec 2000 07:17:00 -0800 (PST)
+From: sherlyn.schumack@enron.com
+To: nick.moshou@enron.com
+Subject: Re: Richardson Volumes Nov 99 and Dec 99 Meter 0987283
+Cc: tom.acton@enron.com, thu.nguyen@enron.com, daren.farmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tom.acton@enron.com, thu.nguyen@enron.com, daren.farmer@enron.com
+X-From: Sherlyn Schumack
+X-To: Nick Moshou
+X-cc: Tom Acton, Thu T Nguyen, Daren J Farmer
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Nick,
+I am not sure what happened to this volume.   I cannot tell by the audit 
+trail, but there is a connection between meter HPL meter 987283,  and MIDT 
+989807.   The volume you are referring to is on Mid-Tex Pipeline under meter 
+989807.   It it pathed as a point to point nom with no deal reference.   I do 
+not think this is correct because the deal you reference show HPLC as 
+purchaser.   The volume is in MIPS under meter 989807, but  the supply deal 
+is set up on HPL meter 987283, and the audit trail in Sitara shows the deal 
+was moved from MIDT to HPL.   Get with Thu when she returns to see if she 
+knows anything about this.
+
+
+
+
+
+
+
+
+
+
+Nick Moshou@ENRON
+12/20/2000 09:07 AM
+To: Sherlyn Schumack/HOU/ECT@ECT
+cc:  
+Subject: Richardson Volumes Nov 99 and Dec 99 Meter 0987283
+
+Hi Sherlyn,
+
+Could you check to see why the volumes at this meter were zeroed out for the 
+above months.  We paid Richardson back then and yesterday I noticed that we 
+have a recoverable amount for the entire amounts paid for each month.  The 
+sitara Deal #s are 127856 for Nov and 131729 for Dec.  Let me know if you 
+additionall info from me.
+
+Thanks,
+ nick
+

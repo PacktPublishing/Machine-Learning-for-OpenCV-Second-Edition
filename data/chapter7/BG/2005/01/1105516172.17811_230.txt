@@ -1,0 +1,33 @@
+Return-Path: <tsunami@hope.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28507 invoked by uid 115); 11 Jan 2005 03:54:34 -0000
+Received: from tsunami@hope.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(204.92.123.105):. 
+ Processed in 0.182598 secs); 11 Jan 2005 03:54:34 -0000
+Received: from q0-cgi-bulk.netfirms.com (HELO qmail-cgi-bulk-0.netfirms.com) (204.92.123.105)
+  by churchill.factcomp.com with SMTP; 11 Jan 2005 03:54:32 -0000
+Received: (qmail 73010 invoked from network); 11 Jan 2005 01:50:36 -0000
+Received: from unknown (10.8.8.4)
+  by 0 with QMQP; 11 Jan 2005 01:50:36 -0000
+Date: 11 Jan 2005 01:50:36 -0000
+Message-ID: <20050111015036.55330.qmail@cgi4>
+X-IP: 217.73.164.14
+X-URI: /snd.php
+X-ID: 2324854
+To: bruceg@em.ca
+Subject: Together, We Can Save A Life !
+From: tsunami@hope.com
+Content-Type: multipart/related; boundary="----HTML--MAIL----"
+
+------HTML--MAIL----
+Content-Type: text/html; charset="iso-8859-1"
+
+
+You can help those affected by the tsunamis and the humanitarian crisis they have created, by making a financial gift. All gifts made to this fund as of Dec.26 will be designated for the current crisis . This fund enables us to provide immediate, vital support to the victims in need. 
+
+If you have a donation enquiry this is the bank accont opened for USD deposits:
+
+Account NR. USD - RO46CARP000USD0041800081
+SWIFT CODE      - CARPRO22
+
+You can help, every cent counts!

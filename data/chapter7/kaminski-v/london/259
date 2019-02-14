@@ -1,0 +1,46 @@
+Message-ID: <3955468.1075857050551.JavaMail.evans@thyme>
+Date: Tue, 21 Mar 2000 14:10:00 -0800 (PST)
+From: anjam.ahmad@enron.com
+To: martina.angelova@enron.com, trena.mcfarland@enron.com
+Subject: PPI Index Short-Term Models
+Cc: dale.surbey@enron.com, stinson.gibner@enron.com, zimin.lu@enron.com, 
+	vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dale.surbey@enron.com, stinson.gibner@enron.com, zimin.lu@enron.com, 
+	vince.kaminski@enron.com
+X-From: Anjam Ahmad
+X-To: Martina Angelova, Trena McFarland
+X-cc: Dale Surbey, Stinson Gibner, Zimin Lu, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Martina & Trena,
+
+I made a few minor changes to the models...  I reckon these models can be 
+checked in Houston now - the raw data is included (see attached spreadsheets) 
+and all the regression parameters and main statistics are displayed.  I 
+became interested in how far DZCV and PLLU should be below RPI and whether 
+this model is reflecting any reversion to the RPI level; I believe that the 
+forecasts are accurately reflecting this.  Please see graphs below:
+
+
+
+Both models really need our RPI curve to be linked (at the moment I have just 
+copied the 2.3% number forward).  Because the auto-regressive error term is 
+not very important, we can run the models forward with reasonable 
+confidence.  As I mentioned, I don't think we can really run this model more 
+than 12 months, in fact, I think we should run for 9-12 months and blend the 
+next 3-4 months out with the long-term model.
+
+Hope I can fix the long-term ones now with some new insight!
+
+Regards,
+
+Anjam
+x35383
+
+PLLU:    DZCV:
+  

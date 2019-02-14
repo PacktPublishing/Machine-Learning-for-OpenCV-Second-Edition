@@ -1,0 +1,94 @@
+Return-Path: <xola@mines-power.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 6047 invoked from network); 16 Aug 2004 13:57:32 -0000
+Received: from unknown (HELO smtp.mailix.net) (216.148.213.132)
+  by churchill.factcomp.com with SMTP; 16 Aug 2004 13:57:32 -0000
+Received: from [192.168.8.8] (helo=localhost)
+	by smtp.mailix.net with asmtp (Exim 4.24-H)
+	id 1BwhvY-0002W7-VR; Mon, 16 Aug 2004 06:53:32 -0700
+Received: from 193.220.26.98 ([193.220.26.98]) 
+	by webmail.namezero.com (IMP) with HTTP 
+	for <xola@mines-power.com@192.168.0.109>; Mon, 16 Aug 2004 15:53:31 +0200
+Message-ID: <1092664411.4120bc5b53ea0@webmail.namezero.com>
+Date: Mon, 16 Aug 2004 15:53:31 +0200
+From: Collins Xola <xola@mines-power.com>
+To: xola@mines-power.com
+MIME-Version: 1.0
+User-Agent: Internet Messaging Program (IMP) 3.2.3
+X-Originating-IP: 193.220.26.98
+X-SA-Exim-Mail-From: xola@mines-power.com
+Subject: Hello.
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on westvirginia.backend
+X-Spam-Report: 
+	*  2.7 SUB_HELLO Subject starts with "Hello"
+	*  0.7 RISK_FREE BODY: Risk free.  Suuurreeee....
+	*  0.1 LINES_OF_YELLING_2 BODY: 2 WHOLE LINES OF YELLING DETECTED
+	*  0.0 LINES_OF_YELLING BODY: A WHOLE LINE OF YELLING DETECTED
+	*  2.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?193.220.26.98>]
+	*  1.6 NIGERIAN_BODY1 Message body looks like a Nigerian spam message 1+
+X-Spam-Status: No, hits=7.3 required=10.0 tests=LINES_OF_YELLING,
+	LINES_OF_YELLING_2,NIGERIAN_BODY1,RCVD_IN_BL_SPAMCOP_NET,RISK_FREE,
+	SUB_HELLO autolearn=no version=2.63
+X-Spam-Level: *******
+X-SA-Exim-Version: 3.1 (built Thu Oct 23 13:26:47 PDT 2003)
+X-SA-Exim-Scanned: Yes
+X-uvscan-result: clean (1BwhvY-0002W7-VR)
+
+COLLINS XOLA (CHIEF ACCOUNTANT)
+DEPT OF MINERALS & ENERGY,
+MINERALIA CENTRE, PRETORIA,
+REPUBLIC OF SOUTH AFRICA.
+
+xola@mines-power.com
+
+ATTENTION; Sir/Madam,
+
+
+I decided to write you even though we not are personally acquainted
+which is largely due to time factor and the recent directive from
+the presidency that all outstanding contractual obligations and
+all contracts duly completed be settled before the end of this
+quarter and the tension this has generated here.
+
+Within the last 3yrs my two colleagues and I in my ministry
+incharge of contract procurement and payment over-invoiced
+contracts to the sum $30m and the fund is now ready for
+payment into any foreign account - the original contractors have
+been paid.  All we need from you to successfully transfer the
+fund is to sign the contract / transfer documents with the
+contract award committee which signing activates the release of
+the funds from our ministry's foreign account with worldwide
+securites in the Europe into your account.  We as civil
+servants are not allowed by law to operate foreign bank accounts
+nor make claims as contractors!
+
+If you agree to assist us, we have resolved to allocate 35percent
+to you while the remaining will be for us here bearing in mind
+that we are three.  I must at this juncture let you know that this
+transaction is one hundred percent safe, risk free and legitimate
+as long as you do not tell anybody about it.  Invariably, we
+require strict confidentiality having perfected all documents for
+a successful transfer.  Infact, we have documents to show that
+your friends here in South Africa helped you to procure the contract,
+funded and executed it on your behalf.
+
+Due to time constraints and security purposes, you must reply
+this email as soon as you can, furnishing me with your phone and
+Fax numbers for easy access.  Please feel free to ask any
+questions as I am ready to explain any aspect you do not
+understand.
+
+Yours Faithfully,
+
+COLLINS XOLA
+
+======================================================
+THIS MAIL EMANATES FROM THE ACCOUNTS DEPARTMENT IN THE
+MINERALIA CENTRE - A DEPARTMENT OF FEDERAL MINISTRY OF
+MINES & ENERGY SOUTH AFRICA. PLEASE DELETE IF RECEIVED
+IN ERROR OR NOTIFY US: ACCOUNTS@MINES-POWER.COM
+======================================================
+

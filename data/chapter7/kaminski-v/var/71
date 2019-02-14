@@ -1,0 +1,50 @@
+Message-ID: <7332321.1075856642313.JavaMail.evans@thyme>
+Date: Thu, 24 Aug 2000 08:21:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: naveen.andrews@enron.com
+Subject: Re: Backtesting
+Cc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+X-From: Vince J Kaminski
+X-To: Naveen Andrews
+X-cc: Vince J Kaminski, Vasant Shanbhogue
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Naveen,
+
+Most of these tests have been already coded. The code and the associated
+spreadsheets may have been lost inn the sands of time. Please, check with
+Vasant: it may save you some time.
+
+Vince
+
+
+
+
+
+Naveen Andrews@ENRON
+08/23/2000 05:51 PM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: Backtesting
+
+Vince,
+             I am currently implementing the backtesting features into our 
+Risk Management system.  I distributed the following document at our research 
+meeting today; it outlines the conventional binomial test and some other 
+tests, including the Basle regulatory test.   Of course, no one test is 
+powerful and the efficacy of these tests breakdown for low sample sizes, 
+etc.  If you can think of other tests to complement these, please let me know.
+
+Regards
+Naveen
+
+ 
+
+
+

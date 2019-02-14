@@ -1,0 +1,71 @@
+Message-ID: <29935344.1075856603606.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 10:54:00 -0800 (PST)
+From: michael.tribolet@enron.com
+To: rabi.de@enron.com, martin.o'leary@enron.com, connie.estrems@enron.com, 
+	william.bradford@enron.com
+Subject: RE: Credit Reserve Simulation for EES
+Cc: tanya.tamarchenko@enron.com, amitava.dhar@enron.com, 
+	vince.kaminski@enron.com, seksan.kiatsupaibul@enron.com, 
+	paulo.issler@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tanya.tamarchenko@enron.com, amitava.dhar@enron.com, 
+	vince.kaminski@enron.com, seksan.kiatsupaibul@enron.com, 
+	paulo.issler@enron.com
+X-From: Michael Tribolet
+X-To: Rabi De, Martin O'Leary, Connie Estrems, William S Bradford
+X-cc: Tanya Tamarchenko, Amitava Dhar, Vince J Kaminski, Seksan Kiatsupaibul, Paulo Issler
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+One the outputs would be expected loss for each of the trials (flat file) and 
+a graph depicting the distribution (example below from an early Owens 
+Illinois model) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -----Original Message-----
+From:  De, Rabi  
+Sent: Thursday, February 22, 2001 3:20 PM
+To: O'Leary, Martin; Tribolet, Michael; Estrems, Connie; Bradford, William
+Cc: Tamarchenko, Tanya; Dhar, Amitava; Kaminski, Vince; Kiatsupaibul, Seksan; 
+Issler, Paulo
+Subject: Credit Reserve Simulation for EES
+
+ Amitava and Seksan have identified the source of the discrepancy between the 
+option prices calculated by the credit-reserve model and the stand-alone 
+spreadsheet model used in deal pricing.  We expect to put a fix in place by 
+tomorrow.  
+
+In response to your desire to see more output from credit reserve simulation, 
+I have identified a list of possible items that may be of interest to you for 
+credit pricing. 
+
+1.  Potential Exposure across time
+
+2.  For each simulated credit event, display:
+default time
+exposure -- is deal-by-deal breakdown of any interest?
+commodity forward curves (or spot price ?) at default time
+
+I would appreciate it if you could let me know your wish list at your 
+earliest.
+Thanks,
+Rabi De
+5-4593

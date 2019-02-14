@@ -1,0 +1,56 @@
+Message-ID: <25166368.1075854130353.JavaMail.evans@thyme>
+Date: Mon, 24 Apr 2000 08:42:00 -0700 (PDT)
+From: steve.wood@enron.com
+To: dan.mccairns@enron.com, ragan.bond@enron.com, brad.horn@enron.com, 
+	robert.shiring@enron.com, gregory.schockling@enron.com, 
+	karen.mcilvoy@enron.com, anita.patton@enron.com, 
+	sharon.o'farrell@enron.com, marcie.holtman@enron.com, 
+	dan.mccairns@enron.com, benjamin.markey@enron.com, 
+	amy.felling@enron.com, brad.blevins@enron.com, 
+	cathy.phillips@enron.com, chris.sonneborn@enron.com, 
+	daren.farmer@enron.com, edward.terry@enron.com, 
+	earl.tisdale@enron.com, ginger.causey@enron.com, 
+	gary.hanks@enron.com, gerald.nemec@enron.com, jeff.gilliam@enron.com, 
+	james.mckay@enron.com, john.merkert@enron.com, 
+	jesse.villarreal@enron.com, kathy.hilliard@enron.com, 
+	lauri.allen@enron.com, lal.echterhoff@enron.com, 
+	lee.pinkston@enron.com, molly.carriere@enron.com, 
+	mark.knippa@enron.com, mike.mcconnell@enron.com, 
+	mike.morris@enron.com, mary.smith@enron.com, 
+	michael.winders@enron.com, nathan.hlavaty@enron.com, 
+	robert.morgan@enron.com, silver.breaux@enron.com, 
+	sam.garner@enron.com, sean.smith@enron.com, steve.weller@enron.com, 
+	leonard.dillehay@enron.com, alisha.guerrero@enron.com, 
+	charlotte.hawkins@enron.com, aimee.lannou@enron.com, 
+	jenny.latham@enron.com, stella.morris@enron.com, 
+	david.oliver@enron.com, susan.trevino@enron.com, 
+	jackie.young@enron.com, steven.chambers@enron.com, 
+	scott.sitter@enron.com, ken.choyce@enron.com
+Subject: Popsprd Migration
+Cc: david.stadnick@enron.com, michael.kaspereit@enron.com, 
+	kenneth.ellerman@enron.com, robert.henry@enron.com, 
+	aaron.jang@enron.com, gregory.lind@enron.com, inja.chun@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.stadnick@enron.com, michael.kaspereit@enron.com, 
+	kenneth.ellerman@enron.com, robert.henry@enron.com, 
+	aaron.jang@enron.com, gregory.lind@enron.com, inja.chun@enron.com
+X-From: Steve Wood
+X-To: Dan McCairns, Ragan Bond, Brad Horn, Robert Shiring, Gregory Schockling, Karen D McIlvoy, Anita K Patton, Sharon O'Farrell, Marcie Holtman, Dan McCairns, Benjamin Markey, Amy Felling, Brad Blevins, Cathy Phillips, Chris Sonneborn, Daren J Farmer, Edward Terry, Earl Tisdale, Ginger Causey, Gary A Hanks, Gerald Nemec, Jeff Gilliam, James McKay, John Merkert, Jesse Villarreal, Kathy Hilliard, Lauri A Allen, Lal Echterhoff, Lee Pinkston, Molly L Carriere, Mark Knippa, Mike McConnell, Mike Morris, Mary M Smith, Michael C Winders, Nathan L Hlavaty, Robert D Morgan, Silver Breaux, Sam Garner, Sean J Smith, Steve Weller, Leonard Dillehay, Alisha Guerrero, Charlotte Hawkins, Aimee Lannou, Jenny Latham, Stella L Morris, David Oliver, Susan D Trevino, Jackie Young, Steven Chambers, Scott Sitter, Ken Choyce
+X-cc: David Stadnick, Michael Kaspereit, Kenneth W Ellerman, Robert Henry, Aaron Jang, Gregory Lind, Inja Chun
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The Popsprd bridge will be migrated to Nahou-Scacl1 on April 26th for 
+debugging purposes. This migration should be transparent for Pops users with 
+the exception of personal spread sheets using Pops tags. The node name for 
+Pops tags on personal spread sheets will need to be changed to Nahou-Scacl1 
+to allow for updating of Pops data.
+
+
+Please call me if you have any questions concerning the migration.
+
+
+-Steve

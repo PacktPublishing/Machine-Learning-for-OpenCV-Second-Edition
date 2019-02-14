@@ -1,0 +1,43 @@
+Message-ID: <27052413.1075840787716.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 18:22:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: isranir@rice.edu, demianen@rice.edu, tbal93@yahoo.com, maue@rice.edu, 
+	loughrid@rice.edu, jblantonjr@yahoo.com, gjohnson@rice.edu, 
+	emchombo@rice.edu, nazareth@rice.edu, vanstone@rice.edu, 
+	ganguzza@rice.edu, nelsonb@rice.edu, sssmith@rice.edu, 
+	wheelock@rice.edu, westmore@rice.edu, gaudette@rice.edu, 
+	otaylor@rice.edu, dikeman@rice.edu, jettke@rice.edu, litton@rice.edu, 
+	chilkina@rice.edu, helms@rice.edu, wankhade@rice.edu, 
+	monfan@rice.edu, kostya@rice.edu, pcp@rice.edu, yueguo@rice.edu, 
+	nlwbio@rice.edu, zhangn@rice.edu, rishad@rice.edu, yoshiura@rice.edu, 
+	howard@rice.edu, dayangd@rice.edu, wuwei@rice.edu, so@rice.edu, 
+	wooddy@rice.edu, lamas@rice.edu, tbalestrery@houston.rr.com, 
+	hingoran@rice.edu, planck@rice.edu
+Subject: Term Project:
+Cc: vkaminski@aol.com, vince.kaminski@enron.com, jason.sokolov@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkaminski@aol.com, vince.kaminski@enron.com, jason.sokolov@enron.com
+X-From: Vince J Kaminski
+X-To: isranir <isranir@rice.edu>, demianen <demianen@rice.edu>, tbal93 <tbal93@yahoo.com>, maue <maue@rice.edu>, loughrid <loughrid@rice.edu>, jblantonjr <jblantonjr@yahoo.com>, gjohnson <gjohnson@rice.edu>, emchombo <emchombo@rice.edu>, nazareth <nazareth@rice.edu>, vanstone <vanstone@rice.edu>, ganguzza <ganguzza@rice.edu>, nelsonb <nelsonb@rice.edu>, sssmith <sssmith@rice.edu>, wheelock <wheelock@rice.edu>, westmore <westmore@rice.edu>, gaudette <gaudette@rice.edu>, otaylor <otaylor@rice.edu>, dikeman <dikeman@rice.edu>, jettke <jettke@rice.edu>, litton <litton@rice.edu>, chilkina <chilkina@rice.edu>, helms <helms@rice.edu>, wankhade <wankhade@rice.edu>, monfan <monfan@rice.edu>, kostya <kostya@rice.edu>, pcp <pcp@rice.edu>, yueguo <yueguo@rice.edu>, nlwbio <nlwbio@rice.edu>, zhangn <zhangn@rice.edu>, rishad <rishad@rice.edu>, yoshiura <yoshiura@rice.edu>, howard <howard@rice.edu>, dayangd <dayangd@rice.edu>, wuwei <wuwei@rice.edu>, so <so@rice.edu>, wooddy <wooddy@rice.edu>, lamas <lamas@rice.edu>, tbalestrery <tbalestrery@houston.rr.com>, hingoran <hingoran@rice.edu>, planck <planck@rice.edu>
+X-cc: vkaminski <vkaminski@aol.com>, Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>, Jason Sokolov <Jason Sokolov/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+This is the list of projects for the members of the "quant" team.
+If you are working on different project, please, ignore this message.
+
+Please, develop in a spreadsheet solutions/examples for the following:
+
+1. Black-Scholes formula
+2. Black's formula
+3. Develop a spreadsheet to simulate price trajectory using:
+	a. GBM
+	b. GBM + jump (Formula 2.16 in the book, Figure 2.7)
+	c. Mean reversion + jump (Formula 2.17, Figure 2.8)
+4. Schwartz Single Factor Model (Formula 6.12)
+5. Develop models corresponding to the Figures 7.1, 7.3, 7.5, 7.6, 7.8
+
+Vince

@@ -1,0 +1,56 @@
+Message-ID: <31236025.1075840851227.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 12:31:00 -0800 (PST)
+From: tommy.yanowski@enron.com
+To: brian.redmond@enron.com, louise.kitchen@enron.com, philippe.bibi@enron.com
+Subject: FW: AEP
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tommy Yanowski <Tommy Yanowski/ENRON@enronXgate@ENRON>
+X-To: Brian Redmond <Brian Redmond/HOU/ECT@ECT>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+It looks like EOL will have a full T1 link with AEP in place next week.  I will review this with Network Security and see if there are any issues.  AEP will still need to have their interfaces built and ready.  Enron should be ready to start testing our side by the end of this month and work out any issues in April.
+
+I talked to Dawn Fournier about space in Three Allen and they are working on trying to free up a floor.  Currently there is not a whole floor available.  If they are successful then we will need to see what is currently set up on the floor and come up with the best plan for getting the space up and running ASAP.  To do so we may need to provide network and telephony services instead of waiting on AEP to build out their servers & install a phone switch.
+
+Let me know if there are any questions.  -  Tommy
+
+ -----Original Message-----
+From: 	Hillier, Bob  
+Sent:	Thursday, March 08, 2001 9:06 AM
+To:	Yanowski, Tommy J.
+Subject:	RE: AEP
+
+I am pretty sure that it is a full T1.  Hopefully the routing will be worked out next week.  The only thing left would be to make sure that the EOL business folks are OK with using it for this as well as the direct connect to EOL.
+
+I will pass this by Bob Shults who is heading up this project.
+
+bbh
+
+ -----Original Message-----
+From: 	Yanowski, Tommy J.  
+Sent:	Thursday, March 08, 2001 7:51 AM
+To:	Hillier, Bob
+Subject:	RE: AEP
+
+I believe Louise would like to close by May but that would mean needing the link in place by early April so that we could test and be ready to go April Bid Week for May production.
+
+Do you know what the size of the link is?  Is it a full T1? 
+
+Thanks for all of your help.  I hate to bother you but Louise and Skillings want to close ASAP.  Enron must need the cash.   -  Tommy
+
+ -----Original Message-----
+From: 	Hillier, Bob  
+Sent:	Wednesday, March 07, 2001 10:41 PM
+To:	Yanowski, Tommy J.
+Subject:	AEP
+
+It does not look like AEP has its link up yet.  The last note I got said that they were still working on some routing issues.
+
+What is your timeline for this look like.
+
+bbh

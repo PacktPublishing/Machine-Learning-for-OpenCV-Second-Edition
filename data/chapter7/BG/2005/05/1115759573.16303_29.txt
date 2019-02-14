@@ -1,0 +1,53 @@
+Return-Path: <zuthlkjkdngf@glay.org>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 24161 invoked from network); 10 May 2005 00:52:45 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 10 May 2005 00:52:45 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 10 May 2005 00:52:45 -0000
+Received: (qmail 28891 invoked from network); 10 May 2005 00:52:44 -0000
+Received: from host217-34-176-44.in-addr.btopenworld.com (unknown [217.34.176.44])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 10 May 2005 00:52:43 -0000
+Message-ID: <Q440F5FX4P816Y04RE43LZL88970863O344113@217.34.176.44>
+Content-Class: urn:content-classes:newsletter
+Location: 977 curtail the
+Reply-To: "Rafael Gomez" <zuthlkjkdngf@glay.org>
+From: "Rafael Gomez" <zuthlkjkdngf@glay.org>
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Application approval #199
+Date: Tue, 10 May 2005 03:50:36 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--9766443533779842496"
+Content-Length: 575
+Lines: 27
+
+----9766443533779842496
+Content-Type: text/plain;
+	charset="iso-9750-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.goodwayz.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Young Nixon
+
+http://www.goodwayz.com/x/st.html
+
+
+
+----9766443533779842496--

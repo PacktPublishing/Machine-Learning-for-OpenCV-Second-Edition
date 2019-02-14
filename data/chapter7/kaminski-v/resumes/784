@@ -1,0 +1,127 @@
+Message-ID: <2156570.1075857069229.JavaMail.evans@thyme>
+Date: Thu, 10 Feb 2000 09:26:00 -0800 (PST)
+From: stinson.gibner@enron.com
+To: pinnamaneni.krishnarao@enron.com, ravi.thuraisingham@enron.com, 
+	vince.kaminski@enron.com
+Subject: Re: Trip to Houston
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stinson Gibner
+X-To: Pinnamaneni Krishnarao, Ravi Thuraisingham, Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Another student invited by Tom Gros to come next Wednesday.
+--Stinson
+
+---------------------- Forwarded by Stinson Gibner/HOU/ECT on 02/10/2000 
+05:25 PM ---------------------------
+
+
+Paulo Rocha e Oliveira <paulo@MIT.EDU> on 02/10/2000 12:04:56 PM
+To: "Stinson Gibner" <Stinson.Gibner@enron.com>
+cc:  
+Subject: Re: Trip to Houston
+
+
+Stinson,
+
+Thank you for your e-mail.  My phone number is (617) 492-9551.  I don't
+have a currect resume, but if I did it would say that I graduated from
+Princeton University in 1996 (mathematics), and came straight to MIT for a
+PhD in Operations Management at the Sloan Schoolof Management.  In my first
+three years I took all the required coursework in mathematics,
+optimization, stochastic processes, etc., as well as a number of courses in
+psychology (at MIT and Harvard).  I am working with Prof. Gabriel Bitran,
+and I am interested in the mathematical modeling of service operations.  In
+particular, I am interested in the interaction between customers and
+companies (hence the interest in psychology).  The (tentative) title of my
+PhD thesis is "Pricing Substitute Products on the Internet", and I am
+sending you the summary which I sent to Tom Gros a few weeks ago that will
+give you an idea of what this research is about.
+
+Thanks again, and I'm looking forward to meeting you and your research
+group next week.
+
+Paulo
+
+
+Pricing Substitute Products on the Internet
+
+
+Objective:
+
+To develop new tools to decide pricing policies for goods and services sold
+on
+the internet.
+
+
+Motivation:
+
+This reseach is motivated by the fact that traditional choice and optimization
+models are not appropriate for internet-related businesses.  The technological
+innovations associated with the internet brought about an overload of
+information
+which inevitably affects the ways in which consumers make choices.
+Furthermore,
+companies have a great deal of influence on how much information consumers can
+have access to.
+
+The problem of pricing substitute products is an important strategic issue
+faced
+by internet companies.  Consumers usually search for generic products (e.g,
+VCRs
+or computers) without knowing exactly what they will buy.  Companies can show
+different products and different prices to each consumer.  This type of
+flexibility
+was not available until the internet came about.
+
+The problem of pricing substitute products is not unique to the internet.  The
+methodology developed by this research should be transferrable to a number of
+other settings, such as pricing services.  Services are unique, and there are
+many cases where customers will only buy one of many services offered by a
+given company.  Our model will help companies decide which services to offer
+to which customers and how much to charge for these services.
+
+
+Research Strategy:
+
+Our research strategy is to divide the pricing problem into two components
+which can be combined to generate optimal pricing strategies.  These
+components are choice models and optimization models.
+
+
+Choice Models:
+
+Choice models describe how customers make choices.  The management literature
+draws on two main sources for these models: psychology and economics.  The
+common approach in psychology models is to use what are called heuristic
+elimination methods.  These methods consist of the elimination of options
+based on the sequential eliminations of features until only one choice
+remains.
+These methods tend to be very context-specific and do not lend themselves very
+easily to mathematical analysis.  Economists focus on utility-maximing models
+that are significantly more mathematically tractable than psychological
+models.
+The most common economic model of choice is the logit model.  The problem with
+these types of models is that they are not very accurate reflections of how
+consumer make choices on the internet.  The first step in our research will
+be
+to develop choice models that capture the interactions going on between
+customers
+and companies on the internet.
+
+Optimization:
+
+Traditionally, the optimization problem consists of maximizing revenue over a
+certain planning horizon.  On the internet, the problem of maximizing revenue
+still exists, but there is also a need to learn about customers.  Short term
+profit is based on sales, but long term profit is based on how well you know
+your customers and are able to retain them.  The optimization problem must
+therefore include a short term component (sales) and a long term component
+(learning).
+
+

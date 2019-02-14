@@ -1,0 +1,49 @@
+Message-ID: <5294403.1075856592427.JavaMail.evans@thyme>
+Date: Mon, 18 Sep 2000 10:30:00 -0700 (PDT)
+From: michael.anderson@enron.com
+To: bob.lee@enron.com
+Subject: Re: Joint Probabilities
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+X-From: Michael Anderson
+X-To: Bob Lee
+X-cc: Stinson Gibner, Vince J Kaminski, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bob -
+
+Thanks for your help on this - it is exactly what we were looking for.  I 
+also wanted to let you know that I will be revising some of these numbers and 
+asking you to rerun the probability table.  I hope that this is not a problem.
+
+thanks again
+
+
+
+
+	Bob Lee@ENRON
+	08/31/00 11:00 AM
+		
+		 To: Michael Anderson/HOU/AZURIX@AZURIX
+		 cc: Zimin Lu/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT, Stinson 
+Gibner/HOU/ECT@ECT
+		 Subject: Re: Joint Probabilities
+
+The attached spreadsheet has been updated to include probabilities for 
+exceeding stated stock prices in each year.  
+
+These numbers represent the probability for all combinations of RAB ratio and 
+exchange rate.  For example, 2003 shows a stock value of 7.38 for a RAB=1.1 
+and Fx=1.5.  We previously showed the prob of exceeding a stock price of 
+7.38, AND RAB > 1.1, Fx > 1.5 as 14%.  The probability of exceeding 7.38 for 
+all possible values of RAB and Fx is 35% (interpolating between 40% and 27% 
+in the price table).
+
+Bob
+
+

@@ -1,0 +1,152 @@
+Return-Path: <world@promex.com.mx>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3797 invoked by uid 115); 26 Jan 2005 16:14:33 -0000
+Received: from world@promex.com.mx by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.57.135.180):. 
+ Processed in 0.175403 secs); 26 Jan 2005 16:14:33 -0000
+Received: from dns.data4b.com.mx (HELO comprasdigitales.com) (200.57.135.180)
+  by churchill.factcomp.com with SMTP; 26 Jan 2005 16:14:32 -0000
+Received: from j-g8sjfgz8zj8m1 [200.57.135.181] by comprasdigitales.com
+  (SMTPD32-6.00) id A47D7040224; Wed, 26 Jan 2005 10:27:48 -0600
+From:     WORLD DIDACT <world@promex.com.mx>
+To:         <bruceg@em.ca>
+Date: Wed, 26 Jan 2005 18:25:27 GMT
+X-MSMail-Priority: Normal
+X-mailer: AspQMail 2.0 4.03 (QSM295712F)
+Subject: Asiste a World Didac
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <200501261027916.SM01268@j-g8sjfgz8zj8m1>
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;=
+ charset=3Diso-8859-1">
+</head>
+
+<body><img=
+ src=3D"http://www=2Eiliux=2Ecom/track=2Ejsp?id=3Dbruceg@em=2Eca&c=3DPRMX_20010=
+5" width=3D"1" height=3D"1" border=3D"0">
+<div align=3D"center">
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+    <!-- fwtable fwsrc=3D"Untitled" fwbase=3D"principal=2Ejpg"=
+ fwstyle=3D"Dreamweaver" fwdocid =3D "742308039" fwnested=3D"0" -->
+    <tr> 
+      <td><img src=3D"spacer=2Egif" width=3D"97" height=3D"1" border=3D"0"=
+ alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"135" height=3D"1" border=3D"0"=
+ alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"271" height=3D"1" border=3D"0"=
+ alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"97" height=3D"1" border=3D"0"=
+ alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"1" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"4"><img name=3D"principal_r1_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r1_c1=2Ejpg" width=3D"600" height=3D"442" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"442" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><a=
+ href=3D"http://www=2Eworlddidacmexico=2Ecom/ExpoPlano=2Easp"=
+ target=3D"_blank"><img name=3D"principal_r2_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r2_c1=2Ejpg" width=3D"232" height=3D"34" border=3D"0"=
+ alt=3D"Plano"></a></td>
+      <td rowspan=3D"8" colspan=3D"2"><img name=3D"principal_r2_c3"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r2_c3=2Ejpg" width=3D"368" height=3D"217" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"34" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><img name=3D"principal_r3_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r3_c1=2Ejpg" width=3D"232" height=3D"15" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"15" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><a=
+ href=3D"http://www=2Eworlddidacmexico=2Ecom/Informacion=2Easp"=
+ target=3D"_blank"><img name=3D"principal_r4_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r4_c1=2Ejpg" width=3D"232" height=3D"33" border=3D"0" alt=3D"Informaci=F3n=
+ Visitante"></a></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"33" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><img name=3D"principal_r5_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r5_c1=2Ejpg" width=3D"232" height=3D"23" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"23" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><a=
+ href=3D"http://www=2Eworlddidacmexico=2Ecom/Expositores=2Easp"=
+ target=3D"_blank"><img name=3D"principal_r6_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r6_c1=2Ejpg" width=3D"232" height=3D"33" border=3D"0" alt=3D"Informaci=F3n=
+ Expositor"></a></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"33" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><img name=3D"principal_r7_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r7_c1=2Ejpg" width=3D"232" height=3D"18" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"18" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><a=
+ href=3D"http://www=2Eworlddidacmexico=2Ecom/Registro=2Easp"=
+ target=3D"_blank"><img name=3D"principal_r8_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r8_c1=2Ejpg" width=3D"232" height=3D"34" border=3D"0"=
+ alt=3D"Registro"></a></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"34" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><img name=3D"principal_r9_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r9_c1=2Ejpg" width=3D"232" height=3D"27" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"27" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td rowspan=3D"2"><img name=3D"principal_r10_c1"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r10_c1=2Ejpg" width=3D"97" height=3D"41" border=3D"0" alt=3D""></td>
+      <td colspan=3D"2"><a href=3D"http://www=2Eworlddidacmexico=2Ecom"=
+ target=3D"_blank"><img name=3D"principal_r10_c2"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r10_c2=2Ejpg" width=3D"406" height=3D"25" border=3D"0" alt=3D"World Didac=
+ 2005"></a></td>
+      <td rowspan=3D"2"><img name=3D"principal_r10_c4"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r10_c4=2Ejpg" width=3D"97" height=3D"41" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"25" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+    <tr> 
+      <td colspan=3D"2"><img name=3D"principal_r11_c2"=
+ src=3D"http://www=2Epromex=2Ecom=2Emx/comunicados/world/didac/principal_=
+r11_c2=2Ejpg" width=3D"406" height=3D"16" border=3D"0" alt=3D""></td>
+      <td><img src=3D"spacer=2Egif" width=3D"1" height=3D"16" border=3D"0"=
+ alt=3D""></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

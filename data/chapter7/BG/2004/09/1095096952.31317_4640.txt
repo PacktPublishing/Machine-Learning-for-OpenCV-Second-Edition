@@ -1,0 +1,83 @@
+Return-Path: <gdfq16yrx@msn.com>
+Delivered-To: em-ca-bait-snooping@em.ca
+Received: (qmail 4855 invoked by uid 115); 9 Sep 2004 02:28:05 -0000
+Received: from gdfq16yrx@msn.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.132.34.82):. 
+ Processed in 2.120306 secs); 09 Sep 2004 02:28:05 -0000
+Received: from unknown (HELO 209.5.178.248) (61.132.34.82)
+  by churchill.factcomp.com with SMTP; 9 Sep 2004 02:28:02 -0000
+Received: from [172.211.231.251] by 209.5.178.248 with ESMTP id 9CF6CB82A4E; Wed, 10 Sep 2003 07:29:48 +0400
+Message-ID: <i74r88437ee$$q-67bb9--k3ng$3$t@rnm.y8>
+From: "Sylvester Green" <gdfq16yrx@msn.com>
+Reply-To: "Sylvester Green" <gdfq16yrx@msn.com>
+To: bait-smoothes@em.ca
+Subject: our offer
+Date: Wed, 10 Sep 03 07:29:48 GMT
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="81234_D95C.DE_C140_175"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+
+--81234_D95C.DE_C140_175
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>We are a leading e-mail marketin</title>
+</head>
+
+<body>
+
+<p align=3D"center"><u><b><font size=3D"4">&nbsp;</font></b></u></p>
+<p>We are a leading e-mail marketing company with constantly updated and r=
+egularly validated&nbsp; 
+Double Opt-In e-mail addresses 
+segmented by <u><b>Country</b></u> and by <b><u>type of activity.</u></b><=
+/p>
+<p>&nbsp;</p>
+<p><u><font size=3D"4"><b>O</b></font></u><b><u><font size=3D"4">ur Key Fe=
+atures 
+include:</font></u></b></p>
+<ul>
+	<li>Geographic or Demographic targeting </li>
+	<li>Valid from e-mail addresses</li>
+	<li>Web Based response forms </li>
+	<li>Live Tracking reports </li>
+	<li>24/7&nbsp; support.</li>
+</ul>
+<p>To learn more about our e-mail marketing services , kindly
+<a href=3D"mailto:tellmemoreinformation@yahoo.com?subject=3Dsend us more i=
+nformation please">click here</a></p>
+<p>Our services do comply with the CAN SPAM ACT 2003</p>
+<p>&nbsp;</p>
+<table id=3D"table1" cellSpacing=3D"0" cellPadding=3D"0" width=3D"515" ali=
+gn=3D"center" border=3D"0">
+	<tr>
+		<td>
+		<p dir=3D"ltr" align=3D"left"><font size=3D"2">The preceding 
+		advertisement was sent you by virtue of your participation in the 
+		Special Product Offerings of our e-mail networking services or our 
+		partners. To unsubscribe from receiving further emails from our e-mail 
+		networking services Special Product Offerings please
+		</font><font color=3D"#000000" size=3D"2">
+		<a style=3D"text-decoration: underline" href=3D"mailto:emailxwebmaster@y=
+ahoo.com?subject=3Dremove us please">
+		<font color=3D"#000000">click here</font></a></font><font size=3D"2">. 
+		</font></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+
+--81234_D95C.DE_C140_175--
+

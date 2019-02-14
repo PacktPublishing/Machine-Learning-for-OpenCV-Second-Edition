@@ -1,0 +1,211 @@
+Message-ID: <17502995.1075856613002.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 10:03:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: bernard.murphy@caminus.com
+Subject: RE: Thesis on Electricity Price Jump-Diffusions
+Cc: vkaminski@aol.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkaminski@aol.com, vince.kaminski@enron.com
+X-From: Vince J Kaminski
+X-To: "Murphy, Bernard" <Bernard.Murphy@caminus.com> @ ENRON
+X-cc: vkaminski@aol.com, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bernard,
+
+My coordinates:
+
+Vincent Kaminski
+Managing Director - Research
+Enron Corp.
+1400 Smith Street
+Room EB1962
+Houston, TX 77002-7361
+
+Phone: (713) 853 3848
+ (713) 410 5396 (cell)
+Fax  :  (713) 646 2503
+E-mail: vkamins@enron.com
+
+Yes, we are going into a very interesting summer both here and in the UK. 
+
+
+Vince
+
+
+
+
+
+
+"Murphy, Bernard" <Bernard.Murphy@caminus.com> on 03/27/2001 01:23:04 AM
+To: "'Vince.J.Kaminski@enron.com'" <Vince.J.Kaminski@enron.com>
+cc:  
+Subject: RE: Thesis on Electricity Price Jump-Diffusions
+
+
+Hi Vince,
+
+Can you e-mail me your mailing address in Houston and I will send you a hard
+copy of the above today.  Apologies for delay, but I wanted to ensure that
+Les Clewlow had received his copy in Sydney before distributing any other
+copies.
+
+Incidentally, today (March 27th) is a red letter day in the UK as the NETA /
+new electricity trading arrangements have gone 'live'.  Should be
+interesting to observe the development of the paper market in the coming
+months - you're no doubt aware that IPE have just launched an electricity
+futures contract.
+
+Regards
+
+Bernard
+
+
+
+
+
+-----Original Message-----
+From: Vince.J.Kaminski@enron.com [mailto:Vince.J.Kaminski@enron.com]
+Sent: 01 March 2001 15:37
+To: Murphy, Bernard
+Cc: vkaminski@aol.com; Vince.J.Kaminski@enron.com
+Subject: RE: 1997 Risk paper on Pricing of Electricity Derivatives
+
+
+
+Bernard,
+
+Yes, I can  read a DVI file. You can also  cc
+my home address: Vkaminski@aol.com. I shall
+try to send you an answer to your question on weekend.
+
+Vince
+
+
+
+
+
+"Murphy, Bernard" <Bernard.Murphy@caminus.com> on 03/01/2001 09:18:58 AM
+
+To:   "'Vince.J.Kaminski@enron.com'" <Vince.J.Kaminski@enron.com>
+cc:
+Subject:  RE: 1997 Risk paper on Pricing of Electricity Derivatives
+
+
+Vince,
+
+I can send you a Scientific Word DVI file (at the weekend) if you can read
+SCientific Word files ?  The dissertation hasn't been reviewed by Les or
+the
+External yet - although its been at FORC for 2 months. I think that the
+Empirical Chapter is probably the one which would be of most relevance to
+both our company's businesses - although I ultimately didn't have the time
+to 'explicitly' price the jump risk-premium which I conjectured is possibly
+implicit in the prices of exchange-traded electricity futures-options -
+rather I developed an implicit estimation procedure which will enable a
+rough assessment (with a little bit of further work, but not too much) be
+made of the price of jump risk in wholesale power markets.
+
+In other words, I assumed spot jump-risk to be undiversifiable, and
+essentially devoted 2 Theoretical Chapters to :
+
+1) proving that a jump-diffusion trading model is "incomplete"
+(synthesising
+the securities markets framework with martingale representation theory) -
+note that I did not assume that markets could be dynamically completed with
+'term structure' securities as in the HJM w/ jumps papers of Shirakawa and
+Das and;
+
+2) deriving an explicit risk-adjustment process for 'implementing' the
+price
+of jump-risk using a jump-diffusion marginal indirect utility of wealth
+process (ie. a jump-augmented production economy approach in the spirit of
+CIR, Bates, Ahn & Thompson).
+
+
+Incidentally, I would be keen to find out if you or any of your team done
+much work on real-asset valuations in a spark-spread option-valuation
+framework ?  I'm about to start a project evaluation of embedded
+optionality, and have a dilemna whether I should model the spot or forward
+gas / power price processes.  With the former, I can model mean-reversion
+and jumps explicitly (obviously, important for capturing the optionality of
+out-of-the-money plant, which might otherwise be ignored in a
+pure-diffusion
+framework) but am not maximising the informational content of the available
+market data (that is, assuming there was a long-term market forward curve
+for electricity); whereas in the latter the driftless forward supposition
+means that I have to capture mean-reversion via the futures volatility
+function, and jumps are less easy to calibrate.  Any suggestions ?
+
+Regards
+
+
+Bernard
+
+
+
+
+
+-----Original Message-----
+From: Vince.J.Kaminski@enron.com [mailto:Vince.J.Kaminski@enron.com]
+Sent: 01 March 2001 14:54
+To: Murphy, Bernard
+Cc: Shirley.Crenshaw@enron.com; Vince.J.Kaminski@enron.com
+Subject: Re: 1997 Risk paper on Pricing of Electricity Derivatives
+
+
+
+Bernard,
+
+I am forwarding your message to my assistant and she will mail you a
+reprint.
+I would be glad to take a look at your dissertation. Is it available as a
+publication, working paper?
+
+Vince
+
+
+
+
+
+"Murphy, Bernard" <Bernard.Murphy@caminus.com> on 03/01/2001 02:17:39 AM
+
+To:   "'Vince.J.Kaminski@enron.com'" <Vince.J.Kaminski@enron.com>
+cc:
+Subject:  1997 Risk paper on Pricing of Electricity Derivatives
+
+
+Hello Vince,
+
+My name is Bernard Murphy - I received your e-mail address from Les
+Clewlow,
+who was my PhD supervisor at the Financia Options Research Centre at
+Warwick
+Business School.  I've just finished my PhD on Electricity Price Jump
+Diffusions :  A Theoretical and Empirical Study in Incomplete Markets -
+hence my interest in electricity price modelling and derivative pricing.  I
+was looking to get hold of a copy of your 1997 paper, which has recently
+come to my attention :
+
+"The Challenge of Pricing & Risk-Managing Electricity Derivatives", The US
+POwer Market, Risk Publications, pp. 149-171.
+
+and Les suggested that I contact you directly (Les is travelling at present
+and doesn't have an electronic copy available) to request an e-copy.
+
+Incidentally, I am Lecturer in Finance / Financial Mathematics at
+University
+of Limerick (Ireland) and have taken a year out to work for Caminus UK,
+where I am working on introducing and developing a markets-based approach
+(spark-spread) to real asset valuations in the UK power industry.
+
+Thanks in advancve
+
+Bernard Murphy
+
+
+

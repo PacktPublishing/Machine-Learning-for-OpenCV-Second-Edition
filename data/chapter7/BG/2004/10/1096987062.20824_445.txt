@@ -1,0 +1,48 @@
+Return-Path: <scorn.731loci@albaultrasound.com>
+Received: (fqmail 24594 invoked from network); 05 Oct 2004 10:24:28 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 05 Oct 2004 10:24:28 -0000
+Received: (qmail 12541 invoked from network); 5 Oct 2004 10:24:28 -0000
+Received: from 69.5.6.171 ([218.74.179.170])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 05 Oct 2004 10:24:27 -0000
+Received: from shear2bimetallismhowell (24.72.973.58) by mail4065.over21.com (pulloverendogamy NX 2.8.164)
+        id 79JP6GQW766UMM91 for bugs@ezmlm.org; Tue, 05 Oct 2004 06:25:29 -0400
+X-MIME-Autoconverted: Yes
+Disclose-Recipients: No
+Discarded-X400-MTS-Extensions: Yes
+Alternate-Recipient: Allowed
+X-No-Archive: Yes
+Reply-To: "Byron*Weiss" <depressive.phalanx@over21.com>
+From: "Byron*Weiss" <depressive.phalanx@over21.com>
+To: bugs@ezmlm.org
+Cc: webmaster@ezmlm.org
+Subject: Here is your New Password
+Date: Tue, 05 Oct 2004 05:24:29 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--50287649229860672"
+
+----50287649229860672
+Content-Type: text/html;
+	charset="iso-9818-3"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible to receive $400,000 with a 2.1% rate.
+<p>
+Please verify your information here:<br>
+ <a href="http://lenderto.net/?partid=rm2342">http://lenderto.net/?partid=rm2342</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<p>
+
+Byron*Weiss, Client Account Manager<br>
+Lawrence Financial Association<br>
+220 Central Avenue<br>
+Columbus, OH 43085
+</html>
+
+----50287649229860672--

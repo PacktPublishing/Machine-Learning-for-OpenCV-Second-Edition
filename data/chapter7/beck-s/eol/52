@@ -1,0 +1,86 @@
+Message-ID: <11364655.1075855871675.JavaMail.evans@thyme>
+Date: Fri, 25 Feb 2000 01:52:00 -0800 (PST)
+From: sheri.thomas@enron.com
+To: louise.kitchen@enron.com
+Subject: Update...while you were out
+Cc: sally.beck@enron.com, amita.gosalia@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, amita.gosalia@enron.com
+X-From: Sheri Thomas
+X-To: Louise Kitchen
+X-cc: Sally Beck, Amita Gosalia
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Just wanted to catch you up on the events over the past week....and a couple 
+of things I want to talk to you about next week
+
+REPORTING:
+It has been a continual challenge as you well know.  The good news is the 
+individual from EES (Chris Luttrell) accepted Jay's offer today and he is 
+going to start on March 3.  
+That said, I talked to Chris today and filled him in on where we are and what 
+we want to accomplish.  He feels our best option will be Oracle.  
+To ensure we are prepared for his arrival next Monday, we are preparing the 
+detail of what we are doing today, both our assumptions and all of the 
+various data sources for our current management reporting
+Also, Dave and I met with Wanda and Georgeanne on Tuesday regarding revenue.  
+I believe Dave sent you an update of this meeting.  We are meeting with 
+Georgeanne today to go over our assumptions, conversions, etc. to ensure that 
+we are consistent with those conversations in the annual report, and to 
+ensure that we are capturing all of the Enron data
+Customer database - we have been fine tuning this all week, and I think we 
+are about there.  There are still some minor differences, but we are working 
+to sort through these today (everyone is involved in the tie out).  I will 
+review the new report format with you on Monday and we will start sending 
+this out then.
+We also have an Access person that is working on improving our current 
+database since we will have to live with this in the short term.
+
+TRADING ACTIVITY:
+It seems that we are seeing an increase in customers wanting to modify EOL 
+deals for various reasons (one being Web latency...they are claiming that the 
+deal did not show up on their transaction summary, so they thought it did not 
+go through, and they did another deal...and this first deal appeared sometime 
+later).  We have continued to emphasize the importance of not changing these 
+deals after they are completed, but despite this, it is still happening.  I 
+am going to try and track down Jeff Shankman this afternoon to discuss.
+We are also seeing more and more customers trading under the wrong 
+entities...for example, Aquila Risk Mgmt is executing physical deals, when 
+they should be only executing financial deals.  From my understanding, we 
+have "left the door open" for them to trade either way and are relying on 
+them to trade under the correct counterparty.  This is causing several 
+problems downstream..for instance, customers are wanting ENA to send modified 
+invoices with the name of the correct counterparty (despite the fact that 
+they were the ones transacting under the wrong entity).   We need to discuss 
+how leaving this door open affects our downstream processes.
+
+OTHER:
+I talked to both Dave and Bob yesterday to ensure that we were in the loop on 
+new products, etc. to ensure that we are better prepared for the launch of 
+new products (e.g. Credit Derivatives).  
+Help desk news...Matt M. accepted a position with the Remedy development 
+team.  We are going to move Noel (he works nights) to the day shift to take 
+over Matt's role.  Donna assures me that he is very good.  Sandy Rivas also 
+wants to leave the group.  We should be able to handle the volume of calls 
+without replacing them.  I need to go over some call statistics with you next 
+week.  We have not received one phone call from a customer on the weekends, 
+and we receive less than .1 calls per hour between the hours of  7pm to 
+midnight.  I think we can get away with eliminating weekends, and using on 
+call pagers from 7 to midnight.
+One question - we currently are considering EES an external counterparty and 
+Enron Canada an internal counterparty.  We are now trading with Bridgeline 
+Gas Marketing (joint venture with Texaco - 40% ownership).  We need to 
+determine what we are considering internal vs external.   I would think these 
+would be external due to the fact that these are settled transactions...  any 
+thoughts?
+
+I know this is a lot of info, but I also know you are going to be in high 
+demand on Monday!
+
+I hope you are enjoying your ski trip!!!
+
+Sheri

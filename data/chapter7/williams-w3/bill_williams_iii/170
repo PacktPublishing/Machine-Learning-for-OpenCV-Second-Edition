@@ -1,0 +1,25 @@
+Message-ID: <7886110.1075863299145.JavaMail.evans@thyme>
+Date: Wed, 22 Aug 2001 13:19:57 -0700 (PDT)
+From: david.poston@enron.com
+To: scotty.gilbert@enron.com, p..o'neil@enron.com, chris.stokley@enron.com, 
+	bill.williams@enron.com
+Subject: Interim Solution for Real-Time EOL deals
+Cc: m..docwra@enron.com, pete.davis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m..docwra@enron.com, pete.davis@enron.com
+X-From: Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPOSTON2>
+X-To: Gilbert, Scotty </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgilber>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Moneil>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: Docwra, Anna M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Adocwra>, Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pdavis1>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Afternoon,
+
+With the go-live date for FSP/VMS still in question, we have decided that we will build interim solution for CAPS.  There will be a new button added to the main menu of caps called "Upload RT EOL".  This new function will prompt the user to input a date & an hour.  The new function will then select west-hourly, EOL, SC trades from Enpower for the date & hour selected & insert the rows in CAPS.
+
+Please let me know immediately if anyone has any concerns or questions, we are starting on this work ASAP.
+
+Thanks,  Poston

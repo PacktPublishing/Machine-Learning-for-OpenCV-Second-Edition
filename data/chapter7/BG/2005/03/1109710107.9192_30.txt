@@ -1,0 +1,29 @@
+Return-Path: <aw-confirm@ebay.com>
+Received: (fqmail 10693 invoked from network); 01 Mar 2005 20:48:10 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 01 Mar 2005 20:48:10 -0000
+Received: (qmail 20897 invoked from network); 1 Mar 2005 20:48:10 -0000
+Received: from home.geler.biz (home.geler.biz [64.62.176.138])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 01 Mar 2005 20:48:08 -0000
+Received: from [212.118.12.11] (helo=aseel-skqpk3w8p)
+	by home.geler.biz with esmtpa (Exim 4.44)
+	id 1D6Du9-0001DG-Rp; Tue, 01 Mar 2005 12:23:51 -0800
+From: "eBay" <aw-confirm@ebay.com>
+Subject: Renew Your Account Information
+To: AGA@list.k12.ar.us
+Content-Type: text/html;iso-8859-1
+Reply-To: aw-confirm@ebay.com
+Date: Tue, 1 Mar 2005 22:23:42 +0200
+X-Priority: 3
+X-Library: Indy 8.0.25
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - home.geler.biz
+X-AntiAbuse: Original Domain - ezmlm.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ebay.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+

@@ -1,0 +1,78 @@
+Message-ID: <17085102.1075849860537.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 07:53:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: hal.elrod@enron.com
+Subject: ERD Review
+Cc: thomas.gros@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: thomas.gros@enron.com
+X-From: Mary Solmonson
+X-To: Hal Elrod
+X-cc: Thomas D Gros
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Here's a summary of our conversation so you have points to follow up with.
+
+General Status of the Database model: 
+ FIX not represented - need to incorporate into common design and standardize 
+- might cause some FIX rework.
+ Referential Integrity not entirely enforced  - potential for bad data to 
+develop. 
+ Snapshots from Global databases are currently daily - this can be easily 
+changed to be more frequent, but need to consider implementation as 
+decision   on direction of Global as a part of Commodity Logic is made. 
+ Rate information not developed - need integration with Rate Server or MKM, 
+preferably MKM. Need to define how MKM will be used-whether just for index  
+names or to obtain actual settlement prices or curves as well.
+ Application development is not currently occurring on a single version of 
+the database.  Therefore, some issues could arise as each development team   
+migrates to the standard. This needs to happen relatively quickly.
+
+Specific Issues:
+ GFD_PIPE_METERS_SNP -  Probably need to add FAC_TYPE (WH, ITE, etc) for 
+possible use as validation in KX functionality
+ GAS_DEAL_LOCATION_DTL -  This table refers to facility number rather than 
+pipe and meter.  Facility number is an Enronism that no other company 
+will      recognize.  
+ Pipe and Meter General -   Should try to avoid using Pipe_Cd as key.  This 
+value needs to be updateable as pipelines are bought and sold.
+    -   Data for Facilities is heavily dependent upon Enron Global Facilities 
+Database in current design and functionality-this      needs revisiting as 
+the decision surrounding Global is made 
+ CP_ADDR_VW  - This table references only internal_cp_id and contact_type_cd 
+in conjunction with address_id.  Addresses are specific to      
+internal_cp_id, product_cd, deal_nature_cd, contact_type_cd, and region_cd.  
+Need to add deal nature, product, and      region to ensure correct address 
+usage since many companies align their business along these determinants 
+and      addresses may vary
+ COUNTERPARTY - There is a mixture of the usage of Global Counterparty.  Some 
+areas indicate a certain amount of independence from      Enron's Global 
+Counterparty system, by having a table to capture Commodity Logic information 
+on a counterparty such      as phone numbers, credit ratings, etc. This would 
+position CL to become independent at a later date.  Yet, Commodity      Logic 
+functions as a subset of Enron Networks and GCP must make entries to indicate 
+the usage of a customer by Enron      Networks to obtain an SAP id and 
+support payment processing through to SAP.  So, CL could not become 
+independent      without further functionality or process changes.  So why 
+not put the added data requirements within GCP to start with?   If      
+Global moves to Commodity Logic, then this design needs to be revisited for 
+sure.  There should probably be some      standardization between 
+dependence/independence whether or not CL separates from Enron. 
+ Common Data  - Status is not included in the views being utilized by the 
+applications.  I hope the views have been filtered for active       status 
+only.  Show was going to check on this.
+    - Concept of mapping others' codes to ours for processing, is not 
+supported anywhere in these tables.  Perhaps       that has been handled in 
+an isolated manner in the FIX design? This will have to be there for internal 
+release as well as      external release.  This is critical to the hub 
+concept.
+
+I look forward to sitting in on your meetings surrounding these issues.  Let 
+me know if you have further questions.
+  
+
+

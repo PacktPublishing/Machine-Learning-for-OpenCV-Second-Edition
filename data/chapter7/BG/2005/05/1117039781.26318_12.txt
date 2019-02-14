@@ -1,0 +1,63 @@
+Return-Path: <Ektjnjqxp@supernews.com>
+Delivered-To: info@bruce-guenter.dyndns.org
+Received: (qmail 24498 invoked from network); 25 May 2005 05:30:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 25 May 2005 05:30:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 25 May 2005 05:30:16 -0000
+Received: (qmail 17820 invoked from network); 25 May 2005 05:30:15 -0000
+Received: from lh (unknown [221.145.74.237])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 25 May 2005 05:30:14 -0000
+From: "Casey Werner" <Ektjnjqxp@supernews.com>
+To: info@bruce-guenter.dyndns.org
+Subject: Friendly notification
+Date: Wed, 25 May 2005 04:18:51 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_PJIVBHNU.TUMPGXYK"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 1884
+Lines: 40
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_PJIVBHNU.TUMPGXYK
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+THIS IS OUR ABSOLUTE NOTICE
+We have aimed to make contact with you on multiple opportunities and this is our final attempt!
+
+Your present home loan certifies  you for up to a 3.40% lower rate.
+
+However, thanks to our previous attempts to make contact with you didn't work,
+this will be our final try to finalize  in the lower rate.
+
+Please end your final step upon receiving this notice immediately,and complete your application now.
+
+
+Request Form Here.
+
+If your decision is not to make use of this final offer going here will help you to do so.
+
+------=_NextPart_000_0000_PJIVBHNU.TUMPGXYK
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<BODY bgColor=#ffffff>
+<FONT face=Verdana size=2>THIS IS OUR ABSOLUTE NOTICE<P>
+We have aimed to make contact with you on multiple opportunities and this is our final attempt!<P>
+Your present home loan certifies  you for up to a 3.40% lower rate.<P>
+However, thanks to our previous attempts to make contact with 
+you didn't work,<BR>this will be our final try to finalize  the lower rate.<P>
+Please end this final step upon receiving 
+this notice immediately,and complete your application now.<P><P>
+
+<A HREF="http://rds.yahoo.com/S=7137881/K=computer/v=0/SID=f/l=WS1/R=1/SS=66862436/IPC=us/SHE=0/H=0/SIG=236zsweBQ47/EXP=124609900/*-http://google.com.s1gns.net/mortgage.asp">Request Form Here.</A><P>
+
+If your decision is not to make use of this final offer going <A HREF="http://rds.yahoo.com/S=3763728/K=computer/v=4/SID=m/l=WS1/R=1/SS=76221783/IPC=us/SHE=0/H=0/SIG=971zaOG6799/EXP=954100529/*-http://google.com.s1gns.net/deletion.asp"> here</A> will help you to do so.</FONT></BODY></HTML>
+
+------=_NextPart_000_0000_PJIVBHNU.TUMPGXYK--

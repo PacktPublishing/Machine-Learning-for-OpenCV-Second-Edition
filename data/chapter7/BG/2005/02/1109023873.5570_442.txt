@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-birdcall@em.ca
+Received: (qmail 3188 invoked by uid 115); 2 Feb 2005 12:20:48 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.144.56):. 
+ Processed in 5.097699 secs); 02 Feb 2005 12:20:48 -0000
+Received: from unknown (HELO sapo.pt) (82.155.144.56)
+  by churchill.factcomp.com with SMTP; 2 Feb 2005 12:20:38 -0000
+Date: Wed, 02 Feb 2005 11:58:55 +0000 (Hora padrão de GMT)
+From: CARNIVAL 2005 <carnavalemlisboa@sapo.pt>
+To: bait-birdcall@em.ca
+Message-ID: 38385.499247685184_28531141464964
+Subject: CARNIVAL 2005 press release
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Carnival 2005</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#CCCCCC" text="#000000" link="#FF3300" vlink="#FF3300" alink="#FF3300" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="487" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="87" rowspan="3" background="http://p001.no.sapo.pt/carnival/nl/imagens/strips.gif">&nbsp;</td>
+    <td><a href="http://www.heartandsoul.pt"><br>
+    <img src="http://p001.no.sapo.pt/carnival/nl/imagens/carnival_top.jpg" width="400" height="197" border="0"></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td bgcolor="#EEEEEE"><p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank">&raquo; Carnival 2005</a></font></strong></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/carnival-small.jpg" alt="Carnival 2005" width="150" height="212" hspace="15" border="1" align="right"></a>O Carnaval este ano traz um evento &agrave; capital que dificilmente ser&aacute; esquecido no seio dos amantes da dance scene, e n&atilde;o s&oacute;...</font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Com o melhor da m&uacute;sica electr&oacute;nica nacional e internacional, <a href="http://www.heartandsoul.pt" target="_blank">Heart and Soul</a> orgulha-se de vos proporcionar um evento que vos far&aacute; dan&ccedil;ar durante largas horas.</font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como &eacute; Carnaval, ningu&eacute;m leva a mal e por isso mascara-te de clubber e aparece no Pavilh&atilde;o de Portugal, segunda-feira 7 de Fevereiro!</font></p></td>
+      </tr>
+      <tr>
+        <td><p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.heartandsoul.pt" target="_blank">&raquo;Artistas</a></strong></font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/daveclarke.jpg" alt="Dave Clarke" width="75" height="90" hspace="5" border="1" align="left"></a><strong>Dave Clarke</strong><br>
+  Conhecido por todos e um &iacute;cone do mundo do techno, Dave Clarke &eacute; por muitos considerado a personifica&ccedil;&atilde;o do techno actual.</font></p>          </td>
+      </tr>
+      <tr>
+        <td><div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/missdjax.jpg" alt="Miss Djax" width="75" height="90" hspace="5" border="1" align="left"></a><strong>Miss Djax</strong><br>
+          Para al&eacute;m de excelente DJ &eacute; tamb&eacute;m a fundadora da editora Djax records reconhecida pelo grande p&uacute;blico apreciador do techno.</font></div></td>
+      </tr>
+      <tr>
+        <td><div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/jrobertson.jpg" alt="Justin Robertson" width="75" height="90" hspace="5" border="1" align="left"></a><strong>Justin Robertson</strong><br>
+          Com uma carreira bastante diversificada, iniciou-se nos clubs de Manchester onde foi DJ e forte influ&ecirc;ncia nos ent&atilde;o admiradores, futuramente conhecidos por The Chemical Brothers.</font></div></td>
+      </tr>
+      <tr>
+        <td><div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/apaul.jpg" alt="A.Paul" width="75" height="90" hspace="5" border="1" align="left"></a><strong>A.Paul</strong><br>
+&Eacute; um dos pioneiros do techno portugu&ecirc;s, contando com mais de 15 anos de carreira e votado 3 vezes consecutivas como Melhor DJ Techno Nacional.</font></div></td>
+      </tr>
+      <tr>
+        <td><div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/xlgarcia.jpg" alt="XL Garcia" width="75" height="90" hspace="5" border="1" align="left"></a><strong>XL Garcia</strong><br>
+              Sem duvida alguma um dos djs portugueses mais carism&aacute;tico. Sua versatilidade musical &eacute; a sua caracteristica dominante.<br>
+        </font></div></td>
+      </tr>
+      <tr>
+        <td><div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/dicarlo.jpg" alt="DiCarlo" width="75" height="90" hspace="5" border="1" align="left"></a><strong>DiCarlo</strong><br>
+  Seu estilo que varia desde do deep house ao techno demonstra a sua versatilidade e permitiram-no tocar desde pequenos clubes a grandes festas</font></div></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"><p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.heartandsoul.pt" target="_blank">&raquo; Bilhetes</a></strong> </font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>In&iacute;cio</strong> <br>
+  O evento iniciar&aacute; &agrave;s 22h do dia 7 de Fevereiro e prolongar-se-&aacute; at&eacute; &agrave;s 10h de 8 de Fevereiro.</font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">              <strong>Bilhetes</strong><br>
+            Entrada - 25 euros <br>
+  Bilhetes &agrave; venda no Multibanco, Pavilh&atilde;o Atl&acirc;ntico, El Corte Ingl&ecirc;s, ABEP, Ag Alvalade, Lojas Fnac (Colombo, Chiado, Almada, Cascais, St. Catarina, Norte Shopping, Gaia Shopping).</font> </p></td>
+      </tr>
+      <tr>
+        <td><p><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt" target="_blank">&raquo; Informa&ccedil;&otilde;es</a></font></strong></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <strong>Telem&oacute;vel:</strong> 93.9334402 <br>
+              <strong>Email:</strong> <a href="mailto:info@heartandsoul.pt">info@heartandsoul.pt </a> <br>
+              <strong>Web:</strong> <a href="http://www.heartandsoul.pt" target="_blank">www.heartandsoul.pt</a></font></p>          </td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"><p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://www.heartandsoul.pt" target="_blank">&raquo; Passatempo</a></strong></font></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Participa e habilita-te a uma das 5 entradas di&aacute;rias que a Heart and Soul est&aacute; a oferecer aos visitantes do site <a href="http://www.heartandsoul.pt" target="_blank">www.heartandsoul.pt</a>.</font></p>
+          <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Boa sorte!</font> </p></td>
+      </tr>
+    </table>      </td>
+  </tr>
+  <tr>
+    <td><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/carnival/nl/imagens/sponsors.jpg" alt="Sponsors" width="400" height="325" border="0"></a></td>
+  </tr>
+</table>
+<br>
+<table width="487" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="justify"><font color="#999999" size="1" face="Arial, Helvetica, sans-serif">Esta mensagem &eacute; enviada sob a nova legisla&ccedil;&atilde;o sobre correio Electr&oacute;nico, Sec&ccedil;&atilde;o 301, Par&aacute;grafo (a) (2) (c) Decreto S 1618, T&iacute;tulo Terceiro aprovado pelo 105&ordm; Congresso Base das Normativas Internacionais sobre o SPAM. "Um e-mail n&atilde;o poder&aacute; ser considerado SPAM quando inclui uma forma de ser removido". <br />
+  Para remover o seu e-mail, devolva-nos uma mensagem com a palavra "REMOVER" na linha de assunto.</font></div></td>
+  </tr>
+</table>
+<br>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

@@ -1,0 +1,54 @@
+Message-ID: <32750599.1075840859914.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 07:05:50 -0800 (PST)
+From: tim.belden@enron.com
+To: john.lavorato@enron.com, louise.kitchen@enron.com
+Subject: Wholesale and Retail Power Systems
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TBELDEN>
+X-To: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+About a month ago I held a  meeting in Houston to bring together the systems, operations, and commercial people who were responsible for designing and building our wholesale and retail systems.  There were probably twenty people there, including Beth Perlman, Anthony Dayao, Beth Appollo, Bob Hall, Leslie Reeves, Lloyd Will, Todd Busby, Greg Woulfe, Rogers Herndon, Murray O'Neil, Steve Nat, Jeff Richter, Thresa Allen, Pablo ?, Mark Pickering, Dale Furrow, and many more.  
+
+Two of my suspicions were confirmed in this meeting.  First, it was clear that there were a bunch of people working in silos.  Beth's group was just starting to talk to Anthony's group.  The site profile team wasn't on the same page as Richter who wasn't necessarily in sync with Herndon.  EES and ENA (and for that matter east ENA and west ENA) volume management and RTO settlements people weren't talking to one another.  Second, it was clear that nobody had tried to map out what all of the necessary functions are and how they should fit together.  We tasked Todd Busby, Debra Bailey, and Lloyd Will to spend a month talking to each group and "drawing the picture" of all of the systems that were being worked on and how they should fit together.  They brought in a couple of people from Accenture to assist with this project.
+
+The powerpoint presentation below documents their findings.  I would encourage you to look at pages 11 through 15 which summarize the issues and recommendations.  Here are the highlights:
+Power IT and operations remain organizationally divided between Wholesale and Retail
+Settlements development efforts are not global
+Create one power IT & one operations organization for retail and wholesale power
+Create power program management team to coordinate business requirements for trading, risk, settlements & volume mngt across wholesale and retail desks
+
+Our systems and operations efforts are in chaos right now in terms of getting prepared for the future of wholesale and retail power.  If you think about how decisions and priorities are established you have a half dozen commercial people (me, Richter, Presto, Will, Herndon, Woulfe, ...) working with a few operations people (White, Appollo, Albrecht, O'Neil, Hall) and a handful of systems people (Dayao, Nat, Stock, Perlman) to come up with a plan.  It just isn't working.  We need a structure and we need it fast.  Chaos is expensive and ineffective.
+
+Here's what I want:
+One Operations Person Responsible for Wholesale and Retail Power
+One Systems Person Responsible for Wholesale and Retail Power
+One Commercial Person Responsible for Overseeing All Wholesale and Retail Power Systems Development
+One Project Manager Working for the Commercial Person to Coordinate and Run Herd Over These Efforts.
+
+There are a number of variants of what I want that could work.  We need to get this thing figured out ASAP.  Please advise on how you recommend moving forward.
+
+ -----Original Message-----
+From: 	Bailey, Debra  
+Sent:	Tuesday, November 06, 2001 10:05 AM
+To:	Belden, Tim
+Cc:	Will, Lloyd; Busby, Todd; Richter, Jeff
+Subject:	version 5 - small tweaks only (not required)
+
+Tim,
+
+I made the following changes to the presentation which are not required for your distribution if you have already sent it out:
+
+1.  page 10 first bullet - changed "one power and operations organization" to "one power and one operations organization" .
+
+2.  page 11 - modified colors to clarify point 
+
+
+Debra
+
+ 

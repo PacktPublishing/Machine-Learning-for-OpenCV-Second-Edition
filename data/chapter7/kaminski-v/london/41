@@ -1,0 +1,54 @@
+Message-ID: <14252419.1075856609132.JavaMail.evans@thyme>
+Date: Mon, 6 Nov 2000 04:31:00 -0800 (PST)
+From: steven.leppard@enron.com
+To: sharad.agnihotri@enron.com
+Subject: Sharad's Houston visit
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Steven Leppard
+X-To: Sharad Agnihotri
+X-cc: Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Sharad
+
+As expected we didn't get time to discuss in detail what to do in Houston.  
+We have discussed the subject informally, but I'm laying it out here for 
+clarity, and for Vince/Stinson's information.  Here are my thoughts:
+
+1. Exotica.  This is the top priority, as you'd rightly identified yourself.
+ a. Learn how to build xlls.
+ b. Catalogue functions in Houston Exotica not yet available in London.
+ c. Catalogue differences between inputs to London and Houston Exotica 
+functions.
+ d. Produce London xll that allows current function calls to be used where 
+possible, and incorporates new functions.
+ e. Update documentation as appropriate.
+ If you do nothing else in your two weeks, I'll be very happy with this.  
+Main contacts are Paulo and Zimin.
+
+2. Understand American Monte Carlo (AMC).  The aim is to get a feel for AMC's 
+characteristics.  Before we embark on the use of AMC for real option 
+valuation, I'd like to understand how it behaves for financial options.  I 
+suggest something like the following:
+ a. Produce AMC code for single GBM for American option.  Compare Greeks 
+against those from appropriate tree methods.
+ b. Two GBM spread option model, to compare against 1-d numerical integration 
+method.  Although the "American" bit of AMC isn't going to be used here, it 
+will be interesting to think about the bucketing issue in price/payoff space 
+and, again, the Greeks.
+ c. Some form of mean reverting model, preferably two factor.
+ d. HJM for pure financial option valuation.
+ If you get somewhere on a-d, and AMC behaves sensibly on pure financial 
+models, then I'll be very keen to roll it out for real option valuations.
+
+Vince/Stinson - since I'm expecting the worst from IT i.t.o. email support, 
+would you be good enough to print this email out and hand it to Sharad?
+
+Many thanks,
+Steve

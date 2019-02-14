@@ -1,0 +1,45 @@
+Return-Path: <mandatory_855247557@yahoo.com.au>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30180 invoked by uid 115); 8 Nov 2004 15:28:20 -0000
+Received: from mandatory_855247557@yahoo.com.au by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(206.190.39.212):. 
+ Processed in 0.10872 secs); 08 Nov 2004 15:28:20 -0000
+Received: from web53109.mail.yahoo.com (206.190.39.212)
+  by churchill.factcomp.com with SMTP; 8 Nov 2004 15:28:19 -0000
+Message-ID: <20041108151405.79674.qmail@web53109.mail.yahoo.com>
+Received: from [211.192.202.98] by web53109.mail.yahoo.com via HTTP; Tue, 09 Nov 2004 02:14:05 EST
+Date: Tue, 9 Nov 2004 02:14:05 +1100 (EST)
+From: preservation guardian <mandatory_855247557@yahoo.com.au>
+Subject: =?iso-8859-1?q?[=C1=A4=C5=EB=BF=B5=BE=EE=C7=D0=BD=C0=B9=FD]=B7=D5=B8=C7?=
+ =?iso-8859-1?q?=20=B7=B9=B5=F0=C5=F5=B0=ED!!=20=B9=AB=B7=E1CD=C1=F5=C1=A4?=
+To: brucef@yahoo.co.kr, brucefier@earthlink.net, bruceflora@aol.com,
+  bruceforme@bcline.com, bruceforme@chollian.net, bruceforme@hanmir.com,
+  bruceforme@hitel.net, bruceforme@hosanna.net, bruceforme@kebi.com,
+  bruceforme@yahoo.co.kr, bruceg@em.ca, bruceg@warehousephoto.com,
+  brucegoo@chollian.net, brucegoo@empal.com, brucegoo@korea.com,
+  brucegoo@yahoo.co.kr, brucegun@chollian.net, brucegun@sayclub.com,
+  bruceh99@hotmail.com, bruceh@chollian.net
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-440603218-1099926845=:78905"
+Content-Transfer-Encoding: 8bit
+
+--0-440603218-1099926845=:78905
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+�ڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡ�
+
+
+�����ո� 
+
+
+---------------------------------
+Find local movie times and trailers on Yahoo! Movies.
+
+--0-440603218-1099926845=:78905
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<HTML><HEAD><title>�ڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡڡ�<br><br><br><b>�����ո� <p><br><hr size=1>
+Find local movie times and trailers on <a href="http://au.rd.yahoo.com/mail/tagline/*http://au.movies.yahoo.com" target=_blank><b>Yahoo! Movies.</b></a><br>
+--0-440603218-1099926845=:78905--

@@ -1,0 +1,36 @@
+Message-ID: <9883409.1075839947656.JavaMail.evans@thyme>
+Date: Sat, 7 Apr 2001 03:41:00 -0700 (PDT)
+From: geir.solberg@enron.com
+To: portland.shift@enron.com
+Subject: NCPA BR IS BACK
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Geir Solberg <Geir Solberg/PDX/ECT@ECT>
+X-To: Portland Shift <Portland Shift@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Hey Guys. 
+
+I had a long talk with NCPA today and set up so that we again can do the ZP26/NP15 Buy-Resale on a Realtime basis. We are not doing a profit split this time, we are paying them $25/MW instead. This basically enables us to shift 21MW across PATH15 and not be subject to Congestion as NCPA has Grandfather Rights across the path. This is a sweet strategy when the SP15/NP15 spread is there and PATH15 is congested. NCPA's capacity is 21MW, but I would not recommend doing more than 20MW. There are others who know about this opportunity but are not currently using it (WESCO especially). So by doing only  20MW we do not remind them of NCPA. 
+
+The way this works is that we call NCPA and ask their capacity across PATH15. And tell them you want to schedule the BR through whatever hour. 
+
+IN CAPS:
+We sell to NCPA in ZP26.  
+We buy from NCPA in NP15.
+
+We can buy SP15 to fill our ZP26 sale (we just shift the load from SP15 to ZP26, so enter a EPMI CALPOOL).
+PG&E is NCPA's SC, so if you are not passing Phase two give them a call.
+
+
+
+NCPA's tel#: (916) 786-3520
+PG&E tel# : (415) 973-1969
+
+If you guys have any questions  just ask me.
+
+Geir 

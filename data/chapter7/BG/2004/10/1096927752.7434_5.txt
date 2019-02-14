@@ -1,0 +1,54 @@
+Return-Path: <TamranqmptafBishop@ottawahotels.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 31120 invoked from network); 4 Oct 2004 16:33:02 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 04 Oct 2004 16:33:02 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 04 Oct 2004 16:33:02 -0000
+Received: (qmail 15003 invoked from network); 4 Oct 2004 16:33:01 -0000
+Received: from j150114.upc-j.chello.nl (unknown [24.132.150.114])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 04 Oct 2004 16:32:58 -0000
+X-Message-Info: 0738LWKarpu24151IEJHKmqlyvUUBBNEINYmydkq+8186
+Received: from schszs8541.bblto.ozarkoutdoors.net ([130.168.160.13]) by cjkx7516-ombhg.ozarkoutdoors.net with Microsoft SMTPSVC(5.0.2195.6824);
+	 Mon, 04 Oct 2004 12:20:35 -0400
+Message-ID: <08134.4335384.Piayq.9331lp@ozarkoutdoors.net>
+Conversion-With-Loss: Yes
+Sensitivity: 2
+Expiry-Date: Never
+Xref: jxcezifillxkch
+Reply-To: "Mallory Eddy" <exhume.429090contrary@ozarkoutdoors.net>
+From: "Mallory Eddy" <exhume.429090contrary@ozarkoutdoors.net>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Finally got your email
+Date: Mon, 04 Oct 2004 11:24:35 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--5165076028475440"
+Content-Length: 588
+Lines: 22
+
+----5165076028475440
+Content-Type: text/html;
+	charset="iso-5146-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible to receive $400,000 with a 2.1% rate.
+<p>
+Please verify your information here:<br>
+ <a href="http://bhnell.money-deal.info/s6/li.php?bks=55">http://bhnell.money-deal.info/s6/li.php?bks=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<p>
+
+Mallory Eddy, Client Account Manager<br>
+Lawrence Financial Association<br>
+220 Central Avenue<br>
+Columbus, OH 43085
+</html>
+
+----5165076028475440--

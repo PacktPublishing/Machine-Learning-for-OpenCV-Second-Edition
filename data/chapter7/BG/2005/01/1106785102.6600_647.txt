@@ -1,0 +1,211 @@
+Return-Path: <wyzedykixvdq@dsl-verizon.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 15575 invoked by uid 115); 16 Jan 2005 02:00:01 -0000
+Received: from wyzedykixvdq@dsl-verizon.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(219.139.176.1):. 
+ Processed in 4.981901 secs); 16 Jan 2005 02:00:01 -0000
+Received: from unknown (HELO 209.5.178.248) (219.139.176.1)
+  by churchill.factcomp.com with SMTP; 16 Jan 2005 01:59:55 -0000
+from: "Cameron Benson" <wyzedykixvdq@dsl-verizon.net>
+To: asetar@em.ca, bait@em.ca, asetar@em.ca, bait@em.ca
+Subject: Reday 2 Odrer olinne 
+Date: Sun, 16 Jan 2005 05:55:36 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----076387895985944"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcTvBtvuTKhRDcWvRGOd7oYCKcKsmg==
+X-Qmail-Scanner-Message-ID: <110584079667215563@churchill>
+
+This is a multi-part message in MIME format.
+
+------076387895985944
+Content-Type: multipart/alternative;
+	boundary="----6123794979091286432"
+
+
+------6123794979091286432
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ Canuck Prhamayc
+*****on premediation requisite*****
+* Lowest Prices
+* Valor, Xray, Vitality, Supa, Amor, Philosophy, moo!!
+* Fearful Desire
+*****on premeditation requisite*****
+
+
+------6123794979091286432
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-mic=
+rosoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word=
+" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">=
+
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:Arial;
+	color:windowtext;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><font size=
+=3D2
+face=3DArial><span style=3D'font-size:10.0pt;font-family:Arial'><!--[if gt=
+e vml 1]><v:shapetype 
+ id=3D"_x0000_t136" coordsize=3D"21600,21600" o:spt=3D"136" adj=3D"10800" =
+path=3D"m@7,l@8,m@5,21600l@6,21600e">
+ <v:formulas>
+  <v:f eqn=3D"sum #0 0 10800" />
+  <v:f eqn=3D"prod #0 2 1" />
+  <v:f eqn=3D"sum 21600 0 @1" />
+  <v:f eqn=3D"sum 0 0 @2" />
+  <v:f eqn=3D"sum 21600 0 @3" />
+  <v:f eqn=3D"if @0 @3 0" />
+  <v:f eqn=3D"if @0 21600 @1" />
+  <v:f eqn=3D"if @0 0 @2" />
+  <v:f eqn=3D"if @0 @4 21600" />
+  <v:f eqn=3D"mid @5 @6" />
+  <v:f eqn=3D"mid @8 @5" />
+  <v:f eqn=3D"mid @7 @8" />
+  <v:f eqn=3D"mid @6 @7" />
+  <v:f eqn=3D"sum @6 0 @5" />
+ </v:formulas>
+ <v:path textpathok=3D"t" o:connecttype=3D"custom" o:connectlocs=3D"@9,0;@=
+10,10800;@11,21600;@12,10800" 
+  o:connectangles=3D"270,180,90,0" />
+ <v:textpath on=3D"t" fitshape=3D"t" />
+ <v:handles>
+  <v:h position=3D"#0,bottomRight" xrange=3D"6629,14971" />
+ </v:handles>
+ <o:lock v:ext=3D"edit" text=3D"t" shapetype=3D"t" />
+</v:shapetype><v:shape id=3D"_x0000_i1043" type=3D"#_x0000_t136" style=3D'=
+width:324pt;
+ height:121.5pt' strokecolor=3D"purple">
+ <v:shadow color=3D"#868686" />
+ <v:textpath style=3D'font-family:"Arial";font-size:10pt;v-text-kern:t' tr=
+im=3D"t" 
+  fitpath=3D"t" string=3D"" />
+</v:shape><![endif]--><![if !vml]><a href=3D"http://bvnmmdpokoewjpiofsb110=
+avbxdsdfefse.com/b/"</a><img width=3D435 height=3D165
+src=3D"cid:image001.gif@01C4EED4.914EE240"
+alt=3D""
+v:shapes=3D"_x0000_i1043"><![endif]><o:p></o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+------6123794979091286432--
+
+------076387895985944
+Content-Type: image/gif;
+	name="image001.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.gif@01C4EED4.914EE240>
+
+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
+GQUAADs=
+
+------076387895985944--
+
+
+

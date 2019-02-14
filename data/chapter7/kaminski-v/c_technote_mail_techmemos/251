@@ -1,0 +1,49 @@
+Message-ID: <11816806.1075857036296.JavaMail.evans@thyme>
+Date: Wed, 26 Jan 2000 02:58:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: mike.fowler@enron.com
+Subject: Re: convergence of the Research model
+Cc: grant.masson@enron.com, vince.kaminski@enron.com, vincent.tang@enron.com, 
+	wenyao.jia@enron.com, william.bradford@enron.com, 
+	tanya.rohauer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: grant.masson@enron.com, vince.kaminski@enron.com, vincent.tang@enron.com, 
+	wenyao.jia@enron.com, william.bradford@enron.com, 
+	tanya.rohauer@enron.com
+X-From: Tanya Tamarchenko
+X-To: Mike Fowler
+X-cc: Grant Masson, Vince J Kaminski, Vincent Tang, Wenyao Jia, William S Bradford, Tanya Rohauer
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+I was curious about the accuracy of our credit reserve model as a function of 
+the
+number of simulations we use. This question, I think, is not so important 
+when we 
+calculate credit reserve, because the assumptions underlying our model are 
+pretty 
+rough anyway (here I mean the assumptions regarding price processes, 
+correlations, etc.)
+
+This question becomes more essential when we talk about calculating 
+sensitivities of the 
+credit reserve to various factors. When the magnitude of the sensitivity is 
+comparable
+to the accuracy of calculation of the credit reserve, what is the accuracy of 
+such sensitivity?
+  
+I performed a numerical experiment where I calculated the expected loss
+for a simple portfolio with one counterparty (SITHE IND POWER) for different
+number of simulations (10, 100, 1000, 10000, 100000) using old research 
+credit model.
+You can see how the result converges and the relative error (compared to the 
+result for 100000 simulations which is assumed to be the most accurate) in 
+the 
+attached file.
+
+Tanya.
+
+ 

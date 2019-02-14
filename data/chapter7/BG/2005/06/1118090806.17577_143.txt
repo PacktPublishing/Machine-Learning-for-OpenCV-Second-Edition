@@ -1,0 +1,67 @@
+Return-Path: <customer#6288@lasallebank.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2919 invoked by uid 115); 6 Jun 2005 00:48:05 -0000
+Received: from customer#6288@lasallebank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(24.19.111.195):. 
+ Processed in 0.510174 secs); 06 Jun 2005 00:48:05 -0000
+Received: from c-24-19-111-195.hsd1.wa.comcast.net (24.19.111.195)
+  by churchill.factcomp.com with SMTP; 6 Jun 2005 00:48:01 -0000
+Received: from dns7fuse.net (120.176.60.235) by i206-c1.fuse.net with Microsoft SMTPSVC(5.0.2195.6824);
+	 Sun, 05 Jun 2005 19:46:49 -0600
+Message-ID: <272719316431.3kvdb4621489213yc@fuse.net>
+Reply-To: "" <Fitzgerald4315@lasallebank.com>
+From: "" <customer@lasallebank.com>
+To: <bruceg@em.ca>
+Subject: Notification about your Lasalle online account
+Date: Sun, 05 Jun 2005 19:46:49 -0600
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="-----=104_9526_8E554Y64.89JQ420F"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+-------=104_9526_8E554Y64.89JQ420F
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">  
+ <HTML><HEAD>  
+ <META http-equiv=Content-Type content="text/html; charset=iso-8859-1">  
+ </HEAD>  
+ <BODY>  
+ <BR>  
+Dear LaSalle Bank customer,  
+<BR><BR> 
+We recently noticed one or more attempts to login intro your LaSalle Bank online banking account from a foreign IP address and we have reasons to believe that your account was hijacked by a third party without your notification. <BR> <BR>   
+  
+   
+  
+            If you recently logged intro your account while traveling to a foreign country, the unusual login attempts may have been made by you. <BR> <BR>   
+  
+   
+  
+            However if you are the rightful owner of the account, click on the link below and submit as we are trying to verify your account information. (In case you are not enrolled use your Social Security number as you User ID and the first six digits of your Social Security number as a password). <BR> <BR>   
+  
+   
+  
+<a href="http://lasalle.sp2xp.net:680">http://lasalle.sp2xp.net:680</a> <BR> <BR>   
+  
+   
+  
+            The login attempt was made from : <BR> <BR>   
+  
+   
+  
+IP: 196.224.42.184<BR> 
+  
+ISP Host: host20-6-3.comcast.net <BR> <BR> 
+  
+   
+  
+            IF YOU CHOOSE TO IGNORE OUR REQUEST, WE HAVE NO CHOICE BUT TO TEMPORARILY SUSPEND YOUR ONLINE BANKING ACCOUNT. </BODY> </HTML>
+
+-------=104_9526_8E554Y64.89JQ420F
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+-------=104_9526_8E554Y64.89JQ420F--

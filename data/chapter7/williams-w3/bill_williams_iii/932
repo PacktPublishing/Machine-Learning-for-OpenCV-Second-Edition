@@ -1,0 +1,44 @@
+Message-ID: <30625077.1075863317413.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 14:05:09 -0700 (PDT)
+From: david.poston@enron.com
+To: tim.belden@enron.com, p..o'neil@enron.com, jeff.richter@enron.com, 
+	chris.mallory@enron.com, bill.williams@enron.com, 
+	phillip.platter@enron.com
+Subject: FSP Status Report
+Cc: steve.nat@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.nat@enron.com
+X-From: Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPOSTON2>
+X-To: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Moneil>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>, Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmallor>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pplatte>
+X-cc: Nat, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snat>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Afternoon,
+
+I wanted to give everyone a status report on FSP before I head-out on vacation.  In a nutshell, it's not quite there.  We are now meeting performance targets but we had a few too many bugs to allow users to complete the parallel in-time.  I will begin paying my dollar a day debt starting on Saturday but I feel fairly confident that we should wrap things up next week.  Susan Amador will be working in Portland next week, in my absence, to ensure real-time can finish up their part.
+
+Thanks,  David Poston
+
+Here are the details for the remaining 6 days of the parallel:
+DA preferreds & finals are complete for 5/29 - 5/31
+DA preferreds are 99% complete for 6/1 - 6/3.  (*Waiting on ST-CALI to input the last few schedules)
+
+Performance figures
+Template writing = 1:30 - 2:30 (target <3 minutes)
+Finals processing = 7 minutes (target <10 minutes)
+
+Bugs
+1 remaining critical bug on exercises for supplement schedules, should be finished tomorrow
+
+Preliminary Schedule (contingent on no new critical bugs found by real-time)
+1.  Wrap-up HA parallel first part of next week
+2.  Migrate code to production end of next week
+3.  Begin production parallel.  As suggested by Phil Platter, we will continue using the existing toolset but we will write DA preferred templates out of FSP at the same time.  Then we can execute some compare utilities we have developed to ensure the ISO templates between CAPS & FSP match perfectly.
+4.  We will run in this mode until the users feel good about FSP.
+
+
+ 

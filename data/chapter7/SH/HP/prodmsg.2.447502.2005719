@@ -1,0 +1,48 @@
+Received: from 63-245-193-4.yourhostingprovider.net (HELO mail.powerwebhost.net) (63.245.193.4)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:29 -0000
+Received: (qmail 6477 invoked for bounce); 19 Jul 2005 10:58:35 -0000
+Date: 19 Jul 2005 10:58:35 -0000
+From: MAILER-DAEMON@bouncehost
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1121770715bouncehost429873"
+Subject: failure notice
+
+--1121770715bouncehost429873
+
+Hi. This is the qmail-send program at bouncehost.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<distinguishpeach@adrianandalex.com>:
+Sorry, no mailbox here by that name. vpopmail (#5.1.1)
+
+--- Enclosed are the original headers of the message.
+
+--1121770715bouncehost429873
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: (qmail 6394 invoked by uid 399); 19 Jul 2005 10:58:32 -0000
+Received: from unknown (HELO mailwisconsin.com) (61.91.179.52)
+  by 0 with SMTP; 19 Jul 2005 10:58:32 -0000
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190616;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinguishpeach@adrianandalex.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+(Body supressed)
+
+--1121770715bouncehost429873--

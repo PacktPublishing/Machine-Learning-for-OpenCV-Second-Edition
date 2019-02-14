@@ -1,0 +1,73 @@
+Message-ID: <28883862.1075854139600.JavaMail.evans@thyme>
+Date: Thu, 19 Oct 2000 07:53:00 -0700 (PDT)
+From: romeo.d'souza@enron.com
+To: pat.clynes@enron.com
+Subject: POPS Production downtime request
+Cc: anita.patton@enron.com, clem.cernosek@enron.com, michael.eiben@enron.com, 
+	dave.nommensen@enron.com, edward.terry@enron.com, 
+	gary.hanks@enron.com, daren.farmer@enron.com, 
+	neil.leininger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: anita.patton@enron.com, clem.cernosek@enron.com, michael.eiben@enron.com, 
+	dave.nommensen@enron.com, edward.terry@enron.com, 
+	gary.hanks@enron.com, daren.farmer@enron.com, 
+	neil.leininger@enron.com
+X-From: Romeo D'Souza
+X-To: Pat Clynes
+X-cc: Anita K Patton, Clem Cernosek, Michael Eiben, Dave Nommensen, Edward Terry, Gary A Hanks, Daren J Farmer, Neil Leininger
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The POPS Production database server will be down over the weekend for a 3 
+hour period
+for memory upgrade. Please let me know if there is a preferred 3hr window, if 
+there is
+no problem with y'all,  can we will request the maintenance  between 12-3pm 
+Saturday 10/21/00.
+
+I'll inform y'all of the actual timeframe once its finalized, since there are 
+other systems
+running on that server.
+
+thanks
+Romeo
+---------------------- Forwarded by Romeo D'Souza/HOU/ECT on 10/19/2000 02:47 
+PM ---------------------------
+From: Neil Leininger@ENRON on 10/19/2000 02:01 PM
+To: Christine Pham/HOU/ECT@ECT, Romeo D'Souza/HOU/ECT@ECT
+cc:  
+Subject: downtime request
+
+FYI
+---------------------- Forwarded by Neil Leininger/NA/Enron on 10/19/2000 
+02:02 PM ---------------------------
+
+
+Malcolm.Wells@enron.com on 10/19/2000 01:54:49 PM
+To: dba@enron.com
+cc:  
+
+Subject: downtime request
+
+
+The UNIX Infrastructure team  would like to request downtime on system
+'aurora' this weekend.  The system has 2 faulty memory simms that we need
+to replace BEFORE they cause a problem.  We are requesting 3 hours to
+perform the memory replacement.  The following databases would be effected:
+
+eqtprod
+dcfprod
+popprod
+trdprod
+semprod
+sitprod2
+infprd53
+
+Please let me know if/when we can have time for this maintenance.
+
+
+
+

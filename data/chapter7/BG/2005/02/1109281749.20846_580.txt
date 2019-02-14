@@ -1,0 +1,49 @@
+Return-Path: <SchmidtbookyS3nNg@bluebottle.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 18149 invoked by uid 115); 1 Feb 2005 17:02:21 -0000
+Received: from SchmidtbookyS3nNg@bluebottle.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(139.18.148.65):. 
+ Processed in 0.14009 secs); 01 Feb 2005 17:02:21 -0000
+Received: from a148065.studnetz.uni-leipzig.de (139.18.148.65)
+  by churchill.factcomp.com with SMTP; 1 Feb 2005 17:02:17 -0000
+Subject: Urgent News
+Message-ID: <DFEF$sk5T3.wAAabNT$rZP7@acopyrine5.gawab.com>
+From: "Callie" <SchmidtbookyS3nNg@bluebottle.com>
+To: "Callie" <SchmidtbookyS3nNg@bluebottle.com>
+Cc: asetar@em.ca, bait@em.ca, bob.smith@em.ca
+Date: Tue, 01 Feb 2005 20:02:18 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--4.GJBWos9V5.rMIinLQwCE7"
+
+----4.GJBWos9V5.rMIinLQwCE7
+Content-Type: text/plain;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+http://www.ez-rate.info/qute/id0501.php
+
+ You know, for the last few months, John's been traveling around the country talking about his positive, optimistic vision for America, talking about his plan to move this country in the right direction.
+
+----4.GJBWos9V5.rMIinLQwCE7
+Content-Type: text/html;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+Would you REFlNANCE if you knew you'd save TH0USANDS?
+<br><br>
+We can get you lnterest as low as 2.80%.
+<br><br>
+Fill out our small form below and we'll show you how.
+<br><br>
+Get the house and/or car you always wanted, it 
+takes less than a minute of your time
+<br><br>
+<a href="http://www.ez-rate.info/qute/id0501.php">http://www.ez-rate.info/qute/id0501.php</a>
+<br><br>
+<br>Haven't you liked walking?
+
+----4.GJBWos9V5.rMIinLQwCE7--
+

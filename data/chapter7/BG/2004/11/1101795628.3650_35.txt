@@ -1,0 +1,49 @@
+Return-Path: <blakeley@quiltmail.com>
+Delivered-To: em-ca-bait-proverbs@em.ca
+Received: (qmail 30046 invoked by uid 115); 30 Nov 2004 02:17:24 -0000
+Received: from blakeley@quiltmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(68.23.162.123):. 
+ Processed in 0.11008 secs); 30 Nov 2004 02:17:24 -0000
+Received: from adsl-68-23-162-123.dsl.chcgil.ameritech.net (68.23.162.123)
+  by churchill.factcomp.com with SMTP; 30 Nov 2004 02:17:23 -0000
+Return-Path: <blakeley@quiltmail.com>
+Received: from 208.64.108.120 (HELO disparage4.pure.com.ar) (200.42.0.162) by mta157.mail.re2.krakatoa.com with SMTP; xerxes
+Original-Recipient: rfc822; blakeley@quiltmail.com
+Date: Tue, 30 Nov 2004 07:29:30 +0500
+Message-Id: <000b01c4c5a5$cc902291$521f52c8@bengoiyyq4eyze>
+From: "Silvia H. Pate " <blakeley@quiltmail.com>
+To: bait@em.ca, bait-passover@em.ca, bait-precedes@em.ca, bait-proverbs@em.ca, bait-reckless@em.ca
+X-Originating-Email: [blakeley@quiltmail.com]
+X-Originating-IP: [141.64.200.36]
+X-Sender: blakeley@quiltmail.com
+Subject:  When am I going to hear from you?
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Message-flag: Authentic Sender, Hash: YmGmCcHg
+Content-Disposition: inline
+
+<HTML>
+<BODY bgColor=#ffffff>
+<DIV align=center><FONT face="Arial Black">If you are paying more than 3.6% on 
+your mortgage, </FONT></DIV>
+<DIV align=center><FONT face="Arial Black">we can slash your monthly 
+payment!</FONT></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>(must have owned your home at 
+least 24 months to qualify for this special program)</FONT></STRONG></DIV>
+<DIV><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>GUARANTEED LOWEST RATES ON THE 
+PLANET</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT></DIV>
+<DIV align=center><STRONG><FONT face=Arial>CREDIT REPORT NOT 
+NEEDED<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</FONT></STRONG></DIV>
+<DIV align=center><FONT face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center><STRONG><FONT face=Arial>Start </FONT></STRONG><A 
+href="http://lavender.your-mtg.com/e4/e7.php?n5n=51  " target=_blank><STRONG><FONT 
+face=Arial>here</FONT></STRONG></A><STRONG><FONT face=Arial> for 
+an&nbsp;insta-quote and<BR>monthly savings calculation<BR></FONT></STRONG></DIV>
+<DIV align=center><BR><STRONG><FONT face=Arial>&nbsp;No other way to so quickly 
+and easily<BR>lower your monthly payments!</FONT></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV></BODY></HTML>
+

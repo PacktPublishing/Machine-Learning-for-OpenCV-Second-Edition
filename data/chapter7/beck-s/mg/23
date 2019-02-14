@@ -1,0 +1,64 @@
+Message-ID: <16013926.1075855880598.JavaMail.evans@thyme>
+Date: Mon, 24 Jul 2000 03:38:00 -0700 (PDT)
+From: mike.jordan@enron.com
+To: tim.poullain-patterson@enron.com, richard.sage@enron.com, 
+	fernley.dyson@enron.com, phil.redman@enron.com, 
+	andrew.cornfield@enron.com, alex.holland@enron.com, 
+	ralph.jaeger@enron.com, naomi.connell@enron.com, 
+	shona.wilson@enron.com, brent.price@enron.com, sally.beck@enron.com, 
+	krhodes@mgltd.com, beth.apollo@enron.com, stephen.wood@enron.com
+Subject: MG Middle Office Integration Issues and timetable
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mike Jordan
+X-To: Tim Poullain-Patterson, Richard Sage, Fernley Dyson, Phil Redman, Andrew Cornfield, Alex Holland, Ralph Jaeger, Naomi Connell, Shona Wilson, Brent A Price, Sally Beck, "Kevin Rhodes" <krhodes@mgltd.com> @ ENRON, Beth Apollo, Stephen Wood
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+To all
+
+Tim has delivered the initial microsoft project plan for the MO integration - 
+this is available to all via the integration project 'office' - i.e. Richard 
+and Phil.
+
+I summarise the key themes as :-
+
+summary operational risk assessment across all MG entities and functional 
+groups ( as defined within the DPR )
+defining MO organisational structure and fit with Enron's control model - 
+particularly logistics and co-ordination
+interaction with Fin Ops processes
+month end consolidation process
+SAP implementation
+working capital and revenue forecasting
+interaction with RAC re VAR / trading limits ( market and credit )
+awaiting notice of trading limits
+credit counterparty review and set up within GCP
+VAR methodology implementation
+interaction with IT re systems development/maintenance
+AS 400 development timetable and roll out to NY for WANG replacement
+MITS/EOL migration
+Use of Enlighten in application architecture
+defined IT resource requirement
+interaction with Legal re Enron Metals name change and related documentation 
+issues
+MO integration planning for settlements and trade accounting
+
+The focus and objectives relating to the above for this week are as follows :-
+
+review of London processes and define boundaries for segregation of duties 
+implementation ( Action TPP ) - also discuss extension to NY ( SWilson )
+review of Wolff activities in Germany ( Action KR/AC )
+continuing review of new recycling yards ( project Cook ) in Germany ( Action 
+AH/RJ )
+review interdependencies between MO/Fin Ops/RAC/Systems integration plans ( 
+Action MJ/RS )
+document current assessment of operational risk with particular emphasis on 
+Wolff and Recycling businesses ( Action MJ with KR/AC/AH/RJ/TPP/SW )
+Brainstorm month end accounting close and potential earnings election for 
+consolidation ( Action  TPP/MJ/BA/SWood )
+
+Mike

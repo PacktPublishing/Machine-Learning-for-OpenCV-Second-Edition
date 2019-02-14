@@ -1,0 +1,33 @@
+Message-ID: <2935719.1075856589971.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 02:21:00 -0800 (PST)
+From: alex.huang@enron.com
+To: wbradfo@enron.com
+Subject: Credit exposure model
+Cc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com, zimin.lu@enron.com
+X-From: Alex Huang
+X-To: wbradfo@enron.com
+X-cc: Vince J Kaminski, Vasant Shanbhogue, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bill,
+Attached are the spreadsheet for the Credit Exposure model and the XLL file.  
+We have
+performed some tests and the numbers looked reasonable. However, more 
+extensive
+testing using realistic data is needed. We would like to pass the model to 
+you so you can
+have someone check it more extensively and compare the model  with what you 
+are using.
+Also, please kindly inform me of any suggestions to improve the model as well 
+as
+any problems you may find. 
+
+I can be reached at 31631. 
+Best,
+Alex

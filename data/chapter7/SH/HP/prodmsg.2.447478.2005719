@@ -1,0 +1,74 @@
+Received: from unknown (HELO server.STY) (212.56.49.218)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:57 -0000
+From: postmaster@simplythankyou.co.uk
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 11:58:23 +0100
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C58C3601C5AA820000008Cserver.STY"
+X-DSNContext: 335a7efd - 4457 - 00000001 - 80040546
+Message-ID: <vKGNoinMc00000010@server.STY>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C58C3601C5AA820000008Cserver.STY
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       info@simplythankyou.com
+
+
+
+
+--9B095B5ADSN=_01C58C3601C5AA820000008Cserver.STY
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;server.STY
+Received-From-MTA: dns;mailwisconsin.com
+Arrival-Date: Tue, 19 Jul 2005 11:58:18 +0100
+
+Final-Recipient: rfc822;info@simplythankyou.com
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C58C3601C5AA820000008Cserver.STY
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([60.16.126.29]) by server.STY with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 19 Jul 2005 11:58:18 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815852;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@simplythankyou.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Path: projecthoneypot@projecthoneypot.org
+X-OriginalArrivalTime: 19 Jul 2005 10:58:20.0125 (UTC) FILETIME=[C63F80D0:01C58C50]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279295">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+
+--9B095B5ADSN=_01C58C3601C5AA820000008Cserver.STY--

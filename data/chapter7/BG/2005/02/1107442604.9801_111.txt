@@ -1,0 +1,344 @@
+Return-Path: <globalknowledge@pldtdsl.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2420 invoked by uid 115); 3 Feb 2005 06:58:55 -0000
+Received: from globalknowledge@pldtdsl.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(203.131.76.230):. 
+ Processed in 0.258391 secs); 03 Feb 2005 06:58:55 -0000
+Received: from smtp1.epldt.biz (HELO exsmtp01.epldt.local) (203.131.76.230)
+  by churchill.factcomp.com with SMTP; 3 Feb 2005 06:58:54 -0000
+Received: from XP ([210.213.241.39]) by exsmtp01.epldt.local with Microsoft SMTPSVC(6.0.3790.211);
+	 Thu, 3 Feb 2005 14:59:22 +0800
+Message-ID: <00bd01c50a45$58f9bc30$6400a8c0@XP>
+Reply-To: "Global Knowledge" <globalknowledge@pldtdsl.net>
+From: "Global Knowledge" <globalknowledge@pldtdsl.net>
+To: "Global Knowledge Associates" <globalknowledge@pldtdsl.net>
+Subject: Advanced MS Excel On Feb. 14 - 16, 2005
+Date: Thu, 3 Feb 2005 15:07:19 -0800
+Organization: gk
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_00AB_01C50A02.0E4173B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2055
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2055
+Return-Path: globalknowledge@pldtdsl.net
+X-OriginalArrivalTime: 03 Feb 2005 06:59:22.0182 (UTC) FILETIME=[E3988660:01C509BD]
+Content-Length: 13815
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00AB_01C50A02.0E4173B0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_00AC_01C50A02.0E4173B0"
+
+
+------=_NextPart_001_00AC_01C50A02.0E4173B0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Global Knowledge Associates
+            invites you to attend:Advanced MS Excel Level II & =
+IIIDuration: 3 days
+Course Fee: P7,500 per participant
+Venue: UG32 Cityland Pioneer, 128 Pioneer St., Mandaluyong City, =
+Philippines.
+Tel. Nos. (632) 683-0969 / 637-3657
+
+Schedules:
+February 14 - 16, 2005  M,T,W  9am-5pm
+February 21 - 23, 2005  M,T,W 9am-5pm
+
+Advanced MS Excel - Course Content
+Level II Microsoft Office Training:=20
+Level Two advances into the more in-depth applications of Excel. Our =
+training covers auto and custom formatting, applications of formulas, =
+use of IF functions, and importing data and lists from outside sources.
+Using Drawing Tools
+Using Functions
+Using Charts
+Inserting & Deleting Rows & Columns
+Using & Creating Templates
+Auto Formatting
+Creating &Working with Formulas
+Formula Basics=20
+Mathematical Operators
+Order of Operation
+Copying Formulas Using Relative Reference
+Copying Formulas Using Absolute Reference
+Using IF and Nested IF Functions
+Working with Dates
+Importing Data from Other Sources
+Importing Lists
+
+Level III Training: Level Three covers the most comprehensive topics of =
+the Excel program. It contains information on advanced charts, =
+hyperlinks and
+macros, filters and sorts, data analysis, conditional formatting and =
+styles, sharing workbooks and workgroups and their functions, and pivot =
+tables.
+
+Advanced Charts
+Linking Spreadsheets & Workbooks
+Hyperlinks and Saving as HTML
+Creating & Using Macros
+Using Fields & Sorts
+Data Analysis
+Conditional Formatting
+Styles
+Auditing a Workbook
+Sharing Workbooks & Workgroup Functions
+Pivot
+      =20
+
+Enroll Now!  Limited Seats Only.
+
+Call (632) 683-0969.637-3657
+
+=20
+
+GLOBAL KNOWLEDGE ASSOCIATES
+
+UG32 / 06 / 49 Cityland Pioneer, 128 Pioneer Street, Mandaluyong City, =
+Philippines 1550
+
+Tel. Nos. (632) 683-0969 / 637-3657
+
+Email: Sandra@globalknowledgeph.com
+
+URL: www.globalknowledgeph.com
+
+------=_NextPart_001_00AC_01C50A02.0E4173B0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office" xmlns:st1 =
+=3D=20
+"urn:schemas-microsoft-com:office:smarttags"><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2900.2055" name=3DGENERATOR>
+<STYLE>BODY {
+	MARGIN-TOP: 25px; FONT-SIZE: 12pt; MARGIN-LEFT: 25px; COLOR: #ff6633; =
+FONT-FAMILY: Arial, Helvetica
+}
+</STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff =
+background=3Dcid:00aa01c50a45$1c5d87c0$6400a8c0@XP>
+<DIV><FONT face=3DArial size=3D2><FONT face=3DArial size=3D2><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p><FONT face=3DArial=20
+size=3D2><TT><SPAN style=3D"FONT-FAMILY: Arial"><o:p><STRONG><FONT =
+face=3DTahoma=20
+color=3D#008000 size=3D6>Global Knowledge =
+Associates</FONT></STRONG></DIV>
+<DIV>
+<DIV><PRE style=3D"TEXT-ALIGN: justify"><DIV align=3Dleft><FONT =
+face=3DArial size=3D2><FONT face=3D"Monotype Corsiva"><STRONG><EM><FONT =
+color=3D#008000 size=3D6>&nbsp;&nbsp;&nbsp; &nbsp;<FONT =
+size=3D7>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </FONT><FONT size=3D6>invites =
+you to =
+attend:</FONT></FONT></EM></STRONG></FONT></FONT></DIV></PRE></DIV></o:p>=
+</SPAN></TT></FONT></o:p></SPAN><SPAN=20
+style=3D"mso-ansi-language: EN"><FONT size=3D3><FONT face=3D"Times New =
+Roman">
+<DIV align=3Dcenter><PRE><FONT color=3D#000000><FONT size=3D5><FONT =
+face=3DArial size=3D4><FONT size=3D3><FONT size=3D6><STRONG><BR><FONT =
+color=3D#000080><FONT size=3D7>Advanced MS Excel</FONT> <BR></FONT><FONT =
+size=3D5>Level II &amp; =
+III</FONT></STRONG></FONT></FONT></FONT></FONT></FONT></PRE></DIV>
+<DIV align=3Dleft>
+<DIV align=3Dcenter><PRE><FONT color=3D#000000><FONT size=3D5><FONT =
+face=3DArial size=3D4><STRONG>Duration: 3 days</STRONG>
+Course Fee: P7,500 per participant
+Venue: UG32 Cityland Pioneer, 128 Pioneer St., Mandaluyong City, =
+Philippines.
+Tel. Nos. (632) 683-0969 / 637-3657</FONT></FONT></FONT><FONT =
+color=3D#000000><FONT face=3DArial>
+
+<FONT size=3D4><STRONG>Schedules:</STRONG>
+February 14 - 16, 2005  M,T,W  9am-5pm
+February 21 - 23, 2005  M,T,W 9am-5pm
+</FONT></FONT></FONT><FONT color=3D#000000><FONT face=3DArial>
+</FONT></FONT><FONT color=3D#000000><FONT =
+face=3DArial></FONT></FONT></PRE></DIV>
+<DIV align=3Dleft><PRE><FONT color=3D#000000><FONT =
+face=3DArial><STRONG><FONT size=3D4>Advanced MS Excel - Course =
+Content</FONT><BR></PRE></STRONG></FONT></FONT><FONT=20
+color=3D#000000><FONT size=3D+0><BR><FONT face=3DArial size=3D4><FONT=20
+size=3D3><STRONG>Level II Microsoft Office Training:</STRONG></FONT>=20
+<BR></FONT><FONT face=3DArial size=3D3>Level Two advances into the more =
+in-depth=20
+applications of Excel. Our training covers auto and custom formatting,=20
+</FONT></FONT></FONT><FONT color=3D#000000><FONT size=3D+0><FONT =
+face=3DArial=20
+size=3D3>applications of formulas, use of IF functions, and importing =
+data and=20
+lists from outside sources.</FONT></FONT></FONT></DIV>
+<DIV align=3Dleft><PRE><FONT color=3D#000000><FONT size=3D5><FONT =
+face=3DArial size=3D3>Using Drawing Tools
+Using Functions
+Using Charts
+Inserting &amp; Deleting Rows &amp; Columns
+Using &amp; Creating Templates
+Auto Formatting
+Creating &amp;Working with Formulas
+Formula Basics=20
+Mathematical Operators
+Order of Operation
+Copying Formulas Using Relative Reference
+Copying Formulas Using Absolute Reference
+Using IF and Nested IF Functions
+Working with Dates
+Importing Data from Other Sources
+Importing Lists
+</FONT>
+<FONT face=3DArial size=3D3><STRONG>Level III Training:</STRONG> =
+<BR></FONT></FONT></FONT><FONT color=3D#000000><FONT size=3D5><FONT =
+face=3DArial size=3D3>Level Three covers the most comprehensive topics =
+of the Excel program. It contains information on advanced charts, =
+hyperlinks and
+macros, filters and sorts, data analysis, conditional formatting and =
+styles, sharing workbooks and workgroups and their functions, and pivot =
+tables.</FONT>
+
+<FONT face=3DArial size=3D3>Advanced Charts
+Linking Spreadsheets &amp; Workbooks
+Hyperlinks and Saving as HTML
+Creating &amp; Using Macros
+Using Fields &amp; Sorts
+Data Analysis
+Conditional Formatting
+Styles
+Auditing a Workbook
+Sharing Workbooks &amp; Workgroup Functions
+Pivot</FONT>
+      </FONT></FONT></FONT></FONT></SPAN></PRE></DIV></DIV>
+<P class=3DMsoNormal=20
+style=3D"MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; =
+mso-margin-bottom-alt: auto; tab-stops: list .5in; mso-list: l0 level1 =
+lfo1"><SPAN=20
+style=3D"mso-ansi-language: EN"><FONT size=3D3><FONT face=3D"Times New =
+Roman"><SPAN=20
+style=3D"FONT-FAMILY: Arial"><o:p><FONT size=3D2>&nbsp;</FONT></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 18pt; COLOR: red; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">Enroll=20
+Now!<SPAN style=3D"mso-spacerun: yes">&nbsp; </SPAN>Limited Seats=20
+Only.</SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 18pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">Call=20
+(632) 683-0969.637-3657<o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt"><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"COLOR: black; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times =
+New Roman'"><FONT=20
+color=3D#008000><FONT size=3D4>GLOBAL KNOWLEDGE=20
+ASSOCIATES<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">UG32=20
+/ 06 / 49 Cityland Pioneer, </SPAN><st1:address><st1:Street><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">128=20
+Pioneer Street</SPAN></st1:Street><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">,=20
+</SPAN><st1:City><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">Mandaluyong=20
+City</SPAN></st1:City><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">,=20
+</SPAN><st1:country-region><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New =
+Roman'">Philippines</SPAN></st1:country-region></st1:address><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">=20
+1550</SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">Tel.=20
+Nos. (632) 683-0969 / 637-3657</SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">Email:=20
+<A href=3D""><FONT=20
+color=3D#0033cc>Sandra@globalknowledgeph.com</FONT></A><o:p></o:p></SPAN>=
+</P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"=20
+align=3Dcenter><SPAN=20
+style=3D"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial; =
+mso-bidi-font-family: 'Times New Roman'">URL:=20
+<A href=3D""><FONT=20
+color=3D#0033cc>www.globalknowledgeph.com</FONT></A></SPAN></P></o:p></SP=
+AN></FONT></FONT></SPAN></FONT></FONT></DIV></BODY></HTML>
+
+------=_NextPart_001_00AC_01C50A02.0E4173B0--
+
+------=_NextPart_000_00AB_01C50A02.0E4173B0
+Content-Type: image/gif;
+	name="Citrus Punch Bkgrd.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <00aa01c50a45$1c5d87c0$6400a8c0@XP>
+
+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
+BAA7
+
+------=_NextPart_000_00AB_01C50A02.0E4173B0--

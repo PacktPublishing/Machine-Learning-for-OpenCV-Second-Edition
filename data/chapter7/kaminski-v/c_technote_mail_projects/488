@@ -1,0 +1,40 @@
+Message-ID: <19345821.1075857032963.JavaMail.evans@thyme>
+Date: Mon, 13 Mar 2000 03:26:00 -0800 (PST)
+From: paulo.issler@enron.com
+To: john.peyton@enron.com
+Subject: Daily Rates - Jackups
+Cc: vince.kaminski@enron.com, claudio.ribeiro@enron.com, 
+	vasant.shanbhogue@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, claudio.ribeiro@enron.com, 
+	vasant.shanbhogue@enron.com, zimin.lu@enron.com
+X-From: Paulo Issler
+X-To: John Peyton
+X-cc: Vince J Kaminski, Claudio Ribeiro, Vasant Shanbhogue, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+John:
+
+Claudio put together a spreadsheet for cheking the change on a composed 
+jackup index against the change on individual categories of jackups and 
+semis. He did not weighted the index because we think we will benefit from a 
+simpler index price calculation by taking the straight average. 
+
+The results show a good R-square between the general index and individual 
+jackup categories - on the range of 0.7 - 0.8. Only one category displayed a 
+poor R-square - about 0.3. For semis of 4tht and 5th generation, however, we 
+noticed a degradation on the hedge effectiveness - R-squares about 0.2 - 0.3. 
+You may verify each regression by changing the choice cell (AX2 on Analysis). 
+
+Claudio is also starting to analyze how gas and crude past moving averages, 
+12 month swaps on gas / crude, and rigs utilization explains the daily rates. 
+We will forward the results as soon as we finish. 
+
+
+
+Please call me or Claudio if you have questions.
+Paulo Issler

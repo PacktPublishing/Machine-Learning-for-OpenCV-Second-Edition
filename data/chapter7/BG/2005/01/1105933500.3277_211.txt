@@ -1,0 +1,64 @@
+Return-Path: <robyrai7@yahoo.com.ar>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 10851 invoked from network); 17 Jan 2005 01:19:09 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 17 Jan 2005 01:19:09 -0000
+Received: (qmail 7932 invoked from network); 17 Jan 2005 01:18:53 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx01.futurequest.net ([69.5.6.171])
+  with QMQP via TCP; 17 Jan 2005 01:18:53 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 8444 invoked from network); 17 Jan 2005 01:18:48 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 17 Jan 2005 01:18:48 -0000
+Received: (qmail 6595 invoked from network); 17 Jan 2005 01:18:48 -0000
+Received: from 200.127.112.224 (200-127-112-224.dsl.prima.net.ar [200.127.112.224])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 17 Jan 2005 01:18:46 -0000
+Received: from 200.23.37.70 by todito.com ; Sun, 16 Jan 2005 23:16:55 -0200
+Message-ID: <3a-z5a-z4a-z8a-z6a-z1a-z8a-z6a-z4a-z1a-z5a-z8a-zrs4a-z5a-z9a-z1a-z2a-z5a-z5a-z8a-z5a-z1a-z@mainet.com.ar>
+From: "Josefina Frers" <robyrai7@yahoo.com.ar>
+Reply-To: "Josefina Frers" <robyrai7@yahoo.com.ar>
+To: webmaster@ezmlm.org
+Subject: / Impresionante !!
+Date: Mon, 17 Jan 2005 07:15:55 +0600
+X-Mailer: PocoMail 2.64 (1120) - Licensed Version
+X-Poco-UID: 38676729
+X-Poco-Status: U
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+X-Priority: 
+Content-Type: text/html; charset=iso-8859-1
+X-Mail-Format-Warning: Bad RFC2822 header formatting in <html>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in <head>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in <title>vipermail</title>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+X-Mail-Format-Warning: Bad RFC2822 header formatting in </head>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+X-Mail-Format-Warning: Bad RFC2822 header formatting in <table width="640" height="400" border="0" align="center" cellpadding="0" cellspacing="0" id="Tabla_01">
+	<tr>
+		<td colspan="3">
+			<img src="http://www.aerielink.com.ar/viper/vipermail_01.gif" width="640" height="175" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="http://www.aerielink.com.ar/viper/vipermail_02.gif" width="180" height="235" alt=""></td>
+		<td width="129" height="79" valign="top"><div align="center">
+          <font face="Arial, Helvetica, sans-serif" size="4" color="#FF0000">U$S</font></div><div align="center">
+          <u><b>
+          <font face="Arial, Helvetica, sans-serif" size="7" color="#FF0000">100</font></b></u></div></td>
+		<td rowspan="2">
+			<a href="mailto:cigarpro1@HotPOP.com;roberto@bulldogs.com?subject=Viper"><img src="http://www.aerielink.com.ar/viper/vipermail_04.gif" alt="" width="331" height="235" border="0"></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="mailto:cigarpro1@HotPOP.com;roberto@bulldogs.com?subject=Viper"><img src="http://www.aerielink.com.ar/viper/vipermail_05.gif" alt="" width="129" height="156" border="0"></a></td>
+	</tr>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in </table>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in </body>
+X-Mail-Format-Warning: Bad RFC2822 header formatting in </html>
+Content-Length: 0
+Lines: 0

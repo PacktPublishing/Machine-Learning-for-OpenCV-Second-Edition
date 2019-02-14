@@ -1,0 +1,142 @@
+Received: from a34-mta01.direcpc.com (HELO a34-mta01.direcway.com) (66.82.4.90)
+  by projecthoneypotmailserver with SMTP; 24 Jun 2005 15:42:42 -0000
+Received: from a34-mss02 (a34-mss02 [172.27.10.14]) by a34-mta01.direcway.com
+ (iPlanet Messaging Server 5.2 HotFix 2.05 (built Mar  3 2005))
+ with ESMTP id <0IIL00601I9L4P@a34-mta01.direcway.com> for
+ projecthoneypot@projecthoneypot.org; Fri, 24 Jun 2005 11:42:33 -0400 (EDT)
+Received: from process-daemon.mail02.direcway.com by mail02.direcway.com
+ (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+ id <0IIL00101I5B4I@mail02.direcway.com> for
+ projecthoneypot@projecthoneypot.org; Fri, 24 Jun 2005 11:42:25 -0400 (EDT)
+Received: from mail02.direcway.com
+ (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+ id <0IIL0018VIAP7Z@mail02.direcway.com>; Fri, 24 Jun 2005 11:42:25 -0400 (EDT)
+Date: Fri, 24 Jun 2005 11:42:25 -0400 (EDT)
+From: Internet Mail Delivery <postmaster@mail02.direcway.com>
+Subject: Delivery Notification: Delivery has failed
+To: projecthoneypot@projecthoneypot.org
+Message-id: <0IIL0018YIAP7Z@mail02.direcway.com>
+MIME-version: 1.0
+Content-type: multipart/report;
+ boundary="Boundary_(ID_Ya+XjMMIutsPH9HfzHq83A)"; report-type=delivery-status
+
+
+--Boundary_(ID_Ya+XjMMIutsPH9HfzHq83A)
+Content-type: text/plain; charset=us-ascii
+Content-language: en-US
+Content-transfer-encoding: 7BIT
+
+This report relates to a message you sent with the following header fields:
+
+  Return-path: <projecthoneypot@projecthoneypot.org>
+  Received: from ims-ms-daemon.mail02.direcway.com by mail02.direcway.com
+   (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+   id <0IIL0018VIAP7Z@mail02.direcway.com>
+   (original mail from projecthoneypot@projecthoneypot.org); Fri,
+   24 Jun 2005 11:42:25 -0400 (EDT)
+  Received: from a34-mta03.direcway.com (a34-mta03 [66.82.4.104])
+   by mail02.direcway.com
+   (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+   with ESMTP id <0IIL000M2IAPJH@mail02.direcway.com>; Fri,
+   24 Jun 2005 11:42:25 -0400 (EDT)
+  Received: from dsl7-186.rb.comporium.net
+   (dsl7-186.rb.comporium.net [199.222.173.186]) by a34-mta03.direcway.com
+   (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+   with SMTP id <0IIL00D3EI7NUQ@a34-mta03.direcway.com>; Fri,
+   24 Jun 2005 11:40:38 -0400 (EDT)
+  Received: from dns01paypal.com (173.169.34.152) by jem36-dhy9.paypal.com with
+   Microsoft SMTPSVC(5.0.2195.6824); Fri, 24 Jun 2005 11:37:57 -0500
+  Received: from paypal.com (127.0.0.1) by dns paypal.com (SMTPD32-7.12)
+   id QL1O800; Fri, 24 Jun 2005 11:37:57 -0500
+  Date: Fri, 24 Jun 2005 11:40:38 -0400 (EDT)
+  Date-warning: Date header was inserted by a34-mta03.direcway.com
+  From: Daniel Suon
+  Subject: Fast Debt Relief !!! =?UNKNOWN?Q?=B95259-PLRK?=
+  To: stephen@direcpc.com
+  Message-id: <3918770222.XJC53@paypal.com>
+  Content-type: multipart/mixed; boundary="-----=575_8521_6F749V57.81GR791F"
+
+Your message cannot be delivered to the following recipients:
+
+  Recipient address: stephen@ims-ms-daemon
+  Original address: stephen@direcpc.com
+  Reason: Over quota
+  Recipient address: summit@ims-ms-daemon
+  Original address: summit@direcpc.com
+  Reason: Over quota
+
+
+--Boundary_(ID_Ya+XjMMIutsPH9HfzHq83A)
+Content-type: message/delivery-status
+
+Reporting-MTA: dns;mail02.direcway.com (ims-ms-daemon)
+
+Original-recipient: rfc822;stephen@direcpc.com
+Final-recipient: rfc822;stephen@ims-ms-daemon
+Action: failed
+Status: 5.2.2 (Over quota)
+
+Original-recipient: rfc822;summit@direcpc.com
+Final-recipient: rfc822;summit@ims-ms-daemon
+Action: failed
+Status: 5.2.2 (Over quota)
+
+--Boundary_(ID_Ya+XjMMIutsPH9HfzHq83A)
+Content-type: message/rfc822
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from ims-ms-daemon.mail02.direcway.com by mail02.direcway.com
+ (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+ id <0IIL0018VIAP7Z@mail02.direcway.com>
+ (original mail from projecthoneypot@projecthoneypot.org); Fri,
+ 24 Jun 2005 11:42:25 -0400 (EDT)
+Received: from a34-mta03.direcway.com (a34-mta03 [66.82.4.104])
+ by mail02.direcway.com
+ (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+ with ESMTP id <0IIL000M2IAPJH@mail02.direcway.com>; Fri,
+ 24 Jun 2005 11:42:25 -0400 (EDT)
+Received: from dsl7-186.rb.comporium.net
+ (dsl7-186.rb.comporium.net [199.222.173.186]) by a34-mta03.direcway.com
+ (iPlanet Messaging Server 5.2 HotFix 1.25 (built Mar  3 2004))
+ with SMTP id <0IIL00D3EI7NUQ@a34-mta03.direcway.com>; Fri,
+ 24 Jun 2005 11:40:38 -0400 (EDT)
+Received: from dns01paypal.com (173.169.34.152) by jem36-dhy9.paypal.com with
+ Microsoft SMTPSVC(5.0.2195.6824); Fri, 24 Jun 2005 11:37:57 -0500
+Received: from paypal.com (127.0.0.1) by dns paypal.com (SMTPD32-7.12)
+ id QL1O800; Fri, 24 Jun 2005 11:37:57 -0500
+Date: Fri, 24 Jun 2005 11:40:38 -0400 (EDT)
+Date-warning: Date header was inserted by a34-mta03.direcway.com
+From: Daniel Suon
+Subject: Fast Debt Relief !!! =?UNKNOWN?Q?=B95259-PLRK?=
+To: stephen@direcpc.com
+Message-id: <3918770222.XJC53@paypal.com>
+MIME-version: 1.0
+Content-type: multipart/mixed; boundary="Boundary_(ID_C1oGOj04lkErQ052pjOKAg)"
+
+
+--Boundary_(ID_C1oGOj04lkErQ052pjOKAg)
+Content-type: text/html
+Content-transfer-encoding: 7BIT
+
+Dear 
+If you have reached the point where you can no longer keep up with your monthly bills, MoneyTranceCorp Company offers an honorable alternative to Bankruptcy.
+Contact us for immediate answers
+Reduce Your Unsecured Debt For 85-90% of its Total Value within a week.
+Stop Harassing Creditor Phone Calls
+Start making money with us.
+Best regards.
+Register and say "good bye" to your debts!
+Life without debts!
+
+Want to know more? email us!
+
+http://uscard-debt.com/index.php?ref=wrw
+
+--Boundary_(ID_C1oGOj04lkErQ052pjOKAg)
+Content-type: text/plain
+Content-transfer-encoding: 7BIT
+
+
+--Boundary_(ID_C1oGOj04lkErQ052pjOKAg)--
+
+--Boundary_(ID_Ya+XjMMIutsPH9HfzHq83A)--

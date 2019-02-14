@@ -1,0 +1,80 @@
+Return-Path: <lmnop@webmail.co.za>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23433 invoked by uid 115); 17 Dec 2004 07:29:07 -0000
+Received: from lmnop@webmail.co.za by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.173.31.142):. 
+ Processed in 1.477267 secs); 17 Dec 2004 07:29:07 -0000
+Received: from unknown (HELO webmail.co.za) (61.173.31.142)
+  by churchill.factcomp.com with SMTP; 17 Dec 2004 07:29:05 -0000
+Message-ID: <A89BAD44.5B5972E@webmail.co.za>
+Date: Fri, 17 Dec 2004 10:47:41 +0500
+Reply-To: "Discount Vacations" <lmnop@webmail.co.za>
+From: "Discount Vacations" <lmnop@webmail.co.za>
+User-Agent: Microbod Mail 5.20.2314.1300
+MIME-Version: 1.0
+To: <bruceg@em.ca>
+Subject: Discount Vacations Wants To Send You To Mexico
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p>The best things in life really ARE free – including sunny Mexico!<br>
+  <br>
+
+Visit us at <a href="http://www.discountvacations.com/mexicocontest">www.di
+scountvacations.com/mexicocontest</a>  before December 31, 2004<br>
+for a chance to win a 7-night all-inclusive trip for 2 to Mexico. The
+winning name will be<br>
+drawn on January 3, 2005.<br>
+<br>
+
+Have a friend or family member who might want to enter? Forward this email
+along to <br>
+your pal and maybe if they’re the lucky winner, you’ll get to be the lucky
+travel<br>
+companion!<br>
+<br>
+ 
+DiscountVacations.com features over 35 Caribbean, Bermuda, and Mexico
+destinations<br>
+with over 350 hotels and resorts.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+<p align="center"><br>
+  
+<font size="-2">
+<p align="center">This message is sent to you in compliance with the
+Federal CAN-Spam Bill and the Electronic <br>
+  Commerce (EC Directive) Regulations of 2004. This is a commercial email
+which includes an <br>
+  unsubscribe method for remove processing as mandated by law.  <br>
+  Footer also includes the sender's information.
+  
+Quantum International<br>
+  5985 S. University Dr. #138
+  Davie, Florida 33328<br>
+  
+To be excluded from future mailings, please reply to<br>
+this email with "rem" in the subject line. </p>
+</font>
+</body>
+</html>
+
+

@@ -1,0 +1,61 @@
+Return-Path: <123321@mail.runan.ha.cn>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 28269 invoked from network); 07 Mar 2005 23:31:52 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 07 Mar 2005 23:31:52 -0000
+Received: (qmail 8846 invoked from network); 7 Mar 2005 23:31:52 -0000
+Received: from pt03.futurequest.net (pt03.futurequest.net [69.5.6.179])
+  by mx04.futurequest.net ([69.5.6.175])
+  with QMQP via TCP; 07 Mar 2005 23:31:52 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 28117 invoked from network); 07 Mar 2005 23:31:47 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 07 Mar 2005 23:31:47 -0000
+Received: (qmail 27909 invoked from network); 7 Mar 2005 23:31:47 -0000
+Received: from mail.runan.ha.cn ([218.6.20.188])
+  by mx06.futurequest.net ([69.5.6.177])
+  with SMTP via TCP; 07 Mar 2005 23:31:47 -0000
+From: "Jason" <123321@mail.runan.ha.cn>
+To: <webmaster@ezmlm.org>
+Subject: Custom-Marketing
+Sender: "Jason" <123321@mail.runan.ha.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Tue, 8 Mar 2005 07:26:20 +0800
+Reply-To: "Jason" <Sales@marketingpromote.com>
+Content-Transfer-Encoding: 8bit
+Content-Length: 665
+
+
+To webmaster@ezmlm.org:
+
+Email is the best promote tool.
+
+We offer Online Marketing with quality service.
+
+1. Target Email list
+
+We can provide target email list you need, which are compiled 
+only on your order. We will customize your client email list.
+
+* We have millions of lists in a wide variety of categories.
+
+2. Send out Target list for you
+
+We can send your email message to your target clients! We will
+customize your email list and send your message for you.
+
+Our site: www.marketingforus.com
+
+* We also offer Web Hosting & mail server.
+
+
+Regards!
+
+Jason
+Marketing Support
+Sales@marketingforus.com
+
+No.Thanks: ByeBye@MSN.com?subject=webmaster@ezmlm.org

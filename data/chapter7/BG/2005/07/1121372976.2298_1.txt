@@ -1,0 +1,40 @@
+Return-Path: <wacfcen@fastemailer.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 20018 invoked from network); 13 Jul 2005 20:41:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 13 Jul 2005 20:41:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Jul 2005 20:41:20 -0000
+Received: (qmail 25208 invoked from network); 13 Jul 2005 20:41:19 -0000
+Received: from dsl-201-129-205-222.prod-infinitum.com.mx (unknown [201.129.205.222])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 13 Jul 2005 20:41:14 -0000
+Message-ID: <P555S2HV1V176N69VF13MGT91639121I379016@201.129.205.222>
+Content-Class: urn:content-classes:newsletter
+Location: 961 bradbury absolve
+Reply-To: "Blair Short" <wacfcen@fastemailer.com>
+From: "Blair Short" <wacfcen@fastemailer.com>
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Computer Software Here
+Date: Thu, 14 Jul 2005 01:38:40 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--200043140542314"
+Content-Length: 291
+Lines: 14
+
+----200043140542314
+Content-Type: text/plain;
+	charset="iso-7353-6"
+Content-Transfer-Encoding: quoted-printable
+
+Visit us for great deals on a wide range of software. 
+
+Windows XP, Photoshop, Office XP,Acrobat 7 From $19.95
+
+
+http://fm1ciwxl7sf4cyx.isothujonene.org/
+
+
+----200043140542314--

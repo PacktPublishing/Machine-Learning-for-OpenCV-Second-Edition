@@ -1,0 +1,42 @@
+Message-ID: <4625163.1075856643125.JavaMail.evans@thyme>
+Date: Mon, 17 Jul 2000 12:30:00 -0700 (PDT)
+From: vladimir.gorny@enron.com
+To: john.lavorato@enron.com, ted.murphy@enron.com, vince.kaminski@enron.com, 
+	john.arnold@enron.com
+Subject: VaR Methodology Change
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Vladimir Gorny
+X-To: John J Lavorato, Ted Murphy, Vince J Kaminski, John Arnold
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Gentlemen,
+
+Below is a plan of action for moving along with the VaR methodology change 
+related to forward-forward volatility:
+
+1. Finalize the methodology proposed (Research/Market Risk)
+
+ - determine the time period used to calculated forward-forward vols vs. 
+correlations (20 days vs. 60 days)
+ - stabilize the calculation for curves and time periods where the curve does 
+not change based on historical prices, implying volatility of 0%
+
+2. Get approval for the methodology change from Rick Buy (see draft of the 
+memo attached) - John Lavorato and John Sherriff
+
+
+
+3. Develop and implement the new methodology in a stage environment 
+(Research/IT)
+
+4. Test the new methodology (Market Risk, Traders)
+
+5. Migrate into production (Research/IT)
+
+Please let me know if this is reasonable and meets everyone's expectations. 
+Vlady.

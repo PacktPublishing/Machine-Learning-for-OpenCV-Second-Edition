@@ -1,0 +1,91 @@
+Message-ID: <21998561.1075840829154.JavaMail.evans@thyme>
+Date: Tue, 8 Jan 2002 15:38:21 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, c..koehler@enron.com
+Subject: RE: Research library needed for NETCO
+Cc: david.port@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.port@enron.com
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Koehler, Anne C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Akoehle>
+X-cc: Port, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dport>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+I spoke to a few people today. I found that most of Research models have already been included in our migration plan. All models used by structuring groups and risk groups are already included. What I want to accomplish is to make sure we have the exhaustive list of models. The issue now is to get documentation for those models. I am not sure yet if the Exotica library has been included in the migration plan. I will keep you updated.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, January 08, 2002 5:17 PM
+To:	Wei, Zhiyong; Koehler, Anne C.
+Cc:	Port, David
+Subject:	RE: Research library needed for NETCO
+
+Anne
+
+We need these for Netco - is it too late?
+
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Tuesday, January 08, 2002 12:00 PM
+To:	Kitchen, Louise; Koehler, Anne C.
+Subject:	Research library needed for NETCO
+
+Louise,
+
+IT needs source code and documentation for all Exotica library functions. In addition, we need the Excel add-in build environment for building the exotica DLL and its help functionality. We need documentation for all models used by traders and risk managers. Naveen has a list of those models. My group can help maintain those models and the exotica library and provide IT expertise. I will help get a complete list of models used. Following is the list of Exotica functions.
+
+Thanks
+
+Zhiyong
+
+List of Exotica library functions
+
+Name	Description	
+AGC	Asian Option pricing using geometric conditioning approximation	
+AMER	American Option Valuation	
+AMERB	American option valuation using the binomial tree model	
+ASN	Asian option using a fast approximation	
+ASNSPRD	Asian spread option	
+ASNSPRD2	Spread option on asian spread	
+ASTRIP	Asian option on a STRIP that allows correlation to be specified	
+ASTRIP2m	Asian option on a two-asset average	
+ASV	Asian option using a fast volatility approximation	
+BASCORR	Determines the correlation between two baskets of assets	
+BASVOL	Calculates approximate volatility for a basket of equities or commoditites	
+BASVOLT	Calculates approximate volatility for a basket of equities or commoditites that expire at different times	
+BASVOL2D	Calculates approximate volatility for a basket of two forward contracts	
+BOST	BOST option (Pay at maturity European option)	
+BRRR	Barrier option with risk parameters	
+CMPDV	CMPDV option with two point volatility term structure	
+COD	Cash on delivery option	
+CODPREM	Cash on delivery option contingent PREMium	
+COMBOPT	Combinations of European calls and puts: Strangles, strangles and bull Spreads	
+DIGITAL	Digital "Cash or Nothing" option	
+DSTRIP	Strip of daily options	
+EIMPVOL	Implied Volatility of a European option using Black-Scholes formula	
+EURO	Black-Scholes European option valuation	
+EURO_Equity	Black-Scholes European option on stocks	
+EURO_Forward	Balck Model for European option on forward/futures contract	
+FOREXCH	Options on currencies	
+IMPVOLAB	Implied Volatility of an American option using Binomial Tree model	
+LKBK	LKBK option analytical solution for continuous case	
+OSTRIP	Strip of daily fixed price (FP) or forward start (FS) options	
+OSTRIPSPRD	Strip of daily fixed price spread options	
+PPLUS	European spread option between two baskets, combination of analytical method with 1-D integration	
+QUANTO	Options on commodity with exchange rate risk	
+RBOW	RBOW options: various dual commodity options	
+SPRDOPT	European spread option	
+SWAPTION	Option to enter a swap	
+XCAP	Value an option on a strip (call or put on a cap or floor)	
+XCOL, XCOL2, XCOL3	Option on a collar. XCOL3 is the most flexible and updated version. It is the preferred function for pricing options of this kind	
+YRSTRIP	Annual STRIP of daily European options subject to daily, monthly, and yearly take contraints	

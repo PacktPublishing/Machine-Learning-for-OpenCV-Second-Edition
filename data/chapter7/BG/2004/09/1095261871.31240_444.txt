@@ -1,0 +1,57 @@
+Return-Path: <foxfire@wotan.digisol.local>
+Received: (fqmail 19389 invoked from network); 15 Sep 2004 14:55:10 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 15 Sep 2004 14:55:10 -0000
+Received: (qmail 28350 invoked from network); 15 Sep 2004 14:55:10 -0000
+Received: from wotan.digisol.local (pd9e75208.dip0.t-ipconnect.de [217.231.82.8])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 15 Sep 2004 14:55:10 -0000
+Received: (from root@localhost)
+	by wotan.digisol.local (8.12.10/8.12.10) id i8FEuprh017782;
+	Wed, 15 Sep 2004 16:56:51 +0200 (CEST)
+	(envelope-from foxfire)
+To: foxfire@pixie24.digisol.local
+Received: (fqmail 9853 invoked from network); 03 Sep 2004 02:09:30 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 03 Sep 2004 02:09:30 -0000
+Received: (qmail 24723 invoked from network); 3 Sep 2004 02:09:30 -0000
+Received: from CPE-69-76-137-93.kc.rr.com (cpe-69-76-137-93.kc.rr.com [69.76.137.93])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 03 Sep 2004 02:09:30 -0000
+Received: from gkfnio2.xmission.com ([248.65.200.234]) by fdm54-pd.xmission.com with Microsoft SMTPSVC(1.48.2935.45208);
+	 Thu, 02 Sep 2004 19:58:48 -0600
+Message-ID: <82567.53462.JISPWtuzgi.5833j@xmission.com>
+Generate-Delivery-Report: No
+Distribution: communicate afghanistan
+Prevent-NonDelivery-Report: Yes
+Reply-To: "Freida Greene" <Margie214Thurman@xmission.com>
+From: "Freida Greene" <Margie214Thurman@xmission.com>
+Cc: bugs@ezmlm.org
+Subject: Confirm Your Application
+Date: Fri, 03 Sep 2004 02:57:48 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--4672137508128254446"
+
+----4672137508128254446
+Content-Type: text/html;
+	charset="iso-0775-2"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible for a 2.3% rate and a $400,000 loan.
+<p>
+Please verify your information here:<br>
+ <a href="http://textron.gunixub.com/a1/e7.php?weo=55">http://textron.gunixub.com/a1/e7.php?weo=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<br>
+Freida Greene<br>
+Senior Account Manager<br>
+Webber Financial Association
+</html>
+
+----4672137508128254446--

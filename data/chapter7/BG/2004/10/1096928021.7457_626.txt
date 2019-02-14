@@ -1,0 +1,62 @@
+Return-Path: <support@citibank.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29445 invoked by uid 115); 3 Oct 2004 04:29:15 -0000
+Received: from support@citibank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(219.82.104.142):. 
+ Processed in 2.493322 secs); 03 Oct 2004 04:29:15 -0000
+Received: from unknown (HELO 209.5.178.248) (219.82.104.142)
+  by churchill.factcomp.com with SMTP; 3 Oct 2004 04:29:13 -0000
+X-Message-Info: 14+ehcjs0/iYFfOAcnhDKVjBSE81BEXl
+Received: (qmail 05472 invoked by uid 639187); Sun, 03 Oct 2004 19:19:22 +0100
+Date: Sun, 03 Oct 2004 22:17:22 +0400
+Message-ID: <7859211167115037.66263597.support@citibank.com>
+From: "Customer Support" <support@citibank.com>
+Reply-To: support@citibank.com
+To: "Bruceg" <bruceg@em.ca>
+Subject: Dear customer your details have been compromised
+MIME-Version: 1.0 (produced by deservecacm 0.6)
+Content-Type: multipart/alternative;
+	boundary="--03831218581411841798"
+
+----03831218581411841798
+Content-Type: text/plain;
+	charset="iso-0308-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: verdict snick delicate
+
+Dear Customer:
+
+Recently there have been a large number of cyber attacks pointing our data=
+base servers. In order to safeguard your account, we require you to sign o=
+n immediately. 
+
+This personal check is requested of you as a precautionary measure and to =
+ensure yourselves that everything is normal with your balance and personal=
+ information.
+
+This process is mandatory, and if you did not sign on within the nearest t=
+ime your account may be subject to temporary suspension.
+
+Please make sure you have your Citibank(R) debit card number and your User=
+ ID and Password at hand.
+
+Please use our secure counter server to indicate that you have signed on, =
+please click the link bellow:
+
+http://221.139.2.111/citifi/
+
+!! Note that we have no particular indications that your details have been=
+ compromised in any way.
+
+Thank you for your prompt attention to this matter and thank you for using=
+ Citibank(R)
+
+Regards,
+
+Citibank(R) Card Department
+
+(C)2004 Citibank. Citibank, N.A., Citibank, F.S.B., 
+Citibank (West), FSB. Member FDIC.Citibank and Arc 
+Design is a registered service mark of Citicorp.
+
+----03831218581411841798--

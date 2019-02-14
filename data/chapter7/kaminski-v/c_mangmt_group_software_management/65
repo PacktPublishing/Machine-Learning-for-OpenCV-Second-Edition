@@ -1,0 +1,136 @@
+Message-ID: <4208660.1075856582846.JavaMail.evans@thyme>
+Date: Sat, 31 Mar 2001 02:09:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: rakesh.bharati@enron.com
+Subject: Re: Visual Numerics CNL Licensing Issues
+Cc: vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+X-From: Vince J Kaminski
+X-To: Rakesh Bharati
+X-cc: Vince J Kaminski, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Rakesh,
+
+To confirm our conversation:
+
+Please, go ahead and buy a copy.
+
+Vince
+
+
+
+
+Rakesh Bharati@ENRON
+03/29/2001 02:06 PM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc: Tanya Tamarchenko/HOU/ECT@ECT, Vasant Shanbhogue/HOU/ECT@ECT 
+Subject: Visual Numerics CNL Licensing Issues
+
+Vince,
+
+Tanya and I feel that there is a need for a constrained optimization routine 
+for our VAR related research.   Numerical recipes does not contain 
+subroutines where equality and inequality contraints can be easily 
+incorporated.  Also, the number of arguments that can be handled is also 
+limited.
+
+IMSL provides a comprehensive library of more than 300 C/C++  statistical and 
+mathematical analysis functions.  We think that it would be of great value to 
+our efforts and to the efforts of our research group.  Presently the cost is 
+aproximately around $1500 and Mike Bothwell (Visual Numerics Rep) assures us 
+as the version is not license protected, we all can use it as long as 
+simultaneous usage is within the license.
+
+Please let me know if you should need further information.
+
+Thanks,
+
+Rakesh
+
+
+
+
+
+
+
+
+
+---------------------- Forwarded by Rakesh Bharati/NA/Enron on 03/29/2001 
+01:44 PM ---------------------------
+
+
+Mike Bothwell <mbothwell@houston.vni.com> on 03/29/2001 12:56:03 PM
+To: "'Rakesh.Bharati@enron.com'" <Rakesh.Bharati@enron.com>
+cc:  
+
+Subject: Visual Numerics CNL Licensing Issues
+
+
+Rakesh, I'm just following up to see how things looked on this.  Any change
+in status?  Let me know I can furhter help you.
+
+Best regards,
+
+Mike Bothwell
+Account Manager
+Visual Numerics Inc.
+Phone: 713-954-6423
+Fax: 713-781-9260
+Cell: 713-417-9069
+mbothwell@houston.vni.com <mailto:mbothwell@houston.vni.com>
+<http://www.vni.com/>
+
+Visual Numerics Celebrates 30 Years
+As an Independent Software Vendor
+
+
+
+
+
+Rakesh,
+
+As we discussed, the CNL 4.0 PC libraries are not license managed.  Version
+5 will be.  The PC Version 4.0 can be installed on a network drive and
+called from networked PCs.  As expected, we would ask that Enron honor the
+license agreement by allowing only the number of simultaneous uses permitted
+by the license.  Version 5.0 will be license managed and can be licensed as
+node locked or floating.
+
+With regard to Unix licensing, the current version of CNL for Unix is
+license managed.  It can be licensed as node locked or floating.  If you
+install the libraries on a Unix server as node locked, the number of
+simultaneous sessions on that server is not limited except by the
+capabilities of the machine.  A floating Unix license would be checked out
+by the individual user to be executed on a local machine.
+
+Also as mentioned, your investment is protected by allowing you to upgrade
+in the future by paying only the price difference between your current and
+desired platforms.  This upgrade option only applies to licenses covered
+under support.
+
+If you have any additional questions, please let me know.  I look forward to
+providing you the best math and statistical libraries available today to
+help you solve your problems and understand your data.
+
+Best regards,
+
+Mike Bothwell
+Account Manager
+Visual Numerics Inc.
+Phone: 713-954-6423
+Fax: 713-781-9260
+Cell: 713-417-9069
+mbothwell@houston.vni.com <mailto:mbothwell@houston.vni.com>
+<http://www.vni.com/>
+
+Visual Numerics Celebrates 30 Years
+As an Independent Software Vendor
+
+
+

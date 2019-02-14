@@ -1,0 +1,76 @@
+Message-ID: <25584707.1075856586762.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 09:33:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: michael.danielson@enron.com, vince.kaminski@enron.com, 
+	stinson.gibner@enron.com
+Subject: Re: EOL Phase 2
+Cc: angela.connelly@enron.com, savita.puthigai@enron.com, mike.roberts@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: angela.connelly@enron.com, savita.puthigai@enron.com, mike.roberts@enron.com
+X-From: Zimin Lu
+X-To: Michael Danielson, Vince J Kaminski, Stinson Gibner
+X-cc: Angela Connelly, Savita Puthigai, Mike A Roberts
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Deal all,
+
+I have written the option pricing formula for European (EURO), American 
+(Amer) and Asian (AGC) options.
+I have also cited the references for each option.  The function names in ( ) 
+are the option models in the 
+Enron Exotica options library.   You do not have to have outside programmer 
+to duplicate our work, since we have
+constructed and tested these models.
+
+If you have any questions, please let me know.
+
+Zimin
+
+
+
+
+
+
+
+
+Vince J Kaminski
+06/30/2000 02:31 PM
+To: Michael Danielson/HOU/ECT@ECT
+cc: Stinson Gibner/HOU/ECT@ECT, Zimin Lu/HOU/ECT@ECT, Vince J 
+Kaminski/HOU/ECT@ECT 
+Subject: Re: EOL Phase 2  
+
+Michael,
+
+Please, contact Zimin Lu.
+
+Vince Kaminski
+
+
+
+
+Michael Danielson
+06/30/2000 01:10 PM
+To: Vince J Kaminski/HOU/ECT@ECT, Mike A Roberts/HOU/ECT@ECT
+cc: Angela Connelly/LON/ECT@ECT, Savita Puthigai/NA/Enron@Enron 
+Subject: EOL Phase 2  
+
+Thanks for your help on content for EOL phase 2.
+
+An additional piece of content that we are trying to include in our scope is 
+an options calculator.  This would be an interactive tool to teach less 
+sophisticated counterparties about options.  We would like to collaborate 
+with someone in research to refine our approach (and make sure we're using 
+the right formulas).  Who should we contact in research for this?
+
+Attached is a mock-up of what we have in mind...
+
+ - Calculator Prototype.ppt
+
+
+
+

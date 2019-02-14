@@ -1,0 +1,105 @@
+Received: from gw-eur4.philips.com (161.85.125.10)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:20 -0000
+Received: from smtpscan-eur5.philips.com (smtpscan-eur5.mail.philips.com [130.144.57.168])
+	by gw-eur4.philips.com (Postfix) with ESMTP id 3F9CC49706
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 10:59:11 +0000 (UTC)
+Received: from smtpscan-eur5.philips.com (localhost [127.0.0.1])
+	by localhost.philips.com (Postfix) with ESMTP id 00ACC1BB
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 10:59:10 +0000 (GMT)
+Received: from smtprelay-eur1.philips.com (smtprelay-eur1.philips.com [130.144.57.170])
+	by smtpscan-eur5.philips.com (Postfix) with ESMTP id 33C6E141
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 10:59:10 +0000 (GMT)
+Received: from smtpnotes-eur1.philips.com (smtpnotes-eur1.philips.com [130.139.24.171])
+	by smtprelay-eur1.philips.com (Postfix) with ESMTP id 8B4142748
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 10:59:09 +0000 (GMT)
+Received: from localhost (localhost) 
+	by smtpnotes-eur1.philips.com (8.9.3p3/8.9.3-1.2.2m-20040401) with internal id KAA11131; Tue, 19 Jul 2005 10:59:09 GMT
+Date: Tue, 19 Jul 2005 10:59:09 GMT
+From: Mail Delivery Subsystem <MAILER-DAEMON@smtpnotes-eur1.philips.com>
+Subject: Returned mail: User unknown
+Message-Id: <200507191059.KAA11131@smtpnotes-eur1.philips.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="KAA11131.1121770749/smtpnotes-eur1.philips.com"
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--KAA11131.1121770749/smtpnotes-eur1.philips.com
+
+The original message was received at Tue, 19 Jul 2005 10:59:08 GMT
+from smtpscan-eur3.philips.com [130.144.57.166]
+
+   ----- The following addresses had permanent fatal errors -----
+<distinet.europe@philips.com>
+
+   ----- Transcript of session follows -----
+... while talking to ehvgsh01-srv.diamond.philips.com.:
+>>> RCPT To:<distinet.europe@philips.com>
+<<< 550 distinet.europe@philips.com... No such user
+550 <distinet.europe@philips.com>... User unknown
+
+--KAA11131.1121770749/smtpnotes-eur1.philips.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; smtpnotes-eur1.philips.com
+Received-From-MTA: dns; smtpscan-eur3.philips.com
+Arrival-Date: Tue, 19 Jul 2005 10:59:08 GMT
+
+Final-Recipient: rfc822; distinet.europe@philips.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; ehvgsh01-srv.diamond.philips.com
+Diagnostic-Code: smtp; 550 distinet.europe@philips.com... No such user
+Last-Attempt-Date: Tue, 19 Jul 2005 10:59:09 GMT
+
+--KAA11131.1121770749/smtpnotes-eur1.philips.com
+Content-Type: message/rfc822
+
+Return-Path: projecthoneypot@projecthoneypot.org
+Received: from smtpscan-eur3.philips.com (smtpscan-eur3.philips.com [130.144.57.166]) 
+	by smtpnotes-eur1.philips.com (8.9.3p3/8.9.3-1.2.2m-20040401) with ESMTP id KAA11091
+	for <distinet.europe@philips.com>; Tue, 19 Jul 2005 10:59:08 GMT
+Received: from smtpscan-eur3.philips.com (localhost [127.0.0.1])
+	by localhost.philips.com (Postfix) with ESMTP id 6F19FD8D6
+	for <distinet.europe@philips.com>; Tue, 19 Jul 2005 10:59:06 +0000 (GMT)
+Received: from gw-eur1.philips.com (gw-eur1.philips.com [161.85.125.4])by 
+	smtpscan-eur3.philips.com (Postfix) with ESMTP id 4928FCCE5for 
+	<distinet.europe@philips.com>; Tue, 19 Jul 2005 10:59:06 +0000 (GMT)
+Received: from mailwisconsin.com (unknown [61.136.107.237])by 
+	gw-eur1.philips.com (Postfix) with SMTP id 1548E5AA0Bfor 
+	<distinet.europe@philips.com>; Tue, 19 Jul 2005 10:58:57 +0000 (UTC)
+Received: from 205.214.42.66       (SquirrelMail authenticated user 
+	projecthoneypot@projecthoneypot.org);       by mailwisconsin.com with HTTP id 
+	J87Gz038190412;       Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: SPAM SUSPECTED: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinet.europe@philips.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-imss-version: 2.028
+X-imss-result: Commercial_MostConfident
+X-imss-scores: Clean:0.00000 C:35 M:3 S:9 R:5
+X-imss-settings: Baseline:3 C:1 M:1 S:1 R:1 (0.5000 0.5000)
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716475">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--KAA11131.1121770749/smtpnotes-eur1.philips.com--
+

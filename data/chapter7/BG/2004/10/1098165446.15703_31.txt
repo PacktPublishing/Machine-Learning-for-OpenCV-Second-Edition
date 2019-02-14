@@ -1,0 +1,395 @@
+Return-Path: <par_vsotrial7_list.UM.A.376.442@unity4.mcafee.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8848 invoked by uid 115); 16 Oct 2004 15:08:51 -0000
+Received: from par_vsotrial7_list.UM.A.376.442@unity4.mcafee.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(216.49.81.185):. 
+ Processed in 0.518251 secs); 16 Oct 2004 15:08:51 -0000
+Received: from umail5.mcafee.com (HELO mcafee.com) (216.49.81.185)
+  by churchill.factcomp.com with SMTP; 16 Oct 2004 15:08:50 -0000
+X-Mailer: UnityMail
+Errors-To: <par_vsotrial7_list@unity4.mcafee.com>
+Originator: <par_vsotrial7_list@unity4.mcafee.com>
+X-Mailer-Version: 5.1.182
+X-UnityID: <20041016080210.JPPBCAJLZAAAC3EUMAIL3.792@unity4.mcafee.com>
+X-UnityUser: McAfee
+Reply-To: "McAfee" <subscriptions@mcafee.com>
+From: "McAfee" <subscriptions@mcafee.com>
+To: "bruceg@em.ca" <bruceg@em.ca>
+Subject: Protect yourself against identity theft.
+Date: Sat, 16 Oct 2004 08:02:10 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_08E3_01C4B356.706F7AD0"
+Thread-Index: AcSzkRzERd3PSsRXSvqO0xF176bJ0A==
+Content-Class: urn:content-classes:message
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-Qmail-Scanner-Message-ID: <10979393306728841@churchill>
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_08E3_01C4B356.706F7AD0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+((((((((((((((((( McAfee ))))))))))))))))))
+
+[ This message is brought to you as a subscriber to McAfee=20
+VirusScan. This is a service notification and not=20
+unsolicited email. ]=20
+
+------------------------------------------------------------
+McAfeeCENTER ALERT: Protect your family against=20
+objectionable content and identity thieves. Activate Privacy=20
+Service today.=20
+http://us.mcafee.com/root/campaign.asp?cid=3D10140
+------------------------------------------------------------
+
+Dear Bruce, 
+
+Are you protected against identity theft?
+
+Besides a trial of McAfee VirusScan anti-virus protection,=20
+your McAfeeCenter includes a Privacy Service trial,=20
+for identity theft protection plus a family-safe Internet.
+
+It is like having a 24-hour Internet safety monitor guarding=20
+your family's online privacy.
+
+Dell and McAfee recommend you activate Privacy=20
+Service now.
+
+It costs nothing and takes only a few minutes.
+
+To install Privacy Service via the Dell SecurityCenter:=20
+1. Open the SecurityCenter by double-clicking on the Red=20
+"M" icon in your system tray (by the clock on your computer=20
+desktop) or by going through the "Programs" option in the=20
+Start menu, and selecting the McAfee.com or McAfee option.=20
+2. Select the Privacy Service icon from the images on the=20
+left-hand side of the McAfeeCenter.=20
+3. Click on the "Install" link in the pink-colored stoplight=20
+section at the top of the page.=20
+
+Together, the applications in the NcAfee SecurityCenter offer=20
+multiple layers of protection -- McAfee VirusScan, Personal=20
+Firewall Plus and Privacy Service -- to quickly and easily=20
+protect you and your family.
+
+Sincerely,
+McAfee
+
+P.S. Don't be without the latest anti-virus protection.=20
+Subscribe to a full year of McAfee VirusScan protection now=20
+for just $34.99 (reg. $39.99). We'll add the balance left on=20
+your trial, which expires in a month, to a new one-year=20
+subscription.=20
+
+Buy now at:
+=3D> http://us.mcafee.com/root/campaign.asp?cid=3D10140
+
+AOL users:
+<a href=3D"http://us.mcafee.com/root/campaign.asp?cid=3D10140"> =
+Subscribe now</a>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[ You are currently subscribed as: bruceg@em.ca ]
+
+View our privacy policy.
+=3D=3D> http://us.mcafee.com/root/campaign.asp?cid=3D8207
+
+3965 Freedom Circle, Santa Clara, CA 95054, (408) 992-8599
+=A9 2004, Networks Associates Technology, Inc. All Rights Reserved.
+
+
+
+------=_NextPart_000_08E3_01C4B356.706F7AD0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+	<title>Subscription Notice</title>
+	<link rel=3D"stylesheet" =
+href=3D"http://us.mcafee.com/common/stylesheets/general.css" =
+type=3D"text/css">
+</head>
+<body background=3D"http://images.mcafee.com/common/bg_stripes_1x4.gif" =
+topmargin=3D"0" margin=3D"0" leftmargin=3D"0" marginwidth=3D"0" =
+link=3D"#003399" text=3D"#003399" alink=3D"#d00000" vlink=3D"#002266">
+
+
+<table width=3D"602" border=3D"0" cellpadding=3D"10" cellspacing=3D"0">
+	<tr>
+		<td class=3D"smallText">
+			<table width=3D"580" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+				<!-- START HEADER -->
+					<tr>
+						<td colspan=3D"3">
+							<table width=3D"580" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+								<tr>
+									<td colspan=3D"5">
+										<img =
+src=3D"http://images.mcafee.com/email/autoremind/hdr_top_580x5.gif" =
+width=3D"580" height=3D"5" border=3D"0"></td>
+								</tr>
+								<tr>
+									<td width=3D"1" bgcolor=3D"#000000"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"1" border=3D"0"></td>
+									<td width=3D"1" bgcolor=3D"#db4d71"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"1" border=3D"0"></td>
+									<td width=3D"576" bgcolor=3D"#cc0033">
+										<table width=3D"100%" height=3D"55" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+											<tr>
+												<td width=3D"10">
+													<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"10" height=3D"1" border=3D"0"></td>
+												<td align=3D"left">
+													<img =
+src=3D"http://images.mcafee.com/common/logo_146x38.gif" width=3D"146" =
+height=3D"38" border=3D"0"></td>
+												<td align=3D"right">
+													<img =
+src=3D"http://images.mcafee.com/common/logos/logo_dell_116x42.gif" =
+border=3D"0"></td>
+												<td width=3D"10" align=3D"right">
+													<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"10" height=3D"1" border=3D"0"></td>
+											</tr>
+										</table>
+									</td>
+									<td width=3D"1" bgcolor=3D"#8e0024"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"1" border=3D"0"></td>
+									<td width=3D"1" bgcolor=3D"#000000"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"1" border=3D"0"></td>
+								</tr>
+								<tr height=3D"26">
+									<td =
+background=3D"http://images.mcafee.com/email/autoremind/bar_black_580x26.=
+gif" style=3D"color:#ffffff; font-weight:bold; font-size:15;" =
+align=3D"center" colspan=3D"5">
+										Subscription Notice</td>
+								</tr>
+							</table></td>
+					</tr>
+				<!-- END HEADER -->
+				<!-- START MAIN CONTENT -->
+					<tr>
+						<td width=3D"1" bgcolor=3D"#000000"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"1" border=3D"0"></td>
+						<td width=3D"578" bgcolor=3D"#ffffff">
+							<table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">
+								<tr>
+									<br>
+									<td align=3D"center">
+										<!-- START METER BOX -->
+										<table bgcolor=3D"#aaaaaa" border=3D"0" cellpadding=3D"1" =
+cellspacing=3D"0">
+											<tr>
+												<td>
+													<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"10" =
+cellspacing=3D"0">
+														<tr>
+															<td>
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"1" height=3D"10" border=3D"0"></td>
+															<td valign=3D"middle">
+																<b>Your 90 day trial expires on
+11/15/2004</b></td>
+															<td>
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"1" height=3D"10" border=3D"0"></td>
+															<!-- START METER IMAGE -->
+															<td valign=3D"middle">
+																<img =
+src=3D"http://images.mcafee.com/templates/meters/meter_30_163x31.gif" =
+width=3D"163" height=3D"31" border=3D"0" alt=3D"Your trial expires in 30 =
+days"></td>
+															<!-- END METER IMAGE -->
+															<td>
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"1" height=3D"10" border=3D"0"></td>
+														</tr>
+													</table></td>
+											</tr>
+										</table></td>
+										<!-- END METER BOX -->
+								</tr>
+								<tr>
+									<td>
+										<!-- START MAIN TEXT -->
+										<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0">
+											<tr>
+												<td>
+													<b>Dear Bruce:</b><br>
+													<br>
+													Are you protected against identity theft?<br>
+													<br>
+													Besides a trial of <b>McAfee VirusScan</b> anti-virus =
+protection, your <b>McAfeeCenter</b> includes a <b>Privacy Service</b> =
+trial, for identity theft protection plus a family-safe Internet.<br>
+													<br>
+													It is like having a 24-hour Internet safety monitor =
+guarding your family's online privacy.<br>
+													<br>
+													Dell and McAfee recommend you activate Privacy Service =
+now.<br>
+													<br>
+													It costs nothing and takes only a few minutes.<br>
+													<br>
+													To install Privacy Service via the McAfeeCenter:<br>
+													<ol>=20
+													<li>Open the SecurityCenter by double-clicking on the Red =
+"M" icon in your system tray (by the clock on your computer desktop) or =
+by going through the "Programs" option in the Start menu, and selecting =
+the McAfee.com or McAfee option. </li>
+													<li>Select the Privacy Service icon from the images on the =
+left-hand side of the McAfeeCenter. </li>
+													<li>Click on the "Install" link in the pink-colored =
+stoplight section at the top of the page. </li>
+													</ol>
+													Together, the applications in the McAfeeCenter offer =
+multiple layers of protection&#151;<b>McAfee VirusScan</b>, <b>Personal =
+Firewall Plus</b> and <b>Privacy Service</b>&#151;to quickly and easily =
+protect you and your family.<br>=20
+													<br>
+													Sincerely,<br>
+													<strong>McAfee</strong><br></td></td>
+											</tr>
+										</table></td>
+										<!-- END MAIN TEXT -->
+								</tr>
+								<tr>
+								<td style=3D"padding:15px" >P.S. Don't be without the latest =
+anti-virus protection. Subscribe to a full year of <b>McAfee =
+VirusScan</b> protection now for just <span =
+class=3D"red"><b>$34.99</b></span> (reg. $39.99), save 14%. We'll add =
+the balance left on your trial, which expires in a month, to a new =
+one-year subscription.</td>
+								</tr>
+								<tr>
+									<td align=3D"center">
+										<br>
+										<!-- START OFFER -->
+										<table bgcolor=3D"#e1e1e1" width=3D"462" border=3D"0" =
+cellpadding=3D"1" cellspacing=3D"0">
+											<tr>
+												<td>
+													<table bgcolor=3D"#f6f6f6" width=3D"460" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+														<tr><td colspan=3D"4"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"5" border=3D"0"></td></tr>
+														<tr>
+															<td width=3D"10">
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"10" height=3D"1" border=3D"0"></td>
+															<td width=3D"220">
+																<img =
+src=3D"http://images.mcafee.com/common/headers/hdr_vso_190x70.gif" =
+width=3D"190" height=3D"70" border=3D"0"></td>
+															<td width=3D"220" align=3D"left">
+																<span class=3D"red"><b>EXPIRES on =
+11/15/2004</b></span></td>
+															<td width=3D"10">
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"10" height=3D"1" border=3D"0"></td>
+														</tr>
+														<tr>
+															<td>
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"1" height=3D"1" border=3D"0"></td>
+															<td align=3D"center">
+																<a =
+href=3D"http://us.mcafee.com/root/campaign.asp?cid=3D10140"><img =
+src=3D"http://images.mcafee.com/common/buttons/btn_subscribeNow_100x20.gi=
+f" width=3D"100" height=3D"20" border=3D"0" alt=3D"Subscribe =
+Now"></a></td>
+															<td>
+																1-Year Subscription for <b>$34.99</b> (USD)</td>
+															<td>
+																<img src=3D"http://images.mcafee.com/common/clear.gif" =
+width=3D"1" height=3D"1" border=3D"0"></td>
+														</tr>
+														<tr><td colspan=3D"4"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"15" border=3D"0"></td></tr>
+													</table></td></td>
+											</tr>
+
+										</table></td>
+										<!-- END OFFER -->
+								</tr>
+						=09
+								<tr>
+									<td align=3D"center">
+										<br><br><br>
+										<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+											<tr>
+												<td =
+background=3D"http://images.mcafee.com/common/dash_horizontal_3x1.gif"><i=
+mg src=3D"http://images.mcafee.com/common/clear.gif" width=3D"525" =
+height=3D"1" border=3D"0"></td>
+											</tr>
+										</table></td>
+								</tr>
+								<tr>
+									<td>
+										<table width=3D"100%" border=3D"0" cellpadding=3D"15" =
+cellspacing=3D"0">
+											<tr>
+												<td align=3D"center">
+																	<font face=3D"Verdana,Arial,Helvetica,Geneva" =
+style=3D"font-size:9.5px">
+[ You are currently subscribed as: bruceg@em.ca ]<br>
+<DIV class=3DsmallText align=3Dcenter><A=20
+      =
+href=3D"http://us.mcafee.com/root/campaign.asp?cid=3D8207">View</A>=20
+      our privacy policy.<br> 3965 Freedom Circle, Santa Clara, CA =
+95054, (408) 992-8599 <br> &copy 2004, Networks Associates Technology, =
+Inc. All Rights=20
+      Reserved.</DIV></td>
+											</tr>
+										</table></td>
+								</tr>
+							</table>
+						</td>
+						<td width=3D"1" bgcolor=3D"#000000"><img =
+src=3D"http://images.mcafee.com/common/clear.gif" width=3D"1" =
+height=3D"1" border=3D"0"></td>
+					</tr>
+				<!-- END MAIN CONTENT -->
+				<!-- START FOOTER -->
+					<tr>
+						<td colspan=3D"3">
+							<img =
+src=3D"http://images.mcafee.com/email/dell/autoreminder/footer_580x8.gif"=
+ width=3D"580" height=3D"8" border=3D"0"></td>
+					</tr>
+				<!-- END FOOTER -->
+			</table></td>
+	</tr>
+</table>
+<div><img src=3D"http://images.mcafee.com/common/clear.gif" width=3D"10" =
+height=3D"4"></div>
+
+
+<div><img src=3D"http://images.mcafee.com/common/clear.gif" width=3D"10" =
+height=3D"15"></div>
+</body>
+</html>
+
+
+------=_NextPart_000_08E3_01C4B356.706F7AD0--
+

@@ -1,0 +1,40 @@
+Message-ID: <12647965.1075863314822.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 11:26:17 -0700 (PDT)
+From: kate.symes@enron.com
+To: michael.tully@enron.com
+Subject: SQL Error - Real Time Inc Sheets
+Cc: bill.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Tully, MIchael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtully>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Following are the errors I came across while uploading Real Time inc sheets for this year:
+
+Feb Trading: Run-time error '-2147217904 (80040e10)':
+	         Procedure 'AUDIT_SP_Delete_INC_MASTER_For_Date' expects parameter '@DEAL_DATE', which
+	         was not supplied.
+
+Mar Services: Run-time error '13':
+	          Type mismatch.
+
+Jun Trading: Error number 3001: Arguments are of the wrong type, are out of acceptable range, or are in conflict 	         with one another...
+	         Object Source: ADODB.Parameter	
+
+Jun Services: Error number 3001: Arguments are of the wrong type, are out of acceptable range, or are in conflict 	          with one another...
+	          Object Source: ADODB.Parameter
+
+Please let me know how we can address these problems.
+
+Thanks,
+Kate	
+
+
+
+

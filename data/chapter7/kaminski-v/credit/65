@@ -1,0 +1,30 @@
+Message-ID: <27746650.1075856602528.JavaMail.evans@thyme>
+Date: Fri, 23 Jun 2000 08:48:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: stephen.stock@enron.com
+Subject: Re: running credit model
+Cc: grant.masson@enron.com, vince.kaminski@enron.com, debbie.brackett@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: grant.masson@enron.com, vince.kaminski@enron.com, debbie.brackett@enron.com
+X-From: Tanya Tamarchenko
+X-To: Stephen Stock
+X-cc: Grant Masson, Vince J Kaminski, Debbie R Brackett
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Steve,
+in order to be able to test the New Credit Model as well as to answer Credit 
+Group's 
+questions regarding the outputs from this model Research needs to be able to 
+do the following:
+
+1. Run Credit Model independently of the other runs. It is quite OK for now 
+to be able to run it just for small artificial portfolios.
+2. Debug the code to see what actual values are used during the run time.
+
+Please, let me know if your team can help us.
+
+Tanya. 

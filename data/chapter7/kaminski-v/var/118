@@ -1,0 +1,27 @@
+Message-ID: <25791176.1075856643419.JavaMail.evans@thyme>
+Date: Mon, 5 Jun 2000 06:26:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: wenyao.jia@enron.com, grant.masson@enron.com
+Subject: Re: FF vols from historical fwd price curves
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Tanya Tamarchenko
+X-To: Wenyao Jia, Grant Masson
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Winston,
+I am sending you FFD vol curves which are calculated based on 1 month (18 
+log-returns)
+of data with 0.97 decay factor. These vols give $3.14 M in VAR for 
+STORAGE-PRC (versus 3.37 in production
+for 5/30/00).
+
+Tell me what I need to change in the format so that it is convenient for you.
+
+Tanya

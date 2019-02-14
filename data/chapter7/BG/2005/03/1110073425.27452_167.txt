@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-filicide@em.ca
+Received: (qmail 26647 invoked by uid 115); 5 Mar 2005 04:28:50 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.148.60):. 
+ Processed in 0.472123 secs); 05 Mar 2005 04:28:50 -0000
+Received: from bl6-148-60.dsl.telepac.pt (HELO sapo.pt) (82.155.148.60)
+  by churchill.factcomp.com with SMTP; 5 Mar 2005 04:28:44 -0000
+Date: Fri, 04 Mar 2005 16:07:34 +0000 (Hora padrão de GMT)
+From: QUEENS <info.eventos@sapo.pt>
+To: bait-filicide@em.ca
+Message-ID: 38415.6719212963_2196126742668
+Subject: March 11, Tony Humphries @ Queens, lisbon
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Tony Humphries</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#CCCCCC" vlink="#CCCCCC" alink="#CCCCCC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td align="center" valign="top"><p>&nbsp;</p>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#00ACBE">
+    <td bgcolor="#FFCC00">&nbsp;</td>
+    <td width="450" bgcolor="#FFCC00"><img src="http://p001.no.sapo.pt/tonyh/tony3.jpg" width="500" height="500"></td>
+    <td bgcolor="#FFCC00">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="450" align="center"><br>
+      <p align="justify"><font color="#333333" size="1" face="Arial, Helvetica, sans-serif">Esta mensagem &eacute; enviada sob a nova legisla&ccedil;&atilde;o sobre correio Electr&oacute;nico, Sec&ccedil;&atilde;o 301, Par&aacute;grafo (a) (2) (c) Decreto S 1618, T&iacute;tulo Terceiro aprovado pelo 105&ordm; Congresso Base das Normativas Intern
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

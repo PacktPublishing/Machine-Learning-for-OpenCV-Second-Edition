@@ -1,0 +1,88 @@
+From: "Ion Androutsopoulos" <ion@aueb.gr>
+To: "'Andrej Bratko'" <andrej.bratko@ijs.si>
+Cc: "George Paliouras" <paliourg@iit.demokritos.gr>
+Subject: RE: Research on semi-structured document classification using Ling-Spam dataset
+Date: Thu, 29 Jul 2004 09:55:10 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7036.0">
+<TITLE>RE: Research on semi-structured document classification using =
+Ling-Spam dataset</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Thank you very much for letting me know.<BR>
+<BR>
+Ion Androutsopoulos<BR>
+--<BR>
+Ion Androutsopoulos -- <A =
+HREF=3D"http://www.aueb.gr/users/ion/">http://www.aueb.gr/users/ion/</A><=
+BR>
+Lecturer, Dept. of Informatics, Athens Univ. of Economics and =
+Business<BR>
+<BR>
+&gt; -----Original Message-----<BR>
+&gt; From: Andrej Bratko [<A =
+HREF=3D"mailto:andrej.bratko@ijs.si">mailto:andrej.bratko@ijs.si</A>]<BR>=
+
+&gt; Sent: Wednesday, July 28, 2004 7:15 PM<BR>
+&gt; To: ion@aueb.gr<BR>
+&gt; Subject: Research on semi-structured document classification<BR>
+&gt; using Ling-Spam dataset<BR>
+&gt;<BR>
+&gt;<BR>
+&gt; Dear Ion,<BR>
+&gt;<BR>
+&gt; As requested in the readme file accompanying the Ling-Spam<BR>
+&gt; dataset, I would like to notify you of my work on<BR>
+&gt; semi-structured document classification which makes use of<BR>
+&gt; the Ling-Spam dataset.<BR>
+&gt;<BR>
+&gt; Tests on the Ling-Spam dataset (among others) indicate an<BR>
+&gt; improvement in classifier performance when using structural<BR>
+&gt; information. For Ling-Spam this means simply that words that<BR>
+&gt; occur in the title and words that occur in the body are<BR>
+&gt; treated as two distinct word distributions. These two<BR>
+&gt; distributions are smoothed (blended) with the consolidated<BR>
+&gt; word distribution from both the title and the body. My<BR>
+&gt; baseline classifier is flat-text Naive Bayes.<BR>
+&gt;<BR>
+&gt; I have attached a copy of a conference publication outlining<BR>
+&gt; my work, which includes experimental results on Ling-Spam.<BR>
+&gt; Results are only given in terms of classification accuracy,<BR>
+&gt; since spam-specific performance measures are not relevant to<BR>
+&gt; this work. The paper has been submitted to the &quot;13th<BR>
+&gt; International Electrotechnical and Computer Science<BR>
+&gt; Conference ERK'2004&quot;, which will be held in Portoroz, =
+Slovenia.<BR>
+&gt;<BR>
+&gt; Regards,<BR>
+&gt; Andrej Bratko<BR>
+&gt;<BR>
+&gt;<BR>
+&gt;<BR>
+&gt; P.S.: I am sincerely sorry for not citing your work in the<BR>
+&gt; publication. The text length limit was extremely short, so I<BR>
+&gt; had to be very conservative with the citations (I did include<BR>
+&gt; a link to your site, however).<BR>
+&gt;<BR>
+<BR>
+<BR>
+</FONT>
+</P>
+
+</BODY>
+</HTML>

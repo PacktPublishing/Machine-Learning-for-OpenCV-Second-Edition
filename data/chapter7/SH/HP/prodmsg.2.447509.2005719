@@ -1,0 +1,61 @@
+Received: from server16.hostpoint.ch (217.26.52.26)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:40 -0000
+Received: from mailnull by server16.hostpoint.ch with local (Exim 4.43 (FreeBSD))
+	id 1Dupo7-0007nJ-1W
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:58:39 +0200
+X-Failed-Recipients: hellnet@server16.hostpoint.ch
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@server16.hostpoint.ch>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupo7-0007nJ-1W@server16.hostpoint.ch>
+Date: Tue, 19 Jul 2005 12:58:39 +0200
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server16.hostpoint.ch
+X-AntiAbuse: Original Domain - mail.scoaway.com
+X-AntiAbuse: Originator/Caller UID/GID - [26 6] / [26 6]
+X-AntiAbuse: Sender Address Domain - 
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hellnet@server16.hostpoint.ch
+    (generated from distinctlybio@hellnet.ch)
+    Disc quota exceeded:
+    mailbox is full: retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [220.184.181.141] (helo=mailwisconsin.com)
+	by server16.hostpoint.ch with smtp (Exim 4.43 (FreeBSD))
+	id 1Dupo3-0007kh-F5
+	for distinctlybio@hellnet.ch; Tue, 19 Jul 2005 12:58:38 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190563;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinctlybio@hellnet.ch
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716938">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>

@@ -1,0 +1,90 @@
+Received: from blaze1.lax.untd.com (HELO mail.freeservers.com) (64.136.29.16)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:55 -0000
+Received: by mail.freeservers.com (Postfix)
+	id 361B8D790AD; Tue, 19 Jul 2005 05:00:46 -0600 (MDT)
+Date: Tue, 19 Jul 2005 05:00:46 -0600 (MDT)
+From: MAILER-DAEMON@mail.freeservers.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1DCD6D49C48.1121770846/mail.freeservers.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719110046.361B8D790AD@mail.freeservers.com>
+
+This is a MIME-encapsulated message.
+
+--1DCD6D49C48.1121770846/mail.freeservers.com
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host mail.freeservers.com.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<antonio_ortiz33--iscci.com@pop.freeservers.com> (expanded from
+    <antonio_ortiz33@iscci.com>): host 10.133.22.254[10.133.22.254] said: 554
+    Error: <antonio_ortiz33@iscci.com>: Recipient address denied - relay access
+    denied (in reply to RCPT TO command)
+
+--1DCD6D49C48.1121770846/mail.freeservers.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.freeservers.com
+X-Postfix-Queue-ID: 1DCD6D49C48
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 05:00:44 -0600 (MDT)
+
+Final-Recipient: rfc822; antonio_ortiz33--iscci.com@pop.freeservers.com
+Original-Recipient: rfc822; antonio_ortiz33@iscci.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host 10.133.22.254[10.133.22.254] said: 554 Error:
+    <antonio_ortiz33@iscci.com>: Recipient address denied - relay access denied
+    (in reply to RCPT TO command)
+
+--1DCD6D49C48.1121770846/mail.freeservers.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from mailwisconsin.com (unknown [222.7.248.93])
+	by mail.freeservers.com (Postfix) with SMTP id 1DCD6D49C48
+	for <antonio_ortiz33@iscci.com>; Tue, 19 Jul 2005 05:00:44 -0600 (MDT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516500;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonio_ortiz33@iscci.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973966">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+--1DCD6D49C48.1121770846/mail.freeservers.com--

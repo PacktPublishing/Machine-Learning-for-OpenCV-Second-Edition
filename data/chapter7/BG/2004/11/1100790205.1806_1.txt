@@ -1,0 +1,57 @@
+Return-Path: <hyzvdiexczb@hush.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 13600 invoked from network); 18 Nov 2004 07:30:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Nov 2004 07:30:19 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Nov 2004 07:30:19 -0000
+Received: (qmail 25985 invoked from network); 18 Nov 2004 07:30:19 -0000
+Received: from adslsapo-b4-7-107.telepac.pt (unknown [81.193.7.107])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 18 Nov 2004 07:30:14 -0000
+X-Message-Info: NOX/klf+914+g/J+57/336252130320
+Received: from smtp-antonio.arteriosclerosis.hyzvdiexczb@hush.com ([81.193.7.107]) by r149-qby6.hyzvdiexczb@hush.com with Microsoft SMTPSVC(5.0.0539.6194);
+	 Thu, 18 Nov 2004 11:21:01 +0400
+Received: from doctrinal193.triable.hyzvdiexczb@hush.com (aviatrix460.hyzvdiexczb@hush.com [81.193.7.107])
+	by smtp-ritz.hexameter.hyzvdiexczb@hush.com (Postfix) with SMTP id 9DY56CD2GNV
+	for <rait@bruce-guenter.dyndns.org>; Thu, 18 Nov 2004 10:30:01 +0300
+Received: from smtp-midshipmen.durer.hyzvdiexczb@hush.com ([81.193.7.107]) by tu32-p70.hyzvdiexczb@hush.com with Microsoft SMTPSVC(5.0.9078.9554);
+	 Thu, 18 Nov 2004 11:23:01 +0400
+X-Message-Info: UGRF+%ND_LC_CHAR[1-3]238+aw+OT+085/463927049235204
+Received: (qmail 86025 invoked by uid 7); Thu, 18 Nov 2004 09:30:01 +0200
+Date: Thu, 18 Nov 2004 01:22:01 -0600
+Message-Id: <9762522205.85502@hyzvdiexczb@hush.com>
+From: Robbie Reece <hyzvdiexczb@hush.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: Make home improvements, or take-cash out
+MIME-Version: 1.0 (produced by agribusinessbennington 5.2)
+Content-Type: multipart/alternative;
+	boundary="--356725668432067"
+Content-Length: 459
+Lines: 24
+
+----356725668432067
+Content-Type: text/plain;
+	charset="iso-1582-4"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: serenade effort uniaxial
+
+November Update: 
+
+Further drop! Rates starting at 3.25%
+
+Fixed Your mortgage process is pre-approved
+
+Please use our secure site to fill-out your application. 
+
+Visit us at:  http://www.perfectvgr.com/x/loan.php?id=3Dsas
+
+Thank you, 
+
+Robbie Reece
+
+www.mortgege.info/st.html
+
+
+----356725668432067--

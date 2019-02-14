@@ -1,0 +1,93 @@
+Return-Path: <frank@hardcoverpromotions.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 11535 invoked from network); 02 Jan 2005 04:26:02 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Jan 2005 04:26:02 -0000
+Received: (qmail 8170 invoked from network); 2 Jan 2005 04:26:02 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx03.futurequest.net ([69.5.6.174])
+  with QMQP via TCP; 02 Jan 2005 04:26:02 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 11462 invoked from network); 02 Jan 2005 04:26:01 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Jan 2005 04:26:01 -0000
+Received: (qmail 5310 invoked from network); 2 Jan 2005 04:26:01 -0000
+Received: from hardcovermedia.com (mail001.readyhosting.com [63.119.175.14])
+  by mx05.futurequest.net ([69.5.6.176])
+  with ESMTP via TCP; 02 Jan 2005 04:26:01 -0000
+Received: from PROD1 [66.31.112.185] by hardcovermedia.com with ESMTP
+  (SMTPD32-8.05) id A81043100B6; Sat, 01 Jan 2005 22:26:56 -0600
+Reply-To: "Frank Miller" <frank@hardcoverpromotions.com>
+From: "Frank Miller" <frank@hardcoverpromotions.com>
+To: <webmaster@ezmlm.org>
+Subject: HP TORONTO - Promo Products for DEC 04
+Date: Sat, 1 Jan 2005 23:25:28 -0500
+Importance: Normal
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Mach5MailerMsgPart123X456_000_60154C91"
+X-Mailer: Mach5 Mailer-3.00 PID{46fef5af-9b6b-42c7-bb3c-fbd2232b42bc}
+	RI{e495b-8532c}
+Message-Id: <200501012226984.SM02200@PROD1>
+Content-Length: 1641
+
+This is a multipart message in MIME format
+
+--Mach5MailerMsgPart123X456_000_60154C91
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Please forward this e-mail to your sales/marketing manager.
+
+Our current specials in PDF format below.
+
+http://www.hardcoverpromotions.com/hpjan.pdf
+
+Many thanks,
+
+Frank Miller
+Hardcover Promotions
+frank@hardcoverpromotions.com
+T 416.720.5177
+
+
+--Mach5MailerMsgPart123X456_000_60154C91
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+
+<body>
+<font face=3D"Geneva, Arial, Helvetica, sans-serif">Please forward this e-m=
+ail to=20
+your sales/marketing manager.=20
+<p>Our current specials in PDF format below.</p>
+<p><a href=3D"http://www.hardcoverpromotions.com/hpjan.pdf">http://www.hard=
+coverpromotions.com/hpjan.pdf</a></p>
+<p><font face=3D"Geneva, Arial, Helvetica, sans-serif">Many thanks,</font><=
+/p>
+</font><font face=3D"Verdana, Arial, Helvetica, sans-serif">
+<p><font face=3D"Geneva, Arial, Helvetica, sans-serif"><strong><font color=
+=3D"#811788">Frank=20
+  Miller</font><br>
+  <font color=3D"#32A02C">Hardcover Promotions</font></strong><br>
+  frank@hardcoverpromotions.com<br>
+  <a href=3D"www.hardcoverpromotions.com">www.hardcoverpromotions.com</a><b=
+r>
+  <strong><font color=3D"#811788">T</font></strong> 416.720.5177</font></p>
+<p>&nbsp;</p>
+</font>
+</body>
+</html>
+--Mach5MailerMsgPart123X456_000_60154C91--

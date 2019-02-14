@@ -1,0 +1,47 @@
+Message-ID: <16193396.1075854119310.JavaMail.evans@thyme>
+Date: Tue, 14 Dec 1999 07:39:00 -0800 (PST)
+From: mandy.mackinnon@enron.com
+To: karry.kendall@enron.com, michael.bilberry@enron.com, daren.farmer@enron.com, 
+	mary.smith@enron.com
+Subject: King Ranch
+Cc: marlene.hilliard@enron.com, stella.morris@enron.com, 
+	edward.gottlob@enron.com, fred.boas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: marlene.hilliard@enron.com, stella.morris@enron.com, 
+	edward.gottlob@enron.com, fred.boas@enron.com
+X-From: Mandy MacKinnon
+X-To: Karry Kendall, Michael C Bilberry, Daren J Farmer, Mary M Smith
+X-cc: Marlene Hilliard, Stella L Morris, Edward D Gottlob, Fred Boas
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+There are two fields of gas that I am having difficulty with in the Unify 
+System.
+
+1. Cage Ranch - Since there is no processing agreement that accomodates this 
+gas on King Ranch, it is my understanding  HPL is selling the liquids and 
+King Ranch is re-delivering to stratton.  It is also my understanding that 
+there is a .05 cent fee
+ to deliver this gas.  We need a method to accomodate the volume flow on HPL 
+at meter 415 and 9643.  This gas 
+ will not be reflected on Trans. Usage ticket #123395 and #95394 since it is 
+not being nominated from a   processing agreement.  We either, need to input 
+a point nom (on HPL or KRGP) at these meters to match the nom at meter  9610, 
+or a deal for Purchase and Sale (if King Ranch is taking title to the gas) 
+needs to be input into Sitara at these meters  with the  appropriate rate.  I 
+have currently input a point nom on KRGP to accomodate this flow, so we can  
+divert some of this gas to the current interstate sales that are being made.
+
+2. Forest Oil -   There is a processing agreement that will accomodate flow 
+from the meter (6396) into King Ranch.  It is my
+ understanding that this agreement was originally setup until Texaco had 
+their own processing agreement.  I need   confirmation that the gas from this 
+meter should be nominated on contract # (96006681) and that this agreement 
+should  have been reassigned to HPLC. (It is currently still under HPLR).  
+
+ If this gas is not nominated on the above transport agreement, then once 
+again we need to accomodate the flow volume  on the HPL pipe with either a 
+point nom or a Sitara Deal at meters 415 and 9643.

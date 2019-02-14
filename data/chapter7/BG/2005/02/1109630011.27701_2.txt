@@ -1,0 +1,64 @@
+Return-Path: <nobody@secure.site-order2.com>
+Delivered-To: spambait-digitalfotoclub.com@spambait.homeip.net
+Received: (qmail 3880 invoked from network); 28 Feb 2005 19:54:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 28 Feb 2005 19:54:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Feb 2005 19:54:08 -0000
+Received: (qmail 30227 invoked from network); 28 Feb 2005 19:54:08 -0000
+Received: from secure.site-order2.com (unknown [147.202.38.50])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 28 Feb 2005 19:54:08 -0000
+Received: from nobody by secure.site-order2.com with local (Exim 4.43)
+	id 1D5qxw-0006dy-Jc
+	for digitalfotoclub.com@spambait.homeip.net; Mon, 28 Feb 2005 13:54:04 -0600
+To: digitalfotoclub.com@spambait.homeip.net
+Subject: Correspondence Assistant/Manager
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: JOB@HOME.INC
+Message-Id: <E1D5qxw-0006dy-Jc@secure.site-order2.com>
+Date: Mon, 28 Feb 2005 13:54:04 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - secure.site-order2.com
+X-AntiAbuse: Original Domain - spambait.homeip.net
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - secure.site-order2.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 933
+Lines: 32
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+
+<body>
+
+<p><font size="2" face="Arial">Hello: digitalfotoclub.com,<br>
+<br>
+
+Smart Workers Needed!!! Need extra part time income? 
+ Are you blessed with a new child yet unable to attend work? Are you a college student with odd class schedules impairing regular work time? 
+ Well you're in luck!!!
+We are looking for individuals to work. 
+Your work consists from spending no more than one-two hours a day. 
+It will afford you to occupy by this work in your free time. 
+THIS IS AN OPPORTUNITY TO OWN A BUSINESS AND WORK FROM HOME You must be at least 18 years of age. No Experience Necessary.
+ For the detailed information click below: :<br>
+<br> 
+<a href="http://www.job-mail-manager.com/vacancies.htm">
+http://www.job-mail-manager.com/vacancies.htm</a><br> 
+<br>
+Sincerely yours,<br>
+<br>
+Support Team.</font></p>
+
+</body>
+
+</html>

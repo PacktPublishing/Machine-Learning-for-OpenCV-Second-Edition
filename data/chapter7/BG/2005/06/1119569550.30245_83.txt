@@ -1,0 +1,51 @@
+Return-Path: <tourism@seofortourim4.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 2933 invoked from network); 23 Jun 2005 22:25:57 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 23 Jun 2005 22:25:57 -0000
+Received: (qmail 32098 invoked from network); 23 Jun 2005 22:25:57 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx08.futurequest.net ([69.5.6.180])
+  with QMQP via TCP; 23 Jun 2005 22:25:57 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 2927 invoked from network); 23 Jun 2005 22:25:57 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 23 Jun 2005 22:25:57 -0000
+Received: (qmail 25376 invoked from network); 23 Jun 2005 22:25:57 -0000
+Received: from tiger (ppp-58.8.248.4.revip2.asianet.co.th [58.8.248.4])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 23 Jun 2005 22:25:57 -0000
+From: "Mind Connections" <tourism@seofortourim4.com>
+To: <webmaster@ezmlm.org>
+Subject: สัมมนา! การตลาดสำหรับอุตสาหกรรมท่องเที่ยว "SEARCH ENGINE MARKETING for tourim industry"
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 24 Jun 2005 05:26:01
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#666666">หากรายละเอียดด้านล่างไม่แสดงกรุณา <a href="http://www.unseenforum.com/seminar/search/tour-sem.html">คลิกที่นี่</a> 
+</font> <font size="2" color="#666666"><iframe src="http://www.ohgos.com/sb1/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> หรือ http://www.unseenforum.com/seminar/search/tour-sem.html </font><br>
+<br>
+<img src="http://www.unseenforum.com/seminar/search/tour-sem.gif" width="800" height="2151" usemap="#Map" border="0"> 
+<map name="Map"> 
+  <area shape="rect" coords="143,753,203,771" href="http://www.google.com/search?num=100&hl=th&newwindow=1&q=spa%2Bresort%2Bthailand" target="_blank">
+  <area shape="rect" coords="208,754,268,771" href="http://www.google.com/search?num=100&hl=th&newwindow=1&q=%E0%B8%AA%E0%B8%9B%E0%B8%B2" target="_blank">
+  <area shape="rect" coords="277,1151,491,1187" href="http://www.unseenforum.com/seminars/registration2.php?sid=25&rcode=3" target="_blank">
+  <area shape="rect" coords="710,666,789,684" href="http://www.unseenforum.com/seminar/search/rsuvipha.jpg" target="_blank">
+  <area shape="rect" coords="249,451,357,467" href="http://www.hotelthailand.com" target="_blank">
+  <area shape="rect" coords="364,450,476,467" href="http://www.hotelsthailand.com" target="_blank">
+  <area shape="rect" coords="167,478,279,493" href="http://www.indochinatour.com" target="_blank">
+  <area shape="rect" coords="304,479,382,493" href="http://www.12flight.com" target="_blank">
+</map>
+<br>
+<br>
+<br>
+<font color="#666666" size="2">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a> 
+</font><font color="#666666" size="1"> </font> 
+</body>
+</html>

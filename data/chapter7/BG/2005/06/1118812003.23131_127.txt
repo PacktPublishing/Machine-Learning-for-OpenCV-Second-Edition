@@ -1,0 +1,31 @@
+Return-Path: <notebook@notebookexpo70.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13012 invoked by uid 115); 14 Jun 2005 21:51:06 -0000
+Received: from notebook@notebookexpo70.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(58.8.246.37):. 
+ Processed in 0.112372 secs); 14 Jun 2005 21:51:06 -0000
+Received: from ppp-58.8.246.37.revip2.asianet.co.th (HELO tiger) (58.8.246.37)
+  by churchill.factcomp.com with SMTP; 14 Jun 2005 21:51:04 -0000
+From: "SYNNEX Thailand" <notebook@notebookexpo70.com>
+To: <bruceg@em.ca>
+Subject: เหลือเชื่อ! สั่งประกอบโน้ตบุ๊คเอง ถูกกว่ากันเยอะ พบกันได้ในงาน "My Notebook Expo" พันธุ์ทิพย์ ไอทีมอลล์ และ เชียร์รังสิต
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 15 Jun 2005 04:53:13
+X-Qmail-Scanner-Message-ID: <111878586567213006@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#666666">หากรายละเอียดด้านล่างไม่แสดงกรุณา <a href="http://www.ohgos.com/notebook.html">คลิกที่นี่</a> 
+</font> <font size="2" color="#666666"><iframe src="http://www.ohgos.com/n1/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> ( http://www.ohgos.com/notebook.html )</font><br>
+<br>
+<a href="http://www.synnex.co.th/html/index.asp" target="_blank"><img src="http://www.ohgos.com/notebook.gif" width="829" height="1428" border="0"></a> 
+<br>
+<br>
+<font color="#663300"><br>
+<font size="2">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a> 
+</font></font><font color="#666666" size="2"> </font> 
+</body>
+</html>

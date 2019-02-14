@@ -1,0 +1,44 @@
+Return-Path: <tom@arehelpdesksolutions.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17654 invoked by uid 115); 26 Oct 2004 09:02:31 -0000
+Received: from tom@arehelpdesksolutions.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.245.177.160):. 
+ Processed in 0.098216 secs); 26 Oct 2004 09:02:31 -0000
+Received: from mail.easycgi.com (HELO easycgi.com) (66.245.177.160)
+  by churchill.factcomp.com with SMTP; 26 Oct 2004 09:02:30 -0000
+Received: from [67.181.126.199] (account marketing@arehelpdesksolutions.com HELO areserver.me)
+  by easycgi.com (CommuniGate Pro SMTP 4.2.3)
+  with ESMTP id 17654627 for bruceg@em.ca; Mon, 25 Oct 2004 23:06:22 -0400
+From: "Tom Marquez" <tom@arehelpdesksolutions.com>
+Subject: Follow-up CRM software
+To: bruceg@em.ca
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Reply-To: tom@arehelpdesksolutions.com
+Organization: ARE HelpDesk
+Date: Mon, 25 Oct 2004 20:04:20 -0700
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Message-ID: <0876601c385f1$b9b9f510$010a8c0@ESMTP>
+
+Good Morning,
+
+I'm following up on an email sent to you a few weeks back to see if your interest in a help desk outsourcing solution software or development might be a consideration for now or in 2005. We specialize in workflow collaboration software and the only firm that is assessed at communication management incorporated in our CRM applications. Please find below a brief profile of ARE Help Desk Solutions.
+
+The Active Request Engine™ is an information work management system that betters the collaboration amongst staff and teams. Improve customer satisfaction with better customer value through benchmarked ROI. With web based .net technologies, you establish overall solutions for ongoing requests long-term while maximizing performance today!
+
+I would love to spend a few minutes speaking with you to discuss how partnering with Active Request Engine Help Desk Software, QA and Development can add great value to your organization. 
+
+I can give you a brief description of our value proposition in help desk CRM management, and explore if there is a fit between our two companies., please let me know when you have a few minutes to chat. 
+
+I can be reached at 209.518.1378. Look forward to hearing from you. Thank you for your time. Have a great day!
+
+Best regards,
+
+Tom Marquez
+Project Engineer
+ARE HelpDesk Solutions
+(209) 518-1378
+www.arehelpdesksolutions.com

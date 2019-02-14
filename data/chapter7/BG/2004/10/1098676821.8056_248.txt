@@ -1,0 +1,22 @@
+Return-Path: <alex.barnettia@on-luebeck.de>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 28209 invoked by uid 115); 23 Oct 2004 00:14:16 -0000
+Received: from alex.barnettia@on-luebeck.de by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.187.219.109):. 
+ Processed in 0.355748 secs); 23 Oct 2004 00:14:16 -0000
+Received: from unknown (HELO gjr.paknet.com.pk) (211.187.219.109)
+  by churchill.factcomp.com with SMTP; 23 Oct 2004 00:14:15 -0000
+MIME-Version: 1.0
+Date: Sat, 23 Oct 2004 02:06:47 +0000
+Subject: =?iso-8859-1?b?RXh0cmVtZWx5IEFmZm9yZGFibGUgUHJlc2NyaXApdGlvbiBEcnVnKXMh?=
+Message-ID: <4179BCB7.9728AEBB@on-luebeck.de>
+To: bait@em.ca
+User-Agent: Mozilla/5.001 (windows; U; NT4.0; en-us) Gecko/25250101
+From: "Alex Barnett" <alex.barnettia@on-luebeck.de>
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<center><a href="http://mystuffforme.com"><img src="http://mystuffhome.com/.gif" border=0></a></center>
+</body></html>

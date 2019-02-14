@@ -1,0 +1,77 @@
+Return-Path: <"\"O[5-]\""@yebox.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 20797 invoked from network); 17 Oct 2004 17:29:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 17 Oct 2004 17:29:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Oct 2004 17:29:17 -0000
+Received: (qmail 19180 invoked from network); 17 Oct 2004 08:29:16 -0000
+Received: from ip503dc54c.speed.planet.nl (unknown [80.61.197.76])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 17 Oct 2004 08:29:16 -0000
+X-Message-Info: noe/C+3/TOG/p+46/422417869518
+Received: from bowditch721.hay.O[5-]@yebox.com (trough383.O[5-]@yebox.com [80.61.197.76])
+	by smtp-cyclic.directrix.O[5-]@yebox.com (Postfix) with SMTP id 27G48BE07HQS
+	for <cvs@bruce-guenter.dyndns.org>; Sun, 17 Oct 2004 13:30:45 +0400
+Received: from smtp-dam.polio.O[5-]@yebox.com ([80.61.197.76]) by t120-jqn9.O[5-]@yebox.com with Microsoft SMTPSVC(5.0.9674.3870);
+	 Sun, 17 Oct 2004 02:23:45 -0700
+Received: from smtp-moldavia.harvestman.O[5-]@yebox.com ([80.61.197.76]) by r3-vn23.O[5-]@yebox.com with Microsoft SMTPSVC(5.0.9855.0026);
+	 Sun, 17 Oct 2004 11:23:45 +0200
+X-Message-Info: SXXJ+%ND_LC_CHAR[1-3]8+yiw+MK+69/68506144255039
+Received: from creed.O[5-]@yebox.com ([60.110.113.132]) by befall.O[5-]@yebox.com with MailEnable ESMTP; Sun, 17 Oct 2004 04:32:45 -0500
+Date: Sun, 17 Oct 2004 04:25:45 -0500
+Message-Id: <676154724974.53994@O[5-]@yebox.com>
+From: Sydney  Ramirez <O[5-]@yebox.com>
+To: Cvs <cvs@bruce-guenter.dyndns.org>
+Subject: Gain new self-esteem.
+MIME-Version: 1.0 (produced by degenerateminion 9.5)
+Content-Type: multipart/alternative;
+	boundary="--95227866056731122"
+Content-Length: 1298
+Lines: 44
+
+----95227866056731122
+Content-Type: text/html;
+	charset="iso-8434-6"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: bash doll chock
+
+<html>
+<head>
+<style type=3D"text/css">
+<!--
+style2 {color: #FF0000}
+style3 {color: #000000}
+style4 {color: #00FF00}
+style5 {color: #3366FF;}
+style7 {color: #999999}
+style9 {color: #33CC33}
+style10 {color: #CCFF00}
+style12 {color: #FFCC00}
+style13 {color: #99FF00}
+-->
+</style>
+</head>
+
+<body>
+<p align=3D"center" class=3D"style2">Unsatisfied with your performance in =
+bed?
+</p>
+<p align=3D"center" class=3D"style3">Want an extra boost?</p>
+<p align=3D"center" class=3D"style5">Try the new Viagra Softab, disloves o=
+n your tongue and works in less then 15 minutes.</p>
+<p align=3D"center" class=3D"style5"><span class=3D"style7">Discrete and C=
+onfidential.</span> <span class=3D"style13">Doctor Approved.</span> <span =
+class=3D"style9">Shipped Worldwide.</span> <span class=3D"style10"><span c=
+lass=3D"style12">100% Guarantee</span>.</span></p>
+<p align=3D"center" class=3D"style3">We have the cheapest prices on the ne=
+t.</p>
+<p align=3D"center" class=3D"style3"><a href=3D"http://rx-zone.com/st/?bon=
+say" class=3D"style4">Go Here</a> <span class=3D"style5">to check out the =
+details.</span></p>
+</body>
+</html>
+
+
+----95227866056731122--

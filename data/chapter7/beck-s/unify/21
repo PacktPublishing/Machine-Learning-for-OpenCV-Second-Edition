@@ -1,0 +1,32 @@
+Message-ID: <21064365.1075855929975.JavaMail.evans@thyme>
+Date: Sun, 16 Jan 2000 11:52:00 -0800 (PST)
+From: inja.chun@enron.com
+To: richard.sage@enron.com, phil.yoxall@enron.com, stephen.schwarz@enron.com, 
+	paul.poellinger@enron.com, ian.sloman@enron.com, 
+	eric.virro@enron.com, kenneth.harmon@enron.com, 
+	regan.smith@enron.com
+Subject: Revised Unify Plan
+Cc: beth.perlman@enron.com, mark.pickering@enron.com, philippe.bibi@enron.com, 
+	sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com, mark.pickering@enron.com, philippe.bibi@enron.com, 
+	sally.beck@enron.com
+X-From: Inja Chun
+X-To: Richard Sage, Phil Yoxall, Stephen P Schwarz, Paul F Poellinger, Ian Sloman, Eric Virro, Kenneth M Harmon, Regan M Smith
+X-cc: Beth Perlman, Mark Pickering, Philippe A Bibi, Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+During the last few weeks, we experienced significant increases in Unify 
+transaction volumes because of Columbia Energy Services acquisition, EOL and 
+Calgary implementation.   For example, recently the Logistics transactions 
+increased by 91% while deal/meter count increased by 61% and total volume 
+(MMBTU) by 66%.  In addition, it is very possible that volumes may increase 
+by another 30% due to  new acquisitions in the near future. For these 
+reasons, we  must put our efforts in overhauling Unify Settlement  now before 
+working on London implementation.  Therefore, we are postponing our February 
+out visit to London.,  We will let you know our revised plans and targets as 
+soon as we can.  Thank you.

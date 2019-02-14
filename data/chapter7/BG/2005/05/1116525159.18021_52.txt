@@ -1,0 +1,55 @@
+Return-Path: <eclbub@mail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24562 invoked by uid 115); 19 May 2005 08:09:56 -0000
+Received: from eclbub@mail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(81.215.153.57):. 
+ Processed in 0.122899 secs); 19 May 2005 08:09:56 -0000
+Received: from dsl.dynamic8121515357.ttnet.net.tr (HELO ommo.net) (81.215.153.57)
+  by churchill.factcomp.com with SMTP; 19 May 2005 08:09:55 -0000
+From: "REMexport.com" <eclbub@mail.com>
+Reply-To: remexport@mynet.com
+To: bruceg@em.ca
+Date: Thu, 19 May 2005 11:26:02 -1200
+Subject: EXPORT CLUB FREE MEMBERSHIP
+X-Mailer: Microsoft Outlook Express 5.00.2919.7000
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-Qmail-Scanner-Message-ID: <111649019667224556@churchill>
+
+=3Chtml=3E
+
+=3Chead=3E
+=3Cmeta http-equiv=3D=22Content-Language=22 content=3D=22tr=22=3E
+=3Cmeta name=3D=22GENERATOR=22 content=3D=22Microsoft FrontPage 5=2E0=22=3E
+=3Cmeta name=3D=22ProgId=22 content=3D=22FrontPage=2EEditor=2EDocument=22=3E
+=3Cmeta http-equiv=3D=22Content-Type=22 content=3D=22text=2Fhtml=3B charset=3Dwindows-1254=22=3E
+=3Ctitle=3E=3C=2Ftitle=3E
+=3C=2Fhead=3E
+
+=3Cbody=3E
+
+=3Cdiv align=3D=22center=22=3E
+  =3Ccenter=3E
+  =3Ctable border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-collapse=3A collapse=22 bordercolor=3D=22#111111=22 width=3D=22526=22 id=3D=22AutoNumber1=22 height=3D=22343=22=3E
+    =3Ctr=3E
+      =3Ctd width=3D=22331=22 height=3D=22343=22=3E=3Cb=3E
+      =3Cfont color=3D=22#3366cc=22 size=3D=221=22 face=3D=22Verdana=22=3E
+=3Cimg alt=3D=22LET US HELP YOU=22 src=3D=22http=3A=2F=2Fwww=2Ethewaymedia=2Ecom=2Fgfx=5Fhomepage=2Feye=5Fgraphic=2Ejpg=22 border=3D=220=22 name=3D=22Partnerships=22 width=3D=22328=22 height=3D=22343=22=3E=3C=2Ffont=3E=3C=2Fb=3E=3C=2Ftd=3E
+      =3Ctd width=3D=22192=22 height=3D=22343=22=3E
+      =3Cp align=3D=22center=22=3E=3Cb=3E=3Cfont color=3D=22#008080=22 face=3D=22Comic Sans MS=22 size=3D=222=22=3E
+=3Ca href=3D=22http=3A=2F=2Fclub=2Eremexport=2Ecom=22 style=3D=22text-decoration=3A none=22=3E
+=3Cfont color=3D=22#008080=22=3EClick Here for more Info!=3C=2Ffont=3E=3C=2Fa=3E=3C=2Ffont=3E=3Cfont color=3D=22#3366cc=22 size=3D=221=22 face=3D=22Verdana=22=3E=3Cbr=3E
+=3C=2Ffont=3E=3C=2Fb=3E=3Ca href=3D=22http=3A=2F=2Fclub=2Eremexport=2Ecom=22=3E
+=3Cimg border=3D=220=22 src=3D=22http=3A=2F=2Fwww=2Eremexport=2Ecom=2Fresim=2FWEEKTRIAL1=2Egif=22 width=3D=22190=22 height=3D=22140=22=3E=3C=2Fa=3E=3Cbr=3E
+=3Cb=3E=3Cfont color=3D=22#008080=22 face=3D=22Comic Sans MS=22 size=3D=222=22=3EEXPORT CLUB SERVICE=3C=2Ffont=3E=3C=2Fb=3E=3C=2Ftd=3E
+    =3C=2Ftr=3E
+  =3C=2Ftable=3E
+  =3C=2Fcenter=3E
+=3C=2Fdiv=3E
+
+=3C=2Fbody=3E
+
+=3C=2Fhtml=3E
+
+

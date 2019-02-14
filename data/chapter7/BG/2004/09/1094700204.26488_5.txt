@@ -1,0 +1,57 @@
+Return-Path: <ILOLSJNQVDFR@polbox.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 24555 invoked from network); 8 Sep 2004 23:33:41 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 08 Sep 2004 23:33:41 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Sep 2004 23:33:41 -0000
+Received: (qmail 31478 invoked from network); 8 Sep 2004 23:33:39 -0000
+Received: from adsl-63-205-8-128.dsl.scrm01.pacbell.net (unknown [63.205.8.128])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 08 Sep 2004 23:33:38 -0000
+X-Message-Info: YEQ053rg632iSqrrBbav02
+Received: from jxqp30.smithsys.com ([76.176.3.224]) by in842-g.smithsys.com with Microsoft SMTP056794(46.3.1.1);
+	 Thu, 09 Sep 2004 02:22:22 +0300
+Received: from dooleyanalogousdramaturgyqca4 (dairyman[223.51.191.177])
+          by smithsys.com (epxb59) with SMTP
+          id <3561711OSB4400mf>
+          (Authid: vrszhmufLYWABCVNBGPOG);
+          Wed, 08 Sep 2004 18:29:22 -0500
+Message-ID: <37167.6264966.JMHQtej.8601ys@smithsys.com>
+Keywords: chunk discrete 
+Distribution: nag 
+Prevent-NonDelivery-Report: Yes
+Comments: piotr casket
+Reply-To: "Tad*Sosa" <JosephinegjcvxrdEdwards@smithsys.com>
+From: "Tad*Sosa" <JosephinegjcvxrdEdwards@smithsys.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Fwd: Great News
+Date: Thu, 09 Sep 2004 00:27:22 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--15639324258801705282"
+Content-Length: 544
+Lines: 20
+
+----15639324258801705282
+Content-Type: text/html;
+	charset="iso-2920-3"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible for a 2.3% rate and a $400,000 loan.
+<p>
+Please verify your information here:<br>
+ <a href="http://lomb.bargainloan.info/s5/li.php?l4d=55">http://lomb.bargainloan.info/s5/li.php?l4d=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<br>
+Tad*Sosa<br>
+Senior Account Manager<br>
+Webber Financial Association
+</html>
+
+----15639324258801705282--

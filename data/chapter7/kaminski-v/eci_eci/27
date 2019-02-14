@@ -1,0 +1,176 @@
+Message-ID: <19672873.1075856603290.JavaMail.evans@thyme>
+Date: Fri, 30 Jun 2000 01:06:00 -0700 (PDT)
+From: john.echols@enron.com
+To: ted.murphy@enron.com, stinson.gibner@enron.com, vince.kaminski@enron.com
+Subject: Re: EBS VaR Transaction Policy
+Cc: jim.fallon@enron.com, barry.pearce@enron.com, lou.casari@enron.com, 
+	kevin.howard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jim.fallon@enron.com, barry.pearce@enron.com, lou.casari@enron.com, 
+	kevin.howard@enron.com
+X-From: John Echols
+X-To: Ted Murphy, Stinson Gibner, Vince J Kaminski
+X-cc: Jim Fallon, Barry Pearce, Lou Casari, Kevin Howard
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+I have two things biting me. 
+
+First is time.  I need to turn a draft for Hannon and Rice ASAP.  So,  the 
+value of a deliberative approach to coming up with a V@R policy will quickly 
+evaporate if we take 2 weeks to study what the policy should say.
+
+Second,  I have a unique situation.  Our concept of V@R is really unlike the 
+rest of Enron's today.  What happens today is that network engineers 
+unilaterally make decisions about deployment, configuration and other matters 
+which effect the longs and shorts of our asset/contract portfolio that they 
+view strictly from a network operating standpoint.  
+
+A good example was a decision to move our primary TeraPop (three large 
+servers storing 165 gigabytes each) from Portland to LA.  The servers are 
+already in place and purchased,  so no capital was involved.  But the 
+decision has huge ramifications on the future LA/New York and other Bandwidth 
+usage, and that cost money.  Now it could be that the LA/New York cost is 
+cheaper than the Portland/New York cost,  the whole point is no one knows.   
+What our "value-at-risk" policy attempt to corral is these types of decisions 
+and put them into the hands of the risk management group,  where the decision 
+will be made with at least some economic work behind it.
+
+I really see the EBS V@R policy to be misnamed,  since we don't really have 
+the math done to calc V@R.  It really is a volumetric-based control policy 
+that says you can't make network changes over XX amount of Megabytes (a 
+storage measure)  or OC-3 equivalents (a bandwidth measure) without Risk 
+Management making or approving the decision.  I do believe that with 
+Research's help,  we can in time actually calculate the V@R impact of such 
+decisions.  At that time,  the policy should be modified to set metrics based 
+on the V@R calculations.
+
+So if you have an open enough mind to let us co-op your word for a minute,  
+we need to start turning the minds of the network industry people into 
+thinking about their decisions as having value effects.  Said directly,  
+Kevin Hannon has given me authority to write a policy to move control over 
+significant network changes from the field to the trading floor,  and I am 
+going to issue something NOW to effectuate that......
+
+So... I really want your views on what we are doing,  but thought you needed 
+some flavor and an sense of the urgency.  If you can weigh in,  do so 
+quickly.....
+
+
+
+	Barry Pearce
+	06/30/00 04:47 AM
+		 
+		 To: John Echols/Enron Communications@Enron Communications, Lou Casari/Enron 
+Communications@Enron Communications
+		 cc: 
+		 Subject: Re: EBS VaR Transaction Policy
+
+Positive....
+----- Forwarded by Barry Pearce/Enron Communications on 06/30/00 04:49 AM 
+-----
+
+	Ted Murphy@ECT
+	06/29/00 11:33 AM
+		
+		 To: Barry Pearce/Enron Communications@ENRON COMMUNICATIONS@ENRON
+		 cc: 
+		 Subject: Re: EBS VaR Transaction Policy
+
+Barry,
+Conceptually, I see no reason that a process like this can not be 
+implemented.  In some way we have attempted to do so through the Enron Corp 
+Transaction Approval Process (TAP).  I have forwarded to John a copy of this, 
+along with the Risk Management Policy.   I'll let him share with you if ok (I 
+really don't want to act as the firm's in-house Kinko's!!).   We have taken 
+the first step and done poorly on follow-up steps to create a very easy to 
+follow process for anything other than direct funded capital.  However, some 
+process around a greater number of assets/deals is better than none.   I 
+agree that I have not seen a really good fully baked one implemented, but I 
+think it is wrong not to try.  
+
+The only concerns I have is that, given that we want to have "standard" 
+metrics and approval processes around the firm, EBS creates a process/metric 
+which is complementary to and integrates with processes/metrics that the 
+other Business Units are subjected to .
+Ted
+
+
+
+
+	Barry Pearce @ ENRON COMMUNICATIONS
+	06/29/2000 09:09 AM
+	
+To: Stinson Gibner/HOU/ECT@ECT, Dale Surbey/LON/ECT@ECT, Ted 
+Murphy/HOU/ECT@ECT
+cc: Lou Casari/Enron Communications@Enron Communications, John Echols/Enron 
+Communications@Enron Communications, Jim Fallon/Enron Communications@Enron 
+Communications 
+Subject: EBS VaR Transaction Policy
+
+Hey you guys,
+
+We are trying to implement a 'VaR transaction' policy - and would like your 
+opinion.
+
+This is going to be tough - because I'm not sure we have implemented a 
+similiar policy across any of our other 'books' - that is - we looking to 
+bring in all the accrual/operational assets as well as the MTM stuff 
+(lambdas). To have a real-live 'configuration' of the system.
+
+If assets/routes/servers etc...are added - what is the impact on the 'value' 
+of the system and what it's worth. 
+
+John has attached a draft below - for your review and thoughts.
+
+I can see how this works in a trading environment - when you actually know 
+the VaR of your whole trading portfolio. However - I've not seen this done 
+with a mixture of MTM & accrual assets. Add the spice of a 'operational 
+system' valuation  - and this will be tough to quantify and model.
+
+Step 1 - configure system and value it 
+Step 2 - calculate a VaR on this. We will need to do some work here!
+Step 3 - calculate the incremental VaR of new deals/amendements/reconfigs etc 
+- tough....
+
+See what you think?
+
+B.
+
+
+
+
+
+
+	John Echols
+	06/28/00 05:41 PM
+		 
+		 To: Jim Fallon/Enron Communications@Enron Communications, Barry Pearce/Enron 
+Communications@Enron Communications, Lou Casari/Enron Communications@Enron 
+Communications
+		 cc: 
+		 Subject: Policies
+
+Here is a first rough draft of a "value @ risk" transaction policy.
+
+I would like you to start looking at where we are going on the policy and get 
+some early thinking going on limits for the V@R.  For example, should we 
+effectively shut down all server relocations without approval,  or allow some 
+level of MB of storage to be moved around or reconfigured?
+
+I need some commercial and industry realism for this.  We may need Rick 
+Paiste or your industry helpers (Marquardt, etc. to help us).
+
+Barry,  Lou,  I need your input.  
+
+
+
+
+
+
+
+
+

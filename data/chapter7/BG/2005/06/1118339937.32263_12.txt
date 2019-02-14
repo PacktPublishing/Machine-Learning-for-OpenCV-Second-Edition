@@ -1,0 +1,315 @@
+Return-Path: <eventosicone@iconenet.com.br>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 18122 invoked from network); 09 Jun 2005 12:17:55 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 09 Jun 2005 12:17:55 -0000
+Received: (qmail 11038 invoked from network); 9 Jun 2005 12:17:55 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx06.futurequest.net ([69.5.6.177])
+  with QMQP via TCP; 09 Jun 2005 12:17:55 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 18116 invoked from network); 09 Jun 2005 12:17:55 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 09 Jun 2005 12:17:55 -0000
+Received: (qmail 31903 invoked from network); 9 Jun 2005 12:17:55 -0000
+Received: from hermes (201008069163.user.veloxzone.com.br [201.8.69.163])
+  by mx10.futurequest.net ([69.5.6.182])
+  with SMTP via TCP; 09 Jun 2005 12:17:46 -0000
+From: "Validade legal aos documentos digitalizados" <eventosicone@iconenet.com.br>
+To: <webmaster@ezmlm.org>
+Subject: Conceitos e Aplicações da Certificação Digital
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 9 Jun 2005 09:19:02
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>II &Iacute;cone II</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.style3 {
+	color: #000000;
+	font-weight: bold;
+	font-size: 18px;
+}
+.style7 {color: #000000;
+	font-weight: bold;
+}
+.style14 {color: #000000}
+.style5 {font-size: 16px}
+.style8 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="760" border="1" align="center" bordercolor="#FFFFFF">
+  <tr> 
+    <td colspan="5"><img src="http://www.iconenet.com.br/imgs/topo.jpg" width="750" height="80"></td>
+  </tr>
+  <tr bgcolor="#CECFCE"> 
+    <td colspan="5"><div align="center"><font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><strong>Conceitos 
+        e Aplica&ccedil;&otilde;es da Certifica&ccedil;&atilde;o Digital: Mais 
+        Seguran&ccedil;a com Efic&aacute;cia Probat&oacute;ria de Conte&uacute;dos 
+        e Processos Eletr&ocirc;nicos</strong></font></div></td>
+  </tr>
+  <tr> 
+    <td width="1" rowspan="15" bgcolor="#CCCCCC"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td colspan="3" class="style3"><div align="center"><font size="3" face="Arial, Helvetica, sans-serif"> 
+        </font> <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font><font size="3" face="Arial, Helvetica, sans-serif">07 
+        de julho - Rio de janeiro </font><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;<a href="http://www.iconenet.com.br/cursos/inscricao.doc" target="_blank" class="style3">&lt;&lt; 
+        Inscreva-se aqui &gt;&gt;</a> </font></div>
+      <div align="left">
+      <font face="Arial, Helvetica, sans-serif" size="2">&nbsp;</font></div></td>
+    <td width="1" rowspan="15" bgcolor="#CECFCE"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td width="569" height="20" bgcolor="#CCCCCC"><span class="style7"><font size="2" face="Arial, Helvetica, sans-serif">::Objetivo</font></span></td>
+    <td width="3" rowspan="10" bgcolor="#CECFCE"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+    <td width="152" rowspan="12" bgcolor="#FFFFFF"><p><font size="2" face="Arial, Helvetica, sans-serif"><strong>Carga 
+        Hor&aacute;ria:</strong> 8 Horas-1dia</font></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Hor&aacute;rio</strong>: 
+        8:30 &agrave;s 18:00 horas &#8211; 8:30 &agrave;s 9:00 &eacute; reservado 
+        para retirada do material e crach&aacute; de identifica&ccedil;&atilde;o.</font></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Valores:</strong> </font></p>
+      <p class="style5"><font face="Arial, Helvetica, sans-serif" size="2">Curso 
+        Realizado no Rio de Janeiro - </font><b><font size="2" face="Arial, Helvetica, sans-serif">R$ 
+        580,00</font></b></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"> Desconto 
+        de 5% para a segunda ou mais pessoas da mesma empresa caso efetue o pagamento 
+        at&eacute; 10 dias antes da realiza&ccedil;&atilde;o do curso.</font></p>
+      <p class="style5"><font size="2"><strong><font face="Arial, Helvetica, sans-serif">OBS: 
+        </font></strong><font face="Arial, Helvetica, sans-serif">Dever&aacute; 
+        ser realizado o pagamento at&eacute; 5 dias &uacute;teis antes da data 
+        do curso</font></font></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"> <strong>O 
+        candidato dever&aacute; enviar a ficha de inscri&ccedil;&atilde;o a &Iacute;cone.</strong> 
+        </font></p>
+      <p align="center" class="style5"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.iconenet.com.br/cursos/inscricao.doc" target="_blank" class="style7"> 
+        Clique aqui </a></font></p>
+      <font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font> <p align="center"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Informa&ccedil;&otilde;es 
+        complementares </strong> 21-2285-6437 ou 2285-6562 <a href="mailto:eventos@iconenet.com.br" target="_blank">eventos@iconenet.com.br</a></font></p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <h6 align="center"><font size="3" face="Arial, Helvetica, sans-serif"><a href="http://www.iconenet.com.br" target="_blank">www.iconenet.com.br</a></font></h6>
+      <p><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;</font> 
+      </p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <div align="center"> 
+        <h6><font size="3" face="Arial, Helvetica, sans-serif"> <a target="_blank" href="http://www.iconenet.com.br/cursos/inscricao.doc">Inscreva 
+          - se aqui</a></font></h6>
+      </div>
+      <p><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+      </td>
+  </tr>
+  <tr> 
+    <td height="468"><font size="2" face="Arial, Helvetica, sans-serif">O objetivo 
+      principal deste curso &eacute; apresentar as caracter&iacute;sticas, conceitos, 
+      potencialidades e aplica&ccedil;&otilde;es da Certifica&ccedil;&atilde;o 
+      Digital, com detalhes suficientes para que o participante tenha condi&ccedil;&otilde;es 
+      de visualizar seu potencial de uso em qualquer ambiente organizacional. 
+      Para alcan&ccedil;ar este objetivo global, o curso prev&ecirc; atingir os 
+      seguintes objetivos espec&iacute;ficos:<br>
+      &#8226; Situar a Certifica&ccedil;&atilde;o Digital no contexto das tecnologias 
+      da informa&ccedil;&atilde;o e apresentar os conceitos dos principais componentes 
+      da Certifica&ccedil;&atilde;o Digital;<br>
+      &#8226; Detalhar cada um dos componentes de uma Infra-estrutura de Chaves 
+      P&uacute;blicas &#8211; ICP mostrado como &eacute; poss&iacute;vel garantir 
+      sigilo, autenticidade e integridade de conte&uacute;dos e processos eletr&ocirc;nicos 
+      e apresentar os procedimentos necess&aacute;rios para adquirir e fazer uso 
+      de Certificados Digitais; <br>
+      &#8226; Apresentar os principais conceitos e aplica&ccedil;&otilde;es da 
+      Tempestividade Digital, destacando a import&acirc;ncia da sua integra&ccedil;&atilde;o 
+      com a Certifica&ccedil;&atilde;o Digital;<br>
+      &#8226; Mostrar o potencial de aplica&ccedil;&atilde;o da Assinatura, Certifica&ccedil;&atilde;o 
+      e Tempestividade Digital, apresentando as diversas possibilidades de uso, 
+      tais como: tr&acirc;mite e armazenamento de documentos, autentica&ccedil;&atilde;o 
+      de processos, autentica&ccedil;&atilde;o de c&oacute;pias eletr&ocirc;nicas, 
+      etc. e apresentar os principais casos de sucesso no Brasil que j&aacute; 
+      utilizam a Assinatura e Certifica&ccedil;&atilde;o Digital;<br>
+      &#8226; Detalhar a Infra-estrutura de Chaves P&uacute;blicas Brasileira 
+      &#8211; ICP-Brasil, mostrando sua concep&ccedil;&atilde;o organizacional, 
+      pol&iacute;tica de seguran&ccedil;a, tipos de certificados, entidades credenciadas, 
+      etc. e evidenciar a sua import&acirc;ncia para a Certifica&ccedil;&atilde;o 
+      Digital no Brasil;<br>
+      &#8226; Apresentar o arcabou&ccedil;o legal no Brasil para Certifica&ccedil;&atilde;o 
+      Digital e suas principais implica&ccedil;&otilde;es, discorrendo sobre os 
+      mais importantes aspectos jur&iacute;dicos como: legisla&ccedil;&atilde;o, 
+      leis modelo, projetos de lei, efic&aacute;cia probat&oacute;ria e recomenda&ccedil;&otilde;es 
+      da doutrina jur&iacute;dica;<br>
+      &#8226; Orientar sobre as principais abordagens para viabiliza&ccedil;&atilde;o 
+      da Certifica&ccedil;&atilde;o Digital em uma organiza&ccedil;&atilde;o, 
+      evidenciando as vantagens e desvantagens de cada uma;<br>
+      &#8226; Relatar os principais mitos e barreiras que dificultam a viabiliza&ccedil;&atilde;o 
+      da Certifica&ccedil;&atilde;o Digital, mostrando como &eacute; poss&iacute;vel 
+      super&aacute;-las e assim garantir maior efic&aacute;cia na implanta&ccedil;&atilde;o;<br>
+      &#8226; Situar sobre importantes desafios com quest&otilde;es ainda em aberto, 
+      conscientizando os participantes dos riscos que isso pode acarretar e discutir 
+      as perspectivas para o futuro quanto a evolu&ccedil;&atilde;o e uso da Certifica&ccedil;&atilde;o 
+      Digital. </font></td>
+  </tr>
+  <tr> 
+    <td height="20" bgcolor="#CECFCE"><span class="style7"><font size="2" face="Arial, Helvetica, sans-serif">::P&uacute;blico-Alvo</font></span></td>
+  </tr>
+  <tr> 
+    <td><font size="2" face="Arial, Helvetica, sans-serif">&#8226; Executivos, 
+      profissionais e usu&aacute;rios das &aacute;reas de TIC;<br>
+      &#8226; Fornecedores de solu&ccedil;&otilde;es de TIC e integradores de 
+      sistemas;<br>
+      &#8226; Consultores e especialistas em seguran&ccedil;a da informa&ccedil;&atilde;o;<br>
+      &#8226; Usu&aacute;rios de solu&ccedil;&otilde;es para Gerenciamento Eletr&ocirc;nico 
+      de Documentos &#8211; GED;<br>
+      &#8226; Analistas de O&amp;M envolvidos com projetos de inform&aacute;tica;<br>
+      &#8226; Advogados envolvidos com o Direito Digital;<br>
+      &#8226; Demais interessados sobre Assinatura e Certifica&ccedil;&atilde;o 
+      Digital. </font></td>
+  </tr>
+  <tr> 
+    <td height="21" bgcolor="#CECFCE"><span class="style14"><font size="2" face="Arial, Helvetica, sans-serif"><strong>::Contextualiza&ccedil;&atilde;o</strong></font></span></td>
+  </tr>
+  <tr> 
+    <td><p><font size="2" face="Arial, Helvetica, sans-serif"> A Certifica&ccedil;&atilde;o 
+        Digital &eacute; um conjunto de t&eacute;cnicas e processos que propiciam 
+        mais seguran&ccedil;a &agrave;s comunica&ccedil;&otilde;es e transa&ccedil;&otilde;es 
+        eletr&ocirc;nicas, permitindo tamb&eacute;m a guarda segura de documentos. 
+        Baseia-se na exist&ecirc;ncia de Certificados Digitais, que podem ser 
+        entendidos como documentos de identifica&ccedil;&atilde;o eletr&ocirc;nicos. 
+        Os Certificados Digitais s&atilde;o emitidos por Autoridades Certificadoras, 
+        que s&atilde;o entidades consideradas confi&aacute;veis pelas partes envolvidas 
+        em uma comunica&ccedil;&atilde;o ou negocia&ccedil;&atilde;o no ambiente 
+        eletr&ocirc;nico. Esses certificados podem ser emitidos para pessoas f&iacute;sicas 
+        ou jur&iacute;dicas, equipamentos ou aplica&ccedil;&otilde;es. Um dos 
+        mais importantes prop&oacute;sitos da Certifica&ccedil;&atilde;o Digital 
+        &eacute; prover a Assinatura Digital. A assinatura digital &eacute; uma 
+        modalidade de assinatura eletr&ocirc;nica que utiliza algoritmos de criptografia 
+        assim&eacute;trica e permite aferir com seguran&ccedil;a a origem e a 
+        integridade de um documento. A assinatura digital fica de tal forma vinculada 
+        a um documento eletr&ocirc;nico &#8220;subscrito&#8221; que, ante a menor 
+        altera&ccedil;&atilde;o deste, a assinatura se torna inv&aacute;lida. 
+        A t&eacute;cnica permite n&atilde;o s&oacute; verificar a autoria do documento, 
+        como estabelece tamb&eacute;m uma &#8220;imutabilidade l&oacute;gica&#8221; 
+        de seu conte&uacute;do, pois qualquer altera&ccedil;&atilde;o no documento, 
+        como por exemplo, a inser&ccedil;&atilde;o de mais um espa&ccedil;o entre 
+        duas palavras, torna a assinatura inv&aacute;lida.</font></p>
+      <p><font size="2" face="Arial, Helvetica, sans-serif">A Certifica&ccedil;&atilde;o 
+        Digital t&ecirc;m as seguintes principais aplicabilidades:<br>
+        &#8226; Assinatura de conte&uacute;dos, mensagens e documentos eletr&ocirc;nicos 
+        com garantia de sigilo, integridade, autenticidade, n&atilde;o rep&uacute;dio 
+        e efic&aacute;cia probat&oacute;ria;<br>
+        &#8226; Autentica&ccedil;&atilde;o de c&oacute;pias eletr&ocirc;nicas 
+        (imagens) de documentos;<br>
+        &#8226; Oferece condi&ccedil;&otilde;es que podem garantir equival&ecirc;ncia 
+        legal entre documentos em papel e documentos eletr&ocirc;nicos;<br>
+        &#8226; Certifica&ccedil;&atilde;o com efic&aacute;cia probat&oacute;ria 
+        de quaisquer agentes atuantes no meio eletr&ocirc;nico tais como: s&iacute;tios 
+        internet, usu&aacute;rios, remetentes, destinat&aacute;rios, bancos de 
+        dados, sistemas, aplicativos, processos, etc;<br>
+        &#8226; Migra&ccedil;&atilde;o com seguran&ccedil;a e legalidade de documentos 
+        e processos do meio anal&oacute;gico para o meio digital.</font></p></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CECFCE"><span class="style7"><font size="2" face="Arial, Helvetica, sans-serif">::Programa</font></span></td>
+  </tr>
+  <tr> 
+    <td><font size="2" face="Arial, Helvetica, sans-serif">&#8226; Contextualizando 
+      a Certifica&ccedil;&atilde;o digital na &aacute;rea das tecnologias de informa&ccedil;&atilde;o;<br>
+      &#8226; Vulnerabilidades e necessidades de seguran&ccedil;a no ambiente 
+      eletr&ocirc;nico;<br>
+      &#8226; Conceitos fundamentais sobre Certifica&ccedil;&atilde;o Digital; 
+      <br>
+      &#8226; Infra-estrutura de Chaves P&uacute;blicas &#8211; ICP (PKI);<br>
+      &#8226; Exerc&iacute;cio 1: A import&acirc;ncia do n&atilde;o compartilhamento 
+      de segredo na criptografia;<br>
+      &#8226; ICP-Brasil: Concep&ccedil;&atilde;o organizacional, pol&iacute;ticas 
+      e pr&aacute;ticas de seguran&ccedil;a;<br>
+      &#8226; Principais aplica&ccedil;&otilde;es para Assinatura, Certifica&ccedil;&atilde;o 
+      e Tempestividade Digital;<br>
+      &#8226; Importantes cases de sucesso no Brasil utilizando Certifica&ccedil;&atilde;o 
+      Digital;<br>
+      &#8226; Exerc&iacute;cio 2: Sigilo, integridade e autenticidade com Certifica&ccedil;&atilde;o 
+      Digital;<br>
+      &#8226; Validade jur&iacute;dica e efic&aacute;cia probat&oacute;ria com 
+      Certifica&ccedil;&atilde;o Digital;<br>
+      &#8226; Abordagens para viabilizar a Certifica&ccedil;&atilde;o Digital 
+      na organiza&ccedil;&atilde;o;<br>
+      &#8226; Exerc&iacute;cio 3: Fraudes, f&eacute; p&uacute;blica e cuidados 
+      necess&aacute;rios;<br>
+      &#8226; Mitos e importantes desafios da Certifica&ccedil;&atilde;o Digital;<br>
+      &#8226; Considera&ccedil;&otilde;es finais, refer&ecirc;ncias para estudo 
+      e tempo para perguntas.</font> </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CECFCE"><span class="style7"><font size="2" face="Arial, Helvetica, sans-serif">::Material 
+      Did&aacute;tico e Metodologia</font></span></td>
+  </tr>
+  <tr> 
+    <td><font size="2" face="Arial, Helvetica, sans-serif">&#8226; Apostila com 
+      os slides apresentados;<br>
+      &#8226; Listagem dos exerc&iacute;cios a serem aplicados em sala de aula;<br>
+      &#8226; Principais refer&ecirc;ncias, onde o participante poder&aacute; 
+      aprofundar seus conhecimentos sobre Assinatura e Certifica&ccedil;&atilde;o 
+      Digital (em formato eletr&ocirc;nico PDF);<br>
+      &#8226; C&oacute;pia dos slides apresentados (em formato eletr&ocirc;nico 
+      PDF);<br>
+      &#8226; C&oacute;pia dos exerc&iacute;cios com as respectivas resolu&ccedil;&otilde;es 
+      (em formato eletr&ocirc;nico PDF);<br>
+      &#8226; Material de apoio, coffe-break e certificado de conclus&atilde;o. 
+      </font> 
+      <p></p></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CCCCCC"><font size="2" face="Arial, Helvetica, sans-serif"><strong>::Metodologia 
+      </strong></font></td>
+    <td bgcolor="#CECFCE"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td height="68"><font size="2" face="Arial, Helvetica, sans-serif">&#8226; 
+      Aula expositiva com apresenta&ccedil;&atilde;o do conte&uacute;do utilizando 
+      recurso multim&iacute;dia;<br>
+      &#8226; Esclarecimento de d&uacute;vidas e exemplos com acesso &agrave; 
+      internet se necess&aacute;rio;<br>
+      &#8226; Exerc&iacute;cios em sala de aula com aplica&ccedil;&atilde;o, resolu&ccedil;&atilde;o 
+      e coment&aacute;rios;<br>
+      &#8226; Est&iacute;mulo &aacute; reflex&atilde;o sobre itens que abordam 
+      desafios ou pol&ecirc;micos.</font></td>
+    <td bgcolor="#CECFCE"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td colspan="3" bgcolor="#CECFCE"><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td colspan="3"><span class="style14"><font size="2" face="Arial, Helvetica, sans-serif">Se 
+      desejar retirar seu email de nosso cadastro de mala direta por favor <strong><a href="mailto:eventos@iconenet.com.br?subject=Remove" target="_blank" class="style7">clique 
+      aqui</a></strong> ou responda para eventos@iconenet.com.br com o seguinte 
+      assunto: <strong>REMOVE.</strong></font></span></td>
+  </tr>
+</table>
+</body>
+</html>

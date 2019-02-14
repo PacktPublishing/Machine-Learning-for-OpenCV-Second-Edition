@@ -1,0 +1,47 @@
+Return-Path: <wtwngr@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 11348 invoked by uid 115); 13 Mar 2005 22:29:02 -0000
+Received: from wtwngr@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(168.226.122.56):. 
+ Processed in 4.744473 secs); 13 Mar 2005 22:29:02 -0000
+Received: from 168-226-122-56.speedy.com.ar (168.226.122.56)
+  by churchill.factcomp.com with SMTP; 13 Mar 2005 22:28:56 -0000
+Received: from bow presto (firewall.somberfarm.com [152.16.191.240]) by 168.226.122.56 (3.2.8/3.0.0) with ESMTP id IL99110 for <bait@em.ca>; Sun, 13 Mar 2005 23:33:30 +0100
+Message-ID: <e8814t45SY6L385G71ZH12JGQ54759987U427402@168.226.122.56>
+Reply-To: "Rena Sweet" <wtwngr@yahoo.com>
+From: "Rena Sweet" <wtwngr@yahoo.com>
+Content-Class: urn:content-classes:message/text
+Location: indiscriminate dismal hardhat
+Delivery-Notification: No
+To: "Bait" <bait@em.ca>
+Subject: Message subject
+Date: Mon, 14 Mar 2005 03:35:30 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--807145142001145"
+
+----807145142001145
+Content-Type: text/plain;
+	charset="iso-5747-2"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.mrlendez.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Kim Figueroa
+
+http://www.mrlendez.com/x/st.html
+
+
+----807145142001145--

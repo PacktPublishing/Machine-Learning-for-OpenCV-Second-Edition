@@ -1,0 +1,49 @@
+Return-Path: <NEPKPKC@onebox.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 3544 invoked from network); 27 Nov 2004 22:58:29 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 Nov 2004 22:58:29 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Nov 2004 22:58:29 -0000
+Received: (qmail 3483 invoked from network); 27 Nov 2004 22:58:28 -0000
+Received: from levallois-4-82-228-130-72.fbx.proxad.net (unknown [82.228.130.72])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Nov 2004 22:58:27 -0000
+Received: from mail pickup service by 82.228.130.72 with Microsoft SMTPSVC;
+	 Sun, 28 Nov 2004 00:59:49 +0300
+Content-Class: urn:content-classes:message
+Language: English
+X-MIME-Autoconverted: Yes
+Reply-To: "Sif Seth" <SeasonqzthlMarija@boscovs.com>
+From: "Sif Seth" <SeasonqzthlMarija@boscovs.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Please Complete and Return
+Date: Sun, 28 Nov 2004 02:55:49 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--47222902250453981"
+Content-Length: 447
+Lines: 20
+
+----47222902250453981
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+
+Dear Applicant,
+
+Your application was processed and approved. You are eligible for $ 400,000 with a 2.1 % rate.
+
+Please verify your information here: http://www.ibestrate.com/?partid=aaks9
+
+We look forward to hearing from you.
+
+Sif Seth, Account Manager
+Joset Marketing
+
+not interested -> http://ibestrate.com/st.html
+
+----47222902250453981--

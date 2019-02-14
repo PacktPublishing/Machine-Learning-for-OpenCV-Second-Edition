@@ -1,0 +1,63 @@
+Message-ID: <2356499.1075855930170.JavaMail.evans@thyme>
+Date: Fri, 25 Aug 2000 08:36:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: john.lavorato@enron.com, john.sherriff@enron.com, jeffrey.shankman@enron.com, 
+	ted.murphy@enron.com, mark.frevert@enron.com, rick.buy@enron.com, 
+	sally.beck@enron.com, shona.wilson@enron.com
+Subject: VaR Limit Usage Graphs
+Cc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com, 
+	jennifer.nguyen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com, 
+	jennifer.nguyen@enron.com
+X-From: Eugenio Perez
+X-To: John J Lavorato, John Sherriff, Jeffrey A Shankman, Ted Murphy, Mark Frevert, Rick Buy, Sally Beck, Shona Wilson
+X-cc: Michael E Moscoso, Maria Teresa Aguilera-Peon, Jennifer Nguyen
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have created two new graphs that will be published daily along with the 
+DPR.
+
+For each business unit or commodity group in the DPR the graphs show the VaR 
+compared to its limit.  
+
+When VaR is under the limit (as in the example on the right), it appears 
+green, and the unused portion of the limit appears yellow, which together add 
+up to the limit amount.  When VaR exceeds the limit (as on the left), the 
+limit is represented in red, and the excess is shown as a red box outlined in 
+black.  One graph shows usage in dollar terms and the other as a percentage 
+of the individual limits.
+
+We should be able to publish this graph to the web report viewer as soon as 
+the web masters have completed the set up.  Meanwhile, we will e-mail these 
+graphs to you every day after the DPR is finalized.  Today's are attached 
+below.  Please launch the Excel file instead of using the Lotus Notes viewer.
+
+Over the past several months we have been putting together a database to 
+standardize and capture the information that flows to the DPR (it is very 
+much like the database we created for EOL to report numbers).  With it we can 
+perform a variety of analyses (correlations between books, back-testing, 
+estimating sensitivities to risk factors, P&L decomposition and attribution, 
+etc.).  We are nearly finished with its construction, and we hope to provide 
+you superior analytics and reports in the future.
+
+Next week we hope to publish two new graphs: for each business unit in the 
+DPR one will have 30 day rolling and 5 day rolling ROVARs (average P&L 
+divided by average VaR) and the other will have 30 day rolling and 5 day 
+rolling curve shift Sharpe ratios (average delta - gamma P&L divided by its 
+standard deviation) .
+
+We hope you find these useful.
+
+Regards,
+
+
+
+Eugenio Perez
+Risk Analytics
+Energy Operations
+

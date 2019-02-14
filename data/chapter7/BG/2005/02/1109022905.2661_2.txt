@@ -1,0 +1,571 @@
+Return-Path: <cvcx@yahoo.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18017 invoked by uid 115); 21 Feb 2005 11:28:57 -0000
+Received: from cvcx@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.90.41.53):. 
+ Processed in 2.193785 secs); 21 Feb 2005 11:28:57 -0000
+Received: from gb.ja.41.53.revip.asianet.co.th (HELO Aomduen) (61.90.41.53)
+  by churchill.factcomp.com with SMTP; 21 Feb 2005 11:28:53 -0000
+From: "ปิยทัศน์" <cvcx@yahoo.com>
+To: <bruceg@em.ca>
+Subject: แปลงรายจ่ายให้เป็นรายได้
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 21 Feb 2005 18:32:49
+Return-Path: <cvcx@yahoo.com>
+X-Qmail-Scanner-Message-ID: <110898533567218007@churchill>
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-874">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Piyatus.files/filelist.xml">
+<title>สวัสดีค่ะ อย่าเพิ่งลบทิ้งนะคะ ลองอ่านให้จบก่อนแล้วค่อยลบก็ได้ค่ะ</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>TANOM</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>TANOM</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>29</o:TotalTime>
+  <o:Created>2005-02-20T12:40:00Z</o:Created>
+  <o:LastSaved>2005-02-20T12:40:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>367</o:Words>
+  <o:Characters>2092</o:Characters>
+  <o:Company>TRI-WALL</o:Company>
+  <o:Lines>17</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2569</o:CharactersWithSpaces>
+  <o:Version>9.6615</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Angsana New";
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:16777219 0 0 0 65537 0;}
+@font-face
+	{font-family:"Cordia New";
+	panose-1:2 11 3 4 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:16777219 0 0 0 65537 0;}
+@font-face
+	{font-family:AngsanaUPC;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:222;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:16777219 0 0 0 65536 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";}
+h1
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:18.0pt;
+	font-family:"Cordia New";
+	color:red;
+	mso-font-kerning:0pt;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";}
+p.style34, li.style34, div.style34
+	{mso-style-name:style34;
+	margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:15.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";
+	color:black;}
+p.style57, li.style57, div.style57
+	{mso-style-name:style57;
+	margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";
+	color:black;}
+p.style76, li.style76, div.style76
+	{mso-style-name:style76;
+	margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";
+	color:blue;}
+p.style33style26, li.style33style26, div.style33style26
+	{mso-style-name:"style33 style26";
+	margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Angsana New";}
+span.style761
+	{mso-style-name:style761;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	color:blue;}
+span.style841
+	{mso-style-name:style841;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	color:red;}
+span.style351
+	{mso-style-name:style351;
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	color:red;}
+span.style581
+	{mso-style-name:style581;
+	mso-ansi-font-size:15.0pt;
+	mso-bidi-font-size:15.0pt;
+	color:red;}
+span.style861
+	{mso-style-name:style861;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	color:#FF0099;}
+span.style791
+	{mso-style-name:style791;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	color:#339900;}
+span.style831
+	{mso-style-name:style831;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	color:#CC3399;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>สวัสดีค่ะ</span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC'> </span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>อย่าเพิ่งลบทิ้งนะคะ
+ลองอ่านให้จบก่อนแล้วค่อยลบก็ได้ค่ะ</span></b></span><b><span style='font-size:
+18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>อยากจะแนะนำโครงการดี
+ๆ</span></b></span><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC'> </span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ให้ทราบค่ะ</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>เป็นวิธีการแปลงรายจ่ายที่ต้องใช้ในชีวิตประจำวัน</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>กลับมาเป็นรายได้ให้เราตลอดทุกเดือน</span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC'> </span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>ตลอดชีพค่ะ</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+color:red'>ไม่ใช่ </span></b></span><span class=style761><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:red'>MLM </span></b></span><span class=style761><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:red'>นะคะ</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>ถ้าปกติคุณต้องไปซื้อของ </span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:red'>(shopping)</span></b><b><span style='font-size:18.0pt;font-family:
+Arial;mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>ที่ห้างสรรพสินค้า</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style841><b><span style='font-size:18.0pt;font-family:
+Arial;mso-bidi-font-family:AngsanaUPC'>Big C , Lotus , Carrefour , Central ,
+Top suppermarket</span></b></span><b><span style='font-size:18.0pt;font-family:
+Arial;mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>หรือรับประทานอาหารที่ร้าน
+&nbsp;</span></b><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:blue'><br>
+</span></b><span class=style841><b><span style='font-size:18.0pt;font-family:
+Arial;mso-bidi-font-family:AngsanaUPC'>KFC ,OISHI ,The Pizza Compapy ,
+Swensen's, S&amp;P</span></b></span><b><span style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>หรือใช้บัตรเติมเงินของ</span></b><b><span
+lang=TH style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'> </span></b><span class=style841><b><span style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC'>Happy D-promt , Orange Just
+Talk</span></b></span><b><span style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>หรือโดยสาร<span
+class=style841><span style='mso-ansi-font-size:18.0pt;mso-bidi-font-size:18.0pt;
+color:blue'>รถไฟฟ้า</span></span></span></b><span class=style841><b><span
+lang=TH style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'> </span></b></span><span class=style841><b><span style='font-size:
+18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC'>BTS</span></b></span><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;color:red'><span style="mso-spacerun:
+yes">&nbsp;&nbsp; </span>หรือแม้กระทั่ง<span class=style841><span
+style='mso-ansi-font-size:18.0pt;mso-bidi-font-size:18.0pt'>เติมน้ำมันรถ</span></span></span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>ซึ่งปกติคุณก็ต้องจ่ายเงินให้กับสถานที่ต่าง</span></b><b><span
+lang=TH style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'> </span></b><b><span lang=TH style='font-size:18.0pt;font-family:
+AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>ๆ
+เหล่านี้อยู่แล้ว</span></b><b><span style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>โดยไม่ได้อะไรกลับมา</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'>..</span></b><b><span lang=TH style='font-size:18.0pt;font-family:
+AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>ใช่มั้ยคะ
+</span></b><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:blue'>?<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>จะดีกว่ามั้ย </span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'>? </span></b><b><span lang=TH style='font-size:18.0pt;font-family:
+AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>ถ้าเวลาที่คุณจ่ายเงินให้กับสถานที่ต่าง
+ๆ</span></b><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>เหล่านี้</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>คุณสามารถสะสมยอดเงินเป็นคะแนน</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>แล้วนำมาคิดเป็นเงินกลับคืนให้คุณทุกครั้งที่คุณใช้จ่าย</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>นอกจากนี้คุณยังสามารถนำโครงการนี้ไปแนะนำคนอื่นต่อ</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>เวลาที่เขาใช้จ่าย</span></b><b><span
+lang=TH style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'> </span></b><b><span lang=TH style='font-size:18.0pt;font-family:
+AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>คุณก็จะได้เงินจากเขาด้วยทุกครั้งเช่นกัน</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>เห็นไหมคะว่ามันทำได้ง่ายมาก
+ๆ</span></b><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>โดยที่เราไม่ต้องขายสินค้าอะไรเลย</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>เพราะทุกคนจำเป็นต้องซื้อสินค้า</span></b><b><span
+lang=TH style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'> </span></b><b><span lang=TH style='font-size:18.0pt;font-family:
+AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>หรือกินอาหารตามที่ต่าง
+ๆ</span></b><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>เหล่านี้อยู่แล้ว</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>เราแค่แนะนำโครงการนี้ออกไปให้คนทั่วไปรู้จักเท่านั้น</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>เขาเหล่านั้นก็จะสมัครเข้าร่วมโครงการเอง<span
+class=style351><span style='color:blue'> คุณสามารถมีรายได้ตั้งแต่</span></span></span></b><span
+class=style351><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+<span class=style351><span style='color:blue'>12.50 - 2,929,687.50</span></span></span></b><span
+class=style351><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>บาท</span></b></span><span
+class=style351><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:blue'>/</span></b></span><span class=style351><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;color:blue'>เดือน</span></b></span><span
+class=style351><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b></span><span
+class=style351><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>หรือมากกว่า</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>ถ้าคุณมองเห็นโอกาสที่จะทำรายได้มหาศาลจากโครงการนี้</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>คุณสามารถสมัครเป็นสมาชิกกับเรา</span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC'> </span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>และเริ่มโครงการได้ทันที</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style581><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+color:blue'>พิเศษ </span></b></span><span class=style581><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'>!! </span></b></span><span class=style581><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>ฟรีค่าสมัคร</span></b></span><span
+class=style581><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'> </span></b></span><span
+class=style581><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>ตั้งแต่วันนี้
+</span></b></span><span class=style581><b><span style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC;color:blue'>- 28</span></b></span><span
+class=style581><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'> กุมภาพันธ์
+</span></b></span><span class=style581><b><span style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC;color:blue'>2548</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ไม่เสียค่าใช้จ่ายใด
+ๆ ทั้งสิ้น</span></b></span><b><span style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+<span class=style761><span style='mso-ansi-font-size:18.0pt;mso-bidi-font-size:
+18.0pt'>(</span></span></span></b><span class=style761><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial'>ปกติแล้วค่าสมัครสมาชิกตลอดชีพ</span></b></span><span
+class=style761><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC'> 1,400</span></b></span><span class=style761><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial'> บาท ค่ะ</span></b></span><span class=style761><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC'>)</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;
+color:red'>ระบบนี้เรียกว่า </span></b></span><span class=style761><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:red'>&quot;</span></b></span><span class=style761><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:red'>ระบบซื้อตรง</span></b></span><span
+class=style761><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:red'>&quot; </span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;color:red'>ไม่ใช่</span></b></span><span
+class=style761><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:red'> &quot;</span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial;color:red'>ขายตรง</span></b></span><span
+class=style761><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:red'>&quot;</span></b></span><b><span style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>เพราะเรารู้ว่าการใช้จ่าย
+ง่ายกว่าการขาย</span></b></span><b><span style='font-size:18.0pt;font-family:
+Arial;mso-bidi-font-family:AngsanaUPC;color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>อย่าเพิ่งเชื่อนะคะ</span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC'> </span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>ถ้าคุณยังไม่ได้ลองพิสูจน์ด้วยตัวคุณเอง</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ดูรายละเอียดเพิ่มเติมที่</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:
+AngsanaUPC;color:red'><a href="http://www.hope-ucc.com" target="_blank"
+title="http://www.hope-ucc.com/"><span style='color:red'>http://www.hope-ucc.com</span></a></span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><o:p></o:p></span></b></p>
+
+<h1><span lang=TH style='font-size:20.0pt'>วิธีการสมัคร<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>ส่งแฟกซ์เอกสารมาที่เบอร์<span
+style="mso-spacerun: yes">&nbsp; </span>02-7066179</span><span
+style='font-size:20.0pt'><o:p></o:p></span></h1>
+
+<p class=MsoNormal align=center style='text-align:center;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:18.0pt;
+font-family:"Cordia New";color:blue'>(1) <span lang=TH>สำเนาบัตรประชาชน
+(ต้องชัดเจนโดยถ่ายจากบัตรครั้ง</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><b><span lang=TH
+style='font-size:18.0pt;font-family:"Cordia New";color:blue'>แรกแล้วส่ง)
+และพร้อมระบุเบอร์โทรศัพย์ติดต่อกลับ</span></b><b><span style='font-size:18.0pt;
+font-family:"Cordia New";color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:18.0pt;
+font-family:"Cordia New";color:blue'>(2) <span lang=TH>สำเนาสมุดบัญชีธนาคารออมทรัพย์หน้าที่มีหมายเลข
+(ธ.กรุงเทพ</span>, <span lang=TH>ธ.กสิกรไทย</span>, <span lang=TH>ธ.ไทยพานิช</span>
+, <span lang=TH>ธ.กรุงศรีฯ เท่านั้น)</span></span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><b><span lang=TH
+style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;color:blue'>ถ้ามีข้อสงสัย ข้อข้องใจ</span></b><b><span
+lang=TH style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'> </span></b><b><span lang=TH style='font-size:18.0pt;font-family:
+AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>หรือต้องการให้ช่วยเรื่องอะไร</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;color:blue'>ติดต่อได้ตลอดนะคะ</span></b><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+<span class=style861><span style='mso-ansi-font-size:18.0pt;mso-bidi-font-size:
+18.0pt;color:blue'>E-mail : sangvean4805@hotmail.com</span></span><br>
+</span></b><b><span style='font-size:18.0pt;font-family:"Cordia New";
+color:blue'>(((( <span lang=TH>ท่านต้องระบุชื่อและหมายเลขของหัวหน้าสายหรือผู้แนะนำ
+เพราะเขาจะได้รู้จักท่านและทีมงานของเราที่ทำงานกันหลายสิบคนซึ่งแต่ละคนสามารถมีสมาชิกติดตัวได้แค่คนละ
+5 คนเท่านั้น ส่วนที่เกิน 5 คนจะโยนต่อมาให้ลูกทีมเรื่อยๆ </span>))))<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-pagination:none;
+mso-layout-grid-align:none;text-autospace:none'><b><span lang=TH
+style='font-size:18.0pt;font-family:"Cordia New";color:red'>ให้กรอกหัวหน้าสายและชื่อผู้แนะนำเป็น<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>นางปิยทัศน์<span
+style="mso-spacerun: yes">&nbsp; </span>คำนวน</span></b><b><span
+style='font-size:18.0pt;font-family:"Cordia New";color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;font-family:"Cordia New";color:blue'>Hope-UCC<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span><span lang=TH>หมายเลข</span><span
+style="mso-spacerun: yes">&nbsp; </span>V<span lang=TH>3000056</span>19<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Hope-IVY<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=TH>หมายเลข<span style="mso-spacerun: yes">&nbsp;
+</span>990004002</span></span></b><b><span style='font-size:18.0pt;font-family:
+Arial;mso-bidi-font-family:AngsanaUPC;color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>อีเมล์ฉบับนี้ส่งมาโดยหวังว่าจะเป็นประโยชน์สำหรับคุณ</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>หากแต่เป็นการรบกวนการทำงานของคุณ</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ต้องขอโทษ</span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:Arial;
+mso-bidi-font-family:AngsanaUPC'> </span></b></span><span class=style761><b><span
+lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;mso-ascii-font-family:
+Arial;mso-hansi-font-family:Arial'>และขออภัยเป็นอย่างสูง</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><br>
+</span></b><span class=style761><b><span lang=TH style='font-size:18.0pt;
+font-family:AngsanaUPC;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ถ้ายังไงก็อย่าลืมติดต่อมานะคะ
+</span></b></span><span class=style761><b><span style='font-size:18.0pt;
+font-family:Arial;mso-bidi-font-family:AngsanaUPC'>.. </span></b></span><span
+class=style761><b><span lang=TH style='font-size:18.0pt;font-family:AngsanaUPC;
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ขอบคุณมากค่ะ</span></b></span><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;font-family:Arial;mso-bidi-font-family:AngsanaUPC;
+color:blue'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>

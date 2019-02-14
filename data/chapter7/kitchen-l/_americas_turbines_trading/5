@@ -1,0 +1,28 @@
+Message-ID: <7938656.1075840950845.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 16:16:00 -0800 (PST)
+From: larry.may@enron.com
+To: john.lavorato@enron.com, john.disturnal@enron.com, louise.kitchen@enron.com, 
+	john.arnold@enron.com, hunter.shively@enron.com, 
+	sally.beck@enron.com, phillip.allen@enron.com, 
+	peter.keavey@enron.com, scott.neal@enron.com, susan.scott@enron.com, 
+	jeffrey.gossett@enron.com, shouan.tang@enron.com
+Subject: re: Gas Daily options revaluation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Larry May <Larry May/Corp/Enron@ENRON>
+X-To: John J Lavorato <John J Lavorato/Enron@EnronXGate>, John Disturnal <John Disturnal/CAL/ECT@ECT>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, John Arnold <John Arnold/HOU/ECT@ECT>, Hunter S Shively <Hunter S Shively/HOU/ECT@ECT>, Sally Beck <Sally Beck/HOU/ECT@ECT>, Phillip K Allen <Phillip K Allen/HOU/ECT@ECT>, Peter F Keavey <Peter F Keavey/HOU/ECT@ECT>, Scott Neal <Scott Neal/HOU/ECT@ECT>, Susan M Scott <Susan M Scott/HOU/ECT@ECT>, Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>, Shouan Tang <Shouan Tang/Enron@EnronXGate>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+This is to inform you that we are rolling out changes to the Gas Daily option pricing model.  Currently the system is not properly pricing index puts and calls at locations with gas daily index premiums or discounts (puts and calls are priced at the same level no matter what the index).  The change will result in raising call values/lowering put values at locations with index premiums and the opposite at locations with index discounts.
+
+In addition, index plus/minus option deals (for example index -1.00 puts) - which are currently incorrectly priced flat to the index option (the index -1.00 put is priced flat to the index put)- will be accurately priced to reflect the difference in strikes.
+
+If  anyone has any questions please call me at  3-6731.
+
+Thank You,
+
+Larry May

@@ -1,0 +1,41 @@
+Return-Path: <hr@hr_marketing350.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8304 invoked by uid 115); 13 May 2005 20:38:51 -0000
+Received: from hr@hr_marketing350.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(58.8.246.55):. 
+ Processed in 0.119149 secs); 13 May 2005 20:38:51 -0000
+Received: from ppp-58.8.246.55.revip2.asianet.co.th (HELO tiger) (58.8.246.55)
+  by churchill.factcomp.com with SMTP; 13 May 2005 20:38:50 -0000
+From: "Marketing GURU" <hr@hr_marketing350.net>
+To: <bruceg@em.ca>
+Subject: เชิญสัมมนา "การบริหารองค์กร และทรัพยากรมนุษย์ เพื่อรองรับศตวรรษที่ 21"  โดย รศ.สมยศ นาวีการ
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sat, 14 May 2005 03:54:05
+X-Qmail-Scanner-Message-ID: <11160167316728298@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#666666">หากรายละเอียดด้านบนไม่แสดงกรุณา <a href="http://www.mga.co.th/ma/hr.html">คลิกที่นี่</a> 
+</font> <font size="2" color="#666666"> 
+<map name="Map2"> 
+  <area shape="rect" coords="9,889,676,1011" href="http://www.mga.co.th/ma/hr.doc" target="_blank">
+  <area shape="rect" coords="377,1049,444,1076" href="http://www.mga.co.th/new-04-21-04/membernew.doc">
+  <area shape="rect" coords="540,1034,611,1061" href="http://www.mga.co.th/index_member.htm">
+  <area shape="rect" coords="131,1275,618,1307" href="mailto:unsubMGA@poppymail.com">
+  <area shape="rect" coords="7,1331,673,1677" href="http://www.mga.co.th/ma/nitipum.htm" target="_blank">
+</map>
+<iframe src="http://www.ohgos.com/m02/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> ( http://www.mga.co.th/ma/hr.html )</font><br>
+<img src="http://www.mga.co.th/ma/hr.gif" width="680" height="1691" usemap="#Map2" border="0"> 
+<br>
+<br>
+<br>
+<br>
+
+<hr noshade>
+<font color="#666666"> <font size="1" color="#003366">unsubscript please reply 
+to <a href="mailto:unsubmga@poppymail.com">unsubmga@poppymail.com</a> </font></font> 
+</body>
+</html>

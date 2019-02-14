@@ -1,0 +1,114 @@
+From: "Mail Delivery Subsystem" <MAILER-DAEMON@archi.cse.cau.ac.kr>
+To: <paliourg@iit.demokritos.gr>
+Subject: Returned mail: see transcript for details
+Date: Mon, 6 Dec 2004 07:02:59 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_13EA_01C5B2FD.31231560"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_13EA_01C5B2FD.31231560
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-7">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7036.0">
+<TITLE>Returned mail: see transcript for details</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>The original message was received at Mon, 6 Dec 2004 =
+13:02:57 +0900 (KST)<BR>
+from bzgakxfu@[165.194.27.111]<BR>
+<BR>
+&nbsp;&nbsp; ----- The following addresses had permanent fatal errors =
+-----<BR>
+&lt;bill@epfl.ch&gt;<BR>
+&nbsp;&nbsp;&nbsp; (reason: 550 &lt;bill@epfl.ch&gt; unknown =
+mailbox)<BR>
+<BR>
+&nbsp;&nbsp; ----- Transcript of session follows -----<BR>
+... while talking to smtp2.epfl.ch.:<BR>
+&gt;&gt;&gt; RCPT To:&lt;bill@epfl.ch&gt;<BR>
+&lt;&lt;&lt; 550 &lt;bill@epfl.ch&gt; unknown mailbox<BR>
+550 5.1.1 &lt;bill@epfl.ch&gt;... User unknown<BR>
+</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_000_13EA_01C5B2FD.31231560
+Content-Type: text/plain;
+	name="details.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="details.txt"
+
+Reporting-MTA: dns; archi.cse.cau.ac.kr
+Received-From-MTA: DNS; [165.194.27.111]
+Arrival-Date: Mon, 6 Dec 2004 13:02:57 +0900 (KST)
+
+Final-Recipient: RFC822; bill@epfl.ch
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; smtp2.epfl.ch
+Diagnostic-Code: SMTP; 550 <bill@epfl.ch> unknown mailbox
+Last-Attempt-Date: Mon, 6 Dec 2004 13:02:59 +0900 (KST)
+
+------=_NextPart_000_13EA_01C5B2FD.31231560
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment
+
+From: <paliourg@iit.demokritos.gr>
+To: <bill@epfl.ch>
+Subject: HEY!
+Date: Mon, 6 Dec 2004 07:26:09 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title></title>
+
+</head>
+<body text=3D000000" bgcolor=3Dffffcc" link=3D000099"
+ vlink=3D990099"
+ alink=3D000099">
+
+<i>Hi! I am looking for new friends.</i>
+<p><i>My name is Jane, I am from Miami, FL. </i></p>
+<p><i>See my <a =
+href=3D"http://165.194.27.111:1639/index.htm">homepage</a>  with my =
+weblog and last webcam
+photos!</i></p>
+<i>See you!</i>
+<p><i><br>
+<br>
+</i></p>
+<br>
+</body>
+</html>
+
+
+
+
+
+------=_NextPart_000_13EA_01C5B2FD.31231560--

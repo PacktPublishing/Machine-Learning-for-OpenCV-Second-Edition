@@ -1,0 +1,99 @@
+Message-ID: <33276532.1075840860241.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 15:25:53 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, mark.pickering@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV project weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Pickering, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MPICKER>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the weekly project status update and the attached file for the updated project timelines. Changes are underlined.
+
+GTV status meeting attendees: Thu Dang, Nayan Dattani, Bill Fortney, Jeff Gossett, George Grant, Jay Krish, Russ Severson, Geoff Storey, Michael Swaim, Zhiyong Wei, Jeremy Wong.
+
+Accomplishments:
+?	GTV2 Phase 1 items
+o	Released to production.
+?	Saving different views in TDS:
+o	Released to production.
+?	Capability for desk roll-ups on an ad hoc basis (phase 2, on hold since 7/9/01):
+o	New process for roll-up aggregators has been completed.
+?	Option Grid (phase 2):
+o	Released to production.
+?	Gas Daily options (phase 2):
+o	Released to production.
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options has been completed in TAGG.
+o	Development of loading correlation curves has been completed.
+o	Changes to the Translator have been completed.
+o	Development of Portcalc valuation of Basis Spread Options completed.
+?	Options reports
+o	Completed development of Vega P&L, Vega Sensitivity, and Delta Position reports.
+?	Transport Deal Capture & Valuation (phase 2):
+o	Creation of new deal entry type & database changes has been completed.
+o	Changes to the Translator have been completed.
+o	Completed development of Portcalc to value Transport deals.
+?	Add more information to the drill-down deal details.
+o	Released to production.
+?	New Flexible Deal Viewer.
+o	Database schema design completed.
+o	Initial Load of active Deals from Sitara completed.
+o	TIBCO work completed.
+o	Units of Measure conversions completed.
+o	Update of active deals from Sitara completed.
+o	Development of Query Engine completed.
+o	Development of Delphi feed to Excel completed.
+o	Schema mapping completed.
+o	Initial loading of active deals from TAGG completed.
+o	3 new requests (from last Wednesday's demo) for Update Server completed.
+o	Completed Development of Excel VB.
+o	Completed remaining new request for Update Server (SIC codes).
+o	Completed development of update of active deals from TAGG.
+o	Resolved some issues uncovered.
+?	Screening Volume Feedback in TDS Deal Ticker.
+o	Completed database changes in Stage and Parallel.
+o	Completed modifying CPR Reader to handle process flag.
+o	Completed modify database triggers.
+o	Completed make changes to CPR Bridge.
+o	Completed modify CPR Reader to handle process flag.
+o	Completed implement delete logic in CPR Reader to clean up old deals.
+o	Completed changing View Aggregation to resend deals when requested.
+o	Completed modifying View Aggregator to request sending deals.
+o	Completed modifying TDS Deal Ticker to show deal term changes.
+o	Completed integration testing.
+?	Implementing TDS in Calgary office
+o	Discussed efforts needed for implementing TDS for Calgary office.
+?	Investigate ways of improving EOL bridging to Sitara and TAGG for term physical deals.
+o	Started discussion and needs further investigation.
+
+Plans for the week ending 10/19/01:
+?	Continue IT development of Phase II issues.
+o	Continue testing of Basis Options.
+o	Complete development of curve shift report.
+o	Complete unit testing of Portcalc change to value Transport deals.
+?	New Flexible Deal Viewer.
+o	Continue user acceptance testing.
+o	Continue development of requested enhancements of Flexible Deal Viewer and Sitara.
+?	Screening volume feedback in TDS Deal Ticker.
+o	Complete user acceptance testing.
+?	Implementing TDS in Calgary office
+o	User approval.
+
+Issues:
+?	None.
+
+Notes
+?	Planning to end the GTV development by the end of this year.
+
+ 
+
+Thanks
+
+Zhiyong

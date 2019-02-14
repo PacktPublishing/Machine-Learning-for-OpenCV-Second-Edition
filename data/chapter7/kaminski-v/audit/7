@@ -1,0 +1,60 @@
+Message-ID: <32941009.1075857008563.JavaMail.evans@thyme>
+Date: Mon, 8 May 2000 08:22:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: duffie@stanford.edu
+Subject: Enron Storage Analysis Model audit
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, zimin.lu@enron.com
+X-From: Zimin Lu
+X-To: duffie@stanford.edu
+X-cc: Vince J Kaminski, Stinson Gibner, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Professor Darrel Duffie
+450 Miramonte Avenue
+Palo Alto, CA 94306
+
+         May 8, 2000
+
+
+
+Dear Professor Duffie,
+
+
+I enclosed with this e-mail Enron Storage Analysis  Model (SAM) for your=20
+review.  The attached files include:=20
+ 1) a brief documentation of the model (SAM.doc), 2) c-code of the main=20
+routines, 3) Excel spreadsheet interface,=20
+4) SAM_audit.dll .
+
+Dr. Vince Kaminski, Dr. Stinson Gibner and myself have spent about one year=
+=20
+in developing this model. =20
+With traders=01, feedback incorporated, the model results are close to real=
+ity. =20
+Although there are features to be included,=20
+we believe the model is ready for your review.  We look forward to your=20
+comments and suggestions.=20
+
+
+Please feel free to contact me should you need additional detail. =20
+
+
+Sincerely,
+
+
+
+Zimin Lu
+
+Director, Enron Research
+Zlu@enron.com
+713-853-6388
+
+
+Enclosures
+

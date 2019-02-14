@@ -1,0 +1,46 @@
+Return-Path: <tabitha.cannonet@asgard.net.au>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26719 invoked by uid 115); 10 Oct 2004 21:32:34 -0000
+Received: from tabitha.cannonet@asgard.net.au by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(221.219.198.59):. 
+ Processed in 0.553711 secs); 10 Oct 2004 21:32:34 -0000
+Received: from unknown (HELO worldonline.de) (221.219.198.59)
+  by churchill.factcomp.com with SMTP; 10 Oct 2004 21:32:33 -0000
+To: bruceg@em.ca
+Date: Sun, 10 Oct 2004 23:25:47 +0000
+Message-ID: <4169C4FB.B5DC5408@asgard.net.au>
+Subject: =?ISO-8859-1?b?Tm93IGlzIHRoZSB0aW1lIHRvIHJlZmluYW5AY2U=?=
+User-Agent: Mozilla/5.001 (windows; U; NT4.0; en-us) Gecko/25250101
+MIME-Version: 1.0
+From: "Tabitha Cannon" <tabitha.cannonet@asgard.net.au>
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+<div align="center">
+  <center><!--mh829ZFLZiS8eUc-->
+    <table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="256">
+        <a href="http://www.badcrednoproblemloans.com/green/index.php?affiliateid=m8">
+	<img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c1.gif" width="256" height="82" border="0"></a></td>
+        <td width="125"><a href="http://www.badcrednoproblemloans.com/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c2.gif" width="166" height="82" border="0"></a></td>
+        <td width="219" rowspan="2"><a href="http://www.badcrednoproblemloans.com/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c3.gif" width="178" height="283" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.badcrednoproblemloans.com/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c1.gif" width="256" height="201" border="0"></a></td>
+        <td><a href="http://www.badcrednoproblemloans.com/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c2.gif" width="166" height="201" border="0"></a></td>
+      </tr>
+      <tr bgcolor="#990000">
+        <td colspan="3"></td>
+      </tr>
+    </table>
+</body>
+</html>
+

@@ -1,0 +1,37 @@
+Message-ID: <30292473.1075856641946.JavaMail.evans@thyme>
+Date: Fri, 10 Nov 2000 08:17:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: naveen.andrews@enron.com
+Subject: Re: looking for "Fat Tails" in time-series for NGI-SOCAL
+Cc: vince.kaminski@enron.com, vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, vladimir.gorny@enron.com
+X-From: Tanya Tamarchenko
+X-To: Naveen Andrews
+X-cc: Vince J Kaminski, Vladimir Gorny
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Naveen,
+
+I got NGI-SOCAL prices for prompt, prompt+1,...,prompt+59 contracts.
+For each contract I calculated moving average based on 21 log-returns as
+well as moving volatility. Then I calculated normalized log-returns:
+
+[ return(t)-ave(t) ] / vol(t)
+
+and compared the results to normal distribution. 
+
+I COULD NOT FIND Fat Tails! 
+
+Volatility changes a lot from day to day, so when people look at
+log-returns (not normalized) it seems that there fat tails (big spikes, large 
+returns more frequent than normal), 
+which comes from the fact that volatility is not constant (at all).
+
+See the spreadsheet is under O:\_Dropbox\Tanya
+
+Tanya

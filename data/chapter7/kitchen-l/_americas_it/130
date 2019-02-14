@@ -1,0 +1,80 @@
+Message-ID: <25841350.1075840862814.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 18:00:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV weekly status update
+Cc: richard.burchfield@enron.com, geoff.storey@enron.com, beth.perlman@enron.com, 
+	colleen.sullivan@enron.com, philippe.bibi@enron.com, 
+	zhiyong.wei@enron.com, dave.nommensen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: richard.burchfield@enron.com, geoff.storey@enron.com, beth.perlman@enron.com, 
+	colleen.sullivan@enron.com, philippe.bibi@enron.com, 
+	zhiyong.wei@enron.com, dave.nommensen@enron.com
+X-From: Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Richard Burchfield <Richard Burchfield/ENRON@enronXgate>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>, Dave Nommensen <Dave Nommensen/ENRON@enronXgate>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+attached is a plan for the roll-out of Windows 2000 for the trading groups for which TIBCO 6.x has been scripted.
+
+ 
+Richard Burchfield and I are currently investigating the state of TIBCO 5.x on the Windows NT 4.0 plaftorm that is still being used, and will get back to you when we have determined if the TIBCO 6.x solution can be incorprated into a script before the actual roll-out of Win2k.
+
+regards
+
+Steve
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, April 17, 2001 11:47 AM
+To:	Wei, Zhiyong
+Cc:	Storey, Geoff; Bibi, Philippe A.; Perlman, Beth; Stock, Stephen; Sullivan, Colleen
+Subject:	Re: GTV weekly status update
+
+Who is responsible for the upgrade and do we have a plan in place to implement this?
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ << File: GTV2 4-16-01.mpp >> 
+Thanks
+
+Zhiyong
+

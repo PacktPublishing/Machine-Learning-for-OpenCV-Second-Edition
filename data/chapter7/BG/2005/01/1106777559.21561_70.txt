@@ -1,0 +1,67 @@
+Return-Path: <CPEXZYXEXX@nuukiemail.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 27680 invoked from network); 25 Jan 2005 17:48:15 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 25 Jan 2005 17:48:15 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 25 Jan 2005 17:48:15 -0000
+Received: (qmail 4034 invoked from network); 25 Jan 2005 17:48:13 -0000
+Received: from YESPCNET-52A7YB (unknown [206.186.75.10])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 25 Jan 2005 17:48:13 -0000
+X-Message-Info: a/ER+881/UW/aye+39/231608775909
+Received: from lain845.stationary.CPEXZYXEXX@nuukiemail.com (caspian885.CPEXZYXEXX@nuukiemail.com [206.186.75.10])
+	by smtp-mawkish.academician.CPEXZYXEXX@nuukiemail.com (Postfix) with SMTP id 336P027N0XEDW
+	for <rait@bruce-guenter.dyndns.org>; Tue, 25 Jan 2005 18:39:32 +0100
+Received: from smtp-vigilant.chaotic.CPEXZYXEXX@nuukiemail.com ([206.186.75.10]) by l341-kl4.CPEXZYXEXX@nuukiemail.com with Microsoft SMTPSVC(5.0.6158.5125);
+	 Tue, 25 Jan 2005 10:41:32 -0700
+Received: from smtp-mosque.rutland.CPEXZYXEXX@nuukiemail.com ([206.186.75.10]) by x3-fq47.CPEXZYXEXX@nuukiemail.com with Microsoft SMTPSVC(5.0.7517.0308);
+	 Tue, 25 Jan 2005 10:39:32 -0700
+X-Message-Info: HFKE+%ND_LC_CHAR[1-3]54+jja+LT+0/7197226365838
+Received: from hubbard.CPEXZYXEXX@nuukiemail.com ([24.0.254.35]) by pushpin.CPEXZYXEXX@nuukiemail.com with MailEnable ESMTP; Tue, 25 Jan 2005 16:37:32 -0100
+Date: Tue, 25 Jan 2005 15:35:32 -0200
+Message-Id: <859928432333.95198@CPEXZYXEXX@nuukiemail.com>
+From: Damon Lacey <CPEXZYXEXX@nuukiemail.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: Ship Notification, Tracking Number : 1856
+MIME-Version: 1.0 (produced by canvasmajestic 1.5)
+Content-Type: multipart/alternative;
+	boundary="--0020580349134286"
+Content-Length: 625
+Lines: 34
+
+----0020580349134286
+Content-Type: text/plain;
+	charset="iso-9661-6"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: politburo posey nectary
+
+Online pharmacy - Visit our online store and save.
+
+Save up to 80% compared to normal rates.
+
+All popular drugs are available, including Vicodin!
+
+- World wide shipping
+- No Doctor Visits
+- No Prescriptions
+- Next Day Priority Shipping
+- Discreet Packaging
+- Buy in Bulk and Save!
+
+We make it easier and faster than ever to get the prescriptions you
+need.
+
+Go here: http://www.fidrugs.com/rx/?7
+
+
+
+
+
+No thanks: http://www.fidrugs.com/rmv/
+
+
+
+
+----0020580349134286--

@@ -1,0 +1,103 @@
+Message-ID: <33051169.1075856596330.JavaMail.evans@thyme>
+Date: Thu, 19 Oct 2000 01:42:00 -0700 (PDT)
+From: vasant.shanbhogue@enron.com
+To: zimin.lu@enron.com
+Subject: Re: Option Pricing Challenge
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	pinnamaneni.krishnarao@enron.com, alex.huang@enron.com, 
+	kevin.kindall@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	pinnamaneni.krishnarao@enron.com, alex.huang@enron.com, 
+	kevin.kindall@enron.com, tanya.tamarchenko@enron.com
+X-From: Vasant Shanbhogue
+X-To: Zimin Lu
+X-cc: Vince J Kaminski, Stinson Gibner, Pinnamaneni Krishnarao, Alex Huang, Kevin Kindall, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Zimin,
+
+ to generalize your initial comment, for any process dS = Mu(S,t)*S*dt + 
+Sigma(S,t)*S*dz,
+the delta-hedging argument leads to the Black-Scholes PDE.  
+This is true for any arbitrary functions Mu and Sigma, and so includes GBM, 
+Mean Reversion, and others.
+There is no problem with this, because in the risk-neutral world, which is 
+what you enter if you can hedge,
+the drift of the "actual" process is irrelevant.
+
+I believe your concern is that you would like to see a different option price 
+for Mean Reversion process.  This can only happen if the asset is not 
+hedgeable, and so the actual dynamics then need to be factored into the 
+option pricing.   If you assume that the underlying is a non-traded factor, 
+then the PDE will have to reflect the market price of risk, and the drift of 
+the actual process is then reflected in the PDE.
+
+Vasant
+
+
+
+
+
+Zimin Lu
+10/17/2000 05:20 PM
+To: Vince J Kaminski/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, Vasant 
+Shanbhogue/HOU/ECT@ECT, Pinnamaneni Krishnarao/HOU/ECT@ECT, Alex 
+Huang/Corp/Enron@ENRON, Kevin Kindall/Corp/Enron@ENRON, Tanya 
+Tamarchenko/HOU/ECT@ECT
+cc:  
+Subject: Option Pricing Challenge
+
+
+Dear All,
+
+I have a fundamental question back in my mind since 95.    Hope you can give 
+me a convincing answer .
+
+Zimin
+
+---------------------------------
+
+In deriving BS differential equation, we assume the underlying follows GBM
+
+ds= mu*s*dt + sigma*s*dz
+
+where mu is the drift, sigma is the volatility, both can be a function of s.
+
+Then we use delta hedging argument, we obtain the BS differential equation 
+for the option price, regardless
+of mu.  
+
+With the BS PDE and boundary condition, we can derive BS formula.  Fine. No 
+problem.
+
+Question comes here.   Suppose the underlying is traded security and follows, 
+say, mean-reverting process
+
+ds=beta(alpha-s)dt + sigma*s*dz
+
+Apparantly, this SDE leads to a different probability distribution. However, 
+using the delta hedging argument,
+we still get the same BS differential equation, with the same boumdary 
+condition, we get the same BS formula.  
+Not fair !
+
+From another angle, I can derive the distribution from the BS PDE for the 
+underlying, which is the lognormal distribution.
+My thinking is: can I drive the distribution for any SDE from the option PDE 
+?  The answer should be yes, but got to be
+from a different PDE rather than BS PDE.  Then what we do about the 
+delta-hedging argument ?
+
+Thanks. 
+
+
+
+
+
+
+

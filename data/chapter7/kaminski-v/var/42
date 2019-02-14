@@ -1,0 +1,72 @@
+Message-ID: <18041053.1075856641621.JavaMail.evans@thyme>
+Date: Tue, 9 Jan 2001 11:57:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: real time VAR
+Cc: nilay.basu@enron.com, wenyao.jia@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: nilay.basu@enron.com, wenyao.jia@enron.com, vince.kaminski@enron.com
+X-From: Zhiyong Wei
+X-To: Tanya Tamarchenko
+X-cc: Nilay Basu, Wenyao Jia, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+
+Thank you for the information. I agree that we need to talk about more what 
+and how Global Valuation can facilitate a more competitive VAR engine. 
+Winston and Nilay are going to give my group a presentation regarding the 
+current VAR system next Tuesday. I am sure the presentation will help my team 
+better understand the requirements of VAR engine on Global Valuation. Please 
+join us if you have the time. I would also appreciate your insight on this 
+matter.
+
+Thanks
+
+Zhiyong
+
+
+
+
+Tanya Tamarchenko
+01/08/2001 11:09 AM
+To: Zhiyong Wei/HOU/ECT@ECT, Nilay Basu/HOU/ECT@ECT, Wenyao Jia/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT 
+Subject: Re: real time VAR  
+
+Ziyong,
+we met with Nilay and Winston last week regarding real time VAR calculation 
+possibility.
+
+Winston has an overview of VAR System which consists of:
+- Main Curves Simulation;
+- Curve Server;
+- Book Server;
+- ID Server
+- Clients
+
+As a first step I want to see where the time is spent when VAR runs, which 
+percentages of time are spent by each part.
+Nilay is going to get this information for a few portfolios (AGG-ECT, AGG-GAS 
+and NG-PRICE-PRC).
+Preliminary information: currently VAR run takes about 1 hour, half of this 
+time taken by "Book Server" 
+(we have about 4500 lower level portfolios in the portfolio hierarchy, about 
+5500 portfolios all together), 
+most of the rest is taken by "Clients", "Main Curves Simulation" does not 
+take much time.
+
+I am looking also at using alternative methods of faster VAR calculation, but 
+having so many portfolios in the hierarchy will slow down
+even analytical VAR.
+
+We also have to think more about what "real time"  calculation means and what 
+it should produce.
+
+Tanya
+
+

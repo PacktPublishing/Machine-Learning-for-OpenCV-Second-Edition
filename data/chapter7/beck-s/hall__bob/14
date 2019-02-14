@@ -1,0 +1,57 @@
+Message-ID: <556644.1075849854417.JavaMail.evans@thyme>
+Date: Tue, 3 Apr 2001 06:45:00 -0700 (PDT)
+From: bob.hall@enron.com
+To: sally.beck@enron.com
+Subject: AEP-HPL update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob M Hall
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+After meeting with AEP this morning, some issues are revolved and new one 
+added.
+
+Resolved:
+
+ Confirmations will be done out of AEP's systems for long term deals, 
+intramonth transactions
+ will be confirmed using DECAF 2.  DECAF 1 will not be used.
+
+ Global Facilities will not need to copied to a new pipeline code.
+
+ The HPL DUN's number will remain the same.
+
+ Deal entry will be manual for AEP risk system and getting old deals back 
+into Sitara.
+ The need to build a cross-reference table is the main driver.
+
+New items
+
+ A hands-on  training program is unlikely due to time  and space constrains.
+ AEP/Enron evaluating options.
+
+ New Risk Portfolios need to created in Sitara.  List provided to AEP.
+ Enron giving explanations of portfolios for usefulness to AEP.
+
+ Manual entries to G/L and reports needed to book all items.
+
+
+All items on the Energy ops issues list were discussed.  AEP to fill in point 
+person
+for there side. 
+
+Agreement reached to use this format and add items as needed.
+
+I will issue a revised transitions issues list tomorrow afternoon, after my 
+energy ops
+meeting.
+
+
+
+
+ 

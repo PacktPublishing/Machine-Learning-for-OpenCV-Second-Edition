@@ -1,0 +1,96 @@
+Message-ID: <29644305.1075857039036.JavaMail.evans@thyme>
+Date: Tue, 16 May 2000 02:31:00 -0700 (PDT)
+From: steven.leppard@enron.com
+To: grant.masson@enron.com
+Subject: Re: Real options presentation
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Steven Leppard
+X-To: Grant Masson
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Thanks for the comments Grant.  The presentation is for a couple of external 
+conferences that Vince volunteered me for - Vince has OK'd the content, and 
+Stinson raised exactly the same issues as you.  Unfortunately I just don't 
+seem to be getting any response from RISK whatsoever on the publication of my 
+article, so these conferences will be the public debut for my real options 
+notation.
+
+Of course the discounting/risk neutrality thing is where the real judgement 
+sits.  When questions arise I'll take the line that while Research formulates 
+the models using appropriate derivatives/market based valuation methods, we 
+work with our RAC group which considers the discounting to be associated with 
+various risks, and chooses these rates appropriately.  The notation makes 
+clear which uncertainties we are exposed to at different stages of the deals, 
+which assists in choosing the rates.
+
+In practice I'm not yet at the stage where originators are using my notation 
+yet - another reason I can't say too much about its actual use at the 
+conference.  I'm producing various tools for deterministic hydro 
+optimization, GBM swing option valuation, and deterministic DP optimization 
+for genset dispatch which people want right now - I'm working in the 
+background on the kind of modelling my notation demands.  People are getting 
+to know me as a guy who can solve their immediate problems, and they'll be 
+more likely to listen when  I start rolling out the "proper" options-based 
+models.  My notation is currently used only in the specs I'm writing for the 
+tools I'm producing.
+
+I'll be turning Dale's spreadsheet-based power plant spread model into an 
+American Monte Carlo tool, which will then be available for inclusion in 
+other models.  I think by the end of the summer the real options theoretical 
+work will start to bear fruit, one year after I initially proposed the 
+notation.  With the quant IT group I'm co-creating in place, I may yet see 
+the automated diagramming/pricing tool made real.
+
+Thanks also for the pointer to Tom Halliburton.  The use of the LINGO 
+LP/integer package is something I've been presented with for the Teesside 
+plant operation optimizer, rather than something I chose.  The PERM (Physical 
+Energy Risk Mgt) group just got a couple of analysts to hack it together 
+(including Natasha Danilochkina), then asked me to tidy it up when it didn't 
+work.  They are going to use their existing faulty model for now (to meet 
+their project deadlines), and I'm sketching out a proper mathematical spec 
+for the problem.
+
+I've persuaded (!) them that this sort of business-critical system should be 
+developed properly by Research, and they now seem happy to fall into line.  
+Their Wilton plant optimizer was developed by one Peter Morawitz, the guy I 
+hoped to recruit into Research, and they obviously didn't realise he was 
+better than average at quantitative modelling.  Anyway they now accept that 
+doing it properly will take months rather than weeks, and I'll have a freer 
+hand in my choice of modelling tool - so a chat with Tom would be extremely 
+valuable.
+
+Cheers,
+Steve
+
+
+
+
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Grant Masson                           05/15/2000 07:27 PM
+	
+
+To: Steven Leppard/LON/ECT@ECT
+cc:  
+
+Subject: Real options presentation
+
+Steve:
+
+I read through your presentation.  Looks good as expected.  Remind me; is 
+this an internal Enron or external presentation? If external, I would say it 
+is just at the limit before sliding into proprietary stuff.  Perhaps that's 
+why you've neatly almost entirely avoided questions about discounting and 
+risk-neutrality or lack of it?
+
+Regards,
+Grant.
+

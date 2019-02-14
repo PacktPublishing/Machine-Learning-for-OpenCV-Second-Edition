@@ -1,0 +1,55 @@
+Received: from mail.work.de (212.12.32.49)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:52 -0000
+Received: from mail by mail.work.de with local (Exim 3.35 #1 (Debian))
+	id 1Dupjh-0006ga-00
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 12:54:05 +0200
+X-Failed-Recipients: info@markenweine.info
+From: Mail Delivery System <Mailer-Daemon@mail.work.de>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupjh-0006ga-00@mail.work.de>
+Date: Tue, 19 Jul 2005 12:54:05 +0200
+
+This message was created automatically by mail delivery software (Exim).
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@markenweine.info
+    SMTP error from remote mailer after RCPT TO:<info@markenweine.info>:
+    host a.mx.markenweine.info [194.180.104.146]:
+    554 <info@markenweine.info>: Relay access denied
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from aji232.neoplus.adsl.tpnet.pl ([83.25.242.232] helo=mailwisconsin.com)
+	by mail.work.de with smtp (Exim 3.35 #1 (Debian))
+	id 1Dupje-0006gU-00
+	for <info@markenweine.info>; Tue, 19 Jul 2005 12:54:03 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360200;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@markenweine.info
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836566">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>

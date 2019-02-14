@@ -1,0 +1,54 @@
+Return-Path: <amhav.wqhecc@neo.rr.com>
+Received: (fqmail 9533 invoked from network); 28 Sep 2004 23:25:49 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 28 Sep 2004 23:25:49 -0000
+Received: (qmail 1499 invoked from network); 28 Sep 2004 23:25:47 -0000
+Received: from wiley-265-14172.roadrunner.nf.net (wiley-265-14172.roadrunner.nf.net [205.251.241.175])
+  by mx03.futurequest.net ([69.5.6.174])
+  with SMTP via TCP; 28 Sep 2004 23:25:47 -0000
+X-Message-Info: NI261zay2yrbKuoxNe418
+Received: from kq50.purpleankh.com ([60.78.203.192]) by n60-pdw.purpleankh.com with Microsoft SMTP47934069(0.3.7047.7);
+	 Tue, 28 Sep 2004 17:18:05 -0700
+Received: from opelj348 (bandstop[58.196.20.221])
+          by purpleankh.com (ejwsjj61) with SMTP
+          id <041216920498288LJT71t>
+          (Authid: rvtlFXZLADTUJO);
+          Tue, 28 Sep 2004 19:17:05 -0500
+Message-ID: <855623.5913.MXCWHcgmlz.4779k@purpleankh.com>
+Keywords: diplomatic buzz 
+Distribution: chaste 
+Prevent-NonDelivery-Report: Yes
+Comments: starfish dietz
+Reply-To: "Nathan_Staples" <Erica1745226Lane@purpleankh.com>
+From: "Nathan_Staples" <Erica1745226Lane@purpleankh.com>
+To: bugs@ezmlm.org
+Cc: webmaster@ezmlm.org
+Subject: I owe you $400000
+Date: Wed, 29 Sep 2004 02:21:05 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--958121636399029123"
+
+----958121636399029123
+Content-Type: text/html;
+	charset="iso-8617-7"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible to receive $400,000 with a 2.1% rate.
+<p>
+Please verify your information here:<br>
+ <a href="http://amco.money-deal.info/s5/jj.php?jq1=55">http://amco.money-deal.info/s5/jj.php?jq1=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<p>
+
+Nathan_Staples, Client Account Manager<br>
+Lawrence Financial Association<br>
+220 Central Avenue<br>
+Columbus, OH 43085
+</html>
+
+----958121636399029123--

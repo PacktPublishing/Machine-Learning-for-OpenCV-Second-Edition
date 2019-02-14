@@ -1,0 +1,45 @@
+Return-Path: <exploitingexciton@cs.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 28395 invoked from network); 10 Oct 2004 09:19:05 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 10 Oct 2004 09:19:05 -0000
+Received: (qmail 15960 invoked from network); 10 Oct 2004 09:19:04 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx02.futurequest.net ([69.5.6.172])
+  with QMQP via TCP; 10 Oct 2004 09:19:04 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 28361 invoked from network); 10 Oct 2004 09:19:03 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 10 Oct 2004 09:19:03 -0000
+Received: (qmail 15948 invoked from network); 10 Oct 2004 09:19:03 -0000
+Received: from host2.safe-hosting.com (host2.safe-hosting.com [64.5.48.165])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 10 Oct 2004 09:19:03 -0000
+Received: from [211.158.99.37] (helo=tandem)
+	by host2.safe-hosting.com with asmtp (Exim 4.34)
+	id 1C0CqC-0004Ag-D7
+	for webmaster@ezmlm.org; Wed, 25 Aug 2004 22:30:29 -0700
+From: "Susan Serranzana"<exploitingexciton@cs.com>
+To: webmaster@ezmlm.org
+Subject: VA|1I1UM, ClAlI||S, V|IAGRA. . .
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host2.safe-hosting.com
+X-AntiAbuse: Original Domain - ezmlm.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cs.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 494
+
+<html><body ><b>
+ Exc|<tr></tr>usive 0f<a href=http://webmaster.com>fers </a> <br> <b>X<td></td>anax, Va1i<sub></sub>um ,CialIis, Via<sup></sup>gar <a href=http://webmaster.com>and</a> many more...! </b>" <br> Many 0ther Popu|ar pro<em></em>ducts <a href=http://webmaster.com>are</a> a|so avai1able! <br> Save Big BuIk with Offer<a href=http://webmaster.org>s</a>...
+<p>
+ <a href=http://www.menicap.com>N0W  V1SlT  OUR  WE<font></font>BS|TE : C||CK  H<big></big>ERE</a>
+</P></b>
+</BODY></HTML>

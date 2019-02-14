@@ -1,0 +1,24 @@
+Message-ID: <27255179.1075854174580.JavaMail.evans@thyme>
+Date: Wed, 30 Aug 2000 11:40:00 -0700 (PDT)
+From: thomas.engel@enron.com
+To: scott.mills@enron.com
+Subject: SITARA PATCH
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thomas Engel
+X-To: Scott Mills
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+A patch is being released to resolve a problem with updates to prior day 
+positions in position manager 
+related to volume feedback (some updates were held in a queue until later in 
+the evening).
+
+Please call the SITARA/CPR Hotline ((713)-853-7049) if you have any questions 
+or problems
+with the release.
+

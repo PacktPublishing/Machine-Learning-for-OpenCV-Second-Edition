@@ -1,0 +1,133 @@
+Message-ID: <18006686.1075856642878.JavaMail.evans@thyme>
+Date: Tue, 25 Jul 2000 05:45:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: ted.murphy@enron.com, vince.kaminski@enron.com, anjam.ahmad@enron.com, 
+	grant.masson@enron.com, cantekin.dincerler@enron.com, 
+	kirstee.hewitt@enron.com, andreas.barschkis@mgusa.com, 
+	eric.gadd@enron.com, lloyd.fleming@enron.com, 
+	bjorn.hagelmann@enron.com, david.port@enron.com
+Subject: Re: MG Metals: summary of VAR methodology and current status
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Tanya Tamarchenko
+X-To: Ted Murphy, Vince J Kaminski, Anjam Ahmad, Grant Masson, Cantekin Dincerler, Kirstee Hewitt, Andreas.barschkis@mgusa.com, Eric Gadd, Lloyd Fleming, Bjorn Hagelmann, David Port
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear all,
+
+Anjam and myself  had a highly productive and informative set of meetings=
+=20
+with Andreas Barkchis of MG Metals NY on Thursday 20th July in the NY=20
+office.  Firstly we should say "thanks" to Andreas for being so helpful in=
+=20
+addressing out numerous requests for information - we look forward to=20
+establishing a solid working relationship with him going forward.
+
+Find below a summary of Version_1a for initial rough calculation of MG=20
+Metal's VAR.
+
+Also Anjam, Kirstee (from London side) and Cantekin, Grant, Vince and mysel=
+f=20
+(Houston side) have been working for last 2 days on the spreadsheet VAR=20
+model.=20
+The current status of this effort and a plan for future progress is=20
+summarized in the enclosed document:  =20
+ =20
+___________________________________________________________________________=
+___
+_______________________________________________________
+V@R methodology for MG Metals positions
+Version_1a
+
+Introduction
+This document describes the initial rough model for calculations=20
+Value-At-Risk for MG Metals. This model will be implemented in a spreadshee=
+t,=20
+which will serve as a prototype for the RiskTrac implementation.=20
+
+Risk factors
+The following positions represent most of MG Metal=01,s risk and will be co=
+vered=20
+by Version_1a:
+- Base metals=01, positions including:
+- aluminium;
+- copper;
+- gold;
+- lead;
+- nickel;
+- silver;
+- tin;
+- zinc;
+Risk related to these positions will be quantified by simulating forward=20
+prices for each metal.
+- Copper concentrate;
+Risk related to these positions will be quantified by simulating TC charges=
+.
+- Cocoa beans;
+Risk related to these positions will be quantified by simulating forward=20
+prices for cocoa beans.
+
+Therefore these 10 curves will drive the risk: price curves for aluminium,=
+=20
+copper, gold, lead, nickel, silver, tin, zinc and cocoa beans plus tc curve=
+=20
+for copper concentrate.
+
+Assumptions and simplifications:
+- For each metal we are going to use a single price curve or all types of=
+=20
+products (physical, financial, LME traded, Comex traded, scrap, alloy, stoc=
+k,=20
+etc.);
+- Delta, gamma approach for risk on options=01, positions;
+=20
+Components required to implement V@R model:=20
+- current forward prices available from Mercur;
+- current implied volatilities available through Reuters;
+- current positions from Mercur;
+- history of prices required to calculate factor loadings and correlations=
+=20
+across commodities;  =20
+
+Methodology
+Version_1a will be based on Risk Matrix approach. We will calculate princip=
+al=20
+components for each metal and cocoa beans to take in account the correlatio=
+ns=20
+along the term structure. We will also calculate the correlations across=20
+commodities based on prompt month prices history for last 3 months.=20
+=20
+Portfolio hierarchy
+Each position will be assigned to one of the following portfolios under the=
+=20
+whole portfolio AGG-METALS:
+- MG Metal & Commodity Corp.
+- MG Ltd.;
+- MG Metal & Commodity Company Ltd.;
+- MG Metall Recycling GmbH, Ffm;
+
+Under each of these sub-portfolio there will be the following sub-portfolio=
+s:
+- Comex;
+- Frame contract;
+- LME;
+- LME Alloy;
+- LME Metal Index;
+- Option Call;
+- Option Put;
+- Physical;
+- Physical Alloy;
+- Physical Real;
+- Physical Scrap;
+- Price Part.;
+- Prov. Billing;
+- Stock;
+- Stock Alloy;
+- Stock Comex;
+- Stock Physical;
+- Stock Scrap;
+

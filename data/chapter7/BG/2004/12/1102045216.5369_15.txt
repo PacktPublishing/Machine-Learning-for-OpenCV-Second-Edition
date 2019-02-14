@@ -1,0 +1,472 @@
+Return-Path: <web@samuiamandaresort.com>
+Received: (fqmail 15350 invoked from network); 03 Dec 2004 03:12:58 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 03 Dec 2004 03:12:58 -0000
+Received: (qmail 6401 invoked from network); 3 Dec 2004 03:12:58 -0000
+Received: from public-c6c12cea (p1656-adslbkksp7.c.csloxinfo.net [203.170.135.132])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 03 Dec 2004 03:12:57 -0000
+From: web@samuiamandaresort.com
+Subject: Samui Dream Holidays - www.samuiamandaresort.com
+To: webmaster@ezmlm.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="US-ASCII"
+MIME-Version: 1.0
+Reply-To: web@samuiamandaresort.com
+Date: Fri, 3 Dec 2004 10:18:24 +0700
+X-Priority: 3
+X-Library: Indy 9.0.3-B
+X-Mailer: Foxmail
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindow=
+s-1252">
+<title>New Page 1</title>
+<style>
+<!--
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body>
+
+<div align=3D"center">
+	<table border=3D"0" width=3D"760" id=3D"table1" cellspacing=3D"0" cellp=
+adding=3D"0" height=3D"1">
+		<tr>
+			<td bgcolor=3D"#FF6600" colspan=3D"2">
+			<p align=3D"center" style=3D"margin-top: 15px; margin-bottom: 15px"><=
+b>
+			<font color=3D"#FFFFFF" face=3D"Arial" size=3D"6">Amanda Resort Samui=
+, Koh=20
+			Samui Thailand<br>
+			</font>
+                    <font face=3D"Arial" color=3D"#FFFFFF" size=3D"2">
+
+                    ONE OF THE MOST EXCLUSIVE PRIVATE BEAUTIFUL
+                    SUNSET BEACH IN KOH SAMUI, THAILAND </font></b></td>=
+
+		</tr>
+		<tr>
+			<td bgcolor=3D"#000080" width=3D"222" height=3D"1" valign=3D"top">
+			<table border=3D"0" width=3D"88%" id=3D"table2" cellpadding=3D"2" hei=
+ght=3D"1">
+				<tr>
+					<td height=3D"1"><font face=3D"Arial" style=3D"font-size: 8pt">
+					<a href=3D"javascript:pop_logo();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/amandalogosmall.gif" width=3D"80"=20
+height=3D"53"></a></font></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo46();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic46_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo99();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic99_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+				</tr>
+				<tr>
+					<td height=3D"1">
+					<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo119();">
+							<img border=3D"0" src=3D"../images/photogallery/pic119_s.jpg" wid=
+th=3D"80" height=3D"53"></a></font></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo100();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic100_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+							<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo118();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/pic118_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></td>
+				</tr>
+				<tr>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo48();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic48_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+					<b><font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo81();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic81_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+                  <a href=3D"javascript:pop_photo41();">
+                  <img border=3D"0" src=3D"http://www.samuiamandaresort.=
+com/images/photogallery/pic41_s.jpg" width=3D"80" height=3D"53"></a></fo=
+nt></b></td>
+				</tr>
+				<tr>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo98();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic98_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+							<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo122();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/pic122_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></td>
+					<td height=3D"1">
+					<a href=3D"javascript:pop_photo107();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic107_s.jpg" width=3D"80" height=3D"53"></a></td>
+				</tr>
+				<tr>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+				<a href=3D"javascript:pop_photo4();">
+				<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/pho=
+togallery/pic4_s.jpg" width=3D"80" height=3D"55"></a></font></b></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo59();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic59_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+							<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo120();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/pic120_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></td>
+				</tr>
+			</table>
+			</td>
+			<td bgcolor=3D"#000080" valign=3D"middle" height=3D"1">
+			<div>
+				<font face=3D"Arial" style=3D"font-size: 9pt" color=3D"#FFFFFF">
+				<div>
+					<div class=3D"Section1">
+						<div align=3D"center">
+							<table class=3D"MsoNormalTable" style=3D"width: 483px" cellSpacin=
+g=3D"0" cellPadding=3D"0" border=3D"0" id=3D"table3">
+								<tr style=3D"HEIGHT: 0.75pt" height=3D"1">
+									<td style=3D"height: 0.75pt; padding: 0cm; background: navy" bg=
+Color=3D"navy" height=3D"1"=20
+width=3D"483">
+									<p style=3D"margin-left: 10px; margin-right: 15px; margin-botto=
+m: 0pt">
+									<font face=3D"Arial" color=3D"white" size=3D"1">
+									<span style=3D"FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: Arial=
+">
+									Dear Travellers,<br>
+									<br>
+									Samui Amanda Resort is a beautiful sunset=20
+									beach resort in Koh Samui recently<br>
+									opened and located just 4 kms. from Nathorn=20
+									Pier and Nathorn Downtown. A transfer=20
+									service to and from Sauratthani Airport to=20
+									Samui Amanda Resort is available at a=20
+									nominal cost and takes the holidaymaker=20
+									across the island from the airport to the=20
+									romantic side of Samui island where the sun=20
+									sets in spectacular style, framed by the=20
+									silhouettes of tall coconut trees that=20
+									overhang the golden sands of deserted=20
+									beaches.<br>
+									<br>
+									Samui Amanda Resort, lies amongst coconut=20
+									palms by the waters edge and is one of the=20
+									most delightful in the whole of Koh Samui.=20
+									The Resort offers a quiet,&nbsp;peaceful and=20
+									relaxing setting for your holiday with all=20
+									the comforts expected from such a deluxe=20
+									resort. This tropical paradise is a world=20
+									away from the stress of daily life.<br>
+									<br>
+									The attentive Samui Amanda Resort Team look=20
+									forward to greeting you and ensuring you=20
+									have an unforgettable holiday.</span></font></td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				</font></div>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor=3D"#FF6600" colspan=3D"2" height=3D"76">
+			<p align=3D"center" style=3D"margin-top: 10px; margin-bottom: 10px">=
+
+      <font color=3D"#FFFFFF">
+      <font face=3D"Arial" style=3D"font-size: 8pt"><b>Resort Address: <=
+/b>57/6-7 Moo 5 Angthong, Koh Samui, Suratthani 84140
+      Tel. (66-77) 421 721-7 Fax. (66-77) 426 185<b><br>
+		Bangkok Office: </b>125/6 Synthanee Residence Tower, Soi Synphat Hospi=
+tal,
+      Ramintra =96 Navamin Road, Khannayao, Bungkhum 10240<br>
+      Tel: (66-02) 948 5151- 3&nbsp; Fax: (66-02) 948 7030 Ext. 6
+      Mobile: (66-09) 495 0703 or (66-06) 769 1850<br>
+          	</font>
+      <font face=3D"Arial" size=3D"4"><b>Website: </b></font> </font>
+      <font face=3D"Arial" size=3D"4"><b><a href=3D"http://www.samuiaman=
+daresort.com">
+			<font color=3D"#FFFFFF">www.samuiamandaresort.com</font></a><font col=
+or=3D"#FFFFFF">&nbsp;
+          E-mail: </font> <a href=3D"mailto:sales@samuiamandaresort.com"=
+>
+			<font color=3D"#FFFFFF">sales@samuiamandaresort.com</font></a></b></f=
+ont></td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindow=
+s-1252">
+<title>New Page 1</title>
+<style>
+<!--
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body>
+
+<div align=3D"center">
+	<table border=3D"0" width=3D"760" id=3D"table1" cellspacing=3D"0" cellp=
+adding=3D"0" height=3D"1">
+		<tr>
+			<td bgcolor=3D"#FF6600" colspan=3D"2">
+			<p align=3D"center" style=3D"margin-top: 15px; margin-bottom: 15px"><=
+b>
+			<font color=3D"#FFFFFF" face=3D"Arial" size=3D"6">Amanda Resort Samui=
+, Koh=20
+			Samui Thailand<br>
+			</font>
+                    <font face=3D"Arial" color=3D"#FFFFFF" size=3D"2">
+
+                    ONE OF THE MOST EXCLUSIVE PRIVATE BEAUTIFUL
+                    SUNSET BEACH IN KOH SAMUI, THAILAND </font></b></td>=
+
+		</tr>
+		<tr>
+			<td bgcolor=3D"#000080" width=3D"222" height=3D"1" valign=3D"top">
+			<table border=3D"0" width=3D"88%" id=3D"table2" cellpadding=3D"2" hei=
+ght=3D"1">
+				<tr>
+					<td height=3D"1"><font face=3D"Arial" style=3D"font-size: 8pt">
+					<a href=3D"javascript:pop_logo();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/amandalogosmall.gif" width=3D"80"=20
+height=3D"53"></a></font></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo46();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic46_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo99();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic99_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+				</tr>
+				<tr>
+					<td height=3D"1">
+					<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo119();">
+							<img border=3D"0" src=3D"../images/photogallery/pic119_s.jpg" wid=
+th=3D"80" height=3D"53"></a></font></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo100();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic100_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+							<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo118();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/pic118_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></td>
+				</tr>
+				<tr>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo48();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic48_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+					<b><font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo81();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic81_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+                  <a href=3D"javascript:pop_photo41();">
+                  <img border=3D"0" src=3D"http://www.samuiamandaresort.=
+com/images/photogallery/pic41_s.jpg" width=3D"80" height=3D"53"></a></fo=
+nt></b></td>
+				</tr>
+				<tr>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo98();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic98_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+							<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo122();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/pic122_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></td>
+					<td height=3D"1">
+					<a href=3D"javascript:pop_photo107();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic107_s.jpg" width=3D"80" height=3D"53"></a></td>
+				</tr>
+				<tr>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+				<a href=3D"javascript:pop_photo4();">
+				<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/pho=
+togallery/pic4_s.jpg" width=3D"80" height=3D"55"></a></font></b></td>
+					<td height=3D"1"><b>
+					<font face=3D"Verdana" size=3D"4">
+					<a href=3D"javascript:pop_photo59();">
+					<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/ph=
+otogallery/pic59_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></b></td>
+					<td height=3D"1">
+							<font face=3D"Arial" style=3D"font-size: 8pt">
+							<a href=3D"javascript:pop_photo120();">
+							<img border=3D"0" src=3D"http://www.samuiamandaresort.com/images/=
+photogallery/pic120_s.jpg" width=3D"80"=20
+height=3D"53"></a></font></td>
+				</tr>
+			</table>
+			</td>
+			<td bgcolor=3D"#000080" valign=3D"middle" height=3D"1">
+			<div>
+				<font face=3D"Arial" style=3D"font-size: 9pt" color=3D"#FFFFFF">
+				<div>
+					<div class=3D"Section1">
+						<div align=3D"center">
+							<table class=3D"MsoNormalTable" style=3D"width: 483px" cellSpacin=
+g=3D"0" cellPadding=3D"0" border=3D"0" id=3D"table3">
+								<tr style=3D"HEIGHT: 0.75pt" height=3D"1">
+									<td style=3D"height: 0.75pt; padding: 0cm; background: navy" bg=
+Color=3D"navy" height=3D"1"=20
+width=3D"483">
+									<p style=3D"margin-left: 10px; margin-right: 15px; margin-botto=
+m: 0pt">
+									<font face=3D"Arial" color=3D"white" size=3D"1">
+									<span style=3D"FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: Arial=
+">
+									Dear Travellers,<br>
+									<br>
+									Samui Amanda Resort is a beautiful sunset=20
+									beach resort in Koh Samui recently<br>
+									opened and located just 4 kms. from Nathorn=20
+									Pier and Nathorn Downtown. A transfer=20
+									service to and from Sauratthani Airport to=20
+									Samui Amanda Resort is available at a=20
+									nominal cost and takes the holidaymaker=20
+									across the island from the airport to the=20
+									romantic side of Samui island where the sun=20
+									sets in spectacular style, framed by the=20
+									silhouettes of tall coconut trees that=20
+									overhang the golden sands of deserted=20
+									beaches.<br>
+									<br>
+									Samui Amanda Resort, lies amongst coconut=20
+									palms by the waters edge and is one of the=20
+									most delightful in the whole of Koh Samui.=20
+									The Resort offers a quiet,&nbsp;peaceful and=20
+									relaxing setting for your holiday with all=20
+									the comforts expected from such a deluxe=20
+									resort. This tropical paradise is a world=20
+									away from the stress of daily life.<br>
+									<br>
+									The attentive Samui Amanda Resort Team look=20
+									forward to greeting you and ensuring you=20
+									have an unforgettable holiday.</span></font></td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				</font></div>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor=3D"#FF6600" colspan=3D"2" height=3D"76">
+			<p align=3D"center" style=3D"margin-top: 10px; margin-bottom: 10px">=
+
+      <font color=3D"#FFFFFF">
+      <font face=3D"Arial" style=3D"font-size: 8pt"><b>Resort Address: <=
+/b>57/6-7 Moo 5 Angthong, Koh Samui, Suratthani 84140
+      Tel. (66-77) 421 721-7 Fax. (66-77) 426 185<b><br>
+		Bangkok Office: </b>125/6 Synthanee Residence Tower, Soi Synphat Hospi=
+tal,
+      Ramintra =96 Navamin Road, Khannayao, Bungkhum 10240<br>
+      Tel: (66-02) 948 5151- 3&nbsp; Fax: (66-02) 948 7030 Ext. 6
+      Mobile: (66-09) 495 0703 or (66-06) 769 1850<br>
+          	</font>
+      <font face=3D"Arial" size=3D"4"><b>Website: </b></font> </font>
+      <font face=3D"Arial" size=3D"4"><b><a href=3D"http://www.samuiaman=
+daresort.com">
+			<font color=3D"#FFFFFF">www.samuiamandaresort.com</font></a><font col=
+or=3D"#FFFFFF">&nbsp;
+          E-mail: </font> <a href=3D"mailto:sales@samuiamandaresort.com"=
+>
+			<font color=3D"#FFFFFF">sales@samuiamandaresort.com</font></a></b></f=
+ont></td>
+		</tr>
+	</table>
+</div>
+
+</body>
+
+</html>
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--
+

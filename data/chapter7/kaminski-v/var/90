@@ -1,0 +1,60 @@
+Message-ID: <17219733.1075856642740.JavaMail.evans@thyme>
+Date: Wed, 26 Jul 2000 03:12:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: cantekin.dincerler@enron.com
+Subject: Re:
+Cc: vince.kaminski@enron.com, ted.murphy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, ted.murphy@enron.com
+X-From: Vince J Kaminski
+X-To: Cantekin Dincerler
+X-cc: Vince J Kaminski, Ted Murphy
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Cantekin,
+
+Can you figure out the reason for cocoa beans VaR fluctuations?
+The same is true of aluminum. I assume this is the position change.
+
+
+Vince
+
+
+
+
+Cantekin Dincerler
+07/26/2000 09:28 AM
+To: Anjam Ahmad/LON/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT 
+Subject: 
+
+Anjam and Kirstee,
+
+
+As I have suspected the position as of 6/30 vs 7/19 makes the difference. The 
+first table first column is my VAR number with 6/30 position and gold&silver 
+prices, the second column is your VAR with 7/19 position and dummy 
+gold&silver prices. The second table first column is my VAR with 7/19 
+position and 6/30 gold&silver prices, the second column is as before.
+
+I would ask you to plug the gold and silver prices and see what kind of 
+numbers you get in order to verify we are on the same page. Please refer to 
+MODELVAR2000.xls that I have sent you for gold & silver prices and 
+volatilities. 
+
+Thank you,
+Cantekin
+
+
+  TABLE 1
+
+
+
+  TABLE 2
+
+
+

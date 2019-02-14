@@ -1,0 +1,103 @@
+Message-ID: <5781647.1075854184322.JavaMail.evans@thyme>
+Date: Thu, 16 Nov 2000 01:23:00 -0800 (PST)
+From: pat.clynes@enron.com
+To: daren.farmer@enron.com
+Subject: Re: Sitara positions, end of month feedback from Unify
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Clynes
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Robert Superty@ECT
+11/16/2000 09:02 AM
+To: Randall L Gay/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Victor 
+Lamadrid/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, 
+Beverly Beaty/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Patti 
+Sullivan/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT
+cc: Dave Nommensen/HOU/ECT@ECT, Matt Pena/NA/Enron@Enron, Bob M 
+Hall/NA/Enron@Enron 
+
+Subject: Re: Sitara positions, end of month feedback from Unify  
+
+Please take note of Dave's very important  message regarding Sitara 
+positions. We absolutely cannot afford to go through this again and need to 
+do everything  possible to help limit the exposure. With prices where they 
+are and winter weather upon us we will most likely have a very challenging 
+bid week. 
+
+That being said I want each of you to make sure we adhere to the "daily 
+clean" process. You should pull all the necessary reports each day and keep 
+after the schedulers to make sure they are up to date. If you wish, Donna and 
+Richard can make these available each day and distribute to the group. We 
+don't have much time so this needs to happen immediately.
+
+Donna, please provide me with a daily summary of all the desks for the 
+remainder of the month. 
+
+
+Let me know if you have any questions or concerns, thanks - Bob
+
+ 
+
+
+   
+	
+	
+	From:  Dave Nommensen                           11/16/2000 08:31 AM
+	
+
+To: Robert Superty/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, George 
+Smith/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, 
+Tricia Spence/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Patti Sullivan/HOU/ECT@ECT, Carlos J 
+Rodriguez/HOU/ECT@ECT, Kevin Heal/CAL/ECT@ECT, Anita K Patton/HOU/ECT@ECT
+cc: Matt Pena/NA/Enron@Enron, Donna Greif/HOU/ECT@ECT, Richard 
+Pinion/HOU/ECT@ECT, Kathryn Bussell/HOU/ECT@ECT, Jeff 
+Johnson/Corp/Enron@Enron, Bob M Hall/NA/Enron@Enron, Jayant 
+Krishnaswamy/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Tommy J 
+Yanowski/HOU/ECT@ECT, Richard Burchfield/HOU/ECT@ECT 
+Subject: Sitara positions, end of month feedback from Unify
+
+Bob, et al,
+
+As I am sure you recall, we had a problem with Sitara positions earlier in 
+the month and had to cease trading early and revert to CPR for positions.  
+Although I have not gotten very far in my transition off of Unify and onto 
+Sitara and TDS, we do see some potential for this happening again towards the 
+end of this month and the beginning of next month.
+
+The problem with managing positions is a combination of sheer deal counts, 
+along with updates to those deals.  A large portion of these updates come to 
+Sitara via the Unify Bridge Back process.  It would be ideal if we could 
+continue to have the Unify data "cleaned/scrubbed" week to week and try to 
+avoid having the bulk of the month being updated/bridged in the final 
+week/days of the month.  I know this is the goal of Logistics, but I just 
+want to help reinforce that goal due to the performance impact it can have on 
+the Gas Trading systems.  Perhaps a few extra pair of eyes on the Pipeline 
+Exception Summary and the Bridge Back Pipeline Summary in Unify this month 
+would help.
+
+Another area that causes these transaction counts to increase is the need to 
+have 2 months "active" at a time.  In other words, when November is over and 
+we are in the first week or two of December, Sitara continues to maintain 
+positions for November.  This November data degrades the ability to update 
+December positions in a timely manner.  We may find ourselves having to 
+remove the November deals from the Sitara positions sooner than we have in 
+the past.
+
+I will be trying to work with the Sitara team in the coming days/weeks to 
+implement some combination of quick fixes, as well as look into the long term 
+changes necessary to support our increased trading business.
+
+Please let me know if you have any questions or comments in this area.
+
+Thanks, d.n.
+
+
+
+

@@ -1,0 +1,126 @@
+Message-ID: <28077760.1075856583616.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 00:56:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: debbie.brackett@enron.com
+Subject: FW: Winston
+Cc: vince.kaminski@enron.com, william.bradford@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, william.bradford@enron.com
+X-From: Vince J Kaminski
+X-To: Debbie R Brackett
+X-cc: Vince J Kaminski, William S Bradford
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Debbie,
+
+This is an update on the continuing Winston saga. Tanya
+identified the sections of the code that produce inefficiencies
+but the rest is in the Winston's hands.
+
+Steve Stock is very cooperative and takes a very rational, Enron-first
+approach to the problem. Privately, my concern is that the code, based on 
+Tanya's
+report to me, leaves a lot to be desired. The code tends to be a very 
+mechanical
+implementation of the algorithm, developed without a series attempt to 
+optimize it.
+
+Let's keep paddling along.
+
+Vince
+
+
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 01/24/2001 
+08:53 AM ---------------------------
+From: Stephen Stock/ENRON@enronXgate on 01/23/2001 05:38 PM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: FW: Winston
+
+
+	
+
+Vince,
+
+...just to keep you in the loop on the Tanya / Winston issue...
+
+regards
+
+Steve
+
+ -----Original Message-----
+From:  Stock, Stephen  
+Sent: Tuesday, January 23, 2001 5:36 PM
+To: Tamarchenko, Tanya
+Subject: RE: Winston
+
+Tanya,
+
+I just checked in with the contractors here.....and it looks like it might be 
+a good idea for you to spend about 30minutes with them to give you a guided 
+tour of their documentation.
+
+It's presented as a linked set of word documents and Visio drawing, with 
+links to all the reletive parts as hyperlinks. It's pretty good and I imagine 
+it will be very usefull to you, but probably requires a little introduction 
+first.
+
+Please feel free to come to my office whenever it is convenient. Even if I'm 
+not available, the guys are just outside my office and I can easily stop 
+whatever I'm doing to introduce you to the project manager.
+
+regards
+
+Steve
+
+ -----Original Message-----
+From:  Tamarchenko, Tanya  
+Sent: Tuesday, January 23, 2001 4:53 PM
+To: Stock, Stephen
+Subject: Re: Winston
+
+Steve,
+- we spent about 5 fruitful hours with Winston last week.
+- I pretty much understand the data flow when the code runs.
+- I also got an idea where the time is spent during the execution of the code 
+by questioning Winston.
+I did not see any results of profiling the code. Winston's opinion is (as I 
+understood) that he knows how much time is spent 
+on different calculations and profiling is not easy to do, so we don't need 
+to do it. 
+- Based on above I suggested possible way to reduce the time credit model 
+takes to run and we discussed it with Debbie, who was
+going to arrange a meeting with Winston.
+- It might be useful to look at the Documentation created by contractors, if 
+you have it handy - send it to me, please.
+
+Thank you,
+
+Tanya.
+
+
+
+From: Stephen Stock/ENRON@enronXgate on 01/23/2001 03:38 PM
+To: Tanya Tamarchenko/HOU/ECT@ECT
+cc:  
+Subject: Winston
+
+Tanya,
+
+how's it going with code-review from your perspective?
+
+...did you manage to talk to our Documentation contractors?
+
+...if not, would you me to arrange for them to bring you the documentation as 
+it currently stands?
+
+regards
+
+Steve
+
+
+

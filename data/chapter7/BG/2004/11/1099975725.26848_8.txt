@@ -1,0 +1,75 @@
+Return-Path: <fqpmwrnlq@atlaswebmail.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 18921 invoked from network); 7 Nov 2004 16:52:38 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 07 Nov 2004 16:52:38 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Nov 2004 16:52:38 -0000
+Received: (qmail 8112 invoked from network); 7 Nov 2004 16:52:37 -0000
+Received: from 24-196-101-139.jvl.wi.charter.com (unknown [24.196.101.139])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 07 Nov 2004 16:52:34 -0000
+X-Message-Info: VZQ+zsv/037+bmh/JP+9/502719464746066
+Received: from smtp-ektachrome.waring.fqpmwrnlq@atlaswebmail.com ([24.196.101.139]) by dt45-w36.fqpmwrnlq@atlaswebmail.com with Microsoft SMTPSVC(5.0.4110.4547);
+	 Sun, 07 Nov 2004 14:43:51 -0200
+Received: from mahayana67.incarnate.fqpmwrnlq@atlaswebmail.com (nuzzle20.fqpmwrnlq@atlaswebmail.com [24.196.101.139])
+	by smtp-convoke.khan.fqpmwrnlq@atlaswebmail.com (Postfix) with SMTP id 95MXR8JG58VZ
+	for <rait@bruce-guenter.dyndns.org>; Sun, 07 Nov 2004 09:42:51 -0700
+X-Message-Info: OJRWT+%ND_LC_CHAR[1-3]650+za+M+3/42018117544
+Received: (qmail 38191 invoked by uid 3); Sun, 07 Nov 2004 19:47:51 +0300
+Date: Sun, 07 Nov 2004 09:47:51 -0700
+Message-Id: <58028707.30653@fqpmwrnlq@atlaswebmail.com>
+From: Kenya Burnette <fqpmwrnlq@atlaswebmail.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: 500+ Webcams -
+MIME-Version: 1.0 (produced by conwayfilth 6.4)
+Content-Type: multipart/alternative;
+	boundary="--7344236603641268026"
+Content-Length: 1415
+Lines: 44
+
+----7344236603641268026
+Content-Type: text/html;
+	charset="iso-1880-7"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: hold airfare rattlesnake
+
+<HTML>
+<HEAD>
+<TITLE>Amazing</TITLE>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Diso-8859=
+-1">
+</HEAD>
+<BODY BGCOLOR=3D#FFFF33 LEFTMARGIN=3D0 TOPMARGIN=3D0 MARGINWIDTH=3D0 MARGI=
+NHEIGHT=3D0>
+<br>
+<TABLE WIDTH=3D500 BORDER=3D0 CELLPADDING=3D0 CELLSPACING=3D0 align=3D"cen=
+ter">
+<TR>
+		<TD COLSPAN=3D2>
+			<A href=3D"http://www.coolandmore.com/gen_ads/gen_mail.php?grid=3D72&ap=
+e=3Dgt3932" TARGET=3D"_blank">
+				<img src=3D"http://www.coolandmore.com/gen_ads/pg-gooface1/index_01.gi=
+f" WIDTH=3D500 HEIGHT=3D161 BORDER=3D0 ALT=3D""></A></TD>
+	</TR>
+	<TR>
+		<TD>
+			<A href=3D"http://www.coolandmore.com/gen_ads/gen_mail.php?grid=3D72&ap=
+e=3Dgt3932" TARGET=3D"_blank">
+				<img src=3D"http://www.coolandmore.com/gen_ads/pg-gooface1/index_02.jp=
+g" WIDTH=3D230 HEIGHT=3D222 BORDER=3D0 ALT=3D""></A></TD>
+		<TD>
+			<A href=3D"http://www.coolandmore.com/gen_ads/gen_mail.php?grid=3D72&ap=
+e=3Dgt3932" TARGET=3D"_blank">
+				<img src=3D"http://www.coolandmore.com/gen_ads/pg-gooface1/index_03.gi=
+f" WIDTH=3D270 HEIGHT=3D222 BORDER=3D0 ALT=3D""></A></TD>
+	</TR>
+</TABLE>
+<p align=3D"center"><a href=3D"http://www.coolandmore.com/takemeoff">No Mo=
+re</a></p>
+<p align=3D"center">&nbsp;</p>
+</BODY>
+</HTML>
+
+----7344236603641268026--

@@ -1,0 +1,26 @@
+Message-ID: <5815696.1075856641848.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 05:17:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: vince.kaminski@enron.com, rabi.de@enron.com, jaesoo.lew@enron.com
+Subject: Re: Suggestion: implementing VAR based on non-normal log-returns
+ simulations
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tanya Tamarchenko
+X-To: Vince J Kaminski, Rabi De, Jaesoo Lew
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Everybody, 
+we were talking for a while about using non-normal distributions in the 
+Monte-Carlo simulations in our VAR model.
+I put together some suggestion regarding this. The text is under 
+O:\_Dropbox\Tanya\non_normal_logs.doc
+
+Look through this 3 page document, and let me know what you think, please.
+
+
+Tanya

@@ -1,0 +1,51 @@
+Return-Path: <eaefvukddmnuse@msn.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2015 invoked by uid 115); 19 Aug 2004 02:09:53 -0000
+Received: from eaefvukddmnuse@msn.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(216.25.175.154):. 
+ Processed in 1.142227 secs); 19 Aug 2004 02:09:53 -0000
+Received: from unknown (HELO rev.florexpo) (216.25.175.154)
+  by churchill.factcomp.com with SMTP; 19 Aug 2004 02:09:52 -0000
+X-Message-Info: 167DD3yRx265wxuGQ70MKKja80LYsjw9f0CBYmGEzv482
+Received: from dns5msn.com ([140.192.214.33]) by gzh54-GWA1.msn.com with Microsoft SMTPSVC(5.0.2195.6824);
+	 Wed, 18 Aug 2004 19:53:53 -0100
+Received: from msn.com [127.0.0.1] by dnsmsn.com
+  (SMTPD32-7.12     ) id U3B6; Wed, 18 Aug 2004 13:46:53 -0700
+Subject: 2.jpg
+From: Freida Cline
+To: bob.smith@em.ca
+Message-Id: <2573775715.sda77949@msn.com>
+Content-Type: multipart/alternative;
+	boundary="--4989602711104720203"
+
+----4989602711104720203
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Ad-e1iminator</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body>
+<div align=3D"center">
+  <p><a href=3D"http://www.ad-eliminator.com/?id=3Dyoda"><img src=3D"http:=
+//www.hanlaee.com/ade/img/m5.gif" width=3D"570" height=3D"462" border=3D"0=
+"></a></p>
+  <p></p>
+  <p>ridicule rule eloise thespian scribble demarcate<br>
+    christine urgency hostess personage attune pussy<br>
+    brook ecliptic grammar arabic carboy elucidate<br>
+    ezra diabolic workspace marrowbone republic atone<br>
+  </p>
+</div>
+</body>
+</html>
+
+
+----4989602711104720203--
+
+
+

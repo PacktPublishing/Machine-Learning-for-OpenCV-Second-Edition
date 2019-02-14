@@ -1,0 +1,129 @@
+Message-ID: <30168935.1075856603313.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 21:53:00 -0700 (PDT)
+From: barry.pearce@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: EBS VaR Transaction Policy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Barry Pearce
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+That would be great.
+
+B.
+
+
+
+	Vince J Kaminski@ECT
+	06/29/00 10:27 AM
+		 
+		 To: Barry Pearce/Enron Communications@Enron Communications
+		 cc: Stinson Gibner/HOU/ECT@ECT, Tanya Tamarchenko/HOU/ECT@ECT, Grant 
+Masson/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT
+		 Subject: EBS VaR Transaction Policy
+
+Barry,
+
+Stinson forwarded your message to me. I am meeting Ted Murphy today and I 
+shall bring it up with him.
+We have unit at Research (Tanya Tamarchenko, reporting to Grant Mason) who is 
+responsible for
+ V@R support.
+
+
+Vince
+
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 06/29/2000 
+10:28 AM ---------------------------
+
+
+Stinson Gibner
+06/29/2000 09:55 AM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: EBS VaR Transaction Policy
+
+FYI
+
+---------------------- Forwarded by Stinson Gibner/HOU/ECT on 06/29/2000 
+09:54 AM ---------------------------
+
+
+	Barry Pearce @ ENRON COMMUNICATIONS
+	06/29/2000 09:09 AM
+	
+To: Stinson Gibner/HOU/ECT@ECT, Dale Surbey/LON/ECT@ECT, Ted 
+Murphy/HOU/ECT@ECT
+cc: Lou Casari/Enron Communications@Enron Communications, John Echols/Enron 
+Communications@Enron Communications, Jim Fallon/Enron Communications@Enron 
+Communications 
+Subject: EBS VaR Transaction Policy
+
+Hey you guys,
+
+We are trying to implement a 'VaR transaction' policy - and would like your 
+opinion.
+
+This is going to be tough - because I'm not sure we have implemented a 
+similiar policy across any of our other 'books' - that is - we looking to 
+bring in all the accrual/operational assets as well as the MTM stuff 
+(lambdas). To have a real-live 'configuration' of the system.
+
+If assets/routes/servers etc...are added - what is the impact on the 'value' 
+of the system and what it's worth. 
+
+John has attached a draft below - for your review and thoughts.
+
+I can see how this works in a trading environment - when you actually know 
+the VaR of your whole trading portfolio. However - I've not seen this done 
+with a mixture of MTM & accrual assets. Add the spice of a 'operational 
+system' valuation  - and this will be tough to quantify and model.
+
+Step 1 - configure system and value it 
+Step 2 - calculate a VaR on this. We will need to do some work here!
+Step 3 - calculate the incremental VaR of new deals/amendements/reconfigs etc 
+- tough....
+
+See what you think?
+
+B.
+
+
+
+
+
+
+	John Echols
+	06/28/00 05:41 PM
+		 
+		 To: Jim Fallon/Enron Communications@Enron Communications, Barry Pearce/Enron 
+Communications@Enron Communications, Lou Casari/Enron Communications@Enron 
+Communications
+		 cc: 
+		 Subject: Policies
+
+Here is a first rough draft of a "value @ risk" transaction policy.
+
+I would like you to start looking at where we are going on the policy and get 
+some early thinking going on limits for the V@R.  For example, should we 
+effectively shut down all server relocations without approval,  or allow some 
+level of MB of storage to be moved around or reconfigured?
+
+I need some commercial and industry realism for this.  We may need Rick 
+Paiste or your industry helpers (Marquardt, etc. to help us).
+
+Barry,  Lou,  I need your input.  
+
+
+
+
+
+
+
+
+

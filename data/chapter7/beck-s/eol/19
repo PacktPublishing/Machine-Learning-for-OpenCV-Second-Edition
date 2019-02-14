@@ -1,0 +1,168 @@
+Message-ID: <9087051.1075855870924.JavaMail.evans@thyme>
+Date: Tue, 12 Sep 2000 03:16:00 -0700 (PDT)
+From: sheri.thomas@enron.com
+To: sally.beck@enron.com
+Subject: Bridge Problems
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheri Thomas
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+here is Jennifer's message ....
+Sheri
+---------------------- Forwarded by Sheri Thomas/HOU/ECT on 09/12/2000 10:14 
+AM ---------------------------
+   
+
+
+From:  Jennifer deBoisblanc Denny                                             
+                08/15/2000 02:43 PM	
+	
+	
+	                           
+	
+
+To: Beth Perlman/HOU/ECT@ECT
+cc:  (bcc: Sheri Thomas/HOU/ECT)
+Subject: Bridge Problems
+
+Beth,
+I know you are at the VP level but I thought I would forward you the memo 
+below.
+I wrote it to explain to the EnronOnline Call Center the various issues we 
+have been having with the "bridge" since they get a vast
+number of internal calls when we have a problem. 
+
+Please let me know if you have any questions or if I should be funneling 
+these concerns to a particular person. 
+Thanks.
+Jennifer
+3-5824
+ 
+---------------------- Forwarded by Jennifer deBoisblanc Denny/HOU/ECT on 
+08/15/2000 02:31 PM ---------------------------
+   
+
+
+From:  Jennifer deBoisblanc Denny                                             
+                08/10/2000 05:22 PM	
+	
+	
+	                           
+	
+
+To: EOL Call Center
+cc: Sheri Thomas/HOU/ECT@ECT, Frank L Davis/HOU/ECT@ECT, Torrey 
+Moorer/HOU/ECT@ECT, Dale Neuner/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT 
+Subject: Bridge Problems
+
+Over the last 8-10 business days, we have had a some issues on the bridges. I 
+want to educate you a little bit on what can cause 
+"bridge problems".
+
+First, what I want to explain is their is ONE GUI bridge application for 
+users (backoffice users) to monitor the bridge but there are MULTIPLE
+systems that EnronOnline transactions can be pointed to downstream. This is 
+important to understand because if you do not know this ,
+it may seem like we are having the same problem over & over; ie "the bridge 
+is having problems". But in actuality, it is DIFFERENT 
+problems. Still not good - but at least it cannot be isolated to ONE 
+problem.   
+
+Also, due to multiple systems (Sitara, Enpower, GasDesk, Tagg/ERMS, 
+Powerdesk) are listening for messages from one EnronOnline, 
+a "bridge" problem could be one of many issues. Some of which are:
+
+ The server for EnronOnline  messenger goes down (doesn't send message to 
+bridge to process)
+ The Enron network goes down (cannot send message thru bridge)
+ The NFS server (Enron main server) goes down
+ Sitara server goes down
+ Enpower server goes down 
+ Tagg/ERMS server goes down
+ Deal worker in ANY system gets "hung up"
+ Huge volume slows down processing time for one or more downstream systems
+ Scheduled outage for maintenance on server on weekend was not re-started on 
+Sunday 
+
+and the list goes on.....................................
+
+FYI In the past week & 1/2, the following actions happened, which caused 
+"bridge" problems. 
+
+ Scheduled outage for maintenance on TAGG/erms server on weekend was not 
+re-started on Sunday (not smart)
+ The NFS server (Enron main server) goes down (affected Sitara & Tagg/ERMS)
+ Deal worker in Sitara system got "hung up" and servers had to be bounced
+ Member of EnronOnline Dev Team changed data for specific tokenised periods 
+during trading hours instead of end of day
+  (This failed deals in bridge for Sitara & Tagg/ERMS)
+
+One thing to remember is you are getting calls from traders & back office. 
+Traders are calling because they cannot see deals in their
+position manager application of their system. If they are gas traders, if 
+could be Sitara or Tagg system. If they are a power trader
+calling, they cannot see it in Enpower. ecetera, ecetera
+
+If a back office person calls, they are watching the monitor GUI and they can 
+see deals queing/backing up and know there is a problem. 
+
+We are working to resolve some of these issues, particularily, 
+multi-processing tools, as we know the # of transactions will only increase.
+Please feel free to email me if you have any questions. I hope this was 
+helpful.
+
+See below for explanation of problem on Wednesday. 
+
+ 
+
+---------------------- Forwarded by Jennifer deBoisblanc Denny/HOU/ECT on 
+08/09/2000 03:50 PM ---------------------------
+
+
+KARIE HASTINGS
+08/09/2000 02:06 PM
+To: Jennifer deBoisblanc Denny/HOU/ECT@ECT
+cc: Mark Kinkead/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Thomas 
+Engel/HOU/ECT@ECT 
+Subject: Sitara Production Problem
+
+
+I am forwarding a message that explains the Sitara Production problems from 
+this morning. Please let me know if you have any additional questions.
+
+Karie (36759)
+
+
+
+
+At  9:50am this morning a DealWorker process in the Sitara system became 
+unresponsive. 
+At  10:00 am it was determined that the EOLBridge in sitara was not 
+processing new deal requests
+and diagnostics lead to an indication that the dealworker was not functioning 
+properly.
+At 10:14, am the Dealworker was forced down and a new one restarted.
+At 10:21 am , the EOLBridge began processing deals.
+
+The cause of the is difficult to determine, but indicators point to an error 
+in the CORBA product we are using, 
+most likely due to scalability issues of that product and of Sitara. This is 
+an issue that is actively being addressed.
+
+
+--Mark Kinkead
+3-1961
+
+
+
+
+
+
+
+

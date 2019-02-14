@@ -1,0 +1,211 @@
+Return-Path: <>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 16159 invoked by uid 115); 15 Feb 2005 09:23:29 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(193.191.138.21):. 
+ Processed in 0.383627 secs); 15 Feb 2005 09:23:29 -0000
+Received: from mail3.vlaanderen.be (193.191.138.21)
+  by churchill.factcomp.com with SMTP; 15 Feb 2005 09:23:27 -0000
+Received: from localhost (localhost)
+	by mail3.vlaanderen.be (8.12.10/8.12.2) id j1F9QRdu002492;
+	Tue, 15 Feb 2005 10:26:27 +0100 (MET)
+Date: Tue, 15 Feb 2005 10:26:27 +0100 (MET)
+From: Mail Delivery Subsystem <MAILER-DAEMON@vlaanderen.be>
+Message-Id: <200502150926.j1F9QRdu002492@mail3.vlaanderen.be>
+To: <bait@em.ca>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j1F9QRdu002492.1108459587/mail3.vlaanderen.be"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+Content-Length: 8587
+Lines: 188
+
+This is a MIME-encapsulated message
+
+--j1F9QRdu002492.1108459587/mail3.vlaanderen.be
+
+The original message was received at Tue, 15 Feb 2005 10:26:26 +0100 (MET)
+from [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<ert.podevyn@wim.vlaanderen.be>
+    (reason: 550 5.0.0 <ert.podevyn@wim.vlaanderen.be>... Bestemmeling Onbekend)
+
+   ----- Transcript of session follows -----
+... while talking to mailhost4.vlaanderen.be.:
+>>> RCPT To:<ert.podevyn@wim.vlaanderen.be>
+<<< 550 5.0.0 <ert.podevyn@wim.vlaanderen.be>... Bestemmeling Onbekend
+550 5.1.1 <ert.podevyn@wim.vlaanderen.be>... User unknown
+
+--j1F9QRdu002492.1108459587/mail3.vlaanderen.be
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail3.vlaanderen.be
+Received-From-MTA: DNS; [127.0.0.1]
+Arrival-Date: Tue, 15 Feb 2005 10:26:26 +0100 (MET)
+
+Final-Recipient: RFC822; ert.podevyn@wim.vlaanderen.be
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mailhost4.vlaanderen.be
+Diagnostic-Code: SMTP; 550 5.0.0 <ert.podevyn@wim.vlaanderen.be>... Bestemmeling Onbekend
+Last-Attempt-Date: Tue, 15 Feb 2005 10:26:27 +0100 (MET)
+
+--j1F9QRdu002492.1108459587/mail3.vlaanderen.be
+Content-Type: message/rfc822
+
+Return-Path: <bait@em.ca>
+Received: from mx1.vlaanderen.be ([127.0.0.1])
+	by mail3.vlaanderen.be (8.12.10/8.12.2) with ESMTP id j1F9QNdu002473
+	for <ert.podevyn@wim.vlaanderen.be>; Tue, 15 Feb 2005 10:26:26 +0100 (MET)
+Received: from gw.europa-cinemas.org (HELO wim.vlaanderen.be) (62.210.217.139)
+  by mx1.vlaanderen.be with ESMTP; 15 Feb 2005 10:26:19 +0100
+Message-Id: <3lb648$a71b7@mx1.vlaanderen.be>
+X-SBRS: -0.8
+X-BrightmailFiltered: true
+X-Brightmail-Tracker: AAAAAgDNL9EA0e0h
+Subject: [SPAM] Re: here
+X-Spam-Header: Dit is SPAM
+From: bait@em.ca
+To: ert.podevyn@wim.vlaanderen.be
+Date: Tue, 15 Feb 2005 10:27:21 +0100
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0016_00003BF2.000008BD"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0016_00003BF2.000008BD
+Content-Type: multipart/related;
+	boundary="----=_NextPart_001_0017_00003BF2.000008BD"
+	type="multipart/alternative"
+
+
+------=_NextPart_001_0017_00003BF2.000008BD
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_002_0018_00003BF2.000008BD"
+
+
+------=_NextPart_002_0018_00003BF2.000008BD
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+
+Your document is attached.
+
+--------------------------------------------
+product.zip: No virus found
+Powered by the new Norton OnlineScan
+Get protected: www.symantec.com
+
+
+------=_NextPart_002_0018_00003BF2.000008BD
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2800.1106" name=3DGENERATOR>
+</HEAD>
+<BODY bgColor=3Dffffff>
+<FONT face=3DArial size=3D2>Your document is attached.</FONT>
+<br><br><HR>
+<FONT face=3DArial size=3D2>product.zip: <b>No virus found</b><br><IMG=20
+style=3D"WIDTH: 140px; HEIGHT: 38px" alt=3D"" hspace=3D0=20
+src=3D"cid:00006D143DAA$00005608$00002CDE@488E" align=3Dright=20
+border=3D0></FONT>
+<FONT face=3DArial size=3D2>Powered by the new Norton =
+OnlineScan</FONT><br>
+<FONT face=3DArial size=3D2>Get protected: <A=20
+href=3D"http://www.symantec.com">www.symantec.com</A></FONT>
+</BODY></HTML>
+
+------=_NextPart_002_0018_00003BF2.000008BD--
+
+------=_NextPart_001_0017_00003BF2.000008BD
+Content-Type: image/gif;
+	name="symantec.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <00006D143DAA$00005608$00002CDE@488E>
+
+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
+
+------=_NextPart_001_0017_00003BF2.000008BD--
+
+------=_NextPart_000_0016_00003BF2.000008BD
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+------------------  Virus Warning Message
+
+product.zip is removed from here because it contains a virus.
+
+---------------------------------------------------------
+------=_NextPart_000_0016_00003BF2.000008BD--
+
+
+--j1F9QRdu002492.1108459587/mail3.vlaanderen.be--

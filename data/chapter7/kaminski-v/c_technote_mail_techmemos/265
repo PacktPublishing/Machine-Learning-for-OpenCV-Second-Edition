@@ -1,0 +1,40 @@
+Message-ID: <22467562.1075857036607.JavaMail.evans@thyme>
+Date: Thu, 16 Dec 1999 05:59:00 -0800 (PST)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Vince J Kaminski, Vasant Shanbhogue
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince and Vasant:
+
+Here is a brief summary of my meeting with Chris Germany, Capacity Trader at 
+the East Desk, related to gas transmission:
+
+Typically, pipelines lease capacity billed on a monthly basis. An example 
+might be the pipeline between South Texas and Brooklyn, where you might pay 
+$12.00 per month per 10,000 decatherms of capacity ($0.40 per day), a fixed 
+payment. Variable charges are 6% for fuel costs ("shrinkage") and 6.5% for 
+overhead expenses.  A gas trader might call South Texas and be quoted a 
+delivery price tomorrow of NYMEX - $0.10 ("basis"), and might call Brooklyn 
+and be quoted a delivered price of NYMEX + $0.25 .  The trader's spread is 
+$0.35, and variable costs of transmission are $0.125, so the trader would 
+offer the leaseholder of capacity up to $0.225 for firm capacity tomorrow.  
+As for the distinction betweem firm and interruptible, the leaseholders have 
+an excellent knowledge of the firm-equivalent of interruptible capacity. 
+Also, many pipelines don't discount firm capacity from the tariff maximum 
+("it's not worth their time to haggle") (There is a further issue of 
+"secondary markets" not important to the model yet).  For South Texas and 
+Brooklyn, there are several different routes the gas can physically take 
+(pipelines of Enron, Texas Eastern, etc).  And, once the trade is in the 
+system traders can cover the (Enron) positions on each end of the pipeline, 
+in so doing freeing up the capacity for other contracts.
+
+Clayton

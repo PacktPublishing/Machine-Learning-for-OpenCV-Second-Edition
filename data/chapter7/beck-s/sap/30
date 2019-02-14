@@ -1,0 +1,138 @@
+Message-ID: <31109615.1075855896403.JavaMail.evans@thyme>
+Date: Wed, 19 Apr 2000 06:03:00 -0700 (PDT)
+From: stephen.schwarz@enron.com
+To: sally.beck@enron.com
+Subject: Unify AR -- SAP Plans
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stephen P Schwarz
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI.  Here it is.  I think this might do it.  It would at least set the stage 
+for any further discussion that might be necessary.
+
+Stephen
+---------------------- Forwarded by Stephen P Schwarz/HOU/ECT on 04/19/2000 
+12:59 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Stephen P Schwarz                           02/29/2000 03:13 PM
+	
+
+To: Sally Beck/HOU/ECT@ECT, Inja Chun/HOU/ECT@ECT, Pamela 
+Lebrane/Corp/Enron@ENRON, Melissa White/HOU/ECT@ECT, Leslie 
+Reeves/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Bryce Baxter/HOU/ECT@ECT, Lisa Csikos/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, 
+Bob Klein/HOU/ECT@ECT, Evelyn Aucoin/HOU/ECT@ECT, Cynthia 
+Morrow/Corp/Enron@ENRON, Regan M Smith/HOU/ECT@ECT, Kenneth M 
+Harmon/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Unify AR -- SAP Plans
+
+The attached memo details our proposal of a week ago to use SAP AR rather 
+than Unify AR.  As of this morning, we finalized our decision to use the SAP 
+AR system and to turn off Unify AR when SAP is implemented.  Please direct 
+any questions to myself at X33179 or Melissa White at X35704.
+
+Please feel free to forward this memo to anyone I may have forgotten who is 
+interested.
+
+Stephen
+---------------------- Forwarded by Stephen P Schwarz/HOU/ECT on 02/29/2000 
+01:15 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Stephen P Schwarz                           02/18/2000 04:17 PM
+	
+
+To: Bryce Baxter/HOU/ECT@ECT, Lisa Csikos/HOU/ECT@ECT, Rita 
+Wynne/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, 
+Brenda F Herod/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Melissa K 
+Ratnala/HOU/ECT@ECT, Leslie Reeves@CCMAIL, Evelyn Aucoin/HOU/ECT@ECT, Laura E 
+Scott/CAL/ECT@ECT, Cheryl Dawes/CAL/ECT@ECT
+cc: Melissa White/HOU/ECT@ECT, Dorothy Ricketts/HOU/ECT@ECT, Kimberly 
+Perkins/HOU/ECT@ECT, Trang Le/HOU/ECT@ECT, Christy Sweeney/HOU/ECT@ECT 
+Subject: Unify AR -- SAP Plans
+
+
+	
+
+Two years ago Enron North America made a decision to use Unify AR for cash 
+application rather than SAP AR.  We decided at the time that SAP AR would be 
+kept in sync with Unify AR by the Unify/SAP interface.  We believe that the 
+business logic for that decision has changed, and are now recommending that 
+Unify AR be permanently turned off and all AR functions be performed in SAP.  
+I have briefly summarized the change in business situation below.
+
+Two Years Ago	Today
+Netting allowed by legal and credit ONLY if netting contract was already in 
+place.	Netting encouraged by legal and credit wherever possible, regardless of 
+existence of signed agreement.
+Netting limited to one counterparty and legal entity at a time.	Canada nets across 
+counterparties.
+Netting performed in physical only, financial settlements to maintain 
+separate net statement process.	ENA considering netting physical and financial 
+together.
+All account coordinators were to apply their own cash.	Cash applied centrally in 
+Power, Financial and Canada  Individual coordinators apply cash only in 
+physical Gas.
+Cash was to be applied at the line item level to track variances and to 
+facilitate calculation of cost of funds by commercial team.	Although gas 
+settlements is applying cash for some invoices at the line item level, this 
+functionality is not being used by power settlements and will not be used by 
+financial settlements.  The company has not made any move towards calculating 
+cost of funds by commercial team.
+The Account Inquiry functionality in Unify was thought to be a key on-line 
+tool.	Old habits die hard...most users appear to be printing reports and reviewing 
+data, rather than using the on-line functionality.
+Overapplication of cash was not to be allowed.  Overpayments would be 
+classified as "on account", with issues tracked in a case management system.	Case 
+management system does not exist.  Allowing overapplication helps the account 
+coordinators track overpayments easier than leaving cash on account.
+The counterparty/legal entity combination on the deposit needed to match the 
+counterparty/legal entity combination on the Enron invoice.	Given the number of legal 
+entities Enron has, along with the number of entities our counterparties 
+have, this seems like a hopeless battle.  Allowing cross-application of cash 
+seems easier.
+Corp required that intercompany settlements had to be "settled" with cash 
+movement.	Corp no longer requires intercompany settlements to be "settled" with cash 
+movement.
+
+Converting to SAP AR simplifies the Unify/SAP interface in the following ways:
+Bank deposits into SAP do not have to be split off into Unify
+Cash entries in Unify do not have to be interfaced back to SAP
+Unify netting entries do not have to be interfaced to SAP
+Payables information does not have to be interfaced from SAP to Unify
+
+Given the change in attitudes towards our netting business process we face 
+two problems in Unify.  
+Controls built into Unify are already obsolete.
+Unify does not maintain all products in one database, making efforts to net 
+across products in the future (physical with financial, for instance) 
+impossible.
+
+Our understanding of the netting process in SAP indicates that there are no 
+controls (which sounds good at this point) and that we would retain the 
+automatic netting entries when the payable is netted with the receivable 
+within SAP.  However, we emphasize that netting would be done in SAP, not at 
+the time of finaling a payment in Unify.
+
+To repeat, we are recommending that Unify AR be turned off and we convert to 
+SAP AR.  We will schedule a meeting the week of February 22 to discuss.  
+Please call me at X33179 with any questions or comments.  We WILL make this 
+decision by February 28 because the SAP timeline does not allow any 
+additional time for consideration.
+
+Stephen
+
+
+
+
+

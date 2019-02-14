@@ -1,0 +1,419 @@
+Return-Path: <textme@textme.co.th>
+Received: (fqmail 13415 invoked from network); 29 Dec 2004 09:26:18 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 29 Dec 2004 09:26:18 -0000
+Received: (qmail 2000 invoked from network); 29 Dec 2004 09:26:18 -0000
+Received: from 192.168.2.112 ([203.146.83.210])
+  by mx02.futurequest.net ([69.5.6.172])
+  with SMTP via TCP; 29 Dec 2004 09:26:15 -0000
+From: "TextMe Co., Ltd." <textme@textme.co.th>
+To: <webmaster@ezmlm.org>
+Subject: SMS Game for Honda JAZZ!!!
+Sender: "TextMe Co., Ltd." <textme@textme.co.th>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 1229041626"
+Date: Wed, 29 Dec 2004 16:26:15 +0700
+Reply-To: "TextMe Co., Ltd." <textme@textme.co.th>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 1229041626
+Content-Type: text/plain;
+	charset="ISO-8859-11"
+Content-Transfer-Encoding: 8bit
+
+ร่วมสนุกได้โดยหยิบโทรศัพท์มือถือ เข้าเมนูเขียนข้อความพิมพ์ Q แล้วส่งไปที่หมายเลข 421999
+ระบบจะส่งคำถามมาให้ เช่น “ไพ่หนึ่งสำรับ มีจำนวนทั้งหมดกี่ใบ” ตอบคำถามได้โดยพิมพ์ตัวเลขที่คิดว่าเป็นคำตอบที่ถูกต้องส่งมาที่ 421999 พิมพ์เฉพาะตัวเลขเท่านั้น ไม่ต้องพิมพ์หน่วยใดๆมาด้วย เช่นในข้อนี้ให้ตอบเพียงแค่ 52 (หากพิมพ์คำตอบมาว่า 52 ใบ จะถือว่าผิด)
+หากคำตอบที่คุณส่งเข้ามาระบบจะมีคำใบ้ว่ามากกว่าหรือน้อยกว่าไปให้ เช่น ถ้าตอบมาว่า 48 ระบบจะตอบกลับว่า น้อยไปให้ตอบเข้ามาใหม่ ถ้าตอบมาว่า 55 ระบบจะตอบกลับมาว่า มากไปให้ตอบเข้ามาใหม่ โดยจะตอบใหม่กี่ครั้งก็ได้จนกว่าจะถูกต้อง
+ผู้ที่ได้รับคะแนนรวมจากเกมสูงสุดเมื่อสิ้นสุดรายการ(23.59 น.ของวันที่ 14 กุมภาพันธ์ 2548) จะได้รับรางวัลใหญ่รถยนต์ HONDA JAZZ หนึ่งคัน
+ภายหลังจากลงทะเบียนเรียบร้อย ระบบจะส่งคำถามให้คุณทุกวันวันละหนึ่งข้อ หากต้องการเล่นมากกว่าหนึ่งข้อในแต่ละวัน ให้พิมพ์ Y แล้วส่งไปที่ 421999 ระบบจะทำการส่งคำถามข้อใหม่ให้ในทันที
+พิเศษ!!! ชวนเพื่อนเล่นเกมรับคะแนนตุนฟรีๆ 1,000 คะแนน เพียงบอกให้เพื่อนของคุณเล่นเกมโดยให้พิมพ์ FRIENDเว้นวรรคตามด้วยเบอร์โทรศัพท์ของคุณที่ใช้เล่นเกม เช่น Friend 01XXXXXXX และเมื่อเพื่อนของคุณเริ่มเล่นเกมแล้วตอบคำถามข้อแรกถูกต้องแล้วลงทะเบียนเรียบร้อย คุณจะได้รับคะแนนฟรีทันที1,000คะแนน และเพื่อนของคุณก็จะได้รับคะแนนพิเศษ 500คะแนนเช่นกัน
+
+
+
+รางวัลใหญ่
+
+•รถยนต์ HONDA JAZZ 1 คัน สำหรับผู้ชนะที่ได้คะแนนรวมจากเกมสูงสุดเมื่อสิ้นสุดรายการ  (23.59 น. ของวันที่ 14 กุมภาพันธ์ 2548)
+
+รางวัลรายวัน
+
+•โทรศัพท์มือถือวันละหนึ่งเครื่อง (สำหรับวันอาทิตย์-ศุกร์ Zeason S-Oneสำหรับทุกวันเสาร์ Panasonic X400)
+
+รางวัลรายวัน
+
+•เสื้อยืดTextMe วันละ 10 รางวัล
+
+รางวัลพิเศษ
+
+•สำหรับผู้เล่นทุกคนหากสะสมคะแนนครบ 1,000 คะแนนรับทันที TextMe Gift Set มูลค่า 100 บาท สะสมครบ 2,000 รับ TextMe Gift Set อีกมูลค่า 200 บาท สะสมครบ 5,000 รับ TextMe Gift Set มูลค่า 500 บาท สะสมครบ 10,000 คะแนน 50 ท่านแรกรับเลยกล้องดิจิตอล Che-ez มูลค่า 5,000 บาททันที
+
+
+รางวัลสนับสนุนพิเศษ จากผู้ให้บริการโทรศัพท์ 
+•AIS เสื้อแจ๊กเก็ต Mobile Life 1 ตัว สำหรับผู้ที่ได้ค่ะแนนสูงสุดประจำสัปดาห์
+
+
+•DTAC โทรศัพท์มือถือ Nokia 3220  เฉพาะผู้ใช้บริการโทรศัพท์ในระบบ  DTAC ที่ได้คะแนนสูงสุดทุกวันอาทิตย์  อาทิตย์ละหนึ่งเครื่อง
+•Orange ตุ๊กตา Orange Monkey สำหรับผู้ใช้บริการโทรศัพท์ในระบบ  Orange 100 ท่านแรกที่ทำคะแนนได้ครบ 5,000 คะแนน
+
+
+
+โดยกรอกข้อมูลลงในแบบฟอร์มข้างล่างนี้ ลุ้นรับ Gift Setจากทางบริษัทมูลค่า 100 บาท 100 รางวัล
+
+ชื่อ:นามสกุล:
+อายุ:เพศ: Male  Female
+หมายเลขโทรศัพท์มือถือ:อีเมล์:
+ ลงทะเบียนไม่ได้คลิกที่นี่  
+
+
+เพิ่มเติมความสนุก และสิทธิพิเศษบนโทรศัพท์มือถือมากมายได้ที่ www.textme.co.th
+Copyright 2004 TextMe Co.,Ltd. All Rights Reserved.
+
+--= Multipart Boundary 1229041626
+Content-Type: text/html;
+	charset="ISO-8859-11"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-874"><LINK 
+href="http://textme.co.th/textme2005/Mailinglist/home1.css" type=text/css 
+rel=stylesheet>
+<STYLE>
+BODY {
+	SCROLLBAR-FACE-COLOR: #FFFFFF; SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF; SCROLLBAR-SHADOW-COLOR: #E7E6E6; SCROLLBAR-3DLIGHT-COLOR: #FFFFFF; SCROLLBAR-ARROW-COLOR: 4C8FE4; SCROLLBAR-TRACK-COLOR: #E7E6E6; SCROLLBAR-DARKSHADOW-COLOR: #E7E6E6
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2900.2523" name=GENERATOR></HEAD>
+<BODY vLink=#ffffff aLink=#333333 link=#666666 bgColor=#e9e8e8 leftMargin=0 
+topMargin=0 MARGINHEIGHT="0" MARGINWIDTH="0">
+<FORM action=http://textme.co.th/php_scripts/mail.php method=post target=_blank><!-- ImageReady Slices (background.psd) -->
+<DIV align=center>
+<TABLE width=682 border=0>
+  <TBODY>
+  <TR>
+    <TD background=http://textme.co.th/textme2005/Mailinglist/background.gif 
+    height=1462>
+      <TABLE width=640 align=center border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width=677 bgColor=#c1e8fb height=1438>
+            <TABLE class=back-slide width="96%" border=0>
+              <TBODY>
+              <TR>
+                <TD colSpan=2><IMG height=49 
+                  src="http://textme.co.th/textme2005/Mailinglist/bighead.gif" 
+                  width=632></TD></TR>
+              <TR>
+                <TD colSpan=2>
+                  <TABLE width="75%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=198 
+                        src="http://textme.co.th/textme2005/Mailinglist/prize.gif" 
+                        width=632></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD colSpan=2><IMG height=49 
+                  src="http://textme.co.th/textme2005/Mailinglist/head1.gif" 
+                  width=632></TD></TR>
+              <TR>
+                <TD colSpan=2>
+                  <TABLE class=krob-dot-black height=290 width="91%" 
+                  align=center bgColor=#ffffff border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>&nbsp;</TD>
+                      <TD class=text-mail-red>&nbsp;</TD></TR>
+                    <TR>
+                      <TD width="5%">
+                        <DIV align=center><IMG height=14 
+                        src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                        width=14></DIV></TD>
+                      <TD class=text-grey 
+                        width="95%">ร่วมสนุกได้โดยหยิบโทรศัพท์มือถือ 
+                        เข้าเมนูเขียนข้อความพิมพ์ Q แล้วส่งไปที่หมายเลข 
+                    421999</TD></TR>
+                    <TR>
+                      <TD>
+                        <DIV align=center><IMG height=14 
+                        src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                        width=14></DIV></TD>
+                      <TD class=text-grey>ระบบจะส่งคำถามมาให้ เช่น 
+                        “ไพ่หนึ่งสำรับ มีจำนวนทั้งหมดกี่ใบ” 
+                        ตอบคำถามได้โดยพิมพ์ตัวเลขที่คิดว่าเป็นคำตอบที่ถูกต้องส่งมาที่ 
+                        421999 พิมพ์เฉพาะตัวเลขเท่านั้น 
+                        ไม่ต้องพิมพ์หน่วยใดๆมาด้วย เช่นในข้อนี้ให้ตอบเพียงแค่ 52 
+                        (หากพิมพ์คำตอบมาว่า 52 ใบ จะถือว่าผิด)</TD></TR>
+                    <TR>
+                      <TD>
+                        <DIV align=center><IMG height=14 
+                        src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                        width=14></DIV></TD>
+                      <TD 
+                        class=text-grey>หากคำตอบที่คุณส่งเข้ามาระบบจะมีคำใบ้ว่ามากกว่าหรือน้อยกว่าไปให้ 
+                        เช่น ถ้าตอบมาว่า 48 ระบบจะตอบกลับว่า 
+                        น้อยไปให้ตอบเข้ามาใหม่ ถ้าตอบมาว่า 55 ระบบจะตอบกลับมาว่า 
+                        มากไปให้ตอบเข้ามาใหม่ 
+                        โดยจะตอบใหม่กี่ครั้งก็ได้จนกว่าจะถูกต้อง</TD></TR>
+                    <TR>
+                      <TD height=32>
+                        <DIV align=center><IMG height=14 
+                        src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                        width=14></DIV></TD>
+                      <TD 
+                        class=text-grey>ผู้ที่ได้รับคะแนนรวมจากเกมสูงสุดเมื่อสิ้นสุดรายการ(23.59 
+                        น.ของวันที่ 14 กุมภาพันธ์ 2548) จะได้รับรางวัลใหญ่รถยนต์ 
+                        HONDA JAZZ หนึ่งคัน</TD></TR>
+                    <TR>
+                      <TD>
+                        <DIV align=center><IMG height=14 
+                        src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                        width=14></DIV></TD>
+                      <TD class=text-grey>ภายหลังจากลงทะเบียนเรียบร้อย 
+                        ระบบจะส่งคำถามให้คุณทุกวันวันละหนึ่งข้อ 
+                        หากต้องการเล่นมากกว่าหนึ่งข้อในแต่ละวัน ให้พิมพ์ Y 
+                        แล้วส่งไปที่ 421999 
+                      ระบบจะทำการส่งคำถามข้อใหม่ให้ในทันที</TD></TR>
+                    <TR>
+                      <TD>
+                        <DIV align=center><IMG height=14 
+                        src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                        width=14></DIV></TD>
+                      <TD class=text-grey>พิเศษ!!! 
+                        ชวนเพื่อนเล่นเกมรับคะแนนตุนฟรีๆ 1,000 คะแนน 
+                        เพียงบอกให้เพื่อนของคุณเล่นเกมโดยให้พิมพ์ 
+                        FRIENDเว้นวรรคตามด้วยเบอร์โทรศัพท์ของคุณที่ใช้เล่นเกม 
+                        เช่น Friend 01XXXXXXX 
+                        และเมื่อเพื่อนของคุณเริ่มเล่นเกมแล้วตอบคำถามข้อแรกถูกต้องแล้วลงทะเบียนเรียบร้อย 
+                        คุณจะได้รับคะแนนฟรีทันที1,000คะแนน 
+                        และเพื่อนของคุณก็จะได้รับคะแนนพิเศษ 
+                    500คะแนนเช่นกัน</TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD colSpan=2><IMG height=49 
+                  src="http://textme.co.th/textme2005/Mailinglist/head2.gif" 
+                  width=632></TD></TR>
+              <TR>
+                <TD colSpan=2>
+                  <TABLE class=krob-dot-black width="91%" align=center 
+                  bgColor=#ffffff border=0>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=top width="31%" rowSpan=2>
+                        <TABLE class=krob-line-grey width="75%" align=center 
+                        border=0>
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <DIV align=center><IMG height=68 
+                              src="http://www.textme.co.th/textme2005/images/product/jazz-mini.gif" 
+                              width=95></DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD class=text-mail-red vAlign=top width="69%">
+                        <DIV align=left></DIV>
+                        <TABLE width="22%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD width="10%"><IMG height=14 
+                              src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                              width=14></TD>
+                            <TD class=text-mail 
+                          width="90%">รางวัลใหญ่</TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD class=text-grey vAlign=top>•รถยนต์ HONDA JAZZ 1 คัน 
+                        สำหรับผู้ชนะที่ได้คะแนนรวมจากเกมสูงสุดเมื่อสิ้นสุดรายการ 
+                        &nbsp;(23.59 น. ของวันที่ 14 กุมภาพันธ์ 2548)</TD></TR>
+                    <TR>
+                      <TD vAlign=top rowSpan=2>
+                        <DIV align=center>
+                        <TABLE class=krob-line-grey width="75%" align=center 
+                        border=0>
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <DIV align=center><IMG height=92 
+                              src="http://www.textme.co.th/textme2005/images/product/zeason-s-one.gif" 
+                              width=45><IMG height=92 
+                              src="http://www.textme.co.th/textme2005/images/product/x400.gif" 
+                              width=41></DIV></TD></TR></TBODY></TABLE></DIV></TD>
+                      <TD class=text-mail-red width="69%">
+                        <TABLE class=text-grey width="30%" align=left 
+                          border=0><TBODY>
+                          <TR>
+                            <TD width="9%"><IMG height=14 
+                              src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                              width=14></TD>
+                            <TD class=text-mail 
+                          width="91%">รางวัลรายวัน</TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD class=text-grey 
+                        vAlign=top>•โทรศัพท์มือถือวันละหนึ่งเครื่อง 
+                        (สำหรับวันอาทิตย์-ศุกร์ Zeason S-Oneสำหรับทุกวันเสาร์ 
+                        Panasonic X400)</TD></TR>
+                    <TR>
+                      <TD vAlign=top rowSpan=2>
+                        <TABLE class=krob-line-grey width="75%" align=center 
+                        border=0>
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <DIV align=center><IMG height=78 
+                              src="http://www.textme.co.th/textme2005/images/product/t-shirt.gif" 
+                              width=87></DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD class=text-mail-red>
+                        <DIV align=left>
+                        <TABLE class=text-grey width="28%" align=left 
+                          border=0><TBODY>
+                          <TR>
+                            <TD width="14%"><IMG height=14 
+                              src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                              width=14></TD>
+                            <TD class=text-mail 
+                          width="86%">รางวัลรายวัน</TD></TR></TBODY></TABLE></DIV></TD></TR>
+                    <TR>
+                      <TD class=text-grey vAlign=top height=32>•เสื้อยืดTextMe 
+                        วันละ 10 รางวัล</TD></TR>
+                    <TR>
+                      <TD vAlign=top rowSpan=2>
+                        <TABLE class=krob-line-grey width="75%" align=center 
+                        border=0>
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <DIV align=center><IMG height=64 
+                              src="http://www.textme.co.th/textme2005/images/product/camera.gif" 
+                              width=101></DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD class=text-mail-red>
+                        <DIV align=left></DIV>
+                        <TABLE class=text-grey width="28%" align=left 
+                          border=0><TBODY>
+                          <TR>
+                            <TD width="9%"><IMG height=14 
+                              src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                              width=14></TD>
+                            <TD class=text-mail 
+                          width="91%">รางวัลพิเศษ</TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD class=text-grey>•สำหรับผู้เล่นทุกคนหากสะสมคะแนนครบ 
+                        1,000 คะแนนรับทันที TextMe Gift Set มูลค่า 100 บาท 
+                        สะสมครบ 2,000 รับ TextMe Gift Set อีกมูลค่า 200 บาท 
+                        สะสมครบ 5,000 รับ TextMe Gift Set มูลค่า 500 บาท สะสมครบ 
+                        10,000 คะแนน 50 ท่านแรกรับเลยกล้องดิจิตอล Che-ez มูลค่า 
+                        5,000 บาททันที</TD></TR>
+                    <TR>
+                      <TD vAlign=top>
+                        <TABLE class=krob-line-grey width="75%" align=center 
+                        border=0>
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <DIV align=center><IMG height=86 
+                              src="http://textme.co.th/textme2005/Mailinglist/shirt-ais.gif" 
+                              width=77></DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD class=text-grey vAlign=top><BR>
+                        <TABLE class=text-grey width="100%" align=left 
+                          border=0><TBODY>
+                          <TR>
+                            <TD width="4%"><IMG height=14 
+                              src="http://textme.co.th/textme2005/Mailinglist/arrow-gray.gif" 
+                              width=14></TD>
+                            <TD class=text-mail 
+                              width="96%">รางวัลสนับสนุนพิเศษ 
+                              จากผู้ให้บริการโทรศัพท์ </TD></TR>
+                          <TR>
+                            <TD colSpan=2>•AIS เสื้อแจ๊กเก็ต Mobile Life 1 ตัว 
+                              สำหรับผู้ที่ได้ค่ะแนนสูงสุดประจำสัปดาห์</TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD vAlign=top>
+                        <TABLE class=krob-line-grey width="75%" align=center 
+                        border=0>
+                          <TBODY>
+                          <TR>
+                            <TD bgColor=#ffffff>
+                              <DIV align=center><IMG height=95 
+                              src="http://www.textme.co.th/textme2005/images/product/3220.jpg" 
+                              width=90></DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD class=text-grey vAlign=top>
+                        <TABLE width="100%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=text-grey>•DTAC โทรศัพท์มือถือ Nokia 
+                              3220 &nbsp;เฉพาะผู้ใช้บริการโทรศัพท์ในระบบ 
+                              &nbsp;DTAC ที่ได้คะแนนสูงสุดทุกวันอาทิตย์ 
+                              &nbsp;อาทิตย์ละหนึ่งเครื่อง</TD></TR>
+                          <TR>
+                            <TD class=text-grey>•Orange ตุ๊กตา Orange Monkey 
+                              สำหรับผู้ใช้บริการโทรศัพท์ในระบบ &nbsp;Orange 100 
+                              ท่านแรกที่ทำคะแนนได้ครบ 5,000 
+                        คะแนน</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD colSpan=2><IMG height=49 
+                  src="http://textme.co.th/textme2005/Mailinglist/head3.gif" 
+                  width=632></TD></TR>
+              <TR>
+                <TD class=text-head-grey width="7%">
+                  <DIV align=right><IMG height=14 
+                  src="http://textme.co.th/textme2005/Mailinglist/arrow-orange.gif" 
+                  width=14></DIV></TD>
+                <TD class=text-head-grey 
+                  width="93%">โดยกรอกข้อมูลลงในแบบฟอร์มข้างล่างนี้ ลุ้นรับ Gift 
+                  Setจากทางบริษัทมูลค่า 100 บาท 100 รางวัล</TD></TR>
+              <TR>
+                <TD colSpan=2>
+                  <TABLE class=krob-line-black height=120 width="90%" 
+                  align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=top height=114><BR>
+                        <TABLE width="83%" align=center border=0>
+                          <TBODY>
+                          <TR>
+                            <TD vAlign=top width="27%">
+                              <DIV class=text-head-grey 
+                            align=right>ชื่อ:</DIV></TD>
+                            <TD vAlign=top width="27%"><INPUT maxLength=50 
+                              name=name></TD>
+                            <TD class=text-mail-red vAlign=top width="14%">
+                              <DIV class=text-grey align=right>นามสกุล:</DIV></TD>
+                            <TD vAlign=top width="32%"><INPUT maxLength=50 
+                              name=name2></TD></TR>
+                          <TR>
+                            <TD vAlign=top>
+                              <DIV class=text-head-grey 
+                            align=right>อายุ:</DIV></TD>
+                            <TD><INPUT maxLength=3 size=5 name=age></TD>
+                            <TD class=text-mail-red vAlign=top>
+                              <DIV class=text-grey align=right>เพศ:</DIV></TD>
+                            <TD class=text-head-grey><INPUT type=radio CHECKED 
+                              value=0 name=sex> Male <INPUT type=radio value=1 
+                              name=sex> Female</TD></TR>
+                          <TR>
+                            <TD vAlign=top>
+                              <DIV class=text-head-grey 
+                              align=right>หมายเลขโทรศัพท์มือถือ:</DIV></TD>
+                            <TD><INPUT name=mobile></TD>
+                            <TD class=text-mail-red vAlign=top>
+                              <DIV class=text-grey align=right>อีเมล์:</DIV></TD>
+                            <TD><INPUT name=email></TD></TR>
+                          <TR>
+                            <TD vAlign=top>&nbsp;</TD>
+                            <TD class=text-grey><A 
+                              href="http://www.textme.co.th/textme2005/Mailinglist/Mailinglist.html" 
+                              target=_blank>ลงทะเบียนไม่ได้คลิกที่นี่</A></TD>
+                            <TD class=text-mail-red vAlign=top>&nbsp;</TD>
+                            <TD>
+                              <DIV align=left><INPUT type=submit value=Submit name=Submit> 
+                              </DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=text-gray-small colSpan=2>
+                  <DIV class=HILIGHT-ORANGE align=center>เพิ่มเติมความสนุก 
+                  และสิทธิพิเศษบนโทรศัพท์มือถือมากมายได้ที่ <A 
+                  href="http://www.textme.co.th/textme2005/html/homefunzone.php" 
+                  target=_blank>www.textme.co.th</A></DIV></TD></TR>
+              <TR>
+                <TD class=text-small-grey colSpan=2 height=42>Copyright 2004 
+                  TextMe Co.,Ltd. All Rights 
+        Reserved.</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></FORM></BODY></HTML>
+
+--= Multipart Boundary 1229041626--
+

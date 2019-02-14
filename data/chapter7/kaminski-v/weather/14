@@ -1,0 +1,103 @@
+Message-ID: <14083456.1075856643696.JavaMail.evans@thyme>
+Date: Thu, 2 Nov 2000 07:13:00 -0800 (PST)
+From: v.weldon@enron.com
+To: mike.roberts@enron.com, mark.tawney@enron.com, claudio.ribeiro@enron.com, 
+	gary.taylor@enron.com, todd.kimberlain@enron.com, 
+	joseph.hrgovcic@enron.com, jose.marquez@enron.com, 
+	vince.kaminski@enron.com, milind.pasad@enron.com
+Subject: Hurricane Warning Derivatives
+Cc: william.smith@enron.com, stephen.bennett@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: william.smith@enron.com, stephen.bennett@enron.com
+X-From: V Charles Weldon
+X-To: Mike A Roberts, Mark Tawney, Claudio Ribeiro, Gary Taylor, Todd Kimberlain, Joseph Hrgovcic, Jose Marquez, Vince J Kaminski, Milind Pasad
+X-cc: william.smith@enron.com, Stephen W Bennett
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Folks,
+
+This note is intended to update all who may be concerned on our progress 
+toward developing a commercial hurricane warning derivative product or line 
+of products.  
+
+It is clear that numerous entities have underlying exposures to hurricane 
+warning frequency and/or duration.  It is our objective to develop derivative 
+products that will enable these entities to effectively hedge this 
+exposure.   We have generated a partial brainstorm-style list of whom natural 
+counterparties might be according to their underlying exposure:
+
+Pro-Hurricane     Anti-Hurricane
+The Weather Channel    Resorts
+Home Depot     Cruise Ships    
+Lowes      Riverboat Casinos
+CNN      Chemical Plants and Refineries
+Local TV Stations    U.S Armed Forces
+Dry Ice Manufacturers    Athletic Teams
+Chainsaw Manufacturers   City Governments
+Insect Repellant Manufacturers   State Governments
+
+
+It is obvious that there are numerous naturally offsetting parties but it is 
+important to note that the pro-hurricane entities are more macro in nature 
+while the anti-hurricane entities are typically more regional.  Thus, we have 
+documented the frequency and duration data by regional location with the 
+thought that the anti-hurricane entities would be interested in regional 
+products and the pro-hurricane entities would likely be more interested in 
+bundled regional products depending on their exposure.
+
+Thus far, we have collected and documented all U.S hurricane warning data 
+from 1980-2000 in the form of an Excel database.  The data can be sorted by 
+year, storm, or location on the U.S coastline.  Total hurricane warning 
+duration as well as number of discrete hurricane warnings are the primary 
+data sets of interest for any given location (or year or storm).  The U.S 
+coast has been divided into 11 different geographic regions of roughly 
+similar size.  These regions are: New England, Mid-Atlantic, Virginia, North 
+Carolina, Georgia/South Carolina, East Florida, West Florida, Florida 
+Panhandle, Orleans/Miss/Bama, Lousiana, and Texas.
+
+While this data set may not yet be sufficient for price modeling purposes, it 
+has confirmed our expectation that hurricane warning frequency and duration 
+is quite volatile and unpredictable.   It is believed that this volaility, 
+when graphically depicted and mathematically represented, could be used to 
+effectively demonstrate to would-be customers the impact of hurricane warning 
+frequency on their business financials.  In many cases, businesses may be 
+well aware of their exposure but may not have quantified it and certainly 
+probably felt as if this was a risk they would have to wear themselves.
+
+As we move forward on the modeling front, the data will certainly need to be 
+scrutinized to correct for any skewing factors such as political trends, 
+satellite availability, population trends, etc.   Additionally, we need to go 
+further back in time so long as the accuracy doesn't decline.
+
+On the marketing front, I am certainly open to ideas.  It is believed the 
+Weather Channel would be the most natural party for such a product.  Given 
+our positive relationship that we currently have with them, they might be the 
+easiest sell.     Any and all ideas are welcome with regard to how and when 
+we should approach customers.
+
+Please respond with any questions, comments or concerns on this project.
+
+
+Thanks,
+
+Charlie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

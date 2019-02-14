@@ -1,0 +1,38 @@
+Message-ID: <7161852.1075840780515.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 10:24:15 -0700 (PDT)
+From: iris.mack@enron.com
+To: j.kaminski@enron.com
+Subject: FW: Report to Professor Duffie
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mack, Iris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IMACK>
+X-To: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>
+X-cc: 
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+
+	You warned me not to say disparaging remarks about our clients.  I am doing my best not to - although it is sometimes hard not to do so.
+
+	However, I don't understand how these guys fire one of their two quants and then have the nerve to send the attached email?
+
+	
+ -----Original Message-----
+From: 	Salmon, Scott  
+Sent:	Friday, May 25, 2001 11:45 AM
+To:	Mack, Iris
+Cc:	Kaminski, Vince J; Dhar, Amitava
+Subject:	Report to Professor Duffie
+
+Hi Iris,
+
+I wasn't sure if you had already sent your report to Professor Duffie yet or not, but I've been thinking about ways that his group (or the Research team) could really add value in an area where we're admittedly weak - model testing.  If you haven't sent the report to him yet, perhaps we can request his opinions on best practices for testing models with limited quality out of sample test sets.  Obviously, I'd like to discuss this in detail with you as well, especially since you understand the characteristics of the models and data better now, but I'll do that via phone.  I'm hoping there are some statistical techniques we're currently ignoring that we can employ to maximize the testing we do and get a better handle on judging our accuracy.
+
+If you've got some time Tuesday after our meeting where Mike catches us up on the D&B issues, I'd love to get your views as the model testbed is now in place and we're starting a model recalbration phase.  I'm least comfortable about our plans for stress testing the models once we've recalibrated them.
+
+Looking forward to talking to you Tuesday.
+
+Regards,
+Scott

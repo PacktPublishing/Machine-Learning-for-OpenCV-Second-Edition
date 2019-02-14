@@ -1,0 +1,74 @@
+Message-ID: <27080252.1075856596835.JavaMail.evans@thyme>
+Date: Thu, 27 Jul 2000 08:08:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: anjam.ahmad@enron.com
+Subject: Re: Aluminium Asian Digital Options
+Cc: stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com
+X-From: Zimin Lu
+X-To: Anjam Ahmad
+X-cc: Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Anjam,
+
+We can use moment matching to find the "effective" volatility and dividend 
+yield for the average.
+Then we can apply the European digital option formula.   Attached please find 
+the c-code I did
+for  Asian spread option, when I find the effective vol and drift for both 
+averages then find the option
+value by calling the European spread option.  You can do just the same for 
+the Asian digital option.
+
+It would be nice to do a Monte-Carlo, just checking the accuracy of the 
+approximation.
+
+It was nice to have you here, we are impressed by the work you have done.
+Keep up the good work.
+
+Zimin
+
+
+
+
+
+
+   
+	Enron Capital & Trade Resources Corp. - Europe
+	
+	From:  Anjam Ahmad                           07/27/2000 10:14 AM
+	
+
+To: Zimin Lu/HOU/ECT@ECT
+cc:  
+Subject: Aluminium Asian Digital Options
+
+Hi Zimin,
+
+
+Russell Placket of MG Metals just talked to me about the issue of pricing a 
+strip of twelve monthly Asian digital options on LME aluminium.  As I 
+understand, the payoff to the customer is a fixed cash amount that wil be 
+paid if the average of the closing prices of aluminium for a month are 
+greater than the strike agreed in advance, where holiday days do not 
+contribute to the average.
+
+Russell mentioned that this would be a set of 12 monthly options starting in 
+Jan-01, and that the LME price for Jan-01 of $1572.5 (which is the future 
+converging to the spot price on the 3rd Wednesday in Jan 01) can be used as a 
+proxy/estimate for the average for the month.
+
+Do you have a model for asian digitals or should I proceed with Monte Carlo 
+to price this, maybe using European digital option model as control variate?
+
+Thanks,
+
+Anjam
+x35383
+

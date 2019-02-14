@@ -1,0 +1,133 @@
+Message-ID: <9907006.1075855892571.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 04:37:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: Re: TAGG modification request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Looks like we can get some help to automate the swaption notification process 
+going forward...
+---------------------- Forwarded by Brent A Price/HOU/ECT on 06/29/2000 11:31 
+AM ---------------------------
+
+
+Ron Nolte
+06/29/2000 12:32 PM
+To: Souad Mahmassani/Corp/Enron@ENRON
+cc: Brent A Price/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT, Jeff 
+Johnson/Corp/Enron@Enron, Beth Perlman/HOU/ECT@ECT 
+Subject: Re: TAGG modification request  
+
+Souad,
+
+There are expiration dates for swaptions/options on the "Detail" button in 
+TAGG Deal Capture.  Let's
+do the following.  Go into TAGG Deal Capture and check to make sure these 
+dates are valid for swaptions/options.
+
+We will write a report that you can run that identifies deals that are  
+expiring.
+
+Thanks, Ron
+
+
+
+
+
+Brent A Price
+06-29-2000 02:49 AM
+To: Jefferson D Sorenson/HOU/ECT@ECT, Jeff Johnson/Corp/Enron@Enron, Beth 
+Perlman/HOU/ECT@ECT, Ron Nolte/HOU/ECT@ECT
+cc:  
+Subject: Re: TAGG modification request  
+
+We really need to raise the priority on getting this done.  We had a swaption 
+with significant value to Enron not get excersied this month due to 
+breakdowns in the manual process.  Let me know how extensive this will be 
+from an IT perspective.  Thanks
+
+
+   
+	
+	
+	From:  Jefferson D Sorenson                           06/28/2000 09:53 PM
+	
+
+To: Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Re: TAGG modification request
+
+the reason for this message and the other message addressed to Jeff Johnson 
+is that we have system modifications that due to system resources may or may 
+not get done.  note the ClickPaper comment.
+Jeff
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+06/28/2000 03:50 PM ---------------------------
+
+
+Ron Nolte
+06/28/2000 03:49 PM
+To: Souad Mahmassani/Corp/Enron@ENRON
+cc: Larry Joe Hunter/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT 
+Subject: Re: TAGG modification request  
+
+Souad,
+
+We can implement this - the question is "when". As I indicated to Jeff, we 
+are currently working on ClickPaper
+but we will work on whatever is a higher priority from Enron's point of view.
+
+Thanks, Ron
+do to get your request 
+
+
+
+Souad Mahmassani
+06-28-2000 02:47 PM
+To: Ron Nolte/HOU/ECT@ECT
+cc: Larry Joe Hunter/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT 
+Subject: TAGG modification request
+
+Ron,
+
+A series of significant events took place this week where it made it more 
+apparent that a modification in Tagg is highly needed.   Without going into a 
+lot of detail regarding the events, the modification desired is simply an 
+Expiration Date field for certain types of transactions (Swaptions), where a 
+date is keyed by the user at the time the trade is entered into TAGG.  In 
+addition, this feature will permit TAGG to prompt the user or users with a 
+message box of the Expiration date and associated Deal Number at a later 
+time, before the expiration date becomes current (i.e. a week before the 
+expiration date becomes current).  
+
+This request carries a lot of value for it allows ENA to avoid a variety of 
+risks underlying missing execution of certain types of trades.  This issue 
+was addressed in the past and I would like to raise it again.
+
+Can we implement such modification? Your prompt response is highly needed and 
+your feedback is appreciated.  
+
+Thanks. 
+
+
+I work on the confirmation desk, reporting to Jeff Sorenson.  Please call me 
+if you have any questions or suggestions (X37580). 
+
+
+
+
+
+
+
+
+
+
+

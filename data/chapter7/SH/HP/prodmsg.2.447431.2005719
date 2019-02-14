@@ -1,0 +1,65 @@
+Received: from server1050.gisol.com (216.240.136.130)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:19 -0000
+Received: from mailnull by server1050.gisol.com with local (Exim 4.50)
+	id 1Dupmp-0001kN-Ia
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 03:57:19 -0700
+X-Failed-Recipients: twistersoffice@qwest.net
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@server1050.gisol.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupmp-0001kN-Ia@server1050.gisol.com>
+Date: Tue, 19 Jul 2005 03:57:19 -0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1050.gisol.com
+X-AntiAbuse: Original Domain - mail.scoaway.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  twistersoffice@qwest.net
+    (generated from info@twisterburritos.com)
+    SMTP error from remote mailer after end of data:
+    host mpls-cmx-07.inet.qwest.net [63.226.138.7]:
+    554 mail server permanently rejected message (#5.3.0)
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [217.96.160.142] (helo=mailwisconsin.com)
+	by server1050.gisol.com with smtp (Exim 4.50)
+	id 1Dupmn-0000kC-JT
+	for info@twisterburritos.com; Tue, 19 Jul 2005 03:57:18 -0700
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024817159;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@twisterburritos.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54270791">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

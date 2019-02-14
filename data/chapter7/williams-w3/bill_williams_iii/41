@@ -1,0 +1,42 @@
+Message-ID: <4783591.1075863296054.JavaMail.evans@thyme>
+Date: Wed, 5 Sep 2001 14:44:22 -0700 (PDT)
+From: fran.chang@enron.com
+To: virginia.thompson@enron.com
+Subject: pma questions for STWHOULRY desk
+Cc: kate.symes@enron.com, bill.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kate.symes@enron.com, bill.williams@enron.com
+X-From: Chang, Fran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FCHANG>
+X-To: Thompson, Virginia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vthompso>
+X-cc: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksymes>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Hi Virginia:
+
+I discussed w/ Kate regarding two pma items in STWHOURLY desk in the lastest desk analysis from Mark Confer.  Please let me know if I should direct these questions directly to Houston Settlements, or I'll stop by later to see if you have a minute on these issues.
+
+1. Deal#664447.1
+In the desk analysis it's showing a -$1575 due to HE7 zeroed out in July after deal liquidated on 6/27/01.
+Question:  we should have an offsetting +$1530 due to upstream deal#664444.1 HE7 zeroed out in July after deal liquidated on 6/27/01, but this credit side didn't show up in the desk analysis.
+
+2. Deal#662547.1
+In the desk analysis it's showing -$1265 due to HE12 volume changed from 46MW to 23MW in July for flow date of 6/26/01.  
+Question: we should have an offsetting +$1150 due to upstream deal#662543 HE12 volume changed in July after deal liquidated on 6/27/01, but this credit didn't show up in the desk analysis.
+
+
+Kate and Bill:
+Regaring Deal#630335.1 and it's associated deals, I believe this is what should have happened:
+a. You should get back +$315 as annuity (buy) #630335.1 price was changed fm $315 to $0 in July for flow date of 6/2/01 
+b. You should get a -$315 hit for transmission (buy) demand charge #648312.1 entered on 6/14/01 for flow date of 6/2/01
+c. You should get back +$360 (=$675-$315) as annuity (sale) #630336.1 was entered with $315 price on 6/2/01 for 6/2/01 (this part should always been captured when the deal liquidated on 6/2) and the annuity price was later changed to $675 on 6/14/01
+=> As you know Settlements already captured the +$315 in (a).  I believe Settlements didn't capture (b) and (c) because the deals were entered after the deals liquidated in the same month.  Risk can do a manual adjustment for you on this $45 credit (net of $360 and -$315) right away and then we'll take $315 in (a) as pma this month-end since we didn't take it on 8/31/01.
+
+Please let me know if you have any questions.
+
+Thanks,
+Fran
+x7973  

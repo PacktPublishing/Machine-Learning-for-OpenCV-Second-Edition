@@ -1,0 +1,35 @@
+Return-Path: <incheolugo984@rhythmiclight.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 18553 invoked from network); 29 Jun 2005 21:58:42 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 29 Jun 2005 21:58:42 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Jun 2005 21:58:42 -0000
+Received: (qmail 14431 invoked from network); 29 Jun 2005 21:58:41 -0000
+Received: from pool-71-96-81-131.dfw.dsl-w.verizon.net (unknown [71.96.81.131])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 29 Jun 2005 21:58:35 -0000
+Received: from gusta.hmirealestate.com (71.96.81.131)
+          by 71.96.81.131 (homonickv.92) with SMTP
+          id <3153837n33cbk>; Thu, 30 Jun 2005 04:50:22 +0600
+Reply-To: "janell ammiel" <krishnas.4400borosch@hmirealestate.com>
+From: "janell ammiel" <krishnas.4400borosch@hmirealestate.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Notice: You've Won. Claim Your Money Now
+Date: Thu, 30 Jun 2005 03:51:22 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1188688_0844070.6X016"
+Content-Length: 779
+Lines: 8
+
+----1188688_0844070.6X016
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Applicant,<p>After further review upon receiving your application your current mortgage qualifies for a 4.75 rate.<p>Your new monthly payment will be as low as $340/month for a $200,000 loan.<p>Please confirm your information in order for us to finalize your loan, or you may also apply for a new one.<br>Complete the final steps by visiting: <a href="http://www.wsrefi.net/?id=j22">http://www.wsrefi.net/?id=j22</a><p>We look foward to hearing from you.<p>Thank you,<p>Heather Grant, Account Manager<br>LPC and Associates, LLC.<p>-------------------------------------------------<p>not interested? -> www.wsrefi.net/book.php</html>
+
+----1188688_0844070.6X016--

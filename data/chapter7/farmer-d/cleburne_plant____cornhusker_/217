@@ -1,0 +1,62 @@
+Message-ID: <18705874.1075854248735.JavaMail.evans@thyme>
+Date: Wed, 30 Aug 2000 03:31:00 -0700 (PDT)
+From: richard.elwood@enron.com
+To: carey.mansfield@enron.com, lana.yu@enron.com
+Subject: DONE: New Sitara Desk Request (Ref CC#20000813)
+Cc: samuel.schott@enron.com, debbie.brackett@enron.com, judy.rose@enron.com, 
+	vanessa.schulte@enron.com, david.baumbach@enron.com, 
+	daren.farmer@enron.com, dave.nommensen@enron.com, 
+	donna.greif@enron.com, shawna.johnson@enron.com, 
+	russ.severson@enron.com, scott.mills@enron.com, judy.rose@enron.com, 
+	nathan.coyle@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: samuel.schott@enron.com, debbie.brackett@enron.com, judy.rose@enron.com, 
+	vanessa.schulte@enron.com, david.baumbach@enron.com, 
+	daren.farmer@enron.com, dave.nommensen@enron.com, 
+	donna.greif@enron.com, shawna.johnson@enron.com, 
+	russ.severson@enron.com, scott.mills@enron.com, judy.rose@enron.com, 
+	nathan.coyle@enron.com
+X-From: Richard Elwood
+X-To: Carey Mansfield, Lana Yu
+X-cc: Samuel Schott, Debbie R Brackett, Judy Rose, Vanessa Schulte, David Baumbach, Daren J Farmer, Dave Nommensen, Donna Greif, Shawna Johnson, Russ Severson, Scott Mills, Judy Rose, Nathan Coyle
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Carey,
+Per Scott's request below the following business unit (aka: desk id, 
+portfolio) was added to Global production and Unify development, test, 
+production and stage.   Please copy to the other Global environments.
+Thanks, 
+Dick, x3-1489
+
+Updated in Global production environment GCC Code Desc:
+
+P ENT SUBENTI DATA_CD    AP DATA_DESC               CODE_ID
+- --- ------- ---------- -- -------------------- ----------
+A SIT DESKID  IMCL       A  ENA - IM Cleburne          9273
+
+
+   
+	
+	
+	From:  Scott Mills                           08/30/2000 08:27 AM
+	
+
+To: Samuel Schott/HOU/ECT@ECT, Richard Elwood/HOU/ECT@ECT, Debbie R 
+Brackett/HOU/ECT@ECT, Judy Rose/HOU/ECT@ECT, Vanessa 
+Schulte/Corp/Enron@Enron, David Baumbach/HOU/ECT@ECT, Daren J 
+Farmer/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT, 
+Shawna Johnson/Corp/Enron@ENRON, Russ Severson/HOU/ECT@ECT
+cc:  
+Subject: New Sitara Desk Request
+
+
+
+This needs to be available in production by early afternoon.  Sorry for the 
+short notice.
+
+SRM (x33548)
+

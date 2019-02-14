@@ -1,0 +1,205 @@
+Message-ID: <14622958.1075849852429.JavaMail.evans@thyme>
+Date: Wed, 4 Apr 2001 08:27:00 -0700 (PDT)
+From: mike.jordan@enron.com
+To: richard.causey@enron.com, rick.buy@enron.com, sally.beck@enron.com, 
+	ted.murphy@enron.com
+Subject: Merchanting Metals Update #2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mike Jordan
+X-To: Richard Causey, Rick Buy, Sally Beck, Ted Murphy
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Please find attached the most recent update for Merchanting Metals.
+
+In summary the planned systems changes and manual substantiation efforts are 
+behind schedule. Additional resources are being allocated and the situation 
+is being closely monitored ( both for quarter end signoff and on going 
+operations ).
+
+Please contact me if you require any additional information
+
+Mike
+
+
+
+---------------------- Forwarded by Mike Jordan/LON/ECT on 04/04/2001 13:59 
+---------------------------
+
+
+Mike Jordan
+03/04/2001 16:29
+To: John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Joe 
+Gold/LON/ECT@ECT, Michael Farmer/EU/Enron@ENRON, Michael J 
+Hutchinson/EU/Enron@Enron, Paul Freeman/EU/Enron@Enron
+cc: Fernley Dyson/LON/ECT@ECT, Andrew Cornfield/LON/ECT@ECT, Howard 
+Carter/EU/Enron@Enron, Nigel Grace/EU/Enron@Enron, Mark Pickering/LON/ECT@ECT 
+
+Subject: Merchanting Metals Update #2
+
+The intention of the efforts and actions documented in my earlier update ( 
+see attached email ) was to provide  
+a robust position signoff process for total metal tonnage, spread and brand 
+and location
+a timely substantiation of 
+stock on balance sheet
+forward MTM 
+debtors and creditor balances
+OBSF transactional values and a reconciliation of the barclays intercompany 
+account
+
+Despite the best efforts of IT, continuing problems with the AS400 
+application, a better understanding of the inconsistency between stock 
+reconciliation reports, and concerns over the useability of the outright 
+stock screen enquiry are such that I am currently not confident of delivering 
+sufficient accurate information to AA to satisfy their audit requirements - 
+which at a macro level is the transparent audit trail between stock and 
+forward positions to full accounting values.
+
+Consequently I need to inform you of, and/or require your approval for, the 
+following :
+
+I will discuss with AA the following
+that OBSF values within the extended trial balance may be misstated due to 
+data issues ( above and beyond existing conversations with AA on model 
+simplifications)
+that there are reconciling differences between trader position analyses, 
+AS400 on screen enquiries and the formal global position report ( these 
+differences are at present not understood but would need to be provided to AA 
+within the audit timetable)
+an outline of the internal balance sheet review process described in my 
+earlier note which must now be reprioritised and rescoped ( see MO work )
+The creation of an incentive payment pool ( possibly via personal best awards 
+) for key Metals staff who continue to work exceptionally unsociable hours to 
+meet the above stated objectives
+The signoff for additional permanent 'Enron' headcount who will 'duplicate' 
+certain key position control processes ultimately replacing some existing 
+Traffic staff
+A reconciling difference of $15mm exists between the reported DPR and the 
+final accounting p&l as generated on the AS400. We will continue to 
+investigate potential misstatements in the system p&l, as a result of data or 
+system valuation problems, within the month end reporting timeframe. However, 
+this difference may need to be adjusted for following a final review and 
+signoff of system p&l values with traders.
+The recall of all OBSF stock in early April and retention on balance sheet ( 
+reduced where economically viable ) until positions are fully reconciled and 
+repeatable daily signoff process can be instigated.
+
+Middle Office work being prioritised is as follows
+the stock circularisation initiated for close of business 23 rd - with full 
+reconciliation of returns to current system data by traffic/co-ordination
+an audit of the stock and forward valuation report for the 30 th ( replacing 
+planned 23 rd review due to system issues ), requiring
+full download of contract detail for later reference
+reconciliation of stock movements between 23 rd and 30 th
+sample tests of vanilla forward transactions
+detailed position analysis of all OBSF contracts that must be reconciled to 
+Barclays documentation
+spreadsheet recalculation of OBSF option premium utilising the above manually 
+created position analysis
+the circularisation of Barclays intercompany account and comparison to our 
+cut off and substantiation analysis
+the debtors/creditors partial circularisation initiated for close of business 
+23 rd
+
+I will be in touch directly re the items needing approval
+
+Regards
+
+Mike
+---------------------- Forwarded by Mike Jordan/LON/ECT on 29/03/2001 20:51 
+---------------------------
+
+
+Mike Jordan
+21/03/2001 18:20
+To: John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Rick 
+Buy/Enron@EnronXGate, Richard Causey/Corp/Enron@ENRON, Ted 
+Murphy/LON/ECT@ECT, Sally Beck/HOU/ECT@ECT
+cc: Fernley Dyson/LON/ECT@ECT, Joe Gold/LON/ECT@ECT, Michael 
+Farmer/EU/Enron@ENRON, Michael J Hutchinson/EU/Enron@Enron 
+
+Subject: Merchanting Metals update
+
+Several related issues have resulted in an increase in the level of operating 
+risk for the Merchanting Metals business.
+
+Complexities surrounding the operation of the Off Balance Sheet Facility 
+("OBSF") which commenced two weeks before the year end.
+The uncertainty generated by the revocation of AA's signoff for the facility 
+late in the year end audit.
+The discovery of a number of 'bugs' within the AS400 Merchanting code, 
+arising from the release of OBSF designed functionality, which compounded the 
+operational burden of supporting the OBSF.
+The requirement to amend the operational process and OBSF IT code as a result 
+of the current renegotiation of the OBSF with Barclays ( and AA ).
+The senior IT developer for Merchanting has resigned and been sent on 
+gardening leave.
+The Corporate requirement to lower working capital usage for the Merchanting 
+business irrespective of the above parochial business issues.
+
+Various mitigating actions have been and will be taken to provide focus, gain 
+comfort over control levels and to provide assurance to senior management as 
+to the accuracy of the Q1 DPR and business balance sheet.
+
+The implementation for SAP for the Merchanting business has been delayed and 
+effectively decoupled from the higher risk ( higher benefit ) Brokerage 
+implementation - benefit is to provide sole focus on OBSF for IT Merchanting 
+developers.
+The AR/AP SAP data quality reviews for both businesses are continuing so as 
+to provide a detailed analysis as at end Q1.
+Middle Office have instigated a new daily working capital report process 
+tracking cash settlement/ funding data to working capital components for all 
+Metals businesses.
+An enhanced position signoff process will be implemented prior to end Q1 
+covering gross tonnage, spread positions and summarised analyses for brand 
+and locations. The necessary report functionality should be available within 
+the AS400, however contingencies have been initiated to build tactical 
+VBA/excel reports outside of the AS400 but using AS400 data downloads.
+User requests for additional AS400 functionality and reports have been 
+aggressively prioritised and a code freeze will commence prior to the end of 
+Q1 following the delivery of three reports determined as minimum requirements 
+for the support of OBSF.
+A resubstantiation of the full Q1 DPR will be completed by the Risk control 
+staff reconciling the full trial balances between Q1 open and Q1 close
+A full internal balance sheet review will be completed within the Q1 audit 
+timetable which incorporates 
+A full circularisation of inventory balances, and matching to source 
+documentation within Enron
+Inspection of certain of the above inventory balances, by third party 
+inspectors, where there is an expectation that circularisation replies will 
+not be received on a timely basis
+Substantive checks back to source contract documentation for the forward 
+priced and unpriced positions report ( spot checking the key position report 
+signed off by the traders )
+Full reconciliation and recalculation of OBSF option premium values
+Full reconciliation of contracts within the OBSF to Barclays documentation ( 
+thereby substantiating existence of stock that we have option to purchase ) 
+and to AS400 Barclays account
+A risk based debtors review - matching to source documentation, where 
+applicable, and any subsequent post quarter end cash movements
+A full substantiation of creditors to internal ( contract commitments ) or 
+external documentation ( invoices/request for payment )
+A full reconciliation of intercompany accounts
+A full substantive reconciliation of cash and funding accounts
+
+I intend to provide weekly updates on the status of the above actions during 
+April 
+
+If you have any questions please call me on x34703
+
+Regards
+
+Mike
+
+
+
+
+
+
+
+

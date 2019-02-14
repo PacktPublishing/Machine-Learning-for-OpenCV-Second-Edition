@@ -1,0 +1,136 @@
+Message-ID: <25398748.1075856586584.JavaMail.evans@thyme>
+Date: Tue, 8 Aug 2000 12:02:00 -0700 (PDT)
+From: samer_takriti@enron.net
+To: stinson_gibner@ect.enron.net
+Subject: CPLEX
+Cc: pinnamaneni.krishnarao@enron.com, grant.masson@enron.com, 
+	vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pinnamaneni.krishnarao@enron.com, grant.masson@enron.com, 
+	vince.kaminski@enron.com
+X-From: Samer_Takriti@enron.net
+X-To: Stinson_Gibner@ECT.enron.net
+X-cc: Pinnamaneni Krishnarao, Grant Masson, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson,
+Enclosed are the details of the CPLEX purchase. If everyone agrees, I will
+assume that EBS is responsible for 1/3 of the cost (with Taxes etc. must be
+close to $15,000).
+Krishna and Grant, what do you think?
+-Samer
+
+"Kim Turley" <kturley@ilog.com> on 05/25/2000 02:22:30 PM
+
+Please respond to <kturley@ilog.com>
+
+To:   <Chonawee.Supatgiat@enron.com>
+cc:   <samer_takriti@enron.net>
+
+Subject:  Revised ILOG quote 5-25-00
+
+
+Hi Chonawee,
+
+You are right, I did make a mistake on the calculation, though it isn't
+exactly 2/3 of the previous 3 pak quote. Sorry about that and so glad you
+caught it. I multiplied by 1.5 and I meant to use 1.3.  We have discounted
+deployment paks which we discount by quantity.  Our chart starts with a 3
+pak so I took that number from our price list and multiplied by 1.3 to get
+14,560.00.  For 2 deployments, I take $4,500 for one, plus 10% off for the
+second license 4,050, then times 1.3 = 11,115.00.  Here is the revised
+quote.  I checked the other numbers again and they are correct. Again, I am
+sorry for the mistake.
+
+Regards,
+
+
+
+****************************
+May 25, 2000
+Enron Corporation
+
+A Single User CPLEX v 6.6 Development License with Callable Library and
+Mixed Integer, 2 CPLEX Floating Deployment licenses with Mixed Integer and
+2
+OPL Studios,  all with First Year's maintenance and on Win NT on an Intel
+PC.
+
+Once you have a CPLEX Development License with Maintenance and Update
+Services, then you can purchase Deployment Licenses (run time/license
+derivative works)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Item 1   Description                                 Fee
+------   -------------                             ----------
+1        1 CPLEX Floating Development license,
+         Callable Library, Mixed Integer           $15,300.00
+2        Maintenance on Item 1                       2,295.00
+3        2 OPL Studio                               10,000.00
+4        Maintenance on Item 3                       3,000.00
+5        2 CPLEX Floating Deployment/Mixed Integer  11,115.00
+6        Maintenance on Item 5                       1,667.25
+                                                  ------------
+Total                                              $43,377.25
+
+The cost of (optional) annual Maintenance and Update Services is
+15% of the license fees.
+
+The customer is responsible for and must add any applicable sales tax,
+value-added (ad valorem) tax, duty or other transaction tax associated with
+the sale.
+
+This quotation is firm for 30 days and subject to the terms of the ILOG
+License Agreement and the ILOG Maintenance Agreement.
+
+ORDER INFORMATION
+
+Fax a purchase order (with clear shipping and billing address) to
+match the above items, attention Kim Turley.  As soon as we receive your
+purchase order, we will ship the software and simultaneously send you an
+invoice by
+separate mail for payment.
+
+Payment terms are net 30.
+
+Regards,
+
+
+Kim Turley
+ILOG Direct Sales
+ILOG Inc., Lake Tahoe Office
+889 Alder Avenue, Suite 200
+Incline Village, NV 89451, USA
+Phone:  (775) 832-1960, Ext. 130
+Fax:    (775) 831-7755
+email:  kturley@ilog.com
+
+Have you downloaded your free copy of OPL Studio?
+If not, please visit:  http://www.ilog.com/products/oplstudio/
+
+ILOG: Powering Your Software
+http://www.ilog.com http://www.cplex.com
+
+Ask me about our
+-AMPL Training June 15-16
+-Next OPL Studio Training, June 2000
+
+P.S.   From now until June 30, 2000, any ILOG CPLEX Licensee may
+acquire ILOG OPL Studio for just $5,000 (50% discount).  Ask me
+about the details!
+
+
+
+
+
+
+
+
+
+
+

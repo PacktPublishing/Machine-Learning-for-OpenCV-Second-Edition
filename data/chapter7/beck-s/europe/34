@@ -1,0 +1,128 @@
+Message-ID: <17353762.1075849853207.JavaMail.evans@thyme>
+Date: Tue, 19 Dec 2000 08:02:00 -0800 (PST)
+From: mike.jordan@enron.com
+To: rick.buy@enron.com, ted.murphy@enron.com, david.port@enron.com
+Subject: UK Submission of Positions
+Cc: james.new@enron.com, debbie.brackett@enron.com, david.hardy@enron.com, 
+	john.paskin@enron.com, brian.hudson@enron.com, 
+	mark.pickering@enron.com, fernley.dyson@enron.com, 
+	sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: james.new@enron.com, debbie.brackett@enron.com, david.hardy@enron.com, 
+	john.paskin@enron.com, brian.hudson@enron.com, 
+	mark.pickering@enron.com, fernley.dyson@enron.com, 
+	sally.beck@enron.com
+X-From: Mike Jordan
+X-To: Rick Buy, Ted Murphy, David Port
+X-cc: James New, Debbie R Brackett, David Hardy, John Paskin, Brian Hudson, Mark Pickering, Fernley Dyson, Sally Beck
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Just to follow up on James's note of yesterday - my apologies for being out
+
+The elimination of the requirement to 'grab' the FX and IR market environment 
+from Houston ( and consequently use European data ) can improve our ability 
+to kick the overnight batch processing off earlier in the evening. James and 
+I will be working with Brian Hudson to determine the timetable for effecting 
+this change
+
+The revised batch start time would improve the opportunity to detect any 
+system failure and complete a rerun of the valuation process so as to deliver 
+completed results by the time the Risk Management team arrive at their desks 
+in the morning. System failures are the most significant problem we face in 
+delivering timely information to Houston. Consequently the probability of 
+meeting current reporting deadlines would be greatly improved given that we 
+will have full IT overnight support covering for any IT failure and curve 
+input validation processes on trade date.
+
+Indeed given the successful completion of all overnight runs we are able to 
+deliver
+
+Officialisation of all valuation systems and most spreadsheets ( David Hardy 
+is in final testing of the Eastern spreadsheet feed ) by the 10 AM deadline ( 
+Houston 4 AM )
+Flash p&l by the 1PM deadline ( Houston 7AM )
+Completion of the final DPR to be submitted to Houston by the 5 PM deadline ( 
+Houston 11AM )
+
+James and I are currently finalising a document reviewing all possible 
+changes to business processes that could improve these times. This is in 
+addition to working with Commercial and IT to assess the possibility of 
+delivering significantly faster revaluation systems that could assist in 
+delivering a trade date control process.
+
+I can confirm that there is significant work to do in this area, however, we 
+are dedicated to meeting the objectives of improved/more real time control. 
+Please feel free to call if the above requires any additional commentary.
+
+Regards
+
+Mike
+
+
+
+
+---------------------- Forwarded by Mike Jordan/LON/ECT on 19/12/2000 15:06 
+---------------------------
+
+
+James New
+18/12/2000 09:10
+To: Rick Buy/HOU/ECT@ECT
+cc: John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT, Mike Jordan/LON/ECT@ECT, Ted Murphy/HOU/ECT@ECT, Gary 
+Hickerson/HOU/ECT@ECT 
+
+Subject: UK Submission of Positions
+
+Rick,
+
+Thanks you for your note below. We are today implementing a flash P&L 
+process. We aim to report daily numbers at 7am Houston time and will start 
+today with the P&L. We will build on this and hope to have draft positions 
+and VAR for most books within a week or so. There will be a reconciliation of 
+flash to final numbers which will be included in our return to Houston. 
+ 
+I will put together a note on the London DPR production process which goes 
+into the process we currently have, the process we actually need to have, and 
+the obstacles that are in the way. I would expect this to be finalised 
+tomorrow. Obtaining the USD interest rate curve on a more timely basis is 
+just one of our problems but it is unfortunately by no means our only or most 
+serious problem.
+
+James
+
+
+   
+
+
+From:  Rick Buy                                                             
+15/12/2000 21:59	
+	
+	
+	                           
+	
+
+To: John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT
+cc: Gary Hickerson/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT 
+
+Subject: UK Submission of Positions
+
+Need your help on the following: Each day we are delayed in finalising var, 
+p&L and positions because the UK must wait for a USD  interest rate curves 
+before submitting their data to Houston. I am also told that it is really not 
+necessary to wait for this curve and the data could be submitted close of 
+business London. Even if there was some minor inaccuracy from this method it 
+would be better than what we have now. This would greatly improve the 
+efficiency (by 4 to 6 hours) in reporting to senior management. Can you guys 
+initiate this change or get me to the right person there. Thanks, Rick
+
+
+
+
+
+

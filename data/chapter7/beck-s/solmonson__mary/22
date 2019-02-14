@@ -1,0 +1,91 @@
+Message-ID: <15718259.1075855928552.JavaMail.evans@thyme>
+Date: Tue, 31 Oct 2000 05:32:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Progress on Daily Trading Ledger - note from John Paskin and Mike
+ Jordan
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/31/2000 
+01:29 PM ---------------------------
+
+
+Robert Fenton-Stone
+10/30/2000 08:20 AM
+To: Jane Spiteri/LON/ECT@ECT, Niamh O'Regan/LON/ECT@ECT, Michael 
+Heap/LON/ECT@ECT, Odile Facih/LON/ECT@ECT, Richard J Black/LON/ECT@ECT, David 
+Port/Market Risk/Corp/Enron@ENRON, Neil Tarling/LON/ECT@ECT, Mark 
+Jones/LON/ECT@ECT, Beth Apollo/LON/ECT@ECT, Naomi Connell/LON/ECT@ECT, John S 
+Parker/LON/ECT@ECT, Mark Wright/LON/ECT@ECT, Iain Greig/Corp/Enron@Enron, 
+Robert Campbell/LON/ECT@ECT, Richard Samuel/LON/ECT@ECT, Richard 
+Burchfield/HOU/ECT@ECT, Tom O Moore/NA/Enron@ENRON, David Rae/LON/ECT@ECT, 
+Mary Solmonson/HOU/ECT@ECT, Jonathan Bond/LON/ECT@ECT, Peter 
+Griffiths/LON/ECT@ECT, Maya Beyhum/LON/ECT@ECT, Rashpal Bhatti/LON/ECT@ECT, 
+Richard Cross/LON/ECT@ECT, Brett Lawford/LON/ECT@ECT, Phoebe 
+Bradford/LON/ECT@ECT, Esther Demetz/LON/ECT@ECT, Stephen Wood/LON/ECT@ECT, 
+Mary Thambiah/LON/ECT@ECT, Gillian Thornburrow/LON/ECT@ECT, Sheila 
+Foo/LON/ECT@ECT
+cc:  
+Subject: Progress on Daily Trading Ledger - note from John Paskin and Mike 
+Jordan
+
+FYI  -  update on DTL 
+
+Highlight:
+
+We have decided to pause development work on the DTL application
+
+---------------------- Forwarded by Robert Fenton-Stone/LON/ECT on 30/10/2000 
+14:17 ---------------------------
+
+
+Mike Jordan
+30/10/2000 09:29
+To: ECT European Middle Office, Richard Sage/LON/ECT@ECT, Moira 
+Robertson/LON/ECT@ECT, Tani Nath/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, John 
+Paskin/LON/ECT@ECT, Mark Pickering/LON/ECT@ECT, Beth Perlman/HOU/ECT@ECT, 
+Richard Payne/LON/ECT@ECT, Cindy Horn/HOU/ECT@ECT, Kevin Sweeney/HOU/ECT@ECT, 
+ECT London Strategic Initiatives, Phil Yoxall/LON/ECT@ECT, Ingrid 
+Petri/LON/ECT@ECT, Richard Samuel/LON/ECT@ECT, Nick Dawson/LON/ECT@ECT, Barry 
+Simon/LON/ECT@ECT, Steve Whitaker/LON/ECT@ECT
+cc:  
+
+Subject: Progress on Daily Trading Ledger - note from John Paskin and Mike 
+Jordan
+
+UAT on phase 1 of this application development has identified previously 
+unforeseen technical and functional requirements/issues. Consequently, a 
+comprehensive re-specification and re-planning exercise for DTL has been 
+completed such as to give a much later implementation timetable.
+
+Given the immediate, and absolute, need to implement the more significant of 
+the control and efficiency improvements identified in this project along with 
+the competing demands for existing IT development resource we have decided to 
+:-
+
+pause development work on the DTL application ( specifically )
+apply business analysis resources on the full redesign and documentation of 
+ledger control and reporting processes
+complete the process changes within the Trade Accounting area that have been 
+on-going for the last 6 months
+reassign IT resources to the Enlighten and Envoice projects
+reassess the timetable for the delivery of the residual DTL control and 
+efficiency improvements by re-preforming the business case for the DTL 
+application following the completion of the above identified work
+
+Please feel free to discuss any of the above issues with us
+
+Regards
+
+John & Mike
+
+

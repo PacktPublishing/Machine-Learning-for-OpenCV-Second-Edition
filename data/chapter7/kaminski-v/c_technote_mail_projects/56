@@ -1,0 +1,75 @@
+Message-ID: <29733331.1075856587432.JavaMail.evans@thyme>
+Date: Wed, 21 Mar 2001 00:35:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: alex.huang@enron.com
+Subject: Changes in option valuation in Enpower
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: Alex Huang
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Zimin Lu/HOU/ECT on 03/21/2001 08:33 AM 
+---------------------------
+From: Harry Arora/ENRON@enronXgate on 03/21/2001 07:26 AM
+To: Sanjay Gupta/ENRON@enronXgate, Steve Nat/ENRON@enronXgate
+cc: Zimin Lu/HOU/ECT@ECT 
+Subject: Changes in option valuation in Enpower
+
+Sanjay
+
+Wanted to confirm the changes to the option valuations in the Enpower we 
+discussed yesterday evening.
+
+1. Currently the trader volatility inputs are the daily vol curve and the 
+intra-monthly vol curve. The monthly options get marked directly to the 
+monthly curve (plus the smile) and the monthlies get marked to a time blend 
+of monthly and intra-month vol (plus the skew).
+
+We want to change the valuation (for the Eastern books) so that the dailies 
+get marked to the intramonth curve (which we want to call the daily curve) 
+and the monthly gets marked to the monthly curved. There will be not vol 
+blending done by the Enpower system for the daily and monthly option 
+valuations. We want to make this change very soon (by early next week)
+
+
+2. Currently there exists one smile for every region, which is specified in 
+terms of volatility additive  for specified dollar difference from the 
+underlying. Since different months in a region can trade in a large range 
+($35 - $150) - this cannot result in accurate skew for all terms.  What we 
+need is a system which has skew per month.
+
+We suggest, for the short term, the skew should apply only to the summer 
+daily expiration options. We need to make this change by early next week.
+
+However, we need to start modifing  the system so that for every region we 
+can enter a grid which has a percentage scale and specifies the skew 
+differently for each month.  Research, has implemented this in our pricing 
+model, and we would like this grid to be input into the valuation system.  I 
+am enclosing the pricing model (which we both discussed yesterday) for 
+reference. This model is however, work under construction, so pls call Alex 
+Huang for clarifications.
+
+3. The vol input system is complex and confusing.
+I would very much be interested in moving to a direct database interface, 
+which accomodates the skew inputs per region as in <2>. We should implement a 
+UI which can input the dailies and monthlies at the moneys and the skew grid 
+directly - so that we do not need to go through multiple iterations.
+I am very much interested in what we currently are releasing in Delphi and 
+would love an early implementation for options.
+
+On all these issues, I am speaking for the East desk. I am going to touch 
+base with West guys and see if they are on board with these changes.
+
+
+Thanks
+
+
+
+Harry

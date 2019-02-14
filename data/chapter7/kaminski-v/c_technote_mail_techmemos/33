@@ -1,0 +1,41 @@
+Message-ID: <6569906.1075856594267.JavaMail.evans@thyme>
+Date: Thu, 12 Apr 2001 01:38:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: zhiyong.wei@enron.com
+Subject: correlation matrix reduction
+Cc: stinson.gibner@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, tanya.tamarchenko@enron.com
+X-From: Zimin Lu
+X-To: Zhiyong Wei
+X-cc: Stinson Gibner, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Zhiyang,
+
+Got your message.  
+
+As we discussed, the best way to breakdown the big correlation matrix between 
+different location indices is through "cluster analysis".  The idea is to 
+select major
+hubs and the "satellite" markets.  By establish the correlation between the 
+hubs
+and correlation between the satellites and the hubs, the big matrix can be 
+significantly
+reduced.    Then the traders only need to input the correlations between the 
+hubs.
+
+This technique has been applied in our Value at Risk system.  You may talk to 
+Tanya to find out the details. 
+
+
+Zimin
+
+
+
+
+PS: the wsprd code you requested.

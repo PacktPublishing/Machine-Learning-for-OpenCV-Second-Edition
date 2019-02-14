@@ -1,0 +1,213 @@
+Return-Path: <housebanc@housebanc.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 25633 invoked from network); 23 Jan 2005 06:31:08 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 23 Jan 2005 06:31:08 -0000
+Received: (qmail 20791 invoked from network); 23 Jan 2005 06:31:08 -0000
+Received: from pt03.futurequest.net (pt03.futurequest.net [69.5.6.179])
+  by mx07.futurequest.net ([69.5.6.178])
+  with QMQP via TCP; 23 Jan 2005 06:31:08 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 25605 invoked from network); 23 Jan 2005 06:31:04 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 23 Jan 2005 06:31:04 -0000
+Received: (qmail 19236 invoked from network); 23 Jan 2005 06:31:04 -0000
+Received: from psanchez (81.red-80-39-194.pooles.rima-tde.net [80.39.194.81])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 23 Jan 2005 06:30:56 -0000
+From: "Houseban" <housebanc@housebanc.com>
+To: webmaster@ezmlm.org
+Subject: Descuento de letras y pagarés
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 23 Jan 2005 07:30:55
+Content-Length: 10292
+
+<body>
+<table cellSpacing="0" cellPadding="0" width="717" border="0">
+  <tr>
+        <td align="middle" width="717" height="51">
+        <p align="left"><span style="FONT-FAMILY: MS Sans Serif">
+    <font size="1"><font color="#FF9800">Publicidad:&nbsp; Si no puede ver correctamente el mensaje,
+        </font>
+        <a href="http://www.houseban.com/descuento_de_letras_htm.htm">
+        <font color="#FF9800">pulse este enlace</font></a></font></span><font color="#FF9800" face="Arial" size="2">&nbsp; </font>
+        </td>
+      </tr>
+  <tr>
+        <td align="middle" width="717" height="22">
+        <table style="BORDER-COLLAPSE: collapse" borderColor="#000000" height="1" cellSpacing="0" borderColorDark="#000000" cellPadding="0" width="696" borderColorLight="#000000" border="0">
+          <tr>
+            <td width="696">
+            <table style="BORDER-COLLAPSE: collapse" borderColor="#FF9800" height="1" cellSpacing="0" borderColorDark="#000000" cellPadding="0" width="694" borderColorLight="#000000" border="0">
+              <tr>
+                <td align="middle" width="202" bgColor="#ff9800" height="33">
+                <table cellSpacing="0" cellPadding="3" width="100%">
+                  <tr>
+                    <td style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" noWrap bgColor="#ffffff">
+                    <span style="BACKGROUND-COLOR: #ff9800">
+        <font face="Arial Black" size="6"><b>
+        <a href="http://www.houseban.com/index.htm" style="text-decoration: none"><font color="#ffffff">HOUSE</font><font color="#000000">BAN</font></a></b></font></span></td>
+                  </tr>
+                </table>
+                </td>
+                <td align="middle" width="751" bgColor="#ff9800" height="33">
+                <p align="right">
+                    <font size="-1">
+                    <a href="http://www.houseban.com/directoriointerno/franquicia.htm">
+                    Colaborar con Houseban </a><br>
+                    <font color="#FFFFFF">Gane distribuyendo nuestros <br>
+                    servicios financieros/inmobiliarios </font> </font></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+  <tr>
+    <td width="717">
+    &nbsp;</td>
+  </tr>
+</table>
+<table cellSpacing="0" cellPadding="0" width="716" border="0">
+  <tr>
+    <td vAlign="top" width="716">
+    <table height="1" cellSpacing="0" cellPadding="0" width="97%" border="0">
+      <tr>
+        <td align="middle" width="100%" height="147">
+        <table height="882" cellSpacing="0" cellPadding="0" width="704" border="0">
+          <tr>
+            <td align="middle" width="378" height="17" rowSpan="3">&nbsp;
+            <p><font face="Arial Black" color="#3366cc" size="6">Descuento de 
+            letras, pagarés.</font></p>
+            <p>&nbsp;</td>
+            <td align="middle" width="376" colSpan="2" height="26">
+            <a href="http://www.houseban.com/financiacion_proveedores.htm"><b>
+            <font face="Comic Sans MS" color="#000080" size="2">Empresario, 
+            director financiero</font><font face="Comic Sans MS" color="#ff0000" size="2">, 
+            o</font></b></a><b><font face="Comic Sans MS" color="#000080" size="2"><a href="http://www.houseban.com/financiacion_proveedores.htm"><font color="#ff0000">frezca 
+            financiación a sus proveedores.</font></a></font></b></td>
+          </tr>
+          <tr>
+            <td align="middle" width="376" bgColor="#ff9800" colSpan="2" height="1">
+            &nbsp;</td>
+          </tr>
+          <tr>
+            <td align="middle" width="22" bgColor="#ff9800" height="72">&nbsp;</td>
+            <td align="middle" width="354" height="72">
+            <font face="Arial" color="#ff9800" size="1">Si quieres saber más 
+            sobre este producto financiero</font>
+            <p>
+            <a href="http://www.houseban.com/guia_del_descuento_comercial.htm">
+            <font face="Arial" size="1">Guía del descuento comercial</font></a></td>
+          </tr>
+          <tr>
+            <td align="middle" width="754" colSpan="3" height="755">
+            <p align="right"><font color="#ff9800"><b>
+            <a href="http://www.houseban.com/como_solicitar_el_descuento.htm">
+            <font class="font00" face="Arial" size="5"><font color="#ff9800">
+            ¿Cómo solicitar el descuento comercial?</font></font><font color="#ff9800"><font class="font00" size="7">
+            </font></font></a></b></font></p>
+            <p><font color="#0000ff"><b>
+            <font face="Verdana, Arial, Helvetica, sans-serif" color="#3366cc" size="4">
+            LIQUIDACIÓN INMEDIATA</font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" color="#3366cc" size="4"><b> 
+            DE EFECTOS Y PAGARÉS</b></font></p>
+            <p>&nbsp;</p>
+            <p><font color="#000080"><b><span class="prueba">HOUSEBAN</span></b><span class="prueba"> 
+            les presenta ahora un nuevo servicio de descuento comercial que les 
+            permitirá anticipar el cobro de pagarés y letras de sus clientes, 
+            aportando ventajas muy interesantes sobre el sistema bancario.</span></font></p>
+            <p><font color="#000080"><br>
+            <b class="prueba">&quot;MÁXIMA AGILIDAD CON EL MÍNIMO
+            <span class="prueba">RIESGO</span>&quot;</b></font></p>
+            <p class="prueba" align="left"><font color="#000080">* Si le limitan 
+            las entidades de crédito sus líneas de descuento...<br>
+            * Si necesita firmar pólizas y avalar las cantidades que 
+            descuenta...<br>
+            * Si tiene que realizar largas tramitaciones y presentar información 
+            de su empresa..<br>
+            <br>
+            &nbsp;</font></p>
+            <p class="textportada3"><font color="#000080">Con HOUSEBAN 
+            encontrará un equipo de profesionales con más de 20 años de 
+            experiencia y la garantía de una empresa de gran implantación en 
+            todo el territorio nacional. Póngase ahora en contacto con su 
+            delegación más cercana y atenderemos cualquier consulta o petición 
+            que nos formule, sin ningún compromiso. </font></p>
+            <p align="center">
+            <font face="Arial, Helvetica, sans-serif" size="5">
+            <font color="#000066"><b><font face="Tahoma, Arial" size="2">
+            <span class="title3">SIN PÓLIZAS NI AVALES</span></font><font size="2"><br>
+            </font></b></font><font class="content3" color="#000066" size="1">No 
+            precisa firmar pólizas de ningún tipo,<br>
+            ni avalar las cantidades descontadas.</font></font></p>
+            <p align="center">
+            <font face="Arial, Helvetica, sans-serif" size="5">
+            <font color="#000066"><b><font size="2"><span class="title3">IMPORTE 
+            ILIMITADO</span></font><font size="3"><br>
+            </font></b></font><font class="content3" color="#000066" size="1">
+            Nuestro cliente dispone de una línea de importe ilimitado para el 
+            descuento.</font></font></p>
+            <p align="center">
+            <font face="Arial, Helvetica, sans-serif" size="5">
+            <font color="#000066"><b><font size="2"><span class="title3">SIN 
+            RIESGO BANCARIO</span></font><font size="3"><br>
+            </font></b></font><font class="content3" color="#000066" size="1">
+            Los importes descontados no aumentan el riesgo bancario de la 
+            empresa (CIRBE).</font></font></p>
+            <p align="center">
+            <font face="Arial, Helvetica, sans-serif" size="5">
+            <font color="#000066"><b><font size="2"><span class="title3">
+            DISCRECIÓN</span></font><font size="3"><br>
+            </font></b></font><font class="content3" color="#000066" size="1">No 
+            le requerimos ninguna información<br>
+            económica de su empresa.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="5">
+            <font color="#000066"><b><font class="title3" size="2">INFORMACIÓN 
+            PREVIA</font><font size="3"><br>
+            </font></b></font><font color="#000066" size="1">
+            <span class="content3">Les ofrecemos información previa de las 
+            empresas con las que vaya a contratar</span></font></font></p>
+            <p align="center">
+            <font face="Arial, Helvetica, sans-serif" size="5">
+            <font color="#000066"><b><font size="2"><span class="title3">
+            AGILIDAD</span><br>
+            </font></b></font><font class="content3" color="#000066" size="1">
+            Máxima agilidad en unas condiciones<br>
+            competitivas, siendo inmediato el<br>
+            pago de cada operación y en la<br>
+            fórmula que el cliente determine.</font></font></p>
+            <p><font color="#ff9800"><b>
+            <a href="http://www.houseban.com/como_solicitar_el_descuento.htm">
+            <font class="font00" face="Arial" size="5"><font color="#ff9800">
+            ¿Cómo solicitar el descuento comercial?</font></font><font color="#ff9800"><font class="font00" size="7">
+            </font></font></a></b></font></td>
+          </tr>
+        </table>
+        <p><span class="normaltextbold">&nbsp;</span><b><a href="http://www.housebank.org/contactar.htm"><font class="font00" color="#ff9800" size="7">Contactar</font></a></b><p><font face="Arial"><font color="#000080" size="2">Si desea 
+    enviar esta información a un amigo, </font>
+    <a href="http://www.housebank.org/enviar_a_un_amigo.htm">
+    <font color="#000080" size="2">click aquí</font></a></font></p>
+        <p>
+    <font face="Arial"><font size="2" color="#000080">Si desea no 
+              recibir información de Houseban, envíe un correo a </font>
+    <font size="2">
+              <a href="mailto:excluir@housebanc.com"><font color="#000080">
+              excluir@housebanc.com</font></a></font><font size="2" color="#000080">&nbsp;
+    </font></font></p>
+        <p>&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="middle" width="100%" height="1" bgcolor="#FF9800">
+        &nbsp;</td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+</body>

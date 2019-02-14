@@ -1,0 +1,48 @@
+Return-Path: <jzijnttybsfpdf@boardermail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 27429 invoked by uid 115); 27 Apr 2005 04:15:30 -0000
+Received: from jzijnttybsfpdf@boardermail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.159.61.174):. 
+ Processed in 0.187989 secs); 27 Apr 2005 04:15:30 -0000
+Received: from unknown (HELO 209.5.178.248) (218.159.61.174)
+  by churchill.factcomp.com with SMTP; 27 Apr 2005 04:15:28 -0000
+X-Message-Info: SERQ/bdvse/639/grz/WT+2/99852841659
+Received: from .jzijnttybsfpdf@boardermail.com ([64.170.247.114]) by sji9-mvj42.jzijnttybsfpdf@boardermail.com with Microsoft SMTPSVC(5.0.0418.4423);
+	 Wed, 27 Apr 2005 11:26:23 +0600
+Received: from .jzijnttybsfpdf@boardermail.com ([12.8.55.16]) by .jzijnttybsfpdf@boardermail.com with MailEnable ESMTP; Wed, 27 Apr 2005 11:27:23 +0600
+From: "Toby Harding" <jzijnttybsfpdf@boardermail.com>
+To: "Bait" <bait@em.ca>
+Subject: Application approval #4340
+MIME-Version: 1.0 (produced by  5.5)
+Content-Type: multipart/alternative;
+	boundary="--64368618938834572338"
+X-Qmail-Scanner-Message-ID: <111457533067227352@churchill>
+
+----64368618938834572338
+Content-Type: text/plain;
+	charset="iso-9245-3"
+Content-Transfer-Encoding: quoted-printable
+Content-Description:   
+
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.goodwayz.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Young Nixon
+
+http://www.goodwayz.com/x/st.html
+
+
+
+----64368618938834572338--

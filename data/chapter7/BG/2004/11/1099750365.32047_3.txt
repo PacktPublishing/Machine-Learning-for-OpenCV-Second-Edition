@@ -1,0 +1,54 @@
+Return-Path: <scpjji@yapost.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 30262 invoked from network); 6 Nov 2004 00:30:44 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 06 Nov 2004 00:30:44 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 06 Nov 2004 00:30:44 -0000
+Received: (qmail 28454 invoked from network); 6 Nov 2004 00:30:43 -0000
+Received: from host234-143.tvm.ne.jp (unknown [220.109.234.143])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 06 Nov 2004 00:30:42 -0000
+X-Message-Info: RYM/agp+80+ix/ZA+50/621562242564511
+Received: from smtp-fill.hierarchic.scpjji@yapost.com ([220.109.234.143]) by a534-iof6.scpjji@yapost.com with Microsoft SMTPSVC(5.0.8281.6168);
+	 Fri, 05 Nov 2004 23:18:02 -0100
+Received: from intransigent975.child.scpjji@yapost.com (ethyl123.scpjji@yapost.com [220.109.234.143])
+	by smtp-bryan.kinesic.scpjji@yapost.com (Postfix) with SMTP id 80BNB463RO86M
+	for <rait@bruce-guenter.dyndns.org>; Sat, 06 Nov 2004 03:22:02 +0300
+Received: from smtp-ludwig.pacifist.scpjji@yapost.com ([220.109.234.143]) by np66-sa11.scpjji@yapost.com with Microsoft SMTPSVC(5.0.0257.0341);
+	 Sat, 06 Nov 2004 01:27:02 +0100
+X-Message-Info: AVEUU+%ND_LC_CHAR[1-3]099+gmt+ONB+322/34447707316
+Received: from elysian.scpjji@yapost.com ([144.9.104.224]) by limerick.scpjji@yapost.com with MailEnable ESMTP; Fri, 05 Nov 2004 18:19:02 -0600
+Date: Fri, 05 Nov 2004 22:20:02 -0200
+Message-Id: <5049216840486.45933@scpjji@yapost.com>
+From: Rufus Belanger <scpjji@yapost.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: 
+MIME-Version: 1.0 (produced by lecturethereof 0.6)
+Content-Type: multipart/alternative;
+	boundary="--31768673289461226"
+Content-Length: 640
+Lines: 21
+
+----31768673289461226
+Content-Type: text/html;
+	charset="iso-8800-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: belt smooth cleanse
+
+<HTML><HEAD>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+Your mortgage process is pre-approved, for rates starting at 3.25=
+% Fixed.<br>
+Please use our secure site to fill-out your application.<br>
+Thank you,<br><br>
+
+visit us at: <a href=3D"http://perfectvgr.com/x/loan2.php?id=3Dsf">http://=
+perfectvgr.com/x/loan2.php?id=3Dsf</a><br>
+<p align=3D"center">&nbsp; </p>
+<a href=3D"http://perfectvgr.com/x/st.html">
+R e m o v e&nbsp;&nbsp;H e r e </a></p></BODY></HTML>=20
+
+----31768673289461226--

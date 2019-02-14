@@ -1,0 +1,53 @@
+Return-Path: <betiyn@address.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 9259 invoked by uid 115); 12 May 2005 16:46:45 -0000
+Received: from betiyn@address.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(201.135.38.187):. 
+ Processed in 8.345383 secs); 12 May 2005 16:46:45 -0000
+Received: from dsl-201-135-38-187.prod-infinitum.com.mx (201.135.38.187)
+  by churchill.factcomp.com with SMTP; 12 May 2005 16:46:35 -0000
+X-Message-Info: JXQ+xyazn/6+rgn/Q+51/251387585755892
+Received: from smtp-..betiyn@address.com ([201.135.38.187]) by hl30-w66.betiyn@address.com with Microsoft SMTPSVC(5.0.7060.8012);
+	 Thu, 12 May 2005 21:49:54 +0400
+Received: from 13..betiyn@address.com (20.betiyn@address.com [201.135.38.187])
+	by smtp-..betiyn@address.com (Postfix) with SMTP id 63WH2BZ1NPHA
+	for <bait@em.ca>; Thu, 12 May 2005 12:49:54 -0500
+X-Message-Info: CEQT+%ND_LC_CHAR[1-3]9+ofk+U+0/50683310860932
+Received: (qmail 45932 invoked by uid 120); Thu, 12 May 2005 21:49:54 +0400
+Date: Thu, 12 May 2005 13:49:54 -0400
+Message-Id: <603026599.52012@betiyn@address.com>
+From: Dylan Benitez <betiyn@address.com>
+To: Bait <bait@em.ca>
+Subject: Application approval #0739
+MIME-Version: 1.0 (produced by  1.3)
+Content-Type: multipart/alternative;
+	boundary="--754844013004244"
+
+----754844013004244
+Content-Type: text/plain;
+	charset="iso-1506-3"
+Content-Transfer-Encoding: quoted-printable
+Content-Description:   
+
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.lowrateznow.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Young Nixon
+
+http://www.lowrateznow.com/x/st.html
+
+
+
+----754844013004244--

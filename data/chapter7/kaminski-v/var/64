@@ -1,0 +1,73 @@
+Message-ID: <31894162.1075856642151.JavaMail.evans@thyme>
+Date: Thu, 5 Oct 2000 07:48:00 -0700 (PDT)
+From: naveen.andrews@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: implementing term-structure of correlations for power
+Cc: kirstee.hewitt@enron.com, debbie.brackett@enron.com, wenyao.jia@enron.com, 
+	vince.kaminski@enron.com, vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kirstee.hewitt@enron.com, debbie.brackett@enron.com, wenyao.jia@enron.com, 
+	vince.kaminski@enron.com, vladimir.gorny@enron.com
+X-From: Naveen Andrews
+X-To: Tanya Tamarchenko
+X-cc: Kirstee Hewitt, Debbie R Brackett, Wenyao Jia, Vince J Kaminski, Vladimir Gorny
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+        While there is seasonal correlations in power, especially for Np-15 
+and SP-15 (same region), the term structure of correlations can be input.  
+However, the same correlation structure with similar periodicity may not hold 
+between Np-15 and, say, R1B (Neepool), though one would imagine that  
+relationship would still be seasonal (summer/winter), with greater noise.  
+Even if the correlational term structure is to be done for Power, different 
+rules would have to be inputted for different regions.
+Naveen
+
+
+
+
+Tanya Tamarchenko@ECT
+10/05/2000 10:42 AM
+To: Vladimir Gorny/HOU/ECT@ECT, Naveen Andrews/Corp/Enron@ENRON
+cc: Kirstee Hewitt/LON/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT, Wenyao 
+Jia/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT 
+
+Subject: Re: implementing term-structure of correlations for power  
+
+Vlady & Naveen,
+I am sending you the factor loadings for power calculated based on the prices 
+from 25-jun-00 to 25-sep-00. They look rather messy. 
+
+
+Thus joint estimation of factors for a few regions does not look realistic.
+
+Instead we might implement the term structure of correlations. 
+Instead of heaving 1 correlation matrix based on prompt month prices and 
+applying this matrix to all maturities,
+we can have a number correlation matrices each corresponding to a particular 
+prompt month.
+I attached the term structure of correlations between R10 and R11 calculated 
+using 5, 4, 3, 2, 1 months
+of historical forward prices prior to 30-sep-00 with and without decay factor.
+
+You can see that:
+1)  the results are close for 5, 4, and 3 months of history;
+2) correlations are periodic with a period of 1 year (this means we can use 
+12 correlation matrices calculated from 
+first 12 forward contracts and apply these matrices to other forward months);
+3) Using decay factor makes the curves a little smoother.
+
+Implementation of multiple correlation matrices will not affect the speed of 
+calculations in VAR model significantly.
+
+Please, give me your response,
+
+Thanks,
+
+Tanya. 
+ 
+

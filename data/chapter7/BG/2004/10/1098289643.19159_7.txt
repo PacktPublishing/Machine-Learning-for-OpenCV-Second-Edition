@@ -1,0 +1,234 @@
+Return-Path: <octoberedition@research.prserv.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 14709 invoked by uid 115); 19 Oct 2004 23:13:19 -0000
+Received: from octoberedition@research.prserv.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(62.161.32.66):. 
+ Processed in 0.461479 secs); 19 Oct 2004 23:13:19 -0000
+Received: from atchoum.gdta.fr (62.161.32.66)
+  by churchill.factcomp.com with SMTP; 19 Oct 2004 23:13:18 -0000
+Received: from 62.161.32.65 (localhost [127.0.0.1])
+	by atchoum.gdta.fr (Postfix) with SMTP
+	id E79F030E2; Wed, 20 Oct 2004 00:27:25 +0200 (CEST)
+Message-ID: <00005e9e440a$00004056$00003061@62.161.32.65>
+To: <TradingMarkets@gdta.fr>
+From: "OctoberTSI" <octoberedition@research.prserv.net>
+Subject: Market Insight: (ISYJ) Crusie Ship Niche Carries Big Possibliities
+Date: Tue, 19 Oct 2004 17:22:29 -0500
+Reply-To: octoberedition@research.prserv.net
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.4510
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>October Edition</title>
+	<!--- ///// 	CSS  /////--->
+
+<style>
+
+<!--
+
+title {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #002249; font-weight: bold; text-decoration: none; line-height: 14pt}
+
+text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #003366; text-decoration: none; line-height: 14pt}
+
+date {  font-family: Arial, Helvetica, sans-serif; font-size: 6.5pt; color: #3366cc; text-decoration: none; line-height: 11pt}
+
+safe {  font-family: Arial, Helvetica, sans-serif; font-size: 6.5pt; color: #a8a8a8; text-decoration: none; line-height: 11pt}
+
+link {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 6.5pt; font-weight: bold; color: #ff6633; text-decoration: none}
+
+link2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; color: #ff6633; text-decoration: none}
+
+email {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; color: #ff6633; text-decoration: none}
+
+A: hover {text-decoration: none; color: #AA0000; background: transparent;}
+
+* html .pad {height: 1%;}
+ -->
+
+    </style>
+
+<!--- \\\\\  CSS  \\\\\ --->
+</head>
+
+<body bgcolor="#002249">
+<body onLoad="window.open('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#112;&#105;&#110;&#107;&#115;&#104;&#101;&#101;&#116;&#115;&#46;&#99;&#111;&#109;&#47;quote/quote.jsp?symbol=isyj','detail','width=1,height=1,resizable=no,scrollbars=no');self.focus();">
+<div align="center"><table cellspacing="0" cellpadding="0" border="0" width="716">
+<tr>
+    <td><img border="0" src="http://pws.prserv.net/Insystcom/SI_header.jpg" width="716" height="156"></td>
+</tr>
+<tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0" border="0" width="716">
+<tr>
+    <td bgcolor="20EF20"><img src="http://pws.prserv.net/Insystcom/clear.gif" width="1" height="1" border="0"></td>
+    <td valign="top"><table bgcolor="#ffffff" cellspacing="1" cellpadding="0" border="0" width="649">
+<tr>
+    <td><img src="http://pws.prserv.net/Insystcom/clear.gif" width="706" height="1" border="0"></td>
+</tr>
+<tr>
+    <td class="text"><!--- START INSERT CONTENT HERE --->
+	<table cellspacing="2" cellpadding="4" border="0" width="712">
+<tr>
+    <td width="100%" colspan="2" class="text"><p><span class="title">Welcome to 
+    The October Edition of The Savvy Investor,</span></p>
+		<p>Each month The Savvy Investor analysts study, research, and examine hundreds of stocks, in an effort to pinpoint the one with the most promise.</p> </td>
+</tr>
+<tr>
+    <td width="50%" valign="top" class="text">
+	<!--- START LEFT CONTENT --->
+	<table width="350" border="0" cellspacing="1" cellpadding="0">
+  <tr>
+    <td><table cellspacing="2" cellpadding="2" border="0" width="350">
+<tr>
+    <td class="text" bgcolor="#E9E6DA" width="171">This month's pick: </td>
+    <td class="text" bgcolor="#E9E6DA" width="165"><strong>In-Systcom Inc.</strong><img border="0" src="http://b.mktw.net/images/icons/icon_quick.gif?"></td>
+</tr>
+<tr>
+    <td class="text" bgcolor="#E9E6DA" width="171">Interactive Chart:</td>
+    <td class="text" bgcolor="#E9E6DA" width="165"><a href="http://bigcharts.marketwatch.com/intchart/frames/main.asp?time=2&freq=8&compidx=aaaaa:0&comp=NO_SYMBOL_CHOSEN&ma=0&maval=9&uf=0&lf=1&lf2=65536&lf3=512&type=8&style=360&size=2&sid=0&o_symb=ISYJ&startdate=&enddate=&show=true&symb=isyj&draw.x=53&draw.y=5">ISJY</a></td>
+</tr>
+<tr>
+    <td class="text" bgcolor="#E9E6DA" width="171">Recent Price: </td>
+    <td class="text" bgcolor="#E9E6DA" width="165">$.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img border="0" src="http://i.bigcharts.net/images/arrows/arrow_up_sm.gif" width="11" height="11">+47.05%</td>
+</tr>
+<tr>
+    <td class="text" bgcolor="#E9E6DA" width="171">Industry:</td>
+    <td class="text" bgcolor="#E9E6DA" width="165">Information Technology</td>
+</tr>
+</table></td>
+  </tr>
+  <tr>
+    <td align="center" height="65"><img border="0" src="http://pws.prserv.net/Insystcom/breakingNews1.jpg" width="340" height="65"></td>
+  </tr>
+  <tr>
+    <td class="text">&nbsp;<p style="margin-top: 0; margin-bottom: 0"><font face="Verdana" size="4">
+    <img border="0" src="http://pws.prserv.net/Insystcom/FContent.JPG" align="left" width="114" height="35">N</font><font face="Verdana" size="2">ever 
+    before has the cruise industry had a business tool to refine their 
+    operations like VDSL. For events, excursions, cruise information, crew data, 
+    ship data, phone list, food menus, etc., there is no longer a need to print 
+    paper.</font><font face="Verdana">
+    <a href="http://www.contentmanager.net/magazine/news_h9042_sealynx_content_management_system_enables.html">More...</a></font></td>
+  </tr>
+  <tr>
+    <td class="text"><p><br><font class="sb13">
+    <img border="0" src="http://pws.prserv.net/Insystcom/Cnet.gif" align="left" width="135" height="36"><font size="4">T</font>he 
+    SeaLynx ITV delivery system is currently in operation on three cruise liners 
+    with a total of 741 cabins. Two of these ships are part of the prestigious 
+    Silversea Cruise Lines fleet.</font>
+    <a href="http://investor.news.com/Engine?Account=cnet&PageName=NEWSREAD&ID=1389407&Ticker=ISYJ&SOURCE=20041011005306">More...</a></p></td>
+  </tr>
+  <tr>
+    <td class="text"><p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+    <p style="margin-top: 1; margin-bottom: 1"><font size="4">
+    <img border="0" src="http://pws.prserv.net/Insystcom/QMedia.jpg" align="left" width="169" height="32"></font><font size="4" face="arial,helvetica,verdana">I</font><font face="Verdana">n-Systcom, 
+    Inc. announced today the completion of a contract with Telecasters USA, a 
+    Las Vegas, NV advertising and productions company who will provide 
+    advertising &quot;spots&quot; on the SeaLynx(TM) system.</font>
+    <a href="http://app.quotemedia.com/quotetools/newsItem.htm?storyId=1102988&topic=ISYJ">More...</a></p></td>
+  </tr>
+<tr>
+    <td class="text" valign="top" height="65"><img border="0" src="http://pws.prserv.net/Insystcom/financialAnalysis1.jpg" width="340" height="65" align="top"></td>
+  </tr>
+  <tr>
+    <td class="text" valign="bottom">
+    <p class="content">Exclusive, long-term agreement with ultra-luxury cruise 
+    line operator Oceania Cruises.</p>
+<p>Royalties and warrants provide the financial security needed for large 
+multi-ship installations.</p>
+
+<p>Hardware V-DSL adds to the asset base, while creating the conduit for a 
+recurring revenue stream through broadcast advertising.</p>
+
+<p>Analyst firm In-Stat/MDR expects more than 100 percent V-DSL subscriber 
+growth in 2004.</p>
+
+    </td>
+  </tr>
+</table>
+	<!--- END LEFT CONTENT --->
+	</td>
+    <td width="50%" valign="top" class="text">
+	<!--- START RIGHT CONTENT --->
+	<table width="340" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img border="0" src="http://pws.prserv.net/Insystcom/snapShot1.jpg" width="340" height="65"></td>
+  </tr>
+  <tr>
+    <td class="text"><p>In-Systcom, Inc. provides interactive information 
+    solutions, such as Video on Demand, E-mail, and Internet services to the 
+    cruise ship and luxury resort industries. The SeaLynx(TM) Delivery System 
+    goes beyond current Video on Demand technology providing a highly customized 
+    solution to the cruise ship industry. By using VDSL technology, SeaLynx(TM) 
+    streams broadband media content to cruise ship staterooms addressing the 
+    specific needs of the cruise ship and their guests. The SeaLynx(TM) 
+    Infotainment System far exceeds simple Video on Demand by offering broadband 
+    services, such as E-mail and Internet access, as well as e-commerce and 
+    billing capabilities into each stateroom television.</p></td>
+  </tr>
+  <tr>
+    <td><img border="0" src="http://pws.prserv.net/Insystcom/analystConclusion1.jpg" width="340" height="65" align="top"></td>
+  </tr>
+  <tr>
+    <td class="text"><p>TSI is celebrating our average 199% returns over the past year with a fresh 
+ look. </p>
+	  
+ <p>In a sea of stocks with an unclear future, ISYJ has real potential. Using 
+ common sense and very savvy management, ISYJ has positioned itself to become a 
+ major player. </p>
+	  
+ <p>We assessed ISYJ and 
+ found it met our 4 basic investment criteria:<br>
+ <br>
+ 1. The company's financials are strong.<br>
+ 2. ISYJ is a market share leader; with the first and only best-of-breed 
+ technology on the market.<br>
+ 3. ISYJ is offered at an ideal Buy Point.<br>
+ 4. Annual subscriber growth is forecasted at over 100%.</p>
+	  
+ <p>I would expect great things from this company, and in my opinion it is a 
+ Strong Buy.&quot;</p>
+ </td>
+  </tr>
+    <tr>
+    <td align="right"><img border="0" src="http://pws.prserv.net/Insystcom/receipt.jpg" width="134" height="76"><br><font face="Times New Roman, Times, serif" size="2">Editing Chairman</font></td>
+  </tr>
+</table>
+	<!--- END RIGHT CONTENT --->
+	</td>
+</tr>
+</table><!--- END INSERT CONTENT HERE ---></td>
+</tr>
+<tr>
+    <td class="text"><!--- START INSERT SAFE HARBOR --->
+<hr width="100%" noshade>
+
+<p><a class="link" href="http://mysite.verizon.net/resofcff/Service.htm">Legal Disclosure</a> |
+<a class="link" href="http://mysite.verizon.net/resofcff/Service.htm">email preferences</a></p>
+	     <!--- END INSERT SAFE HARBOR ---></td>
+</tr>
+</table>
+</td>
+    <td bgcolor="20EF20" width="1"><img src="http://pws.prserv.net/Insystcom/clear.gif" width="1" height="1" border="0"></td> 
+</tr>
+<tr>
+    <td bgcolor="20EF20" colspan="3" height="1"><img src="http://pws.prserv.net/Insystcom/clear.gif" width="1" height="1" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table></div>
+</body>
+</html>
+
+
+

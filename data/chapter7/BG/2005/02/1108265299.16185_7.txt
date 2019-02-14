@@ -1,0 +1,104 @@
+Return-Path: <donprattoazt@icisp.net.au>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28554 invoked by uid 115); 12 Feb 2005 08:56:58 -0000
+Received: from donprattoazt@icisp.net.au by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.165.38.122):. 
+ Processed in 0.156434 secs); 12 Feb 2005 08:56:58 -0000
+Received: from 200165038122.user.veloxzone.com.br (200.165.38.122)
+  by churchill.factcomp.com with SMTP; 12 Feb 2005 08:56:56 -0000
+Received: from venus.veridas.net
+	by 200165038122.user.veloxzone.com.br (8.9.3/8.9.3) with SMTP id gy2hr0X7wU9k
+	for <bruceg@em.ca>; Sat, 12 Feb 2005 05:05:38 -0500
+Received: from 42.236.3.54
+	by venus.veridas.net via HTTP
+	for <bruceg@em.ca>; Sat, 12 Feb 2005 05:05:38 -0500
+From: "Lourdes Mcfarland" <donprattoazt@icisp.net.au>
+Reply-To: "Lourdes Mcfarland" <donprattoazt@icisp.net.au>
+Message-ID: <5794779035.5035023565@icisp.net.au>
+Date: Sat, 12 Feb 2005 05:05:38 -0500
+To: <bruceg@em.ca>
+Subject: Luxury at an affordable price !outstretching
+MIME-Version: 1.0
+Content-Type: Multipart/related;
+  type="multipart/alternative";
+  boundary="------------9EF73F82.6AFDE923"
+Content-Length: 3723
+
+--------------9EF73F82.6AFDE923
+Content-Type: Multipart/Alternative;
+  boundary="------------BB5EA1BA.62887350"
+
+--------------BB5EA1BA.62887350
+Content-Type: Text/Plain;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+somalo=20
+http://www.geocities.com/merle_robles_62/
+--------------BB5EA1BA.62887350
+Content-Type: Text/HTML;
+  charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-88=
+59-1">
+</head>
+<body>
+<font color=3D"#000000">magadize</font><br>
+<img src=3D"cid:D085E059=2EB199EDEC"><br>
+<a href=3D"http://www=2Egeocities=2Ecom/merle_robles_62/">http://www=2Eg=
+eocities=2Ecom/merle_robles_62/</a>
+</body>
+</html>
+
+--------------BB5EA1BA.62887350--
+
+--------------9EF73F82.6AFDE923
+Content-Type: image/png;
+  name="outeats.png"
+Content-Transfer-Encoding: base64
+Content-ID: <D085E059.B199EDEC>
+
+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
+
+--------------9EF73F82.6AFDE923--

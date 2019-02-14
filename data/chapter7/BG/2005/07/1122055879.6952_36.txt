@@ -1,0 +1,321 @@
+Return-Path: <instituto_paulista@yahoo.com.br>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 6836 invoked by uid 115); 19 Jul 2005 22:37:26 -0000
+Received: from instituto_paulista@yahoo.com.br by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(201.6.241.210):. 
+ Processed in 0.240725 secs); 19 Jul 2005 22:37:26 -0000
+Received: from c906f1d2.virtua.com.br (HELO 192.168.0.209) (201.6.241.210)
+  by churchill.factcomp.com with SMTP; 19 Jul 2005 22:37:25 -0000
+From: "Instituto Paulista de Gestão Estratégica" <instituto_paulista@yahoo.com.br>
+To: <bruceg@em.ca>
+Subject:
+Sender: "Instituto Paulista de Gestão Estratégica" <instituto_paulista@yahoo.com.br>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 0719051938"
+Date: Tue, 19 Jul 2005 19:38:38 -0300
+Reply-To: "Instituto Paulista de Gestão Estratégica" <instituto_paulista@yahoo.com.br>
+X-Qmail-Scanner-Message-ID: <11218126466726827@churchill>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 0719051938
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Preço e Custo para Decisão Comercial
+Sexta-feira 29 / 07 / 2005
+ouSegunda-feira 05/ 09 / 2005
+
+Horário: 8:45 às 17:15
+Objetivo: Abordar a metodologia de construção do melhor preço para seu produto ou serviço.
+
+Público-alvo: Gerentes e Analistas de Vendas, Custos e Produtos.
+Programa: 1 - Ponto de Equilíbrio
+• Conceito de Escala Operacional
+• Conceito de Volume e Preço
+• Conceito de Ponto de Equilíbrio
+2 - Custo de Produtos e Serviços
+• Linguagem Contábil - Custo x Despesa
+• Formação de Custo (Produtos)
+• Formação de Custo (Serviços)
+3 - Conceito de Margem e Mark-up
+• Conceito de Margem (percentual e nominal)
+• Cálculo de Margem x Mark-up (percentual e nominal)
+• Aplicações Comerciais (ICMS, Descontos, etc.)
+4 - Cálculo de Preços
+• Formação de Preço (contábil e gerencial)
+• Rateio de Custos no Preço
+• Administração de Preços
+5 - Lucratividade de Produtos e Serviços
+• Conceito de Lucro x Margem 
+• Lucro x Estoques x Prazos
+• Mix Comercial X Lucratividade
++ Casos e exercícios
+Importante: Trazer calculadora para este curso.
+
+Investimento:
+• Individual R$ 480 
+• Segundo participante + R$ 432
+• Terceiro participante em diante + R$ 384
+O preço inclui: 
+• CD com todo o material apresentado durante o curso, 
+para uso individual posterior.
+• Kit de exercícios: pasta, papel, lápis e caneta (exceto calculadora).
+• Certificado de participação via e-mail.
++ Livro (impresso): 
+Gestão Estratégica nas Pequenas e Médias Empresas GESTÃO ESTRATÉGICA
+nas pequenas e médias empresas
+
+Adquira sua cópia ainda hoje. 
+
+O valor do livro poderá ser descontado do preço destes cursos.
+
+
+
+Formas de Pagamento: Boleto Bancário ou Depósito em conta corrente do IPGE.
+Local: Alameda Santos,1909 - 11º andar, São Paulo (link para o mapa).
+
+
+Reservas on-line em www.ipge.com.br
+ou ligue 11 5505-1968
+
+Conheça a lista de Empresas que já realizaram nossos cursos. 
+
+
+
+Link para sair deste informativo (REMOVER).
+
+--= Multipart Boundary 0719051938
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2668" name=GENERATOR>
+<STYLE>a:link {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.laranja {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF6600;
+}
+.laranjabold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF6600;
+	font-weight: bold;
+}
+.azulbold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000099;
+	font-weight: bold;
+}
+.azul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000099;
+}
+.Tazul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000099;
+	font-weight: bold;
+}
+</STYLE>
+
+<STYLE type=text/css>
+<!--
+.Tlaranja {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FF6600;
+	font-weight: bold;
+}
+-->
+</STYLE>
+</HEAD>
+<BODY leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+<TABLE borderColor=#eaf0ff cellSpacing=0 cellPadding=0 width=780 align=center 
+bgColor=#ffffff border=4>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=10 cellPadding=0 width="100%" bgColor=#eaf0ff 
+        border=0><TBODY>
+        <TR>
+          <TD colSpan=3>
+            <DIV align=center></DIV>
+            <DIV align=center>
+            <P><A class=Tazul 
+            href="http://www.ipge.com.br/cursos.htm"><STRONG><FONT size=6>Preço 
+            e Custo para Decisão Comercial</FONT></STRONG></A></P></DIV></TD></TR>
+        <TR>
+          <TD width="48%">
+            <DIV align=center><A class=Tazul 
+            href="http://www.ipge.com.br/c49.htm"><FONT size=4><SPAN 
+            class=azul><FONT size=5>Sexta-feira </FONT></SPAN><SPAN 
+            class=Tlaranja><FONT size=5>29 </FONT>/ 07 / 2005</SPAN><SPAN 
+            class=azul><BR></SPAN></FONT></A><A 
+            href="http://www.ipge.com.br/inscri.asp?curso=49"><IMG height=22 
+            src="http://www.ipge.com.br/imagens/inscricao.gif" width=249 
+            border=0></A></DIV></TD>
+          <TD class=azulbold width="4%">
+            <DIV align=center>ou</DIV></TD>
+          <TD width="48%">
+            <DIV align=center><A class=Tazul 
+            href="http://www.ipge.com.br/c40.htm"><FONT size=4><SPAN 
+            class=azul><FONT size=5>Segunda-feira</FONT></SPAN></FONT><FONT 
+            size=4><SPAN class=Tlaranja><FONT size=5> 05</FONT>/ 09 / 
+            2005</SPAN><SPAN class=azul><BR></SPAN></FONT></A><A 
+            href="http://www.webmanager.com.br/ipge/cursopresencial.asp?curso=40"><IMG 
+            height=22 src="http://www.ipge.com.br/imagens/inscricao.gif" 
+            width=249 border=0></A></DIV></TD></TR>
+        <TR>
+          <TD colSpan=3>
+            <DIV align=center><SPAN 
+            class=azul><STRONG>Horário:</STRONG></SPAN><FONT 
+            color=#000080>&nbsp;</FONT><FONT face=Arial color=#ff6600>8:45 às 
+            17:15</FONT></DIV></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=10 cellPadding=0 width="100%" align=center 
+      bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top>
+            <DIV align=justify></DIV>
+            <DIV align=justify><SPAN class=laranjabold>Objetivo: </SPAN><SPAN 
+            class=azul>Abordar a metodologia de construção do melhor preço para 
+            seu produto ou serviço.<BR></SPAN></DIV>
+            <DIV align=justify><SPAN class=laranjabold>Público-alvo:</SPAN> 
+            <SPAN class=azul>Gerentes e Analistas de Vendas, Custos e 
+            Produtos.</SPAN></DIV></TD></TR>
+        <TR>
+          <TD>
+            <DIV align=center></DIV><SPAN class=laranjabold>Programa: </SPAN>
+            <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD class=azul vAlign=top width="24%">
+                  <P><STRONG>1 - Ponto de Equilíbrio</STRONG><BR>• Conceito de 
+                  Escala Operacional<BR>• Conceito de Volume e Preço<BR>• 
+                  Conceito de Ponto de Equilíbrio<BR><STRONG>2 - Custo de 
+                  Produtos e Serviços</STRONG><BR>• Linguagem Contábil - Custo x 
+                  Despesa<BR>• Formação de Custo (Produtos)<BR>• Formação de 
+                  Custo (Serviços)<BR><STRONG>3 - Conceito de Margem e 
+                  Mark-up</STRONG><BR>• Conceito de Margem (percentual e 
+                  nominal)<BR>• Cálculo de Margem x Mark-up (percentual e 
+                  nominal)<BR>• Aplicações Comerciais (ICMS, Descontos, 
+                  etc.)<BR></P></TD>
+                <TD class=azul vAlign=top width="25%"><STRONG>4 - Cálculo de 
+                  Preços</STRONG><BR>• Formação de Preço (contábil e 
+                  gerencial)<BR>• Rateio de Custos no Preço<BR>• Administração 
+                  de Preços<BR><STRONG>5 - Lucratividade de Produtos e 
+                  Serviços</STRONG><BR>• Conceito de Lucro x Margem <BR>• Lucro 
+                  x Estoques x Prazos<BR>• Mix Comercial X 
+                  Lucratividade<BR><STRONG>+ Casos e exercícios</STRONG></TD></TR>
+              <TR>
+                <TD class=azul vAlign=top colSpan=2>
+                  <DIV align=center><SPAN class=azulbold>Importante: Trazer 
+                  calculadora para este 
+          curso.</SPAN></DIV></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top width="54%">
+                  <P><SPAN class=laranjabold>Investimento:</SPAN><SPAN 
+                  class=azulbold><BR></SPAN><SPAN class=azul><STRONG>•</STRONG> 
+                  Individual R$ 480 <BR><STRONG>•</STRONG> Segundo participante 
+                  + R$ 432<BR><STRONG>•</STRONG> Terceiro participante em diante 
+                  + R$ 384</SPAN></P>
+                  <P><SPAN class=laranjabold>O preço inclui: </SPAN><SPAN 
+                  class=azul><BR><STRONG>•</STRONG> CD com todo o material 
+                  apresentado durante o curso, <BR>para uso individual 
+                  posterior.<BR><STRONG>•</STRONG> Kit de exercícios: pasta, 
+                  papel, lápis e caneta (exceto 
+                  calculadora).<BR><STRONG>•</STRONG> Certificado de 
+                  participação via e-mail.<BR><STRONG>+ Livro 
+                  </STRONG>(impresso): <A 
+                  href="http://www.ipge.com.br/ebook.htm"><BR>Gestão Estratégica 
+                  nas Pequenas e Médias Empresas</A></SPAN></P></TD>
+                <TD vAlign=top width="46%"><A 
+                  href="http://www.ipge.com.br/ebook.htm"></A>
+                  <DIV align=center>
+                  <TABLE borderColor=#ff9900 cellSpacing=0 cellPadding=0 
+                  width="100%" border=1>
+                    <TBODY>
+                    <TR>
+                      <TD><A href="http://www.ipge.com.br/ebook.htm"></A>
+                        <TABLE borderColor=#ff6600 cellSpacing=0 cellPadding=5 
+                        width="100%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD width=120><A 
+                              href="http://www.ipge.com.br/ebook.htm"><IMG 
+                              height=171 
+                              alt="Clique aqui para fazer sua reserva!" 
+                              src="http://www.ipge.com.br/imagens/livro.jpg" 
+                              width=120 border=0></A> </TD>
+                            <TD>
+                              <DIV align=center>
+                              <P><A class=Tazul 
+                              href="http://www.ipge.com.br/ebook.htm">GESTÃO 
+                              ESTRATÉGICA<BR>nas pequenas e médias 
+                              empresas</A><BR><BR><A class=laranja 
+                              href="http://www.ipge.com.br/ebook.htm">Adquira 
+                              sua cópia ainda hoje. </A><A class=azul 
+                              href="http://www.ipge.com.br/ebook.htm"><BR><BR>O 
+                              valor do livro poderá ser descontado do preço 
+                              destes 
+                    cursos.</A></P></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></TD></TR>
+              <TR>
+                <TD colSpan=2>
+                  <P><SPAN class=laranjabold><SPAN class=laranjabold><BR>Formas 
+                  de Pagamento: </SPAN></SPAN><SPAN class=azul>Boleto Bancário 
+                  ou Depósito em conta corrente do IPGE.</SPAN></P>
+                  <P><SPAN class=laranjabold>Local: </SPAN><SPAN 
+                  class=azul>Alameda Santos,1909 - 11º andar, São Paulo (<A 
+                  href="http://www.ipge.com.br/sem/mapa.asp">link para o 
+                  mapa</A>).</SPAN></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=8 cellPadding=0 width="100%" align=center 
+      bgColor=#eaf0ff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width="100%">
+            <TABLE width=750 align=center border=0>
+              <TBODY>
+              <TR>
+                <TD width="19%"><A 
+                  href="http://www.ipge.com.br/index.htm"><IMG height=55 
+                  alt=www.IPGE.com.br 
+                  src="http://www.ipge.com.br/imagens/logoipge2.gif" width=137 
+                  border=0><BR></A></TD>
+                <TD width="38%">
+                  <DIV align=center><SPAN class=azul>Reservas on-line em 
+                  </SPAN><SPAN class=azulbold><A class=Tlaranja 
+                  href="http://www.ipge.com.br">www.ipge.com.br</A><BR></SPAN><SPAN 
+                  class=azul>ou ligue </SPAN><SPAN class=Tlaranja>11 
+                  5505-1968</SPAN></DIV></TD>
+                <TD width="43%">
+                  <DIV align=right><IMG height=56 
+                  src="http://www.ipge.com.br/imagens/apoiowazul.gif" 
+                  width=287></DIV></TD></TR></TBODY></TABLE>
+            <DIV align=center><A class=azul 
+            href="http://www.ipge.com.br/empresas.htm">Conheça a lista de 
+            Empresas que já realizaram nossos cursos.</A> 
+      </DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<DIV align=center><SPAN class=azul><BR><A 
+href="http://www.ipge.com.br/news.asp?email=bruceg@em.ca">Link para sair deste 
+informativo (REMOVER).</A></SPAN> </DIV></BODY></HTML>
+
+--= Multipart Boundary 0719051938--
+

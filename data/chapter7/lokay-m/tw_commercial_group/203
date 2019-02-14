@@ -1,0 +1,461 @@
+Message-ID: <15920650.1075844102246.JavaMail.evans@thyme>
+Date: Thu, 28 Sep 2000 08:39:00 -0700 (PDT)
+From: ronald.matthews@enron.com
+To: mansoor.abdmoulaie@enron.com, mark.adelmann@enron.com, 
+	stephen.allen@enron.com, ken.anderson@enron.com, 
+	carol.armstrong@enron.com, doug.aschwege@enron.com, 
+	david.badura@enron.com, arnie.bailey@enron.com, 
+	kip.baumert@enron.com, randy.belyeu@enron.com, judy.beck@enron.com, 
+	mike.bonnstetter@enron.com, ricky.brown@enron.com, 
+	guy.bruner@enron.com, bob.burleson@enron.com, rick.cates@enron.com, 
+	earl.chanley@enron.com, gary.choquette@enron.com, 
+	kenneth.chow@enron.com, david.clements@enron.com, 
+	carolyn.descoteaux@enron.com, rick.craig@enron.com, 
+	lindy.donoho@enron.com, david.dupre@enron.com, 
+	john.dushinske@enron.com, ken.earl@enron.com, 
+	eric.faucheaux@enron.com, jeffery.fawcett@enron.com, 
+	perry.frazier@enron.com, terry.galassini@enron.com, 
+	melinda.gallishaw@enron.com, tom.gilbert@enron.com, 
+	charlie.graham@enron.com, jerry.graves@enron.com, 
+	jack.guinn@enron.com, cecil.gutierrez@enron.com, 
+	tom.halpin@enron.com, steven.harris@enron.com, 
+	dahlia.hernandez@enron.com, d.herron@enron.com, 
+	kevin.hyatt@enron.com, steven.january@enron.com, 
+	david.johnson@enron.com, robert.johnson@enron.com, 
+	rich.jolly@enron.com, vera.jones@enron.com, john.keller@enron.com, 
+	william.kendrick@enron.com, david.kolarik@enron.com, 
+	kim.kouri@enron.com, judy.kudym@enron.com, laura.kunkel@enron.com, 
+	t.k..lohman@enron.com, michelle.lokay@enron.com, 
+	lorraine.lindberg@enron.com, gary.maestas@enron.com, 
+	ronald.matthews@enron.com, mike.mccracken@enron.com, 
+	johnny.mcgee@enron.com, tom.mertz@enron.com, james.moore@enron.com, 
+	michel.nelson@enron.com, dave.odneal@enron.com, 
+	frank.osburn@enron.com, frank.oldenhuis@enron.com, 
+	tom.parker@enron.com, loren.penkava@enron.com, 
+	keith.petersen@enron.com, dan.pribble@enron.com, 
+	patty.prigmore@enron.com, gale.ramsaran@enron.com, 
+	bryan.reinecke@enron.com, darrell.schoolcraft@enron.com, 
+	susan.scott@enron.com, david.sinclair@enron.com, ray.smith@enron.com, 
+	rick.smith@enron.com, gary.spraggins@enron.com, 
+	ld.stephens@enron.com, bob.stevens@enron.com, 
+	christine.stokes@enron.com, rockey.storie@enron.com, 
+	reggie.stotts@enron.com, john.sturn@enron.com, 
+	john.sylvester@enron.com, steve.thomas@enron.com, 
+	deaun.trayer@enron.com, jim.tucker@enron.com, 
+	linda.wehring@enron.com, roger.westfall@enron.com, 
+	jo.williams@enron.com, rod.williams@enron.com, 
+	michele.winckowski@enron.com
+Subject: Weekly Report - Sept. 25-29, 2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Ronald Matthews
+X-To: Mansoor Abdmoulaie, Mark Adelmann, Stephen Allen, Ken Anderson, Carol Armstrong, Ben Asante@ENRON, Doug Aschwege, David Badura, Arnie Bailey, Bob Bandel@Enron, Kip Baumert, Randy Belyeu, Judy Beck, Mike Bonnstetter, Ricky Brown, Guy Bruner, Bob Burleson, Rick Cates, Earl Chanley, Gary Choquette, Kenneth Chow, David Clements, Carolyn DesCoteaux, Rick Craig, Lindy Donoho, David Dupre, John Dushinske, Ken Earl, Eric Faucheaux, Jeffery Fawcett, Perry Frazier, Terry Galassini, Melinda Gallishaw, Tom Gilbert, Charlie Graham, Jerry Graves, Jack Guinn, Cecil Gutierrez, Tom Halpin, Steven Harris, Dahlia Hernandez, D J Herron, Kevin Hyatt, Steven January, David L Johnson, Robert L Johnson, Rich Jolly, Vera Jones, John R Keller, William Kendrick, David Kolarik, Kim Kouri, Judy Kudym, Laura Kunkel, T.K. Lohman, Michelle Lokay, Lorraine Lindberg, Gary Maestas, Ronald Matthews, Mike McCracken, Johnny McGee, Tom Mertz, James Moore, Michel Nelson, Dave Odneal, Frank Osburn, Frank Oldenhuis, Tom Parker, Loren Penkava, Keith Petersen, Dan Pribble, Patty Prigmore, Gale Ramsaran, Bryan Reinecke, David Roensch@ENRON, Darrell Schoolcraft, Susan Scott, David Sinclair, Ray Smith, Rick Smith, Gary Spraggins, LD Stephens, Bob Stevens, Christine Stokes, Rockey Storie, Reggie Stotts, John Sturn, John Sylvester, Steve Thomas, Deaun Trayer, Jim Tucker, Linda Wehring, Roger Westfall, Jo Williams, Rod Williams, Michele Winckowski
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Optimization/ Facility Planning Team Weekly Report
+Week of September 25 - 29, 2000
+
+
+
+
+ET&S Outages  (Outages: Jerry Graves  713/345-8923)=20
+
+
+
+
+
+System Optimization Team  (Team Leader: Ben Asante  713/853-9432)
+
+TW Fuel Performance Measurement Model (FPM)
+Working with the SCADA support group to identify the equivalent SCADA point=
+s=20
+to existing MIPS Points, for conversion of the model to a real-time basis. =
+An=20
+initial query revealed that only ~50% of MIPS points have a SCADA=20
+equivalent.  Priority will be given to identification/addition of points on=
+=20
+the San Juan Lateral and the Thoreau Junction to Needles. =20
+
+Developing an estimate of the time required to complete the conversion of t=
+he=20
+FPM Model to a real-time basis.
+
+TW Fuel Performance Measurement for Fuel Overage Forecasting
+The Revenue/Risk Management group are analyzing the existing FPM model=20
+groupings to evaluate the use of our model in combination with their demand=
+=20
+model.  The combined model would provide fuel burned on forecasted demand. =
+ =20
+Initial analysis looks promising and they hope to give us an answer by next=
+=20
+week whether the FPM model can be used as is.=20
+
+Beaver to Mullinville B-C Sweeping=20
+ Pipeline operating conditions have been analyzed since the sweep was=20
+completed on 09/21/00.  Recent sweeps had improved flow efficiency only abo=
+ut=20
+5%.  Last week's sweep improved the efficiency by 35% to about 85%.  Pressu=
+re=20
+drops decreased from 125 PSI down to about 40 PSI.  Mullinville has operate=
+d=20
+with one less 2000 HP unit while Beaver units are operating with less load=
+=20
+while producing lower suctions.
+
+Outage Modeling
+Ran hydraulic models for Gas Control to determine flows with Bisti down and=
+=20
+with Unit 303 down.
+
+San Juan Efficiency Study
+Developed multiple scenarios for San Juan flows and pressures if the line w=
+as=20
+to be cleaned.  Basic economic analysis was also performed.
+
+Hydraulic Model for EOTT
+The current EOTT hydraulic model has been revised to include the dependence=
+=20
+of the fluid properties on temperature and pressure as well the appropriate=
+=20
+heat transfer considerations.
+
+
+Houston Facility Planning Team    (Team Leader: Perry Frazier 713/853-0667)
+
+TW Expansion Studies=20
+Looked at different combinations of pipe loop and compression trying to=20
+reduce overall costs.  No luck so far.  A brainstorming session is schedule=
+d=20
+next week to see if there are any different approaches not considered to da=
+te.
+El Paso Field Services
+Compiling information for inclusion into the Interconnect and Operating=20
+Agreement between EPFS and Enron.  Mostly locations, materials and POI=20
+number, expect to have all information gathered by the end of the week.
+
+San Juan Lateral
+Enron Operations Services has visited 3 laboratories in the area and compil=
+ed=20
+information on their analysis procedures.  They want Facility Planning to=
+=20
+help evaluate and choose one for the sample evaluation.  Results will take=
+=20
+about 2 weeks.  Also, received some expected flow/pressure enhancements for=
+=20
+the last 30 - 40 miles of the SJ Lateral, using the expected efficiencies=
+=20
+calculated for a pressure profile taken after the 1998 chemical cleaning=20
+run.   Results will be reported next week.=20
+
+Liberal Operations - PRIDE Meeting
+Attended operations meeting in Liberal that covered various areas of=20
+operations and ways to improve.  Facility Planning did a presentation on th=
+e=20
+proposed Emergency Response Program and provided general information on=20
+Facility Planning services that can assist Operations.
+
+Prospective Market Zone Wichita, Kansas
+Commercial requested market study of competitor pipelines serving the=20
+Wichita, Kansas area (Duke, KPL, Williams), research possible load=20
+requirements, and facility requirements to connect the area to NNG's pipeli=
+ne=20
+system.  Wichita is located about 90 miles from the Macksville compressor=
+=20
+station as a crow flies.
+Outage Coordination=20
+ Provided the study to determine flows on the San Juan lateral and mainline=
+=20
+when Bisti outage occurs in October.  Both San Juan and the mainline will=
+=20
+have reduced flows.  Study results were given to Market Services. Also=20
+provided support for System Optimization to determine the flows west when=
+=20
+Station #3 unit 3 is out of service.
+
+Marketing Strategy Meeting=20
+Attended and participated in the Marketing Strategy meeting.  Main assignme=
+nt=20
+for Planning is to continue looking for revenue generating projects.
+
+E&C
+Participated in a review of the responding candidates for the vacant Projec=
+t=20
+Engineering position.
+
+
+
+Omaha Facility Planning Team     (Team Leader: Steve Thomas 402-398-7468)
+
+Earlville Outage
+On October 12th starting at 8:00 am the Earlville unit will be taken down f=
+or=20
+relocation of the blow down silencer.   Solar will also be on site to do so=
+me=20
+bleed air manifold baffle modifications.  After this work is completed, the=
+=20
+District will perform a water wash in preparation for emissions testing on=
+=20
+October 16th & 17th.  The unit should be back on-line sometime near midnigh=
+t=20
+on October 12th.
+
+With Earlville down for this time frame the flow on the East leg will be=20
+limited to the 660-680 mmcf/d range.  We anticipate that normal nominations=
+=20
+will be below this threshold, and that by packing the system the night befo=
+re=20
+we will be able to make it through without any impact.   Gas Control is=20
+putting this outage on the EBB.  From a Marketing perspective we should lim=
+it=20
+short term sustainables, but Ops did not want to call an allocation day.  I=
+f=20
+we did, the allocation would be 86% of firm in Zone D for all deliveries. =
+=20
+
+The emissions testing on October 16th & 17th will have very little impact o=
+n=20
+system flows.
+
+Planning White Paper
+Planning met with various Marketing representatives to try and attach a val=
+ue=20
+to the four ideas put forth in the White Paper.   The ideas were thoroughly=
+=20
+discussed and the input we received will be incorporated into the Paper.  =
+=20
+One suggestion was that we use the Pricing Desk to determine the value of t=
+he=20
+additional capacity.  We will be meeting with them to do that.  Meanwhile=
+=20
+research continues on the various costs associated with the White Paper,=20
+specifically sites for proposed inlet pressure additions. =20
+
+Engineering Records Research
+EOG - Texas Co. #4 (C.000269.01): =20
+This is an interconnect where the Texas Co. #4 8" Lateral (OKG-19301)=20
+connected to the 24" OKM-12001.  An incorrect line number on the project=20
+authorization located the project six miles upstream of the actual site. =
+=20
+Engineering Records did not have the one page amendment with the project=20
+authorization to explain who owns and operates the facilities.  Texas Co. #=
+4=20
+facilities had been removed.  The remaining pipe downstream of the compress=
+or=20
+site to OKM-12001 (approximately 4.5 miles) has been transferred to EOG=20
+Resources as of June 16, 2000.  (Project Authorization C.000369.02/Removal)=
+.
+
+Ogden H2S Monitor (SN0157): =20
+Verification of materials used in the construction of the monitor was=20
+needed.  Operations confirmed that a Farm Tap Assembly was used to create t=
+he=20
+monitoring facilities, not to install a farm tap within the Ogden Plant yar=
+d.=20
+=20
+Cedar Falls #2
+Marketing needed to know if there was any money left in the work order to=
+=20
+purchase a new regulator, since the interruptible peaking turbine load is=
+=20
+causing problems with the existing regulator.  Property Accounting reported=
+=20
+the amount remaining, but it will not be enough for a new regulator.
+
+St. Croix Valley
+Provided options for the proposed ten year expansion for St. Croix Valley. =
+=20
+Examined cost versus incremental growth on the Black River Falls Branchline=
+. =20
+Provided an analysis for option of integrating the growth with the Wisconsi=
+n=20
+Gas proposal.  Following the latest strategic marketing meeting, will exami=
+ne=20
+compression alternatives for St. Criox Valley as a stand-alone project.
+
+Grimes #1 TBS - Pressure Increase
+Working with Marketing and the Field.  Examined several options regarding t=
+he=20
+customer=01,s request for a pressure increase to a delivery of 150 psig. =
+=20
+Marketing will examine all the options in order to determine best strategic=
+=20
+fit for the customer.
+
+Ogden Building #2 Discharge Pressure
+Research has been completed in trying to locate documentation that supports=
+=20
+the 1000 psig MAOP for the building #2 discharge header.  The supporting=20
+documentation has been forwarded to Lisa Choquette in Codes for approval.  =
+If=20
+documentation is approved as supporting evidence for the 1000 psig MAOP the=
+n=20
+only minor controls work will be required in the field in order to increase=
+=20
+the discharge pressure of the building #2 engines. =20
+
+Pengilly TBS - Mesabi System
+Marketing was presented with two separate estimates for modification requir=
+ed=20
+to increase firm at Pengilly from 12 mcf/day to 210 mcf/day.   The first=20
+estimate for $85,000 consisted mostly of contract labor with field personne=
+l=20
+only installing the EFM.  The team responded with a proposal that they woul=
+d=20
+be willing to do all of the labor if it could be scheduled during Jan-March=
+. =20
+A second estimate of $66,000 was submitted to Marketing, which included all=
+=20
+district labor.  This estimate is contingent on completing the deal prior t=
+o=20
+Dec 31,2000.  If a deal is made after Dec 31, 2000 then the higher cost=20
+estimate applies.
+
+Monroe #1 TBS Mods / Pressure Increase
+The Monroe #1 TBS Mods Project was released to Engineering.   The project w=
+as=20
+the result of WIGas raising the IT load by approximately 4000 mcf/day.  The=
+y=20
+also requested a pressure increase at the station from 80 psig to 275=20
+psig.    A Form 2476 "Pressure Increase Request Form" is being circulated f=
+or=20
+signature.  The project has a targeted Nov 30, 2000 in-service date.  The=
+=20
+modifications consist of replacing both meters with spool pieces and=20
+performing a pressure test to upgrade the MAOP.
+
+Milbank Project
+Continued gathering data to model the Milbank system as it is today.
+
+Melbourne #1 - Project Release
+The Melbourne #1 TBS Mods project was released to Engineering.   The projec=
+t=20
+consists of TBS mods to support the increase of firm from 330 mcf/day to 50=
+0=20
+mcf/day at Melbourne. Presently the Marshalltown B/L is constrained and cou=
+ld=20
+not support the incremental firm.  Alliant will realign gas away from the=
+=20
+Marshalltown #1 TBS which is at the end of this B/L to the Marshalltown #1A=
+=20
+TBS which is on a different B/L.  This will open up capacity on the line fo=
+r=20
+this new load.   The project has a targeted Nov 30, 2000 in-service date. =
+=20
+Modifications consist of replacing the first and second cut regulators and=
+=20
+replacing the meter.
+
+Adel #1A TBS Mods - project release
+The Adel #1A TBS Mods Project was released to engineering.  This project wa=
+s=20
+a result of the customer wanting to convert an existing IT load at Adel #1A=
+=20
+to a Firm load.  The new Firm load will be 1400 mcf/day.   The project has =
+a=20
+targeted Nov 30, 2000 in-service date.  The station will have a new meter=
+=20
+installed along with piping size modifications.
+
+Ethanol Injection
+Reviewed and researched (for Marketing) the possibility of injecting Ethano=
+l=20
+into the pipeline for a possible "Green Energy" rating and as a means of BT=
+U=20
+enhancement.  Since ethanol would remain a liquid at any normal pipeline=20
+conditions, even atomizing the ethanol at the point of injection would not=
+=20
+insure the Ethanol from liquefying, dropping out and collecting into the=20
+pipeline low spots.  Also, there were many issues concerning possible liqui=
+ds=20
+entering the fuel systems of our equipment and other customers=01, equipmen=
+t. =20
+Planning recommended that this project not be pursued.
+
+Researched (for Marketing) was the possibility of burning a Methane/Ethanol=
+=20
+mix in our equipment (i.e.: Turbines) in order to receive a "Green Power"=
+=20
+rating.  Solar was contacted concerning the possibility of "co-burning"=20
+ethanol and methane.  As a manufacturer they said they would be willing to=
+=20
+work with us, however, they only recommended it if it were to be a constant=
+=20
+fuel source.  Solar said there would be considerable fuel injection system=
+=20
+retrofits required.  Also, if this were not a constant fuel then there woul=
+d=20
+have to be two separate fuel systems (co-burn and methane only) and a=20
+complete fuel control system change.  With all that the project has been=20
+deemed cost prohibitive.
+
+Vapor Injection of Propane (VIP Service)
+Research was started for Marketing into the possibility of injecting=20
+vaporized propane into the pipeline as a way of increasing capacity during=
+=20
+peak days.  Upon initial review many questions were generated by the planni=
+ng=20
+team concerning specific requirements of the new service (i.e.: # of days/y=
+r,=20
+firm, daily firm etc.)  Planning awaits feedback from Marketing before any=
+=20
+more action is taken.
+
+Electric Generation=20
+Proposal was reviewed for Marketing from APA for an engineering study to=20
+review the possibility of utilizing stand-by generators as electric produce=
+rs=20
+for the Utilities during peak power times in the summer months.  A few=20
+discrepancies were found and are being worked out before APA can be release=
+d=20
+to complete the engineering study.
+
+Beaver Dehy
+A request was received from John Sturn of the optimization team to review t=
+he=20
+Capacity of the Mole sieve Dehy system at Beaver Compressor Station on the =
+SE=20
+24" line.  Beaver is considering a capital project to re-route the dehy=20
+system that is currently piped into the suction of the station to the=20
+discharge, thus increasing the capacity. =20
+
+Cogentrix Power Plant
+Three detailed cost estimates for the Cogentrix Power Plant proposals were=
+=20
+prepared and forwarded to Marketing.  The details of the cost estimate=20
+included a breakdown of costs for:
+Material Costs
+Labor
+Freight and Taxes
+Surveys/Permits
+Construction Support
+District Labor
+Engineering/Drafting/As-builts
+Contingency
+Overhead
+AFUDC
+The break down of costs was done for the Sheldon, Lehigh, and Raun projects=
+=20
+in Nebraska and Iowa.
+
+Cherokee Ethanol Projects
+Seven sites were examined for a proposed ethanol plant in Cherokee County,=
+=20
+Iowa.  The delivery volume was for 8 MMCF/D at a delivery pressure of 70=20
+psig.  It was assumed for this study that the initial load would be for 4=
+=20
+MMCF/D for two years and then increase to the 8 MMCF/D level.  The cost=20
+estimate assumed that the initial design would be for the 8 MMCF/D.  This w=
+as=20
+done to reduce the cost for the project.  Each cost estimate was done for a=
+=20
+firm transport level and an interruptible transport level (14 cost estimate=
+s=20
+total).  Two of the sites are on the C line approximately 10 miles southwes=
+t=20
+of the Paullina Station.  The remaining sites were on the Storm Lake/Lytton=
+=20
+Branchline.

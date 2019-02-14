@@ -1,0 +1,34 @@
+Return-Path: <Demario@zeus.engg.upd.edu.ph>
+Delivered-To: fs@bruce-guenter.dyndns.org
+Received: (qmail 25515 invoked from network); 14 Jul 2005 18:32:49 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 14 Jul 2005 18:32:49 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 14 Jul 2005 18:32:49 -0000
+Received: (qmail 4416 invoked from network); 14 Jul 2005 18:32:49 -0000
+Received: from cmung5633.cmu.carnet.hr (unknown [193.198.150.45])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 14 Jul 2005 18:32:47 -0000
+Received: from [182.93.74.209] (port=3060 helo=[Coty])
+    by cmung5633.cmu.carnet.hr with esmtp 
+    id 4309840954Jakob4822
+    for fs@bruce-guenter.dyndns.org; Thu, 14 Jul 2005 20:32:42 +0200
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Message-Id: <10745238301.76736686@cmung5633.cmu.carnet.hr>
+Content-Type: text/plain; charset=US-ASCII
+To: fs@bruce-guenter.dyndns.org
+From: Ariel <Demario@zeus.engg.upd.edu.ph>
+Subject: AutoCAD 2005 - $69.95
+Date: Thu, 14 Jul 2005 20:32:41 +0200
+X-Mailer: PHP
+Content-Length: 247
+Lines: 9
+
+Adobe Acrobat 7.0 Professional - $44.95
+Microsoft Autoroute 2005 DvD UK - $19.95
+Adobe Photoshop Elements 3.0 - $19.95
+Adobe Creative Suite CS CE Premium Edition - $99
+
+and much more..... at http://replacesoft.com/?a=3331 with fr e e e  bonus.

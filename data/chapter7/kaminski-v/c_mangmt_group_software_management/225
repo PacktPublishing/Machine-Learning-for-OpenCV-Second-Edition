@@ -1,0 +1,57 @@
+Message-ID: <2128345.1075856586785.JavaMail.evans@thyme>
+Date: Tue, 27 Jun 2000 05:19:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: running credit model
+Cc: grant.masson@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: grant.masson@enron.com, vince.kaminski@enron.com
+X-From: Stephen Stock
+X-To: Tanya Tamarchenko
+X-cc: Grant Masson, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+
+Although I'm quite comfortable with providing support for running the model, 
+and assisting in providing the tools to enable easier analysis of the 
+results, I'm not entirely comfortable with supporting a Java debug 
+environment within your team (including ad-hoc training), when we have 
+facilities within the IT development team to do it here.
+
+I'd like to meet with you to discuss this, as this seems to be an ongoing 
+issue, and would like to understand the ground rules by which your team 
+operates in conjunction with IT in general.
+
+regards
+
+Steve
+
+
+
+
+Tanya Tamarchenko
+23/06/2000 15:48
+To: Stephen Stock/HOU/ECT@ECT
+cc: Grant Masson/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT, Debbie R 
+Brackett/HOU/ECT@ECT 
+Subject: Re: running credit model  
+
+Steve,
+in order to be able to test the New Credit Model as well as to answer Credit 
+Group's 
+questions regarding the outputs from this model Research needs to be able to 
+do the following:
+
+1. Run Credit Model independently of the other runs. It is quite OK for now 
+to be able to run it just for small artificial portfolios.
+2. Debug the code to see what actual values are used during the run time.
+
+Please, let me know if your team can help us.
+
+Tanya. 
+

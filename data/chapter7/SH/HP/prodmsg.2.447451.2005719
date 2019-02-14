@@ -1,0 +1,77 @@
+Received: from wisteria.propagation.net (63.249.138.1)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:35 -0000
+Received: from localhost (localhost)
+	by wisteria.propagation.net (8.9.3p2/8.8.5) with internal id FAA06084;
+	Tue, 19 Jul 2005 05:56:19 -0500
+Date: Tue, 19 Jul 2005 05:56:19 -0500
+From: Mail Delivery Subsystem <MAILER-DAEMON@wisteria.propagation.net>
+Message-Id: <200507191056.FAA06084@wisteria.propagation.net>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="FAA06084.1121770579/wisteria.propagation.net"
+Subject: Returned mail: Host unknown (Name server: ------.net: host not found)
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--FAA06084.1121770579/wisteria.propagation.net
+
+The original message was received at Tue, 19 Jul 2005 05:56:17 -0500
+from YahooBB218135092134.bbtec.net [218.135.92.134]
+
+   ----- The following addresses had permanent fatal errors -----
+<info@technicalhorizons.com>
+
+   ----- Transcript of session follows -----
+550 <info@technicalhorizons.com>... Host unknown (Name server: ------.net: host not found)
+
+--FAA06084.1121770579/wisteria.propagation.net
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; wisteria.propagation.net
+Received-From-MTA: DNS; YahooBB218135092134.bbtec.net
+Arrival-Date: Tue, 19 Jul 2005 05:56:17 -0500
+
+Final-Recipient: RFC822; nobody@------.net
+Action: failed
+Status: 5.1.2
+Remote-MTA: DNS; ------.net
+Last-Attempt-Date: Tue, 19 Jul 2005 05:56:19 -0500
+
+--FAA06084.1121770579/wisteria.propagation.net
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (YahooBB218135092134.bbtec.net [218.135.92.134])
+	by wisteria.propagation.net (8.9.3p2/8.8.5) with SMTP id FAA06080
+	for <info@technicalhorizons.com>; Tue, 19 Jul 2005 05:56:17 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024817873;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@technicalhorizons.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54270208">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--FAA06084.1121770579/wisteria.propagation.net--
+

@@ -1,0 +1,234 @@
+Message-ID: <15077767.1075840777011.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 08:56:23 -0700 (PDT)
+From: zimin.lu@enron.com
+To: christopher.jeska@enron.com
+Subject: FW: FEA announces the release of @Energy 2.1.
+Cc: bob.lee@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bob.lee@enron.com
+X-From: Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZLU>
+X-To: Jeska, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cjeska>
+X-cc: Lee, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Blee5>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+
+Chris,
+
+FEA just released a new version of @Energy 2.1.  Could you update it with the new version ?
+Hopefully it will not take you too much time.  
+
+As always, I value your work and appreciate your help.
+
+Zimin
+
+
+
+
+
+ -----Original Message-----
+From: 	Kaminski, Vince J  
+Sent:	Tuesday, May 15, 2001 8:37 AM
+To:	Lu, Zimin
+Subject:	FW: FEA announces the release of @Energy 2.1.
+
+
+
+ -----Original Message-----
+From: 	"Erin Hopkins" <erin@fea.com>@ENRON [mailto:IMCEANOTES-+22Erin+20Hopkins+22+20+3Cerin+40fea+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Monday, May 14, 2001 5:47 PM
+To:	Kaminski, Vince J
+Subject:	FEA announces the release of @Energy 2.1.
+
+05/14/2001
+
+Enron North America Corp.
+Vince Kaminski
+1400 Smith Street
+30th Floor, Rm. 3036B
+Houston, TX 77251-1188
+1 713-853-3848
+
+Dear Vince Kaminski,
+
+This is to inform you of the release of @Energy2.1. FTP download
+instructions are available immediately. The download instructions are
+included at the end of this email.    Please see below for more information
+regarding this new release..
+
+FEA is pleased to enclose your new version of @ENERGY/ErgLib. The
+accompanying documentation contains installation and other information.
+
+Here is an overview of the new and changed features since Version 2.0.
+
+@ENERGY (Forward Curve) No change.
+
+@ENERGY (Basics) A control variate methodology Hull (1997) has been
+implemented for valuation of American options (OPT), Black and
+Mean-reverting models. It greatly improves accuracy at minimal cost in
+speed. All models now supports new scalar risk measures corresponding to
+parallel displacement delta, hedge, and gamma.  Average price/strike options
+now support an alternative way of computing theta. The definition of Gamma
+curves has been modified for all models.
+
+@ENERGY (Advanced) A faster and more accurate methodology is used to value
+spread options. Models affected are SPREADOPT, STRIPSPREADOPT, OPTSPREADOPT,
+OPTSTRIPSPREADOPT. The new methodology dramatically improves speed. All
+models now supports new scalar risk measures corresponding to parallel
+displacement delta, hedge, and gamma.  Average price/strike options now
+support an alternative way of computing theta. The definition of Gamma
+curves has been modified for all models.
+
+@ENERGY (Swing) The definition of Gamma curves has been modified for all
+models.
+
+@ENERGY (Weather) No change.
+
+See the file fea\energy\ergnote.txt in your distribution for a list of bug
+fixes.
+
+Here is an overview of the new and changed features since Version 1.6.
+
+@ENERGY (Forward Curve)
+Jump parameters are now calibrated for use in other @ENERGY functions.
+Inputs and outputs to POWERCALIB and COMCALIB have changed. See the
+corresponding function syntax in the User Guide for additional information.
+35-40% speed improvement. The module is now out of beta.
+
+@ENERGY (Basics)
+Different interpolation schemes on forward prices are now supported. If you
+use INDEXSWAP , EXOTICSWAP, or OPTINDEXSWAP with floating price linked to a
+series of futures dates, such futures dates need not be close to dates
+specified in the forward curve input.  A new utility function, PATHUTIL,
+allows you  to simulate and visualize price paths consistent with the models
+supported by @ENERGY. 25-30% speed improvement.
+
+@ENERGY (Advanced)
+Different interpolation schemes on forward prices are now supported. If you
+use OPTDIFFSWAP or DIFFSWAP  with floating price linked to a series of
+futures dates, such futures dates need not be close to dates specified in
+the forward curve input. CALSPREADOPT now allows for the specification of
+two different mean reversion rates. 30-35% speed improvement.
+
+@ENERGY (Swing)
+SWINGOPT and STRIPSWINGOPT now allow for valuation of swing straddle
+contracts with overall load constraints. 65-70% speed improvement. The
+module is now out of beta.
+
+@ENERGY (Weather)
+30-35% speed improvement.
+
+See the file fea\energy\ergnote.txt in your distribution for a list of bug
+fixes.
+If you are a user of the ErgLib library, please be aware of possible
+backward compatibility issues in calls to Eapo, Easo, Espreadapo,
+Espreadaso, and Ecrackapo.  See fea\energy\ergnote.txt for additional
+details.
+
+Here is an overview of the new and changed features since Version 1.5.
+
+@ENERGY (Basics)
+European options  and strips of European options now support valuation via a
+jump diffusion model (see OPT and STRIPOPT functions). Average price options
+(see the APO, SPREADAPO, CRACKAPO functions), and average strike options
+(see the ASO, SPREADASO functions) now allow for a direct input of the
+fixing dates.
+
+@ENERGY (Advanced)
+ Includes two new functions, OPTSTRIPOPT and OPTSTRIPSPREADOPT for valuation
+of complex compound options.
+
+If you are a user of the ErgLib library, please be aware of backward
+compatibility issues in calls to Eapo, Easo, Espreadapo, Espreadaso, and
+Ecrackapo.  See fea\energy\ergnote.txt for additional details.
+
+Here is an overview of the new and changed features since Version 1.4.
+
+@ENERGY (Forward Curve)
+	@ENERGY (Forward Curve) is the new module which includes functions designed
+to generate forward curves, volatility curves and mean reversion rates used
+in many other @ENERGY functions. Module in beta release.
+
+@ENERGY (Basics)
+	APO's and ASO's: bug fixed when avg_starts < opt_expiry, and num_fixings=1.
+
+@ENERGY (Advanced)
+	No change.
+
+@ENERGY (Weather)
+	Additional ways of formatting the temperature data are now provided.
+
+@ENERGY (Swing)
+	Pay_at_end with strips: previously implemented was pay at end of  all
+periods. Now implemented is pay at end of each subperiod. . Module still in
+beta release.
+
+	Bug fixes:
+1)	if max_const=min_const and max_const in not a multiple of the maximum
+daily amount (in previous version min_const was disregarded in this case).
+2)	in strip with global constraints: if allowed number of swings per period
+changes (currently this can only be due to calendar effects).
+3)	strip at index: index was incorrectly evaluated after first sub_period.
+
+New Excel Templates
+	The following Excel workbooks and worksheets have been added:
+
+powercalib.xls	examples of generating @ENERGY parameters for power.
+
+Add-in Manager
+Now supports function help. If template is open with the Add-in manager and
+function help is requested through the manager, the relevant portion of the
+documentation get displayed.
+
+Your input into the refinement of this product is welcome and greatly
+appreciated. Any comments or suggestions may be sent to support@fea.com
+
+To download @ENERGY via FTP, follow these instructions:
+
+NOTE: Using EXPLORER leads to unpredictable results, so we suggest using
+      NETSCAPE or a DOS shell.
+
+
+USING NETSCAPE:
+
+In the Location box type: ftp://energy@ftp.fea.com
+Password: ect9sq5h
+
+energy-2.1-win32.exe is for Excel 7, 97SR1 or 2000;
+		     for Windows 95/96/2000/NT/ME;
+		     download and run on a local drive.
+
+USING A DOS SHELL:
+
+At a DOS prompt type: ftp ftp.fea.com
+User: energy
+Password:  ect9sq5h
+
+Type "binary" and hit 'return'.
+Type "ls" for a list of available files.
+Type "get" energy-2.1-win32.exe and and wait for the ftp> prompt.
+Type "quit".
+
+The file will be downloaded into the directory at which you entered the ftp
+site.
+Double click on the exe and follow the instructions on the screen.
+
+There is also a readme file which contains installation instructions.
+You may wish to print this out for easy reference.
+
+N.B.:  The password is only valid until the first Friday of next month.
+If you have any questions please feel free to contact us. We appreciate this
+opportunity to be of continuing service to Enron North America Corp..
+Regards,
+Erin Hopkins
+Administrative Assistant
+Financial Engineering Associtates, Inc.
+Tel: +1.510.548.6200
+mailto:info@fea.com
+or
+mailto:support@fea.com
+
+

@@ -1,0 +1,26 @@
+Message-ID: <22394105.1075854181784.JavaMail.evans@thyme>
+Date: Tue, 27 Jun 2000 04:11:00 -0700 (PDT)
+From: mjones7@txu.com
+To: cstone1@txu.com, ggreen2@txu.com, timpowell@txu.com, 
+	daren.j.farmer@enron.com, gary.a.hanks@enron.com, 
+	carlos.j.rodriguez@enron.com, earl.tisdale@enron.com, 
+	ami.chokshi@enron.com
+Subject: REVISION - Enron / HPL Actuals for June 25, 2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Melissa Jones" <mjones7@txu.com>
+X-To: "Charlie Stone" <cstone1@txu.com>, "Gary Green" <ggreen2@txu.com>, timpowell@txu.com, daren.j.farmer@enron.com, gary.a.hanks@enron.com, carlos.j.rodriguez@enron.com, earl.tisdale@enron.com, ami.chokshi@enron.com
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+June 25, 2000
+
+     Teco Tap       50.000 / Enron ; 59.917 / HPL IFERC
+
+Should have been:
+
+     Teco Tap       50.000 / Enron ; 60.417 / HPL IFERC
+

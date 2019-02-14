@@ -1,0 +1,46 @@
+Return-Path: <Sonny@dynamite.com>
+Delivered-To: info@bruce-guenter.dyndns.org
+Received: (qmail 28427 invoked from network); 13 Mar 2005 09:44:31 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 13 Mar 2005 09:44:31 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Mar 2005 09:44:31 -0000
+Received: (qmail 4556 invoked from network); 13 Mar 2005 09:44:29 -0000
+Received: from ¦+--+- (unknown [222.235.8.100])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 13 Mar 2005 09:44:28 -0000
+Received: from exumobflmc.worldaccessnet.com (7089711134.worldaccessnet.com [59.86.231.124]) by 221.160.69.196 Microsoft SMTPSVC(5.0.2195.6824);
+	 Sun, 13 Mar 2005 03:42:47 -0600
+Message-ID: <E2ylG-46866J-9O@worldaccessnet.com>
+Date: Sun, 13 Mar 2005 03:42:47 -0600
+From: Brooke Parson
+Reply-To: "Sonny@dynamite.com" 
+To: info@bruce-guenter.dyndns.org
+Subject: How many CEOs Went to School?
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="7412638745"
+Content-Length: 1248
+Lines: 20
+
+--7412638745
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+
+
+Hello,
+My name is Professor Brooke Parson
+Here is a short message to tell you about an exciting new academic qualification program which is open to students worldwide. 
+Your hard work and experience is equal to valuable college credits, and if you are experienced enough we will award you with the degree that suits you the most.
+If you are a qualified professional in your field. You have all the training, the knowledge and the life experience, and the only thing now you are lacking is the degree itself we can help you to gain the correct academic qualification to meet your life experience and put you in a better position in your professional career. 
+The degrees we award are non-accredited from an academic point of view, you will however be able to use them in your chosen career field.
+For more information go to the following website http://www.educate-3.com, and you will be able to leave all of your details so that one of our qualified registrars can call you back with a response to your evaluation.
+Regards,
+Professor Brooke Parson
+
+If you prefer not to receive such offers please go here:
+http://www.educate-3.com/r.php
+
+--7412638745--

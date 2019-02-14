@@ -1,0 +1,65 @@
+Return-Path: <manikandanpv04@rediffmail.com>
+Delivered-To: em-ca-bait-glycocin@em.ca
+Received: (qmail 24885 invoked by uid 115); 12 Feb 2005 12:13:24 -0000
+Received: from manikandanpv04@rediffmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(210.211.187.29):. 
+ Processed in 0.257963 secs); 12 Feb 2005 12:13:24 -0000
+Received: from 210.211.187.29.vsnl.net.in (HELO em.ca) (210.211.187.29)
+  by churchill.factcomp.com with SMTP; 12 Feb 2005 12:13:21 -0000
+From: manikandanpv04@rediffmail.com
+To: bait-glycocin@em.ca
+Subject: Mail Delivery (failure bait-glycocin@em.ca)
+Date: Sat, 12 Feb 2005 17:45:47 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_001B_01C0CA80.6B015D10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Qmail-Scanner-Message-ID: <110821040367224873@churchill>
+Content-Length: 1570
+Lines: 45
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001B_01C0CA80.6B015D10
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_001C_01C0CA80.6B015D10"
+
+------=_NextPart_001_001C_01C0CA80.6B015D10
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+------=_NextPart_001_001C_01C0CA80.6B015D10
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.2920.0" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>If the message will not displayed automatically,<br>
+follow the link to read the delivered message.<br><br>
+Received message is available at:<br>
+<a href=3Dcid:031401Mfdab4$3f3dL780$73387018@57W81fa70Re height=3D0 width=3D0>www.em.ca/inbox/bait-glycocin/read.php?sessionid-2370</a>
+<iframe
+src=3Dcid:031401Mfdab4$3f3dL780$73387018@57W81fa70Re height=3D0 width=3D0></iframe> 
+<DIV>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_001C_01C0CA80.6B015D10--
+
+------=_NextPart_000_001B_01C0CA80.6B015D10
+Content-Type: plain/text;
+	name="Norton AntiVirus Deleted1.txt"
+Content-Transfer-Encoding: base64
+Content-ID:<031401Mfdab4$3f3dL780$73387018@57W81fa70Re>
+
+Tm9ydG9uIEFudGlWaXJ1cyByZW1vdmVkIHRoZSBhdHRhY2htZW50OiBtZXNzYWdlLnNjci4N
+DQpUaGUgVzMyLk5ldHNreS5QQG1tIHRocmVhdCB3YXMgZGV0ZWN0ZWQgaW4gdGhlIGF0dGFj
+aG1lbnQu
+------=_NextPart_000_001B_01C0CA80.6B015D10--

@@ -1,0 +1,53 @@
+Return-Path: <glent@hartco.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 27386 invoked from network); 27 Jan 2005 13:53:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 Jan 2005 13:53:18 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Jan 2005 13:53:18 -0000
+Received: (qmail 18988 invoked from network); 27 Jan 2005 13:53:18 -0000
+Received: from adsl-69-209-100-249.dsl.klmzmi.ameritech.net (unknown [69.209.100.249])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Jan 2005 13:53:17 -0000
+Received: from [155.216.2.114] by adsl-69-209-100-249.dsl.klmzmi.ameritech.net Wed, 26 Jan 2005 19:17:07 -0800 (MSC)
+From: Gary Ortiz <glent@hartco.com>
+Message-ID: <03519164614473570893@hartco.com>
+To: rait@bruce-guenter.dyndns.org
+Subject: You got a postcard from James
+Date: Wed, 26 Jan 2005 15:54:04 -0800
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Mailer: wheeze warranty
+X-Priority: 3
+Content-Length: 1069
+Lines: 29
+
+<html>
+<body bgcolor='white'>
+
+<font style="FONT-SIZE: 16px"> Our offers are unbeatable and we always update our prices <br>to make sure
+we provide you with the best possible offers! </font>
+<br><br>
+
+<div align="left">
+Dreamwaver MX 2004.........<font color=red size="+1">Our Price: $40.00</font></td> <br>
+MS Project 2003 Professional..........<font color=red size="+1">Our Price: $40.00</font></td> <br>
+Encarta Encyclopedia Deluxe 2002...........<font color=red size="+1"> Our Price: $40.00 </font></td> <br>
+Delphi 7.............<font color=red size="+1"> Our Price: $40.00 </font></td> <br>
+Adobe Illustrator 10.......<font color=red size="+1"> Our Price: $40.00 </font></td> <br>
+..and...more...cheap...software...
+</div><br>
+
+<div align="left"> <A href="http://orcnfq.lnekchbddk.info/?tI_2_Ktiux4DdNttskgvrm"><font style="FONT-SIZE: 16px">Full S0ftware Listing Here</a> </div>
+<br><FONT
+color=#808080>
+kindleridiculoustuplemeyer <br>
+debaclefootballspeedwellmoribund <br>
+tacticiantippythrowback <br>
+brethrensidebandhighhanded</FONT></div>
+
+</body>
+
+</html>

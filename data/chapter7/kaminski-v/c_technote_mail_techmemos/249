@@ -1,0 +1,72 @@
+Message-ID: <2631205.1075857036250.JavaMail.evans@thyme>
+Date: Wed, 9 Feb 2000 07:13:00 -0800 (PST)
+From: steven.leppard@enron.com
+To: grant.masson@enron.com, vince.kaminski@enron.com
+Subject: Gaming of NETA Prices - Constraints on The McCoy Strategy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven Leppard
+X-To: Grant Masson, Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+FYI (BM = balancing market in his email).
+
+I'm still on Eklavya's back to produce a white paper analysis of possible 
+trading stretagies under NETA and their likely implications for prices and 
+volatilities.  I'll forward it on as soon as (if ever) I receive it.
+
+Steve
+---------------------- Forwarded by Steven Leppard/LON/ECT on 02/09/2000 
+03:10 PM ---------------------------
+   Eklavya Sareen                09/02/2000 14:43
+
+To: ECT London UK Power Trading, Enron London Power Analytics, ECT London UK 
+Gas and Power Origination, Paul Dawson/LON/ECT@ECT
+cc:  
+
+Subject: Gaming of NETA Prices - Constraints on The McCoy Strategy
+
+I believe most people are now familiar with the McCoy strategy for 
+manipulating imbalance prices in a favourable direction:
+
+1) Take a massive long or short position in forward trading
+
+2) Choose physical production decisions to drive system 
+ i) long if forward market postion is long
+ ii) short if forward market postion is short
+
+3) If system is long it needs to accept bids, if system is short it needs to 
+accept offers
+
+4) If forward market postion is long submit very large postive bids to the BM 
+to drive SSP high - SSP is price received for spilling power to the BM (going 
+into BM long)
+
+5) If forward market postion is short submit very small (even negative) 
+offers to the BM to drive SBP low - SBP is price paid for purchasing power 
+from BM (going into BM short) 
+
+The NETA programme intends to tag transmission cosntraint related trades in 
+the BM. According to DISG 24 "Tagging Constraint Trades" (21 Dec 99) Option 
+3(a) [the option that is proposed to be adopted], paragraph 2.3 (p.4):
+
+"In the relevant Settlement Period, all accepted Offers and Bids volumes that 
+can be arbitraged, i.e. where a volume has been bid higher than the price at 
+which a volume has been offered, are eliminated;"
+
+One of the implications of the above procedure is that the highest bids (the 
+McCoy bids) and the lowest offers (the McCoy offers) are likely to be 
+eliminated from the calculation of imbalance prices. This will make it harder 
+to pursue the McCoy strategy successfully.
+
+Thoughts and comments welcome.
+
+Thanks,
+
+Eklavya.
+
+

@@ -1,0 +1,58 @@
+Return-Path: <grove_hz@cc.hut.fi>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3886 invoked by uid 115); 22 Oct 2004 21:21:31 -0000
+Received: from grove_hz@cc.hut.fi by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.119.28.94):. 
+ Processed in 0.206327 secs); 22 Oct 2004 21:21:31 -0000
+Received: from unknown (HELO optinet.de) (211.119.28.94)
+  by churchill.factcomp.com with SMTP; 22 Oct 2004 21:21:30 -0000
+MIME-Version: 1.0
+From: "Robbie Grove" <grove_hz@cc.hut.fi>
+Subject: =?ISO-8859-1?b?VHJ5IFZcaWFncmEsIGhhdmUgaXQgZGVsaXZlcmVkIHRvIHlvdXIgZG9vciEgTkVYVCBEQVk=?=
+Date: Fri, 22 Oct 2004 23:12:14 +0000
+Message-ID: <003301c4b88c$153a8ee3$4a2d2251@cvmfie2>
+To: bruceg@em.ca
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<table width="52%" border="0" cellspacing="1" cellpadding="0" height="271" bgcolor="#999999" align="center">
+<tr>
+<td height="35" bgcolor="#D2F0FF">
+<div align="center"><b><font face="Georgia, Times New Roman, Times, serif" color="#FF0000" size="6">S<font style=font-size:1px>.</font>AVE 7<font style=font-size:1px>.</font>0<font style=font-size:1px>.</font>% on R<font style=font-size:1px>.</font>X Med<font style=font-size:1px>.</font>ication TODAY!</font></b></div>
+</td>
+</tr>
+<tr>
+<td height="113" bgcolor="#33CCCC" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td height="99">
+<div align="center"><b><font face="Arial, Helvetica, sans-serif" color="#333333">Ord<font style=font-size:1px>.</font>er all your R<font style=font-size:1px>.</font>X Me<font style=font-size:1px>.</font>dication directly from F<font style=font-size:1px>.</font>DA-approved manufacturers in India. <br>
+Over 60 prod<font style=font-size:1px>.</font>ucts to choose from.
+S<font style=font-size:1px>.</font>ave up to 7<font style=font-size:1px>.</font>0<font style=font-size:1px>.</font>% on your R<font style=font-size:1px>.</font>X d<font style=font-size:1px>.</font>rugs. <br>
+Average shipp<font style=font-size:1px>.</font>ing from India takes 2-4 weeks. <br>
+However our pri<font style=font-size:1px>.</font>ces and quality make it worth the wait. <br>
+All pack<font style=font-size:1px>.</font>ages are sh<font style=font-size:1px>.</font>ipped discreetly by Airmail WORLDWID<font style=font-size:1px>.</font>E. </font></b>
+</div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#CCFFFF">
+<div align="center"><b><font face="Arial, Helvetica, sans-serif"><a href="http://mystuffforme.com">Choose your me<font style=font-size:1px>.</font>dication, point, click, or<font style=font-size:1px>.</font>der and you're done.  Your medica<font style=font-size:1px>.</font>tion is on it's way. No prescri<font style=font-size:1px>.</font>ption required! </a></font></b></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFF99" height="2">
+<div align="center"> <b><font face="Arial, Helvetica, sans-serif"><a href="http://mystuffforme.com"><font size="6">CLICK HERE NOW!</font></a></font></b> </div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div align="center"><br>
+<a href="http://mystuffforme.com">Re<font style=font-size:1px>.</font>move</a></div>

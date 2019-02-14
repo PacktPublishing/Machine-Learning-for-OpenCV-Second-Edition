@@ -1,0 +1,75 @@
+Message-ID: <20185479.1075856595278.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 07:07:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: zhiyong.wei@enron.com, zhiyun.yang@enron.com
+Subject: Spread option code change
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Zimin Lu
+X-To: Zhiyong Wei, Zhiyun Yang
+X-cc: Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Zhiyang and Zhiyun,
+
+Vince told me that London has some trouble to calculate spread option
+for correl=1, vol1=vol2.  In such a case, the effective volatility becomes
+zero, and the option has zero time value.   
+
+I have modified the UnitCorrPremium() routine to force the code to treat 
+this situation as a special case. (It returns the discounted intrinsic value).
+
+Please incorporate this chang to your code so that it will no longer cause 
+any 
+problems that should not happen in the first place. 
+
+If you have any questions, please let me know.
+
+
+Zimin
+
+
+-----------------------
+
+double UnitCorrPremium(
+        double s1, 
+        double s2, 
+        double strike, 
+        double r, 
+        double q1, 
+        double q2,
+        double vol1, 
+        double vol2, 
+              double correl, 
+        double tmat, 
+        int    opttype
+       )
+{
+ 
+ double retval;
+
+ if (tmat <= 0.0)
+  return intrinsic(s1, s2, strike, opttype);
+
+// look right here for the change, only two lines.
+
+ if ( (1.0-correl)<TINY && fabs(vol1-vol2)<TINY )  // for vol1=vol2, correl=1 
+case    
+  return intrinsic(s1, s2, strike, opttype)*exp(-r*tmat);
+              
+
+
+ setup (s1, s2, strike, r, q1, q2, vol1, vol2, correl, tmat);
+
+ if(opttype)
+  retval = S.disc*gauherInt(Ffunc0c)/SQRTPI;
+ else
+  retval = S.disc*gauherInt(Ffunc0p)/SQRTPI;
+
+ return retval;
+}

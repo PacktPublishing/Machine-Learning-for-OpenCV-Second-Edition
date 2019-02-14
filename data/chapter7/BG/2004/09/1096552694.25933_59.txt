@@ -1,0 +1,668 @@
+Return-Path: <nomas@mixtorinolip.cl>
+Received: (fqmail 14187 invoked from network); 30 Sep 2004 07:34:46 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 30 Sep 2004 07:34:46 -0000
+Received: (qmail 11796 invoked from network); 30 Sep 2004 07:34:45 -0000
+Received: from Oscar. (1-44-246-201.adsl.terra.cl [201.246.44.1])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 30 Sep 2004 07:34:45 -0000
+x-esmtp: 0 0 1
+Message-ID: <1423288-2200492282278250@Oscar>
+Reply-To: "ASEXMA" <info@capacitachile.com>
+To: "super" <info@capacitachile.com>
+From: "ASEXMA" <nomas@mixtorinolip.cl>
+Subject: VERSION DIPLOMADO GESTION EN COMERCIO EXTERIOR
+Date: Tue, 28 Sep 2004 18:07:08 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+<!-- saved from url=3D(0022)http://internet=2Ee-mail -->
+
+<html>
+<head>
+<title>Diplomados Asexma Chile</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+<body bgcolor=3D"#FFFFFF" text=3D"#000000">
+<center>
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+    <td width=3D"100%" colspan=3D"3">
+      <p align=3D"right"><font color=3D"#808080" face=3D"Verdana" size=3D"=
+1">Si=20
+        usted no puede ver este email haga <a href=3D"http://www=2Ecapacit=
+achile=2Ecom/2004/diplomados/gest_comex03/"><u> click aqu=ED</u></a></font=
+> </td>
+  </tr>
+  <tr>
+    <td width=3D"125" bgcolor=3D"#FF9900">
+      <p align=3D"center">&nbsp;</p>
+    </td>
+    <td width=3D"350" bgcolor=3D"#002F5D">
+      <p align=3D"center">
+      <b><font size=3D"6" color=3D"#FFFFFF" face=3D"Verdana">DIPLOMADO</fo=
+nt></b>
+    </td>
+    <td width=3D"125" bgcolor=3D"#FF9900">&nbsp;
+     =20
+    </td>
+  </tr>
+  <tr bgcolor=3D"#FFFFFF">=20
+    <td width=3D"100%" height=3D"85" colspan=3D"3">=20
+      <blockquote>=20
+        <p align=3D"center"><b><i><font face=3D"Arial Narrow" color=3D"#00=
+2F5D" size=3D"6">&quot;GESTION
+        EN COMERCIO=20
+          EXTERIOR&quot;</font><font size=3D"4" face=3D"Arial Narrow" colo=
+r=3D"#002F5D"><br>
+          An&aacute;lisis y actualizaci&oacute;n de las materias y pr&aacu=
+te;cticas=20
+          de Comercio Exterior</font></i></b> </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width=3D"100%"  colspan=3D"3">
+      <table border=3D"0" width=3D"100%">
+        <tr>
+          <td width=3D"25%" height=3D"20" align=3D"center">
+            <p align=3D"center">
+          <font size=3D"2" face=3D"Verdana" color=3D"#002F5D"><b>Patrocina=
+<br>
+              </b></font><img border=3D"0" src=3D"http://www=2Ecapacitachi=
+le=2Ecom/2004/diplomados/gest_comex/logoudp=2Ejpg" width=3D"114" height=3D=
+"58">=20
+          </td>
+          <td width=3D"50%" height=3D"20" align=3D"center"> <img border=3D=
+"0" src=3D"http://www=2Ecapacitachile=2Ecom/2004/diplomados/gest_comex/log=
+omulti=2Ejpg" width=3D"290" height=3D"68">=20
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+ =20
+  <tr>
+    <td width=3D"100%"  colspan=3D"3">
+      <p align=3D"center"><img border=3D"0" src=3D"http://www=2Ecapacitach=
+ile=2Ecom/imagenes/barradiplomado=2Ejpg" width=3D"600" height=3D"113"></p>=
+
+    </td>
+  </tr>
+   =20
+  <tr>
+    <td width=3D"100%" height=3D"10"  colspan=3D"3">&nbsp;</td>
+  </tr>
+   =20
+  <tr>
+    <td width=3D"100%" height=3D"5"  colspan=3D"3">
+      <table border=3D"0" width=3D"100%">
+        <tr>
+          <td width=3D"50%" bgcolor=3D"#FF9900"> <p align=3D"center"><font=
+ face=3D"Verdana" size=3D"4" color=3D"#002F5D"><b>OBJETIVOS</b></font></p>=
+</td>
+          <td width=3D"50%" bgcolor=3D"#FF9900">
+            <p align=3D"center"><font face=3D"Verdana" size=3D"4" color=3D=
+"#002F5D"><b>DIRIGIDO
+            A:</b></font>=20
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+   =20
+  <tr>
+    <td width=3D"100%" height=3D"2"  colspan=3D"3">
+      <table border=3D"0" width=3D"100%">
+        <tr>
+          <td width=3D"48%">=20
+            <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Arial, =
+Helvetica, sans-serif">-Entregar informaci&oacute;n actualizada, conocimie=
+ntos y destrezas sobre todas las materias relacionadas y pr&aacute;cticas =
+m&aacute;s utilizadas en las operaciones de comercio exterior=2E <br>
+  -Apoyar a empresarios y ejecutivos a enfrentar el desaf&iacute;o de la g=
+lobalizaci&oacute;n, alcanzando as&iacute;, el &eacute;xito en la apertura=
+ de nuevos mercados internacionales y desarrollando un sostenido crecimien=
+to en sus empresas=2E</font></p>
+            <table border=3D"0" width=3D"100%">
+              <tr>
+                <td width=3D"100%" bgcolor=3D"#FF9900">
+                  <p align=3D"center"><font face=3D"Verdana, Arial, Helvet=
+ica, sans-serif" size=3D"4" color=3D"#002F5D"><b>PROGRAMA</b></font></td>
+              </tr>
+            </table>
+            <ol>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Introducci=F3n
+                al Comercio Internacional=2E</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Los Acuerdos
+                Comerciales y sus oportunidades de negocio para Chile=2E</=
+font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Transporte y
+                seguros internacionales=2E</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Formas de pago
+                para operaciones de Comercio Exterior=2E</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Beneficios de
+                las Franquicias para exportadores=2E</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Evaluaci=F3n de
+                costos operacionales, financieros y precios en comercio ex=
+terior</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Marketing
+                Internacional=2E</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Introducci=F3n
+                al E-Comex</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Exportacion de
+                servicios y opotunidades de negocios</font></li>
+              <li>
+                <p align=3D"justify"><font size=3D"2" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Visita en
+                Terreno</font></li>
+          </ol>          &nbsp;</td>
+          <td width=3D"4%"></td>
+          <td valign=3D"top" width=3D"48%">=20
+            <p align=3D"justify"><font size=3D"2" face=3D"Verdana">Empresa=
+rios,
+            ejecutivos y encargados responsables de las operaciones de com=
+ercio
+            exterior y/o a todas aquellas personas que deseen iniciar prog=
+ramas
+            de exportaci=F3n e importaci=F3n en sus empresas=2E</font></p>=
+
+      <table border=3D"0" width=3D"100%" bgcolor=3D"#FFFFCC">
+        <tr>
+          <td width=3D"100%" style=3D"border-style: solid; border-color: #=
+000080">
+            <p align=3D"center"><b><font face=3D"Verdana" size=3D"4" color=
+=3D"#002F5D">CLASES
+            SEMANALES:</font></b> </p>
+                  <p align=3D"left"><font size=3D"2" face=3D"Verdana"><b>I=
+NICIO :</b>Viernes 08 de octubre  de 2004</font></p>
+            <p><font size=3D"2" face=3D"Verdana"><b>T&Eacute;RMINO :</b>  =
+  S&aacute;bado 18 de diciembre  de 2004</font></p>
+            <p><font size=3D"2" face=3D"Verdana"><b>D&Iacute;AS : </b>Vier=
+nes y s&aacute;bado</font></p>
+            <p align=3D"left"><font size=3D"2" face=3D"Verdana"><b>HORARIO=
+S :</b>  19:00 a 22:00 hrs=2E y  <br>
+9:00 a 15:00 hrs=2E, respectivamente</font></p>
+            <p align=3D"left"><font size=3D"2" face=3D"Verdana"><b>LUGAR :=
+</b>  Universidad Diego Portales</font></p>
+            <p align=3D"left"><font size=3D"2" face=3D"Verdana"><strong>DI=
+RECCION:</strong> Av=2E Ej=E9rcito 441 (Metro Los H=E9roes)</font></p>    =
+        <p align=3D"left"><font size=3D"2" face=3D"Verdana"><b>COSTO :</b>=
+ </font><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif">So=
+cio Asexma: $ 450=2E000 <br>
+No Socio Asexma: $ 550=2E000 </font> =20
+            <p align=3D"left"><font size=3D"2" face=3D"Verdana"><b>CODIGO =
+SENCE : 12-34-6814-34<br>
+            </b></font></td>
+        </tr>
+      </table>
+            &nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+   =20
+  <tr>
+    <td width=3D"100%" height=3D"2"  colspan=3D"3"></td>
+  </tr>
+   =20
+          </center>
+</table>
+<center>
+<table width=3D"599" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>=20
+    <td bgcolor=3D"#FFFFFF" height=3D"58" >=20
+      <img src=3D"http://www=2Ecapacitachile=2Ecom/2004/cursos/auspiciador=
+es=2Ejpg" width=3D"584" height=3D"39"> </td>
+  </tr>
+  <tr>=20
+    <td bgcolor=3D"#FFFFFF" height=3D"25"> <p align=3D"center"><font face=3D=
+"Verdana" size=3D"2"><b><font color=3D"#CC0000">Informaciones=20
+        e Inscripciones</font></b><br>
+      <strong>Fonos : 498 4017 - 498 4018 - 498 4019 - 498 4020 / Fax: 498=
+ 40 63&nbsp;</strong><br>
+        <a href=3D"mailto:info@capacitachile=2Ecom?Subject=3DSolicito%20In=
+formaci%F3n%20de%20Diplomado%20de%20Gesti%F3n%20Comercio%20Exterior%20%201=
+4">info@capacitachile=2Ecom</a></font></p>
+    </td>
+  </tr>
+  <tr>=20
+    <td bgcolor=3D"#FFFFFF" height=3D"25">=20
+      <p align=3D"center"><font SIZE=3D"2" face=3D"Verdana">Para su asiste=
+ncia, el
+      pago debe ser efectuado dos d=EDas antes del inicio de curso, deposi=
+tando
+      el monto correspondiente a nombre de <b>MULTISERVICIOS ASEXMA S=2EA=2E=
+ </b>en
+      la <b>Cta=2E Cte=2E N=BA 18304729 BCI=2E </b>y enviar el cup=F3n y c=
+omprobante de
+      dep=F3sito al fax: 4984060</font>
+    </td>
+  </tr>
+  <tr>=20
+    <td width=3D"100%"> <table border=3D"0" width=3D"100%">
+        <tr>=20
+          <td width=3D"100%" height=3D"54">
+<div align=3D"center"><font face=3D"Verdana" size=3D"2"><b>Si=20
+        usted lo desea, complete el siguiente formulario y una ejecutiva<b=
+r>
+        se contactar=E1 con usted=2E <font color=3D"#cc0000"><br>
+              <a href=3D"http://www=2Ecapacitachile=2Ecom/cursos/interpret=
+acion/formulario=2Ephp">=20
+              </a> </font></b></font></div></td>
+        </tr>
+=09=09=09=09  <script language=3D"javascript">
+  function EsValidoEmail(FormName,ElemName)
+  {
+    var EmailOk  =3D true;
+    var Temp     =3D document=2Eforms[FormName]=2Eelements[ElemName];
+    var AtSym    =3D Temp=2Evalue=2EindexOf('@');
+    var Period   =3D Temp=2Evalue=2ElastIndexOf('=2E');
+    var Space    =3D Temp=2Evalue=2EindexOf(' ');
+    var Length   =3D Temp=2Evalue=2Elength - 1;   // Array is from 0 to le=
+ngth-2
+
+    if ((AtSym < 1) ||                      // Antes de '@' deben haber po=
+r lo menos 2 car=2E
+        (Period <=3D AtSym+1) ||              // Deben haber por menos 1 c=
+ar=2E entre '@' y '=2E'
+        (Period =3D=3D Length ) ||              // Despues del "=2E" debe =
+haber por lo menos 2 car=2E
+        (Space  !=3D -1))                     // No empty spaces permitted=
+
+    { =20
+      EmailOk =3D false;
+    }
+    return EmailOk;
+  }
+
+  function EsValidoFono(str)=20
+  {=20
+    var FonoOk  =3D true;
+    var valid =3D "0123456789()-+ ";
+    var temp;
+    for (var i=3D0; i<str=2Elength; i++)
+    {
+      temp =3D "" + str=2Esubstring(i, i+1);
+      if (valid=2EindexOf(temp) =3D=3D "-1") FonoOk =3D false;
+    }
+    return FonoOk;
+  }=20
+
+  function EsValidoConsulta(str)=20
+  {=20
+    var ok  =3D false;
+    var valid =3D "AEIOUaeiou";
+    var temp;
+
+    for (var i=3D0; i<str=2Elength; i++)
+    {
+      temp =3D "" + str=2Esubstring(i, i+1);
+      if (valid=2EindexOf(temp) >=3D "0") ok =3D true;
+    }
+    return ok;
+  }=20
+  function validate()
+  {
+
+    // VALIDA QUE TALLER NO ESTE VACIO
+    if (document=2Eforms["consulta"]=2EDiplomado=2Evalue =3D=3D "")
+    {
+      alert("Por favor ingrese Nombre de Diplomado");
+      document=2Eforms["consulta"]=2EDiplomado=2Efocus();
+      return false;
+    }
+
+    // VALIDA QUE PARTICIPANTE NO ESTE VACIO
+    if (document=2Eforms["consulta"]=2Eparticipante=2Evalue =3D=3D "")
+    {
+      alert("Por favor ingrese su Participante");
+      document=2Eforms["consulta"]=2Eparticipante=2Efocus();
+      return false;
+    }
+
+    // VALIDA QUE EMPRESA NO ESTE VACIO
+    if (document=2Eforms["consulta"]=2Eempresa=2Evalue =3D=3D "")
+    {
+      alert("Por favor ingrese su Empresa");
+
+
+      document=2Eforms["consulta"]=2Eempresa=2Efocus();
+      return false;
+    }=09
+
+    // VALIDA QUE PARTICIPANTE NO ESTE VACIO
+    if (document=2Eforms["consulta"]=2Efono=2Evalue =3D=3D "")
+    {
+      alert("Por favor ingrese su Fono");
+      document=2Eforms["consulta"]=2Efono=2Efocus();
+      return false;
+    }
+=09
+    // VALIDA QUE FONO SEA VALIDO SI EXISTE
+    if (document=2Eforms["consulta"]=2Efono=2Evalue !=3D "")
+    {
+      if (!EsValidoFono(document=2Eforms["consulta"]=2Efono=2Evalue))
+      {
+        alert("El numero de Tel=E9fono no es valido");
+        document=2Eforms["consulta"]=2Efono=2Efocus();
+        return false;
+      }
+    }
+
+    // VALIDA QUE EMAIL NO ESTE VACIO Y SEA VALIDO
+    if (document=2Eforms["consulta"]=2Eemail=2Evalue =3D=3D "")
+    {
+      alert("Por favor ingrese su direcci=F3n de correo electronico");
+      document=2Eforms["consulta"]=2Eemail=2Efocus();
+      return false;
+    }
+    else
+    { =20
+      if (EsValidoEmail("consulta","email") =3D=3D false)
+      {
+        alert("La direccion de correo electronico no es valida");
+        document=2Eforms["consulta"]=2Eemail=2Efocus();
+        return false;
+      }
+    }
+
+    // VALIDA QUE CONSULTA NO ESTE VACIO Y SEA VALIDO
+    if (document=2Eforms["consulta"]=2Econsulta=2Evalue =3D=3D "")
+    {
+      alert("Por favor ingrese su Consulta");
+      document=2Eforms["consulta"]=2Econsulta=2Efocus();
+      return false;
+    }
+    else
+    { =20
+      if (!EsValidoConsulta(document=2Eforms["consulta"]=2Econsulta=2Evalu=
+e))
+      {
+        alert("La consulta no es v=E1lida");
+        document=2Eforms["consulta"]=2Econsulta=2Efocus();
+        return false;
+      }
+    }
+
+  }
+
+ =20
+  </script>
+        <tr>=20
+          <td> <form name=3D"consulta" action=3D"mailto:info@capacitachile=
+=2Ecom;jcarriman@fuerzaexportadora=2Ecl?Subject=3DCup=F3n de Diplomado Ges=
+ti=F3n Comercio Exterior 14" method=3D"POST" ENCTYPE=3D"TEXT/PLAIN" onsubm=
+it=3D"return validate (this)">
+              <!--=09          <FORM ACTION=3D"mailto:jcarriman@asexmachil=
+e=2Ecl" METHOD=3D"post" ENCTYPE=3D"TEXT/PLAIN" name=3D"consulta" id=3D"con=
+sulta"> -->
+              <div align=3D"center">=20
+                <table width=3D"400" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+                  <tr>=20
+                    <td><img src=3D"http://www=2Ecapacitachile=2Ecom/image=
+nes/cel_1_02=2Egif" width=3D"450" height=3D"1"></td>
+                  </tr>
+                  <tr>=20
+                    <td background=3D"http://www=2Ecapacitachile=2Ecom/ima=
+genes/cel_1_01=2Egif">=20
+                      <table align=3D"center" cellspacing=3D"0" cellpaddin=
+g=3D"5" width=3D"380" border=3D"0">
+                        <tr>=20
+                          <td width=3D"125"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">Formulario:=20
+                            <font size=3D"1"><strong>(*)</strong></font></=
+font></td>
+                          <td colspan=3D"2"><div align=3D"center"><font si=
+ze=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif">=20
+                              <input name=3D"formulario" type=3D"radio" va=
+lue=3D"Informaci&oacute;n" checked>
+                              Informaci&oacute;n <em>=20
+                              <input type=3D"radio" name=3D"formulario" va=
+lue=3D"Inscripci&oacute;n">
+                              </em> Ins<font face=3D"Verdana">cripci&oacut=
+e;n</font></font></div></td>
+                        </tr>
+                        <tr>=20
+                          <td><font face=3D"Verdana" size=3D"2">Diplomado =
+:</font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif"><font color=3D"#000000"><strong>&quot;Ge=
+sti&oacute;n=20
+                            Comercio Exterior&quot;</strong></font><strong=
+>=20
+                            <input name=3D"Diplomado" type=3D"hidden" id=3D=
+"Taller2" value=3D"Gesti&oacute;n Comercio Exterior 14">
+                            </strong></font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Participante:&nbsp;</font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">=20
+                            &nbsp;=20
+                            <input name=3D"participante" type=3D"text" id=3D=
+"participante" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Cargo:</font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"cargo" type=3D"text" id=3D"carg=
+o" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td height=3D"32"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">Empresa:&nbsp; </font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"empresa" type=3D"text" id=3D"em=
+presa" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Giro:=20
+                            </font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"giro" type=3D"text" id=3D"giro"=
+ size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Direcci&oacute;n:=20
+                            </font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"direccion" type=3D"text" id=3D"=
+direccion" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Comuna:=20
+                            </font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"comuna" type=3D"text" id=3D"com=
+una" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Tel&eacute;fono:&nbsp;</font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"fono" type=3D"text" id=3D"fono"=
+ size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Fax:=20
+                            </font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"fax" type=3D"text" id=3D"fax" s=
+ize=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">E-mail:&nbsp; </font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"email" type=3D"text" id=3D"emai=
+l" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Ejecutiva:</font></td>
+                          <td width=3D"110"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">=20
+                            <input type=3D"radio" name=3D"ejecutiva" value=
+=3D"Marta">
+                            Marta <br>
+                            <input type=3D"radio" name=3D"ejecutiva" value=
+=3D"Jacqueline">
+                            Jacqueline </font></td>
+                          <td width=3D"131"><input type=3D"radio" name=3D"=
+ejecutiva" value=3D"Melissa">=20
+                            <font size=3D"2" face=3D"Verdana, Arial, Helve=
+tica, sans-serif">Melissa<br>
+                            <input type=3D"radio" name=3D"ejecutiva" value=
+=3D"Patricia">
+                            Patricia </font></td>
+                        </tr>
+                        <tr>=20
+                          <td><font size=3D"2" face=3D"Verdana, Arial, Hel=
+vetica, sans-serif">Otro=20
+                            Ejecutivo</font></td>
+                          <td colspan=3D"2"><font size=3D"2" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">&nbsp;=20
+                            <input name=3D"otroeje" type=3D"text" id=3D"ot=
+roeje" size=3D"30" maxlength=3D"50">
+                            </font></td>
+                        </tr>
+                      </table>
+                      <table align=3D"center" width=3D"380" border=3D"0">
+                        <tr>=20
+                          <td><div align=3D"center"><font size=3D"2" face=3D=
+"Verdana, Arial, Helvetica, sans-serif">Socio=20
+                              Asexma<br>
+                              <input type=3D"radio" name=3D"socio" value=3D=
+"Si">
+                              Si<br>
+                              <input name=3D"socio" type=3D"radio" value=3D=
+"No" checked>
+                              No</font></div></td>
+                        </tr>
+                      </table>
+                      <br> <table align=3D"center" width=3D"100%" border=3D=
+"0">
+                        <tr>=20
+                          <td><div align=3D"center"><font size=3D"2" face=3D=
+"Verdana, Arial, Helvetica, sans-serif"><strong>Los=20
+                              Campos que se encuentran con <font size=3D"1=
+">(*)</font>=20
+                              son obligatorios</strong></font></div></td>
+                        </tr>
+                      </table>
+                      <p align=3D"center">=20
+                        <input name=3D"submit" type=3D"submit" value=3D"En=
+viar">
+                        <input name=3D"reset" type=3D"reset" value=3D"Limp=
+iar">
+                      </p>
+                      <table width=3D"100%" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" >
+                        <tr>=20
+                          <td><img src=3D"http://www=2Ecapacitachile=2Ecom=
+/imagenes/cel_1_02=2Egif" width=3D"450" height=3D"1"></td>
+                        </tr>
+                      </table></td>
+                  </tr>
+                </table>
+              </div>
+            </form></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td height=3D"28"><div align=3D"center"><font size=3D"1" face=3D"Verda=
+na, Arial, Helvetica, sans-serif">Para=20
+        anular inscripciones: Notificar por escrito antes de 48 Horas del =
+inicio=20
+        del evento=2E De lo contrario, se considerar&aacute; que la person=
+a asiste=20
+        y se tramitar&aacute; el cobro correspondiente=2E</font> </div></t=
+d>
+  </tr>
+  <tr bgcolor=3D"#FFFFFF">=20
+    <td height=3D"21"> <div align=3D"center">=20
+        <hr>
+      </div></td>
+  </tr>
+  <tr bgcolor=3D"#FFFFFF">=20
+    <td height=3D"44"><div align=3D"center"> <font face=3D"arial" size=3D"=
+1">Este mensaje=20
+        no es SPAM, el remitente es conocido y usted puede borrarse de la =
+lista=20
+        que hemos usado para contactarlo=2E Si ya no quiere recibir m=E1s =
+informaci=F3n=20
+        de Asexma Chile, haga <a href=3D"http://www=2Esupermedios=2Ecom/ad=
+min/mailing/remover=2Ephp?proyecto=3D82">click=20
+        aqu=ED</a> y envie el correo que aparecera en&nbsp; algunos segund=
+os=2E</font>=20
+      </div></td>
+  </tr>
+</table>
+<br>
+</body>
+</html>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+

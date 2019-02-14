@@ -1,0 +1,88 @@
+Received: from relay1.netspace.net.au (203.10.110.83)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:26 -0000
+Received: by relay1.netspace.net.au (Postfix)
+	id 3043834D062; Tue, 19 Jul 2005 20:59:23 +1000 (EST)
+Date: Tue, 19 Jul 2005 20:59:23 +1000 (EST)
+From: MAILER-DAEMON@netspace.net.au (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="ED83934DADC.1121770763/relay1.netspace.net.au"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105923.3043834D062@relay1.netspace.net.au>
+
+This is a MIME-encapsulated message.
+
+--ED83934DADC.1121770763/relay1.netspace.net.au
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host relay1.netspace.net.au.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<gperkes@netspace.net.au>: host mail-in.netspace.net.au[210.15.254.248] said:
+    550 <gperkes@netspace.net.au>: Recipient address rejected:
+    gperkes@netspace.net.au has expired (in reply to RCPT TO command)
+
+--ED83934DADC.1121770763/relay1.netspace.net.au
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; relay1.netspace.net.au
+X-Postfix-Queue-ID: ED83934DADC
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 20:59:14 +1000 (EST)
+
+Final-Recipient: rfc822; gperkes@netspace.net.au
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host mail-in.netspace.net.au[210.15.254.248] said:
+    550 <gperkes@netspace.net.au>: Recipient address rejected:
+    gperkes@netspace.net.au has expired (in reply to RCPT TO command)
+
+--ED83934DADC.1121770763/relay1.netspace.net.au
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from mailwisconsin.com (YahooBB218135092134.bbtec.net [218.135.92.134])
+	by relay1.netspace.net.au (Postfix) with SMTP id ED83934DADC
+	for <gperkes@netspace.net.au>; Tue, 19 Jul 2005 20:59:14 +1000 (EST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359790;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: gperkes@netspace.net.au
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891016">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--ED83934DADC.1121770763/relay1.netspace.net.au--

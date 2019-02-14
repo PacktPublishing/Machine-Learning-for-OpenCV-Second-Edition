@@ -1,0 +1,41 @@
+Message-ID: <30434239.1075855014811.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 20:33:00 -0800 (PST)
+From: ramona.betancourt@enron.com
+To: lindy.donoho@enron.com, jeffery.fawcett@enron.com, steven.harris@enron.com, 
+	kevin.hyatt@enron.com, lorraine.lindberg@enron.com, 
+	tk.lohman@enron.com, michelle.lokay@enron.com
+Subject: TW LFT System Enhancement
+Cc: linda.trevino@enron.com, elizabeth.brown@enron.com, rick.dietz@enron.com, 
+	dennis.lee@enron.com, dale.eldridge@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	albert.hernandez@enron.com, christine.mcevoy@enron.com, 
+	beverly.miller@enron.com, tracy.minter@enron.com, 
+	amy.mulligan@enron.com, cynthia.rivers@enron.com, 
+	darrell.schoolcraft@enron.com, linda.ward@enron.com, 
+	sheila.nacey@enron.com, lynn.blair@enron.com, julia.white@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: linda.trevino@enron.com, elizabeth.brown@enron.com, rick.dietz@enron.com, 
+	dennis.lee@enron.com, dale.eldridge@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	albert.hernandez@enron.com, christine.mcevoy@enron.com, 
+	beverly.miller@enron.com, tracy.minter@enron.com, 
+	amy.mulligan@enron.com, cynthia.rivers@enron.com, 
+	darrell.schoolcraft@enron.com, linda.ward@enron.com, 
+	sheila.nacey@enron.com, lynn.blair@enron.com, julia.white@enron.com
+X-From: Ramona Betancourt <Ramona Betancourt/ET&S/Enron@Enron>
+X-To: Lindy Donoho <Lindy Donoho/ET&S/Enron@ENRON>, Jeffery Fawcett <Jeffery Fawcett/ET&S/Enron@ENRON>, Steven Harris <Steven Harris/ET&S/Enron@ENRON>, Kevin Hyatt <Kevin Hyatt/ET&S/Enron@Enron>, Lorraine Lindberg <Lorraine Lindberg/ET&S/Enron@ENRON>, TK Lohman <TK Lohman/ET&S/Enron@ENRON>, Michelle Lokay <Michelle Lokay/ET&S/Enron@Enron>
+X-cc: Linda Trevino <Linda Trevino/ET&S/Enron@ENRON>, Elizabeth Brown <Elizabeth Brown/ET&S/Enron@ENRON>, Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>, Dennis Lee <Dennis Lee/ET&S/Enron@ENRON>, Dale Eldridge <Dale Eldridge/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, Albert Hernandez <Albert Hernandez/ET&S/Enron@ENRON>, Christine McEvoy <Christine McEvoy/ET&S/Enron@Enron>, Beverly Miller <Beverly Miller/ET&S/Enron@ENRON>, Tracy Minter <Tracy Minter/ET&S/Enron@Enron>, Amy Mulligan <Amy Mulligan/ET&S/Enron@ENRON>, Cynthia Rivers <Cynthia Rivers/ET&S/Enron@ENRON>, Darrell Schoolcraft <Darrell Schoolcraft/ET&S/Enron@ENRON>, Linda Ward <Linda Ward/ET&S/Enron@ENRON>, Sheila Nacey <Sheila Nacey/ET&S/Enron@ENRON>, Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>, Julia White <Julia White/ET&S/Enron@ENRON>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+FYI,
+
+I have been testing the enhancement changes for LFT contracts that was documented last April and this item will move to production the weekend.  This change will move the LFT validation process from the allocation function to the Rollover and Balance function. To explain,  when TW post a notice that  "No LFT is Available" for a location and gas day, the system will automatically schedule the LFT contract to zero for that day at that point during the 1st scheduling process after the nomination deadline which is called rollover and balance process. The current process today cuts the LFT contracts during our allocation function, which is the last process done on TW. 
+
+We have also added the waiver flag to the contract system that identifies the LFT shippers who have signed the waiver granting TW responsibility to change their nomination from firm to overrun on days when no LFT service is available.
+Both Lorraine and TK have a copy of this draft document that I created. Please review this waiver document and finalize any changes to it so this new service can be offered to the shippers. If you would like to post this waiver document to our web site under forms, please let me know.  Finally, the contract team will keep these waiver documents with the LFT contract file, as well as in their waiver log book.
+
+Thanks Ramona  

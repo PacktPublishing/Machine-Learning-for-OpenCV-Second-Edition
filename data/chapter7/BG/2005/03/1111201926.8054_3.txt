@@ -1,0 +1,48 @@
+Return-Path: <qcxhydkk@yapost.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 6020 invoked from network); 19 Mar 2005 00:47:36 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 19 Mar 2005 00:47:36 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 19 Mar 2005 00:47:36 -0000
+Received: (qmail 14367 invoked from network); 19 Mar 2005 00:47:35 -0000
+Received: from 69.5.6.152 (unknown [218.53.208.108])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 19 Mar 2005 00:47:33 -0000
+Received: from nuclide brahmaputra (firewall.proserpineroute.com [0.4.128.138]) by 218.53.208.108 (8.1.5/4.4.0) with ESMTP id BX55398 for <rait@bruce-guenter.dyndns.org>; Fri, 18 Mar 2005 17:36:16 -0700
+Message-ID: <e9261n30VA1G510S03BP51QJR57881653U474165@218.53.208.108>
+Reply-To: "Dianna Greer" <qcxhydkk@yapost.com>
+From: "Dianna Greer" <qcxhydkk@yapost.com>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Try this, it lasts longer
+Date: Fri, 18 Mar 2005 23:43:16 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--1097481599865176"
+Content-Length: 550
+Lines: 21
+
+----1097481599865176
+Content-Type: text/plain;
+	charset="iso-2634-5"
+Content-Transfer-Encoding: quoted-printable
+
+Ge/n/e/r/ic ci/a/l/is , at cheap prices.
+Most places charge $20, we charge $2. Quite a difference.
+
+Ci.a.li.s is known as a Sup.er-V=EDa.g.ra or Weekend-V=EDag..ra because it=
+s effects start sooner and last much longer. 
+Shipped worldwide.
+
+Your easy-to-use solution is here:      http://puerperal.com/cs/?sash 
+----- 
+The link below is for those who hate spam... 
+ http://puerperal.com/rm.php?sash
+-=3D=3D- 
+
+
+
+----1097481599865176--

@@ -1,0 +1,55 @@
+Received: from lon-mail-4.gradwell.net (HELO lon-mail-4-relay.gradwell.net) (193.111.201.130)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:10 -0000
+Received: from mailnull by lon-mail-4-relay.gradwell.net with local (Exim 4.34; FreeBSD)
+	id 1DuppO-00050r-87
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 11:59:58 +0100
+X-Failed-Recipients: info@cadiparma.it
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@lon-mail-4-relay.gradwell.net>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1DuppO-00050r-87@lon-mail-4-relay.gradwell.net>
+Date: Tue, 19 Jul 2005 11:59:58 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@cadiparma.it
+    SMTP error from remote mailer after end of data:
+    host dns.cadiparma.it [194.184.205.216]: 554 5.7.1 Message cannot be accepted, content filter rejection Messaggio respinto - SPAM - Rejected message
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [61.54.44.57] (helo=mailwisconsin.com)
+	by lon-mail-4-relay.gradwell.net with smtp (Exim 4.34; FreeBSD)
+	id 1Dupp4-0004th-O1
+	for info@cadiparma.it; Tue, 19 Jul 2005 11:59:48 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359951;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@cadiparma.it
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891197">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>

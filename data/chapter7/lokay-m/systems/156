@@ -1,0 +1,54 @@
+Message-ID: <18136248.1075844174457.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 09:52:00 -0800 (PST)
+From: jean.mcfarland@enron.com
+To: michael.bodnar@enron.com, sean.bolks@enron.com, theresa.branney@enron.com, 
+	craig.buehler@enron.com, bob.burleson@enron.com, 
+	reyna.cabrera@enron.com, lindy.donoho@enron.com, 
+	jeffery.fawcett@enron.com, lee.ferrell@enron.com, 
+	morgan.gottsponer@enron.com, steven.harris@enron.com, 
+	stephen.herber@enron.com, kevin.hyatt@enron.com, 
+	martha.janousek@enron.com, dana.jones@enron.com, 
+	lorraine.lindberg@enron.com, tk.lohman@enron.com, 
+	michelle.lokay@enron.com, robert.mason@enron.com, 
+	penny.mccarran@enron.com, vernon.mercaldo@enron.com, 
+	jan.moore@enron.com, sue.neville@enron.com, don.powell@enron.com, 
+	pilar.ramirez@enron.com, audrey.robertson@enron.com, 
+	michael.stage@enron.com, kay.threet@enron.com, 
+	india.torres@enron.com, kimberly.watson@enron.com, 
+	linda.wehring@enron.com, steve.weller@enron.com, 
+	jim.wiltfong@enron.com
+Subject: FW: Windows 2000 Migration:  Where are your files stored?
+Cc: tyler.theobald@enron.com, mike.guzman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tyler.theobald@enron.com, mike.guzman@enron.com
+X-From: Jean Mcfarland
+X-To: Michael Bodnar, Sean Bolks, Theresa Branney, Craig Buehler, Bob Burleson, Reyna Cabrera, Lindy Donoho, Jeffery Fawcett, Lee Ferrell, Morgan Gottsponer, Steven Harris, Stephen Herber, Kevin Hyatt, Martha Janousek, Dana Jones, Lorraine Lindberg, TK Lohman, Michelle Lokay, Robert Mason, Penny McCarran, Vernon Mercaldo, Jan Moore, Sue Neville, Don Powell, Pilar Ramirez, Audrey Robertson, Michael G Stage, Kay Threet, India Torres, Kimberly Watson, Linda Wehring, Steve Weller, Jim Wiltfong
+X-cc: Tyler Theobald, Mike Guzman
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Please take a few minutes to read and respond to this message as soon as 
+possible!
+
+Some of you are storing and accessing files in locations that the migration 
+team may not aware of.  To make sure that all the files you access get 
+migrated over, please reply and identify all the drives, servers, and folders 
+where you routinely save your information.  Also, remember that no data files 
+should be stored on your local PC (c: or d: drive).  If you have been keeping 
+files there, you must copy them up to your H: drive before the migration!
+
+Please click "reply with history", then list all your file locations under 
+here (you can delete the examples) and then send it.  Thanks!
+
+ DESCRIPTION   WHO ACCESS THIS? DRIVE LETTER LOCATION
+(example) My personal files  just me   H:  kpowers on nngomaha\sys2\user
+(example) marketing service store Korbelik, Nielsen, Peebles U:  sys2 on 
+nngomaha\sys2\servicestore
+(example) F&T data files  everyone in marketing K:  sys2 on gta\shared\f&trees
+(example) SAS files  just me   none  sys2 on nng_cntl\kens_files
+
+
+Thanks.  Jean

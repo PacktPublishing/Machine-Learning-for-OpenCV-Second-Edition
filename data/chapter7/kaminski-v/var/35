@@ -1,0 +1,36 @@
+Message-ID: <17864674.1075856641451.JavaMail.evans@thyme>
+Date: Wed, 7 Mar 2001 00:32:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: isaac.rodriguez@enron.com, jason.sokolov@enron.com, rabi.de@enron.com, 
+	jaesoo.lew@enron.com
+Subject: Re: "Expected Tail Loss" for Equity portfolio
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Tanya Tamarchenko
+X-To: Isaac Rodriguez, Jason Sokolov, Rabi De, Jaesoo Lew
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Everybody,
+
+I attached here the Equity Portfolio VAR spreadsheet model (Version X).
+The improvement over the previous version (1X) is that it calculates
+an additional measure of risk - Expected Tail Loss.  
+
+Expected Tail Loss is the expectation of the loss under the condition that
+losses exceed VAR . As you know Equity VAR model allows you to calculate VAR
+for the percentile specified in the input sheet.
+
+Now you have to click 2 more buttons on the "VarInput" sheet:
+"Calculate Gamma and Delta" and "Fast VAR".
+
+Isaac, please run the model to make sure it works for you.
+
+Regards,
+
+Tanya

@@ -1,0 +1,29 @@
+Message-ID: <8549963.1075839947158.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:06:04 -0700 (PDT)
+From: ryan.slinger@enron.com
+To: shift.portland@enron.com
+Subject: NEW TRANSMISSION IDEA
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Slinger, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSLINGER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+As the southwest heats up, or the ISO goes into stages of emergency, or path 15 is congested north to south we will want to get power from the northwest utilities down to APS and so on in the southwest.  We can do this many ways but one that I have discovered that may have much capacity is as follows.
+
+1.  NW Utility to PAC on BPA(T)
+2.  PACW to IPC(T)@Enterprise(ENPR) on PAC(T)
+3.  IPC@ENPR to PAC(T)@Borah Brady(BOBR) on IPC(T)
+4.  IPC@BOBR to Four Corners(FC3) on PAC(T)
+5.  Sink with anyone at four corners or buy tranny over to palo or mead.
+
+I'm not sure how long there is going to be room but for monday there is 400mw of room on this path.
+
+
+Enjoy,
+
+Slinger

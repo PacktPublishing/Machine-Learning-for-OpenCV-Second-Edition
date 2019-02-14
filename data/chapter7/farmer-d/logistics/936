@@ -1,0 +1,123 @@
+Message-ID: <8410730.1075854127335.JavaMail.evans@thyme>
+Date: Tue, 21 Mar 2000 08:19:00 -0800 (PST)
+From: michael.eiben@enron.com
+To: tom.acton@enron.com, daren.farmer@enron.com, rita.wynne@enron.com
+Subject: Re: PG&E Texoma Volumes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael Eiben
+X-To: Tom Acton, Daren J Farmer, Rita Wynne
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+fyi
+---------------------- Forwarded by Michael Eiben/HOU/ECT on 03/21/2000 04:18 
+PM ---------------------------
+
+
+Gary Anderson@ENRON on 03/21/2000 02:25:52 PM
+To: Michael Eiben/HOU/ECT@ECT
+cc: Jeff May/GPGFIN/Enron@ENRON, Charlotte Hawkins/HOU/ECT@ECT, Robert E 
+Lloyd/HOU/ECT@ECT, Gary A Hanks/HOU/ECT@ECT, Lauri A Allen/HOU/ECT@ECT, 
+George Grant/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Steve 
+Venturatos/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT 
+Subject: Re: PG&E Texoma Volumes  
+
+This is an outside measured volume that we don't receive volumes on until 
+month's end so systematically, no information equals zero. SPI, the software 
+vendor for MIPS is investigating all of the rules currently in place for file 
+transfers, particularly  0 volumes. The only possible solution is to tag all 
+zero volumes sent in the nightly file process as (i) incomplete. I will let 
+you know the outcome of this investigation and the monies required to 
+complete. We may require a work order to complete based on the outcome of the 
+investigation. 
+
+
+
+Michael Eiben@ECT
+03/21/2000 10:50 AM
+To: Jeff May/GPGFIN/Enron@ENRON, Gary Anderson/GPGFIN/Enron@ENRON
+cc: Charlotte Hawkins/HOU/ECT@ECT, Robert E Lloyd/HOU/ECT@ECT, Gary A 
+Hanks/HOU/ECT@ECT, Lauri A Allen/HOU/ECT@ECT, George Grant/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Steve Venturatos/HOU/ECT@ECT, Brenda F 
+Herod/HOU/ECT@ECT 
+
+Subject: PG&E Texoma Volumes
+
+Jeff/Gary,
+ Where is measurement in the process of sending Pipeline Operations more 
+complete data?  We continue to have this problem at various bidirectional 
+meters and meter 980071 below is the latest casuality.  When MIPS sends 
+Pipeline Operations a zero prelim, this becomes the best available number and 
+overlays the estimate that Gas Control sends us.  When this happens & 
+scheduling doesn't catch to override the zero, the desk's expense is 
+understated. This is causing a huge mess for Texas Operations.  What is the 
+plan to move this up on measurements priority list?  We need an answer ASAP!!
+
+Charlotte, 
+ At what other meters are we having this problem?  
+
+ 
+
+MVE
+---------------------- Forwarded by Michael Eiben/HOU/ECT on 03/21/2000 10:30 
+AM ---------------------------
+   
+	
+	
+	From:  Charlotte Hawkins                           03/21/2000 09:54 AM
+	
+
+To: Jeff May/GPGFIN/Enron@ENRON, Michael Eiben/HOU/ECT@ECT
+cc: Pat Clynes/Corp/Enron@ENRON, George Grant/HOU/ECT@ECT, Robert E 
+Lloyd/HOU/ECT@ECT, Gary A Hanks/HOU/ECT@ECT 
+Subject: PG&E Texoma Volumes
+
+I spoke with Romeo D'Souza this morning regarding the on-going problem of 
+MIPS feeding zeros to POPS when incomplete data is received.  
+
+In light of the e-mail below regarding how important it is that we receive 
+accurate data from MIPS ....  could you please update me on the status of 
+this correction.  
+
+Thank you so much.
+
+Charlotte Hawkins
+
+---------------------- Forwarded by Charlotte Hawkins/HOU/ECT on 03/21/2000 
+09:35 AM ---------------------------
+
+
+Lauri A Allen
+03/21/2000 09:04 AM
+To: Robert E Lloyd/HOU/ECT@ECT, Tom Acton/Corp/Enron@ENRON, Charlotte 
+Hawkins/HOU/ECT@ECT
+cc: Daren J Farmer/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Bryan 
+Hull/HOU/ECT@ECT, Gary A Hanks/HOU/ECT@ECT 
+Subject: PG&E Texoma Volumes
+
+In reviewing some of the imbalance numbers, I discovered that Valero Texoma 
+(#71) BAV volumes have not fed into POPS since 3/14 causing an out of balance 
+at the meter in excess of 500,000mm month to date.  The more critical part of 
+this problem, however, is that POPS has fed 0 volumes back to Sitara on some 
+of the HPLC deals.  This means that these purchase volumes (expenses) have 
+not been picked up in Tom's P&L and are, instead, sitting in UA4.  To the 
+extent that the purchase prices vary from the UA4 value, the P&L may take a 
+hit when these actual volumes flow through.
+
+I realize that Kim is out and that you guys are stretched thin, however, a 
+problem of this magnitude needs to be addressed as soon as it's discovered.  
+Someone needs to be overriding the 0 volumes so that Sitara is receiving 
+correct information and the P&L is kept as accurate as possible.
+
+Please give me a call if you have any questions.
+
+
+
+
+
+
+

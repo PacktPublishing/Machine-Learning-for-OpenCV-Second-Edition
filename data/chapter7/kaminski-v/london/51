@@ -1,0 +1,51 @@
+Message-ID: <31743911.1075856609358.JavaMail.evans@thyme>
+Date: Tue, 24 Oct 2000 11:17:00 -0700 (PDT)
+From: rodrigo.lamas@enron.com
+To: david.port@enron.com, vince.kaminski@enron.com, anjam.ahmad@enron.com
+Subject: Inflation Model Review - Final Version
+Cc: zimin.lu@enron.com, steven.leppard@enron.com, oliver.gaylard@enron.com, 
+	suzanne.bain@enron.com, bjorn.hagelmann@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: zimin.lu@enron.com, steven.leppard@enron.com, oliver.gaylard@enron.com, 
+	suzanne.bain@enron.com, bjorn.hagelmann@enron.com
+X-From: Rodrigo Lamas
+X-To: David Port, Vince J Kaminski, Anjam Ahmad
+X-cc: Zimin Lu, Steven Leppard, Oliver Gaylard, Suzanne Bain, Bjorn Hagelmann
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+This morning a draft of RAC's Inflation Model Review was discussed with Anjam.
+
+All points as presented in the draft were agreed upon.
+
+Also, four new points were amended as suggested by Anjam:
+
+The RPI short-term model could be improved by a combination of the 
+information available from the GILTS and RPI Swaps market.
+Add:  "This is an issue across all Enron's econometric models." to section 
+PLLU and DZCV Short-term, First Point.
+To implement some of the suggestions requires additional statistical and 
+programming resources.
+Additionnal human resources with advanced econometric modelling skills are 
+required given the current workload of the european research team.
+
+Please find the final version attached.
+
+Please note that the short term solution has been to freeze the curve.
+
+The medium to long term solution involves futher research towards a sounder 
+and more efficient model.
+Given the current workload of the European Research Group, it is necessary to 
+hire a new member of staff with strong economics and econometrics background 
+to address this issue properly.
+
+RAC will communicate to the Financial Trading Group and Risk Management the 
+actions to take as the curve will be frozen.
+
+Thanks,
+
+Rodrigo
+

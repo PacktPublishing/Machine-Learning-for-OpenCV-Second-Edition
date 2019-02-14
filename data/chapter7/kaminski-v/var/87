@@ -1,0 +1,120 @@
+Message-ID: <22512271.1075856642672.JavaMail.evans@thyme>
+Date: Thu, 27 Jul 2000 01:52:00 -0700 (PDT)
+From: anjam.ahmad@enron.com
+To: andreas.barschkis@mgusa.com
+Subject: Re: Your Comments on Metals VaR Model
+Cc: vince.kaminski@enron.com, tanya.tamarchenko@enron.com, 
+	grant.masson@enron.com, kirstee.hewitt@enron.com, 
+	dale.surbey@enron.com, cantekin.dincerler@enron.com, 
+	lloyd.fleming@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, tanya.tamarchenko@enron.com, 
+	grant.masson@enron.com, kirstee.hewitt@enron.com, 
+	dale.surbey@enron.com, cantekin.dincerler@enron.com, 
+	lloyd.fleming@enron.com
+X-From: Anjam Ahmad
+X-To: Andreas.Barschkis@mgusa.com @ ENRON
+X-cc: Vince J Kaminski, Tanya Tamarchenko, Grant Masson, Kirstee Hewitt, Dale Surbey, Cantekin Dincerler, Lloyd Fleming
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear Andreas,
+
+Thanks for the very useful response and information on positions.  I have 
+handed over primary responsibility for metals VaR to Kirstee Hewitt (at least 
+as far as London is concerned) and she will follow up on the points you 
+kindly reported, although I am of course available to assist where 
+necessary.  Tanya will remain the point of contact for VaR modelling in 
+Houston, and of course Kirstee and Tanya will work together on this to 
+resolve these and further issues.  I would be happy to help set up meetings 
+for you in the London office when you visit next week, with Kirstee, myself 
+and anyone else that you would like to meet with and we very much look 
+forward to your visit - please let me know if you need any help with the 
+arrangements.
+
+Regards,
+
+Anjam
+
+0207 783 5383
+---------------------- Forwarded by Anjam Ahmad/LON/ECT on 27/07/2000 08:40 
+---------------------------
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Andreas.Barschkis@mgusa.com                           27/07/2000 00:36
+	
+
+To: Anjam.Ahmad@enron.com, Kirstee.Hewitt@enron.com
+cc: Bjorn_Hagelmann@mgusa.com 
+
+Subject: Re:VARMODEL_Live.XLS
+
+
+
+Anjam,
+thanks for your VAR Model.
+I would like to point out the following:
+1) Position data: I noted that the outright (longs + Shorts) for copper
+include positions which we should not use, i.e. R. Wolff quantities. This
+positions are imputed into the system at their integrity (some legs/hedges
+are missing)
+This affects copper and Lead position for now. The issues should be have
+been sorted out by the end of this month, ie next week. So in Copper you
+have 25,487 mt to much and with Lead you have 13,579mt to much.(as of June
+19)
+
+2) Looking at copper position you calculate a VAR of -3,100,568 with a
+total outright of 63.765 mt.
+This seams too low. if I calculate 63765 x 1807 x3.99%=4.218 mil. US$. VAR
+(outright qty x price levelx risk factor, riskfactr as per Mercur).
+In my view we have been understating VaR in Mercur because we do not
+consider the spread position correctly (i.e. in detail). On a position like
+that I would expect a figure of around 6 mil US$.
+I guess the issue is in the volatility and in the holding period.
+
+3) your correlation matrix for the commodities is not final i assume as
+many fields are blank.
+
+Lets talk tomorrow on the phone.
+
+Attached please find the Position summary for the last week #30 (since June
+19) as requested by Kirstee.
+(See attached file: mgposw30.xls)
+Andreas Barschkis
+MG Metal & Commodity Corp.
+520 Madison Avenue, 28th Floor
+New York, NY 10022
+Tel: +1.212.715.5628
+Cel: +1.917.679.8287
+Fax: +1.212.715.5608
+E-mail: andreas.barschkis@mgusa.com
+
+
+
+
+                    Anjam.Ahmad@e
+                    nron.com             To:     Andreas.Barschkis@mgusa.com
+                                         cc:     Kirstee.Hewitt@enron.com
+                    07/26/2000           Subject:     Zipped VARMODEL_Live.XLS
+                    11:37 AM
+
+
+
+
+
+Hi Andreas,
+
+This is the semi-final spreadsheet - have only to include price curves for
+Gold and cocoa.  Kirstee and I would welcome your comments.
+
+Regards,
+
+Anjam
+
+
+
+ - mgposw30.xls

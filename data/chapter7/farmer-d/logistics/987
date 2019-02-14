@@ -1,0 +1,75 @@
+Message-ID: <4832357.1075854128498.JavaMail.evans@thyme>
+Date: Tue, 28 Mar 2000 14:17:00 -0800 (PST)
+From: scott.mills@enron.com
+To: eric.bass@enron.com, o'neal.winfree@enron.com, julie.meyers@enron.com, 
+	kathryn.cordes@enron.com, jennifer.denny@enron.com, 
+	dale.neuner@enron.com, daren.farmer@enron.com, pat.clynes@enron.com, 
+	michael.eiben@enron.com, karen.lambert@enron.com
+Subject: FYI -New Product on EOL
+Cc: brenda.herod@enron.com, sheri.thomas@enron.com, thomas.martin@enron.com, 
+	lisa.csikos@enron.com, steve.venturatos@enron.com, 
+	connie.sutton@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brenda.herod@enron.com, sheri.thomas@enron.com, thomas.martin@enron.com, 
+	lisa.csikos@enron.com, steve.venturatos@enron.com, 
+	connie.sutton@enron.com
+X-From: Scott Mills
+X-To: Eric Bass, O'Neal D Winfree, Julie Meyers, Kathryn Cordes, Jennifer deBoisblanc Denny, Dale Neuner, Daren J Farmer, Pat Clynes, Michael Eiben, Karen Lambert
+X-cc: Brenda Herod, Sheri Thomas, Thomas A Martin, Lisa Csikos, Steve Venturatos, Connie Sutton
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Just so everyone is on the same page:
+
+Based on Jennifer and Dale's discussions with Eric Bass, a new "tokenized 
+period" will be set up in EOL.  The intent of this period (quick overview) is 
+to allow for gas flow Monday through Friday and no flow on the weekends.  
+This will generally be traded for in full month or rest of the month 
+increments.
+
+It is my understanding the although the trade can be conveyed correctly to 
+the customer and priced accordingly using EOL, the trade itself (with 
+Multiple Monday - Friday, no flow during weekend periods) cannot be handled 
+internally by EOL.  Just as EOL is not able to handle this trade, the Sitara 
+bridge from EOL cannot handle this trade.  Because of this, there should be 
+heighten attention by Trade Capture given to the EOL Bridge monitor.  These 
+trades will error out and will have to be entered manually.
+
+An effort needs to be evaluated and prioritized by both applications (EOL and 
+Sitara) on how a deal with multi-periods can flow without human 
+intervention.  This has not been started.  In the meantime, a deal of this 
+nature will have to be entered manually.
+
+How do I know that a particular deal has multi-period flow?  Once the EOL 
+product has been set up, Jennifer and/or Dale will let all involved know.  
+The person(s) responsible for entering the deal will have to understand what 
+is meant by the EOL product's delivery period and enter the deal 
+accordingly.  
+
+For example, assume that a deal has been traded for April:
+
+  Four delivery periods (separate lines) should be included in the Sitara 
+ticket
+  
+  Start: 04/03 Stop: 04/07
+   04/10  04/14
+   04/17  04/21
+   04/24  04/28 
+  
+ Each delivery period (line) should have the same pricing
+
+ Remember to enter the EOL deal number when creating the Sitara trade.
+
+ Also remember that paths created in Unify assume the stop date is open 
+ended.  Every effort needs to be made to make sure the appropriate end date 
+is on the path; otherwise
+ the number of reconciling items will increase.
+
+Please forward this information to anyone else you think might be impacted.
+
+Any concerns, please contact Sheri Thomas or myself.
+
+SRM (x33548) 

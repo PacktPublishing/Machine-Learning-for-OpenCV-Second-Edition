@@ -1,0 +1,48 @@
+Message-ID: <30824033.1075856596092.JavaMail.evans@thyme>
+Date: Mon, 6 Nov 2000 02:37:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: stinson.gibner@enron.com, douglas.friedman@enron.com
+Subject: Ethylene Margin Collar Model
+Cc: bob.lee@enron.com, lee.jackson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bob.lee@enron.com, lee.jackson@enron.com
+X-From: Zimin Lu
+X-To: Stinson Gibner, Douglas S Friedman
+X-cc: Bob Lee, Lee Jackson
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear All:
+
+
+Let us meet early this afternoon. 
+
+Here is the overview of the model:
+
+1)The Ethylene margin collars are priced using Asian Spread option. 
+  The forward curve and volatility curve are provided by the desk.
+  The correlation between the Ethylene and Ethylene cost starts from the
+  historical spot correlation 50% and grows with the maturity.
+
+2) The overall 40MM payout cap is modeled sepereately.
+
+    I fitted the historical spread ( 10 years data ) to a mean reverting model
+   with stronger mean reverting strength on the floor side.  The model 
+produces
+   trajectories that are statistically simular to the historical data. 
+
+  Then the expected payoff is computed through simulation. 
+
+At the meeting we will discuss the assumptions and present the results.
+
+
+Zimin
+
+   
+
+ 
+
+

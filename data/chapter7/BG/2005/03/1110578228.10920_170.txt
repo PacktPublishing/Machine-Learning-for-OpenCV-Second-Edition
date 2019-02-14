@@ -1,0 +1,46 @@
+Return-Path: <uakkhbxm@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 22626 invoked by uid 115); 11 Mar 2005 11:52:19 -0000
+Received: from uakkhbxm@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.77.94.105):. 
+ Processed in 0.172313 secs); 11 Mar 2005 11:52:19 -0000
+Received: from unknown (HELO 209.5.178.248) (61.77.94.105)
+  by churchill.factcomp.com with SMTP; 11 Mar 2005 11:52:18 -0000
+Message-ID: <v4045j6NF9K052S67BQ38LXE64249970V511746@61.77.94.105>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+Location: 497 nimble killjoy
+Reply-To: "Tanner Mcleod" <uakkhbxm@yahoo.com>
+From: "Tanner Mcleod" <uakkhbxm@yahoo.com>
+To: "Bait" <bait@em.ca>
+Subject: Message subject
+Date: Fri, 11 Mar 2005 10:51:40 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--22400463528252690"
+
+----22400463528252690
+Content-Type: text/plain;
+	charset="iso-2745-4"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.gr8stuffs.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Dorothy Keith
+
+http://www.gr8stuffs.com/x/st.html
+
+
+----22400463528252690--

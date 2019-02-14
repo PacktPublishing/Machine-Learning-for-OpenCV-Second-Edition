@@ -1,0 +1,33 @@
+Message-ID: <31002473.1075856591488.JavaMail.evans@thyme>
+Date: Tue, 31 Oct 2000 06:44:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: william.bradford@enron.com
+Subject: credit exposure model
+Cc: stinson.gibner@enron.com, alex.huang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, alex.huang@enron.com
+X-From: Zimin Lu
+X-To: William S Bradford
+X-cc: Stinson Gibner, Alex Huang
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bill,
+
+Alex and I are working on the credit exposure model.  We finished the initial 
+design issues regarding
+input and output. We would like to have a meeting with you to seek feedback.  
+We also preceeded
+to write the underlying model.  So feedback at early stage can be important 
+for the later development.
+
+Paulo Issler is working on the short term enhancement to the credit loss 
+model: adding asian option to
+the model built by Vasant and Amitava.  
+
+Let me know when is a good time for us to meet.
+
+Zimin

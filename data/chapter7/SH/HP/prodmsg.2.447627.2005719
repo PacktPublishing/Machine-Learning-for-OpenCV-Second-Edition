@@ -1,0 +1,95 @@
+Received: from filter12.t-net.net.ve (200.35.64.105)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:42 -0000
+Received: from localhost (localhost)
+	by filter12.t-net.net.ve (8.12.11/8.12.10) id j6JB1fYu010989;
+	Tue, 19 Jul 2005 07:01:41 -0400 (VET)
+Date: Tue, 19 Jul 2005 07:01:41 -0400 (VET)
+From: Mail Delivery Subsystem <MAILER-DAEMON@filter12.t-net.net.ve>
+Message-Id: <200507191101.j6JB1fYu010989@filter12.t-net.net.ve>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JB1fYu010989.1121770901/filter12.t-net.net.ve"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JB1fYu010989.1121770901/filter12.t-net.net.ve
+
+The original message was received at Tue, 19 Jul 2005 07:01:29 -0400 (VET)
+from mx04.t-net.net.ve [200.35.64.110]
+
+   ----- The following addresses had permanent fatal errors -----
+<distjailan@telcel.net.ve>
+    (reason: 554 Sorry, no mailbox here by that name. (#5.1.1))
+
+   ----- Transcript of session follows -----
+... while talking to mscluster01.t-net.net.ve.:
+>>> DATA
+<<< 554 Sorry, no mailbox here by that name. (#5.1.1)
+554 5.0.0 Service unavailable
+<<< 503 RCPT first (#5.5.1)
+
+--j6JB1fYu010989.1121770901/filter12.t-net.net.ve
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; filter12.t-net.net.ve
+Arrival-Date: Tue, 19 Jul 2005 07:01:29 -0400 (VET)
+
+Final-Recipient: RFC822; distjailan@telcel.net.ve
+Action: failed
+Status: 5.0.0
+Remote-MTA: DNS; mscluster01.t-net.net.ve
+Diagnostic-Code: SMTP; 554 Sorry, no mailbox here by that name. (#5.1.1)
+Last-Attempt-Date: Tue, 19 Jul 2005 07:01:41 -0400 (VET)
+
+--j6JB1fYu010989.1121770901/filter12.t-net.net.ve
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mx04.t-net.net.ve (mx04.t-net.net.ve [200.35.64.110])
+	by filter12.t-net.net.ve (8.12.11/8.12.10) with ESMTP id j6JB1SSj010857
+	for <distjailan@telcel.net.ve>; Tue, 19 Jul 2005 07:01:29 -0400 (VET)
+Received: from mailwisconsin.com ([210.106.218.40])
+	by mx04.t-net.net.ve (8.12.11/8.12.11) with SMTP id j6J2quDZ014623
+	for <distjailan@telcel.net.ve>; Tue, 19 Jul 2005 06:52:57 +0400 (GMT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190286;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distjailan@telcel.net.ve
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Telcel-BellSouth-MailScanner-Information: Para mayor informacion puede contactar a su ISP
+X-Telcel-BellSouth-MailScanner: Found to be clean
+X-Telcel-BellSouth-MailScanner-SpamCheck: no es spam,
+	SpamAssassin (puntaje=2.538, requerido 10, DISGUISE_VIAGRA 1.00,
+	DRUGS_ERECTILE 1.00, HTML_50_60 0.18, HTML_FONTCOLOR_RED 0.10,
+	HTML_MESSAGE 0.00, MIME_HTML_ONLY 0.10, NO_RDNS2 0.01,
+	RATWR20_MESSID 0.62, RM_KNOWN_WEBMAIL -1.50, SARE_MSGID_IP 0.22,
+	SARE_SXLIFE 0.80)
+X-Telcel-BellSouth-MailScanner-SpamScore: ss
+X-MailScanner-From: projecthoneypot@projecthoneypot.org
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716523">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--j6JB1fYu010989.1121770901/filter12.t-net.net.ve--
+

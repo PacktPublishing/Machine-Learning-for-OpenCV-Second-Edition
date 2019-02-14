@@ -1,0 +1,62 @@
+Return-Path: <dk12345678@eyou.com>
+Delivered-To: em-ca-bait-birdcall@em.ca
+Received: (qmail 19614 invoked by uid 115); 2 Apr 2005 14:55:07 -0000
+Received: from dk12345678@eyou.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.86.51.178):. 
+ Processed in 2.813979 secs); 02 Apr 2005 14:55:07 -0000
+Received: from unknown (HELO eyou.com) (218.86.51.178)
+  by churchill.factcomp.com with SMTP; 2 Apr 2005 14:55:02 -0000
+From: "Lisa" <dk12345678@eyou.com>
+To: <bait-birdcall@em.ca>
+Subject: Promote your service/product
+Sender: "Lisa" <dk12345678@eyou.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Sat, 2 Apr 2005 23:00:56 +0800
+Reply-To: "Lisa" <Sales@marketingforus.com>
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <111245370467219593@churchill>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+We can promote your service/product:</span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><b>
+-&nbsp; We can supply the email list of your clients</b></span></font><b><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"> according to
+order<br>
+-&nbsp;
+We can Send out targeted emails according to your
+order<br>
+</span></font></b><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+<br>
+<b>-&nbsp; We also offer direct Mailing Server (Cheap!)<br>
+-&nbsp; Offshore web Hosting</b></span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><a href="http://www.Marketingpromote.com">More 
+Information</a></span></font></p>
+
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="font-family: Arial; font-size: 10pt">Waiting for your reply.</span></font></p>
+
+<p style="MARGIN-LEFT: 0.5in">&nbsp;<font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><a href="mailto:marketingtoyou@126.com;marketingtoyou@tom.com"><br>
+Sales@promotecompany.com<br>
+</a><br>
+<br>
+Lisa<br>
+Sales Dept<a href="mailto:marketingtoyou@126.com;marketingtoyou@tom.com"><br>
+</a><a href="mailto:marketingtoyour@126.com;marketingtoyou@tom.com"><br>
+</a><br>
+****************************************************************************************<br>
+No Again:<a href="mailto:La@yahoo.com?subject=take-off">Lost@Hotmail.com?subject=bait-birdcall@em.ca</a><br>
+****************************************************************************************</span></font></p>
+
+</body>
+
+</html>

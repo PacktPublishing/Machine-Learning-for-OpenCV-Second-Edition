@@ -1,0 +1,67 @@
+Return-Path: <Eventos@carterodominicano1.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 805 invoked by uid 115); 27 Oct 2004 00:40:49 -0000
+Received: from Eventos@carterodominicano1.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.98.80.242):. 
+ Processed in 1.077285 secs); 27 Oct 2004 00:40:49 -0000
+Received: from 242sdl30m45.codetel.net.do (HELO carterodominicano12158.com) (66.98.80.242)
+  by churchill.factcomp.com with SMTP; 27 Oct 2004 00:40:47 -0000
+From: Evento Familiar <Eventos@carterodominicano1.com>
+To: bruceg@em.ca
+Reply-To: Eventos@carterodominicano1.com
+Subject: Ven con tu carro,jeep o motor!
+Date: Tue, 26 Oct 2004 14:42:31 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="e5bf692b-d771-43fc-8e82-baadc5e2a41f"
+X-Qmail-Scanner-Message-ID: <1098837649672799@churchill>
+
+
+This is a multi-part message in MIME format
+--e5bf692b-d771-43fc-8e82-baadc5e2a41f
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<!--  Created By Pedro Medina  -->
+<!--  http://www.Carterodominicano.com/   -->
+<!-- created on 15/05/2004 21:05:48       -->
+<head>
+  <title>Cartero Dominicano</title>
+  <meta name=3D"generator" content=3D"Cartero Dominicano -  =
+www.carterodominicano.com">
+  <meta name=3D"description" content=3D"La comunidad mas grande Dominicana en =
+linea!!!">
+  <meta name=3D"keywords" content=3D"cartero, dominicano, dominicana, =
+editorial, editoriales, chistes, garficos, curiosidades, sexo, mi pais, =
+santodomingo, Republica, Republica Dominicana, quisqueya, criollo, =
+belleza,historia dominicana, artes, bonches, uepa, refranes, graficos, =
+suscribete, gana, gratis, ">
+</head>
+<body bgcolor=3D"#FFFFFF" text=3D"#000000" link=3D"#0000FF" vlink=3D"#FF00FF" =
+alink=3D"#FF0000">
+<center><img src=3D"http://www.carterodominicano.com/invitacion.jpg" width=3D=
+"701" height=3D"501" alt=3D"" border=3D"0" align=3D""></a></center>
+<br>
+<br>
+<center></font><a href=3D=
+"mailto:pmedina@carterodominicano.com">Carterodominicano.com</a></center>
+<center><font size=3D"1" face=3D"Arial" color=3D"#000000">Copyright &copy; =
+2004 Cartero Dominicano S.A. All rights reserved.</font></center>
+<a href=3D"http://www.carterodominicano.com/sirena1.html"><center>Sino puede =
+visualizar esta pagina correctamente haga click aqui!</center></a>
+<br>
+<font size=3D"1" face=3D"Arial" color=3D"#000000">Bajo el decreto S.1618 =
+titulo 3ro. Aprobado por el 105 congreso base de las normativas
+internacionales sobre SPAM, este E-mail no podr=E1 ser considerado SPAM =
+mientras incluya
+una forma de ser removido. Nuestro =FAnico deseo es dar a conocer nuestros =
+servicios y ofertas
+de partes si no desea recibir nuestra ofertas env=EDanos tu mail notificando =
+el no inter=E9s en
+seguir recibiendo nuestras infamaciones. <font color=3D"#FF0000"><a href=3D=
+"mailto:postmaster@carterodominicano.com?subject=3DRemove me from list">No =
+quiero recibir mas ofertas (remove me)!!!</a></font></font>
+</body>
+</html>  
+--e5bf692b-d771-43fc-8e82-baadc5e2a41f--
+

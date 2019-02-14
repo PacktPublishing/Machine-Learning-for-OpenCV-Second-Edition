@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 508 invoked by uid 115); 22 Jun 2005 16:59:24 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(218.54.128.134):. 
+ Processed in 0.365766 secs); 22 Jun 2005 16:59:24 -0000
+Received: from unknown (HELO ksk) (218.54.128.134)
+  by churchill.factcomp.com with SMTP; 22 Jun 2005 16:59:20 -0000
+Received: from pc04 ([218.54.128.134])
+        by ksk (Merak 8.0.3) with ASMTP id DEMO;
+        Thu, 23 Jun 2005 01:02:59 +0900
+To: ergr
+From: ergergerg
+Subject: ergergreg
+Date: Thu, 23 Jun 2005 01:02:59 +0900
+Message-Id: <38526.043742581017600.13817@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 8bit
+Content-Length: 2333
+
+<Body Bgcolor='#FFFFFF' Topmargin='0' Leftmargin='0' Marginwidth='0'
+marginheight='0'>
+
+<Table Width='750' Border='0' Align='Center' Cellpadding='0' Cellspacing='0'>
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-01.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-02.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-03.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-04.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-05.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-06.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-07.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='118'><A
+href='http://e-project.or.kr/Project/project.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-08.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='100'><A
+href='http://e-project.or.kr/Reject/reject_mail.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-09.gif'
+border='0'></Td>
+   </Tr>
+
+   <Tr>
+      <Td Width='750' Height='100'><A
+href='http://e-project.or.kr/Reject/reject_mail.php' target='_blank'>
+          <Img Src='http://e-project.or.kr/Images/Mail-01/mail-01-10.gif'
+border='0'></Td>
+   </Tr>
+
+</Table>
+
+</Body>

@@ -1,0 +1,56 @@
+Return-Path: <NGXZLJLLTNQPVSJZE@homesinmaine.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 7545 invoked from network); 04 Aug 2004 06:05:07 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 04 Aug 2004 06:05:07 -0000
+Received: (qmail 23044 invoked from network); 4 Aug 2004 06:05:07 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx07.futurequest.net ([69.5.6.178])
+  with QMQP via TCP; 04 Aug 2004 06:05:07 -0000
+Delivered-To: bugs@ezmlm.org
+Received: (fqmail 7494 invoked from network); 04 Aug 2004 06:05:06 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 04 Aug 2004 06:05:06 -0000
+Received: (qmail 29366 invoked from network); 4 Aug 2004 06:04:57 -0000
+Received: from p1233-ipad02tokusinwcc.tokushima.ocn.ne.jp (p1233-ipad02tokusinwcc.tokushima.ocn.ne.jp [219.162.99.233])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 04 Aug 2004 06:04:57 -0000
+Received: from cirxjq2.nifty.com ([52.36.42.202]) by mbw98-d.219.162.99.233 with Microsoft SMTPSVC(92.83.19831.8756);
+	 Wed, 04 Aug 2004 02:58:35 -0300
+Message-ID: <4618824$547913LG$35@nifty.com>
+Generate-Delivery-Report: No
+Distribution: modish telephone
+Prevent-NonDelivery-Report: Yes
+Reply-To: "Casey'Atwood" <NGXZLJLLTNQPVSJZE@homesinmaine.com>
+From: "Casey'Atwood" <NGXZLJLLTNQPVSJZE@homesinmaine.com>
+To: webmaster@ezmlm.org
+Cc: bugs@ezmlm.org
+Subject: We owe you $099620
+Date: Wed, 04 Aug 2004 08:00:35 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8186722203808070654"
+Content-Length: 509
+
+----8186722203808070654
+Content-Type: text/html;
+	charset="iso-4182-2"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Your [m]ortgage application was approved.<br>
+You are eligible for a $541234 loan<br>
+and a 2.5% fixed rate.
+<p>
+
+Please complete the form to process your application:<br>
+ <a href="http://bsch.ggflnp.com/j8/li.php?l4d=55">http://www.ggflnp.com/j8/li.php?l4d=55</a><p>
+
+iMort Broker Association, LLC.
+<p><p>
+<a href="http://www.ggflnp.com/r3/">not interested</a>
+</html>
+
+----8186722203808070654--

@@ -1,0 +1,121 @@
+Message-ID: <24195401.1075856616646.JavaMail.evans@thyme>
+Date: Wed, 12 Jul 2000 02:06:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: erin.rice@enron.com
+Subject: Re: Pre-submitted question on eSpeak
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Vince J Kaminski
+X-To: Erin Rice
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Erin,
+
+A book by Martha Amram and Nalin Kulatilaka is an excellent
+non-technical introduction to real options and it contains all the most 
+important
+references to more advanced books and papers.
+The book has an endorsement  by Jeff Skilling on the cover page.
+
+The Research Group offered  several one-day seminars on real options
+and applications to the energy industry. We still have a few binders with
+the presentation materials available if you are interested.
+We plan to repeat the seminar sometimes in the fall.
+The first part of the seminar (about 4 hours in the morning) covers general 
+concept of real options
+and their applicability to the energy business.
+The second, more technical afternoon session, covers stochastic processes used
+to model price uncertainty in the energy markets and specific case
+studies (valuation of natural gas storage facilities and of peaking gas-fired 
+power plants).
+
+The real options approach has been developed specifically to address the 
+problem of making
+investment decisions under uncertainty. Nobody in this field claims that this 
+is a
+perfect tool, but it represents a significant progress compared to other 
+techniques developed
+earlier.
+
+Discounted cash flow analysis that tries to incorporate uncertainty through
+analysis of several, in most cases, arbitrary scenarios (most likely, 
+optimistic,
+pessimistic). These scenarios don't identify explicitly the risk drivers
+and don't specify the future proactive management decisions.
+
+The real, option approach is very powerful because it allows to (1) capture
+uncertainty in an explicit way and  (2) to design investment projects that
+allow to exploit future positive developments and reduce future exposures to 
+downside risk.
+This approach allows also create a link between investment decisions and 
+future
+operational decisions. Forward-looking investment decisions create options 
+that are exercised
+in the future through active management of a project.
+
+The real options technology relies heavily on advanced statistical tools to 
+come
+up with the representation of future possible states of the world. The real 
+challenge is
+to use these tools in a sensible way. I have seen in my career (almost 30 
+years
+of applying mathematical tools to business and economic problems) many quants 
+armed with 
+powerful computers who reminded me of monkeys armed with hammers. The 
+challenge is not
+to run mechanically  thousands of simulations based on arbitrary assumptions
+but to translate in a  creative   way the insights of people who understand 
+specific  businesses
+into parsimonious quantitative models. It is especially critical to 
+stress-test the assumptions
+of any model and to ask the question if the outcome of a model depends 
+critically on any set of assumptions.
+If this is the case one should use common sense to examine the underlying 
+assumptions.
+I remember that in the early eighties quite a few models simulated the 
+dynamics of oil prices,
+but all the stochastic scenarios represented fluctuations around a very 
+optimistic  upward trend.
+One would have been better off stepping back and asking a simple question 
+what Economics 101
+teaches about cartels and the dynamics of supply and demand.
+
+
+
+
+
+
+   
+	Enron North America Corp.
+	
+	From:  Erin Rice @ ENRON                           06/27/2000 03:52 PM
+	
+
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: Pre-submitted question on eSpeak
+
+Good news!  There is already a question waiting for your July 12 eSpeak 
+session.  I have pasted it below, although you don't have to respond until 
+the actual event.  Don't forget to send a bulleted list of discussion topics 
+if you would still like us to advertise the event on the elevator screens.
+
+Thanks.
+
+- er
+
+submitted by breineck
+I was doing some reading about the application of real options in the 
+evaluation of non-financial assets. Would you recommend any texts or articles 
+for a 
+more in-depth study of this area? Is quantification of risk or uncertainty 
+the major challenge in using this concept? Can statistical tools be used with 
+this to do 
+a sort of sensitivity analysis?  
+

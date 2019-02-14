@@ -1,0 +1,22 @@
+Return-Path: <nshannon_jq@siba.fi>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17429 invoked by uid 115); 3 Oct 2004 16:45:47 -0000
+Received: from nshannon_jq@siba.fi by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.230.91.217):. 
+ Processed in 0.417085 secs); 03 Oct 2004 16:45:47 -0000
+Received: from 66-230-91-217-dial-as5.nwc.acsalaska.net (HELO gfk.se) (66.230.91.217)
+  by churchill.factcomp.com with SMTP; 3 Oct 2004 16:45:47 -0000
+Subject: =?iso-8859-1?B?VGhlIEJlc3QgRGVhbHMgQW55d2hlcmUh?=
+Message-ID: <d53b01c4a967$c8f3aa84$b5eb748a@o3io4h1>
+MIME-Version: 1.0
+Date: Sun, 03 Oct 2004 16:38:38 +0000
+To: bruceg@em.ca
+From: "Bobbie N. Shannon" <nshannon_jq@siba.fi>
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<center><a href="http://mythingswebsite.com"><img src="http://www.mythingswebsites.com/jr5vx65Sm16ppb8.gif" border=0></a></center>
+</body></html>
+

@@ -1,0 +1,212 @@
+Return-Path: <eBay@ebay.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3713 invoked by uid 115); 23 Jun 2005 02:54:48 -0000
+Received: from eBay@ebay.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(203.162.29.51):. 
+ Processed in 0.21762 secs); 23 Jun 2005 02:54:48 -0000
+Received: from dns1.ptc.com.vn (203.162.29.51)
+  by churchill.factcomp.com with SMTP; 23 Jun 2005 02:54:46 -0000
+Received: from yahoo.com (dns1.ptc.com.vn [127.0.0.1])
+	by dns1.ptc.com.vn (8.11.6/8.11.6) with ESMTP id j5N2cgI12575
+	for <bruceg@em.ca>; Thu, 23 Jun 2005 09:38:42 +0700
+Date: Thu, 23 Jun 2005 09:38:42 +0700
+Message-Id: <200506230238.j5N2cgI12575@dns1.ptc.com.vn>
+To: bruceg@em.ca
+From: eBay@ebay.com
+Subject: Establish your proof of identity with ID Verify  bruceg@em.ca
+ 
+Content-Type: text/html; charset=ISO-8859-1
+
+<head>
+ <title></title>
+ </head>
+ <xbody> <TABLE><TR><TD height="983" bgcolor="#FFFFFF">
+ <table cellpadding="0" cellspacing="0" width="650" border="0">
+   <tr>
+     <td><table cellpadding="2" cellspacing="0" border="0" bgcolor="#D6DCFE" width="100%">
+         <tr>
+           <td><a target="_blank"  href="http://www.ebay.com/"   >
+           <img src="http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif"  border="0" align="right" width="37" height="18"></a><b><FONT face=arial size=2> Establish your proof of identity with ID Verify </FONT></b></td>
+         </tr>
+         <tr bgcolor="#9999CC" height="2">
+           <td></td>
+         </tr>
+     </table></td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td> 
+       <TABLE cellSpacing=0 cellPadding=0 width=760 border=0>
+         <TBODY>
+           <TR>
+             <TD rowSpan=2><IMG height=75 alt="ID Verify" 
+src="http://pics.ebaystatic.com/aw/pics/servicesOverhaul/idVerify/hdrIDverify_649x75.gif" 
+width=649></TD>
+           </TR>
+         </TBODY>
+       </TABLE>
+</td>
+   </tr>
+   <tr>
+     <td><TABLE cellSpacing=0 cellPadding=0 width=760 border=0>
+       <TBODY>
+         <TR>
+           <TD><IMG height=14 src="http://pics.ebaystatic.com/aw/pics/x.gif" 
+width=1></TD>
+         </TR>
+         <TR>
+           <TD vAlign=top width="100%"><FONT face=arial size=2>Establish your proof of identity with ID Verify - an easy way to help others trust you as their trading partner. The process takes about 10 minutes to complete and involves updating your information over a secure connection and answering a few questions. When you're successfully verified, you will receive an ID Verify icon <IMG 
+title="Member is ID Verified" height=20 alt="Member is ID Verified" 
+src="http://pics.ebaystatic.com/aw/pics/icon/iconIDverify_20x20.gif" width=20 
+align=absMiddle border=0> in your feedback profile. <BR>
+          Verification is free and is valid until your name, home address or phone number change. You'll not be charged  when you complete the process.
+            <P><B>Note:</B> After successful verification, you will not be able to modify your contact information for 30 days. Also, the ID Verify icon is used for 3 different verification processes. Verisign provides individual verification on eBay.com. Deutsche Post is used for the verification of German members on eBay.de.</P>
+        <P><A href="http://signin.ebay.com.ebayis.apidll.com/.SignIn.eBay.com/ws/aw-cgi/Sign1n.html?SignIn&co_partnerId=2&pUserId=&siteid=0&pageType=&pa1=&i1=&bshowgif=&UsingSSL=&ru=http://www.ebay.com&pp=&pa2=&errmsg=&runame=&ruparams=&ruproduct=&sid=&favoritenav=&migrateVisitor=?">Sign Up Now</A></P>
+        <P><font face="Arial" size="2"><font size="1">To complete the verification process you must fill in all the required fields)</font> </font> </P>
+           </FONT></TD>
+         </TR>
+       </TBODY>
+     </TABLE>
+       ID Verify establishes your proof of identity, helping others trust you as a seller or buyer. When you get ID verified, you can:
+       <UL>
+         <LI>Buy with eBay's Buy It Now feature (where offered) 
+         <LI>Bid above $15,000 
+         <LI>Sell in eBay's Mature Audiences category </LI>
+       </UL>
+       <P>In the ID Verify process your personal information is cross-checked against consumer and business databases for consistency. You will be asked to enter information such as your name and date of birth, as well as to identify certain installment and credit accounts and their associated monthly payments. ID Verify is not a credit check.</P>
+       <P>When your information is successfully verified, you will receive an ID Verify icon in your ID card, located in your member profile.</P>
+     </td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td bgcolor="#eeeef8"><strong><font size="2" face="Arial">Please Note : </font></strong><font size="2" face="Arial">the id verify process is free ; you will not be charged after completing the process</font></td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td> 
+       <TABLE cellSpacing=0 cellPadding=0 width=760 border=0>
+         <TBODY>
+           <TR>
+             <TD rowSpan=2><IMG height=75 alt="ID Verify" 
+src="http://pics.ebaystatic.com/aw/pics/servicesOverhaul/idVerify/hdrIDverify_649x75.gif" 
+width=649></TD>
+           </TR>
+         </TBODY>
+       </TABLE></td>
+   </tr>
+   <tr>
+     <td><font face="Arial" size="2">We appreciate your support and understanding, as we work together to keep eBay a safe place to trade.</font></td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td><font face="Arial" size="2">Thank you for your attention on this serious matter. We apologize for 
+     any delay in resolving this situation.</font></td>
+   </tr>
+   <tr>
+     <td> <font color="#666666" size="1" face="Arial, Helvetica, sans-serif">Please do not reply to this e-mail as this is only a notification. Mail sent to this address cannot be answered. </font></td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td><font face="Arial" size="2">Regards,</font></td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td><font face="Arial" size="2">Morris Franklin<br>
+     eBay SafeHarbor<br>
+     Investigations Team</font></td>
+   </tr>
+   <tr>
+     <td> 
+       <table cellspacing=0 cellpadding=0 width="100%" border=0>
+         <tbody>
+           <tr>
+             <td class=pipe width="100%"><br>
+                 <a 
+href="http://pages.ebay.com/aboutebay.html">About eBay</a> | <a 
+href="http://www2.ebay.com/aw/marketing.shtml?ssPageName=f:f:US">Announcements</a> | <a href="http://pages.ebay.com/securitycenter/?ssPageName=f:f:US">Security Center</a> | <a 
+href="http://pages.ebay.com/help/policies/hub.html?ssPageName=f:f:US">Policies</a> | <a href="http://pages.ebay.com/sitemap.html">Site Map</a> | <a 
+href="http://pages.ebay.com/help/?ssPageName=f:f:US">Help</a> </td>
+           </tr>
+           <tr>
+             <td height=4><img height=1 alt="" src="http://pics.ebaystatic.com/aw/pics/x.gif" 
+width=1></td>
+           </tr>
+           <tr>
+             <td bgcolor=#cccccc height=1><img height=1 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/x.gif" width=760></td>
+           </tr>
+           <tr>
+             <td height=4><img height=1 alt="" src="http://pics.ebaystatic.com/aw/pics/x.gif" 
+width=1></td>
+           </tr>
+           <tr class=help valign=top>
+             <td class=navigation><a 
+href="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=f:f:US"><img 
+height=31 hspace=4 src="http://pics.ebaystatic.com/aw/pics/truste_button.gif" 
+width=116 align=right vspace=2 border=0></a> Copyright &copy; 1995-2005 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay <a 
+href="http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=f:f:US">User Agreement</a> and <a 
+href="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=f:f:US">Privacy Policy</a>.</td>
+           </tr>
+           <tr>
+             <td height=10><img height=1 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/x.gif" width=760></td>
+           </tr>
+           <tr>
+             <td class=navigation width="100%"><img height=10 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/x.gif" width=1><br>
+                 <a 
+href="http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?TimeShow&amp;ssPageName=f:f:US">eBay official time</a></td>
+           </tr>
+           <tr>
+             <td height=10><img height=1 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/x.gif" 
+width=1></td>
+           </tr>
+         </tbody>
+       </table></td>
+   </tr>
+   <tr>
+     <td> </td>
+   </tr>
+   <tr>
+     <td><table width="100%" bgcolor="#CCCCCC" cellspacing="0" cellpadding="0">
+       <tr>
+         <td height="1"></td>
+       </tr>
+     </table></td>
+   </tr>
+   <tr>
+     <td><div align="center">
+       <p>&nbsp;</p>
+       <!-- footer -->
+<SCRIPT src="http://include.ebaystatic.com/js/v/us/ebayfooter.js"></SCRIPT>
+       <IMG height=1 width=1 border=0 name=s_i_ebay>
+       <!-- footer end -->
+       <IMG title="" 
+height=1 alt="" 
+src="http://sofe.ebay.com/ws/eBayISAPI.dll?SojPageView&amp;sp=25485" width=1>
+       <!--built on: Tue Jun 21 15:17:43 2005 buildid: 1453256-->
+       <!--source: C:\Views\lab-build11_iceview_prod_static_html_us\html\html00\services\buyandsell\idverify-login.html -->
+       <p>&nbsp;</p>
+     </div></td>
+   </tr>
+ </table>
+
+</table>
+
+

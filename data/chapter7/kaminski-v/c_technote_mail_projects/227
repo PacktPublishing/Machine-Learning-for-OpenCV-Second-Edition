@@ -1,0 +1,56 @@
+Message-ID: <32085518.1075856591956.JavaMail.evans@thyme>
+Date: Tue, 17 Oct 2000 06:32:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com
+Subject: Credit Model
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Vince J Kaminski, Stinson Gibner
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince and Stinson,
+
+We met Bill Bradford yesterday, the credit model modification turns out to be 
+three projects.
+
+1) Potential exposure calculator
+   
+   This requres forward curves simulation and revaluation of all deals over 
+the tenor (typically 20 years).
+   It needs multi-factor HJM and gas-electricity joint factors of loading.  
+Output from this model is the maximal loss amount and
+   its confidence interval.
+ 
+   Expected delivery time: 1 month
+
+2) Include Asian option model into the current XLL calculation engine.
+
+    This is more concrete and simly to do.
+
+    Expected delivery time: 2 weeks.
+
+3) Incorporate Krishna's "EAM" option valuation into the credit model
+
+    This one is not yet urgent.
+
+
+I may need more resources to accomplish these tasks.   Paulo has difficulty 
+to commit himself to even to the second task, 
+citing that he has other things to do.  Therefore I need your help in setting 
+the prorities. 
+
+
+Thanks,
+
+
+Zimin
+
+
+
+
+   

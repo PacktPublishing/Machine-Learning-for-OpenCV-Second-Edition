@@ -1,0 +1,60 @@
+Message-ID: <26342831.1075856594289.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 07:30:00 -0700 (PDT)
+From: stinson.gibner@enron.com
+To: mark.fondren@enron.com
+Subject: P+ option valuation model
+Cc: scott.earnest@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: scott.earnest@enron.com, vince.kaminski@enron.com
+X-From: Stinson Gibner
+X-To: Mark Fondren
+X-cc: Scott Earnest, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Mark,
+
+After recently reviewing the booking of the P+ options, it is my=20
+understanding that these options are being valued using a standard spread=
+=20
+option model where the price evolution of the two legs of the spread are=20
+assumed to be correlated Geometric Brownian Motion processes  (i.e. the pri=
+ce=20
+process assumptions are consistent with standard Black-76 model assumptions=
+=20
+extended to two commodities). =20
+
+The payoff for a call option is:
+
+Payoff =3D Max( 0,  A =01) B =01) K).
+
+Where:
+ A =3D NXWTI (delivery price for Nymex)
+ B =3D Posting Price =3D (WTI Swap) =01) (Posting Basis)
+ K=3D Posting Bonus (fixed).
+
+The only complication of this option as compared to most other spread optio=
+ns=20
+is that leg "B" of the spread is a combination of three prices,  the two=20
+futures prices which make up the WTI swap for the given month, and the=20
+average posting basis during the delivery month.   Combination of these=20
+prices is easily addressed by simply setting the volatility of leg "B" and=
+=20
+the correlation to correctly account for the volatility of this basket of=
+=20
+prices and its correlation with the NXWTI price.  I believe that this=20
+approach is more straightforward than the alternative, which would be to us=
+e=20
+a three or four-commodity model with its associated volatility and=20
+correlation matrices.
+
+In summary, I believe that this is an appropriate model for valuation of=20
+these types of options, assuming that the inputs are set correctly.
+
+Regards,
+
+Stinson Gibner
+V. P. Research

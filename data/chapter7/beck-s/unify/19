@@ -1,0 +1,122 @@
+Message-ID: <29257087.1075855929926.JavaMail.evans@thyme>
+Date: Thu, 20 Jan 2000 05:56:00 -0800 (PST)
+From: richard.sage@enron.com
+To: fernley.dyson@enron.com
+Subject: Re: Unify in London
+Cc: stephen.schwarz@enron.com, richard.burchfield@enron.com, 
+	eric.virro@enron.com, david.williams@enron.com, ian.sloman@enron.com, 
+	beth.perlman@enron.com, mark.pickering@enron.com, 
+	inja.chun@enron.com, barry.pearce@enron.com, philippe.bibi@enron.com, 
+	sally.beck@enron.com, phil.yoxall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.schwarz@enron.com, richard.burchfield@enron.com, 
+	eric.virro@enron.com, david.williams@enron.com, ian.sloman@enron.com, 
+	beth.perlman@enron.com, mark.pickering@enron.com, 
+	inja.chun@enron.com, barry.pearce@enron.com, philippe.bibi@enron.com, 
+	sally.beck@enron.com, phil.yoxall@enron.com
+X-From: Richard Sage
+X-To: Fernley Dyson
+X-cc: Stephen P Schwarz, Richard Burchfield, Eric Virro, David J Williams, Ian Sloman, Beth S Perlman, Mark Pickering, Inja Chun, Barry Pearce, Philippe A Bibi, Sally Beck, Phil Yoxall
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have pursued implementing Unify in London, however there are a number of 
+issues preventing that from happening in the near future:
+
+The Unify IT team has a lot of competing priorities (including the Houston 
+SAP implementation, as well as Houston and Calgary changes and enahncements), 
+and are unable to commit to a firm implementation date at this time.
+New commitments by ENA (see mail at bottom) have further complicated the 
+priorities, so even the tentative plans for implementing Unify in London this 
+year are in doubt.
+On the IT side, there are a number of issues with support and scalability of 
+the current architecture of the system.
+
+As it doesn't look like Unify can be implemented in London this year, we will 
+therefore change focus to streamlining the existing tactical solutions in 
+London (enhancing Back Office Settlements System, integrating with Global 
+CounterParties, removing London Office Manager, and using SAP where 
+appropriate).
+
+Once Unify has been integrated with SAP in Houston we will in a better 
+position to consider the long-term strategic approach to Unify in London.   
+If anyone believes that we should take a different response, please respond 
+to this email.
+
+
+Eric, Ian & Richard
+
+
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Fernley Dyson                           17/11/99 12:49
+	
+
+To: Richard Sage/LON/ECT@ECT
+cc: Stephen P Schwarz/HOU/ECT@ECT, Richard Burchfield/HOU/ECT@ECT, Eric 
+Virro/LON/ECT@ECT, David J Williams/LON/ECT@ECT, Ian Sloman/LON/ECT@ECT, Beth 
+S Perlman/LON/ECT@ECT 
+
+Subject: Re: Unify  
+
+We need to discuss the details, but to my mind the question has to be why 
+wouldn't we do it?
+
+
+
+Richard Sage
+17/11/99 09:02
+To: Fernley Dyson/LON/ECT@ECT, Stephen P Schwarz/HOU/ECT@ECT, Richard 
+Burchfield/HOU/ECT@ECT
+cc: Eric Virro/LON/ECT@ECT, David J Williams/LON/ECT@ECT, Ian 
+Sloman/LON/ECT@ECT, Beth S Perlman/LON/ECT@ECT 
+
+Subject: Unify
+
+
+
+
+Putting Unify in London is not something that is going to happen tomorrow.
+If we are going to do it we need to do it right.
+Shall we go ahead with this?
+
+  
+______________________________________________________________________________
+_______________________________________________________ 
+                        	
+	Enron Information Technology
+	
+	From:  Inja Chun                           17/01/2000 01:52
+	
+	
+
+To: Richard Sage/LON/ECT@ECT, Phil Yoxall/LON/ECT@ECT, Stephen P 
+Schwarz/HOU/ECT@ECT, Paul F Poellinger/HOU/ECT@ECT, Ian Sloman/LON/ECT@ECT, 
+Eric Virro/LON/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Regan M 
+Smith/HOU/ECT@ECT
+cc: Beth Perlman/LON/ECT@ECT, Mark Pickering/LON/ECT@ECT, Philippe A 
+Bibi/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+
+Subject: Revised Unify Plan
+
+During the last few weeks, we experienced significant increases in Unify 
+transaction volumes because of Columbia Energy Services acquisition, EOL and 
+Calgary implementation.   For example, recently the Logistics transactions 
+increased by 91% while deal/meter count increased by 61% and total volume 
+(MMBTU) by 66%.  In addition, it is very possible that volumes may increase 
+by another 30% due to  new acquisitions in the near future. For these 
+reasons, we  must put our efforts in overhauling Unify Settlement  now before 
+working on London implementation.  Therefore, we are postponing our February 
+out visit to London.,  We will let you know our revised plans and targets as 
+soon as we can.  Thank you.
+______________________________________________________________________________
+______________________________________________________
+
+
+
+
+

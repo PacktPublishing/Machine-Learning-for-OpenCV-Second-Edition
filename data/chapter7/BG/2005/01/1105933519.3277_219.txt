@@ -1,0 +1,49 @@
+Return-Path: <TUDO@ntgospel.zzn.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 19443 invoked from network); 17 Jan 2005 03:06:22 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 17 Jan 2005 03:06:22 -0000
+Received: (qmail 32746 invoked from network); 17 Jan 2005 03:06:22 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx02.futurequest.net ([69.5.6.172])
+  with QMQP via TCP; 17 Jan 2005 03:06:22 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 18694 invoked from network); 17 Jan 2005 03:06:18 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 17 Jan 2005 03:06:18 -0000
+Received: (qmail 15092 invoked from network); 17 Jan 2005 03:05:41 -0000
+Received: from 1.1.1.1 ([200.222.207.114])
+  by mx09.futurequest.net ([69.5.6.181])
+  with SMTP via TCP; 17 Jan 2005 03:05:40 -0000
+From: "NTGOSPEL.COM" <TUDO@ntgospel.zzn.com>
+To: <webmaster@ezmlm.org>
+Subject: TUDO QUE VOCÊ PRECISA SABER!!!
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 17 Jan 2005 01:05:27
+Content-Length: 648
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>O MELHOR POINT GOSPEL NA NET</title>
+</head>
+
+<frameset framespacing="0" border="0" frameborder="0" rows="21,*">
+  <frame name="cabeçalho" scrolling="no" noresize target="principal" src="e-mail-cabecalho.htm">
+  <frame name="principal" src="http://www.ntgospel.com/e-mail.html" scrolling="auto">
+  <noframes>
+  <body>
+
+  <p>Esta página usa quadros mas seu navegador não aceita quadros.</p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>

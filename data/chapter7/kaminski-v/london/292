@@ -1,0 +1,52 @@
+Message-ID: <362185.1075857051284.JavaMail.evans@thyme>
+Date: Wed, 22 Dec 1999 09:18:00 -0800 (PST)
+From: anjam.ahmad@enron.com
+To: james.new@enron.com, richard.lewis@enron.com, barry.pearce@enron.com, 
+	amir.ghodsian@enron.com, simon.hastings@enron.com, 
+	ali.lloyd@enron.com
+Subject: New Volatility Curve Generator for UK Power
+Cc: dale.surbey@enron.com, stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dale.surbey@enron.com, stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Anjam Ahmad
+X-To: James New, Richard Lewis, Barry Pearce, Amir Ghodsian, Simon Hastings, Ali Lloyd
+X-cc: Dale Surbey, Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+We have established a set of power volatility curves down to the EFA/monthly 
+level of detail that can be marked to market up to 6 years out.  Beyond this, 
+the volatility decays to what we understand to be the long-term level for 
+power volatility, given our understanding of the behaviour of forward prices 
+over large time-scales.
+
+The swaption traders can now fit the first 5-6 years of the volatility curve 
+to the market-observed baseload swaption implied volatilities (typically 3 to 
+12 months duration for the underlying swap) and then be in a good position to 
+price other swaptions (including swaptions on individual EFA slots) 
+consistent with the curve.  There may also be an impact on the daily VaR 
+calculation.
+
+An illustration of the current volatility curves is pasted below:-
+
+
+
+
+These curves will be reset as the market moves, and allow a mark-to-market 
+approach to be followed for our volatility book.  The spreadsheet model is 
+saved in T:\READWRTE\ELEC_UK\MODELS\VOLCURVEGENERATORNEW.XLS and also 
+attached below for Houston staff to review.
+
+
+
+
+[Stinson - I'd be grateful if you could offer an opinion/audit to ensure that 
+I haven't missed anything, thanks.]
+
+Regards,
+
+Anjam 
+x35383

@@ -1,0 +1,67 @@
+Message-ID: <3688871.1075856602344.JavaMail.evans@thyme>
+Date: Tue, 23 Jan 2001 01:08:00 -0800 (PST)
+From: vasant.shanbhogue@enron.com
+To: vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+Subject: Risk article
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Vasant Shanbhogue
+X-To: Vince J Kaminski, Tanya Tamarchenko
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+FYI.
+
+---------------------- Forwarded by Vasant Shanbhogue/HOU/ECT on 01/23/2001 
+09:06 AM ---------------------------
+
+
+Ben Parsons
+01/23/2001 08:51 AM
+To: Nigel Price/LON/ECT@ECT, George Albanis/LON/ECT@ECT, Markus 
+Fiala/LON/ECT@ECT, Jean-Sebastien Fontaine/Corp/Enron@Enron, Katherine 
+Siig/EU/Enron@Enron, Amitava Dhar/Corp/Enron@ENRON, Vasant 
+Shanbhogue/HOU/ECT@ECT, Ilan Hershkovitz/LON/ECT@ECT, Greg 
+Hedger/LON/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT, Simon 
+Brooks/LON/ECT@ECT
+cc: Bryan Seyfried/LON/ECT@ECT, Steven Leppard/LON/ECT@ECT 
+Subject: Risk article
+
+Everyone should read the attached Risk article about calculating def probs 
+from CDS quotes. 
+
+Amazingly it is in pretty close agreement with our own methodology for both 
+CDS valuation and reverse engineering def probs. The only extension in the 
+reverse engineering is that instead of linearly interpolating CDS quotes, 
+they propose minimising an error measure based on 'smoothness' of def prob 
+curve and difference between model and market prices. 
+
+What is also amazing is the fact that this article has been published in 
+Risk, given that it is essentially the same as my credit pricing paper, plus 
+one excellent idea. Given extra time, resources and brainpower, there is no 
+reason why we shouldn't have similar work published ourselves.
+
+Ben
+
+(thanks Steve for pointing this article out)
+---------------------- Forwarded by Ben Parsons/LON/ECT on 23/01/2001 14:40 
+---------------------------
+
+
+London Fax System2
+23/01/2001 14:09
+To: Ben Parsons/LON/ECT@ECT
+cc:  
+
+Subject: New fax received (Likely sender: +44 20 7783 8076).
+
+
+You have received a new fax from +44 20 7783 8076
+
+The image contains 3 page(s).
+
+
+

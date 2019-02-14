@@ -1,0 +1,56 @@
+Message-ID: <4260570.1075854174690.JavaMail.evans@thyme>
+Date: Fri, 14 Jul 2000 05:03:00 -0700 (PDT)
+From: thomas.engel@enron.com
+To: peggy.hedstrom@enron.com, anita.patton@enron.com, george.smith@enron.com, 
+	edward.terry@enron.com, tricia.bowen@enron.com, 
+	victor.lamadrid@enron.com, beverly.beaty@enron.com, 
+	pat.clynes@enron.com, daren.farmer@enron.com, randall.gay@enron.com, 
+	kevin.heal@enron.com, briant.baker@enron.com
+Subject: NEW STORAGE FLAG
+Cc: sylvia.campos@enron.com, linda.bryan@enron.com, donna.greif@enron.com, 
+	dave.nommensen@enron.com, diane.cook@enron.com, 
+	scott.mills@enron.com, steven.gullion@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sylvia.campos@enron.com, linda.bryan@enron.com, donna.greif@enron.com, 
+	dave.nommensen@enron.com, diane.cook@enron.com, 
+	scott.mills@enron.com, steven.gullion@enron.com
+X-From: Thomas Engel
+X-To: Peggy Hedstrom, Anita K Patton, George Smith, Edward Terry, Tricia Bowen, Victor Lamadrid, Beverly Beaty, Pat Clynes, Daren J Farmer, Randall L Gay, Kevin Heal, Briant Baker
+X-cc: Sylvia A Campos, Linda S Bryan, Donna Greif, Dave Nommensen, Diane H Cook, Scott Mills, Steven Gullion
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+We are going to add a new drop down flag to STORAGE in SITARA to 
+differentiate the difference between physical and synthetic storage - as each 
+are
+treated differently for inventory accounting purposes.   A change will also 
+be made to Global Contracts and UNIFY, and is intended to assist with OA 
+variances
+on STORAGE.
+
+On the next release (mid August) we will add a drop down on the STORAGE deal 
+type which will be a required field.
+Someone will need to edit the existing deals to add the flag - as it will be 
+a required field - physical facility or synthetic. 
+(We can create queries to work with you on identifying deals that need to be 
+converted - as well as results for Global conversion)
+
+Global Contracts uses the flags from SITARA to set up new contracts - so 
+SITARA will add the flag on the deal.
+
+The flag will be stored in Global Contracts - which will feed the flag to 
+UNIFY.
+
+Once the existing deals are converted in SITARA, Global Contracts can add the 
+appropriate flag to their system.
+Once this is complete and UNIFY is ready, UNIFY can begin to feed in the 
+information from Global Contracts, and we will then 
+be able to differentiate the two in the accounting system.
+
+In the interim time, you may want to identify your synthetic vs. physical 
+storage deals.
+
+Let me know if you have any questions.

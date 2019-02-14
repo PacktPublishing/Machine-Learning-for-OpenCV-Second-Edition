@@ -1,0 +1,95 @@
+Received: from vsmtp2alice.tin.it (212.216.176.142)
+  by projecthoneypotmailserver with SMTP; 26 Jun 2005 01:10:30 -0000
+Received: from ims5d.cp.tin.it (212.216.176.35) by vsmtp2alice.tin.it (7.0.027)
+        id 42BA684800049ADA for projecthoneypot@projecthoneypot.org; Sun, 26 Jun 2005 03:10:29 +0200
+Received: by ims5d.cp.tin.it (7.0.027) id 42B207C40015D548 for projecthoneypot@projecthoneypot.org; Sun, 26 Jun 2005 03:10:29 +0200
+From: Mail Delivery Service <postmaster@aliceposta.it>
+Subject: Delivery Status Notification
+To: projecthoneypot@projecthoneypot.org
+Date: Sun, 26 Jun 2005 03:10:29 +0200
+Message-ID: <42B207C40015D547@ims5d.cp.tin.it>
+MIME-Version: 1.0
+Content-Type: Multipart/Report; report-type=delivery-status; boundary="========/42B207C40015D546/ims5d.cp.tin.it"
+
+This multi-part MIME message contains a Delivery Status Notification.
+If you can see this text, your mail client may not be able to understand MIME
+formatted messages or DSNs (see RFC 2045 through 2049 for general MIME
+information and RFC 1891 through 1894 for DSN specific information).
+
+--========/42B207C40015D546/ims5d.cp.tin.it
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: 8bit
+
+ - These recipients of your message have been processed by the mail server:
+maubev@aliceposta.it; Failed; 5.7.1 (delivery not authorized, message refused)
+
+maxdaffy@aliceposta.it; Failed; 5.7.1 (delivery not authorized, message refused)
+
+
+
+--========/42B207C40015D546/ims5d.cp.tin.it
+Content-Type: Message/Delivery-Status
+
+Reporting-MTA: dns; ims5d.cp.tin.it
+Received-from-MTA: dns; vsmtp6alice.tin.it (192.168.70.232)
+Arrival-Date: Sun, 26 Jun 2005 03:10:29 +0200
+
+Final-Recipient: rfc822; maubev@aliceposta.it
+Action: Failed
+Status: 5.7.1 (delivery not authorized, message refused)
+
+Final-Recipient: rfc822; maxdaffy@aliceposta.it
+Action: Failed
+Status: 5.7.1 (delivery not authorized, message refused)
+
+--========/42B207C40015D546/ims5d.cp.tin.it
+Content-Type: Message/RFC822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from vsmtp6alice.tin.it (192.168.70.232) by ims5d.cp.tin.it (7.0.027)
+        id 42B207C40015D546; Sun, 26 Jun 2005 03:10:29 +0200
+Received: from cpe-69-202-124-24.twcny.res.rr.com (69.202.124.24) by vsmtp6alice.tin.it (7.0.027)
+        id 429B74220045A9D7; Sun, 26 Jun 2005 03:10:29 +0200
+Received: from .wisc.edu (.wisc.edu [.nic]) by
+    .wisc.edu (8.1.2/8.9.3) with ESMTP id JAA15115 for
+    <vdt-support@.wisc.edu>; 
+    Sat, 25 Jun 2005 23:00:59 -0300
+Message-ID: <4291692454.16263@dyn-htl-15608.dyn.columbia.edu>
+From: "Sean Mercadante" <baldwin1@msn.de>
+Date: Sat, 25 Jun 2005 23:01:59 -0300
+To: lucaballiano@aliceposta.it
+Subject: Good bye debts ! ¹06-RIDIDB
+X-Mailer: TWIG 2.6.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="-----=178_1553_5O292O12.90TM803M"
+
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+-------=178_1553_5O292O12.90TM803M
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+Dear 
+If you have reached the point where you can no longer keep up with your monthly bills, MoneyTranceCorp Company offers an honorable alternative to Bankruptcy.
+Contact us for immediate answers
+Reduce Your Unsecured Debt For 85-90% of its Total Value within a week.
+Stop Harassing Creditor Phone Calls
+Start making money with us.
+Best regards.
+Register and say "good bye" to your debts!
+Life without debts!
+
+Want to know more? email us!
+
+http://uscard-debt.com/index.php?ref=wrw
+
+-------=178_1553_5O292O12.90TM803M
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+-------=178_1553_5O292O12.90TM803M--
+
+--========/42B207C40015D546/ims5d.cp.tin.it--
+

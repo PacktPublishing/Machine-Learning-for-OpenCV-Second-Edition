@@ -1,0 +1,56 @@
+Return-Path: <info@imrktng.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 16731 invoked from network); 3 Nov 2004 23:13:44 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 03 Nov 2004 23:13:44 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 Nov 2004 23:13:44 -0000
+Received: (qmail 20812 invoked from network); 3 Nov 2004 23:13:43 -0000
+Received: from your-b26ivbdbyk (unknown [69.6.66.34])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 03 Nov 2004 23:13:43 -0000
+From: "Wonderfulbuys.com" <info@imrktng.net>
+Subject: Lowest priced 6.0 digital camera!
+To: cvs@bruce-guenter.dyndns.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: info@imrktng.net
+Date: Wed, 3 Nov 2004 17:13:43 -0600
+Content-Length: 1554
+Lines: 32
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Untitled</title>
+</head>
+
+<body background="http://www.a1info.net/images2/vadant/91304/6MPcolorful-email-bg.gif">
+
+<center>
+  <p><a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A41424A0E43440E400E404145444345440E08.aspx'><img src="http://www.a1info.net/images2/vadant/91304/6MPcolorful-email-image.gif" width="506" height="473" alt="" border="0"></a></p>
+</center>
+
+<!-- Start Disclaimer -->
+<center>
+    
+</center>
+<!-- End Disclaimer --><br><img src = "http://www.a1info.net/images2/vadant/1pxlclr.gif">
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A41424A0E43440E08.aspx'><img src='http://www.infoemail-web.com/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A41424A0E43440E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">YouCanSave.com &#183; 4330 Commerce Drive &#183; Batavia, NY 14020</font></p></td></tr></table></body>
+</html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

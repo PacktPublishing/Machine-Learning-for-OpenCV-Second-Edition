@@ -1,0 +1,63 @@
+Return-Path: <Eisrumnrv@netzero.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 6989 invoked from network); 15 Jun 2005 01:35:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 15 Jun 2005 01:35:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 15 Jun 2005 01:35:08 -0000
+Received: (qmail 17131 invoked from network); 15 Jun 2005 01:35:08 -0000
+Received: from lh (unknown [219.252.96.16])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 15 Jun 2005 01:35:07 -0000
+From: "Jimmy Lugo" <Eisrumnrv@netzero.com>
+To: cvs@bruce-guenter.dyndns.org
+Subject: FYI
+Date: Wed, 15 Jun 2005 00:31:05 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_YRASYWIK.XGYKJAYP"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 1873
+Lines: 40
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_YRASYWIK.XGYKJAYP
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+THIS IS OUR FINAL ATTEMPT
+We have endevored to speak to you on quite a few instances and time is running out!
+
+Your present loan situation makes you eligible for  you for up to a 3.20% lower rate.
+
+However, thanks to our previous attempts to speak to you have failed,
+this will be our final try to enable you to receive in the lower rate.
+
+Please end your final step upon receiving this notice immediately,and complete your submission now.
+
+
+Apply Here.
+
+If your decision is not to make use of this final offer going here will help you to do so.
+
+------=_NextPart_000_0000_YRASYWIK.XGYKJAYP
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<BODY bgColor=#ffffff>
+<FONT face=Verdana size=2>THIS IS OUR FINAL ATTEMPT<P>
+We have endevored to speak to you on quite a few instances and time is running out!<P>
+Your present loan situation makes you eligible for  you for up to a 3.20% lower rate.<P>
+However, thanks to our previous attempts to speak to 
+you have failed,<BR>this will be our final try to enable you to receive the lower rate.<P>
+Please end this final step upon receiving 
+this notice immediately,and complete your submission now.<P><P>
+
+<A HREF="http://rds.yahoo.com/S=3122855/K=computer/v=4/SID=i/l=WS1/R=1/SS=73219620/IPC=us/SHE=0/H=0/SIG=5731sbL66/EXP=803739464/*-http://google.com.pay-m3.net/home.asp">Apply Here.</A><P>
+
+If your decision is not to make use of this final offer going <A HREF="http://rds.yahoo.com/S=1033919/K=computer/v=6/SID=w/l=WS1/R=1/SS=40770420/IPC=us/SHE=0/H=0/SIG=34majcJW744/EXP=148953646/*-http://google.com.pay-m3.net/del.asp"> here</A> will help you to do so.</FONT></BODY></HTML>
+
+------=_NextPart_000_0000_YRASYWIK.XGYKJAYP--

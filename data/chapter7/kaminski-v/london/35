@@ -1,0 +1,61 @@
+Message-ID: <8350980.1075856609001.JavaMail.evans@thyme>
+Date: Fri, 10 Nov 2000 06:11:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: bryan.seyfried@enron.com
+Subject: Re: VaR for EnronCredit.com
+Cc: vince.kaminski@enron.com, steven.leppard@enron.com, rick.buy@enron.com, 
+	ted.murphy@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, steven.leppard@enron.com, rick.buy@enron.com, 
+	ted.murphy@enron.com, tanya.tamarchenko@enron.com
+X-From: Vince J Kaminski
+X-To: Bryan Seyfried
+X-cc: Vince J Kaminski, Steven Leppard, Rick Buy, Ted Murphy, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bryan,
+
+We shall be glad to  take a look at the system. To sign - off on the vendor 
+provided system we
+have to look under the hood and review the algorithms. I hope the vendor will 
+have no objections to it.
+
+Another critical issue we have to solve on a short notice is to integrate the 
+system you want to buy
+with the rest of VaR/credit systems. We shall stand by to help in this 
+endeavor.
+
+An alternative approach is to evaluate to what extent your positions can be 
+rolled into the existing risk systems.
+
+
+Vince
+
+
+
+
+
+
+Bryan Seyfried
+11/10/2000 03:20 AM
+To: Vince J Kaminski/HOU/ECT@ECT, Steven Leppard/LON/ECT@ECT
+cc: Ted Murphy/HOU/ECT@ECT 
+Subject: VaR for EnronCredit.com
+
+Vince/Steve -- we are going to the Board in December to ask for formal 
+limits.  As you know one of the key limits at the Board level is Value at 
+Risk. To that end, it is imperative that you are comfortable with our 
+approach for calculating VaR.  We have implemented a third party risk system 
+which holds all of our positions and are in the process of putting the debt 
+positions in.  The system has a VaR engine which is being demo'd by the 
+vendor today.  Ben and Kirstee are attending the demo and if they find the 
+technology acceptable, I propose moving forward with implemantion of the 
+module.  Pls. let me know if this sounds reasonable and how you would 
+envision implementing.
+
+thanks
+

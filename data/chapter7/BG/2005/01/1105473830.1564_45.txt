@@ -1,0 +1,46 @@
+Return-Path: <hfhdzofe@verizon.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 20417 invoked from network); 9 Jan 2005 18:23:33 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 09 Jan 2005 18:23:33 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Jan 2005 18:23:33 -0000
+Received: (qmail 11962 invoked from network); 9 Jan 2005 18:23:33 -0000
+Received: from pool-70-106-28-76.norf.east.verizon.net (unknown [70.106.28.76])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 09 Jan 2005 18:23:32 -0000
+Received: from relay.verizon.net
+	by pool-70-106-28-76.norf.east.verizon.net [70.106.28.76] with SMTP id utwcvigec; Sun, 09 Jan 2005 11:11:39 -0600
+Received: from 57.91.75.57 by pool-70-106-28-76.norf.east.verizon.net [70.106.28.76]
+	with yicvvendf; Sun, 09 Jan 2005 11:11:14 -0600
+Received: (qmail 6435 invoked by uid 412); Sun, 09 Jan 2005 11:09:58 -0600
+From: "Donnell" <hfhdzofe@verizon.net>
+Date: Sun, 09 Jan 2005 19:07:39 +0200
+Content-Type: text/html;
+	charset=windows-1253
+Content-Transfer-Encoding: 7bit
+Message-ID: <911708-08818206628146@70.106.28.76>
+To: Estes <cvs@bruce-guenter.dyndns.org>
+MIME-Version: 1.0
+Subject: and not to Rome,
+Content-Length: 388
+Lines: 18
+
+<html>
+<body>
+Good day:<br>
+<br>
+I tried to call your 3 three time but your phone is not available. I think<br>
+you did a mistake during filling the form. Anyway, your mortgagge request<br>
+#5933 was appproved with 3.6, please reenter your info here<br>
+and we will start <a href="http://www.wtljnb.com/">ASAP</a><br>
+<br>
+Thank you<br>
+<br>
+Donnell
+<br>
+<br>
+<br>
+YSVPER</body>
+</html>

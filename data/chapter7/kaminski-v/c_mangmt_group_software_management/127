@@ -1,0 +1,70 @@
+Message-ID: <22190628.1075856584411.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 05:25:00 -0800 (PST)
+From: joseph.hrgovcic@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	pinnamaneni.krishnarao@enron.com, vasant.shanbhogue@enron.com, 
+	mike.roberts@enron.com, joseph.hrgovcic@enron.com, 
+	tanya.tamarchenko@enron.com, zimin.lu@enron.com, 
+	martin.lin@enron.com, maureen.raymond@enron.com, 
+	osman.sezgen@enron.com, paulo.issler@enron.com, 
+	amitava.dhar@enron.com, alex.huang@enron.com, 
+	kevin.kindall@enron.com, kevin.moore@enron.com, 
+	clayton.vernon@enron.com, william.smith@enron.com, 
+	jose.marquez@enron.com, chonawee.supatgiat@enron.com, 
+	shalesh.ganjoo@enron.com, tom.halliburton@enron.com, 
+	elena.chilkina@enron.com, sevil.yaman@enron.com, 
+	sofya.tamarchenko@enron.com, bob.lee@enron.com, 
+	gwyn.koepke@enron.com, hector.campos@enron.com, 
+	anita.dupont@enron.com, youyi.feng@enron.com, v.weldon@enron.com, 
+	yana.kristal@enron.com, praveen.mellacheruvu@enron.com, 
+	li.sun@enron.com, stephen.bennett@enron.com, 
+	roman.zadorozhny@enron.com, lance.cunningham@enron.com, 
+	leann.walton@enron.com, shane.green@enron.com, 
+	seksan.kiatsupaibul@enron.com, kate.lucas@enron.com, 
+	nelson.neale@enron.com, rabi.de@enron.com, 
+	kenneth.parkhill@enron.com
+Subject: Grep for Windows.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Joseph Hrgovcic
+X-To: Vince J Kaminski, Stinson Gibner, Pinnamaneni Krishnarao, Vasant Shanbhogue, Mike A Roberts, Joseph Hrgovcic, Tanya Tamarchenko, Zimin Lu, Martin Lin, Maureen Raymond, Osman Sezgen, Paulo Issler, Amitava Dhar, Alex Huang, Kevin Kindall, Kevin G Moore, Clayton Vernon, William Smith, Jose Marquez, Chonawee Supatgiat, Shalesh Ganjoo, Tom Halliburton, Elena Chilkina, Sevil Yaman, Sofya Tamarchenko, Bob Lee, Gwyn Koepke, Hector Campos, Anita DuPont, Youyi Feng, V Charles Weldon, Yana Kristal, Praveen Mellacheruvu, Li Sun, Stephen Bennett, Roman Zadorozhny, Lance Cunningham, Leann Walton, Shane Green, Seksan Kiatsupaibul, Kate Lucas, Nelson Neale, Rabi De, Kenneth Parkhill
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Folks,
+
+ Those of you who have used UNIX are probably familiar with the grep command. 
+It's used to extract lines from a set of files that contain a given input 
+string, and is very useful. (If you have any questions on how to invoke it, 
+ask me.) 
+
+ The grep command is now available in a PC version -- see below.
+
+
+Joe
+
+
+
+---------------------- Forwarded by Joseph Hrgovcic/HOU/ECT on 12/01/2000 
+10:50 AM ---------------------------
+
+
+Carlos Uribe@ENRON
+12/01/2000 11:23 AM
+To: Todd Kimberlain/NA/Enron, Joseph Hrgovcic/HOU/ECT
+cc: Malcolm Wells/NA/Enron, Michael Barber/HOU/ECT 
+Subject: Grep for Windows.
+
+Todd and Joseph,
+
+As discussed earlier, I did recall reading somewhere that grep had been 
+ported to Windows. I did some research and was able to find the Windows 
+ported version of grep. Attached you will find a compressed file that 
+contains the grep binary and source. Please let me know if I can be of any 
+further assistance. Thanks.
+
+
+-carlos

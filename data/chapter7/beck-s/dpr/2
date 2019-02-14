@@ -1,0 +1,85 @@
+Message-ID: <18566721.1075849851080.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 06:49:00 -0800 (PST)
+From: chris.abel@enron.com
+To: jeffrey.gossett@enron.com, stacey.white@enron.com, martha.stevens@enron.com, 
+	michelle.bruce@enron.com, eric.groves@enron.com, d.hall@enron.com, 
+	peggy.hedstrom@enron.com, scott.earnest@enron.com, 
+	sheila.glover@enron.com, brenda.herod@enron.com, 
+	kristin.albrecht@enron.com, warren.prihoda@enron.com
+Subject: Active/Inactive Books Website
+Cc: sally.beck@enron.com, shona.wilson@enron.com, debbie.brackett@enron.com, 
+	burton.mcintyre@enron.com, nancy.hernandez@enron.com, 
+	susan.trevino@enron.com, justin.hertog@enron.com, 
+	james.new@enron.com, kenny.nicoll@enron.com, 
+	bradley.samuelson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, shona.wilson@enron.com, debbie.brackett@enron.com, 
+	burton.mcintyre@enron.com, nancy.hernandez@enron.com, 
+	susan.trevino@enron.com, justin.hertog@enron.com, 
+	james.new@enron.com, kenny.nicoll@enron.com, 
+	bradley.samuelson@enron.com
+X-From: Chris Abel
+X-To: Jeffrey C Gossett, Stacey W White, Martha Stevens, Michelle Bruce, Eric Groves, D Todd Hall, Peggy Hedstrom, Scott Earnest, Sheila Glover, Brenda F Herod, Kristin Albrecht, Warren Prihoda
+X-cc: Sally Beck, Shona Wilson, Debbie R Brackett, Burton McIntyre, Nancy Hernandez, Susan D Trevino, Justin Den Hertog, James New, Kenny Nicoll, Bradley Samuelson
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+We are currently in the process of creating a website for each of the book 
+administrators to maintain the Active/Inactive status of their books.  This 
+website will also will allow the book administrators to check their post id's 
+against active books.  All books will be identified by book administrator and 
+trading group.  The attached spreadsheet lists every book in RisktRAC, 
+provides what we currently believe the status (Active/Inactive) to be for 
+most books and some commodity codes associated with those books.  
+Additionally, there are two columns for book administrators and trading 
+groups, which are both empty.  
+
+In order for us to load the website with the most accurate data, we need for 
+each of you, as heads of your respective groups, to identify which books 
+belong to your book administrators and update the respective fields 
+associated with those books.  Refer to the following rules for updating 
+certain fields:
+
+1)The book status should be Active, Inactive or Archive.  If a book has any 
+deals/positions that should be officialized, might affect VAR, and/or might 
+affect credit exposure then the book should have an Active status.  If the 
+book has no deals/positions, but the intent is to use the book sometime in 
+the near future, then the book should have an Inactive status.   If there are 
+no plans to continue using the book then it should have an Archive status.  
+Periodically, books marked as Archive will be removed from the website and 
+archived.  A request can be made to the Risk Controls group to have the book 
+unarchived and placed back on the website.  
+Any books that do not have a status updated will default to Active.  Any new 
+books set up and placed on the website will default to Active.
+
+2)The Last Officialized and Commodity Code columns are provided to help you 
+and your group identify which books are yours and the book's status.
+
+3)The Trading Group column should have your name next to each of the books 
+that your book administrators own.  This will allow you to query all books in 
+your trading group to check if all active books have post id's or if an 
+inactive book has a post id.
+
+4)The Book Administrator column should have the name of the Book 
+Administrator responsible for the book.  This will allow you and the Book 
+Administrator to look at individual Book Administrator's books and post id's.
+
+Once this website is up and running, each Book Administrator will be required 
+to update the Status of each of their books on a daily basis and the Book 
+Administrator on an as needed basis.  All of these changes will be made 
+directly on the website.  
+
+We are trying to get this process in place as quickly as possible, so please 
+return this information at your earliest convenience to my attention.  You 
+may call me at x33102 with any questions.
+
+Thanks,
+
+Chris Abel
+
+
+
+

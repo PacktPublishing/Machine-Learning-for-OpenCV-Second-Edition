@@ -1,0 +1,371 @@
+Return-Path: <prensa@carloscutaia.com.ar>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 26011 invoked from network); 01 Sep 2004 20:33:59 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 01 Sep 2004 20:33:59 -0000
+Received: (qmail 18386 invoked from network); 1 Sep 2004 20:33:59 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx05.futurequest.net ([69.5.6.176])
+  with QMQP via TCP; 01 Sep 2004 20:33:59 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 25996 invoked from network); 01 Sep 2004 20:33:58 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 01 Sep 2004 20:33:58 -0000
+Received: (qmail 9455 invoked from network); 1 Sep 2004 20:33:58 -0000
+Received: from smtpout1 (200-32-5-22.prima.net.ar [200.32.5.22])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 01 Sep 2004 20:33:58 -0000
+Received: (qmail 11907 invoked by uid 700); 1 Sep 2004 20:42:54 -0000
+Received: from unknown (HELO lucas-5dmve7com) (prensa@carloscutaia.com.ar@200.126.203.201)
+  by 0 with SMTP; 1 Sep 2004 20:42:54 -0000
+Message-ID: <411-22004931203338607@lucas-5dmve7com>
+Return-Path: prensa@carloscutaia.com.ar
+Errors-to: prensa@carloscutaia.com.ar
+To: "8-Resto" <prensa@carloscutaia.com.ar>
+From: "agenda" <prensa@carloscutaia.com.ar>
+Subject: Domingo 5 / 21hs Carlos Cutaia en Notorious
+Date: Wed, 1 Sep 2004 17:33:38 -0300
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_NextPart_94915C5ABAF209EF376268C8"
+Content-Length: 15110
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_94915C5ABAF209EF376268C8
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="CARLOS%20CUTAIA_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="CARLOS%20CUTAIA_archivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title> </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>LUCAS</o:Author>
+  <o:LastAuthor>LUCAS</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>15</o:TotalTime>
+  <o:Created>2004-09-01T19:56:00Z</o:Created>
+  <o:LastSaved>2004-09-01T19:56:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>119</o:Words>
+  <o:Characters>657</o:Characters>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>775</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>50</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Impact;
+	panose-1:2 11 8 6 3 9 2 5 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:44.95pt 3.0cm 44.95pt 3.0cm;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ES link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<div style='border:solid windowtext 3.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+8.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+8.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+22.0pt;font-family:Arial'><!--[if gte vml 1]><v:shapetype id="_x0000_t136"
+ coordsize="21600,21600" o:spt="136" adj="10800" path="m@7,l@8,m@5,21600l@6,21600e">
+ <v:formulas>
+  <v:f eqn="sum #0 0 10800"/>
+  <v:f eqn="prod #0 2 1"/>
+  <v:f eqn="sum 21600 0 @1"/>
+  <v:f eqn="sum 0 0 @2"/>
+  <v:f eqn="sum 21600 0 @3"/>
+  <v:f eqn="if @0 @3 0"/>
+  <v:f eqn="if @0 21600 @1"/>
+  <v:f eqn="if @0 0 @2"/>
+  <v:f eqn="if @0 @4 21600"/>
+  <v:f eqn="mid @5 @6"/>
+  <v:f eqn="mid @8 @5"/>
+  <v:f eqn="mid @7 @8"/>
+  <v:f eqn="mid @6 @7"/>
+  <v:f eqn="sum @6 0 @5"/>
+ </v:formulas>
+ <v:path textpathok="t" o:connecttype="custom" o:connectlocs="@9,0;@10,10800;@11,21600;@12,10800"
+  o:connectangles="270,180,90,0"/>
+ <v:textpath on="t" fitshape="t"/>
+ <v:handles>
+  <v:h position="#0,bottomRight" xrange="6629,14971"/>
+ </v:handles>
+ <o:lock v:ext="edit" text="t" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t136" style='width:209.25pt;
+ height:33.75pt'>
+ <v:shadow color="#868686"/>
+ <v:textpath style='font-family:"Impact";font-size:28pt;v-text-kern:t' trim="t"
+  fitpath="t" string="Carlos Cutaia"/>
+</v:shape><![endif]--><![if !vml]><img width=281 height=47
+src="cid:181510-220049312033302448@lucas-5dmve7com" alt="Carlos Cutaia" v:shapes="_x0000_i1025"><![endif]></span><span
+style='font-size:22.0pt;font-family:Impact;mso-bidi-font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+8.0pt;font-family:Impact;mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+22.0pt;font-family:Impact;mso-bidi-font-family:Arial'>Presenta<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+8.0pt;font-family:Impact;mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+26.0pt;font-family:Impact;mso-bidi-font-family:Arial'>“Para la guerra del
+Tango&quot;<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+22.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+20.0pt;font-family:Impact;mso-bidi-font-family:Arial'>Domingo 5 de septiembre<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+20.0pt;font-family:Impact;mso-bidi-font-family:Arial'>21hs / <span
+class=SpellE>Notorious</span> (Callao 966) $12<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+22.0pt;font-family:Impact;mso-bidi-font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span class=GramE><span
+lang=ES-AR style='font-size:18.0pt;font-family:Impact;mso-ansi-language:ES-AR'>&quot;
+Un</span></span><span lang=ES-AR style='font-size:18.0pt;font-family:Impact;
+mso-ansi-language:ES-AR'> septiembre pianístico propone <span class=SpellE>Notorious</span>
+con la participación de artistas de reconocido nivel como Manolo Juárez,
+Ernesto <span class=SpellE>Jodos</span>, Pablo <span class=SpellE>Ziegler</span>,
+Guillermo Romero, Jorge Navarro, Javier Lozano y Carlos Cutaia.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang=ES-AR
+style='font-size:10.0pt;font-family:Impact;mso-ansi-language:ES-AR'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang=ES-AR
+style='font-size:18.0pt;font-family:Impact;mso-ansi-language:ES-AR'>El club,
+que instalará en estos días un piano acústico y se pondrá así a la altura de
+las circunstancias, lo estrenará con este ciclo de artistas de distintos
+géneros que resulta <span class=SpellE>abarcativo</span> y atrayente por los
+diferentes géneros y características interpretativas de los músicos convocados.
+&quot;<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span class=SpellE><span
+lang=ES-AR style='font-size:14.0pt;font-family:Impact;mso-ansi-language:ES-AR'>www.lanacion.com.ar</span></span><span
+lang=ES-AR style='font-size:14.0pt;font-family:Impact;mso-ansi-language:ES-AR'>/631524<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang=ES-AR
+style='font-size:14.0pt;font-family:Impact;color:black;mso-ansi-language:ES-AR'><a
+href="http://www.carloscutaia.com.ar/"><span style='color:black'>www.carloscutaia.com.ar</span></a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang=ES-AR
+style='font-size:10.0pt;font-family:Impact;mso-ansi-language:ES-AR'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span style='font-size:
+10.0pt;font-family:Impact;color:#333300'>Si no te interesa recibir la <span
+class=SpellE>programacion</span> <span class=SpellE>contestanos</span> con <b
+style='mso-bidi-font-weight:normal'>&quot;</b><strong><span style='font-family:
+Impact;font-weight:normal;mso-bidi-font-weight:bold'>REMOVER&quot;</span></strong></span><span
+lang=ES-AR style='font-size:10.0pt;font-family:Impact;mso-ansi-language:ES-AR'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:5.0pt;margin-right:0cm;
+margin-bottom:5.0pt;margin-left:0cm;text-align:center;mso-layout-grid-align:
+none;text-autospace:none;border:none;mso-border-alt:solid windowtext 3.0pt;
+padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><span lang=ES-AR
+style='font-size:8.0pt;font-family:Impact;mso-ansi-language:ES-AR'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+
+------=_NextPart_94915C5ABAF209EF376268C8
+Content-Type: image/gif; name="image001.gif"
+Content-Transfer-Encoding: base64
+Content-Description: image001.gif
+Content-Id: <181510-220049312033302448@lucas-5dmve7com>
+
+R0lGODlhGQEvAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAAAAAY
+AS4AgQAAAAAAAP///wECAwL/hI8Xye0Po5y02msW3rz7jwSiKIwiiDLmqqVutZbmS3vsXAOkwPf+
+meMEfMRW8Lgj/ozHZmKo5DFT0Khy6oRUr9nc1trDdr1gsQ1sNY8V5bXri5Y2b6MaPEy7x0vuh57f
+9/GHpnaWZtf2tpcYGMLYiDEYVyj0SGUpuHgIybbJeSFJSOb5RgeEMjgi+vlH+flEmBTlCor5CsPY
+6mdqxttSp7tLR+EbmZvLm5GcYRtiKjzsUKxyTKogeep4uLMQrJKqJjtLy+zpHayrmlb3BD7l7TzJ
+dI4Zige7/qNjaw9IrUmOnrlE6QDGW/SuniZ/+wZa63ev06wiDWe1W8iw3EJa/wItauRSkUu/Xxgz
+wguJ8CNIlPokYjTSiuJJiBFZpoyQyiVFlS0L3rQ5SZtHnilzEpVzdA/MjUAZ0mzZdJUWqR1B+lSa
+NGjSpSX5GG1KMl+1oo9aVS1y8p/DoejajDyqju3YK+Cozu15V9RZvHI96in0de+9dOKWnPi7VSdU
+xGAD50UqeNtjyAQ3MfZjd63VyU4tcw67WazmnUA1RLZ42nRlv9bU9n0dGjbp0olr026cmbXn0Xo/
+12Z8WVrulW151wTuG+7WwMuKy+5tnPJuq8+mIqsO1jY85NH9cR8ndYJz4kqBJR8/21gzzNPJk/oe
+RXFE+GjDS0C/OBa+54NXr/+rtJ5w7ZG23YBEyIfUbWbZd58vw62EoHf+xRYge63hNCGBZT2DjXYO
+lvGVDaGABmGEJO6E3zi1VOgaislpURiF6X1THoOgvGWbUO7pxp+KxNhoHY87lniRQdlJM1KIN75k
+YgOp5QgRR0BaKGN+F+rwlGoXxggiVctc09WJUOmooYE1RTWjk15il2KCaXGp1UxPyfDgmKm8SKaV
+Qs4IZ5r79SihmW5acmeGdhLS5Yt1dYfFk0e2WKFjjGpHaKKCdiYaXXXO5xaeTf62Xp8JCjgpqKUm
+ZtSTumw66J56EvlomxnRyCKrgbrK6XudGpprlXjYKqZ0gDZ6HkEcTmkAsJ//OqpcVFr2+KxIil4a
+7KifHtlmtH5e6yizCq4Smbb6dMtrq0Pl2auvwrp4JbfFnvptubeyi9q7uJoLK7mCinsmpOmWee+8
+s9FH75B81VuqrNXOGqu8/AKS1p8AG3wwxcddCvFkD3tlr7oCj+kutc1GjC6+Exd88qEBZxzdxt3E
+kqrD15b8cX/QNhvkOJIGvDBXCIs8srxYHRCLsv6OuiCjJEvMZIR0cibDy5nybGLMXSF9tckgQ3n1
+PF2LlzWmWS+Mx5wVp8xUVpWOPXPbc3pdUkBf0/wTmlKz3TDeWMZ9dBie5ohmvnwTk6WaiOoKbtFA
+Z8Ul3HXTDGfPhp+rjJFOVuJoQZSkgvdQ4pZ67DPnRIqaDa3j/v1okf/hZBY5qq+OJF2pK1PYL3Ac
+JvNBS9z2DXas44BlNMHfgKTvvRMPg/AiGg/NKdMUDzzt7AzPgjPKXwM8LwUAADs=
+------=_NextPart_94915C5ABAF209EF376268C8--

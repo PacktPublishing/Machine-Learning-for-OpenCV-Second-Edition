@@ -1,0 +1,83 @@
+Message-ID: <7962373.1075849830787.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 03:13:00 -0700 (PDT)
+From: thomas.gros@enron.com
+To: sally.beck@enron.com
+Subject: RE: Update on ConfirmLogic
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thomas D Gros
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Kathryn has done a good job of keeping me in the loop on this.  In addition, 
+Kim has consistently provided useful, objective feedback, as shown in the 
+memo attached below. 
+
+We will produce a stable code with the changes Kim and her team have 
+requested before the package is released outside the building.
+
+I have also asked Kathryn to perform more testing within the CL team before 
+asking Kim and her team (or any other clients) to play with the changes.  
+Performing significant changes overnight, and then showing the code to 
+clients the next morning is wonderfully responsive, but a little too risky.
+
+The high-level demo scheduled for Thursday will show code that is already 
+frozen and hardened.
+
+All the best,
+
+Tom
+
+ -----Original Message-----
+From:  Beck, Sally  
+Sent: Wednesday, April 18, 2001 9:00 AM
+To: Gros, Thomas D.
+Subject: Update on ConfirmLogic
+
+I assume that Kathryn has communicated this to you.  I have only read Kim's 
+e-mail - I will talk with her later today.  --Sally 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 04/18/2001 08:58 AM 
+---------------------------
+   Kim S Theriot                04/17/2001 10:58 PM
+
+To: Leslie Reeves/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT 
+Subject: Update on ConfirmLogic
+
+I wanted to give you a quick update on ConfirmLogic....
+
+Testing was done last week on the ConfirmLogic module.  On Thursday, we 
+discussed with Kathryn Cordes and the ConfirmLogic IT team the items that we 
+had found that were "show stoppers" as far as releasing the product for Beta 
+Testing.  Some of the major Items found were the inability to properly handle 
+Basis Swaps for Gas and inability to display meaningful Index References for 
+Power (they were pulling in a code rather than a description of the Index).  
+
+The team worked on the "fixes" and migrated the code last night.  Today 
+during testing, they found that the new code had actually caused problems 
+with the fixed price and volume information, which was working previously.  I 
+talked to Kathryn and she said that the were rebuilding the code.  She said 
+that someone had tested the fix last night and everything worked fine.  We 
+plan more testing in the morning.
+
+They are doing a high-level demo this Thursday for Beta Customers just to 
+introduce the module.  They were planning on having more extensive Beta demos 
+for each client starting next week but realize that those may have to 
+postponed further.
+
+We have told them that we would not sign off for Beta testing until we were 
+comfortable that the items that we identified were working.  We need 
+consistent, stable days of testing before I will feel comfortable.
+
+Overall, we like the "new" streamlined version of the screens and feel that 
+it will be a good product if they can work out the data display issues.
+
+Call with any questions.
+
+Kim Theriot  
+
+

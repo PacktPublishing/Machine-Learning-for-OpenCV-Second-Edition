@@ -1,0 +1,89 @@
+Return-Path: <rebekahpayne@mail2holland.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 12107 invoked by uid 115); 14 Jan 2005 15:39:51 -0000
+Received: from rebekahpayne@mail2holland.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.194.66.80):. 
+ Processed in 0.271871 secs); 14 Jan 2005 15:39:51 -0000
+Received: from linux04.dns-servicios.com (82.194.66.80)
+  by churchill.factcomp.com with SMTP; 14 Jan 2005 15:39:47 -0000
+Received: from nobody by linux04.dns-servicios.com with local (Exim 4.43)
+	id 1CpTYe-0001Af-Bb; Fri, 14 Jan 2005 16:40:16 +0100
+To: 
+Subject: Winning Information!
+From: Rebekahpayne <rebekahpayne@mail2holland.com>
+X-Priority: 3 (Normal)
+CC: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: RLSP Mailer
+Message-Id: <E1CpTYe-0001Af-Bb@linux04.dns-servicios.com>
+Date: Fri, 14 Jan 2005 16:40:16 +0100
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - linux04.dns-servicios.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - mail2holland.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+FROM: PROMOTIONS DEPARTMENT OF NATIONAL PROMO BV, WINNING
+NOTICE FOR SILVER STAKE WINNER - 
+Ref. No.- NP/04/652659966/BV 
+Attention:
+The National Promotions has just concluded its final draws
+of it's periodical promotional program.
+An exclusive list of email addresses of thousands of
+individual and corporate bodies were picked by automated
+random computer search from the internet.
+No tickets were sold. 
+Your email address emerged as one of seven winners in the
+silver stakes category as email addresses were
+soughted,from a total number of 25,000 addresses drawn from
+all over the globe. 
+After an automated computer ballot of our International
+Promotions Program, only SEVEN winners emerged in this
+category and therefore each are to receive payouts of
+€116,000,00 from the total of €820,000.00 (EIGHT HUNDRED
+AND TWENTY THOUSAND EUROS).
+However,every email address selected was accompanied by a
+reference and ticket number,after the cyber lotto
+selection,the below ticket and reference numbers emereged
+as one of the lucky winners in the above category.
+CONGRATULATIONS!!!
+Reference number for your prize is:Ref. No.-
+NP/04/652659966/BV 
+Ticket No.- NP87866BV 
+For confirmation of the claim of your prize money,you are
+to send an email to our customer service representative
+with informations below for further instructions on how you
+can claim your prize:
+Mark Starton
+Customer Service Representative
+National Promotions BV,Netherlands
+email: markstarton@mail2agent.com   
+   cc: starton_mark@nationalpromo.com
+Phone: +447040104368
+       +447040114988
+You may be required to provide any of the above information
+during the process of collecting your prize. We
+congratulate you once again and it is our hope that you
+participate in any of our international programs in the
+nearest future.
+Thank you and CONGRATULATIONS!!!.
+Sincerely,
+Rebekah Payne,
+Promotions Manager
+National Promo BV
+rebekah_p@nationalpromo.com
+ 
+
+
+
+___________________________________________________________________________
+Mail enviado desde el servicio WebMail de PHP-Nuke
+- http://www.tusitio.cl

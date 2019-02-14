@@ -1,0 +1,120 @@
+Message-ID: <27281242.1075856583593.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 04:33:00 -0800 (PST)
+From: michelle@fea.com
+To: vince.j.kaminski@enron.com
+Subject: FEA announces the release of @ENERGY 2.0
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Michelle Mendoza" <michelle@fea.com>
+X-To: <Vince.J.Kaminski@enron.com>
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+January 26, 2001
+
+Vince Kaminski
+Enron North America Corp.
+1400 Smith Street
+30th Floor, Rm. 3036B
+Houston, TX 77251-1188
+1 713-853-3848
+
+
+Dear Vince Kaminski,
+
+This is to inform you of the release of @ENERGY 2.0. FTP download
+instructions are available immediately. The download instructions are
+included at the end of this email. Your CD's and manuals will be shipped to
+you within 2 weeks. Please see below for more information regarding this new
+release.
+
+Please confirm that you are the correct recipient for this shipment and your
+address above is correct by clicking reply and send. If any changes need to
+be made, please make the changes above and reply.
+
+**WARNING: PLEASE NOTE THAT IF YOU DID NOT RECEIVED A LICENSE KEY FOR
+@ENERGY AFTER JUNE 2000, YOU WILL NEED TO CONTACT SUPPORT@FEA.COM OR CALL
+510.548.6200 TO OBTAIN A NEW LICENSE KEY TO ENABLE THE NEW VERSION.**
+
+**Swing users: @ENERGY/Swing now replaces the "SWING" product. See the
+@ENERGY user manual for a discussion of the changes. Contact FEA for the
+necessary license keys. You will be able to run both the new and old SWING
+simultaneously.
+
+Heres an overview of the new and changed features since version 1.6:
+
+
+@ENERGY (Forward Curve)
+Jump parameters are now calibrated for use in other @ENERGY functions.
+Inputs and outputs to POWERCALIB and COMCALIB have changed. See the
+corresponding function syntax in the User Guide for additional information.
+35-40% speed improvement. The module is now out of beta.
+
+@ENERGY (Basics)
+Different interpolation schemes on forward prices are now supported. If you
+use INDEXSWAP , EXOTICSWAP, or OPTINDEXSWAP with floating price linked to a
+series of futures dates, such futures dates need not be close to dates
+specified in the forward curve input.  A new utility function, PATHUTIL,
+allows you  to simulate and visualize price paths consistent with the models
+supported by @ENERGY. 25-30% speed improvement.
+
+@ENERGY (Advanced)
+Different interpolation schemes on forward prices are now supported. If you
+use OPTDIFFSWAP or DIFFSWAP  with floating price linked to a series of
+futures dates, such futures dates need not be close to dates specified in
+the forward curve input. CALSPREADOPT now allows for the specification of
+two different mean reversion rates. 30-35% speed improvement.
+
+@ENERGY (Swing)
+SWINGOPT and STRIPSWINGOPT now allow for valuation of swing straddle
+contracts with overall load constraints. 65-70% speed improvement. The
+module is now out of beta.
+
+@ENERGY (Weather)
+30-35% speed improvement.
+
+
+If you have any questions please feel free to contact us. We appreciate this
+opportunity to be of continuing service to Enron North America Corp..
+
+Regards,
+
+Michelle Mendoza
+Support@fea.com
++1-510-548-6200
+Financial Engineering Associates, Inc. (FEA)
+
+****************************************************************************
+*****************************
+To download @ENERGY 2.0 via FTP, follow the following instructions:
+
+NOTE: Using EXPLORER leads to unpredictable results, so we suggest using
+      NETSCAPE or a DOS shell.
+
+
+USING NETSCAPE:
+
+In the Location box type: ftp://energy@ftp.fea.com
+Password: 2rbzxgv5
+
+energy-2.0-win32.exe is for Windows 95/98/2000/NT. Download and run on
+a local drive.
+
+USING A DOS SHELL:
+
+At a DOS prompt type: ftp ftp.fea.com
+User: energy
+Password:  2rbzxgv5
+
+Type "binary" and hit 'return'.
+Type "ls" for a list of available files.
+Type "get" energy-2.0-win32.exe and and wait for the ftp> prompt.
+Type "quit".
+
+The file will be downloaded into the directory at which you entered the ftp
+site.
+Double click on the exe and follow the instructions on the screen.
+

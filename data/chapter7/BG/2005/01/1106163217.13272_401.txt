@@ -1,0 +1,44 @@
+Return-Path: <>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 20612 invoked by uid 115); 19 Jan 2005 06:41:47 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.150.85):. 
+ Processed in 0.116739 secs); 19 Jan 2005 06:41:47 -0000
+Received: from unknown (HELO sapo.pt) (82.155.150.85)
+  by churchill.factcomp.com with SMTP; 19 Jan 2005 06:41:46 -0000
+Date: Wed, 19 Jan 2005 06:22:53 +0000 (Hora padrão de GMT)
+From: CHIC Porto <info.eventos@sapo.pt>
+To: bruceg@em.ca
+Message-ID: 38371.2658912037_10394291534092
+Subject: Chic 19 Janeiro
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ajude os sobreviventes...</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+<div align="center"><img src="http://p001.no.sapo.pt/tsunami/f1.jpg" width="400" height="720" />
+  <br />
+<img src="http://p001.no.sapo.pt/tsunami/f2.jpg" width="400" height="644" /></div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

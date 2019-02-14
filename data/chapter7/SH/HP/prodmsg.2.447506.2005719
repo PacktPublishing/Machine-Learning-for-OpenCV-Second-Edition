@@ -1,0 +1,55 @@
+Received: from mailbackup.inode.at (213.229.60.24)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:35 -0000
+Received: from exim by mailbackup.inode.at with local (Exim 4.34)
+	id 1Dupo2-0006s1-Nk
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:58:34 +0200
+X-Failed-Recipients: distinctivenessresettles@iag.co.at
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@mailbackup.inode.at>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupo2-0006s1-Nk@mailbackup.inode.at>
+Date: Tue, 19 Jul 2005 12:58:34 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  distinctivenessresettles@iag.co.at
+    SMTP error from remote mailer after RCPT TO:<distinctivenessresettles@iag.co.at>:
+    host mail.iag.co.at [81.223.25.27]: 550 5.1.1 User unknown
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [211.245.27.66] (port=2142 helo=mailwisconsin.com)
+	by mailbackup.inode.at with smtp (Exim 4.34)
+	id 1Dupo1-0006pj-M2
+	for distinctivenessresettles@iag.co.at; Tue, 19 Jul 2005 12:58:34 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190498;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinctivenessresettles@iag.co.at
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716412">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>

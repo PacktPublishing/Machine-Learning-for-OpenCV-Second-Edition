@@ -1,0 +1,60 @@
+Message-ID: <20679834.1075856617752.JavaMail.evans@thyme>
+Date: Thu, 26 Apr 2001 01:45:00 -0700 (PDT)
+From: joaocneves@email.msn.com
+To: tanya.tamarchenko@enron.com
+Subject: Interview - Numerical Methods & Finance
+Cc: vince.j.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: vince.j.kaminski@enron.com
+X-From: "JoaoCNeves" <JoaoCNeves@email.msn.com>
+X-To: <tanya.tamarchenko@enron.com>
+X-cc: <Vince.J.Kaminski@enron.com>
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+??? ??? Dear  Tanya:
+?
+??? 
+??? ??? It was a  great pleasure to have met you. I very much enjoyed the 
+interview and your  insightfull questions.
+?
+??? ??? I am keenly  aware that many of the methods that I discussed with you 
+yesterday are unique,  new?and not reported elsewhere. This is true both 
+about the work I did in  whole yield curve interest rate pricing?as well as 
+GARCH. The innovations  stem from the extensive numerical analysis experience 
+that I have both in  turbulence physics as well as finance. They entailed 
+considering the problem  from its raw formulation, mathematical analysis, 
+physical interpretation,  taylored numerical method development, software 
+writting and develoment and data  management.
+?
+??? ??? As to why I  have not yet published anything the answer is that the 
+driver in my work has  been adding value to the business not publishing. 
+Publishing is however an  option that has always been open with my former 
+supervisor who is aware of the  work that I did.
+?
+??? ??? I not however  that these results were possible only by exploring to 
+the utmost extent the  mathematics, finance, software design and data 
+managemnet aspects of the  problem. Absence of any of these aspects is likely 
+to cripple performance and  execution.
+?
+??? ??? Please recall  that as good as they were the performance measures 
+that I mentioned to you were  for a single processor machine. Vastly better 
+can be achieved with both soft  parallelism (multithreading) as well as hard 
+parallelism (heterogenous network).  This fo course allows us to step up the 
+reach of the models used.
+?
+??? ??? In fact I  know for a fact that better can be done than what I 
+mentioned in the interview.  From work that I have been doing on the 
+integration of the swaption volatility  surface on the whole yield curve 
+interest rate model ITM and OTM instruments can  be included in both the 
+callibration, pricing and hedging. 
+?
+??? ??? I look  forward hearing back from you soon and particularly to the 
+opportunity of us  cooperating.
+?
+??? ??? Best  regards
+?
+??? ???  Joao

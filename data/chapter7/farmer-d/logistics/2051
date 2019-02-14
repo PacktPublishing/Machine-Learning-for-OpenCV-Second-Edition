@@ -1,0 +1,30 @@
+Message-ID: <32184013.1075854318565.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 10:27:00 -0800 (PST)
+From: mary.poorman@enron.com
+To: gary.hanks@enron.com
+Subject: Meter 8022 - Bad Scada Feedback to Sitara
+Cc: edward.terry@enron.com, daren.farmer@enron.com, david.baumbach@enron.com, 
+	aimee.lannou@enron.com, michael.winders@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: edward.terry@enron.com, daren.farmer@enron.com, david.baumbach@enron.com, 
+	aimee.lannou@enron.com, michael.winders@enron.com
+X-From: Mary Poorman
+X-To: Gary A Hanks
+X-cc: Edward Terry, Daren J Farmer, David Baumbach, Aimee Lannou, Michael C Winders
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Beginning on January 14th at meter 988022 (United Salt), the BAV feed into 
+Pops shows excessive flow (over 200M/Day beginning the 15th).  O'Neal brought 
+this to my attention this evening.  This issue will blow out our UA4 number, 
+and probably our P & L.  I phoned Lee in Gas Control to make sure a tech was 
+sent out to check calibration and scada feed.  I would like to have better 
+estimates from the 14th through the 19th asap so that we can make corrections 
+to all pertinent numbers.
+
+Thank you,
+
+Mary

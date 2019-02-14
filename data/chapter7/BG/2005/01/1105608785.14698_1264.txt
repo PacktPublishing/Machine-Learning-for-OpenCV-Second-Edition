@@ -1,0 +1,39 @@
+Return-Path: <VideoEmail@powerteam.prserv.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 28966 invoked by uid 115); 7 Jan 2005 23:04:00 -0000
+Received: from VideoEmail@powerteam.prserv.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(207.22.18.217):. 
+ Processed in 0.117032 secs); 07 Jan 2005 23:04:00 -0000
+Received: from dslv-1-217.mv.com (HELO mail.berlinha.org) (207.22.18.217)
+  by churchill.factcomp.com with SMTP; 7 Jan 2005 23:03:58 -0000
+Received: from 207.22.18.218 (dslv-1-218.MV.COM [207.22.18.218])
+	by mail.berlinha.org (Postfix) with SMTP
+	id A8B9F1B819; Fri,  7 Jan 2005 18:04:12 -0500 (EST)
+Message-ID: <0000504a1374$00004b82$0000209a@207.22.18.218>
+To: <Customers@berlinha.org>
+From: "PowerTeam" <VideoEmail@powerteam.prserv.net>
+Subject: Discover how to earn $3000 - $5000 a week!
+Date: Fri, 07 Jan 2005 17:04:06 -0600
+Reply-To: VideoEmail@powerteam.prserv.net
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.4510
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+
+<html>
+<body>
+<p><a href="http://www.onethousandperday.biz">
+<img border="0" src="http://mysite.verizon.net/resoxfmz/EM2.jpg" width="620" height="393"></a></p>
+<p align="center"><font color="#808080" size="2">
+<span style="FONT-STYLE: italic; FONT-FAMILY: Arial">Change my email
+<a href="http://mysite.verizon.net/resoxfmz/ServiceBasic.htm">preferences</a></span></font></p>
+</body>
+</html>
+
+
+

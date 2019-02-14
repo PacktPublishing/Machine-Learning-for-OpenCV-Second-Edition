@@ -1,0 +1,28 @@
+Message-ID: <27514970.1075863299879.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 13:35:17 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: Lending for 8/21
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+
+In the Southwest, EPE lending continues. STWBOM and STSW are each 25 mw short on peak at PV. Day-ahead price is $46. Enter deals to fill these shorts in the appropriate book. Reduce purchase prices in the following deals to $4. Sell back to EPE at $0.
+Deals are:
+
+	740196 - STWBOM buys EPE
+	740230 - STSW buys EPE
+
+In the Northwest, we've got a lending agreement going with PGE. STWBOM and STNW are each 25 mw short off peak at Mid-C. Day-ahead price is $27.25. We have not entered a placeholder purchase in the day-ahead market, so Real Time position manager will be 50 mw short off peak at Mid-C. Make purchases to fill this short. Under the appropriate desk, of course.
+
+Please let me know if you have any questions regarding these agreements.
+
+Thanks,
+Kate

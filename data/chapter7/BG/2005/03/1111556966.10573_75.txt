@@ -1,0 +1,45 @@
+Return-Path: <nigazoxug@leehom.net>
+Delivered-To: em-ca-bait-baseline@em.ca
+Received: (qmail 7877 invoked by uid 115); 22 Mar 2005 21:42:37 -0000
+Received: from nigazoxug@leehom.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.32.118.6):. 
+ Processed in 0.412214 secs); 22 Mar 2005 21:42:37 -0000
+Received: from rtuc1a6.impsat.net.ar (200.32.118.6)
+  by churchill.factcomp.com with SMTP; 22 Mar 2005 21:42:33 -0000
+Received: from leehom.net (leehom-net.mr.outblaze.com [205.158.62.177])
+        by rtuc1a6.impsat.net.ar (Postfix) with ESMTP id MMJKI4YOVG
+        for <bait-baseline@em.ca>; Tue, 22 Mar 2005 13:52:22 +0000
+Date: Tue, 22 Mar 2005 13:52:22 +0000
+From: Mayra Brady <nigazoxug@leehom.net>
+X-Mailer: The Bat! (v3.0.1.33) UNREG / XOMJGIBGFEZ51Q3VJL6S
+Reply-To: Mayra Brady <nigazoxug@leehom.net>
+X-Priority: 3 (Normal)
+Message-ID: <4282971655.0312487519837@rtuc1a6.impsat.net.ar>
+To: bait-baseline@em.ca
+Subject: AR: Logos, letterheads, business cards, envelops
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Windows-1252
+Content-Transfer-Encoding: 8bit
+
+Your business lacks visual identity?
+
+Marketing efforts falling short?
+
+Invisible among a sea of competitors?
+
+You're on the right track for a solution - keep reading...
+Our professional designers specialize in the creation of custom logos and business/corporate identities. Our design needs to be seen only once to gain customer attention and recognition. With one of our unique, eye-catching mages you'll never have to introduce yourself twice!
+We promise fast turnaround and 100% customer satisfaction. Choose from as any design ideas as necessary, select as many colors as you wish, order any modifications you like, and request any format. Our prices are affordable for any size of business, and get this: there are no hidden fees.
+
+Follow the link below to browse our portfolio and check out our Sweet Deals.
+Wipe the "in" from "invisible" in just a few days - with us!
+http://www.inner-logos.com/
+
+Sincerely,
+Mayra Brady
+
+
+
+======
+You may unsubscribe here:
+http://www.inner-logos.com/u.php

@@ -1,0 +1,36 @@
+Message-ID: <19381742.1075840826749.JavaMail.evans@thyme>
+Date: Thu, 9 Aug 2001 12:38:59 -0700 (PDT)
+From: bob.hillier@enron.com
+To: greg.whalley@enron.com, john.lavorato@enron.com, louise.kitchen@enron.com, 
+	john.sherriff@enron.com, joe.gold@enron.com, richard.lewis@enron.com, 
+	john.arnold@enron.com, tim.belden@enron.com, m..presto@enron.com, 
+	greg.piper@enron.com, mark.pickering@enron.com
+Subject: EnronOnline Outage, August 9, 2001
+Cc: jay.webb@enron.com, brad.richter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jay.webb@enron.com, brad.richter@enron.com
+X-From: Hillier, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BHILLIE>
+X-To: Whalley, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gwhalle>, Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Sherriff, John </O=ENRON/OU=EU/cn=Recipients/cn=JSHERRIF>, Gold, Joe </O=ENRON/OU=EU/cn=Recipients/cn=JGOLD>, Lewis, Richard </O=ENRON/OU=EU/cn=Recipients/cn=RLEWIS>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Presto, Kevin M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpresto>, Piper, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gpiper>, Pickering, Mark </O=ENRON/OU=EU/cn=Recipients/cn=mpicker>
+X-cc: Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwebb>, Richter, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Brichte>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+
+EnronOnline started to see message delivery slow down drastically at 8:40am.  At 8:50 updates were so slow that all products were suspended from trading.  At 8:56 we brought the site offline to insure that trading would NOT continue, as our traders could not manage their products.
+
+At 9:10 we were able to isolate the issue to a single disk, in a brick of storage, that was responding extremely slowly, but not failing over like it should.  We removed the storage from the configuration and brought the database back online.  Once we verified the database was healthy we brought EOL back online at approximately 9:28am.  At this point all our users, both internal and external, started logging back in.
+
+The issue was caused by a bug in the firmware on the disk.  The vendor of the disk has already provided us with a patch for this bug.  We will be applying this patch to all of our storage, one brick at a time starting this evening.
+
+We had to take EOL offline for a second time at 11:17am due to a failure on another brick of storage.  This failure was caused while we were verifying the root cause of the issue we experienced earlier.  We brought the site back online at 11:56.  During this outage we verified that there was NO corruption or loss of data, due to either of the outages.
+
+Regards,
+Bob Hillier
+E-Commerce Operations
+
+
+
+ 

@@ -1,0 +1,49 @@
+Return-Path: <gmail-noreply@google.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 17415 invoked by uid 115); 9 Mar 2005 12:43:12 -0000
+Received: from gmail-noreply@google.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(212.176.219.18):. 
+ Processed in 0.084172 secs); 09 Mar 2005 12:43:12 -0000
+Received: from unknown (HELO 90.1.0.4) (212.176.219.18)
+  by churchill.factcomp.com with SMTP; 9 Mar 2005 12:43:11 -0000
+X-Account-Key: account3
+X-UIDL: 1108485121.32198.bait@em.ca,S=2621
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gmail-noreply@google.com>
+Delivered-To: bait@em.ca
+Received: by 10.54.246.108 with SMTP id g3mr9668148wrg;
+        Wed, 9 Mar 2005 15:49:22 +0300 (PST)
+Message-ID: <18a68c11215021508313803ba076@mail.gmail.com>
+Date: Wed, 9 Mar 2005 15:49:17 +0300
+From: SecureGroup <gmail-noreply@google.com>
+To: Dear Clients <bait@em.ca>
+Subject:  Protect yourself from Spyware
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-Bogosity: No, tests=bogofilter, spamicity=0.000000, version=0.16.4
+Content-Length: 636
+Lines: 22
+
+
+================WARNING!!!==============================
+  There's a 95 chance your PC is infected with Spyware!
+========================================================  
+Spyware, much like a virus, is a malicious software planted on your computer.
+It can:
+* Steal your passwords
+* Steal your identity
+* Spam your email account
+* Crash your computer
+* Bombard you with advertising
+* Steal your credit card numbers
+* Download your Private files
+* Monitor your emails & KeyStrokes
+* Watch the sites you visit   
+
+
+PROTECT YOURSELF!
+CLICK HERE:  http://www.block-spyware.info/?aid=614
+
+Verification code: ef24789d0e-daf13649b1-c1e5e5e3

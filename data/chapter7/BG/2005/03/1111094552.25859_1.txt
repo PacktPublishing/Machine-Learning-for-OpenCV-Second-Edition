@@ -1,0 +1,52 @@
+Return-Path: <bdubphs@mail15.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 13122 invoked from network); 17 Mar 2005 19:30:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 17 Mar 2005 19:30:19 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Mar 2005 19:30:19 -0000
+Received: (qmail 25259 invoked from network); 17 Mar 2005 19:30:18 -0000
+Received: from ALyon-251-1-16-235.w81-251.abo.wanadoo.fr (unknown [81.251.132.235])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 17 Mar 2005 19:30:10 -0000
+Received: from tumble pectoralis (firewall.snailpickle.com [253.61.94.36]) by 81.251.132.235 (0.9.8/6.9.7) with ESMTP id ATVXO706927836 for <rait@bruce-guenter.dyndns.org>; Thu, 17 Mar 2005 18:32:09 -0100
+Message-ID: <i1464b0XE5V526T83HR56GGT42758408P145036@81.251.132.235>
+Reply-To: "Maggie Keyes" <bdubphs@mail15.com>
+From: "Maggie Keyes" <bdubphs@mail15.com>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Application approval #3 3 3    % CURRENT_DATE_TIME
+Date: Fri, 18 Mar 2005 01:29:09 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--947947820848846"
+Content-Length: 567
+Lines: 25
+
+----947947820848846
+Content-Type: text/plain;
+	charset="iso-2991-0"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.nowratez.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Carmen Talbot
+
+http://www.nowratez.com/x/st.html
+
+
+----947947820848846--

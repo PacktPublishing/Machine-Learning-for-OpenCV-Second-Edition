@@ -1,0 +1,48 @@
+Return-Path: <LKTYOWUergexifnoh@creeksideind.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 22498 invoked from network); 22 Apr 2005 08:09:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 22 Apr 2005 08:09:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Apr 2005 08:09:34 -0000
+Received: (qmail 6793 invoked from network); 22 Apr 2005 08:09:33 -0000
+Received: from 212-182-166-235-mx.xdsl.tiscali.nl (unknown [212.182.166.235])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 22 Apr 2005 08:09:32 -0000
+Received: from box15.packum.com (212.182.166.235)
+          by 212.182.166.235 (SimpleMailer v6.45) with SMTP
+          id <5763zy7mz>; Fri, 22 Apr 2005 14:07:32 +0500
+Reply-To: "bo erinna" <courtadm.humenuk@packum.com>
+From: "bo erinna" <courtadm.humenuk@packum.com>
+To: cvs@bruce-guenter.dyndns.org, rait@bruce-guenter.dyndns.org
+Subject: Final alert - don't miss out
+Date: Fri, 22 Apr 2005 13:06:32 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7014638_1113985.tJ75"
+Content-Length: 684
+Lines: 22
+
+----7014638_1113985.tJ75
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Homeowner,
+<p>
+You have been pre-approved for a $300,000 loan at a low fixed rate.<br>
+This offer is being extended to you unconditionally and your credit is in no way a factor.<p>
+
+To take advantage of this limited time opportunity, we ask you to visit our website and complete<br>
+the post approval form.<p>
+
+<a href="http://darkorchid.refi-extra.com/s5/li.php?cyb=55">Approval Form</a><p>
+
+bo erinna<br>
+Chase Financial Group
+<p><p>
+elegy jurek captor michelle hughesc<p>
+<a href="http://refi-extra.com/r1/">not interested</a><p></html>
+
+----7014638_1113985.tJ75--

@@ -1,0 +1,82 @@
+Received: from calypso.meccahosting.com (69.57.144.9)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:38 -0000
+Received: from localhost (localhost)
+	by calypso.meccahosting.com (Switch-3.1.6/Switch-3.1.0) id j6JAxWok030654;
+	Tue, 19 Jul 2005 10:59:32 GMT
+Date: Tue, 19 Jul 2005 10:59:32 GMT
+From: Mail Delivery Subsystem <MAILER-DAEMON@meccahosting.com>
+Message-Id: <200507191059.j6JAxWok030654@calypso.meccahosting.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAxWok030654.1121770774/calypso.meccahosting.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAxWok030654.1121770774/calypso.meccahosting.com
+
+The original message was received at Tue, 19 Jul 2005 10:58:37 GMT
+from [211.245.27.66]
+
+   ----- The following addresses had permanent fatal errors -----
+<info@esodriver.com>
+    (reason: 550 5.1.1 User unknown)
+
+   ----- Transcript of session follows -----
+... while talking to localhost:
+>>> DATA
+<<< 550 5.1.1 User unknown
+550 5.1.1 <info@esodriver.com>... User unknown
+<<< 503 5.5.1 No recipients
+
+--j6JAxWok030654.1121770774/calypso.meccahosting.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; calypso.meccahosting.com
+Received-From-MTA: DNS; [211.245.27.66]
+Arrival-Date: Tue, 19 Jul 2005 10:58:37 GMT
+
+Final-Recipient: RFC822; info@esodriver.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: SMTP; 550 5.1.1 User unknown
+Last-Attempt-Date: Tue, 19 Jul 2005 10:59:18 GMT
+
+--j6JAxWok030654.1121770774/calypso.meccahosting.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([211.245.27.66])
+	by calypso.meccahosting.com (Switch-3.1.6/Switch-3.1.0) with SMTP id j6JAwRok030627
+	for <info@esodriver.com>; Tue, 19 Jul 2005 10:58:37 GMT
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815380;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@esodriver.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279826">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JAxWok030654.1121770774/calypso.meccahosting.com--
+

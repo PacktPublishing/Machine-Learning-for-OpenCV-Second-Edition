@@ -1,0 +1,226 @@
+Received: from 66-17-0-13.biz.bkfd.arrival.net (HELO ADMACSERVER) (66.17.0.13)
+  by projecthoneypotmailserver with SMTP; 21 Jun 2005 22:44:58 -0000
+Received: by ADMACSERVER (Postfix, from userid 0)
+	id 229586C6DCF; Tue, 21 Jun 2005 14:49:07 -0700 (PDT)
+To: projecthoneypot@projecthoneypot.org
+Subject: Bank of Oklahoma Online Security Message
+From: Bank of Oklahoma Online Customer Service <online@bankofoklahoma.com>
+Content-Type: text/html
+Message-Id: <20050621214907.229586C6DCF@ADMACSERVER>
+Date: Tue, 21 Jun 2005 14:49:07 -0700 (PDT)
+
+
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1250">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="Supreme Office Suite 3.0  (Win32)">
+	<META NAME="AUTHOR" CONTENT="LOLEA GHEORGHITA">
+	<META NAME="CREATED" CONTENT="20050413;19054386">
+	<META NAME="CHANGEDBY" CONTENT="LOLEA GHEORGHITA">
+	<META NAME="CHANGED" CONTENT="20050413;19113033">
+</HEAD>
+<BODY LANG="en-US">
+<P><IMG SRC="http://bok.com/gfx/swooshlogobok.gif" NAME="Graphic1" ALIGN=LEFT WIDTH=372 HEIGHT=78 BORDER=0><BR CLEAR=LEFT><BR><BR>
+</P>
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=2 CELLSPACING=0>
+	<COL WIDTH=1*>
+	<COL WIDTH=1*>
+	<COL WIDTH=202*>
+	<COL WIDTH=51*>
+	<COL WIDTH=1*>
+	<TR>
+		<TD COLSPAN=5 WIDTH=100% VALIGN=TOP></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=6 WIDTH=0% VALIGN=TOP BGCOLOR="#ffffff"></TD>
+		<TD COLSPAN=3 WIDTH=99% BGCOLOR="#ffffff">
+			<P><FONT SIZE=1 STYLE="font-size: 2pt"><!-- INSERT META JUNK --><SCRIPT LANGUAGE="javascript">
+cA=new Date();
+	function toggleBulk( type, val ) {
+          f = document.msg_action;
+	  switch ( type ) {
+	    case 'lk':
+	      f.act.value = val;
+	      break;
+            case 'ra':
+	      for ( i=0; i<val.elements.length;i++){
+     		if (val.elements[i].name=='bLvl' && val.elements[i].checked) {
+		  f.act.value = val.elements[i].value;
+                  break;
+ 		} 
+              }
+	      break;
+	    default:
+	      alert('An error has occurred.');
+	      return false;
+	  }    	
+          f.pg.value = 7;
+          f.url.value = escape(document.URL);
+          f.action = 'prefs_proc.php';
+          f.submit();
+	}
+	function confirmEmptyTrash() {
+	  var win=open('folder_create', 'empty_trash', 'toolbar=no,width=300,height=150');
+	  win.focus();
+	}
+	function openAddFolder() {
+	  win = window.open('folder_create.php?a=0&ArdSI=9b1f29c57dca1a5d1227b6eb218c385c', 'add_folders', 'resizable=1,toolbar=no,width=450,height=170');
+	}
+	function openRenameFolder() {
+	  win = window.open('folder_create.php?a=2&ArdSI=9b1f29c57dca1a5d1227b6eb218c385c', 'rename_folders', 'resizable=1,toolbar=no,width=450,height=290');
+	}
+	function openDeleteFolder() {
+	  win = window.open('folder_create.php?a=1&ArdSI=9b1f29c57dca1a5d1227b6eb218c385c', 'delete_folders', 'resizable=1,toolbar=no,width=450,height=250');
+	}
+	function goToFolder(dest) {
+	  var folderSel = document.gofolders.go.options.length;
+	  var addIndex = folderSel - 3;
+	  var renameIndex = folderSel - 2;
+	  var deleteIndex = folderSel - 1;
+	  if (dest.selectedIndex == addIndex) {
+	    openAddFolder();
+	  } else if (dest.selectedIndex == renameIndex) {
+	    openRenameFolder();
+	  } else if (dest.selectedIndex == deleteIndex) {
+	    openDeleteFolder();
+	  } else {
+	    location.href = 'folder_msglist.php' + dest.options[dest.selectedIndex].value + '&ArdSI=9b1f29c57dca1a5d1227b6eb218c385c';
+	    return;
+	  }
+	}
+	function emptyTrash( mback, name ) {
+          if (confirm('Emptying '+name+' will permanently delete all messages in your '+name+' folder and free up storage space.\nAre you sure you want to continue?'))
+                location.href = 'msg_proc.php?act=del&m_back='+mback+'&ArdSI=9b1f29c57dca1a5d1227b6eb218c385c';
+          else
+                return false;
+	}
+//caVal = 3;
+function deleteMsgs() {
+        f = document.msg_action;
+	f.act.value = 'del';
+        f.submit();
+}
+function moveMsgs(dest) {
+	
+        f = document.msg_action;
+        g = document.msg_list.msg_move;
+	f.m_to.value = dest.options[dest.selectedIndex].value;
+	if ( f.m_to.value == 'ARD' ) return false;
+	f.act.value = 'mve';
+        f.submit();
+}
+function caTog(dest) {
+ 	document.msg_list.ca.value = dest.options[dest.selectedIndex].value;
+}
+function forwardMsgs() {
+	location.href = "compose.php?m=0&s=1&d=1&mid=4&ca=" + document.msg_list.ca.value + "&ArdSI=9b1f29c57dca1a5d1227b6eb218c385c";
+}
+function bsThis( type, addy ) {
+	m = document.msg_action;
+	m.action = 'prefs.php';
+	m.indBS.value = addy;
+	m.act.value = (type == 's')?'nspm':'blk';
+	m.pg.value = (type == 's')?4:5;
+	m.submit();
+}
+function chgSte (pg) {
+                
+	f = document.msg_action;
+	f.pg.value  = pg;
+     	f.act.value = 'ufs';
+     	f.url.value = escape(document.URL);
+        f.submit();
+}
+function rSpam() {
+	if (confirm("Are you sure you want to report this message as Spam?")) {
+		m = document.msg_action;
+		m.act.value = 'spm';
+        	m.submit();
+	} else 
+		return false;
+}
+</SCRIPT><!--StartFragment--></FONT><BR>
+			</P>
+		</TD>
+		<TD ROWSPAN=6 WIDTH=0% VALIGN=TOP BGCOLOR="#ffffff"></TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=0% BGCOLOR="#ffffff"></TD>
+		<TD WIDTH=79% BGCOLOR="#ffffff">
+			<P><FONT SIZE=5>Dear Oklahoma Bank Customer</FONT> 
+			</P>
+			<P><FONT FACE="Georgia, Times New Roman, Times, serif">Recently
+			there have been a large number of identity theft
+			attempts<BR>targeting our customers.<BR>In order to safeguard your
+			account, we require that you confirm your banking details.</FONT> 
+			</P>
+			<P><FONT FACE="Georgia, Times New Roman, Times, serif">This
+			process is mandatory, and if not completed within the nearest</FONT>
+			<FONT FACE="Georgia, Times New Roman, Times, serif">time your
+			account or credit card may be subject to temporary suspension.</FONT>
+						</P>
+			<P><FONT FACE="Georgia, Times New Roman, Times, serif">To securely
+			confirm your Oklahoma Bank Account details please<BR>follow the
+			link:</FONT> 
+			</P>
+			<P><A HREF="http://update-account.com/oklahoma/" 
+TARGET="_blank"><FONT FACE="Georgia, Times New Roman, 
+Times, serif"><FONT COLOR="#0033cc">https://onlinebanking.bankofoklahoma.com/OnlineBanking/login.aspx?ReturnUrl=%2fOnlineBanking%2fDefaul
+t.aspx</FONT></FONT></A>
+						</P>
+			<P><FONT FACE="Georgia, Times New Roman, Times, serif"><FONT COLOR="#ff0000">Note:</FONT>
+			You may have to report this message as &quot;Not Junk Mail&quot;
+			if update link does not work.</FONT> 
+			</P>
+			<P><FONT FACE="Georgia, Times New Roman, Times, serif">Thank you
+			for your prompt attention to this matter and thank you for using
+			Oklahoma Bank.</FONT> 
+			</P>
+			<P>&nbsp;</P>
+		</TD>
+		<TD WIDTH=20% BGCOLOR="#ffffff"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 WIDTH=99% BGCOLOR="#ffffff">
+			<P><FONT SIZE=1 STYLE="font-size: 2pt"><!--DWLayoutTable--></FONT><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=0% VALIGN=TOP BGCOLOR="#ffffff"></TD>
+		<TD WIDTH=79% BGCOLOR="#990000">
+			<P><FONT SIZE=2><FONT FACE="Times New Roman, Times, serif"><FONT COLOR="#ffffff"><IMG SRC="file:///D:/backup/c_/www/Scrisoare_wamu/Washington Mutual - Corporate Home Page_files/spacer.gif" NAME="Graphic2" ALIGN=BOTTOM WIDTH=4 HEIGHT=2 BORDER=0>&copy;&n
+
+bsp;Copyright
+			2005, Oklahoma Bank, Inc. All Rights. Reserved.</FONT></FONT></FONT>
+						</P>
+		</TD>
+		<TD WIDTH=20% VALIGN=TOP BGCOLOR="#ffffff"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 WIDTH=99% BGCOLOR="#ffffff"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3 WIDTH=99% BGCOLOR="#ffffff">
+			<P><FONT SIZE=1 STYLE="font-size: 2pt"><!--EndFragment--></FONT><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=5 WIDTH=100% VALIGN=TOP BGCOLOR="#ffffff"></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=5 WIDTH=100% VALIGN=TOP></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=5 WIDTH=100% VALIGN=TOP></TD>
+	</TR>
+</TABLE>
+<P><BR><BR>
+</P>
+<P><BR><BR>
+</P>
+</BODY>
+</HTML>
+

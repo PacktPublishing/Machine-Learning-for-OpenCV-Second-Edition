@@ -1,0 +1,37 @@
+Return-Path: <Sawyer@numail.co.uk>
+Received: (fqmail 15371 invoked from network); 17 Sep 2004 16:18:53 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 17 Sep 2004 16:18:53 -0000
+Received: (qmail 11595 invoked from network); 17 Sep 2004 16:18:44 -0000
+Received: from 81-203-168-165.user.ono.com (81-203-168-165.user.ono.com [81.203.168.165])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 17 Sep 2004 16:18:44 -0000
+Received: from 1.200.213.24 by 81.203.168.165; Fri, 17 Sep 2004 22:10:32 +0500
+Message-ID: <dubaltogethertanakasalvatore@mailfreeway.com>
+From: "Sherman Gill" <Sawyer@numail.co.uk>
+Reply-To: "Sherman Gill" <Sawyer@numail.co.uk>
+To: fredr-ezmlm@ezmlm.org
+Subject: To Lamb's Shop Customers!
+Date: Fri, 17 Sep 2004 22:16:32 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; charset=iso-8859-1;
+	boundary="--041532325662130490"
+
+----041532325662130490
+Content-Type: text/plain;
+Content-Transfer-Encoding: quoted-printable
+
+Dear customer!
+
+We updated our software catalogue and added new
+popular products! Now you can get any software item
+at 90% discount rate! For more information visit us here:
+http://www.bestoem.info/?acyclic
+
+With best regards,
+Product Manager
+Sherman Gill
+
+----041532325662130490--
+

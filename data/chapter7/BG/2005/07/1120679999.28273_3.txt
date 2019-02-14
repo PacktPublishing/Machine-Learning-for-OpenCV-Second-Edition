@@ -1,0 +1,395 @@
+Return-Path: <reply@thaiventure.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 7054 invoked from network); 06 Jul 2005 14:33:15 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 06 Jul 2005 14:33:15 -0000
+Received: (qmail 31592 invoked from network); 6 Jul 2005 14:33:15 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx01.futurequest.net ([69.5.6.171])
+  with QMQP via TCP; 06 Jul 2005 14:33:15 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 7048 invoked from network); 06 Jul 2005 14:33:15 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 06 Jul 2005 14:33:15 -0000
+Received: (qmail 19177 invoked from network); 6 Jul 2005 14:33:14 -0000
+Received: from Nok (gb.jb.74.236.revip.asianet.co.th [61.91.74.236])
+  by mx10.futurequest.net ([69.5.6.182])
+  with SMTP via TCP; 06 Jul 2005 14:33:11 -0000
+From: "Alibaba.com & B to B Marketplace Marketing" <reply@thaiventure.com>
+To: <webmaster@ezmlm.org>
+Subject: พลาดไม่ได้ ! สำหรับผู้ประกอบการธุรกิจส่งออกแบบ B to B 
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 6 Jul 2005 21:33:16
+
+<html>
+<head>
+<title>สัมมนาเชิงปฎิบัติการ Alibaba.com &amp; B2B Marketplace Marketing รุ่นที่ 1</title>
+<meta http-equiv="Content-Language" content="th">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+<meta http-equiv="Content-Type" content="text/html; charset=tis-620">
+<link href="http://www.thaiventure.com/seminar/css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<table width="600" border="0" align="center" cellpadding="5" cellspacing="0" class="table4">
+  <tr>
+    <td><div align="center"><font color="#666666">หากรายละเอียดด้านล่างไม่แสดงกรุณา 
+        <a href="http://www.thaiventure.com/seminar/alibaba-3.html" target="_blank">คลิกที่นี่</a> 
+        หรือ <a href="http://www.thaiventure.com/seminar/alibaba-2.html" target="_blank">http://www.thaiventure.com/seminar/alibaba-3.html</a></font></div></td>
+  </tr>
+</table>
+<br>
+<table width="647" border="0" align="center" cellpadding="0" cellspacing="2" bgcolor="#000000" class="table4">
+  <tr> 
+    <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="table4">
+        <tr> 
+          <td><img src="http://www.thaiventure.com/seminar/thaiventure/alibaba-12.jpg" width="647" height="318"></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table4">
+        <tr valign="top"> 
+          <td width="65%"> <table width="95%" border="0" align="center" cellpadding="25" cellspacing="1" bgcolor="#FFFFFF" class="table4">
+              <tr> 
+                <td valign="top" bgcolor="#FFFFFF"><p class="tableH5">เรียนรู้และใช้งานจาก 
+                    Account จริง พร้อมทั้ง<font color="#FF0000">ทดลองนำสินค้ามาประกาศ 
+                    ซื้อ-ขายได้ฟรี </font> เป็นระยะเวลา 1 เดือน (ควรนำไฟล์สินค้ามา 
+                    5 รายการ เพื่อทดลองลงประกาศใน Alibaba.com)</p>
+                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                    ถ้าเปรียบเทียบเว็บไซต์ eBay.com เป็นเว็บไซต์อันดับหนึ่งของโลกสำหรับการซื้อ 
+                    ขาย สินค้า ในลักษณะขายปลีก<font color="#FF6600"> Alibaba.com 
+                    ก็เป็นเป็นเว็บไซต์อันดับหนึ่งของโลกสำหรับการซื้อ ขาย สินค้าสำหรับธุรกิจ 
+                    Business to Business (B to B)</font> หรือธุรกิจขายส่ง มี Suppliers 
+                    และ Buyers ใช้บริการเป็นสื่อกลางในการค้าขายส่งอย่างมากมาย 
+                    ด้วยความหลากหลายในตัวสินค้าที่มี Suppliers เสนอขายผ่านทาง 
+                    Alibaba.com ทำให้ Alibaba.com เป็นศูนย์กลางในการขายหรือกระจายสินค้าในลักษณะขายส่งทางอินเตอร์เน็ตที่ดังและใหญ่ที่สุดใขณะนี้ 
+                    สิ่งที่ท่านจะได้รับไปจากการสัมมนาครั้งนี้คือความรู้ที่ท่านจะนำไปใช้ในการขายสินค้าในลักษณะขายส่ง 
+                    (Business to Business) ของท่านผ่านเว็บไซต์ Alibaba.comc แม้ว่าท่านจะยังไม่มีเว็บไซต์ก็ตาม</p>
+                  <TABLE class=table4 cellSpacing=1 cellPadding=2 width="100%" border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <div align="left" class="tableH4"><font color="#FF6600"><STRONG><span class="tableH4"><font color="#FF6600"><strong>พบกับวิทยากรผู้เชี่ยวชาญเรื่อง 
+                            Alibaba 2 ท่าน</strong></font></span></STRONG></font></div></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="90%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD>- คุณจตุพล ทานาฤทัย ผู้เชี่ยวชาญและมีประสบการณ์ด้าน 
+                                  E-Marketing มากกว่า 8 ปี</TD>
+                              </TR>
+                              <TR> 
+                                <TD>- คุณชนม์เฉลิม ปัตถา ผู้เชี่ยวชาญด้านการซื้อ-ขายผ่านเว็บไซต์ 
+                                  Alibaba.com</TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <table width="95%" border="0" align="center" cellpadding="3" cellspacing="0" class="table4">
+                    <tr> 
+                      <td width="4%"><img src="http://www.thaiventure.com/seminar/thaiventure/date.gif" width="19" height="20"></td>
+                      <td width="96%">วันศุกร์ ที่15 กรกฎาคม 2548 เวลา 09.00 - 
+                        16.00 น.</td>
+                    </tr>
+                    <tr> 
+                      <td><img src="http://www.thaiventure.com/seminar/thaiventure/date-3.gif" width="19" height="20"></td>
+                      <td>ณ ศูนย์ศึกษาสาธรธานี อาคารสาธรธานี 1 ชั้น 8 ห้อง 810 
+                        ( ใกล้กับ BTS สถานีช่องนนทรี ) <a href="http://www.thaiventure.com/map/9.jpg" target="_blank">คลิกดูแผนที่ 
+                        </a></td>
+                    </tr>
+                  </table>
+                  <br>
+                  <br> <table class=table4 cellspacing=0 cellpadding=5 width="100%" 
+      bgcolor=#999999 border=0>
+                    <tbody>
+                      <tr> 
+                        <td bgcolor=#979700> <div align=center> 
+                            <p><strong></strong></p>
+                            <table class=table4 cellspacing=0 cellpadding=3 width="95%" 
+            align=center border=0>
+                              <tbody>
+                                <tr> 
+                                  <td><div align="center"><img src="http://www.thaiventure.com/seminar/thaiventure/regis.jpg" width="294" height="38"></div></td>
+                                </tr>
+                                <tr> 
+                                  <td> <div align=center><strong><font 
+                  color=#ffffff>ทางโทรศัพท์ติดต่อ บริษัท ไทยเวนเจอร์ ดอท คอม จำกัด 
+                                      โทร. 02-6368332 , 04-6678979<br>
+                                      </font></strong></div></td>
+                                </tr>
+                                <tr> 
+                                  <td> <div align=center><strong><font 
+                  color=#ffffff>หรือ</font></strong></div></td>
+                                </tr>
+                                <tr> 
+                                  <td> <div align=center><a 
+                  href="http://www.thaiventure.com/seminars_register.php?No=9" target="_blank"><img 
+                  height=35 src="http://www.thaiventure.com/seminar/thaiventure/register.gif" width=211 
+                  border=0></a></div></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p><strong><font 
+        color=#ffffff></font></strong></p>
+                          </div></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br> <br> <TABLE class=table4 cellSpacing=1 cellPadding=2 width="100%" border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <div align="left" class="tableH4"><font color="#FF6600"><STRONG><STRONG>สิ่งที่คุณจะได้รับในงานสัมมนา</STRONG></STRONG></font></div></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="90%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD>1. เอกสารประกอบการสัมมนาที่ประกอบด้วยข้อมูลล่าสุดโดยจัดทำเป็นรูปเล่มอย่างดี</TD>
+                              </TR>
+                              <TR> 
+                                <TD>2. อาหารกลางวัน 1 มื้อ อาหารว่าง 2 มื้อ </TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <TABLE class=table4 cellSpacing=0 cellPadding=2 width="100%" 
+      bgColor=#999999 border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <span class="tableH4"><STRONG><font color="#FF6600">กำหนดการสัมมนา</font></STRONG></span></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 borderColor=#cccccc cellSpacing=1 cellPadding=3 
+            width="100%" align=center border=1>
+                            <TBODY>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center><FONT color=#000000>08.30 
+                                    น. - 09.00 น.</FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>ลงทะเบียน </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="4" valign="top"> <DIV align=center><FONT color=#000000>09.00 
+                                    น. – 10.30 น.</FONT></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>Alibaba.com Overview</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - What is Alibaba.com? 
+                                  History of Alibaba.com </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff>- How to use Aliababa.com 
+                                  to increase your business opportunity?</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff>- Register to 
+                                  be free member.</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center><FONT color=#000000>10.30 
+                                    น. - 10.45 น.</FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>พักรับประทาน ชา 
+                                  กาแฟ</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="3" valign="top"> <DIV align=center><FONT color=#000000>10.45 
+                                    น. - 12.00 น.</FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>My Alibaba.com</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff>- To become a 
+                                  seller at Alibaba.com</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - Post 5 products 
+                                  of each person as exercise. </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center><FONT color=#000000>12.00 
+                                    น. - 13.00 น.</FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>พักรับประทานอาหาร</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="5" valign="top"> <DIV align=center><FONT color=#000000>13.00 
+                                    น. – 14.30 น.</FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>Finding Buyers 
+                                  from alibaba.com by Alibaba search bar</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - To see all 
+                                  buyer of each products from Alibaba.com</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - Alibaba.com 
+                                  search bar</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - To find the 
+                                  competition of your business in country</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff>- To find the 
+                                  competiton of your business from aboard</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center><FONT color=#000000>14.30 
+                                    น. – 14.45 น.</FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>พักรับประทาน ชา 
+                                  กาแฟ </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="5" valign="top"> <DIV align=center><FONT color=#000000>14.45 
+                                    น. - 16.00 น</FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>Alibaba.com Advance 
+                                  Search</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff>- How to use Ailbaba.com 
+                                  advance search for your business?</TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>- Success Stories</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - The others 
+                                  B to B Marketplace sites </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - Q &amp; A </TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          
+                        </TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <br>
+                  <TABLE class=table4 cellSpacing=1 cellPadding=2 width="100%" border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <div align="left" class="tableH4"><font color="#FF6600"><STRONG><STRONG>ค่าใช้จ่ายในการเข้าร่วมงานสัมมนา</STRONG></STRONG></font></div></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="90%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD><strong>** ค่าใช้จ่ายในการเข้าร่วมสัมมนา 5,000 
+                                  บาท/ท่าน </strong><br>
+                                  ค่าใช่จ่ายต่อ 1 ท่าน 5,000 + 350 (VAT 7 %) = 
+                                  5,350 บาท/ท่าน <br>
+                                  กรณีเป็นนิติบุคคล หักภาษี ณ ที่จ่ายไว้ 3 % (150 
+                                  บาท) = 5,200 บาท/ท่าน <br>
+                                  กรณีเป็นรัฐวิสาหกิจ หักภาษี ณ ที่จ่ายไว้ 1 % 
+                                  (50 บาท) = 5,300 บาท/ท่าน <br>
+                                  <font color="#FF0000">* หมายเหตุ : โปรดนำหนังสือรับรองภาษีหัก 
+                                  ณ ที่จ่ายมายื่นในวันที่สัมมนา </font>
+                                  <p><font color="#FF0000">บริษัท ไทยเวนเจอร์ 
+                                    ดอท คอม จำกัด<br>
+                                    90/22-23,25 อาคารสาธรธานี ชั้น 10 ถนนสาทรเหนือ 
+                                    แขวงสีลม เขตบางรัก กรุงเทพฯ 10500<br>
+                                    หมายเลขผู้เสียภาษี 3030122742</font><br>
+                                  </p>
+                                  <p><strong>รายละเอียดการชำระเงิน </strong><br>
+                                    1. [ ] โอนเงินเข้าบัญชี THAIVENTURE DOT COM 
+                                    LIMITED ธนาคาร สแตนดาร์ดชาร์เตอร์นครธน สาขา 
+                                    สำนักงานใหญ่ บัญชี ออมทรัพย์ เลขที่บัญชี 0-002-30276-7 
+                                    <br>
+                                    2. [ ] หรือโอนเงินเข้าบัญชี นาย ชีพธรรม คำวิเศษณ์ 
+                                    ธนาคารกรุงเทพ สาขาย่อย เทสโก้ สุขาภิบาล บัญชีออมทรัพย์ 
+                                    เลขที่บัญชี 045-0-06748-3 <br>
+                                    3. [ ] ชำระด้วยเช็คสั่งจ่ายในนาม “ THAIVENTURE 
+                                    DOT COM LIMITED ” (ท่านสามารถถือเช็คไปให้เจ้าหน้าที่ในวันงาน) 
+                                    <br>
+                                    <font color="#FF0000">* หมายเหตุ : * การสำรองที่นั่ง 
+                                    จะเรียบร้อยก็ต่อเมื่อท่านได้ชำระค่าใช้จ่ายเข้ามาเท่านั้น 
+                                    </font></p>
+                                  <p><font color="#FF0000">* เมื่อชำระค่าใช้จ่ายเสร็จแล้ว 
+                                    โปรดแฟกซ์รายละเอียดการโอนเงินมาที่ 02 - 6368298 
+                                    </font></p>
+                  </TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <br>
+                  <p align="center"><a href="http://www.thaiventure.com/seminars_detail.php?No=9" target="_blank"><img src="http://www.thaiventure.com/seminar/thaiventure/click.jpg" width="276" height="43" border="0"></a><br>
+                    <br>
+                  </p></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<br>
+<table width="600" border="0" align="center" cellpadding="5" cellspacing="0" class="table4">
+  <tr> 
+    <td><div align="center"><a href="http://t.extreme-dm.com/?login=tri2112"
+target="_top"><img src="http://t1.extreme-dm.com/i.gif"
+name="EXim" border="0" height="1" width="1"
+alt="eXTReMe Tracker"></a> 
+        <script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script>
+        <script type="text/javascript"><!--
+var EXlogin='tri2112' // Login
+var EXvsrv='s9' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=\"http://e0.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script>
+        <noscript>
+        <img height="1" width="1" alt=""
+src="http://e0.extreme-dm.com/s9.g?login=tri2112&amp;j=n&amp;jv=n"/> 
+        </noscript>
+        <font color="#666666">To unsubscribe send a blank email to: <a href="mailto:unsubscribe@thaiventure.com">unsubscribe@thaiventure.com</a></font></div></td>
+  </tr>
+</table>
+</body>
+</html>

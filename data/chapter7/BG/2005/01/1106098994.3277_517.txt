@@ -1,0 +1,44 @@
+Return-Path: <eventoss@iconenet.com.br>
+Received: (fqmail 4849 invoked from network); 19 Jan 2005 01:42:51 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 19 Jan 2005 01:42:51 -0000
+Received: (qmail 10221 invoked from network); 19 Jan 2005 01:42:51 -0000
+Received: from pargo (200141221088.user.veloxzone.com.br [200.141.221.88])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 19 Jan 2005 01:42:50 -0000
+From: "Eventos Icone" <eventoss@iconenet.com.br>
+To: <webmaster@ezmlm.org>
+Subject: Evento Gerenciamento Integrado de Processos e Documentos
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 18 Jan 2005 23:43:16
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Evento GIPD</title>
+</head>
+
+<body>
+
+<p align="center"><img src="http://www.iconenet.com.br/evento/050315_gipd/convite1.jpg" width="479" height="768" border="0" usemap="#Map"></p>
+<p align="center"><font face="Arial, Helvetica, sans-serif"><a href="http://www.iconenet.com.br/evento/050315_gipd/gipd.htm">Caso n&atilde;o veja a imagem, clique aqui. </a></font>  
+  <map name="Map">
+    <area shape="rect" coords="17,693,224,760" href="http://www.iconenet.com.br/evento/050315_gipd/gipd.htm" target="_blank">
+    <area shape="rect" coords="54,164,179,265" href="http://www.iconenet.com.br/evento/050315_gipd/cadastro/rio/sage.asp" target="_blank">
+    <area shape="rect" coords="306,169,432,270" href="http://www.iconenet.com.br/evento/050315_gipd/cadastro/vitoria/sage.asp" target="_blank">
+    <area shape="rect" coords="33,20,197,98" href="http://www.iconenet.com.br" target="_blank">
+  </map>
+</p>
+<p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><span style="background-color: #008000">Se 
+desejar retirar seu email de nosso cadastro de mala direta por favor <strong><a href="mailto:eventos@iconenet.com.br?subject=Remove" target="_blank">clique 
+aqui</a></strong><font color="#FF0000"><a href="mailto:eventos@iconenet.com.br?subject=Remove"> 
+</a></font>ou responda para eventos@iconenet.com.br com o seguinte assunto: <font color="#FFCC66"><strong>REMOVE.</strong></font></span></font></p>
+
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+Message-ID: <32677592.1075849856720.JavaMail.evans@thyme>
+Date: Tue, 6 Feb 2001 02:20:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com, 
+	cassandra.schultz@enron.com, shona.wilson@enron.com, 
+	gary.peng@enron.com, jennifer.nguyen@enron.com, 
+	tatiana.waxler@enron.com, matthew.adams@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen, Tatiana Waxler, Matthew Adams
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+In December we entered two swaps on Enron stock to hedge out the exposure we 
+created by granting options.  We consider them trading securities, so I have 
+included them in the spreadsheet accordingly.
+
+Gail Tholen explained to me that we have long term contracts to remove the 
+variability of revenues in Bammel Looper and Mid Texas.  I have changed the 
+total return swap model to use the volatility of prices in 2013 (when the 
+contracts expire), rather than spot volatilities.  As a result, December VaR 
+for total return swaps fell from $34 to $28 million.  
+
+With the partly offsetting effects of the new Enron stock and total return 
+swaps, December VaR for trading securities therefore fell from $70 to $68 
+million.  
+
+I recalculated total return swap VaR for the rest of 2000 using volatilities 
+for 2013.  Nevertheless, the impact is small, since spot volatilities were 
+not as high throughout the year as in December.  As a matter of fact, the 
+average, high, and low trading securities VaRs for 2000 remain largely 
+unchanged.
+
+Regards,
+
+
+
+Eugenio 

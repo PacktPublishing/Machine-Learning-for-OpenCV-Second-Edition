@@ -1,0 +1,675 @@
+Return-Path: <seminar@thaiventure.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10353 invoked by uid 115); 16 Jun 2005 17:30:30 -0000
+Received: from seminar@thaiventure.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(61.91.72.136):. 
+ Processed in 1.577772 secs); 16 Jun 2005 17:30:30 -0000
+Received: from gb.jb.72.136.revip.asianet.co.th (HELO Nok) (61.91.72.136)
+  by churchill.factcomp.com with SMTP; 16 Jun 2005 17:30:27 -0000
+From: "Thaiventure.com" <seminar@thaiventure.com>
+To: <bruceg@em.ca>
+Subject: สัมมนาเชิงปฏิบัติการ "Email Marketing Workshop" รุ่นที่ 2
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 17 Jun 2005 00:33:10
+Return-Path: <seminar@thaiventure.com>
+X-Qmail-Scanner-Message-ID: <111894302867210347@churchill>
+
+<html>
+<head>
+<title>สัมมนาเชิงปฏิบัติการ &quot;The Insider Secrets to Email Marketing&quot; รุ่นที่ 2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+<link href="http://www.thaiventure.com/ad_email/css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<table width="702" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#999900" bgcolor="#FFFFFF" class="table4">
+  <tr> 
+    <td bgcolor="#FFFFFF"><div align="center"><img src="http://www.thaiventure.com/ad_email/thaiventure/t_seminar_5.gif" width="700" height="195"> 
+        <br>
+        <TABLE class=table5 cellSpacing=0 cellPadding=0 width="90%" border=0>
+          <TBODY>
+            <TR> 
+              <TD> <DIV class=tableH5 align=center><STRONG><font color="#FF9900">สัมมนาเชิงปฏิบัติการ 
+                  &quot;Email Marketing Workshop&quot; รุ่นที่ 2</font></STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD> <HR> </TD>
+            </TR>
+            <TR>
+              <TD><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font color="#999900">Email 
+                Marketing</font></strong> เป็นเครื่องมือทางการตลาดที่ทรงประสิทธิภาพที่สุดอย่างหนึ่งบนอินเทอร์เน็ตนอกเหนือจาก 
+                Search Engine การสัมมนาครั้งนี้เพื่อให้ผู้ประกอบการสามารถเรียนรู้ถึงภาคทฤษฏีและภาคปฏิบัติว่า 
+                กระบวนการของ Email Marketing ทำอย่างไรบ้าง และมีข้อดีเปรียบเทียบกับเครื่องมือทางการตลาดอย่างอื่นอย่างไร 
+                สอนการใช้งานโปรแกรม DNS Web Crawler สำหรับการดูดอีเมล์จากเว็บไซต์ลูกค้ากลุ่มเป้าหมายและโปรแกรม 
+                DNS Send Mail สำหรับการส่ง Email จำนวนมากๆเป็นล้านฉบับ และสอนถึงการนำเอาโปรแกรมทั้งสองไปใช้แบบไม่ผิดจรรยาบรรณ<br> 
+                <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font color="#999900"></font></strong>นอกจากนี้เพื่อต้องการให้ผู้ประกอบการเห็นประโยชน์เพิ่มเติมว่าถ้าเราต้องการขยายตลาดไปยังต่างประเทศ 
+                หรือต้องการขายสินค้าไปยังกลุ่มเป้าหมาย แต่ปรากฏว่าองค์กรยังไม่มีงบโฆษณาและไม่มีงบประมาณเดินทางไปยังต่างประเทศ 
+                เช่นถามว่าถ้าต้องการไปเปิดตลาดที่ฝรั่งเศสแล้วมีเงินอยู่เพียง 5 
+                หมื่นบาทจะทำอย่างไร เราสามารถจะใช้กลยุทธ์ Email Marketing หากลุ่มลูกค้าและค่อยขยับไปใช้การตลาดรูปแบบอื่นต่อไป 
+                ถ้าถามว่าการสัมมนาครั้งนี้สอนการ Spam Email ใช่หรือไม่ ตอบว่าไม่ใช่แน่นอน 
+                เราจะเน้นย้ำให้ผู้เข้าร่วมสัมมนาทราบอยู่เสมอว่าต้องเอาไปใช้ให้ถูกต้อง 
+                บริษัทไทยเวนเจอร์ ดอทคอม จำกัด ต้องการให้ผู้ประกอบการไทยสามารถใช้เทคโนโลยีกับธุรกิจได้เต็มรูปแบบ 
+                เพื่อการพัฒนาของผู้ประกอบการไทยและการแข่งขันเพื่อสร้างความได้เปรียบในตลาดโลกต่อไป 
+              </TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <br>
+        <br>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV align=center><STRONG>กำหนดการสัมมนา</STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 borderColor=#cccccc cellSpacing=1 cellPadding=3 
+            width="90%" align=center bgColor=#cccccc border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>08.30 
+                          – 09.00 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>ลงทะเบียน </TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>09.00 
+                          – 10.30 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- ความแตกต่างระหว่าง Email 
+                        Marketing กับเครื่องมือ Internet Marketing อื่น ๆ </TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- การกำหนดวัตถุประสงค์ของการทำ 
+                        Email Marketing </TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- ข้อแตกต่างระหว่าง Opt-in 
+                        Email และ Spam</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- โมเดลในการส่ง Email ที่เป็นที่นิยมมากที่สุด</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- ค่าเฉลี่ยของ CTR ของ B2C 
+                        และ B2B Email Marketing</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>10.30 
+                          – 10.45 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>พักรับประทาน ชา กาแฟ </TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>10.45 
+                          – 12.00 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- เทคนิคการเขียน Ad บน Email 
+                        เพื่อให้ตรงใจลูกค้าและมีอัตราการเปิดสูงสุด</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- เทคนิคในการสร้างระบบ Mailing 
+                        Lists หรือ Newsletter ของตัวเอง</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- การทดลองใช้งานระบบ Newsletter 
+                        จากเว็บไซต์ตัวอย่าง</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>12.00 
+                          – 13.00 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>พักรับประทานอาหารกลางวัน</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>13.00 
+                          – 14.30 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- แนะนำการใช้งานโปรแกรม 
+                        DNS Web Crawler สำหรับการดูดอีเมล์จากเว็บไซต์ลูกค้ากลุ่มเป้าหมาย</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- คำแนะนำในการใช้โปรแกรม 
+                        DNS Web Crawler ให้ถูกต้องไม่ผิดจรรยาบรรณ</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>14.30 
+                          – 14.45 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>พักรับประทาน ชา กาแฟ</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff>14.45 
+                          – 16.00 น.</FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- แนะนำการใช้งานโปรแกรม 
+                        DNS Send Mail สำหรับการส่ง Email จำนวนมากๆเป็นล้านฉบับ</TD>
+                    </TR>
+                    <TR> 
+                      <TD width="31%" bgColor=#333333> <DIV align=center><FONT color=#ffffff></FONT></DIV></TD>
+                      <TD width="69%" bgColor=#ffffff>- คำแนะนำในการใช้โปรแกรม 
+                        DNS Send Mail ให้ถูกต้องไม่ผิดจรรยาบรรณ</TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <BR>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV 
+            align=center><STRONG>ประโยชน์ที่คุณจะได้รับจากการเข้าร่วมหลักสูตร</STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD>ทฤษฎีของ Email Marketing ที่ถูกต้อง</TD>
+                    </TR>
+                    <TR> 
+                      <TD>เทคนิคการเขียน Ad บน Email เพื่อให้ตรงใจลูกค้าและมีอัตราการเปิดสูงสุด</TD>
+                    </TR>
+                    <TR> 
+                      <TD>เทคนิคในการสร้างระบบ Mailing Lists หรือ Newsletter ของตัวเอง</TD>
+                    </TR>
+                    <TR> 
+                      <TD>การใช้งานโปรแกรม DNS Web Crawler สำหรับการดูดอีเมล์จากเว็บไซต์ลูกค้ากลุ่มเป้าหมาย</TD>
+                    </TR>
+                    <TR> 
+                      <TD>การใช้งานโปรแกรม DNS Send Mail สำหรับการส่ง Email จำนวนมากๆเป็นล้านฉบับ</TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <BR>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV align=center><STRONG><SPAN 
+            class=font1>เนื้อหาของหลักสูตร</SPAN></STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD>1. ทฤษฎีของ Email Marketing ที่ถูกต้อง</TD>
+                    </TR>
+                    <TR> 
+                      <TD>2. เทคนิคการเขียน Ad บน Email เพื่อให้ตรงใจลูกค้าและมีอัตราการเปิดสูงสุด</TD>
+                    </TR>
+                    <TR> 
+                      <TD>3. เทคนิคในการสร้างระบบ Mailing Lists หรือ Newsletter 
+                        ของตัวเอง</TD>
+                    </TR>
+                    <TR> 
+                      <TD>4. การใช้งานโปรแกรม DNS Web Crawler สำหรับการดูดอีเมล์จากเว็บไซต์ลูกค้ากลุ่มเป้าหมาย</TD>
+                    </TR>
+                    <TR> 
+                      <TD>5. การใช้งานโปรแกรม DNS Send Mail สำหรับการส่ง Email 
+                        จำนวนมากๆเป็นล้านฉบับ</TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <BR>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV align=center><STRONG><SPAN 
+            class=font1><STRONG>วิทยากรของหลักสูตร</STRONG></SPAN></STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD>1. คุณ ชีพธรรม คำวิเศษณ์ กรรมการผู้จัดการ บริษัท ไทยเวนเจอร์ 
+                        ดอท คอม จำกัด</TD>
+                    </TR>
+                    <TR> 
+                      <TD>2. คุณ จตุพล ทานาฤทัย ประธานเจ้าหน้าที่บริหาร บริษัท 
+                        โกลเบลท จำกัด</TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <BR>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV align=center><STRONG><SPAN 
+            class=font1><STRONG>สิ่งที่คุณจะได้รับในงานสัมมนา</STRONG></SPAN></STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD>1. เอกสารประกอบการสัมมนาที่ประกอบด้วยข้อมูลล่าสุดโดยจัดทำเป็นรูปเล่มอย่างดี 
+                      </TD>
+                    </TR>
+                    <TR> 
+                      <TD>2. อาหารกลางวัน 1 มื้อ อาหารว่าง 2 มื้อ </TD>
+                    </TR>
+                    <TR> 
+                      <TD>3. ส่วนลด 20% งานสัมมนาหัวข้ออื่นของ บริษัท ไทยเวนเจอร์ 
+                        ดอท คอม จำกัด </TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <BR>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV align=center><STRONG><SPAN 
+            class=font1>สถานที่และเวลา</SPAN></STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD>สถานที่&nbsp;ณ ศูนย์ศึกษาสาธรธานี อาคารสาธรธานี ชั้น 
+                        8 ห้อง 810</TD>
+                    </TR>
+                    <TR> 
+                      <TD>วัน เวลา&nbsp;วันศุกร์ ที่24 มิถุนายน 2548&nbsp;เวลา 
+                        09.00 - 16.00 น.</TD>
+                    </TR>
+                    <TR> 
+                      <TD><A href="http://www.thaiventure.com/map/1.jpg" 
+                  target=_blank>ดูแผนที่ คลิ้กที่นี่</A></TD>
+                    </TR>
+                    <TR> 
+                      <TD><STRONG>การเดินทาง : </STRONG>การเดินทางแนะนำให้ใช้บริการขนส่งสาธารณะ 
+                        เช่น รถไฟฟ้า BTS (ลงที่สถานีช่องนนทรี) </TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <BR>
+        <TABLE class=table4 cellSpacing=1 cellPadding=2 width="90%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#cccccc> <DIV align=center><STRONG><SPAN 
+            class=font1><STRONG>ค่าใช้จ่ายในการเข้าร่วมงานสัมมนา</STRONG></SPAN></STRONG></DIV></TD>
+            </TR>
+            <TR> 
+              <TD bgColor=#ffffff><BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD>** ค่าใช้จ่ายในการเข้าร่วมสัมมนา 3,500 บาท/ท่าน </TD>
+                    </TR>
+                    <TR> 
+                      <TD>ค่าใช่จ่ายต่อ 1 ท่าน 3,500 + 245 (VAT 7 %) = 3,745 บาท/ท่าน 
+                      </TD>
+                    </TR>
+                    <TR> 
+                      <TD>กรณีเป็นนิติบุคคล หักภาษี ณ ที่จ่ายไว้ 3 % (105 บาท) 
+                        = 3,640 บาท/ท่าน </TD>
+                    </TR>
+                    <TR> 
+                      <TD>กรณีเป็นรัฐวิสาหกิจ หักภาษี ณ ที่จ่ายไว้ 1 % (35 บาท) 
+                        = 3,710 บาท/ท่าน </TD>
+                    </TR>
+                    <TR> 
+                      <TD>** สำหรับราคาสมาชิก มีส่วนลด 20% </TD>
+                    </TR>
+                    <TR> 
+                      <TD>ค่าใช่จ่ายต่อ 1 ท่าน 2,800 + 196 (VAT 7 %) = 2,996 บาท/ท่าน</TD>
+                    </TR>
+                    <TR> 
+                      <TD>กรณีเป็นนิติบุคคล หักภาษี ณ ที่จ่ายไว้ 3 % (84 บาท) 
+                        = 2,912 บาท/ท่าน </TD>
+                    </TR>
+                    <TR> 
+                      <TD>กรณีเป็นรัฐวิสาหกิจ หักภาษี ณ ที่จ่ายไว้ 1 % (28 บาท) 
+                        = 2,968 บาท/ท่าน </TD>
+                    </TR>
+                    <TR> 
+                      <TD><FONT color=#ff0000>* หมายเหตุ : โปรดนำหนังสือรับรองภาษีหัก 
+                        ณ ที่จ่ายมายื่นในวันที่สัมมนา<BR>
+                        <BR>
+                        บริษัท ไทยเวนเจอร์ ดอท คอม จำกัด<BR>
+                        90 อาคารสาธรธานี ชั้น 10 ห้อง 22-23,25 ถนนสาทรเหนือ แขวงสีลม 
+                        เขตบางรัก กรุงเทพฯ 10500<BR>
+                        หมายเลขผู้เสียภาษี 3030122742</FONT> </TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                  <TBODY>
+                    <TR> 
+                      <TD><STRONG>รายละเอียดการชำระเงิน</STRONG></TD>
+                    </TR>
+                    <TR> 
+                      <TD>1. [ ] โอนเงินเข้าบัญชี THAIVENTURE DOT COM LIMITED 
+                        ธนาคาร สแตนดาร์ดชาร์เตอร์นครธน สาขา สำนักงานใหญ่ บัญชี 
+                        ออมทรัพย์ </TD>
+                    </TR>
+                    <TR> 
+                      <TD>2. เลขที่บัญชี 0-002-30276-7 </TD>
+                    </TR>
+                    <TR> 
+                      <TD>3. [ ] หรือโอนเงินเข้าบัญชี นาย ชีพธรรม คำวิเศษณ์ ธนาคารกรุงเทพ 
+                        สาขาย่อย เทสโก้ สุขาภิบาล บัญชีออมทรัพย์</TD>
+                    </TR>
+                    <TR> 
+                      <TD>4. เลขที่บัญชี 045-0-06748-3 </TD>
+                    </TR>
+                    <TR> 
+                      <TD>5. [ ] ชำระด้วยเช็คสั่งจ่ายในนาม “ THAIVENTURE DOT COM 
+                        LIMITED ” (ท่านสามารถถือเช็คไปให้เจ้าหน้าที่ในวันงาน)</TD>
+                    </TR>
+                    <TR> 
+                      <TD><FONT color=#ff0000>* หมายเหตุ : "การสำรองที่นั่งจะเสร็จสมบูรณ์ 
+                        ก็ต่อเมื่อท่านได้ชำระค่าใช้จ่ายเรียบร้อยแล้ว หรือวางค่ามัดจำ 
+                        1,000 บาท/ท่าน "<BR>
+                        <BR>
+                        * เมื่อชำระค่าใช้จ่ายเสร็จแล้ว โปรดแฟกซ์รายละเอียดการโอนเงินมาที่ 
+                        02 - 6368298 </FONT></TD>
+                    </TR>
+                  </TBODY>
+                </TABLE>
+                <BR></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+        <br>
+        <br>
+        <br>
+        <TABLE class=table4 cellSpacing=0 cellPadding=10 width="100%" 
+      bgColor=#999999 border=0>
+          <TBODY>
+            <TR> 
+              <TD bgColor=#979700> <DIV align=center> 
+                  <P><STRONG></STRONG></P>
+                  <TABLE class=table4 cellSpacing=0 cellPadding=3 width="90%" 
+            align=center border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD><div align="center"><img src="http://www.thaiventure.com/ad_email/thaiventure/w1_s4.gif" width="228" height="43"></div></TD>
+                      </TR>
+                      <TR> 
+                        <TD> <DIV align=center><STRONG><FONT 
+                  color=#ffffff>ทางโทรศัพท์ติดต่อ บริษัท ไทยเวนเจอร์ ดอท คอม จำกัด 
+                            โทร. 02-6368332 , 04-6678979<BR>
+                            </FONT></STRONG></DIV></TD>
+                      </TR>
+                      <TR> 
+                        <TD> <DIV align=center><STRONG><FONT 
+                  color=#ffffff>หรือ</FONT></STRONG></DIV></TD>
+                      </TR>
+                      <TR> 
+                        <TD> <DIV align=center><A 
+                  href="http://www.thaiventure.com/seminars_register.php?No=1" target="_blank"><IMG 
+                  height=35 src="http://www.thaiventure.com/ad_email/thaiventure/register.gif" width=211 
+                  border=0></A></DIV></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <P><STRONG><FONT 
+        color=#ffffff></FONT></STRONG></P>
+                </DIV></TD>
+            </TR>
+          </TBODY>
+        </TABLE>
+      </div></td>
+  </tr>
+  <tr> 
+    <td><div align="center"><br>
+        <table width="85%" border="0" cellpadding="0" cellspacing="0" class="table4">
+          <tr> 
+            <td><div align="center"><a href="http://www.thaiventure.com/" target="_blank"><img src="http://www.thaiventure.com/ad_email/thaiventure/w2_s1.gif" width="455" height="44" border="0"></a></div></td>
+          </tr>
+        </table>
+        <br>
+        <table width="85%" border="0" align="center" cellpadding="3" cellspacing="0" class="tableH2">
+          <tr> 
+            <td><a href="http://www.thaiventure.com/seminars_detail.php?No=6" target="_blank"><strong>1. 
+              สัมมนาเชิงปฏิบัติการ Yahoo! Search Marketing Workshop รุ่นที่ 1</strong></a></td>
+          </tr>
+          <tr> 
+            <td><TABLE class=table4 cellSpacing=0 cellPadding=0 width="95%" 
+            align=center border=0>
+                <TBODY>
+                  <TR> 
+                    <TD width="5%"> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date.gif" width=19></DIV></TD>
+                    <TD width="95%">วันอังคาร ที่14 มิถุนายน 2548 เวลา 09.00 - 
+                      16.00 น.</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-3.gif" width=19></DIV></TD>
+                    <TD>ณ ศูนย์ศึกษาสาธรธานี อาคารสาธรธานี ชั้น 8 ห้อง 808 ( ถ.สาทรเหนือ 
+                      สีลม บางรัก )</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-2.gif" width=19></DIV></TD>
+                    <TD>ค่าใช้จ่ายสัมมนา 3,500 บาท/ท่าน (ไม่รวมภาษีมูลค่าเพิ่ม 
+                      7%) </TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br> </td>
+          </tr>
+          <tr>
+            <td><a href="http://www.thaiventure.com/seminars_detail.php?No=7" target="_blank"><strong>2. 
+              สัมมนาเชิงปฏิบัติการ &quot;การวางแผนธุรกิจ (Business Plan) เพื่อการร่วมทุนกับ 
+              Venture Capital&quot; รุ่นที่ 1</strong></a></td>
+          </tr>
+          <tr> 
+            <td><TABLE class=table4 cellSpacing=0 cellPadding=0 width="95%" 
+            align=center border=0>
+                <TBODY>
+                  <TR> 
+                    <TD width="5%"> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date.gif" width=19></DIV></TD>
+                    <TD width="95%">วันเสาร์ ที่18 มิถุนายน 2548 เวลา 09.30 - 
+                      17.00 น.</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-3.gif" width=19></DIV></TD>
+                    <TD>ณ ศูนย์กลางการเรียนรู้ ICT แห่งชาติ</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-2.gif" width=19></DIV></TD>
+                    <TD>ค่าใช้จ่ายสัมมนา 3,500 บาท/ท่าน (ไม่รวมภาษีมูลค่าเพิ่ม 
+                      7%) </TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br>
+              <br>
+            </td>
+          </tr>
+          <tr> 
+            <td><a href="http://www.thaiventure.com/seminars_detail.php?No=5" target="_blank"><strong>3. 
+              สัมมนาเชิงปฏิบัติการ &quot;Blog กระแสใหม่บนโลกอินเทอร์เน็ตที่จะเปลี่ยนธุรกิจ&quot;</strong></a></td>
+          </tr>
+          <tr> 
+            <td><TABLE class=table4 cellSpacing=0 cellPadding=0 width="95%" 
+            align=center border=0>
+                <TBODY>
+                  <TR> 
+                    <TD width="5%"> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date.gif" width=19></DIV></TD>
+                    <TD width="95%">วันจันทร์ ที่20 มิถุนายน 2548&nbsp;เวลา 13.00 
+                      - 16.00 น.</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-3.gif" width=19></DIV></TD>
+                    <TD>ณ ศึกษาสาธรธานี อาคารสาธรธานี ชั้น 7 ห้อง 704 (ถ.สาทรเหนือ 
+                      สีลม บางรัก)</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-2.gif" width=19></DIV></TD>
+                    <TD>ค่าใช้จ่าย 1000 บาท/ท่าน (ไม่รวมภาษีมูลค่าเพิ่ม 7%) </TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br> </td>
+          </tr>
+          <tr> 
+            <td><a href="http://www.thaiventure.com/seminars_detail.php?No=3" target="_blank"><strong>4. 
+              สัมมนาเชิงปฏิบัติการ &quot;เพิ่มยอดขายภายใน 15 นาที ด้วย Google 
+              Adwords Advertising Workshop รุ่นที่ 10&quot;</strong></a></td>
+          </tr>
+          <tr> 
+            <td><TABLE class=table4 cellSpacing=0 cellPadding=0 width="95%" 
+            align=center border=0>
+                <TBODY>
+                  <TR> 
+                    <TD width="5%"> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date.gif" width=19></DIV></TD>
+                    <TD width="95%">วันพุธ ที่22 มิถุนายน 2548&nbsp;เวลา 09.00 
+                      - 16.00 น.</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-3.gif" width=19></DIV></TD>
+                    <TD>ณ ศูนย์ศึกษาสาธรธานี อาคารสาธรธานี ชั้น 8 ห้อง 808 ( ถ.สาทรเหนือ 
+                      สีลม บางรัก )</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-2.gif" width=19></DIV></TD>
+                    <TD>ค่าใช้จ่ายสัมมนา 3,500 บาท/ท่าน (ไม่รวมภาษีมูลค่าเพิ่ม 
+                      7%) </TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br> <br> </td>
+          </tr>
+          <tr> 
+            <td><a href="http://www.thaiventure.com/seminars_detail.php?No=2" target="_blank"><strong>5. 
+              สัมมนาเชิงปฏิบัติการ วิธีการทำให้เว็บไซต์ติดอันดับ Top 20 ใน Google, 
+              Yahoo และ MSN ด้วย Search Engine Optimization (SEO) รุ่นที่ 4 </strong></a></td>
+          </tr>
+          <tr> 
+            <td><TABLE class=table4 cellSpacing=0 cellPadding=0 width="95%" 
+            align=center border=0>
+                <TBODY>
+                  <TR> 
+                    <TD width="5%"> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date.gif" width=19></DIV></TD>
+                    <TD width="95%">วันพฤหัสบดี ที่23 มิถุนายน 2548&nbsp;เวลา 
+                      13.00 - 16.00 น.</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-3.gif" width=19></DIV></TD>
+                    <TD>ณ ศึกษาสาธรธานี อาคารสาธรธานี 1 ชั้น 7 ห้อง 704 (ถ.สาทรเหนือ 
+                      สีลม บางรัก)</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-2.gif" width=19></DIV></TD>
+                    <TD>ค่าใช้จ่าย 1,000 บาท/ท่าน (ไม่รวมภาษีมูลค่าเพิ่ม 7%) </TD>
+                  </TR>
+                </TBODY>
+              </TABLE>
+              <br> <br> </td>
+          </tr>
+          <tr> 
+            <td><a href="http://www.thaiventure.com/seminars_detail.php?No=4" target="_blank"><strong>6. 
+              สัมมนาเชิงปฏิบัติการ &quot;eBay Marketing เจาะลึกเทคนิคการขายสินค้าบนเว็บไซค์ 
+              eMarketPlace อันดับ 1 ของโลก รุ่นที่ 10&quot;</strong></a></td>
+          </tr>
+          <tr> 
+            <td><TABLE class=table4 cellSpacing=0 cellPadding=0 width="95%" 
+            align=center border=0>
+                <TBODY>
+                  <TR> 
+                    <TD width="5%"> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date.gif" width=19></DIV></TD>
+                    <TD width="95%">วันอังคาร ที่28 มิถุนายน 2548&nbsp;เวลา 09.00 
+                      - 16.00 น.</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-3.gif" width=19></DIV></TD>
+                    <TD>ณ ศูนย์ศึกษาสาธรธานี อาคารสาธรธานี ชั้น 8 ห้อง 810 ( ลงที่สถานีช่องนนทรี 
+                      )</TD>
+                  </TR>
+                  <TR> 
+                    <TD> <DIV align=center><IMG height=20 
+                  src="http://www.thaiventure.com/ad_email/thaiventure/date-2.gif" width=19></DIV></TD>
+                    <TD>ค่าใช้จ่ายสัมมนา 3,500 บาท/ท่าน (ไม่รวมภาษีมูลค่าเพิ่ม 
+                      7%) </TD>
+                  </TR>
+                </TBODY>
+              </TABLE></td>
+          </tr>
+        </table>
+        <BR>
+        <BR>
+        <p>&nbsp;</p>
+        </div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#999900"><div align="center"><strong><font color="#FFFFFF"><br>
+        THAIVENTURE.COM , LTD</font></strong> <a href="http://t.extreme-dm.com/?login=tri0010"
+target="_top"><img src="http://t1.extreme-dm.com/i.gif"
+name="EXim" border="0" height="1" width="1"
+alt="eXTReMe Tracker"></img></a>
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script type="text/javascript"><!--
+var EXlogin='tri0010' // Login
+var EXvsrv='s9' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=\"http://e0.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script><noscript><img height="1" width="1" alt=""
+src="http://e0.extreme-dm.com/s9.g?login=tri0010&amp;j=n&amp;jv=n"/>
+</noscript>
+
+<br>
+        <br>
+      </div></td>
+  </tr>
+</table>
+</body>
+</html>

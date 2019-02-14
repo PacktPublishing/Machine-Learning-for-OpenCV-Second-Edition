@@ -1,0 +1,245 @@
+Message-ID: <29587505.1075857043753.JavaMail.evans@thyme>
+Date: Thu, 24 Feb 2000 11:52:00 -0800 (PST)
+From: ravi.thuraisingham@enron.com
+To: amy@sdsc.edu
+Subject: Re: CAIDA 'Metrics' WG meeting, 2 Mar 00 (fwd)
+Cc: christine.blair@enron.com, kristy.carnes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: christine.blair@enron.com, kristy.carnes@enron.com
+X-From: Ravi Thuraisingham
+X-To: amy@sdsc.edu
+X-cc: Christine Blair, Kristy Carnes
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Amy, Jim Irvine (EBS head of Network Planning) and I (Team Lead, EBS 
+Research) will attend the meeting. We will have our assistances (Christine 
+Blair & Kristy Carnes, respectively) arrange the trip.  We will plan to come 
+in the night before and return on March 2,00. 
+
+Also, either Vince Kaminski (MD and Head of Enron Research) or Stinson Gibner 
+(VP, Enron Research) may also attend.  They will let me know shortly if they 
+plan to attend. 
+
+Regards,
+
+Ravi.
+
+P.S. Our company name has been changed to Enron Broadband Services
+Kristy, Christine please make the appropriate travel arrangements. The place, 
+time, etc. are listed. 
+
+
+
+
+	amy@sdsc.edu
+	02/24/00 07:07 PM
+		 
+		 To: Ravi Thuraisingham/Enron Communications@Enron Communications
+		 cc: 
+		 Subject: CAIDA 'Metrics' WG meeting, 2 Mar 00 (fwd)
+
+
+
+Hi Ravi,
+
+I wanted to follow up directly with you and see if you or anyone at Enron
+had any interest in participating in the proposed CAIDA "Metrics" working
+group meeting?
+
+Please let me know.
+
+Amy E. Blanchard
+CAIDA
+
+%%%%%%%%%%%%%
+e-mail: amy@caida.org
+phone: (858) 534-8338
+fax:   (858) 534-5117
+
+
+   B.  WG Charters, Meeting on 2 Mar 00
+
+
+I believe that we should instead run a single CAIDA Working Group
+on 'Network Metrics,' rather than the two proposed earlier.  My draft
+of its charter is appended below.  It focuses on producing educational
+material about network measurement, and on developing new metrics - these
+were the two areas of greatest interest amongst the CAIDA members.
+
+The WG co-chairs are
+  Sue Moon (SprintLabs) and Brett Watson (MFN/Abovenet)
+
+You are invited to attend the first WG meeting.
+The agenda is as follows ..
+
+   Agenda for CAIDA WG meeting on: Thursday 2 Mar 00
+                                   -----------------
+   10 am - 4 pm, AboveNet, Downtown SJC (see below for details)
+   ------------            ------------
+
+   1. Review WG Charter
+      - Is it reasonable as set out in the draft?
+      - What should be removed or added?
+
+   2. Work through revised charter in detail
+      - Identify the work required for each part
+      - Determine who's willing to work on it
+      - Attempt to determine delivery times
+
+   3. Discussion of new metrics
+      - First attempt at making a list of metrics to be considered
+
+   4. Anything else ?
+
+Location: AboveNet is located in the Knight-Ridder Building,
+attached to the Fairmont Hotel complex.  The address is
+
+  50 W. San Fernando St.
+  San Jose, CA  95113
+
+RSVP: To help us with organising the meeting, please send email to
+   nevil@caida.org telling us how many will attend from
+   your organisation.
+
+
+Cheers, Nevil
+
+-------------------------------------------------------------
+   Nevil Brownlee                     Visiting Researcher
+   Phone: (619) 822 0893                 CAIDA, San Diego
+
+
+CAIDA Network Metrics Working Group: Draft Charter, Tue 23 Feb 00
+
+Goals:
+ 1 Education
+   + FAQ on What does 'measuring the Internet actually mean?'
+     - Why measure anyway?
+     - What can be measured?  How?  Where?  By whom?
+     - Active vs passive, end-to-end vs provider network only,
+       application vs transport layer
+     - Rating schemes: provider 'net performance' pages, Internet
+       'Weather Map's, Keynote, etc.
+     Publish as CAIDA web pages, or maybe as an Info RFC
+
+   + Survey paper on metrics and Internet Measurement
+     - Current measurement efforts (Surveyor, RIPE Test Traffic,
+       AMP, IPERF, AT&T, Keynote,skitter, ...)
+     - Current tools
+     Publish as CAIDA web pages
+
+ 2 Service Metrics
+   + Define new metrics
+     - Taxonomy of current metrics (IPPM, RTFM, ITU, ..)
+     - Summary of metrics used for current services
+     - Gather information/ideas about new/emerging services,
+       especially DiffServ-based ones
+     - Make list of new metrics, either to improve measurement of
+       existing services or to support new ones
+       [list of 'metrics' questions (Appendix A) goes here]
+
+   + Organise experimental implementation/testing of tools
+     for new metrics
+
+   + Make recommendations on implementation
+     - Define core set of 'really useful' metrics
+     - recommend that CAIDA implement these as a
+       'Service Measurement Toolkit'
+
+   + Publish new metric definitions through IPPM or RTFM
+
+   + Produce document "measurement requirements for hardware/software
+     vendors."  Publish on CAIDA web pages
+
+
+-------------------------------------------------------------------------
+
+Appendix A: Questions from the earlier draft CAIDA WG charters
+
+
+ a. What types of network- and transport-layer metrics are being
+    used by ISPs in engineering and operating their networks?
+    By Customers for verifying service guarantees?
+ b. What new services are being (or are likely to be) offered, e.g.
+    DIFFSERV?  Is there a need for higher-layer metrics to better
+    monitor and manage these services?
+ c. Will these new differentiated transport- and
+    application-layer services need new metrics?
+ d. How can the service metrics be measured in a multi-ISP
+    environment?
+ e. How can customers verify these measurements?
+ f. What requirements would service measurement introduce for
+    equipment vendors?
+
+
+ g. How relevant are specific techniques (e.g. which flow) and
+    points of measurement to specific users (ISP, customer, etc.)
+    requirements?
+ h. How do these metrics relate to network behavior as perceived
+    by users? How do they correlate with performance?
+
+-------------------------------------------------------------------------
+
+Appendix B: Background on the IETF Working Groups
+
+
+* RTFM WG: Realtime traffic Flow Measurement
+
+RTFM is concerned with passive measurements of two-way traffic flows,
+specified in terms of their end-point attributes.  Its primary goal was
+
+To produce an improved Traffic Flow Measurement Model considering at least the
+following needs:
+
+ a. Wider range of measurable quantities, e.g. those
+    relating to IPv6, and to class of service
+ b. Simpler ways to specify flows of interest
+ c. Better ways to control access to measured flow data
+ d. Strong focus on data reduction capabilities
+ e. Efficient hardware implementation
+
+
+* IPPM WG: IP Performance Measurement
+
+The IPPM WG charter is to develop a set of standard metrics that can
+be applied to the quality, performance, and reliability of Internet
+data delivery services. These metrics will be designed such that they
+can be performed by network operators, end users, or independent
+testing groups. It is important that the metrics not represent a value
+judgement (i.e. define "good" and "bad"), but rather provide unbiased
+quantitative measures of performance.
+
+RFCs
+  Framework for IP Performance Metrics (RFC 2330)
+  Metrics:
+     Connectivity (RFC 2678),
+     One-way Delay (RFC 2679), One-way Packet Loss (RFC 2680)
+     Round-trip Delay (RFC 2681)
+
+I-Ds
+     Bulk Transfer Capacity (2x)
+     Instantaneous Packet Delay Variation
+     One-way Loss Patterns
+
+
+* Other WGs
+
+The RMONMIB WG is thinking about 'Application Performance
+Measurement.'  This is clearly a hard problem (e.g. does this just
+mean response-time measurement, can it be done by passive means, how
+should the measurements be presented, etc.).
+
+
+In short
+ - RTFM provides a good distributed measuring system for traffic
+   volumes
+ - IPPM has concentrated on transport-layer behaviour of the
+   current, best-effort Internet.
+ - RMONMIB is beginning to consider application-layer measurement
+
+-------------------------------------------------------------------------
+

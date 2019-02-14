@@ -1,0 +1,52 @@
+Return-Path: <onhkdkg@hotmail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 16148 invoked by uid 115); 22 Aug 2004 02:43:41 -0000
+Received: from onhkdkg@hotmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(209.151.115.54):. 
+ Processed in 1.006454 secs); 22 Aug 2004 02:43:41 -0000
+Received: from unknown (HELO ppp-151-115-54.texoma.net) (209.151.115.54)
+  by churchill.factcomp.com with SMTP; 22 Aug 2004 02:43:40 -0000
+Received: from 204.49.0.187 by 209.151.115.54; Sat, 21 Aug 2004 21:48:13 -0600
+Message-ID: <VMSLNJIXMXAYGCTLFSMDTRIR@msn.com>
+From: "Dallas Read" <onhkdkg@hotmail.com>
+Reply-To: "Dallas Read" <onhkdkg@hotmail.com>
+To: bait@em.ca
+Subject: hey there
+Date: Sun, 22 Aug 2004 06:49:13 +0300
+X-Mailer: AOL 93.0 for Windows US sub 136
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--222931066427658807"
+X-Priority: 1
+X-MSMail-Priority: High
+X-IP:176.156.146.4
+----222931066427658807
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#000000">
+<p> <a href=3D"http://www.c3030.biz/fl/dating.html" target=3D"_blank"><fon=
+t color=3D"#FF0000">My 
+  Photos and videos ;)</font></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href=3D"http://www.c3030.biz/remove">Remove me forever</a></p>
+</body>
+</html>
+
+----222931066427658807--
+

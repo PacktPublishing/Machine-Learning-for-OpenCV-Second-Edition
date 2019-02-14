@@ -1,0 +1,41 @@
+Message-ID: <12164664.1075856639889.JavaMail.evans@thyme>
+Date: Tue, 11 Jul 2000 03:32:00 -0700 (PDT)
+From: tarnold@finance.lsu.edu
+To: vince.j.kaminski@enron.com
+Subject: Re: EFA meetings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tom Arnold <tarnold@finance.lsu.edu>
+X-To: Vince.J.Kaminski@enron.com
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hey Vince,
+
+Thanks for your reply.  I'll see what becomes of the session and keep you
+informed.  As to the paper, Tim Crack and I have a revised version of the
+paper I gave you.  We have since found out that by using certainty
+equivalence, our model is more robust.  For example, if one has an asset
+pricing model that incorporates mean, variance, and skewness (Harvey and
+Siddique, JF June, 2000) and a binomial model that incorporates mean,
+variance, and skewness (Johnson, Paulukiewicz, and Mehta, RQFA, 1997), our
+model allows you to price options under the real world measure.  The
+benefit is that one can take all of the model parameters from historical
+data that is non-risk neutralized.
+   From a pricing perspective, there isn't a tremendous benefit in a
+mean-variance world (variance stays the same in risk neutral or risky
+measure).  However,in the mean-variance-skewness world, there is a benefit
+because we do not believe (although we're still hunting down an appropriate
+cite) skewness is the same under risk-neutral and risky measure.  Given we
+can only measure the skewness in our risky world, our model becomes much
+more significant.
+   I would certainly appreciate comments on the version of the paper you
+have and would also pass on the new version of the paper if you would like
+to see it.
+
+Thanks again,
+
+Tom 

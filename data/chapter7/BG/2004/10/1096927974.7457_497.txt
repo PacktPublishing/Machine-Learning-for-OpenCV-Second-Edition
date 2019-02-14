@@ -1,0 +1,24 @@
+Return-Path: <bruceg@em.ca>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16482 invoked by uid 115); 2 Oct 2004 14:12:48 -0000
+Received: from bruceg@em.ca by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(80.125.226.27):. 
+ Processed in 0.252386 secs); 02 Oct 2004 14:12:48 -0000
+Received: from unknown (HELO em.ca) (80.125.226.27)
+  by churchill.factcomp.com with SMTP; 2 Oct 2004 14:12:47 -0000
+Message-ID: <07c401c4a889$36309590$2af15039@david>
+Return-Path: bruceg@em.caFrom: "Hunter Jackson" <bruceg@em.ca>
+Bcc: <bruceg@em.ca>
+Subject: (no subject)
+Date: Sat, 2 Oct 2004 16:09:42 +0200
+X-Mailer: expected
+Content-Type: text/html; charset="ISO-8859-1"
+MIME-Version: 1.0
+X-Priority: 1
+
+<HTML><BODY>
+<FONT COLOR=FCFCFC>Hello, 640k ought to be enough RAM for anybody.</FONT><BR><A
+HREF="http://I.antispywarechat.com/?id=circa"><FONT SIZE=3>
+</FONT><IMG SRC="http://m.antispywarechat.com/m7.gif">
+</A><BR><FONT COLOR=FCFCFC>One who doubts nothing, knows nothing.
+</FONT></BODY></HTML>

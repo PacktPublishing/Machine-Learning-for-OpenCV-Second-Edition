@@ -1,0 +1,89 @@
+Message-ID: <22827118.1075854184127.JavaMail.evans@thyme>
+Date: Mon, 5 Jun 2000 01:28:00 -0700 (PDT)
+From: thomas.engel@enron.com
+To: kathryn.cordes@enron.com, julie.meyers@enron.com, 
+	elizabeth.hernandez@enron.com, b.palmer@enron.com, 
+	hillary.mack@enron.com, shawna.johnson@enron.com, 
+	connie.sutton@enron.com, linda.bryan@enron.com, 
+	anthony.campos@enron.com, sylvia.campos@enron.com, 
+	stacey.richardson@enron.com, cyndie.balfour-flanagan@enron.com, 
+	marlene.hilliard@enron.com, faye.ellis@enron.com, 
+	karen.lambert@enron.com, scott.mills@enron.com, 
+	russ.severson@enron.com, martha.stevens@enron.com, 
+	karie.hastings@enron.com, regina.perkins@enron.com, 
+	imelda.frayre@enron.com, william.kasemervisz@enron.com, 
+	hunaid.engineer@enron.com, steven.gullion@enron.com, 
+	larrissa.sharma@enron.com, peggy.hedstrom@enron.com, 
+	kevin.heal@enron.com, brenda.herod@enron.com, 
+	dave.mcmullan@enron.com, richard.pinion@enron.com, 
+	donna.greif@enron.com, mark.mcclure@enron.com, 
+	tommy.yanowski@enron.com, george.smith@enron.com, 
+	edward.terry@enron.com, tricia.bowen@enron.com, 
+	victor.lamadrid@enron.com, beverly.beaty@enron.com, 
+	daren.farmer@enron.com, randall.gay@enron.com, 
+	anita.patton@enron.com, carrie.hollomon@enron.com, 
+	jeffrey.gossett@enron.com, william.kelly@enron.com, 
+	steve.venturatos@enron.com, brenda.fletcher@enron.com, 
+	kimberly.olinger@enron.com, kathryn.bussell@enron.com, 
+	michael.eiben@enron.com
+Subject: NEW SU BRIDGE
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thomas Engel
+X-To: Kathryn Cordes, Julie Meyers, Elizabeth L Hernandez, B Scott Palmer, Hillary Mack, Shawna Johnson, Connie Sutton, Linda S Bryan, Anthony Campos, Sylvia A Campos, Stacey Richardson, Cyndie Balfour-Flanagan, Marlene Hilliard, Faye Ellis, Karen Lambert, Scott Mills, Russ Severson, Martha Stevens, Karie Hastings, Regina Perkins, Imelda Frayre, William E Kasemervisz, Hunaid Engineer, Steven Gullion, Larrissa Sharma, Peggy Hedstrom, Kevin Heal, Brenda F Herod, Dave McMullan, Richard Pinion, Donna Greif, Mark McClure, Tommy J Yanowski, George Smith, Edward Terry, Tricia Bowen, Victor Lamadrid, Beverly Beaty, Daren J Farmer, Randall L Gay, Anita K Patton, Carrie Hollomon, Jeffrey C Gossett, William Kelly, Steve Venturatos, Brenda H Fletcher, Kimberly S Olinger, Kathryn Bussell, Michael Eiben
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The new SITARA to UNIFY bridge monitor is in production.
+
+The monitor shows deals in error state (failed) or in queue to bridge 
+(pending) - for deals going to UNIFY from SITARA.
+
+You will find it under - Start - Programs - Trading - SITARA - SU Bridge 
+Monitor.
+
+You may need to load the Borland BDE v5.0 software to use this, if not 
+already loaded. 
+
+We enhanced the monitor to make it a more useful tool.
+
+
+
+
+If deal is in an error state on the SITARA side - we have not sent it over to 
+UNIFY.
+If the deal in an error state on the UNIFY side - SITARA has sent it to UNIFY 
+- however - it is in the UNIFY failed deal group.
+
+You can sort by the columns - best to sort by business unit.
+
+The date column - shows the last time someone edited the deal. 
+Start Date and Stop Date - are begin and end date of deal.
+
+SITARA deal ID - as well as - EOL deal ID.
+
+Indicates if the deal is an business unit is an agent on the deal.
+
+If you are contract or validation support - please do not edit the STATUS = P 
+deals - these are the deals with pending status for desk to desk transactions 
+(awaiting the other desk to approve the deal or changes to the deal).  If you 
+release these deals - you will be the approver of the deal - as you have 
+access to multiple desks. 
+
+You can hit the refresh button to re-query the data - or set the auto refresh 
+on the tool bar.
+
+We did not build Filter by Business Unit for multiple reasons:
+- the expense to build the filter.
+- it is easier to support if everyone is looking at the same thing.
+- if there is a new business unit - you will see it.
+- normally - there should not be more than a screen full of deals in error 
+state - once Petro Can/Suncor/Sunoco are set up - we will have a reasonable
+  number to look at - and you can sort by the business unit column. 
+- If you do want to filter - you may do so - by using the send to excel 
+feature - under tool bar option - file - dump to excel.
+
+If you have any questions or problems - please call the SITARA hotline.

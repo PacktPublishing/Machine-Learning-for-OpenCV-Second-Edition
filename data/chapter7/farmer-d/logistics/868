@@ -1,0 +1,58 @@
+Message-ID: <31591582.1075854125799.JavaMail.evans@thyme>
+Date: Thu, 2 Mar 2000 09:41:00 -0800 (PST)
+From: gregg.lenart@enron.com
+To: lisa.csikos@enron.com, pat.clynes@enron.com, rita.wynne@enron.com, 
+	gary.nelson@enron.com, daren.farmer@enron.com, 
+	melissa.white@enron.com
+Subject: FEB2000 Intercompany Accrual variances
+Cc: mark.mcclure@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.mcclure@enron.com
+X-From: Gregg Lenart
+X-To: Lisa Csikos, Pat Clynes, Rita Wynne, Gary Nelson, Daren J Farmer, Melissa White
+X-cc: Mark McClure
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Below is a list of Sitara deals that had volume variances or where one side 
+(purchase/sale) did not get accrued for the FEB 2000 accrual.     My goal 
+here is to bring this to everyone attention and second to see if there is a 
+solution.    I am taking a simplistic approach here in that since 
+Intercompany Sitara deals are the same that the nominations on both sides 
+should match on the month end accruals.    If I am wrong on this assumption 
+or if there is a system limitation I am free to suggestions, ideas or 
+resolutions.   Please feel free to give me a call. 
+
+HPLC selling to ENA.   Production month FEB00(accrual):
+Volume variance:
+Sitara:  Meter/Point  Volume   Amount
+156071  HPL/0980391  vol var of 24,167mmbtu  <$60,538.34>
+  MIDT/0988743
+
+Missing on Purchase side (ENA)
+Sitara:  Meter/Point  Volume   Amount
+160579  HPL/0986363  632,272mmbtu  $1,599,402.29
+161541  HPL/0980694  108,576mmbtu  $278,296.18
+166459  HGPL/8177-4570 30,000mmbtu  $75,000.00
+201810  HPL/0986363  50,000mmbtu  $129,500.00
+201839  HPL/0980694  20,000mmbtu  $51,800.00
+202672  LONE/0361770  23,417mmbtu  $58,274.16
+280083  HPL/0980308  555,292mmbtu  $1,518,225.09
+  Total   1,395,689mmbtu $3,710,497.72
+****************************************
+
+MISSION:     Proactively Identify and resolve Intercompany volume issues 
+upstream.
+
+First Goal:  Tying Intercompany volumes on the monthly accruals.
+Second Goal:  Tying Intercompany volumes on actuals.
+Third Goal:  Minimizing analyse time saving $$$$.
+
+
+Thanks
+Gregg Lenart
+Texas Gas Settlements
+3-6921

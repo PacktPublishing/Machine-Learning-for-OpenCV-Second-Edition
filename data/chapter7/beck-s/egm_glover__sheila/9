@@ -1,0 +1,95 @@
+Message-ID: <16503094.1075856051524.JavaMail.evans@thyme>
+Date: Fri, 15 Sep 2000 01:37:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com
+Subject: Problems with Morning Cashflow process
+Cc: jonathan.le@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jonathan.le@enron.com, stephen.stock@enron.com
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price
+X-cc: Jonathan Le, Stephen Stock
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally and Brent,
+The write-up below is based upon discussions Jonathan Le and Kevin Lee had 
+with Steve Stock and Jeremy Wong.  
+Jonathan and Kevin are working on a new cash flow process for us which should 
+help to insulate us from the current intra-night process for the ERMS and 
+EnPower cash flows.
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/15/2000 08:32 
+AM ---------------------------
+
+
+Jonathan Le
+09/14/2000 04:40 PM
+To: Sheila Glover/HOU/ECT@ECT
+cc:  
+Subject: Problems with Morning Cashflow process
+
+
+fyi
+---------------------- Forwarded by Jonathan Le/HOU/ECT on 09/14/2000 04:39 
+PM ---------------------------
+
+
+Kevin Lee@ENRON
+09/14/2000 11:27 AM
+To: Jonathan Le/HOU/ECT@ECT
+cc:  
+Subject: Problems with Morning Cashflow process
+
+Hi Jonathan,
+
+ Listed below are the details of each days problems:
+
+Fri, Sep 8,2000
+AutoRho failed at 3:15am, uploaded only 8 books into Infinity.
+It failed on the step in AutoRho where it runs the query to get all the books 
+for the Infinity USD portfolio.  Jeremy does not know exactly what caused it 
+but rerunning AutoRho seemed to work.
+Recovery used the backup file and was on time.
+
+Tue, Sep 12,2000
+Similar problem to Friday, but ENPOWER also failed.  The manenpower.txt file 
+had TNS errors in it.  AutoRho was not able to kick off the ENPOWER script to 
+get the cashflows.  Rerunning fixed the problem.
+AutoRho failed at 3:15am, uploaded only 9 books into Infinity.
+It failed on the step in AutoRho where it runs the query to get all the books 
+for the Infinity USD portfolio.  Jeremy does not know exactly what caused it 
+but rerunning AutoRho seemed to work.
+Recovery used the file that Jeremy provided in the rerun, they were 
+approximately 10 minutes late.
+
+Wed, Sep 13,2000
+ENPOWER failed creating a header ONLY manenpower.txt file.  There was no 
+cashflows in the file.
+Jeremy confirmed the Autorho process was fine.
+The problem was the ENPOWER databse failed (hardrive failure) and they 
+immediately went to a backup.  But on the backup database, NOT all the tables 
+are replicated.  The cashlow table with the ENPOWER data we needed was not in 
+the backup database resulting in a file with zero flows!
+This problem has been fixed by the enpower people.
+Recovery included using the previous day's enpower flows.  They were on time.
+
+Thurs, Sep 14,2000
+AutoRho at 3:15 am and 11:00 pm was hung.  Enpower also was not run since 
+AutoRho failed.
+Reason was because the UNIX NFS file system "solar" was full  As a result, 
+our directory /worksheets2, and also /prod/egs-home is mounted on solar but 
+could not write anything to it.  Supposily the SA are suppose to have been 
+paged when ever a file system gets close to 100% (can you please confirm 
+this?).  The Unix NFS was fixed by 5:00 am.  AutoRho was rerun and was fine.
+Recovery included Jeremy's file.  They were 1 hour late (partly due to other 
+reasons on MO side, not system related).
+
+Thanks,
+Kevin Lee
+
+
+

@@ -1,0 +1,84 @@
+Return-Path: <Jenningsgfnr@freecom.br>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 10567 invoked from network); 6 Nov 2004 10:52:56 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 06 Nov 2004 10:52:56 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 06 Nov 2004 10:52:56 -0000
+Received: (qmail 21007 invoked from network); 6 Nov 2004 10:52:56 -0000
+Received: from AToulon-152-1-3-193.w83-113.abo.wanadoo.fr (unknown [83.113.177.193])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 06 Nov 2004 10:52:55 -0000
+Received: from %ONE_DNS_NAME ([67.140.60.0])
+          by %TWO_DNS_NAME
+          (InterMail vK.4.04.00.00 573-640-575 license %LICENSE)
+          with ESMTP
+          id <86215318634535.BBIO824.uncouth@%ONE_DNS_NAME>
+          for <rait@bruce-guenter.dyndns.org>; Sat, 06 Nov 2004 15:49:55 +0500
+Received: from stalin ([128.221.0.107]) by %ONE_DNS_NAME
+ (iPlanet Messaging Server 5.2 HotFix 1.14 (built Mar 19 2000))
+ with ESMTPA id <JEYRDFKVGQSFMHQ@%ONE_DNS_NAME> for rait@bruce-guenter.dyndns.org;
+ Sat, 06 Nov 2004 11:52:55 +0100 (IDT)
+Date: Sat, 06 Nov 2004 14:49:55 +0400
+From: "Cheri Stapleton" <Jenningsgfnr@freecom.br>
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: NT 4.0 Terminal Server update
+Message-ID: <265094z791u6089s30g4317z7m0060_1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_%NEXTPART"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: The Bat! (v1.52f) Business
+Content-Length: 1373
+Lines: 50
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_%NEXTPART
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+PC Laptop Magazine : Review results <br> 
+<br>
+After a thorough comparison of the various retailers,the Best 0ffer is : <=
+br>
+<br>
+W1ND0WS X'P PR0 + 0FF1CE X'P PR0 -  80 d0IIar (80% off!) <br> 
+<br>
+<a href=3D"http://cryptic.softflagman.biz/">Full Survey results</a> <br>
+<br>
+<br>
+<br>
+desert stompadrenaline indelicate appriseearthmen
+apply toadalberta irregular browkeenan
+stewardess susceptancetimeworn dumbbell lessendeliver
+egret soyaugean roosevelt kathydallas
+posthumous corrigiblenymphomania
+------=_NextPart_%NEXTPART
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+PC Laptop Magazine : Review results <br> 
+<br>
+After a thorough comparison of the various retailers,the Best 0ffer is : <=
+br>
+<br>
+W1ND0WS X'P PR0 + 0FF1CE X'P PR0 -  80 d0IIar (80% off!) <br> 
+<br>
+<a href=3D"http://gaugeable.softflagman.biz/">Full Survey results</a> <br>=
+
+<br>
+<br>
+<br>
+bilinear excuseepiscopate papua cowpunchladyfern
+pledge berglandcompression titanate doctrinaldecember
+colorado andyrosenblum southeast egotistornamentation
+inflate lichenarmenia swag dentonfm
+dashboard buseschance
+
+------=_NextPart_%NEXTPART--

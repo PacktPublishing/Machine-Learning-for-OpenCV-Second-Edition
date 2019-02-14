@@ -1,0 +1,83 @@
+Received: from dmainstream.mainstream.net (216.228.224.101)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:30 -0000
+Received: from localhost (localhost)
+	by dmainstream.mainstream.net (8.13.4/8.13.4) id j6JB1T9u029855;
+	Tue, 19 Jul 2005 07:01:29 -0400
+Date: Tue, 19 Jul 2005 07:01:29 -0400
+From: Mail Delivery Subsystem <MAILER-DAEMON@mainstream.net>
+Message-Id: <200507191101.j6JB1T9u029855@dmainstream.mainstream.net>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JB1T9u029855.1121770889/dmainstream.mainstream.net"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JB1T9u029855.1121770889/dmainstream.mainstream.net
+
+The original message was received at Tue, 19 Jul 2005 07:01:27 -0400
+from [219.157.114.86]
+
+   ----- The following addresses had permanent fatal errors -----
+<antonioahuertas@hcm.hitachi.com>
+    (reason: 550 5.1.1 <antonioahuertas@hcm.hitachi.com>... User unknown)
+
+   ----- Transcript of session follows -----
+... while talking to intmail.hcm.hitachi.com.:
+>>> DATA
+<<< 550 5.1.1 <antonioahuertas@hcm.hitachi.com>... User unknown
+550 5.1.1 <antonioahuertas@hcm.hitachi.com>... User unknown
+<<< 503 5.0.0 Need RCPT (recipient)
+
+--j6JB1T9u029855.1121770889/dmainstream.mainstream.net
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; dmainstream.mainstream.net
+Received-From-MTA: DNS; [219.157.114.86]
+Arrival-Date: Tue, 19 Jul 2005 07:01:27 -0400
+
+Final-Recipient: RFC822; antonioahuertas@hcm.hitachi.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; intmail.hcm.hitachi.com
+Diagnostic-Code: SMTP; 550 5.1.1 <antonioahuertas@hcm.hitachi.com>... User unknown
+Last-Attempt-Date: Tue, 19 Jul 2005 07:01:29 -0400
+
+--j6JB1T9u029855.1121770889/dmainstream.mainstream.net
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([219.157.114.86])
+	by dmainstream.mainstream.net (8.13.4/8.13.4) with SMTP id j6JB1L9u029852
+	for <antonioahuertas@hcm.hitachi.com>; Tue, 19 Jul 2005 07:01:27 -0400
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516665;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonioahuertas@hcm.hitachi.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973339">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+--j6JB1T9u029855.1121770889/dmainstream.mainstream.net--
+

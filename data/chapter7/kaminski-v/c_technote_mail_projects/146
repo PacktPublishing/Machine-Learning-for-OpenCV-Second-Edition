@@ -1,0 +1,157 @@
+Message-ID: <9656335.1075856589556.JavaMail.evans@thyme>
+Date: Fri, 5 Jan 2001 02:41:00 -0800 (PST)
+From: alex.huang@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	vasant.shanbhogue@enron.com
+Subject: Re: The consultant's model for Gary Hickerson's group
+Cc: alex.huang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: alex.huang@enron.com
+X-From: Alex Huang
+X-To: Vince J Kaminski, Stinson Gibner, Vasant Shanbhogue
+X-cc: Alex Huang
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+The model is supposed to be a real option model to capture the value of
+power plants of Gencos. It is to give trader a better insight as to whether 
+the
+market is overvaluing/undervaluing certain Genco stocks, and trader can
+act accordingly.  I'm still trying to find out how trader is supposed to use 
+it. 
+
+Modeling details:
+The model takes in all Gencos' locational power forward prices and fuel 
+forward
+prices, and uses GARCH model to simulate one year daily prices, and then
+uses a hourly profile to convert them into hourly prices.  GARCH model 
+parameters
+are estimated by the consultant using and separate model and 
+are updated twice a year, and it does not matter whether the simulation starts
+in January or September. 
+
+Using these prices, it will determine whether a unit at a particular location 
+will be dispatched
+or not depending on A) spread of power and fuel prices, and B) whether the 
+start-up
+cost can be recovered during 8 operation hours.  The unit can be dispatched at
+minimum and peak levels. Fixed O&M, SOX and NOX (I don't know what the last 
+two stand for)
+are taken into consideration. 
+
+With the simulated dispatch schedule, the model calculates the value that can 
+be generated
+by this unit, then sums it up across all units.
+
+The final value is the average of 100 simulations.  And it takes about 16 
+hours to run for about
+200 units.  
+
+After our conversation, the consultant promised to look into A) how to make 
+the model more flexible,
+say, to allow a different time horizon, B) reduce spreadsheet overhead by 
+doing calculation one
+unit a time and not saving all the intermediate information (as of now it 
+saves everything 
+on the spreadsheet).
+
+Assuming the GARCH process is modelled correctly, I believe the methodology 
+is OK, though 
+it does not capture most of  the optionality. 
+
+My concerns are:
+Whether the price processes are modelled correctly. I have to get more 
+details before making
+any conclusion.
+
+100 simulations are way too few. Unless we convert the algorithm to C, I 
+don't see how spreadsheet
+can handle more simulations. I guess that's why they contact us. But again, 
+if Enron's buying the
+model from the consulting company, why should Enron do their job for them?
+
+How trader's going to use the model output. For this I phoned Jeff (the 
+associate who initiated all
+these) and am still waiting for his returning call.  A related questions why 
+the model horizon is one year. 
+
+We can either
+Oversee the conversation, but not doing actual coding for them.
+Or
+Redo the model for them. (The problem still remains that how trader's going 
+to use the output).  But 
+in view of the Great Wall of China separating the business units, should we 
+do it?
+
+As of now I have a simulation model taking start-up cost, fixed O&M, rump-up 
+delay into consideration.  
+It simulates monthly prices (using GBM) and takes 2 minutes 40 seconds to run 
+10,000 simulations for 
+one unit for ten years (120 time steps).  It can use forward-forward vol and 
+incorporate seasonality into
+it (I understand this is debatable). (One interesting observation is that 
+when using forward-forward vol
+simulation, the standard deviation is about 0.5%, while standard deviation 
+using forward vol is about 
+2%. Also, incorporating seasonality increases the value by about 1.6%). Since 
+most of the time-cost 
+occurs in price simulation, and we are to simulate about 20 price processes,  
+I hope the full model 
+(if we build it) will take a couple of hours to run for 200 units. The main 
+task will be interfacing, i.e., 
+getting data from data base, and outputting the results. This is where I need 
+most help if I am to do it.
+
+Please advice the course of action. I am supposed to talk to Michelle 
+Cisneros today. 
+p.s. I never promised to oversee a programmer in our group (see the message 
+below). 
+
+Best,
+Alex
+---------------------- Forwarded by Alex Huang/Corp/Enron on 01/05/2001 08:58 
+AM ---------------------------
+
+	
+	Jeff M Gray
+	
+	01/04/2001
+	
+To: Gary.Hickerson@enron.com, Michael.W.Bradley@enron.com, 
+Michelle.D.Cisneros@enron.com, Jaime.Gualy@enron.com
+cc: alex.huang@enron.com, kskinner@ftenergy.com, cseiple@ftenergy.com 
+
+Subject: FW: Project timeline
+
+Ken and I worked up the following timeline and refined the trading 
+methodology a bit this morning.  We also met with Alex Huang from Vince's 
+group, and explained the model and coding tasks.  Ken and Alex have arranged 
+to speak by phone on Monday, and meanwhile Alex is coordinating within the 
+research group.  Alex will oversee a programmer within his group, while 
+interfacing regularly with us.
+
+1/4 Kickoff
+1/11 Complete spreadsheet, table, and database structures (RDI).
+1/17 Complete software coding for the Pricemaker component of the model
+(RDI and Enron Research), and begin testing (Enron Research).
+1/22 Complete software coding for the Dispatch portion of the model (RDI
+and Enron Research), and begin testing (Enron Research).
+1/22 Complete financial trader "user" interface, within the Access
+environment (RDI).
+1/22 Complete collection and delivery of unverified generating-unit data from 
+RDI databases (RDI).  Begin verification process (RDI).
+1/29 Complete all charts and reports accessible from the user interface
+(RDI).
+1/29 Complete compilation of consensus EBITDA forecasts for all operations 
+other than merchant generation (Enron Financial Trading).
+2/9  Complete code testing (Enron Research).
+2/9  Deliver verified and quality-checked generating-unit data (RDI).
+2/9 Complete the model, begin testing the trading methodology, and train 
+users.
+2/16  Finish training, testing, and final QC.
+
+
+jeff

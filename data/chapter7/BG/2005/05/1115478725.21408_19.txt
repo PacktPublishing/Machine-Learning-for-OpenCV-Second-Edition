@@ -1,0 +1,63 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S262930AbVEGJuu@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 27968 invoked from network); 7 May 2005 09:51:41 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 07 May 2005 09:51:41 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 May 2005 09:51:41 -0000
+Received: (qmail 26835 invoked from network); 7 May 2005 09:51:40 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 07 May 2005 09:51:40 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S262930AbVEGJuu (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Sat, 7 May 2005 05:50:50 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S262932AbVEGJuu
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Sat, 7 May 2005 05:50:50 -0400
+Received: from smtpout.terra.es ([213.4.129.48]:2789 "EHLO tfdsmtp1.mail.isp")
+	by vger.kernel.org with ESMTP id S262930AbVEGJuq (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Sat, 7 May 2005 05:50:46 -0400
+Received: from teleline.es ([10.20.4.99]) by tfdsmtp1.mail.isp
+          (Netscape Messaging Server 4.15 tfdsmtp1 Mar 14 2002 21:29:48)
+          with ESMTP id IG460G00.M73; Sat, 7 May 2005 11:50:40 +0200 
+From:	DAVISPAUL <DAVISPAUL@terra.es>
+Message-ID: <3e36e3ee1e.3ee1e3e36e@teleline.es>
+Date:	Sat, 07 May 2005 10:50:39 +0100
+X-Mailer: Netscape Webmail
+MIME-Version: 1.0
+Content-Language: es
+Subject: BANK
+X-Accept-Language: es
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+To:	unlisted-recipients:; (no To-header on input)
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 598
+
+From: The Manager,
+International Commercial Bank Ghana
+First Light Branch
+Accra, Ghana.
+E-mail:davispaul@walla.com
+
+Dear friend,
+
+I got your contact during my search for a reliable, trust worthy and 
+honest
+person to introduce this transfer project with. My name is 
+Dr.Davis.A.Paul.
+I am the manager of the International Commercial Bank Ghana, First 
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

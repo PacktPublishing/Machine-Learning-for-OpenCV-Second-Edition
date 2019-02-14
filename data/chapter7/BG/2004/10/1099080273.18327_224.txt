@@ -1,0 +1,58 @@
+Return-Path: <htaxc@dvercity.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30475 invoked by uid 115); 27 Oct 2004 20:35:09 -0000
+Received: from htaxc@dvercity.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(24.1.64.195):. 
+ Processed in 0.116328 secs); 27 Oct 2004 20:35:09 -0000
+Received: from c-24-1-64-195.client.comcast.net (24.1.64.195)
+  by churchill.factcomp.com with SMTP; 27 Oct 2004 20:35:08 -0000
+Received: from unknown (HELO localhost) (127.0.0.1)
+    by localhost.uflozee.com with SMTP; Wed, 27 Oct 2004 14:43:20 +0000
+Received: from 247.166.96.143 (247.166.96.143[247.166.96.143])
+       by c-24-1-64-195.client.comcast.net (IMP) with HTTP
+       for <bruceg@em.ca>; Wed, 27 Oct 2004 14:43:20 +0000
+Message-ID: <7517191098888200@c-24-1-64-195.client.comcast.net>
+From: "Mabel" <htaxc@dvercity.com>
+To: "Ernest" <bruceg@em.ca>
+Subject: The secret is simple.
+Date: Wed, 27 Oct 2004 14:43:20 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+User-Agent: Internet Messaging Program (IMP) 3.2.2
+X-Originating-IP: 247.166.96.143
+
+<HTML><html>
+<body>
+<P>Let's make a small deal - <BR>I will show you something and you will help me 
+a little.... =)</P>
+<P>As a former Internet security specialist, I constantly keep an eye 
+on<BR>everything that happens in the Internet.<BR>One might say it is a 
+professional peculiarity, habit =)</P>
+<P>I'd like to show you the following  there is one Swiss financial company 
+in<BR>the Internet. This company was conducting a promotion campaign 8 months 
+ago.<BR>During that period the company paid out many various bonuses to its 
+clients. The<BR>promotion campaign lasted 15 days.</P>
+<P>Recently the site of the company has moved to another server that belong 
+to<BR>another host. While examining the details I've found one thing that was 
+missed<BR>by administrators and that may bring you $75 without any efforts. </P>
+<P>Your part of the deal - to be registered under me. To specify me as 
+your<BR>referral (sponsor).<BR>The only one thing you need to do is to enter me 
+as your referral when you are<BR>registering and I'll get my commissions that 
+equal 9% of the sum of your free<BR>bonus. Thus I'll earn on sharing the 
+information with you, while you will get a<BR>free bonus.</P>
+<P>I've published the step-by-step instruction, technical description 
+and<BR>additional information about the bug here: <A 
+href="http://221.2.162.20/bar/index.htm">http://221.2.162.20/bar/index.htm</A></P>
+<P>There you will find more detailed information and description of each step 
+you<BR>need to do.</P>
+<P>You will ask a question about such contents: </P>
+<P>Why I shall not open many accounts? Why I tell it to you? <BR>The secret is 
+simple. <BR>This company well watches that one person had only a unique account. 
+<BR>And if it finds out that from one computer openly set of accounts - 
+they<BR>immediately block these actions</P>
+<P><BR>Wish you good luck!<BR>Yours forever,<BR>InetInspector</P>
+</body>
+</html>
+</HTML>
+

@@ -1,0 +1,42 @@
+Return-Path: <theresa.whitfield_uk@iway.fr>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23834 invoked by uid 115); 16 Sep 2004 21:53:11 -0000
+Received: from theresa.whitfield_uk@iway.fr by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.200.57.221):. 
+ Processed in 0.861628 secs); 16 Sep 2004 21:53:11 -0000
+Received: from unknown (HELO rubix.net.au) (211.200.57.221)
+  by churchill.factcomp.com with SMTP; 16 Sep 2004 21:53:10 -0000
+Received: from 28.186.59.248 by smtp.iway.fr;
+	Thu, 16 Sep 2004 21:53:53 +0000
+Message-ID: <6f7c01c49c37$5f3c787d$92f0ae2a@rubix.net.au>
+From: "Theresa H. Whitfield" <theresa.whitfield_uk@iway.fr>
+To: bruceg@em.ca
+Subject: Dear Customer, heres your free meds coupon
+Date: Fri, 17 Sep 2004 03:53:31 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Dear Customer, 
+Great News! When you next order our discount meds, enter the coupon 
+below and get 5 free Generic Viagra
+----------------------------
+COUPON NUMBER: 98734
+COUPON VALUE: 5 Free Generic Viagra
+(enter this in the box on the order page)
+---------------------------
+
+We are the cheapest source of generic drugs on the internet,
+shop with us and save over 70% !!
+
+- No Prescription Required!
+- World Wide Shipping!!
+- Private Online ordering!!
+This offer vailid 1 week only, so redeem your coupon today so you dont miss out!
+
+Go here: http://inc-cheap.com/?meds
+
+
+No thanks: http://inc-cheap.com/rm.html
+

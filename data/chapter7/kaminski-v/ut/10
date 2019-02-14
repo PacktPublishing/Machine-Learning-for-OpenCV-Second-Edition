@@ -1,0 +1,90 @@
+Message-ID: <8693842.1075856640276.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 04:59:00 -0800 (PST)
+From: rakesh.bharati@enron.com
+To: titman@mail.utexas.edu
+Subject: Comments
+Cc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+X-From: Rakesh Bharati
+X-To: titman@mail.utexas.edu
+X-cc: Vince J Kaminski, Vasant Shanbhogue
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Sheridan,
+
+How are you?  I hope that you had a good vacation.  Vasant and I looked at 
+your memo and found it to be interesting.    I shall first briefly summarize 
+our understanding of the methodology you propose.  The comments follow.  
+Finally, I shall sketch a simple gas field project you can use as a test case 
+in further refining the model.
+
+It appears that you are proposing a state-space approach where probabilities 
+of different states at various future dates are specified.  The next step is 
+to assume a discount rate and to compute the present value by following the 
+branches from the origin to one of the terminal points.  Traversing through 
+the tree in this manner over many iterations will permit us to compute the 
+average present value of the project.  Also, you are using the simulation to 
+assign a value of the project to each node.  Thus each node will have a cash 
+flow associated with it which will occur if the node is reached and a value 
+which is an expectation of the value to be realized going forward.   If some 
+of these values turn out to be negative, zero-coupon, risk-free bonds are 
+purchased to neutralize the negative realization. 
+
+Next, we find a comparable and apply the expected rate of return back to our 
+project (based on the variance of the returns) .  We iterate until 
+convergence.
+
+Finally, we subtract the initial investment and the computed risk capital 
+from the PV of the gross cash flows (including debt) to determine if the 
+project merits further consideration.
+
+Comments/Clarifications
+
+1.  The money is being set aside to avoid negative values.  It is not clear 
+if you mean the values of the cash flow or the PV at the node.  Anyhow, we 
+shall be setting aside money not just for that specific node but all nodes at 
+that cross-section of time as the risk-free asset pays in all states of 
+nature.  This will have to be done every time there is a negative 
+realization.  Thus, for the typical project we have, the value of risk 
+capital may be extremely high, as we are not following a tail-based norm 
+anymore.
+
+2.  Your memo appears to suggest that debt capacity is contingent on all 
+values being positive.  If so, we are only issuing risk-free debt.  Also, a 
+project with a single negative value at each cross-section of time will not 
+have a positive debt capacity.
+
+3.  It seems that our optimization argument is the discount rate, which is 
+obtained in each step from the comparison investment (by equating the 
+variances).  It is not clear if changing the discount rate will have such an 
+effect on the project variance so as to lead to a global convergence.  Also, 
+our project has a finite life and the market-based assets will have infinite 
+lives.  In the light of this fact, how will we define the relevant variance?  
+Is it the spot variance of the returns of the comparison investment?
+
+4.  Finally, our criterion is to subtract from the average PV the investment 
+and also the risk capital.  Setting risk capital to zero, this model closely 
+resembles the intuitive present value criterion and endogenously determines 
+the discount rate.  
+
+Gas Field Case
+
+To facilitate your thinking, we are providing a gas field example below.
+
+We invest x million dollars to buy and develop a gas field.  A profile of 
+expected production and variance of the production per year is available from 
+the engineers at the beginning.  Production will be autocorrelated, as the 
+profile will shift up or down based on the actual gas reserves being more or 
+less than the estimated reserves.   We assume the life of the field to be 10 
+years with no salvage value.  There are fixed and variable operating costs.  
+It might be useful for you to think about applying the framework to this 
+problem.
+
+Do let me know if you have further questions.
+
+Rakesh

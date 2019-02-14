@@ -1,0 +1,54 @@
+Message-ID: <21506697.1075840863067.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 18:55:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: GTV II weekly status update
+Cc: colleen.sullivan@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: colleen.sullivan@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+The GTV II team has a weekly status meeting on Mondays. Yesterday, we had our first status meeting. Please see below for the current status of the project. Please see the attached file for the update of project timeline in Microsoft Project.
+
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Mike Swaim, Dave Nommensen, Russ Severson, George Grant.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process have been completed.
+o	Changes for the view aggregation are 80% done.
+o	Changes for the position manager are in progress and are about 30% completed.
+
+?	Single point of deal entry for term deals:
+o	Establishing communication between TDS client & Sitara server is in progress.
+
+?	Gas Daily deals:
+o	Changes to TDS deal valuation are in progress.
+o	Creating GDI Calc in ERMS is in progress.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds is in progress. Goef has been contacted regarding how to use the features.
+
+Plans for the week ending 3/30/01:
+?	Continue the development of GTV II phase 1.
+?	Commence the work on GTV II Phase 2 inception document.
+
+Issues:
+None.
+
+ 
+
+Regards
+
+Zhiyong

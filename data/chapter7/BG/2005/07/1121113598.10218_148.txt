@@ -1,0 +1,68 @@
+Return-Path: <uros@adconsa.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22747 invoked by uid 115); 11 Jul 2005 03:46:56 -0000
+Received: from uros@adconsa.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(71.99.231.99):. 
+ Processed in 0.123829 secs); 11 Jul 2005 03:46:56 -0000
+Received: from pool-71-99-231-99.tampfl.dsl-w.verizon.net (HELO @email.imeronline.com) (71.99.231.99)
+  by churchill.factcomp.com with SMTP; 11 Jul 2005 03:46:55 -0000
+Received: from 63.251.161.1
+        (SquirrelMail authenticated user uros@adconsa.com);
+        by email.imeronline.com with HTTP id J85Gz030823017;
+        Mon, 11 Jul 2005 03:47:24 +0000
+Message-Id: <amYS7F.squirrel@63.251.161.1>
+Date: Mon, 11 Jul 2005 03:47:24 +0000
+Subject: All graphics software available, cheap OEM versions.
+From: "Marg Velazquez" <uros@adconsa.com>
+To: bruceg@em.ca
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body>
+<table>
+<tr>
+<td>
+
+<p>
+Good morning,<br><br>
+We we offer latest OEM packages of all graphics and publishinq software from CoreI,Macromedia,Adobe and others .<br><br>
+
+$80 Adobe Photoshop 8.0/CS<br>
+$140 Macromedia Studio MX 2004<br>
+$120 Adobe Acrobat 7.0 Professional<br>
+$150 Adobe Premiere Pro 1.5<br>
+$90 CoreI Designer 10<br>
+$90 QuickBooks 2004 ProfessionaI Edition<br>
+$75 Adobe Paqemaker 7.0<br>
+$70 Xara X v1.1<br>
+$75 Adobe Audition 1.5<br>
+$90 Discreet 3D Studio Max 7<br>
+$115 Adobe Golive CS<br>
+$135 Adobe After Effects 6.5 Standard<br>
+$45 Adobe Premiere Elements<br>
+$125 CoreI Painter lX<br>
+$80 Adobe Illustrator CS<br>
+$80 Adobe InDesign CS<br>
+$240 Adobe Creative Suite<br>
+$140 Adobe FrameMaker 7.1<br>
+$50 Ulead CooI 3D Production Studio 1.0.1<br>
+$90 AIias Motion Builder 6 ProfessionaI<br>
+$30 Quicken 2004 Premier Home & Biz<br>
+$30 Adobe Photoshop Elements 3.0<br>
+$110 Adobe Premiere Pro 7.0<br>
+<br>
+<a href=http://iktisw.truesoft.info/?pmhaslz41zetpchm>Learn more...</a><br><br>
+Sincerely,<br>
+  Marq
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

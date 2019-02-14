@@ -1,0 +1,45 @@
+Message-ID: <23809431.1075856587069.JavaMail.evans@thyme>
+Date: Mon, 23 Apr 2001 04:15:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com
+Subject: eol stuff
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince-
+
+I spoke with Tom, and I completely agree and would like to hand all this EOL 
+stuff over to you.
+
+We need a Sun server to take over the task. As it happens Martin Lin has one 
+in his office he's not using and up to the task. His box could serve SAS to 
+Enron, as well as handle listening in on the EOL feedds and maintaining its 
+database.
+
+Martin's box technically belongs to EBS, but I think they are downsizing and 
+wouldn't mind giving it up.
+
+In this way, you would have complete physical and administrative custody over 
+the data and any work you do with it. I needn't be involved, and you can know 
+your work is completely confidential.
+
+I'll make SAS and the EOL software available, as well as the necessary RAM 
+the server, at no charge. You just need to summon up some SysAdmin resources 
+to finish the job. There is a fine Unix guy named Ben Thompson who will 
+support you, I'm sure.
+
+Task:
+
+1) Upgrade RAM on Martin's server
+2) Install newest Solaris OS on server
+3) Install Tibco and GNU software on server
+4) Install SAS on server
+
+Clayton

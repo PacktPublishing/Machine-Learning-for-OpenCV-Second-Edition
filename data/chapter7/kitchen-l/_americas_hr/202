@@ -1,0 +1,141 @@
+Message-ID: <22596930.1075840856704.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 13:44:00 -0700 (PDT)
+From: philippe.bibi@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: FW: Enron Center North/Enron Center South Damage & Restoration
+ Overview
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+	Sorry did not see the email till late, (I had stupidly sorted the email by author) I will po round on Saturday morning and I can take
+	you trhough my plan. I am delighted to hear little Scott is sleeping.
+
+	I apologize for not seeing and responding to the email sooner.
+
+	Take care.
+
+
+	P.
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Wednesday, June 13, 2001 5:48 PM
+To:	Philippe A Bibi/HOU/ECT@ENRON
+Subject:	Re: FW: Enron Center North/Enron Center South Damage & Restoration Overview
+
+Marcus said you wanted to see me Friday but we are going to the Astros - is there a problem?  I notice you haven't responded to me email.
+
+Can we talk on the phone or will sometime over the week-end do instead of Friday?
+
+Louise
+---------------------- Forwarded by Louise Kitchen/HOU/ECT on 06/13/2001 05:46 PM ---------------------------
+
+ 
+Louise Kitchen
+06/11/2001 10:53 AM
+To:	Philippe A Bibi/ENRON@enronXgate @ ENRON
+cc:	 
+
+Subject:	Re: FW: Enron Center North/Enron Center South Damage & Restoration Overview   << OLE Object: StdOleLink >> 
+
+Bloody good effort - I thought you'd have lost a lot of systems.
+
+So how are things - thanks for the message only got it last night as the phones have been down most of the week-end.  We spent the week-end figuring out alternative ways home for Marcus's mum (Indianappolis - New York - London is how she finally got home - obviously her luggage got lost) and also picking up my parents who are now out golfing every hour god sends as no-one else thinks the courses are open.  No other damage though.
+
+What's my news - nothing exciting - Lavo did ring last week to tell me that everyone is saying I am going back to London, David Port rang Friday and said there were many rumours around (some not so nice too!).  But suffice to say I presume they are all bollocks as no-one has mentioned anything to me!  But then maybe I'll be the last person to get consulted.  Matthew Scrimshaw made the move to EBS so I do have some info there - but I figure you'll already know it as its now 4 days old!    I have never been more up to speed with emails - I only have 5 in my inbox
+
+In other news - Scott is finally sleeping more (I got a whole 7 hours last night) so I am back at work on Monday - are you free any time this week for lunch to catch me up on the gossip before I get back?  I could never be a stay at home mum -  I am lacking in all the requried attributes - patience and inability to spend money, with nothing to do apart  from look after Scott - I have become the demon internet spotter.
+
+Let me know about lunch
+
+Regards
+
+Louise
+
+
+
+
+From:	Philippe A Bibi/ENRON@enronXgate on 06/11/2001 09:17 AM
+To:	Mark Frevert/ENRON@enronXgate, Greg Whalley/HOU/ECT@ECT
+cc:	Mike McConnell/HOU/ECT@ECT, Jeffrey A Shankman/ENRON@enronXgate, Jeffrey McMahon/ENRON@enronXgate, Raymond Bowen/ENRON@enronXgate, John J Lavorato/ENRON@enronXgate, Louise Kitchen/LON/ECT@ECT, Rebecca McDonald/ENRON@enronXgate, Kevin Hannon/Enron Communications@Enron Communications, Ken Rice/Enron Communications@Enron Communications 
+
+Subject:	FW: Enron Center North/Enron Center South Damage & Restoration Overview
+
+Mark/Greg,
+
+Please find attached a post-mortem of our weekend problems...
+
+Summary is last paragraph in red.
+
+Regards
+
+
+ -----Original Message-----
+From: 	Terech, Henry  
+Sent:	Sunday, June 10, 2001 11:23 PM
+To:	Bibi, Philippe A.; Donovan, Bill
+Cc:	Kean, Steven
+Subject:	Enron Center North/Enron Center South Damage & Restoration Overview
+
+Bill/Philippe-
+
+Below is a summary of the major problems which occurred the past 96 hours and the steps taken to mitigate the damage and risk.
+
+Enron Center North (1400 Smith)
+
+As a result of the flooding downtown, approximately six skyscrapers had their electrical vaults flooded and began to cause cascading problemd in the electrical grid downtown. The net result was the loss of one of the two 35kv circuits which serve 1400 Smith. We (engineers, EES Maint, electrical subs)  believe at the time the circuits blew we shifted from three phase to single phase power, which caused an imbalance in the load to the building. 
+
+Consequently, UPS "C" which serves a portion of the Lv 34 Data Ctr, the Rolm phone switch, and a protion of the Traders floors lost a circuitboard, and blew two internal fuses. This power degradation caused PDU "S" on Lv 34 to trip its main breaker and shutdown power load to servers and equipment on this PDU. This occurred shortly after Noon on Saturday.
+
+Response/Restoration
+
+> UPS "D" transferred load from UPS "C" as the N+1 back up and carried the full load of the UPS loss as designed
+> EPSC/electrical sub (Henderson Electric); EES Maint; IT worked together to power down systems to begin repair work by 4:00pm Saturday
+> EPSC/EES Maint coordinated with Pillar/Henderson Elec to obtain replacement parts and begin the repairs. By 9:30pm all repairs to UPS"C" had been made and the system bought back on line. As a measure of extra protection the back up genset for Enron Ctr North  was in operation
+> Reliant Energy restored the circuit at approximately 10:30pm Saturday evening
+> EPSC/EES Maint and subs conducted a thorough review of all electrical and back up systems Saturday evening
+> Enron Network IT Operations began restoration of all affected systems Saturday evening
+> EPSC/EES Maint obtained diesel fuel and topped off all gensets Saturday in case of additional problems and due to fuel consumption during the outage
+
+Other Building damage was limited to flooding in the tunnels, and water damage/flooding to portions of the Body Shop on Lv B-1
+
+Enron Center South (1500 Louisiana)
+
+Impact/Damage Summary
+
+> Levels 8 & 9  received very limited amounts of water from the core area elevator shafts and exterior curtainwall. There was no exposure to water on any systems or network cabling during the entire period. (Response) Crews contained and cleaned all water as it traced into the building.
+> ALL IDF closets on Lvs 3-5 Traders Floors remained dry throughout the duration of the rains/flooding on Friday & Saturday
+> Lv 6 received some water from Lv 7. (Response) The area was contained and cleaned. No additional damage beyond Tuesday evenings flooding occurred
+> Due to extreme street flooding and water pressure, a 10" sanitary sewer line tied into ECS burst on Friday evening causing extensive flooding of Lv  B-1 area (approximately 4-6 inches of water in the basement. (Response)  Clark & Way Engr was able to install a temporary plug in the line to stop the on going flood waters from penetrating the basement. Clean up has continued throughout the weekend   
+> Due to the extreme flooding and water pressure, the water seal of the Reliant Vault burst early Saturday and flooded the electrical vault room with 24-30" of water. This resulted in a complete loss of power at approximately 1:30pm on Staurday afternoon. The back up systems engaged and operated per design to support the Data Ctr and Traders Floors. The temporary cooling tower went off line. Prior to the flooding Clark had been in the process of tieing in the temporary feed into the back up system by 7-1-01 in prep for the migration (Response) 
+	* Clark used back up water pumps to pump out and clean the Reliant electrical vault, as well as maintained operation of the back up systems
+	* The Data Ctr AHU's were kept on line with the dehumidifiers/blowers to modulate the airflow in the Data Ctr. EPSC had Way Engr techs use temp/humidity probes
+	   to monitor the areas. The recordings indicated temps on Lvs 8 & 9 did not exceed 78 degrees and relative humidity did not exceed 68% during the outage
+	* Clark/Fisk Elec/EPSC coordinated desing efforts and obtained gear on an emergency basis and completed the tie in off the temporary coolong tower to the 
+	   generators by 10:30pm
+	* Reliant Energy is still cleaning and replacing gear in th vault room. Presntly (AT 11:00PM Sunday) we have one circuit operational in the building and 50% of the
+              Reliant  gear on line). We are still operating all systems safely on the back up sytems for the past 36 hours. It is expected Relaint will be complete by 7:00am.
+	  Clark; the engineers and MEP subs shall be conducting a thorough system review and repirs as required of all systems throughout the building during the coming
+	  week.
+
+In summary, the back up systems in both facilities did engage and operate as designed; however, due to the extreme conditons and stress placed upon the systems the facility held up extremely well. I would also like to note throughout the ordeal beginning Friday evening through Sunday, everyone (Enron NetWorks;EES FacilitiesClark Const;Way Engring;Fisk Electric;Henderson Electric; KW-Pillar;Hines) did an outstanding job under enourmous pressure and the most severe conditions I have seen in downtown Houston. Communication, around the clock work  and cool heads managed to assess damage and develop action/restoration plans to facilitate repairs for Monday business
+
+Let me know if you need further details on specific issues or items.
+
+regards-
+
+Henry
+
+
+
+
+
+
+<Embedded Picture (Device Independent Bitmap)>

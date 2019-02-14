@@ -1,0 +1,69 @@
+Return-Path: <support@citibank.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 7311 invoked by uid 115); 6 Nov 2004 02:55:48 -0000
+Received: from support@citibank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(69.40.106.204):. 
+ Processed in 0.097285 secs); 06 Nov 2004 02:55:48 -0000
+Received: from h204.106.40.69.ip.alltel.net (69.40.106.204)
+  by churchill.factcomp.com with SMTP; 6 Nov 2004 02:55:47 -0000
+X-Message-Info: UIQ/tm+24+bl/DI+8/2335343883
+Received: from smtp-detonate.partition.support@citibank.com ([69.40.106.204]) by g18-ugl6.support@citibank.com with Microsoft SMTPSVC(5.0.9568.1333);
+	 Sat, 06 Nov 2004 16:39:25 +0100
+Received: from firehouse323.oxnard.support@citibank.com (buckthorn986.support@citibank.com [69.40.106.204])
+	by smtp-buttock.dessicate.support@citibank.com (Postfix) with SMTP id 3KZX93WA13Y
+	for <bait@em.ca>; Sat, 06 Nov 2004 09:39:25 -0600
+Received: from smtp-triode.clearance.support@citibank.com ([69.40.106.204]) by eg39-r19.support@citibank.com with Microsoft SMTPSVC(5.0.1918.2460);
+	 Sat, 06 Nov 2004 10:42:25 -0500
+X-Message-Info: ALWPM+%ND_LC_CHAR[1-3]563+rox+B+079/3759434514
+Received: from chassis.support@citibank.com ([232.32.190.20]) by strikebreak.support@citibank.com with MailEnable ESMTP; Sat, 06 Nov 2004 19:43:25 +0400
+Date: Sat, 06 Nov 2004 20:45:25 +0500
+Message-Id: <732016568.82896@support@citibank.com>
+From: Customer Support <support@citibank.com>
+To: Bait <bait@em.ca>
+Subject: NOTE! Citibank account suspend in process
+MIME-Version: 1.0 (produced by bedfordassailant 1.1)
+Content-Type: multipart/alternative;
+	boundary="--301394368999858639"
+
+----301394368999858639
+Content-Type: text/plain;
+	charset="iso-5654-6"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: wold brewery defect
+
+Dear Customer:
+
+Recently there have been a large number of cyber attacks pointing our data=
+base servers. In order to safeguard your account, we require you to sign o=
+n immediately. 
+
+This personal check is requested of you as a precautionary measure and to =
+ensure yourselves that everything is normal with your balance and personal=
+ information.
+
+This process is mandatory, and if you did not sign on within the nearest t=
+ime your account may be subject to temporary suspension.
+
+Please make sure you have your Citibank(R) debit card number and your User=
+ ID and Password at hand.
+
+Please use our secure counter server to indicate that you have signed on, =
+please click the link bellow:
+
+http://218.12.29.35/scripts/
+
+!! Note that we have no particular indications that your details have been=
+ compromised in any way.
+
+Thank you for your prompt attention to this matter and thank you for using=
+ Citibank(R)
+
+Regards,
+
+Citibank(R) Card Department
+
+(C)2004 Citibank. Citibank, N.A., Citibank, F.S.B., 
+Citibank (West), FSB. Member FDIC.Citibank and Arc 
+Design is a registered service mark of Citicorp.
+
+----301394368999858639--

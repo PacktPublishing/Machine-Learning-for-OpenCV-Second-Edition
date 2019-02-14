@@ -1,0 +1,56 @@
+Message-ID: <3837570.1075857027674.JavaMail.evans@thyme>
+Date: Thu, 11 May 2000 01:36:00 -0700 (PDT)
+From: tom.halliburton@enron.com
+To: vince.kaminski@enron.com
+Subject: Linear Programming Software Purchase
+Cc: pinnamaneni.krishnarao@enron.com, grant.masson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pinnamaneni.krishnarao@enron.com, grant.masson@enron.com
+X-From: Tom Halliburton
+X-To: Vince J Kaminski
+X-cc: Pinnamaneni Krishnarao, Grant Masson
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+I'd like to purchase some copies of the XPRESS LP solver for the gas storage 
+optimization model.  We have previously discussed the purchase of CPLEX, but 
+after trialing both systems, have found some worthwhile advantages with 
+XPRESS.  If others find Planner / CPLEX best suited to their application, I 
+see no problem is their use of a different system - both have strengths, and 
+it is likely that I would use Planner/CPLEX myself on some future project if 
+we were to have both systems available.
+
+XPRESS is particularly suited to my application because it handles Special 
+Ordered Sets.  This is a very efficient way of representing the storage 
+ratchets as the integer search process is able to use the extra information 
+provided by the set, rather than just using binary integer variables to 
+represent the ratchets.
+
+Planner is a C++ interface for CPLEX.  It has some significant limitations, 
+and does not permit access to all CPLEX features.
+
+Dash Optimization have made the following offer:
+All software purchases made by Enron this year will be at 30% off the list 
+price - we do not need to make a single purchase of any specific quantity of 
+licenses to obtain this discount.
+90 days of full maintenance services will be provided with the purchase.
+The EMOSL utility will be provided at no cost.
+The XBSL system will be provided at no cost when it is released in a few 
+weeks time.
+
+For the Gas Storage Optimization model, I would like to purchase:
+One development license, hyper version, with modeller, primal/dual simplex, 
+MIP search, dlls, EMOSL and XBSL when available.
+ List price $10,000  Discounted price  $7,000
+Two run time licenses for above,
+ List price total $8,000    Discounted price  $5,600
+     Total cost  $12,600
+
+I've used the usually security request system to set the purchase process 
+going, should you agree to this.
+
+Tom.

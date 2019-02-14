@@ -1,0 +1,47 @@
+Return-Path: <andrew_bignell@eresmas.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 11547 invoked by uid 115); 12 Apr 2005 17:14:56 -0000
+Received: from andrew_bignell@eresmas.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(62.81.235.112):. 
+ Processed in 0.765613 secs); 12 Apr 2005 17:14:56 -0000
+Received: from smtp12.eresmas.com (62.81.235.112)
+  by churchill.factcomp.com with SMTP; 12 Apr 2005 17:14:54 -0000
+Received: from [192.168.105.171] (helo=ma25.eresmas.com)
+	by smtp12.eresmas.com with esmtp (Exim 4.10)
+	id 1DLOza-00048C-00; Tue, 12 Apr 2005 19:16:02 +0200
+From: andrew bignell bignell <andrew_bignell@eresmas.com>
+To: andrew_bignell@eresmas.com
+Message-ID: <46391645fe8e.45fe8e463916@ma25.eresmas.com>
+Date: Tue, 12 Apr 2005 17:16:06 GMT
+X-Mailer: Netscape Webmail
+MIME-Version: 1.0
+Content-Language: en
+Subject: AWARDS/WINNING NOTIFICATION
+X-Accept-Language: en
+Content-Type: text/html; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<table border=0 width="100%" cellpadding="8"  cellpadding="8"><tr><td bgcolor="#ffffff"><B><FONT color=#0000ff size=4>
+<P>UK NATIONAL LOTTO HEADQUARTERS: </P>
+<P>45 ELMDENE RD WOOLICH, </P>
+<P>SE 16 TZ,UNITED-KINGDOM. </P>
+<P>Customer Service </P>
+<P>+447040114084</P>
+<P>Ref: UK/9420X2/68 </P>
+<P>Batch: 074/05/ZY369 </P>
+<P>AWARDS/WINNING NOTIFICATION </P>
+<P>We happily announce to you the draw(#963) of the UK-LOTTO Sweepstake Lottery International programs held on the 11th of April, 2005 in Leeds, United Kingdom. Your e-mail address attached to ticket number: 56475600545 188 with Serial number 5368/02 drew the lucky numbers: 0612426274908, which subsequently won you the lottery in the 1st category. You have therefore been approved to claim a total sum of US$ 250,000.00 (Two Hundred and Fifty Thousand,United States Dollars) in cash credited to file : ktu/9023118308/03. </P>
+<P>All participants were selected randomly from World Wide Web site through computer draw system and extracted from over 100,000 companies. This promotion takes place annually. Please note that your lucky winning number falls within our European booklet representative office in Europe as indicated in your play coupon.In view of this,your US$ 250,000.00(Two Hundred and Fifty Thousand,United States Dollars) would be released to you by our payment office in europe. Our European agent will immediately commence the process to facilitate the release of your funds as soon as you contact him. </P>
+<P>For security reasons, you are advised to keep your winning information confidential till your claims is processed and your money remitted to you in whatever manner you deem fit to claim your prize. This is part of our precautionary measure to avoid double claiming and unwarranted abuse of this program by some unscrupulous elements. Please be warned. </P>
+<P>To file for your claim, please contact our fiduciary agent: </P>
+<P>Dr. Lokas Smith </P>
+<P>Email:loksmith2004_2004@fastermail.com </P>
+<P>loksmith2004@walla.com </P>
+<P>You can also click on the website below for enquiries: </P>
+<P>http://www.national-lottery.co.uk/player/p/results/prizes/prizeAction.do http://www.thelotter.com/Results_.asp?Lottery=24 </P>
+<P>To avoid unnecessary delays and complications, please quote your reference/batch numbers and winning numbers in any correspondences with us or our designated agent. Congratulations once more from all members and staffs of this organization. </P>
+<P>Yours faithfully , </P>
+<P>Andrew Bignell Public Relations Officer, </P>
+<P>UK National Lottery Promo. </P></B></FONT></td></tr></table>
+

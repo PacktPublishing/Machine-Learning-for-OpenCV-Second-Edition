@@ -1,0 +1,79 @@
+Message-ID: <26246019.1075854124418.JavaMail.evans@thyme>
+Date: Thu, 17 Feb 2000 09:55:00 -0800 (PST)
+From: howard.camp@enron.com
+To: aimee.lannou@enron.com
+Subject: Cilco Pathing - Withdrawl and HPLC transport pathing
+Cc: fred.boas@enron.com, robert.lloyd@enron.com, howard.camp@enron.com, 
+	gregory.steagall@enron.com, daren.farmer@enron.com, 
+	george.grant@enron.com, kenny.soignet@enron.com, 
+	rita.wynne@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: fred.boas@enron.com, robert.lloyd@enron.com, howard.camp@enron.com, 
+	gregory.steagall@enron.com, daren.farmer@enron.com, 
+	george.grant@enron.com, kenny.soignet@enron.com, 
+	rita.wynne@enron.com
+X-From: Howard B Camp
+X-To: Aimee Lannou
+X-cc: Fred Boas, Robert E Lloyd, Howard B Camp, Gregory Steagall, Daren J Farmer, George Grant, Kenny J Soignet, Rita Wynne
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Cilco needs to be pathed the following way on a withdrawl day or month
+   The pathing that was done for December 1999 and January 2000 worked.
+
+Source                                                                       
+Path                                                                          
+                             Destination
+                                                                              
+              
+012-27049-05-001/Stg/F                                       012-27049-05-001 
+Firm Storage                                                   External 
+Bammel - Meter 56l
+Storage 
+Account                                                                       
+                                                                              
+               Meter 56 must be attached to this pool
+
+
+External Bammel  - Meter 56                             012-27049-02-001 
+Transport                                                         
+012-27049-02-001/Transport/I/1/E
+Meter 56 must be 
+attached                                                                      
+                                                                          
+Transport Imbalance
+
+
+
+The HPLC transport in or out of storage should be pathed as follows
+
+INJECTION
+
+Source                                                                    
+Path                                                                          
+                            Destination
+
+012-41500-02-015/Transport/I/1/E               
+012-41500-02-015                                                              
+                 External Bammel  - Meter 57
+Transport 
+Imbalance                                                                     
+                                                                              
+      Meter 57 must be attached to this pool
+
+
+WITHDRAWL
+
+External Bammel  - Meter 57                        
+012-41500-02-015                                                              
+                  012-41500-02-015/Transport/I/1/E 
+Meter 57 must be attached to this 
+pool                                                                          
+                                             Transport Imbalance
+
+
+
+   

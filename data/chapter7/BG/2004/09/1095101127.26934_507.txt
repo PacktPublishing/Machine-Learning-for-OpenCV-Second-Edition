@@ -1,0 +1,27 @@
+Return-Path: <podpointing@webtv.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13249 invoked by uid 115); 31 Aug 2004 19:31:21 -0000
+Received: from podpointing@webtv.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(212.123.26.150):. 
+ Processed in 0.040998 secs); 31 Aug 2004 19:31:21 -0000
+Received: from unknown (HELO gensmtpnt.gentgrp.gent.be) (212.123.26.150)
+  by churchill.factcomp.com with SMTP; 31 Aug 2004 19:31:21 -0000
+Received: from saturnine ([200.166.84.147]) by gensmtpnt.gentgrp.gent.be with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 31 Aug 2004 21:29:30 +0200
+From: "Marshall Lee"<podpointing@webtv.net>
+To: bruceg@em.ca
+Subject: 0RDER VAI||1UM ON1llNE T0DAY
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Return-Path: podpointing@webtv.net
+Message-ID: <GENSMTPNTd4rejOnYsD0005425c@gensmtpnt.gentgrp.gent.be>
+X-OriginalArrivalTime: 31 Aug 2004 19:29:32.0238 (UTC) FILETIME=[D73D06E0:01C48F90]
+Date: 31 Aug 2004 21:29:32 +0200
+
+<html><body ><b>
+  <b>Xan<sub></sub>ax, VaIi<sup></sup>um ,Cia||is, Via<em></em>grra <a href=http://bruceg.com>and</a> many more...!</b>! <br> <a href=http://bruceg.com>We</a> stand behi<font></font>nd Our p<a href=http://bruceg.org>roduct</a>s and ser<big></big>vice. <br> |n fact, we're the first comp<b></b>any to ever back a phar<a href=http://bruceg.net>maceuti</a>ca1 product with a l00% mo<i></i>ney back gua<u></u>rantee
+<p>
+ <a href=http://www.menicap.com>N0W CI|CKING HER<a></a>E</a>
+</P></b>
+</BODY></HTML>

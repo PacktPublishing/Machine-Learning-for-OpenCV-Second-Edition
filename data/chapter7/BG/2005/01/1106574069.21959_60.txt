@@ -1,0 +1,207 @@
+Return-Path: <Perez@activision.com>
+Received: (fqmail 27791 invoked from network); 24 Jan 2005 12:50:40 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 24 Jan 2005 12:50:40 -0000
+Received: (qmail 26899 invoked from network); 24 Jan 2005 11:35:08 -0000
+Received: from 192.168.0.8 (customer160-121.iplannetworks.net [200.68.95.121])
+  by mx10.futurequest.net ([69.5.6.182])
+  with SMTP via TCP; 24 Jan 2005 11:35:08 -0000
+Received: from 200.47.46.170 by rol.com.ar  ; Mon, 24 Jan 2005 14:35:38 +0300
+Message-ID: <syjczzinjqmpbptsbshwtt@amauta.rcp.net.pe>
+From: "Natalia Menem" <Perez@activision.com>
+Reply-To: "Natalia Menem" <Perez@activision.com>
+To: webmaster@ezmlm.org
+Subject: Controlá tu PC
+Date: Mon, 24 Jan 2005 04:35:38 -0700
+X-Mailer: PocoMail 2.64 (1120) - Licensed Version
+X-Poco-UID: 38676729
+X-Poco-Status: U
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+boundary="--3835779193219402848"
+X-Priority: 
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+
+
+
+<META HTTP-EQUIV="" CONTENT="text/html; charset=iso-8859-1">
+
+
+
+<META HTTP-EQUIV="" CONTENT="text/html; charset=iso-8859-1">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>TODO LO QUE UD</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<div align="center">
+  <table border="1" cellpadding="0" cellspacing="0" width="600" height="1662">
+    <tr> 
+      <td height="133" width="199"> <p align="center"><img border="0" 
+src="http://www.enviarmail.com.ar/control/control.gif" width="156" 
+height="143"></p></td>
+      <td width="395"><div align="center"><font size="6" face="Verdana, Arial, Helvetica, sans-serif">Alguna vez pens&oacute; 
+          tener control total de su PC cuando usted no est&aacute;</font></div></td>
+    </tr>
+    <tr> 
+      <td height="29" colspan="2" bgcolor="#000000"> <p align="center"><b><font face="Verdana" color="#FFFFFF" size="1"> 
+          <marquee align="middle" width="574" height="13" style="font-family: verdana">
+          <font size="2" face="Arial, Helvetica, sans-serif">Su Esposa/o lo enga&ntilde;a 
+          - Personas peligrosas quieren acercarse a sus hijos - Sus Empleados 
+          lo est&aacute;n robando o Perdiendo el tiempo en Internet - </font> 
+          </marquee>
+          </font></b></td>
+    </tr>
+    <tr> 
+      <td height="1349" colspan="2" bordercolor="#99FF33" bgcolor="#FFCC33"> <div align="center"><font size="3" face="Arial, Helvetica, sans-serif"><strong>Su 
+          esposo/a lo enga&ntilde;a?<br>
+          Personas peligrosas quieren acercarse a sus hijos?<br>
+          Sus empleados lo est&aacute;n robando o perdiendo el tiempo en internet?<br>
+          Cierran el chat y otras ventanas siempre que usted se acerca?</strong></font> 
+          <p><font face="Arial, Helvetica, sans-serif"><strong>&iexcl;Usted tiene 
+            el DERECHO A SABER!<br>
+            El PC detective le da la posibilidad de averiguar la verdad...<br>
+            Y tan f&aacute;cil como comprobar su email.</strong></font></p>
+          <p><font face="Arial, Helvetica, sans-serif"><strong>El programa registra 
+            los siguientes datos:</strong></font></p>
+          <p><strong><font face="Arial, Helvetica, sans-serif">Grabaci&oacute;n 
+            De Mensajer&iacute;a instantanea y chat.<br>
+            &#8226; Mensajero de AOL,<br>
+            &#8226; ICQ,<br>
+            &#8226; Mensajero de MSN,<br>
+            &#8226; Mensajero De Yahoo,<br>
+            &#8226; IRC, Trillian, y muchos m&aacute;s.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Grabaci&oacute;n 
+            de los emails </font><font face="Arial, Helvetica, sans-serif"><br>
+            Puede programar para que registre todos los emails. <br>
+            Si desea puede obtener la contrase&ntilde;a de la casilla de email.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Sitios 
+            Del Web Visitados</font><font face="Arial, Helvetica, sans-serif"><br>
+            El PC Detective registra URLs de todos los sitios visitados. <br>
+            El informe de actividad exclusivo de PC Detective incluye:<br>
+            &#8226; URL visitado,<br>
+            &#8226; Fecha y hora que fue visto.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Golpes 
+            de teclado Mecanografiados</font><font face="Arial, Helvetica, sans-serif"><br>
+            Registrar&aacute; cada golpe de teclado mecanografiado en la computadora, 
+            una conversaci&oacute;n del chat, de un mensaje instantaneo, de un 
+            email, de un documento, o de una contrase&ntilde;a.<br>
+            El informe de actividad incluye:<br>
+            &#8226; Uso en el cual los golpes de teclado fueron capturados,<br>
+            &#8226; Fecha y hora que los caracteres fueron capturados,<br>
+            &#8226; Caracteres normales o contrase&ntilde;as.<br>
+            &#8226; Teclas y botones (Control,Enter,S&iacute;,Aceptar). Absolutamente 
+            todo.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Actividad 
+            Del Programa</font><font face="Arial, Helvetica, sans-serif"><br>
+            Incluye una herramienta de supervisi&oacute;n capaz de proporcionar 
+            una descripci&oacute;n comprensiva de todos los usos de su PC del 
+            hogar o de la oficina.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Visi&oacute;n 
+            de los registros a distancia</font><font face="Arial, Helvetica, sans-serif"><br>
+            No hace falta que este presente en la PC que esta instalado para ver 
+            los registros, los mismos pueden enviarse autom&aacute;ticamente a 
+            un email o FTP seleccionado.<br>
+            Tienen la opci&oacute;n de estar en HTML o encriptados.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Palabras 
+            claves Y Frases</font><font face="Arial, Helvetica, sans-serif"><br>
+            El PC Detective permite que usted ordene el programa para buscar ciertas 
+            palabras claves o frases sensibles. Por ej:&quot;sexo&quot;,&quot;drogas&quot;,&quot;odio 
+            a...&quot;,&quot;te extra&ntilde;o&quot;, nombres de personas, etc. 
+            - lo que usted decide incluir. Cuando se detecta una palabra clave, 
+            hace una captura de la pantalla y la env&iacute;a inmediatamente por 
+            email, a la cuenta que UD. quiera.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Tecnolog&iacute;a 
+            Stealth (invisible)</font><font face="Arial, Helvetica, sans-serif"><br>
+            No muestra ning&uacute;n &iacute;cono, no aparece en la bandeja del 
+            sistema de Windows, no aparece en los programas de Windows, no se 
+            ve en la lista de Administraci&oacute;n de Windows (Ctrl+Alt+Delete), 
+            No aparece en desinstalar programas y no retrasa la operaci&oacute;n 
+            de la computadora, enviar&aacute; informes de actividad cuando UD. 
+            lo disponga.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Seguridad 
+            absoluta</font><font face="Arial, Helvetica, sans-serif"><br>
+            &#8226; No pueden darse cuenta que esta instalado.<br>
+            &#8226; Los registros son codificados para que s&oacute;lo UD. pueda 
+            verlos.<br>
+            &#8226; Puede crear una contrase&ntilde;a de acceso al programa.<br>
+            &#8226; S&oacute;lo se ejecuta con una combinaci&oacute;n de teclas 
+            que Ud. elija. Ej: Ctrl+Alt+W<br>
+            &#8226; Los mails son enviados v&iacute;a TLS protocol, no son interceptables.<br>
+            &#8226; No lo detecta el Firewall o la protecci&oacute;n para internet.</font></strong></p>
+          <p><strong><font size="4" face="Arial, Helvetica, sans-serif">Telecontrol 
+            (Gratis)</font><font face="Arial, Helvetica, sans-serif"><br>
+            Si no es factible que usted vaya f&iacute;sicamente a la PC en la 
+            cual desea instalar el PC Detective, ofrece la posibilidad de un telecontrol, 
+            de instalaci&oacute;n adicional, ideal para las PCs alejadas.</font></strong></p>
+          <p><strong><font face="Arial, Helvetica, sans-serif">&#8226; Viene con 
+            instrucciones en espa&ntilde;ol.<br>
+            &#8226; El programa tambi&eacute;n est&aacute; en espa&ntilde;ol. 
+            <br>
+            S&oacute;lo tendr&aacute; que tildar lo que desea registrar.<br>
+            No necesitar&aacute; ning&uacute;n conocimiento previo para utilizarlo.</font></strong></p>
+          <p><strong><font face="Arial, Helvetica, sans-serif">En s&oacute;lo 
+            2 minutos tendr&aacute; el control total de la PC!!!. <br>
+            No se olvide que no hace falta estar presente en la PC que realiza 
+            los registros.</font></strong></p>
+          <p><strong><font color="#000000" size="5" face="Arial, Helvetica, sans-serif"> Adicional Telecontrol 
+            Gratis!!!<br>
+            Todo esto por s&oacute;lo $ 50 (Gastos de Env&iacute;o inclu&iacute;dos).<br>
+            Cuanto pagar&iacute;a por los datos obtenidos?<br>
+            Cuanto dinero ahorrar&iacute;a sabiendo todo lo que hacen en su PC?</font></strong></p>
+          <p><strong><font face="Arial, Helvetica, sans-serif">Aproveche esta 
+            oportunidad ahora, dado que el programa se registra a su nombre y 
+            el precio es hasta agotar stock de licencias.</font></strong></p>
+          <p></p>
+        </div></td>
+    </tr>
+    <tr> 
+      <td height="149" colspan="2" bgcolor="#000000"> <p align="center" style="margin-top: 15"><b><font color="#FFFFFF" size="3" face="Arial">TODA 
+          LA INFORMACION CONTENIDA ES TOTALMENTE EN CASTELLANO</font><font color="#FFFFFF" face="Arial"><font 
+size="3"><br>
+          </font>EL COSTO DEL PRODUCTO CON ENV&Iacute;O INCLU&Iacute;DO ES DE 
+          </font><font face="Arial" color="#E7D394"> <font size="6">$ 50&nbsp; 
+          </font></font></b></p>
+        <div align="center"> 
+          <table border="0" cellpadding="0" cellspacing="0" width="330" height="28">
+            <tr> 
+              <td bgcolor="#003366" width="270" height="28" style="border: 2 outset #003366"> 
+                <p align="center"><b> <a style="text-decoration:none;" href="http://www.coleccion.de/contpy"><font color="#FFFFFF" size="2" face="Arial">SOLICITAR 
+                  CPNTROLPC AQU&Iacute;</font></a></b></td>
+            </tr>
+          </table>
+        </div>
+        <p align="center" style="margin-bottom: 12"><b><font color="#FFFFFF" face="Arial" size="2">- 
+          El env&iacute;o se realiza sin cargo en todo el territorio de la Rep&uacute;blica 
+          Argentina. -</font></b></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p align="center"><font color="#637DB5"><font face="Arial" size="1">Bajo el
+decreto S.1618 titulo 3ro. aprobado por el 105 congreso base de las normativas
+internacionales sobre SPAM,<br>
+un E-mail no podrá ser considerado SPAM mientras incluya una forma de ser
+removido. Para hacerlo cliquee </font>
+<a href="mailto:remremrem@datafull.com?subject=Quitarme de su lista">
+<font face="Arial" size="1">aquí.</a>
+Gracias.</font></font></p>
+
+</body>
+
+</html>
+
+
+
+
+

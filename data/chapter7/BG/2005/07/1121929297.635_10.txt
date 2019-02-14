@@ -1,0 +1,311 @@
+Return-Path: <apache@NS1.3009000.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22029 invoked by uid 115); 20 Jul 2005 18:14:37 -0000
+Received: from apache@NS1.3009000.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(206.80.64.12):. 
+ Processed in 0.648657 secs); 20 Jul 2005 18:14:37 -0000
+Received: from stevensint.lsl.netlogic.net (HELO NS1.3009000.net) (206.80.64.12)
+  by churchill.factcomp.com with SMTP; 20 Jul 2005 18:14:34 -0000
+Received: (from apache@localhost)
+	by NS1.3009000.net (8.11.6/8.11.6) id j6KIFWP31020;
+	Wed, 20 Jul 2005 13:15:32 -0500
+Date: Wed, 20 Jul 2005 13:15:32 -0500
+Message-Id: <200507201815.j6KIFWP31020@NS1.3009000.net>
+To: bruceg@em.ca
+Subject: Fully Customizable Websites
+From: tom@3009000.com
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Custom Websites</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.secondaryNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0099FF;
+}
+.secondaryNav a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0099FF;
+	text-decoration:none;
+}
+.secondaryNav a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0099FF;
+	text-decoration:none;
+}
+.secondaryNav a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0099FF;
+	text-decoration:none;
+}
+.secondaryNav a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000099;
+	text-decoration:underline;
+}
+
+a:link {
+	text-decoration:none;
+}
+a:active {
+	text-decoration:none;
+}
+a:visited {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+}
+-->
+</style>
+</head>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<body bgcolor="#DFDFD8" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="741" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td align="center" valign="top" background="http://www.thetagnetwork.com/youthgroup/temp2images/mainbg.gif"> <table width="721" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr background="http://www.thetagnetwork.com/youthgroup/temp2images/topbg.gif"> 
+          <td background="http://www.thetagnetwork.com/youthgroup/temp2images/topbg.gif" width="512"><table width="100%" border="0" cellspacing="5" cellpadding="5">
+              <tr> 
+                <td><p><font color="#0099FF" size="5" face="Veranda, Arial, Helvetica, sans-serif">Custom Websites</font><font color="#999966" size="5" face="Verdana, Arial, Helvetica, sans-serif"></font></p></td>
+              </tr>
+            </table></td>
+          <td background="http://www.thetagnetwork.com/youthgroup/temp2images/topbg.gif" width="245" align="right"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/tagblurb.gif" width="202" height="99"></td>
+        </tr>
+        <tr> 
+          <td colspan="2"> <div id="new"> 
+              <table width="721" height="22" border="0" align="center" cellpadding="3" cellspacing="1">
+                <tr> 
+                  <td width="91" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=index2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">HOME</font></strong></a></td>
+                  <td width="90" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/taggear.php?clientId=82" target="_blank"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">TAG 
+                    GEAR</font></strong></a></td>
+                  <td width="90" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=blogs2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">BLOGS</font></strong></a></td><td width="90" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=devos2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">DEVOS</font></strong></a></td><td width="90" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/!
+clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=rant2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">RANT</font></strong></a></td><td width="90" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=photos2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">PHOTOS</font></strong></a></td><td width="90" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=music2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">MUSIC</font></strong></a></td><td w!
+idth="91" onMouseover="this.style.backgroundColor = '#000099';" onMouseOut="this.style.backgroundColor = '#0099FF';" bgcolor="#0099FF"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=contact2.html&clientId=82"><strong><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">CONTACT 
+                    US</font></strong></a></td>
+                </tr>
+              </table>
+            </div></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/dividespecs.gif" width="717" height="19"> 
+          </td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2" bgcolor="#666666"> <table width="100%" height="205" border="0" cellpadding="4" cellspacing="1">
+              <tr> 
+                <td height="212" align="center" bgcolor="#FFFFFF"><img src="http://www.thetagnetwork.com/youthgroup/images/headgraphics/16.jpg" width="704" height="196"></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/dividespecs.gif" width="717" height="19"></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="181" rowspan="2" valign="top"> <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#666666">
+                    <tr> 
+                      <td height="22" valign="top" bgcolor="#0099FF"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                          <tr> 
+                            <td width="4%">&nbsp;</td>
+                            <td width="96%"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Quick 
+                              Links<strong> </strong></font></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr> 
+                      <td height="31" valign="middle" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=page1.html&clientId=82">Get Your Own Web Site</a></font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr><tr> 
+                      <td height="31" valign="middle" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=page2.html&clientId=82">Create Your Own Pages</a></font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr><tr> 
+                      <td height="31" valign="middle" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=page3.html&clientId=82">Upload Pictures and More</a></font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr><tr> 
+                      <td height="31" valign="middle" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=page4.html&clientId=82">Build a Contact List</a></font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr><tr> 
+                      <td height="31" valign="middle" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=page5.html&clientId=82">Market Your Organization</a></font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr> 
+                      <td height="22" valign="top" bgcolor="#0099FF"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                          <tr> 
+                            <td width="4%">&nbsp;</td>
+                            <td width="96%"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Extra 
+                              Features</font></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+					<tr> 
+                      <td height="31" valign="top" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/chat3/index.php?chatClientId=82" target="_blank">Enter 
+                              Live Chat Room</a></font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr> 
+                      <td height="31" valign="top" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">84333</font></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr><tr> 
+                      <td height="31" valign="top" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr> 
+                            <td width="8%"><table width="8" height="8" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0099FF">
+                                <tr> 
+                                  <td></td>
+                                </tr>
+                              </table></td>
+                            <td width="4%">&nbsp;</td>
+                            <td width="88%" class="secondaryNav"><strong><a href="http://www.thetagnetwork.com/tagsphere.php" target="_blank"><img src="http://www.thetagnetwork.com/youthgroup/images/tagsphereicon.gif" width="144" height="43" border="0"></a></strong></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+					<tr> 
+                      <td valign="top" bgcolor="#FFFFFF"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/smalldivide.gif" width="179" height="20"></td>
+                    </tr>
+                    <tr> 
+                      <td height="31" align="center" valign="middle" bgcolor="#F5F5F5"> 
+                        <p><br>
+                          <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="1"> 
+                          Thom Emmons<br>
+thomemmons@hotmail.com
+                          </font></strong></font><br>
+                          <br>
+                        </p></td>
+                    </tr>
+                  </table></td>
+                <td width="1%" rowspan="2" background="http://www.thetagnetwork.com/youthgroup/temp2images/verticaldivide.gif"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/verticaldivide.gif" width="17" height="15"></td>
+                <td width="520" valign="top"> <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#666666">
+                    <tr> 
+                      <td height="22" bgcolor="#0099FF"><table width="100%" border="0" cellspacing="1" cellpadding="1">
+                          <tr> 
+                            <td width="2%">&nbsp;</td>
+                            <td width="98%"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">Fully Customizable Websites</font></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="5" cellpadding="5">
+                          <tr>
+                            <td>
+                              <p>The TAG Network is now offering fully custom websites to you, your organization or your company for only $14.95 a month.<br>
+<br>
+Please you any of the links on this page to learn more about this exciting and incredible opportunity.<br>
+<br>
+Hurry before time runs out and this incredible offer is taken off the table.</p></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td valign="top">&nbsp;</td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr align="center"> 
+          <td colspan="2"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/dividespecs.gif" width="717" height="19"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td align="center" valign="bottom" background="http://www.thetagnetwork.com/youthgroup/temp2images/mainbg.gif"><a href="http://www.3009000.net" target="_blank"><img src="http://www.thetagnetwork.com/youthgroup/temp2images/miljonairBug.gif" width="266" height="54" border="0" align="absbottom"></a></td>
+  </tr>
+</table><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthr!
+ough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><div align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca"> </a></font></span></body></html><di!
+v align="center"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.thetagnetwork.com/youthgroup/clickthrough.html?emailaddress=bruceg@em.ca&emailKey=82_1121879066&page=removeme.html&clientId=82&email=bruceg@em.ca">To Remove Yourself From This Mailing List Please Click Here</a></font></span></body></html>

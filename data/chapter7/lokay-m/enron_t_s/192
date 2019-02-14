@@ -1,0 +1,55 @@
+Message-ID: <26887420.1075854999135.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 04:21:28 -0700 (PDT)
+From: center.ets@enron.com
+Subject: ETS and Corporate Change Control Items
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: ETS Solution Center, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B502D3D9-A0AB9D3B-8625693C-5D4DD1>
+X-To: Enron Everyone_ET&S_Houston@ENRON
+X-cc: 
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+
+The following items were discussed in this week's corporate change control... 
+
+May 24
+From 2:00 - 3:00 p.m., Enron Network Services will perform maintenance on the bridged network for gas control.  They are replacing the csu/dsu's in both routers.  There will be a total disruption of the gas control DRA segment to Omaha during this maintenance.
+
+May 24
+From 9:00 p.m. through 5/25 at 8:00 a.m., the Corporate Server team will move the Personic Workflow applications to new servers.  This will result in a complete outage of the HR recruit tracking application.
+
+May 26
+From 10:00 - 11:15 a.m., Enron Network Services will be migrating power to the switches in the EB28 floor wiring closet.  There will be an intermittent disruption while the switches are being moved.  This only affects devices on EB28.
+
+May 26
+From 6:30 p.m. through 5/27 at 12:00 a.m., the Messaging team will remove and re-install Norton Anti-virus on nahou-msmbx05v.  They will also install Norton Anti-virus on all Houston and remote Exchange servers.  There may be intermittent disruption of messaging services during this maintenance.
+
+June 1
+From 6:00 - 7:00 p.m., Facilities will open a chilled water piping bypass valve to the EB34 computer room to eliminate flow restriction.  No outage is expected.
+
+June 9
+From 7:00 - 7:15 a.m., Enron Network Services will activate the four gigabit Ethernet channels between the Enron Building and Enron South.  No impact is expected.  
+
+June 14
+At 7:00 a.m., the Gas Measurement Team will deny access to the existing MIPS system (192.168.175.62).  The new PGAS gas measurement system will be enabled on Monday, June 18.  During the period from June 14-18, only gas measurement support staff will have access to the MIPS server.  If you have any applications that access the MIPS system, contact Sandy Jones or Jeff May for more information. 
+
+FYI:	There will be freeze on all network changes from June 2 through June 16.  This includes changes to Enron Infrastructure (switches, routers, routing changes, new sites, etc.).
+
+Tentative Dates on Changes Previously Submitted...
+
+June 13
+At 6:00 p.m., the ETS IT team will de-commission the old DSS "Smartstream" server,  ENEDS01_ADAPT. 
+
+June 27
+On May 15, the ETS IT team will migrate the database from the DSS "Smartstream"  server, ENEDS01_ADAPT to SQL2000, GTHOU-APPSQ03P/GTHOUSQRPT01P.  All DSS users will need to access the database on the new server after this change.
+
+	ETS Solution Center - Houston	713-345-4745
+	ETS Solution Center - Omaha	402-398-7454
+
+
+
+
+

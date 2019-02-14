@@ -1,0 +1,64 @@
+Return-Path: <RVDZDAUV@spw.de>
+Received: (fqmail 28266 invoked from network); 14 Jan 2005 21:58:26 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 14 Jan 2005 21:58:26 -0000
+Received: (qmail 24424 invoked from network); 14 Jan 2005 21:58:26 -0000
+Received: from 69.5.6.180 ([218.75.117.194])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 14 Jan 2005 21:58:22 -0000
+X-Message-Info: ro497VO36265YI3CUYvorIIHfS2sRR0pfqOEkUW51D6
+Received: from mail pickup service by 218.75.117.194 with Microsoft SMTPSVC;
+  Fri, 14 Jan 2005 15:59:56 -0600
+Content-Class: urn:content-classes:message
+Reply-To: "Gilda Kelly" <RVDZDAUV@spw.de>
+From: "Gilda Kelly" <RVDZDAUV@spw.de>
+To: "Webmastgr" <webmastgr@ezmlm.org>
+Subject: New pharm site new great prices Evangeline
+Date: Fri, 14 Jan 2005 15:59:56 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--6107202753128435128"
+
+----6107202753128435128
+Content-Type: text/html;
+ charset="iso-9227-2"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<title>Refill Notification for webmastgr@ezmlm.org</title>
+</head>
+<body>
+<p>
+<hr size=1>
+Refill Notification Ref: AP-48542958
+<br>
+<hr size=1>
+<br>
+<p>
+<p>Dear webmastgr@ezmlm.org,
+<br>
+<p>
+Our automated system has identified that you most likely are ready to refill your recent online pharmaceutical order.
+<p>
+To help you get your needed supply, we have sent this reminder notice.
+<p>
+Please use the refill system (<a href="http://projectile.fasturnaround.com/?wid=100069">click this link</a>) to obtain your item in the quickest possible manner.
+<p>
+Thank you for your time and we look forward to assisting you.
+<p>
+Sincerely,
+<p>
+Gilda Kelly
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+wasserman extemporaneous vexatious sheik doberman hornblower leg seven coverall fodder
+gecko musty dewdrop inscription quizzical adjust binuclear breeze pythagorean
+braille modular biochemic goof danube administratrix gospel odyssey contemptuous rogers pantry
+dynamite agreeing pert wise insuperable quagmire conifer nocturnal
+america limpet gravid stealthy ablaze preparative syrup burrow
+lament doctor beatific housefly gillespie emphasis southampton duty
+</body>
+</html>
+
+----6107202753128435128--

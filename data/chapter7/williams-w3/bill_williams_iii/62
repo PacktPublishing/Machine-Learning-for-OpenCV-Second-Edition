@@ -1,0 +1,86 @@
+Message-ID: <24477378.1075863296560.JavaMail.evans@thyme>
+Date: Thu, 30 Aug 2001 16:03:21 -0700 (PDT)
+From: kate.symes@enron.com
+To: security.enron@enron.com
+Subject: RE: E-Request 53597 - Darin Presto
+Cc: bill.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Enron Messaging Security, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=3106886-4e419b2b-8625688f-832558>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Lisa -
+
+I'm still attempting to get our three new traders set up with the necessary Lotus Notes databases. I just tried to login as Darin Presto, and it appears he does not yet have an ID. Could you let me know what more I need to do to get these guys access to the following Lotus Notes databases?
+
+Thanks,
+Kate 
+
+ -----Original Message-----
+From: 	Symes, Kate  
+Sent:	Thursday, August 16, 2001 3:46 PM
+To:	Enron Messaging Security,
+Subject:	RE: E-Request 53597 - Darin Presto
+
+Lisa -
+
+Thanks for looking into this, and for your quick response. I'm not sure which databases you're looking at (possibly East Real Time?), but I've attached a list of the four databases the new Portland Real Time traders need access to. The traders names are: Darin Presto; John C. Anderson; Michael Mier. Of course, their need for a Lotus Notes account is implicit in this request. Beyond that, they need the following:
+
+Title - WSCC Outages
+Server - ECTPDX-LN1/ECT
+Filename - mail\wsccnet.nsf
+
+Title - West Realtime
+Server - ECTPDX-LN1/ECT
+Filename - mail\WestReal.nsf
+
+Title - West Power Scheduling Archive
+Server - ECTHOU_LN1/ECT
+Filename - Power\powrschdiarchive.nsf
+
+Title - West Power Scheduling Discussion
+Server - ECTHOU_LN1/ECT
+Filename - Power\powrschdi.nsf
+
+Again, thank you for your help with this, and please let me know if there's anything I can do to help.
+
+Thanks,
+Kate
+
+
+
+ -----Original Message-----
+From: 	Enron Messaging Security,  
+Sent:	Thursday, August 16, 2001 3:17 PM
+To:	Symes, Kate
+Subject:	E-Request 53597 - Darin Presto
+
+There are two databases which I cannot locate:
+
+West Realtime
+WSCC Outages
+
+
+However, I did locate:
+
+Real Time Operations:  ECTPDX-LN1/ECT\realtime\myaccoun.nsf (Would this be the correct database?)
+Realtime:  ECTHOU-LN7/ECT\mail\realtime.nsf
+
+
+For WSCC Outages and West Realtime databases, if you could locate someone who does have access to these databases and ask them to do the following:
+
+Close the database icon
+Right-click on the database icon
+Choose File, Database, Properties
+Then send me the Title, Server, and Filename information.  This will be of great help.
+
+
+Many Thanks and Please Advise.
+
+Lisa Scully

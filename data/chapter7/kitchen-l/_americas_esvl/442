@@ -1,0 +1,87 @@
+Message-ID: <24779475.1075840839715.JavaMail.evans@thyme>
+Date: Tue, 27 Nov 2001 10:51:33 -0800 (PST)
+From: marcello.romano@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: VMAC Transaction
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Romano, Marcello </O=ENRON/OU=EU/CN=RECIPIENTS/CN=MROMANO>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LKITCHEN>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+The overall idea seems logical as a method to leverage collateral received on profitable deals.
+One additional benefit would be if this allowed us to use other securities as collateral that a counterparty would not accept (I'm not sure what kind of other securities we have).
+I also think that for EnronOnline to continue it's success that in the medium term it will need some form of margining/collateral as part of the system, but you will have a better sense for weither this would be an issue in the US given a healthy Enron - it is an issue in Europe and with banks regardless.
+
+Issues:
+Big systems issue for implementing a same day mark to market and liquidity calculation accross all products on EnronOnline. Therefore, I assume this would be rolled out only on the highest volume products. This will increase the cost of each transaction.
+Liquidity algorithm will be hard for counterparties to swallow as they will not want to post incremental capital.
+Contract Issue - do you make the collateral part of all EnronOnline deals as if you don't it will be difficult to differentiate between counterparties.
+Existing exposures - How do we assign the collateral rights on existing net exposures to VMAC. This will likely be a logistical issue as you must have many counterparties but if the high value ones are few it could be doable, but why would the counterparty agree as he should already have our collateral (e.g. LC) or this may require him posting more.
+Timing - This might be implemented by end of Q1, but is unlikely to give you immediate benefit.
+Cost - Am not sure what US brokerage is but this seems to be equivalent to 40% of brokerage as it is being paid on both sides. Does this destroy margins.
+Threshold - Would there be a credit threshold as if not this would be very onnerous on all parties.
+
+Quick win:
+Effectively you are using collateral received to post collateral through a sleave. Would it not be possible to negotiate this directly with a counterparty given a select few who require high postings currently. In either case you would have to negotiate adjustment to collateral but if it can be done without a sleave but with a bigger haircut then you would avoid the delay in setting this up wholesale. I do not know if this is legally possible. 
+
+I'll call to discuss and if you want me to do more detailed work let me know.
+
+M
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	27 November 2001 16:04
+To:	Romano, Marcello
+Subject:	FW: VMAC Transaction 
+
+I'll get you working
+
+ -----Original Message-----
+From: 	Eichmann, Marc  
+Sent:	Wednesday, November 21, 2001 2:51 PM
+To:	Kitchen, Louise; Lavorato, John
+Cc:	Richter, Brad
+Subject:	VMAC Transaction 
+
+Louise and John:
+
+Here is a general description of the transaction we are negotiating with VMAC (Virtual Markets Assurance Corporation)-FSA (Financial Securities Assurance). FSA is an AAA rated insurance company large enough to provide us with a credible deal.  
+
+Here are the deal highlights:
+
+FSA would wrap Enron's credit exposure as follows:
+
+1) In case of default FSA would liquidate the contracts sleeved to them by Enron and use the proceeds of in the money transactions to pay for out of the money transactions.
+
+2) In case Enron is out of the money in the portfolio of trades sleeved to VMAC. FSA would pay the counterparties with the 100% collateral previously posted by Enron and managed on a day to day basis.
+
+FSA has mentioned the possibility of extending a line of credit to Enron based on its net collateral position (~$1.3 billion as of today) and the net mark to market position (~ $1.4 billion to date). Haircuts on the line of credit would have to be negotiated and might be significant.
+
+FSA-VMAC would receive as compensation the fee structure described under terms and conditions. Under the current structure the only risk FSA- VMAC is exposed to is the risk of simultaneous default by Enron and another counterparty and the operational risk of marking to market the positions and liquidating the contracts. 
+
+Please find enclosed the following:
+
+1) Transaction structure : 	Describes the payment logic in case of default
+2) Terms and conditions :	Describes the terms and conditions under negotiation for the contract
+3) Collateral Haircuts : 		Describes the collateral haircuts on the securities posted to FSA to guarantee our net mark to market position (if out of the money)
+4) FSA snapshot
+5) FSA rating: 			AAA qualification of FSA by Moody's
+
+Please feel free to contact me or Brad Richter to clarify any doubts with respect to this,
+
+Marc Eichmann
+Work 713 345-8422, Cell 713 870-2696
+Manager Transaction Development
+EnronOnline LLC
+
+ << File: VMAC Transaction structure.doc >>  << File: VMAC Term and Conditions.doc >>  << File: Collateral Haircuts.doc >>  << File: FSA snapshot.doc >>  << File: FSA rating.pdf >> 
+
+
+

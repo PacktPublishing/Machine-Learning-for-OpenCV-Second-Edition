@@ -1,0 +1,48 @@
+Delivered-To: em-ca-bait-excelled@em.ca
+Received: (qmail 19551 invoked by uid 115); 19 Jul 2005 21:31:33 -0000
+Received: from athensmuffinaspirinvex@imaginationplus.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(84.95.104.181):. 
+ Processed in 3.478276 secs); 19 Jul 2005 21:31:33 -0000
+Received: from 84.95.104.181.cable.012.net.il (84.95.104.181)
+  by churchill.factcomp.com with SMTP; 19 Jul 2005 21:31:28 -0000
+Received: from bonaventure.fone-fun.com (bonaventure.fone-fun.com)
+	by bonaventure.fone-fun.com (bonaventure.fone-fun.com) with ESMTP
+	id MPO92039; Wed, 20 Jul 2005 03:22:12 +0500
+Date: Wed, 20 Jul 2005 01:22:12 +0300
+From: "Trey Redmond" <athensmuffinaspirinvex@imaginationplus.com>
+To: bait@em.ca
+Message-Id: <hangmen62479.radius@carbonate.752.eclipse.EDU>
+Subject:  Briana Mcintyre Wed, 20 Jul 2005 02:25:12 +04003
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0"
+
+----0
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+<body>
+<p>Hello</p>
+
+<p>Here is the the link to the Website we talked about last week, we saved a lot
+on our Meds.</p>
+
+<p>Please have a look<br>
+<br>
+<a href="http://rir.val10.com/pharmacy/92771/csuwk.com">Press Here</a><br>
+<br>
+Thank you<br>
+Trey Redmond</p>
+
+</body>
+
+</html>
+
+----0--
+

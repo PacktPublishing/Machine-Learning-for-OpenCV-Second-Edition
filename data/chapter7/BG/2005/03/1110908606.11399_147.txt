@@ -1,0 +1,38 @@
+Return-Path: <izewdrla@copemanagement.com>
+Delivered-To: em-ca-bait-excelled@em.ca
+Received: (qmail 31362 invoked by uid 115); 15 Mar 2005 04:47:04 -0000
+Received: from izewdrla@copemanagement.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.116.193.177):. 
+ Processed in 0.136658 secs); 15 Mar 2005 04:47:04 -0000
+Received: from unknown (HELO 220.116.193.177) (220.116.193.177)
+  by churchill.factcomp.com with SMTP; 15 Mar 2005 04:47:03 -0000
+Received: from unknown (HELO localhost) (127.0.0.1)
+    by localhost.dj.com with SMTP; Tue, 15 Mar 2005 05:06:38 +0000
+Received: from 144.8.69.225 (144.8.69.225[144.8.69.225])
+       by 220.116.193.177 (IMP) with HTTP
+       for <bait-excelled@em.ca>; Tue, 15 Mar 2005 05:06:38 +0000
+Message-ID: <8808531110863198@220.116.193.177>
+From: "Pius" <izewdrla@copemanagement.com>
+To: "Stephen" <bait-excelled@em.ca>
+Subject: Job Offer
+Date: Tue, 15 Mar 2005 05:06:38 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+User-Agent: Internet Messaging Program (IMP) 3.2.2
+X-Originating-IP: 144.8.69.225
+
+<HTML><html>
+<body>
+Do you want to find good, highly paid ( a provisional or a constant ) work? Wherever you would<br>
+be, we can find for you the best offers of work. We offer employers for the companies worldwide.<br>
+Send the contact information or curriculum vitaeon e-mail:<br>
+<a href="mailto:manager@job-softservice.biz">manager@job-softservice.biz</a><br>
+Shortly you will receive offers about work. No payments<br>
+Twenty-four-hour support<br>
+Wide choice of vacancies, in what city, staff, cuontry wherever you would be.<br>
+Our managers will help to pick up the best offers of work exactly for you<br>
+</body>
+</html>
+</HTML>
+

@@ -1,0 +1,93 @@
+Return-Path: <anadolubrickulubu@yahoo.com>
+Received: (fqmail 25402 invoked from network); 23 Nov 2004 05:43:14 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 23 Nov 2004 05:43:14 -0000
+Received: (qmail 26697 invoked from network); 23 Nov 2004 05:43:14 -0000
+Received: from 169.254.18.31 ([212.174.90.104])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 23 Nov 2004 05:43:13 -0000
+From: "Anadolu Briç Spor Kulübü" <anadolubrickulubu@yahoo.com>
+To: <webmaster@ezmlm.org>
+Subject: Briç Oynamak Ýster misiniz?
+Sender: "Anadolu Briç Spor Kulübü" <anadolubrickulubu@yahoo.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 1123040743"
+Date: Tue, 23 Nov 2004 07:43:12 +0200
+Reply-To: "Anadolu Briç Spor Kulübü" <anadolubrickulubu@yahoo.com>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 1123040743
+Content-Type: text/plain;
+	charset="ISO-8859-9"
+Content-Transfer-Encoding: 8bit
+
+Briç Oynamak Ýster misiniz?
+
+Yeni sezon ders kayýtlarýmýz baþlamýþtýr
+Detaylý bilgi için bizi arayýn
+ANADOLU BRÝÇ SPOR KULÜBÜ
+(216) 327 59 67     327 59 75
+KOÞUYOLU-ÝSTANBUL
+www.anadolubric.com
+
+--= Multipart Boundary 1123040743
+Content-Type: text/html;
+	charset="ISO-8859-9"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1254">
+<META content="MSHTML 6.00.2900.2523" name=GENERATOR>
+<STYLE>BODY {
+	FONT-FAMILY: arial
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV>
+<P class=MsoBodyText 
+style="MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0cm; TEXT-ALIGN: center" 
+align=center><STRONG><B><FONT face="Times New Roman" color=green size=6><SPAN 
+style="FONT-SIZE: 28pt; COLOR: green">Briç Oynamak Ýster 
+misiniz?</SPAN></FONT></B></STRONG></P>
+<P class=MsoBodyText 
+style="MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0cm; TEXT-ALIGN: center" 
+align=center><FONT face=Arial size=3><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoBodyText 
+style="MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0cm; TEXT-ALIGN: center" 
+align=center><STRONG><B><FONT face="Times New Roman" color=#333399 size=6><SPAN 
+style="FONT-SIZE: 24pt; COLOR: #333399">Yeni sezon ders kayýtlarýmýz 
+baþlamýþtýr</SPAN></FONT></B></STRONG></P>
+<P class=MsoBodyText 
+style="MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0cm; TEXT-ALIGN: center" 
+align=center><STRONG><B><FONT face="Times New Roman" color=#333399 size=5><SPAN 
+style="FONT-SIZE: 20pt; COLOR: #333399">Detaylý bilgi için bizi 
+arayýn</SPAN></FONT></B></STRONG></P>
+<P class=MsoBodyText style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center" 
+align=center><STRONG><B><FONT face="Times New Roman" color=green size=6><SPAN 
+style="FONT-SIZE: 28pt; COLOR: green">ANADOLU BRÝÇ SPOR 
+KULÜBÜ</SPAN></FONT></B></STRONG></P>
+<P class=MsoBodyText style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center" 
+align=center><STRONG><B><FONT face="Times New Roman" color=#333399 size=6><SPAN 
+style="FONT-SIZE: 24pt; COLOR: #333399">(216) 327 59 67&nbsp;&nbsp;&nbsp;&nbsp; 
+327 59 75</SPAN></FONT></B></STRONG></P><STRONG><B><FONT face="Times New Roman" 
+color=#333399 size=6><SPAN style="FONT-SIZE: 24pt; COLOR: #333399">
+<P class=MsoNormal style="MARGIN-LEFT: 36pt; TEXT-ALIGN: center" 
+align=center><B><FONT face="Times New Roman" color=#333399 size=6><SPAN 
+style="FONT-WEIGHT: bold; FONT-SIZE: 24pt; COLOR: #333399">KOÞUYOLU-ÝSTANBUL</SPAN></FONT></B></P></SPAN></FONT></B></STRONG>
+<P class=MsoNormal style="MARGIN-LEFT: 36pt; TEXT-ALIGN: center" 
+align=center><B><FONT face="Times New Roman" color=#ff0000 size=7><SPAN 
+style="FONT-WEIGHT: bold; FONT-SIZE: 24pt; COLOR: #333399"><SPAN 
+style="COLOR: #333399"></SPAN></SPAN></FONT></B></P>
+<P class=MsoNormal style="MARGIN-LEFT: 36pt; TEXT-ALIGN: center" 
+align=center><FONT color=#ff0000 size=7><EM><U><A 
+href="http://www.anadolubric.com/">www.anadolubric.com</A> 
+</U></EM></FONT></P></DIV></BODY></HTML>
+
+--= Multipart Boundary 1123040743--
+

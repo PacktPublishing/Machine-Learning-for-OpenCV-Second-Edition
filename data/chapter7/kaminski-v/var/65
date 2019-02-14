@@ -1,0 +1,63 @@
+Message-ID: <13136086.1075856642174.JavaMail.evans@thyme>
+Date: Thu, 5 Oct 2000 06:49:00 -0700 (PDT)
+From: naveen.andrews@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: factor loadings for primary curves
+Cc: vince.kaminski@enron.com, kirstee.hewitt@enron.com, vladimir.gorny@enron.com, 
+	wenyao.jia@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, kirstee.hewitt@enron.com, vladimir.gorny@enron.com, 
+	wenyao.jia@enron.com
+X-From: Naveen Andrews
+X-To: Tanya Tamarchenko
+X-cc: Vince J Kaminski, Kirstee Hewitt, Vladimir Gorny, Wenyao Jia
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+              I went through the comparisons for the Liquids curves and the 
+appearance of clear parallel shifts, etc, do begin to emerge when fewer 
+forward prices are used.  It looks sensible.  I have passed the graphs over 
+to the liquids people, and I have asked them to identify rough term structure 
+months when illiquidity begins for these curves.  It might coincide with your 
+assumptions.  I am surprised by Brent and Dubai, which should be WTI-clones.
+
+Naveen  
+
+
+
+
+Tanya Tamarchenko@ECT
+10/04/2000 04:35 PM
+To: Naveen Andrews/Corp/Enron@ENRON, Vladimir Gorny/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT 
+
+Subject: Re: factor loadings for primary curves  
+
+Naveen & Vlady,
+Jin Yu finished debugging the vatrfacs code and now it calculates factor 
+loadings for every "primary" curve (except power curves).
+I am sending you the calculated factors:
+
+Most of them don't look good. 60 forward prices were used in calculations for 
+each commodity.
+I reran the code using fewer forward prices depending on the commodity
+(12 prices for C3GC,MTBE,NC4,SO2,
+17 prices for NXHO, 18 - for SA,
+24 for C2GC, LAX_JFK,,
+30 -for Condensate, Dubaicrude, Brent,,
+48 for NSW, Semichem-Risi)
+These results are in 
+
+Most of them look much better.
+Please, review.
+We will have to add a column in rms_main_curve_list to specify how many 
+forward prices we want to use for each commodity,
+and then use the new factors in the VAR model.
+
+Tanya. 
+
+

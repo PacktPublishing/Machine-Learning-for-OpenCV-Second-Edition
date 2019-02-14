@@ -1,0 +1,50 @@
+Return-Path: <banana@georgehotel-chollerford.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2956 invoked by uid 115); 6 Feb 2005 10:30:23 -0000
+Received: from banana@georgehotel-chollerford.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.226.35.170):. 
+ Processed in 4.985967 secs); 06 Feb 2005 10:30:23 -0000
+Received: from 170.35.226.200.in-addr.arpa.ig.com.br (200.226.35.170)
+  by churchill.factcomp.com with SMTP; 6 Feb 2005 10:30:15 -0000
+Subject: Your account has been created.
+Message-ID: <DBALel5G9.dWXjhQLxQL9@bunsen1.europasalon.com>
+From: "Augusta ." <apple@europasalon.com>
+To: bait@em.ca
+Date: Sun, 06 Feb 2005 02:30:45 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--Next_CMUQnh0H0.xBIfyPHyVX0"
+
+----Next_CMUQnh0H0.xBIfyPHyVX0
+Content-Type: text/plain;
+Content-Type: text/html;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<body>
+Good day,
+<br><br>
+<center>
+I would like to inform you that our company has decided for the first time ever
+to start accepting all types of credit no matter what the circumstances may be.<br>
+<br>
+Wheather you're trying to get that new place to live or just wanting a second home.
+<br>
+It is to your supreme advantage to take up this offer.<br>
+Take a look at an actual customer example below:<br><br>
+Credit score: 520<br>
+Amount loaned: $200,723<br>
+Interest Rate: 3.08<br><br>
+Make no mistake, we are the real deal, try us out yourself.<br>
+It would be nice to hear from you again sometime soon.
+<br><br>
+<a href="http://www.ez-rate.info/2/">Please complete the application here.</a>
+</center>
+</body>
+</html>
+
+----Next_CMUQnh0H0.xBIfyPHyVX0--
+
+

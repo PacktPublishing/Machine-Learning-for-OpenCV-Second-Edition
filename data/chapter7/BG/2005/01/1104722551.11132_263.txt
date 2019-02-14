@@ -1,0 +1,68 @@
+Return-Path: <FMCPKKTA@unitedstates.vi>
+Received: (qmail 3082 invoked from network); 3 Jan 2005 02:05:29 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 03 Jan 2005 02:05:29 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 Jan 2005 02:05:29 -0000
+Received: (qmail 14839 invoked from network); 3 Jan 2005 02:05:28 -0000
+Received: from 82-37-201-252.cable.ubr05.dudl.blueyonder.co.uk (unknown [82.37.201.252])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 03 Jan 2005 02:05:27 -0000
+X-Message-Info: 73RUDBRnw63918NYBUnteeoCDJTGIPUkjjhh+945199
+Received: from xwalog9.pvxf.FMCPKKTA@unitedstates.vi ([249.176.110.204]) by jk210-sg.82.37.201.252 with Microsoft SMTPSVC(5.0.2195.6824);
+  Sun, 02 Jan 2005 20:09:03 -0600
+Received: from FMCPKKTA@unitedstates.vi (22.164.4.224)
+  by odcijzf6944.qxwii.pFMCPKKTA@unitedstates.vi with QMQP; Sun, 02 Jan 2005 20:09:03 -0600
+Message-Id: <404e$69065wukihjc@m481.widen.FMCPKKTA@unitedstates.vi>
+Date: Sun, 02 Jan 2005 20:09:03 -0600
+Message-ID: <154531624066.8077.qmail@stile.tool.FMCPKKTA@unitedstates.vi>
+From: "Joan Gagnon" <bertie-FMCPKKTA@unitedstates.vi>
+Subject: New pharm site new great prices Saul
+To: bruce@bruce-guenter.dyndns.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--85843418837524959"
+
+----85843418837524959
+Content-Type: text/html;
+ charset="iso-0043-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<title>Refill Notification for bruce@bruce-guenter.dyndns.org</title>
+</head>
+<body>
+<p>
+<hr size=1>
+Refill Notification Ref: MC-443460565375314
+<br>
+<hr size=1>
+<br>
+<p>
+<p>Dear bruce@bruce-guenter.dyndns.org,
+<br>
+<p>
+Our automated system has identified that you most likely are ready to refill your recent online pharmaceutical order.
+<p>
+To help you get your needed supply, we have sent this reminder notice.
+<p>
+Please use the refill system (<a href="http://bandstand.needsaslap.com/?wid=100069">click this link</a>) to obtain your item in the quickest possible manner.
+<p>
+Thank you for your time and we look forward to assisting you.
+<p>
+Sincerely,
+<p>
+Joan Gagnon
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+hunter chalcocite checkmate follow tungsten cliche beryl rundown canister befell
+reversible locomotor wing auriga coincident amass ascription shaw pyongyang
+echoes saigon weatherbeaten clarinet augend pretension peaceful rachel continental sarsaparilla trickster
+foggy stockholder cryogenic blomquist hunk bathe teeth elephantine
+sweeten condemn alistair talky flatland murky bacteria bedroom
+koenigsberg breakdown bullwhack banal scrutable plantain ecstatic handset
+</body>
+</html>
+
+----85843418837524959--

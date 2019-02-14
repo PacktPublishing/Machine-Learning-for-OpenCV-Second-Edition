@@ -1,0 +1,39 @@
+Message-ID: <12786382.1075863304972.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 08:42:59 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: EPE Lending/Day Ahead Short for Monday
+Cc: lisa.gang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.gang@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+For Monday:
+
+We're short 25 mw on peak at Palo under STWBOM, 25 mw under STSW. Reduce purchases from El Paso to $4 and sell back to them at $0. Deals are as follows:
+
+717316 - STWBOM buys EPE
+	 HLH/PV
+	 25 MW @ $76
+
+717317 - STWBOM sells STSW
+	 HLH/PV
+	 25 MW @ $76
+
+717318 - STSW buys EPE
+	 HLH/PV
+	 25 MW @ $76
+
+Also, STWBOM is short to the day-ahead market 25 mw on peak at SP15 at a price of $68.14.
+
+Please let me know if you have questions about these procedures.
+
+Thanks,
+Kate

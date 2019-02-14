@@ -1,0 +1,88 @@
+Received: from bbe.de (HELO firewall.bbe.de) (217.64.161.46)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:14 -0000
+Received: from bbe-ntsvr3.bbe.local (mail.bbe.de [192.168.0.7])
+	by firewall.bbe.de (8.11.0/linuxconf) with ESMTP id j6JB5qa02756
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 13:05:52 +0200
+From: postmaster@bbe.de
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 13:05:40 +0200
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C58B73B6BBDB0900000211bbe?ntsvr3.bbe.l"
+X-DSNContext: 335a7efd - 4523 - 00000001 - 80040546
+Message-ID: <4P1XOQSKm0000005d@bbe-ntsvr3.bbe.local>
+Subject: Benachrichtung  
+	zum  
+	=?unicode-1-1-utf-7?Q?+ANw-bermittlungsstatus  
+	(Fehlgeschlagen)?=
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C58B73B6BBDB0900000211bbe?ntsvr3.bbe.l
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+Dies ist eine automatisch erstellte Benachrichtigung +APw-ber den Zustellstatus.
+
++ANw-bermittlung an folgende Empf+AOQ-nger fehlgeschlagen.
+
+       ostermann@mail.bbe.de
+
+
+
+
+--9B095B5ADSN=_01C58B73B6BBDB0900000211bbe?ntsvr3.bbe.l
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;bbe-ntsvr3.bbe.local
+Received-From-MTA: dns;firewall.bbe.de
+Arrival-Date: Tue, 19 Jul 2005 13:05:37 +0200
+
+Final-Recipient: rfc822;ostermann@mail.bbe.de
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C58B73B6BBDB0900000211bbe?ntsvr3.bbe.l
+Content-Type: message/rfc822
+
+Received: from firewall.bbe.de ([192.168.0.1]) by bbe-ntsvr3.bbe.local with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 19 Jul 2005 13:05:37 +0200
+Received: from mailsrv2.global.de (dns2.global.de [217.160.223.41])
+	by firewall.bbe.de (8.11.0/linuxconf) with SMTP id j6JB5na02752
+	for <ostermann@bbe.de>; Tue, 19 Jul 2005 13:05:49 +0200
+Received: (qmail 16033 invoked from network); 19 Jul 2005 11:08:50 -0000
+Received: from unknown (HELO mailwisconsin.com) (202.127.185.105)
+  by mailsrv2.global.de with SMTP; 19 Jul 2005 11:08:50 -0000
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360530;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: ****SPAM**** Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: ostermann@bbe.de
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Path: projecthoneypot@projecthoneypot.org
+X-OriginalArrivalTime: 19 Jul 2005 11:05:37.0628 (UTC) FILETIME=[CB0529C0:01C58C51]
+X-NAI-Spam-Checker-Version: NAI SpamAssassin 1.2 (2.70 20050718 2294)
+X-NAI-Spam-Route: User-Junk-Folder
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836986">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+
+--9B095B5ADSN=_01C58B73B6BBDB0900000211bbe?ntsvr3.bbe.l--

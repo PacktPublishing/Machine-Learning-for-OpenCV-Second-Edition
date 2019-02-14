@@ -1,0 +1,27 @@
+Return-Path: <bmw4518@codns.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29704 invoked by uid 115); 1 Apr 2005 21:27:02 -0000
+Received: from bmw4518@codns.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.51.9.173):. 
+ Processed in 0.105358 secs); 01 Apr 2005 21:27:02 -0000
+Received: from unknown (HELO pc-1) (211.51.9.173)
+  by churchill.factcomp.com with SMTP; 1 Apr 2005 21:27:00 -0000
+From: 5ASED12rfwa21@msn.co.kr
+To: bruceg@em.ca
+Subject: 제1회 약용관리사 자료 무료로 받으세요   @@
+Date: Sat, 02 Apr 05 01:44:38 대한민국 표준시
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary= "----=_NextPart_000_0078_5163498E.31302241"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000 
+X-Qmail-Scanner-Message-ID: <111239082267229682@churchill>
+
+------=_NextPart_000_0078_5163498E.31302241
+Content-Type: text/html; charset= "iso-8859-6"
+Content-Transfer-Encoding: base64
+
+PGVtYmVkICBzcmM9Imh0dHA6Ly9xd2VydHkwOTA5LmNhZmUyNC5jb20vcGttL3AyLnN3ZiI+
+ICAgIA==
+------=_NextPart_000_0078_5163498E.31302241--

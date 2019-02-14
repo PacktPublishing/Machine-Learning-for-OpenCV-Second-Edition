@@ -1,0 +1,39 @@
+Message-ID: <23388914.1075863313731.JavaMail.evans@thyme>
+Date: Tue, 3 Jul 2001 10:04:51 -0700 (PDT)
+From: fran.chang@enron.com
+To: bill.williams@enron.com, virginia.thompson@enron.com
+Subject: RE: PMA's
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Chang, Fran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FCHANG>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Thompson, Virginia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vthompso>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Virgina and Bill:
+
+During our month-end processes I have researched deal #549162.1.  The counterparty did change as Bill pointed out, but what makes you suffer a loss in the prior month adjustments was due to the volume being zeroed out for HE 3.  Originally the deal liquidated with HE3 (40MWh*$135), HE4(15MWh *$135), and HE5 (20MWh*$135), but on 4/19/2001 the volume for HE3 was zeroed out in scheduling, which means originally you were given too much $ for the sale and therefore we are now taking that revenue you made in HE3 back.
+
+Thanks,
+Fran
+x7973
+
+ -----Original Message-----
+From: 	Williams III, Bill  
+Sent:	Tuesday, July 03, 2001 6:31 AM
+To:	Thompson, Virginia
+Cc:	Dunton, Heather; Chang, Fran
+Subject:	PMA's
+
+Virginia,
+
+I have one question on this month's PMA and some questions from last month.  First, for deal #549162, this deal was originally put in incorrectly as counterparty TacomaSupp.  This counterparty was then changed to Tacomapubuit.  Why does a change in counterparty result in a loss of revenue?  Are we being charged for each counterparty again (like EES and ST-Cali last month), if so, we need to fix this flawed tool. 
+
+Second, for last month, we determined that the WBOM book needs a $108,000 PMA for change in price.  The appropriate price is in Enpower, but the revenue has never appeared (Deal #590753). Remember, this deal was originally input as a buy at $320 and a sell at $30 and liquidated at these prices. The deal is now at $320 and $300.  What do we need to do to get this trued up?
+Please come see me with questions.
+
+Thank you for your help.
+Bill

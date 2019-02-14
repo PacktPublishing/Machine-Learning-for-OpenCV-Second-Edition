@@ -1,0 +1,165 @@
+Message-ID: <11793938.1075849860781.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 02:01:00 -0800 (PST)
+From: stacey.white@enron.com
+To: sally.beck@enron.com
+Subject: Re: Enpower
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacey W White
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I have not personally talked to James about these issues in Enpower.  His 
+concerns regarding swaptions and asian options are accurate.  IT is currently 
+working on new volatility curves for swaptions to use.  IT is also working on 
+correlations in order for asian options to be valued properly.  London trades 
+many more swaptions and asian options than the US; therefore, the impact of 
+not having swaption volatility curves and correlations is greater to them.  
+The majority of options in the U.S. are European monthly and daily exercises 
+and the current volatility curves adequately take care of these deals.  The 
+idea of swaption volatility curves has floated around in the US, but other 
+more material items always got in the way and we continue to use the deal 
+specific volatilities for the swaptions we do have.  Once the technology is 
+in place to use swaption volatilities we will also adopt.   The system was 
+originally built to handle the physical power world that existed in the US 
+and as new markets and new ideas (such as the US becoming more and more of a 
+financial market) we will need to enhance Enpower to follow suit.  Swaption 
+vols and asian options are two of these enhancements. 
+
+Also, it is difficult to get option data out of Enpower.  We have in stage an 
+option sensitivity matrix that, once implemented into production. I will be 
+sure that James knows about.  It probably will not solve all his problems, 
+but it will give him a starting place.
+
+Stacey
+
+
+   
+	Enron North America Corp.
+	
+	From:  Sally Beck                           12/11/2000 11:00 AM
+	
+
+To: Stacey W White/HOU/ECT@ECT
+cc:  
+Subject: Enpower
+
+In cleaning up e:mails, I ran across this one that I had not yet read.  Has 
+James called and talke with you about Enpower?  Are his concerns in the memo 
+accurate?  Let me know.  --Sally 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 12/11/2000 11:03 AM 
+---------------------------
+
+
+Fernley Dyson
+11/29/2000 02:54 AM
+To: Richard Causey/Corp/Enron@ENRON, Sally Beck/HOU/ECT@ECT
+cc:  
+Subject: Enpower
+
+Just a heads-up - a long-winded email, but please see highlighted paragraphs. 
+I find it hard to believe the scenario portrayed here, but stranger things 
+have happened - will keep you posted.
+---------------------- Forwarded by Fernley Dyson/LON/ECT on 29/11/2000 08:44 
+---------------------------
+
+
+James New
+28/11/2000 13:42
+To: Ted Murphy/HOU/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON
+cc: Mike Jordan/LON/ECT@ECT, Coralie Evans/LON/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT 
+
+Subject: Status update on the issues surrounding Continental Power 
+volatilities and correlations
+
+As you know for some time we have been trying to get the Continental Power 
+traders to increase the volatilities they use for valuing their option 
+portfolio and for use in calculating their VAR as it has been obvious that 
+the market  has become more volatile but this was not being reflected in 
+their mark.
+
+In looking at the impacts of this, various other issues came to light. 
+Firstly it raised issues over the correlation matrix used in the VAR model as 
+this was way out of date. We have worked with Jitendra and have now put in a 
+matrix that both the traders, risk and RAC are happy with. Secondly, as you 
+may be aware, in Portcalc swaptions currently use the volatility input on the 
+deal ticket and not off any volatility curve. 
+
+The current portfolio is 90% swaptions and so this represents a serious issue 
+for us in that it is not practical to manually change all the volatilities at 
+the deal ticket level every time the implied voaltilities change. We cannot 
+use the option functionality as this only values hourly or daily exercise 
+options and not fixed expiry swaptions or options. We also have not found any 
+way in Portcalc of valuing Asian options so we are having to 'force' in the 
+few we have. We have had the Houston based Portcalc IT team work on a 'new' 
+piece of swaption valuation code but currently it contains a number of 
+worrying bugs. These are primarily that the proposed code does not take the 
+correct underlying forward price and uses the volatility of (approximating) 
+the last day of the underlying rather than the implied volatility of the  
+underlying. 
+
+They are currently being hampered in that they do not have any IT personnel 
+who have sufficient option knowledge (I understand that the two most 
+experienced coders resigned to go to another Houston based energy company). 
+This is extremely worrying and I find it hard to believe that the whole of 
+Enron's power business is having to use the methodology of inputting the 
+volatility at the deal ticket level. This will almost certainly mean that 
+different volatilities are being used in the VAR as are being used to value 
+the swaption portfolio globally. As well as these issues we have concerns 
+over the use and accuracy of the smile adjustment in Portcalc (worryingly it 
+does not seem that you can 'switch' this off). Briefly it seems that Portcalc 
+calculates the delta used to adjust the volatility by comparing the strike 
+price to the forward price of the last day of the underlying rather than the 
+forward price of the underlying itself. 
+
+We have engaged London based  IT and are looking at the code we have used in 
+Power 99 to se if there is a way we can get something done quickly to start 
+to value all option products off a curve and to be able to book Asian options.
+
+Once we get the above resolved we still have no way or extracting the vega or 
+gamma risk from Portcalc in it's current state as the information is just no 
+there (so we are told by IT). The system 'seems' (we cannot be 100% sure 
+given all the other errors) to produce a vega and gamma P&L number but what 
+the risk is remains a mystery. Again this is very worrying in that we have 
+Power option traders all over the world who can't get their underlying vega 
+or gamma risk position from the global valuation system. We are trying to 
+work on something manual to draw a line in the sand but I would really like 
+to know how the American based traders cope as they have this problem 
+(knowingly or not)  for years. What sign offs were gained for the 
+implementation of Enpower because it seems to us that using the current 
+system it is not possible to comply with the Global Risk policy. How do we 
+validate the inputs to the valuation if we do not know the risk ?
+
+Despite the above we have now persuaded the traders to save out newer higher 
+volatilities a week ago and you should have seen a large move up in their 
+VAR. However, as it stands at the moment they are notable to save out a daily 
+remark as Jitendra is saying that he is not happy with their 'model' / vol 
+curve generator (I have today asked for a full explanation, details of any 
+testing etc etc and time lines so we can move to getting over this hurdle). 
+The swaptions have also not yet had the ticket volatility changed but the 
+impacts are expected to be positive as we are long volatility.
+
+I would appreciate your comments on the above as it seems that we are pushing 
+the boundaries here on areas which we really expect to have already been 
+covered in Houston some time ago and could do with some help. We are having 
+to use a system which seems to us to have numerous bugs and short comings and 
+are having to spend an enormous amount of IT time overcoming the inadequacies 
+of Enpower wich I do not think most people are aware of. Consequently we have 
+not been able to deliver all the improvements we were required to do in 
+gaining the increased limits so 3 months ago but I would hope you agree that 
+it is not for a lack of trying.
+
+Sorry it's so long but if there are any questions or any perceived 
+inaccuracies in any of the above then please let me know.
+
+James
+
+
+
+
+

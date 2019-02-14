@@ -1,0 +1,635 @@
+Return-Path: <m57525.p4952643-errors@shadow.agava.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 29280 invoked by uid 115); 28 Jul 2005 00:39:57 -0000
+Received: from m57525.p4952643-errors@shadow.agava.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(81.176.65.204):. 
+ Processed in 1.01023 secs); 28 Jul 2005 00:39:57 -0000
+Received: from shadow31.agava.net (81.176.65.204)
+  by churchill.factcomp.com with SMTP; 28 Jul 2005 00:39:54 -0000
+Received: from localhost.localdomain (robert.agava.net [81.176.65.204])
+	by shadow31.agava.net (Postfix) with ESMTP id 4093922A0B
+	for <bait@em.ca>; Wed, 27 Jul 2005 18:44:21 -0500 (EST)
+MIME-Version: 1.0
+Subject: Company Spotlight >> QMMG.ob
+Content-Type: text/html; charset=iso-8859-1
+X-Mailer: MIME-tools 5.411 (Entity 5.404)
+Content-Transfer-Encoding: binary
+Sender: "Zinester.com" <response@zinester.com>
+Date: Wed, 27 Jul 2005 15:36:20 -0500
+X-MailList-Message-ID: 57525
+List-Subscribe: <http://www.zinester.com/cgi/gsps.cgi?from=na_sub&topic=21556>
+Errors-To: m57525.p4952643-errors@shadow.agava.net
+List-Unsubscribe: <http://www.zinester.com/cgi/gsps.cgi?from=na_unsub&topic=21556&email=4952643&pswd=011m0Mt8Q85oVa7rbXVn4A>
+List-Help: <http://www.zinester.com>
+List-Id: Zinester.com <21556.zinester.com>
+List-Post: NO
+List-Owner: <mailto:otcprir@aol.com>
+X-Zinester-PID: 4952643
+From: "Research (O-T-C)" <response@zinester.com>
+To: bait@em.ca
+Reply-To: "Research (O-T-C)" <response@zinester.com>
+Message-Id: <20050727234421.4093922A0B@shadow31.agava.net>
+
+<HTML>
+<TITLE></TITLE>
+<BODY >
+
+
+
+<table cellSpacing="0" cellPadding="0" width="600" align="center" border="1">
+  <tr>
+    <td vAlign="top">
+    <table cellSpacing="0" cellPadding="5" width="654">
+      <tr>
+        <td vAlign="top" width="414">
+            <b>
+        <font id="role_document27" face="Arial">
+                    <font id="role_document26" face="Arial">
+                    <font face="verdana" id="role_document25">
+                    <font id="role_document24" face="Arial">
+            <font id="role_document23" face="Verdana" color="#C23B00" size="2">
+        <p align="center"><img border="0" src="http://www.otclive.com/logo2.jpg" width="214" height="86"></p>
+        <p><span style="text-transform: uppercase">Corporate Profile</span></font></font></font></font></font><font id="role_document23" face="Arial" color="#000000" size="2"><font id="role_document24" face="Arial" color="#000000" size="2"><font face="verdana" color="navy" size="2" id="role_document25"><font id="role_document26" face="Arial" color="#000000" size="2"><font id="role_document27" face="Arial" color="#000000" size="2"><br>
+        <br>
+        Quest acquires and operates energy and mineral related properties in the 
+        southeastern part of the United States. Quest focuses on properties that 
+        produce quality compliance blend coal. Quest currently owns and operates 
+        one deep mine at Pond Creek in Belfry Kentucky. Quest's steam coal is 
+        currently sold on the spot market to certain brokers who in turn sell to 
+        utilities and industrial clients as fuel for power plants. <br>
+        <br>
+        With the recent acquisition of Gwenco, and the beginning of a marine 
+        terminal joint venture with Monday Coal, Quest looks forward to taking 
+        greater advantage of the strong market for compliance coal. Quest 
+        continues to identify expansion opportunities in its geographic focus 
+        and to develop and open mines at already acquired properties. <br>
+&nbsp;</p>
+                    </font>
+                    </font></font></font></font></b>
+                    <font id="role_document2" face="Arial" color="#000000" size="2">
+                    <table cellSpacing="0" cellPadding="0" width="380" border="0">
+                      <tr>
+                        <td class="title" colSpan="3" width="380">
+                        <img alt src="http://www.otclive.com/investTitle.gif" border="0" width="184" height="25"></td>
+                      </tr>
+                      <tr>
+                        <td vAlign="top" width="301">
+                        <table cellSpacing="0" cellPadding="0" width="196" border="0">
+                          <tr>
+                            <td class="mainText" vAlign="center" width="196" colSpan="2" height="35">
+                            <br>
+                            <b>Excellent market opportunity</b> </td>
+                          </tr>
+                          <tr>
+                            <td vAlign="top" width="7">
+                            <img alt src="http://www.otclive.com/arrow.gif" border="0" width="7" height="12"></td>
+                            <td class="homeText" vAlign="top" width="189">Unique 
+                            acquisition opportunities</td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="5">
+                            <img height="5" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td vAlign="top" width="7">
+                            <img alt src="http://www.otclive.com/arrow.gif" border="0" width="7" height="12"></td>
+                            <td class="homeText" vAlign="top" width="189">Strong 
+                            Coal Demand</td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="8">
+                            <img height="8" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td class="mainText" width="189" colSpan="2"><b>
+                            Management</b> </td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="5">
+                            <img height="5" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td vAlign="top" width="7">
+                            <img alt src="http://www.otclive.com/arrow.gif" border="0" width="7" height="12"></td>
+                            <td class="homeText" vAlign="top" width="189">
+                            Operational experience</td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="5">
+                            <img height="5" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td vAlign="top" width="7">
+                            <img alt src="http://www.otclive.com/arrow.gif" border="0" width="7" height="12"></td>
+                            <td class="homeText" vAlign="top" width="189">Local 
+                            knowledge</td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="8">
+                            <img height="8" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td class="mainText" width="189" colSpan="2"><b>
+                            Reserves</b> </td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="5">
+                            <img height="5" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td vAlign="top" width="7">
+                            <img alt src="http://www.otclive.com/arrow.gif" border="0" width="7" height="12"></td>
+                            <td class="homeText" vAlign="top" width="189">16M 
+                            tons at $50/ton; $800M proven</td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="5">
+                            <img height="5" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td vAlign="top" width="7">
+                            <img alt src="http://www.otclive.com/arrow.gif" border="0" width="7" height="12"></td>
+                            <td class="homeText" vAlign="top" width="189">Plan 
+                            to add 34M tons by <br>
+                            Q1 2005 </td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="12">
+                            <img height="12" alt src="http://www.otclive.com/spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td class="title" width="189" colSpan="2">
+                            <img alt src="http://www.otclive.com/sec.gif" border="0" width="88" height="17"></td>
+                          </tr>
+                          <tr>
+                            <td colSpan="4" height="5">
+                            <img height="5" alt src="spacer.gif" width="1" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td class="mainText" width="189" colSpan="2">
+                            <a class="blue" href="http://www.zinester.com/lr/230095/4952643" target="_blank">
+                            EDGAR</a> </td>
+                          </tr>
+                        </table>
+                        </td>
+                      </tr>
+                    </table>
+                    <p>&nbsp;</p>
+            <hr>
+                    <table cellSpacing="0" cellPadding="0" width="379" border="0">
+                      <tr>
+                        <td width="10" rowSpan="10">&nbsp;</td>
+                        <td class="title" vAlign="center" width="355" colSpan="2" height="50">
+                        <img alt src="http://www.otclive.com/newsTitle.gif" border="0" width="234" height="15"></td>
+                        <td vAlign="top" width="7" rowSpan="6">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">
+                        12/14/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230096/4952643">
+                        QUEST MINERALS &amp; MINING OPENS SECOND SEAM AT SLATER'S 
+                        BRANCH MINE</a><br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">
+                        12/10/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230088/4952643">
+                        QUEST MINERALS &amp; MINING EXPANDS RESERVES AT SLATER'S 
+                        BRANCH MINE</a><br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">
+                        10/18/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230097/4952643">
+                        QUEST ANNOUNCES COAL LOADING FACILITY AGREEMENT</a><br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">9/22/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230090/4952643">
+                        QUEST MINERALS AND MINING BEGINS PRODUCTION AT POND 
+                        CREEK</a><br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">6/15/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230086/4952643">
+                        QUEST MINERALS AND MINING ACQUIRES KENTCUKY COAL MINE 
+                        OPERATOR</a><br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">4/28/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230098/4952643">
+                        QUEST COMPLETES ACQUISITION OF GWENCO &amp; APPOINTS ALBERT 
+                        ANDERSON TO ITS BOARD OF DIRECTORS</a> <br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">4/13/04</td>
+                        <td class="homeText" vAlign="top" width="337" height="20">
+                        <a class="blue" href="http://www.zinester.com/lr/230085/4952643">
+                        TILLMAN CHANGES ITS NAME TO QUEST MINERALS AND MINING: 
+                        NEW STOCK SYMBOL QMMG</a> <br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">3/3/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230082/4952643">
+                        TILLMAN/QUEST ANNOUNCES LETTER OF INTENT TO ACQUIRE 
+                        GWENCO</a><br>
+                        <br>
+&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td class="mainTextBold" vAlign="top" width="80">2/24/04</td>
+                        <td class="homeText" vAlign="top" width="337">
+                        <a class="blue" href="http://www.zinester.com/lr/230087/4952643">
+                        TILLMAN INTERNATIONAL ANNOUNCES ACQUISITION OF QUEST 
+                        MINERALS &amp; MINING</a><br>
+&nbsp;</td>
+                      </tr>
+                    </table>
+                    <h2 class="style4">&nbsp;</h2>
+                    </font>
+                    <font id="role_document2" face="Verdana" color="#C23B00" size="2">
+                    <p><b><span style="text-transform: uppercase">CURRENT 
+                    OPERATING SUBSIDIARIES</span></b></p>
+                    </font>
+                    <font id="role_document2" face="Arial" color="#000000" size="2">
+                    <font id="role_document" face="Arial" color="#000000" size="2">
+                    <div>
+                      Taylor Mining, Ltd (Slaters Branch)<br>
+                      <br>
+                      E-Z Mining, Co.<br>
+                      <br>
+                      D&amp;D Contracting, Co.<p>&nbsp;</div>
+                    </font>
+            <hr>
+                    </font>
+                    <font id="role_document2" face="Verdana" color="#C23B00" size="2">
+                    <p><b><span style="text-transform: uppercase">CURRENT 
+                    ACQUISITIONS</span></b></p>
+                    </font>
+                    <font id="role_document2" face="Arial" color="#000000" size="2">
+                    <p class="style5" align="justify">53rd Street Barge Facility 
+                    - “The Docks”<br>
+                    Five(5) Year Lease with renewable options for an additional 
+                    25 years.<br>
+                    16 Acres<br>
+                    Mile marker 318.7, OHIO RIVER<br>
+                    Up to 10 Barges / Day capacity<br>
+                    300,000 tons per month capacity<br>
+                    Start-Up Estimates and Projections<br>
+                    Two(2) Million Capitalization<br>
+                    90 days facility and equipment upgrades<br>
+                    $1,000,000 Monthly Revenues</p>
+            <hr>
+                    </font></td>
+        <td vAlign="top" width="273" bgColor="#ffffcc">
+        <p align="center">&nbsp;</p>
+                    <font id="role_document3" face="Arial" color="#000000" size="4">
+                    </font>
+                    <font id="role_document4" face="Arial" color="#000000" size="2">
+                    </font>
+                    <font id="role_document4" face="Arial" color="#008000" size="4">
+            <table cellSpacing="0" cellPadding="3" width="99%" border="0">
+              <tr>
+                <td class="title"><span style="text-transform: uppercase">
+                <font face="Verdana" size="2" color="#C23B00">MANAGEMENT</font></span></td>
+              </tr>
+              <tr>
+                <td style="font-size: 12px; font-family: Arial, Helvetica; color: 333333">
+                &nbsp;</td>
+              </tr>
+              <tr vAlign="top">
+                <td style="font-size: 12px; font-family: Arial, Helvetica; color: 333333">
+                <b>William Wheeler </b>
+                <p>– <i>CEO, Director</i> – Union Camp, Buckeye Petroleum, 
+                Midstates Oilfield Services, Capital Investment Resources<br>
+&nbsp;</p>
+                <p><b>Fred Runyon </b></p>
+                <p>– <i>President, Quest Energy</i> - Eastern Coal Corp, Dotco 
+                Energy, Pond Creek Mining &amp; EZ Mining.<br>
+&nbsp;</p>
+                <p><b>Albert Anderson </b></p>
+                <p>– <i>Director</i> – Owned and Operated Docks Creek River 
+                Terminal &amp; Gwenco. Management in excess of 3.5 million tons of 
+                coal a year with over 30 years of coal related operations.<br>
+                <br>
+                <b>Eugene J. Chiaramonte, Jr. </b></p>
+                <p>– <i>Director</i> – Has been Chairman &amp; CEO of two publicly 
+                traded companies with over 35 years experience in the investment 
+                banking and securities industry. <br>
+&nbsp;</td>
+              </tr>
+              </table>
+                    </font>
+            <b>
+                    <font id="role_document4" face="Arial" color="#000000" size="2">
+                    <font face="verdana" color="navy" size="2" id="role_document5">
+                    <font id="role_document14" face="Arial" color="#000000" size="2">
+                    <font face="verdana" color="navy" size="2" id="role_document15">
+                    <font id="role_document16" face="Arial" color="#000000" size="2">
+            <font id="role_document17" face="Arial" color="#000000" size="2">
+            <hr>
+        </font></font></font></font>
+        </font></font>
+                    <font id="role_document13" color="#000000" size="2">
+                    <font color="navy" size="2" id="role_document5">
+                    <font id="role_document4" face="Verdana" color="#000000" size="2">
+                    <h2 class="style4"><span style="text-transform: uppercase">
+                    <font size="2" color="#C23B00">ACQUISITION CRITERIA</font></span></h2>
+                    </font>
+            </font>
+                    </font>
+                    <font face="verdana" color="navy" size="2" id="role_document5">
+                    <font id="role_document4" face="Arial" color="#000000" size="2">
+                    <font id="role_document13" face="Arial" color="#000000" size="2">
+                    <p align="justify">20% to 30% rate or return<br>
+                    Investment back in &lt; 24 months<br>
+                    10x minimum return on capital<br>
+                    Leases and permits in place<br>
+                    High quality coal<br>
+                    Complimentary geography<br>
+&nbsp;</p>
+                    </font>
+                    <font id="role_document6" face="Arial" color="#000000" size="2">
+            <font id="role_document7" face="Arial" color="#000000" size="2">
+            <hr>
+                    <p align="left">OTC BB: QMMG</p>
+        <p align="left">40M shares outstanding<br>
+        50M shares fully diluted<br>
+        Transfer Agent: Nevada West Transfer Company (Reno, Nevada)<br>
+        Auditor: Kempisty &amp; Company (NY, NY)<br>
+        <br>
+&nbsp;</p>
+        <table cellSpacing="0" cellPadding="0" width="254" border="0">
+          <tr>
+            <td class="mainTextBold" width="1">Email:</td>
+            <td class="homeText" width="98">
+            <a class="blue" href="mailto:info@questminerals.com">
+            info@questminerals.com</a></td>
+          </tr>
+          <tr>
+            <td class="mainTextBold" width="1">Phone:</td>
+            <td class="homeText" width="98">606.433.0570</td>
+          </tr>
+          <tr>
+            <td class="mainTextBold" width="1">Fax:</td>
+            <td class="homeText" width="98" height="20">606.433.0170</td>
+          </tr>
+          <tr>
+            <td class="mainTextBold" vAlign="top" width="1">MailingAddress:</td>
+            <td class="homeText" vAlign="top" width="98">470 Burning Fork<br>
+            Pikeville, KY 41502</td>
+          </tr>
+        </table>
+        <p align="left"><br>
+                    <font id="role_document28" face="Arial" color="#000000" size="2">
+                    <img border="0" src="http://www.otclive.com/coal.gif" width="219" height="235"></font></p>
+        </font></font></font>
+            </font>
+            <font id="role_document7" face="Arial" color="#000000" size="2">
+                    <font id="role_document6" face="Arial" color="#000000" size="2">
+                    <font face="verdana" color="navy" size="2" id="role_document5">
+                    <font id="role_document4" face="Arial" color="#000000" size="2">
+        <font id="role_document11" face="Arial" color="#000000" size="2">
+                    </font>
+                    <p align="left">&nbsp;</font></font></font></font></b><table cellSpacing="0" cellPadding="0" width="180" border="0">
+          <tr>
+            <td class="mainText" vAlign="center" width="180" colSpan="2" height="35">
+            <p align="left"><span style="text-transform: uppercase"><b>
+            <font face="Verdana" size="2" color="#C23B00">ON THE GROUND 
+            EXPERIENCE</font></b></span></td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">95+ years of coal 
+            experience</td>
+          </tr>
+          <tr>
+            <td colSpan="4" height="5" width="180">
+            <img height="5" alt src="spacer.gif" width="1" border="0"></td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">Long standing local 
+            connections</td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">Operational Expertise</td>
+          </tr>
+          <tr>
+            <td colSpan="4" height="5" width="180">
+            <img height="5" alt src="spacer.gif" width="1" border="0"></td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">Corporate experience</td>
+          </tr>
+          <tr>
+            <td colSpan="4" height="8" width="180">
+            <img height="8" alt src="spacer.gif" width="1" border="0"></td>
+          </tr>
+          <tr>
+            <td class="mainText" width="180" colSpan="2"><b>Geographic focus</b>
+            </td>
+          </tr>
+          <tr>
+            <td colSpan="4" height="5" width="180">
+            <img height="5" alt src="spacer.gif" width="1" border="0"></td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">Southeastern Kentucky</td>
+          </tr>
+          <tr>
+            <td colSpan="4" height="5" width="180">
+            <img height="5" alt src="spacer.gif" width="1" border="0"></td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">Southwestern West 
+            Virginia </td>
+          </tr>
+          <tr>
+            <td colSpan="4" height="5" width="180">
+            <img height="5" alt src="spacer.gif" width="1" border="0"></td>
+          </tr>
+          <tr>
+            <td vAlign="top" width="7"><img alt src="arrow.gif" border="0" width="7" height="12"></td>
+            <td class="homeText" vAlign="top" width="173">Western Virginia</td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+                    <font id="role_document" face="Arial" color="#000000" size="2">
+        <p>&nbsp;</p>
+        <p><font color="#008000">Disclaimer&nbsp;&nbsp; </font>
+                    </font>
+                  <o:p>
+                    <font id="role_document" face="Arial" color="#000000" size="2">
+                    <font face="Arial" size="1">
+                    <span style="color: black">This
+                    profile published by OTC Live, Inc is an independent
+                    electronic publication providing information and factual
+                    analysis on selected companies. All statements and
+                    expressions are the opinion of OTC Live, Inc and are not
+                    meant to be either investment advice or a solicitation or
+                    recommendation to buy, sell, or hold securities. Investing
+                    in micro-cap securities is highly speculative and carries an
+                    extremely high degree of risk. OTC Live, Inc is not a
+                    broker dealer or </span>
+                    </font> 
+                    </font>
+                  <o:p>
+                    <font face="Arial" size="1" id="role_document10" color="#000000">
+                    <span style="color: black">a registered investment advisor </span>
+                    </font> 
+                  <o:p>
+                    <font id="role_document" face="Arial" color="#000000" size="2">
+                    <font face="Arial" size="1">
+                    <span style="color: black">. It is
+                    possible that an investor's investment may be lost or
+                    impaired due to the speculative nature of the companies
+                    profiled. Profiles rely on information provided by the
+                    featured Companies and/or Edgar filings. While OTC Live, Inc
+                    believes its sources to be reliable, associates of OTC Live,
+                    Inc, or any affiliated parties make no representation or
+                    warranty as to the accuracy of the information provided.
+                    Readers should not rely solely on the information contained
+                    in this publication, but should consult with their own
+                    independent tax, business and financial advisors with
+                    respect to any investment opportunity, including any
+                    contemplated investment in the advertised Company. </span>
+                    </font> <o:p>
+                    &nbsp;
+                    </o:p>
+                    <font size="1">
+                    <span style="font-family: Arial; color: black">
+                    Factual statements in this publication are made as of the 
+        date stated and are subject to change without notice. OTC Live, Inc is 
+        not responsible for any claims made by the Company. We have prepared 
+        this report, drawing upon a range of public news, the company's website 
+        and information from sources in the industry, as well as data and 
+        opinions provided by the company. Prior to issuing this report, the 
+        Company reviewed and approved the contents in writing hereof. OTC Live, 
+        Inc has not independently verified the Company's representations. Any 
+        opinions expressed in this report are statements of judgment as of the 
+        date of publication. We urge readers to carefully verify all 
+        presentations within the report independently. The receipt of this 
+        publication shall not create, under any circumstances, any implication 
+        that there has been no change in the affairs of the company profiled 
+        since the date of review. This advertisement does not provide an 
+        analysis of the Company's financial position. OTC Live, Inc of this 
+        advertisement has been compensated eight thousand dollars by a third party for the preparation and
+                    electronic dissemination of this report.&nbsp;
+                    This should be viewed as a potential conflict of interest.
+                    Furthermore, associates of OTC Live, Inc may have stock
+                    positions on profiled companies from time to time. We may
+                    profit in the event the shares of the Company profiled by us
+                    increase in value. These positions may be liquidated from
+                    time to time even after we have made positive comments
+                    regarding the Company.&nbsp; The receipt of this information
+                    constitutes your acceptance of these terms and conditions.</span><font face="Arial"><o:p>&nbsp;&nbsp;&nbsp;
+                    </o:p>
+                    </font>
+                    <st1:place>
+                    <span style="font-family: Arial; color: black">SAFE</span><font face="Arial"></st1:PlaceName>
+                    </font>
+                    <st1:PlaceType>
+                    <span style="font-family: Arial; color: black">HARBOR</span></st1:PlaceType><font face="Arial">
+                    </font>
+                    </st1:place>
+                    <span style="font-family: Arial; color: black"> FOR
+                    FORWARD-LOOKING STATEMENTS: Except for historical
+                    information contained herein, the statements on this website
+                    and newsletter are forward-looking statements that are made
+                    pursuant to the safe harbor provisions of the Private
+                    Securities Reform Act of 1995. Forward-looking statements
+                    involve known and unknown risks and uncertainties, which may
+                    cause a company's actual results in the future periods to
+                    differ materially from forecasted results. These risks and
+                    uncertainties include, among other things, product price
+                    volatility, product demand, market competition and risk
+                    inherent in the companies operations. You can identify these
+                    statements by the fact that they do not relate strictly to
+                    historical or current facts. They use words such as
+                    ``anticipate,'' ``estimate,'' ``expect,'' ``project,''
+                    ``intend,'' ``plan,&quot;, &quot;anticipate&quot;,
+                    &quot;guess&quot;, &quot;think&quot;, &quot;hear&quot;,
+                    &quot;suggest&quot;, ``believe,'' and other words and terms
+                    of similar meaning in connection with any discussion of
+                    future operating or financial performance.</span><font face="Arial"><o:p>&nbsp;
+                    </o:p>
+                    </font>
+                    <span style="font-family: Arial; color: black">As
+                    a suggestion, &quot;Never, ever, make an investment based
+                    solely on what you read in an online newsletter or Internet
+                    bulletin board, especially if the investment involves a
+                    small, thinly-traded company that isn't well known,&quot;
+                    said Nancy M. Smith, Director of SEC's Office of Investor
+                    Education and Assistance. &quot;Assume that the information
+                    about these companies is not trustworthy unless you can
+                    prove otherwise through your own independent research.&quot;
+                    &quot;Internet Fraud&quot; is available on the SEC's Web
+                    Site, at <a href="http://www.zinester.com/lr/230084/4952643">http://www.sec.gov/consumer/cyberfr.htm</a>.</span><font face="Arial"><o:p>&nbsp;&nbsp;
+                    </o:p></font>
+                    </font>
+                    </font>
+                  <o:p>
+              <font face="Courier New" size="2" color="#000000"><img src="http://www.adtrader.com/ads/adserve.asp?SN=1999&amp;PN=8526&amp;Desc=QOIL"
+border="1" alt="The Financial Ad Trader" width="14" height="1"></font></p>
+                    </td>
+  </tr>
+</table>
+
+<img width=0 height=0 src="http://www.zinester.com/lr/230094/4952643"><br><br><hr width="200">
+<table width="80%" cellpadding="3" cellspacing="0" border="0" align="center">
+  <tr>
+    <td align="center">
+
+<p align="center">
+<font face="Arial" size="2">
+
+<table>
+<tr>
+<td><a href="http://www.zinester.com/cgi/gsps.cgi?topic=21556&from=na_sub">Subscribe</a></td>
+<td>|</td>
+<td><a href="http://www.zinester.com/cgi/l.cgi?bait@em.ca&011m0Mt8Q85oVa7rbXVn4A">Update Profile</a></td>
+<td>|</td>
+<td><a href="http://www.zinester.com/cgi/gsps.cgi?topic=21556&email=4952643&pswd=011m0Mt8Q85oVa7rbXVn4A&from=na_unsub">Unsubscribe</a></td>
+</tr>  
+</table>
+
+
+</font>
+</p>
+
+
+    </td>
+  </tr>
+</table>
+
+
+</BODY>
+</HTML>

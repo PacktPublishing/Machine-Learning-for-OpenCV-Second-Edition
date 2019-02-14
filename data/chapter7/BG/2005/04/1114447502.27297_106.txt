@@ -1,0 +1,57 @@
+Return-Path: <Christopher.Bush@maximustechnologies.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15294 invoked by uid 115); 24 Apr 2005 23:12:07 -0000
+Received: from Christopher.Bush@maximustechnologies.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.164.192.234):. 
+ Processed in 1.588231 secs); 24 Apr 2005 23:12:07 -0000
+Received: from unknown (HELO 209.5.178.248) (220.164.192.234)
+  by churchill.factcomp.com with SMTP; 24 Apr 2005 23:12:04 -0000
+Return-Path: <D.Copeland@weddingsatwork.com>
+X-Original-To: bruceg@em.ca
+Delivered-To: bruceg@em.ca
+Received: from server1.soulasylum.net   (mail.soulasylum.net  [207.44.184.39])
+	by fep2.weddingsatwork.com (Postfix) with ESMTP id A025C5536
+	for <bruceg@em.ca>; Sun, 24 Apr 2005 21:16:09 -0300 (EDT)
+Received: from nobody by weddingsatwork.com with local (Exim 4.27)
+	id 2C1rjW-1939oD-My
+	for <bruceg@em.ca>; Mon, 25 Apr 2005 03:22:09 +0300
+To: bruceg@em.ca
+Subject: Confirmation Email: Link Code inside
+From: "D.Copeland" <D.Copeland@weddingsatwork.com>
+Message-ID: <058943664086.7eb1e8001998@weddingsatwork.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Mon, 25 Apr 2005 04:21:09 +0400
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.weddingsatwork.com
+X-AntiAbuse: Original Domain - canoemail.com
+X-AntiAbuse: Originator/Caller UID/GID - [50 06] / [73 12]
+X-AntiAbuse: Sender Address Domain - weddingsatwork.com
+X-Spam-Status: No, score=-14.7 required=5.0 tests=TEST_MESSAGE,
+     MIME_BOUND_NEXTPART,NO_REAL_NAME,USER_IN_DEF_WHITELIST autolearn=no
+     version=3.0.1
+
+
+We tried to contact you earlier about flnanclng your home at a lower rate.
+I would like to let you know that we have gone ahead and started 
+the preapproval process,
+
+Here are the results:
+
+*Account ID: [675-Bruceg-678]
+*Negotiable Amount: $96,053 to $233, 827
+*Rate: 3.64% - 5.01%
+
+For more information or to have a broker contact you please visit:
+http://qischalkline.cr3at3.com/formupdate.asp
+
+Best Regards,
+
+D.Copeland,
+Account Manager
+
+
+No future contact:
+http://qbkbrunswick.cr3at3.com/gone.asp

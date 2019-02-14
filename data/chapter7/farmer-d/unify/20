@@ -1,0 +1,29 @@
+Message-ID: <13826846.1075854183733.JavaMail.evans@thyme>
+Date: Tue, 28 Dec 1999 08:07:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: stacey.neuweiler@enron.com
+Subject: missing TXU Lonestar and Oasis paths
+Cc: daren.farmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: daren.farmer@enron.com
+X-From: Dave Nommensen
+X-To: Stacey Neuweiler
+X-cc: Daren J Farmer
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Stacey,
+
+It looks like your missing paths revealed a quirk in our suppression of zero 
+paths.  There were 4 paths initially entered as zero, then changed to 
+non-zero on a later date.  The system did not correctly determine that the 
+zero path should no longer be suppressed.
+
+We have fixed the 4 paths affected and have corrected the code so this won't 
+happen any more.  Below is a screen print of the Nov 22 problem that is now 
+fixed.
+
+Thanks, d.n.

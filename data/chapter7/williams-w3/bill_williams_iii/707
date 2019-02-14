@@ -1,0 +1,29 @@
+Message-ID: <11969895.1075863311954.JavaMail.evans@thyme>
+Date: Tue, 10 Jul 2001 13:07:49 -0700 (PDT)
+From: david.steiner@enron.com
+To: center.dl-portland@enron.com
+Subject: **Information Only**  Internet and Email Outage
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steiner, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSTEINE2>
+X-To: DL-Portland World Trade Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandWorldTradeCenter>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+All
+
+We had 2 service outages today, the External Internet and Email both became unavailable at about 11:00 am today, service was restored in after about 15-20 minutes.  The fact that both services went down at the same time is only coincidence.
+
+Below are the basic causes for the outages:
+
+The Internet outage was caused by an error in one of our Network Routers.  The device was rebooted and service was restored.
+
+The Email outage was caused by a bug in Exchange that is remedied by rebooting the server.
+
+Sorry for the inconvenience these outages may have caused.
+
+
+Dave Steiner

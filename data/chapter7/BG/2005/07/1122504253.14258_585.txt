@@ -1,0 +1,89 @@
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 21909 invoked by uid 115); 20 Jul 2005 10:20:53 -0000
+Received: from nofrom@email by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(84.204.113.21):. 
+ Processed in 11.530771 secs); 20 Jul 2005 10:20:53 -0000
+Received: from dialup84113-21.ip.peterstar.net (84.204.113.21)
+  by churchill.factcomp.com with SMTP; 20 Jul 2005 10:20:40 -0000
+Received: from tiny.crank (HELO localhost.belligerent.com [12.0.16.25])
+	by carey.palmate (8.11.5/8.11.9) with ESMTP id f62KukE84834;
+	Wed, 20 Jul 2005 04:13:34 -0700
+	(envelope-from bobcat-epithelial at blindfold.genotype) 
+From: "Joel Wilson" <Wilson138@telia.com>
+Date: Wed, 20 Jul 2005 06:19:34 -0500
+To: bait@em.ca
+Subject: Small Cap Stox Can Sizzle
+Message-Id: <20030261109818.GA16633@cried.eu.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+Content-Length: 8660
+Lines: 66
+
+The Contact Center Industry
+ 
+Few people today know exactly what a contact center does.  Its predecessor, the call center, brings to mind large telemarketing operations with people calling your house during dinner time.  But the fact is that the contact center is much more than that.  
+
+We see 800 numbers everywhere - the back of our credit cards, the fast food drive-thru window, I'll bet even your bottle of water has a phone number to call with questions.  The fact is that wherever there is an 800 number, there is a person answering the call.  Not just a person, but millions of people in North America alone, across a staggering 76,000+ contact centers.   
+ 
+It used to be the contact center only handled inbound customer service calls and outbound sales calls.  That was before the proliferation of the Internet - now these same customer service reps are waiting for our phone calls, our faxes, our emails and our web chats.  We can call from our offices, home phones, cell phones - even from our computers - Americans generate hundreds of millions of transactions each year for contact centers and the industry has grown by leaps and bounds.  So aggressive is the growth that today, we are as likely to get someone in California to answer our call as we are to get someone in India.  
+  
+*******************************
+Contact centers in North America handle MILLIONS of transactions each year.  For each type of transaction there is a technology that supports it.  Automatic call distributors for inbound calls, interactive voice response systems (the dreaded "press 1") for self service, email and web servers.  In the midst of all of this disparate technology, contact centers began to lose track of a very important piece of their puzzle: INFORMATION.
+*************************************
+The contact center industry is one of the most data intensive industries.  Think about it - even if you order a pair of shoes, the contact center has your name, phone number, mailing address, billing address, credit card information, etc.  The contact center also has information on each and every one of their employees and all of their activity.  Every call they received, how long they talked, how long they placed people on hold, how many calls were transferred.  Until now, no single piece of technology can track information on all people regarding all activities, for one simple reason.  The activities are all generated and tracked by different technologies.
+ 
+Human Science Systems, Inc.
+ (HMNS)
+
+COMPANY OVERVIEW:
+Human Science Systems, Inc. (Pink Sheets: HMNS) is a contact center software development firm.  Its flagship product, Central AuthorityT serves one main purpose: To be a single point of contact for all data generated in the contact center.  Central AuthorityT can track and disseminate all data generated in the contact center, regardless of the technology where the data originated. 
+ 
+Central AuthorityT is a Contact Center Resource Management (CCRMT) product.  CCRM is the act of managing data regarding all human, physical and technical resources within the contact center.  Contact center resources can all be categorized under four distinct umbrellas: employees, technology, capacity, and clients.  It may be hard to believe, but the reality is that all functions within the contact center fall under one of those four categories, and our company has come up with a method and a technology that allows departments to easily exchange and leverage valuable data on a real-time basis."
+ 
+
+
+*WHY HMNS SHOULD BE ON YOUR RADAR:
+
+1. Datamonitor states that the US contact center market reached a volume of 76,000 contact centers in 2001 and that by the end of 2006 that number will exceed 79,600 contact centers.   
+
+2. Contact center reporting and data tracking has always been burdensome, more so with the incorporation of the various technologies required to successfully compete in the industry.
+
+3. Today's contact center requires a responsiveness that can only be achieved with timely and accurate insight into business conditions, but this is not easily accomplished in the absence of methods and technology to easily collect data from numerous disparate sources.
+
+4. Contact centers are looking to replace manual or semi-automated methods of data collection and dissemination because they are not only burdensome, but highly inaccurate and complex. 
+
+5. HMNS principals have an established track record as industry experts going back over 15 years and have high level contacts in all of the top tier contact centers.  Top tier contact centers generate over $100 million per year within the North American market.
+
+6. HMNS has patentable methods and technologies and recently retained a well known technology patent attorney to process its applications for the protection of its intellectual property.
+
+7. A recent report by Empire Research Associates stated that the company could achieve rapid market share penetration in the contact center industry market segment and that a 5% market share level in five years would be plausible.  With a mere 5% market share, a 40% sales margin (fully taxed) would imply $10 million of net income in 2010.  In that event, the report noted that on the present 17.6 million shares, earnings would exceed $0.50 per share.  The report concluded that "The target market is large and enticing to HMNS and we believe the Company's product has a good chance of hitting it!"
+
+8. The company is negotiating distributorships through software distributors that currently generate billions of dollars in revenue from the center industry.
+
+9. HMNS will generate revenue not only from software sales, but from Application Service Provider (ASP) services (from customers that "subscribe" to the technology and access it by the Internet), from installation (billable at 12% of the total software sale), and recurring maintenance (recurring annual revenue billable at 18% of the value of the software).
+
+10. Datamonitor recently estimated the global market for call center component technologies at $4.1 billion, and predicts an increase to $5.5 billion by 2007, growing at a 6.0% compounded annual growth rate.
+
+11. Gartner also reports positive and stable growth for software distributors, stating that end user spending was to exceed $76.1 billion by the end of 2005.  
+
+12.  Last year alone, U.S. banks were forecasted to spend $1.9 billion on contact center technology.
+ 
+*MANAGEMENT AND OTHER COMMENTS: 
+Lou Mandic, HMNS CEO & President: "This technology was born out of years worth of research.  We are well engrained in this industry and are keenly aware of its needs.  We are without a doubt delivering the most mission critical software in the industry today.  We anticipate rapid growth, which is not uncommon in our industry.  By its fourth year of operation, Blue Pumpkin - a company that provides only a portion of what Central Authority offers - had already captured a 7% market share.  A far lesser market share will have our company earning better than $10 million annually."
+
+Company Philosophy:
+"If you can measure it you can manage it."   
+
+*THINGS TO CONSIDER:
+According to Empire Research, the company has a competitively superior product, a large enough market to support sustained rapid growth, and a proprietary market position that can provide handsome profit returns.
+
+HMNS is in the process of establishing distributorships with companies that annually sell billions of dollars worth of software to contact centers.
+
+HMNS has buy-out appeal and has already been approached by far larger players that may later be interested in acquiring the company and/or its intellectual property.  
+
+HOW THE TECHNOLOGY WORKS
+Central AuthorityT is a software product that fills the role of a central repository of data.  Through meta data tables, the software is able to "read" all other technologies, and act as a central point of contact for the enterprise.   The software also collects data inherently (this is data entered directly into Central AuthorityT, not collected from other systems) on employees, recruiting sources and performance, enabling the organization to better manage its human resource processes and reducing its turnover, which can be as high as 200% in the contact center industry.
+
+*CONCLUSION:
+The problem with inter-departmental communications is not exclusive to the contact center industry.  It is a problem for corporate America as a whole.  Companies like Human Science Systems are delivering the next mission critical piece of software - one that can normalize all data, across all technologies, and act as a single, central point of contact for the enterprise.

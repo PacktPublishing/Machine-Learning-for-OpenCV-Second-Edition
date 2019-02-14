@@ -1,0 +1,77 @@
+Received: from smtp.inet.fi (192.89.123.192)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:06 -0000
+Received: from mailsrv.cadi.fi (mail.cadi.fi [213.28.235.134])
+	by smtp.inet.fi (Postfix) with ESMTP id 257BD2EA4
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 14:00:47 +0300 (EEST)
+From: postmaster@cadi.fi
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 14:05:46 +0300
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C58C2634FDDB28000000D2mailsrv.cadi.fi"
+X-DSNContext: 335a7efd - 4523 - 00000001 - 80040546
+Message-ID: <uOmMVZ6jh00000013@mailsrv.cadi.fi>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C58C2634FDDB28000000D2mailsrv.cadi.fi
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       petri.ahava@cad-q.fi
+
+
+
+
+--9B095B5ADSN=_01C58C2634FDDB28000000D2mailsrv.cadi.fi
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;mailsrv.cadi.fi
+Received-From-MTA: dns;mailwisconsin.com
+Arrival-Date: Tue, 19 Jul 2005 14:05:24 +0300
+
+Final-Recipient: rfc822;petri.ahava@cad-q.fi
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C58C2634FDDB28000000D2mailsrv.cadi.fi
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([222.64.146.78]) by mailsrv.cadi.fi with Microsoft SMTPSVC(6.0.3790.211);
+	 Tue, 19 Jul 2005 14:05:24 +0300
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360619;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: petri.ahava@cad-q.fi
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Path: projecthoneypot@projecthoneypot.org
+X-OriginalArrivalTime: 19 Jul 2005 11:05:27.0562 (UTC) FILETIME=[C50536A0:01C58C51]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836371">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+
+--9B095B5ADSN=_01C58C2634FDDB28000000D2mailsrv.cadi.fi--

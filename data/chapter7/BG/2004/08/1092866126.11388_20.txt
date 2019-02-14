@@ -1,0 +1,318 @@
+Return-Path: <Dish@cjb.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4247 invoked from network); 16 Aug 2004 20:54:11 -0000
+Received: from unknown (HELO cjb.net) (80.178.80.115)
+  by churchill.factcomp.com with SMTP; 16 Aug 2004 20:54:11 -0000
+From: "Dish Netowrk" <Dish@cjb.net>
+To: <bruceg@em.ca>
+Subject: FREE DISH Network System
+Sender: "Dish Netowrk" <Dish@cjb.net>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Mon, 16 Aug 2004 13:54:11 -0700
+Reply-To: "Dish Netowrk" <Dish@cjb.net>
+Content-Transfer-Encoding: 8bit
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<style type="text/css">.bottom {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sidebar {
+	BACKGROUND: #ffff00; COLOR: #000000
+}
+P.navheader {
+	MARGIN-BOTTOM: 0px; MARGIN-LEFT: 15px
+}
+P.navdata {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 45px
+}
+TD.blacktext {
+	FONT-SIZE: 11px; BACKGROUND: #eeeeee; COLOR: #333333; FONT-FAMILY: arial
+}
+TD.formtext {
+	FONT-SIZE: 15px; BACKGROUND: #eeeeee; COLOR: #333333; TEXT-ALIGN: right
+}
+TD.blackbtext {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: #eeeeee; COLOR: #333333; FONT-FAMILY: arial
+}
+TD.redtext {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: #eeeeee; COLOR: #ee0000; FONT-FAMILY: arial; TEXT-ALIGN: right
+}
+FORM {
+	DISPLAY: inline
+}
+A {
+	FONT-SIZE: 11px; COLOR: #111199; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sidebar {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000
+}
+A.schedule {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff0000; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.schedule:hover {
+	COLOR: #0000ff
+}
+P {
+	FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+LI {
+	FONT-SIZE: 11px; FONT-FAMILY: arial
+}
+H2 {
+	COLOR: #666699; FONT-FAMILY: arial; TEXT-ALIGN: center
+}
+UL.receivers {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 0px
+}
+LI.leftdl {
+	MARGIN-TOP: 0px; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 0px; LINE-HEIGHT: 14px; FONT-FAMILY: arial
+}
+LI.receivers {
+	MARGIN-TOP: 0px; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 14px; FONT-FAMILY: arial
+}
+H5.receivers {
+	MARGIN-BOTTOM: 0px; FONT-FAMILY: arial; TEXT-ALIGN: left
+}
+H3.receivers {
+	MARGIN-BOTTOM: 0px; FONT-FAMILY: arial; TEXT-ALIGN: center
+}
+UL.receivers {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 30px
+}
+UL.installation {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 30px
+}
+LI.installation {
+	MARGIN-TOP: 0px; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 14px; FONT-FAMILY: arial
+}
+LI.accessories {
+	MARGIN-TOP: 0px; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 14px; FONT-FAMILY: arial
+}
+H5.accessories {
+	MARGIN-BOTTOM: 0px; FONT-FAMILY: arial; TEXT-ALIGN: left
+}
+H3.accessories {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-BOTTOM: 0px; FONT-FAMILY: arial; TEXT-ALIGN: left
+}
+.blueaccbar {
+	COLOR: #ffffff
+}
+.greyaccbar {
+	COLOR: #000000
+}
+UL.accessories {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 30px
+}
+TABLE.accessories {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; WIDTH: 100%; BORDER-BOTTOM: #000000 1px solid; TEXT-ALIGN: left
+}
+TD.blueaccbar {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; BACKGROUND: #666699; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+TD.greyaccbar {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; BACKGROUND: #eeeeee; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+TD.whiteaccbar {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND: #ffffff; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+TD.pricingbar {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; BACKGROUND: #ffffff; PADDING-BOTTOM: 4px; WIDTH: 90%; PADDING-TOP: 4px; TEXT-ALIGN: center
+}
+TD.graphicbar {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND: #ffffff; PADDING-BOTTOM: 20px; VERTICAL-ALIGN: top; WIDTH: 10%; PADDING-TOP: 20px
+}
+TABLE.pricing {
+	BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid; MARGIN-TOP: 5px; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 0px solid; TEXT-ALIGN: center
+}
+TD.suggestedleft {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; BACKGROUND: #ffffff; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: arial; TEXT-ALIGN: left
+}
+TD.suggestedright {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 11px; BACKGROUND: #ffffff; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-STYLE: italic; FONT-FAMILY: arial; TEXT-ALIGN: right
+}
+TD.ourpriceleft {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND: #ffffff; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial; TEXT-ALIGN: left
+}
+TD.ourpriceright {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND: #ffffff; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; FONT-FAMILY: arial; TEXT-ALIGN: right
+}
+UL.channels {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 30px
+}
+LI.channels {
+	MARGIN-TOP: 0px; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 14px; FONT-FAMILY: arial
+}
+.packageprice {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #444444; TEXT-ALIGN: center; font-face: arial
+}
+.packagecenter {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; TEXT-ALIGN: center; font-face: arial
+}
+.pricebold {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #ff0000
+}
+TD.movieleft {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: top; FONT-FAMILY: arial; TEXT-ALIGN: left
+}
+TD.movieright {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: top; FONT-FAMILY: arial; TEXT-ALIGN: right
+}
+TD.movieheader {
+	PADDING-RIGHT: 4px; MARGIN-TOP: 0px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: #eeeeee; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 4px; COLOR: #333333; LINE-HEIGHT: 15px; PADDING-TOP: 4px; FONT-FAMILY: arial; TEXT-ALIGN: center
+}
+TD.moviebody {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 11px; BACKGROUND: #ffffff; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 4px; FONT-FAMILY: arial; TEXT-ALIGN: right
+}
+TABLE.movieencapsulate {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; MARGIN-BOTTOM: 5px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; TEXT-ALIGN: left
+}
+DL {
+	MARGIN-TOP: 10px
+}
+DT {
+	FONT-SIZE: 11px; MARGIN-LEFT: 10px; FONT-FAMILY: arial
+}
+DD {
+	FONT-SIZE: 11px; MARGIN-LEFT: 35px; FONT-FAMILY: arial
+}
+.topnav {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000080; FONT-FAMILY: arial
+}
+DD.faqbigindent {
+	MARGIN-LEFT: 50px
+}
+.underlined {
+	TEXT-DECORATION: underline
+}
+</style>
+<meta content="Microsoft FrontPage 5.0" name="GENERATOR">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+</head>
+
+<body text="#000000" bgColor="#ffffff" leftMargin="0" topMargin="0" onload="trap()" marginheight="0" marginwidth="0">
+
+<!-- Top Nav Bar -->
+<table cellSpacing="0" cellPadding="0" width="756" border="0">
+  <tr>
+    <td vAlign="center" align="left" width="219">
+    <img src="http://www.easycharge.net/sat/files/dishnetwork.gif" align="left" border="0" width="83" height="63"><br>
+    <img alt="It's all in the dish!" src="http://www.easycharge.net/sat/files/dishlogo_tag.gif" align="absMiddle" border="0" width="99" height="24"></td>
+    <!--
+
+		if(kbId != null) //if kbid was in the querystring..
+		{
+			document.cookie = "referrer=" + document.referrer + ";";	
+		}
+
+function GetCookie (name) {
+var arg = name + "=";
+var alen = arg.length;
+var clen = document.cookie.length;
+var i = 0;
+while (i < clen) {
+var j = i + alen;
+if (document.cookie.substring(i, j) == arg)
+return getCookieVal (j);
+i = document.cookie.indexOf(" ", i) + 1;
+if (i == 0)
+break;
+}
+return null;
+}
+function getCookieVal (offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+var banner = GetCookie('affiliate');
+var referrer = GetCookie('referrer');
+if (banner == null) {
+document.write('<img src="/images/allsattext.gif">');
+}
+else {
+document.write('<a href="');
+document.write(referrer);
+document.write('"><img src="/images/cobranding/');
+document.write(banner);
+document.write('.png" border=0></a>');
+}
+
+
+// --></script>
+    </td>
+    </a>
+    <td vAlign="center" align="right" width="537">
+    <h2 align="left">
+    <font style="font-size: 8pt; background-color: #FFFF00" face="Book Antiqua" size="-1" color="#0000FF">
+    <b>$500.00 FREE EQUIPMENT &amp; INSTALLATION CREDIT WITH FREE DVR OR FREE HD!</b></font></h2>
+    </td>
+  </tr>
+  <tr>
+    <td background="http://www.easycharge.net/sat/files/shading-top.gif" colSpan="2" width="756">
+    <img src="http://www.easycharge.net/sat/files/shading-top.gif" width="12" height="15"></td>
+  </tr>
+</table>
+<!-- Begin Page Body -->
+<table cellSpacing="0" cellPadding="0" width="740" border="0">
+  <tr>
+    <!-- Begin Side Nav Bar -->
+    <!-- End Side Nav Bar -->
+    <!-- Begin Main Content Area Here-->
+    <td vAlign="top" rowSpan="2" width="722">
+    <!---CUT TOP TEMPLATE HERE---><br>
+    <table cellSpacing="0" cellPadding="0" align="center" border="0">
+      <tr>
+        <td align="middle"><span style="background-color: #FFFF00">Get </span>
+        <font face="arial" color="black">
+        <span style="background-color: #FFFF00">Dish Network And Receive</span></font><span class="sidebar"><font size="3" face="arial" color="black">&nbsp;</font></span><p>
+        <span class="sidebar"><font size="3" face="arial" color="black"><b>FREE</b>
+        <b>$500</b> <b>Credit</b> for Installation and Equipment.&nbsp;</font></span><span style="background-color: #FFFF00"><br>
+        </span><br>
+        <span class="sidebar"><font color="black" size="3">&nbsp;Offer expires at <b>
+        MIDNIGHT</b></font></span></td>
+        <td>&nbsp;&nbsp;&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <p><br>
+    <br>
+    </p>
+    <table cellSpacing="0" cellPadding="0" align="center" border="0">
+      <tr>
+        <td><a href="http://www.easycharge.net/sat/index.htm">
+        <img src="http://www.easycharge.net/sat/files/FREE301.jpg" border="0" width="233" height="135"></a></td>
+        <td><a href="http://www.easycharge.net/sat/index.htm">
+        <img src="http://www.easycharge.net/sat/files/FREEDVR.jpg" border="0" width="302" height="135"></a></td>
+      </tr>
+      <tr>
+        <td align="middle" colSpan="2">
+        <a href="http://www.easycharge.net/sat/index.htm">
+        <img src="http://www.easycharge.net/sat/files/FREEHD.jpg" border="0" width="396" height="132"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To Unsubscribe click <a href="mailto:samet10@014.net?subject=remove">here</a>
+</p>
+<p>or write to Easycharge 226 hearth court Lakewood NJ 08701 </p>
+
+</body>
+
+</html>

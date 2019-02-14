@@ -1,0 +1,987 @@
+Return-Path: <1suporte@cipolla.com.br1>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18323 invoked by uid 115); 3 Oct 2004 16:57:02 -0000
+Received: from 1suporte@cipolla.com.br1 by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.164.98.114):. 
+ Processed in 5.651887 secs); 03 Oct 2004 16:57:02 -0000
+Received: from 200164098114.user.veloxzone.com.br (HELO cipolla.com.br1) (200.164.98.114)
+  by churchill.factcomp.com with SMTP; 3 Oct 2004 16:56:57 -0000
+From: "APARTMENTT.NET" <1suporte@cipolla.com.br1>
+To: <bruceg@em.ca>
+Subject: APARTMENTT.NET
+Sender: "APARTMENTT.NET" <1suporte@cipolla.com.br1>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Sun, 3 Oct 2004 13:53:19 -0300
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <109682261767218299@churchill>
+
+<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="LTR" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<title>APARTMENTT.NET -Temporary Apartment</title>
+<base href="http://www.cipolla.com.br/loja/">
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body marginwidth="0" marginheight="0" bgcolor="#FFFF00" text="#000033"
+link="#CC0000" vlink="#FF33FF" alink="#FF0000">
+<!-- header //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr class="header">
+    <td valign="middle"><img
+src="http://www.cipolla.com.br/loja/images/lojapadrao.jpg" border="0" alt="
+APARTMENTT.NET " width="780" height="11"></td>
+    <td align="right" valign="bottom"><a
+href="http://www.cipolla.com.br/loja/account.php"></a>&nbsp;&nbsp;<a
+href="http://www.cipolla.com.br/loja/shopping_cart.php"></a>&nbsp;&nbsp;<a
+href="http://www.cipolla.com.br/loja/checkout_payment.php"></a>
+&nbsp;&nbsp;</td>
+
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+  <tr class="headerNavigation">
+    <td class="headerNavigation">
+&nbsp;&nbsp;<a href="http://www.cipolla.com.br"
+class="headerNavigation">Top</a> &raquo; <a
+href="http://www.cipolla.com.br/loja/default.php"
+class="headerNavigation">Catalog</a>    </td>
+    <td align="right" class="headerNavigation"><a
+href="http://www.cipolla.com.br/loja/account.php" class="headerNavigation">My
+Account</a> &nbsp;|&nbsp; <a
+href="http://www.cipolla.com.br/loja/shopping_cart.php"
+class="headerNavigation">Separate for Reserves</a> &nbsp;|&nbsp; <a
+href="http://www.cipolla.com.br/loja/checkout_payment.php"
+class="headerNavigation">To Finish Reserves</a> &nbsp;&nbsp;</td>
+
+  </tr>
+</table>
+<!-- header_eof //-->
+
+<!-- body //-->
+<table border="0" width="100%" cellspacing="3" cellpadding="3">
+  <tr> 
+    <td width="125" valign="top"> 
+      <table border="0" width="125" cellspacing="0" cellpadding="2">
+        <!-- left_navigation //-->
+        <!-- categories //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Categories</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td class="boxText"><font face="Arial, Helvetica,
+sans-serif"><a
+href="http://www.cipolla.com.br/loja/default.php?cPath=6">COPACABANA-></a>
+&nbsp;(52)<br>
+                        <a
+href="http://www.cipolla.com.br/loja/default.php?cPath=7">IPANEMA-></a>
+&nbsp;(19)<br>
+                        <a
+href="http://www.cipolla.com.br/loja/default.php?cPath=8">LEBLON-></a>
+&nbsp;(4)<br>
+
+                        <a
+href="http://www.cipolla.com.br/loja/default.php?cPath=9">BARRA-></a>
+&nbsp;(1)<br>
+                        </font></td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- categories_eof //-->
+        <!-- manufacturers //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Localizacion</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+
+                    </tr>
+                    <tr> 
+                      <td class="boxText"> 
+                        <form name="manufacturers" method="get"
+action="http://www.cipolla.com.br/loja/default.php">
+                          <font face="Arial, Helvetica, sans-serif"> 
+                          <select name="manufacturers_id"
+onChange="this.form.submit();" size="0">
+                            <option value="">Please Select</option>
+                            <option value="39">AFONSO ARINOS D</option>
+                            <option value="38">ANTONIO PARREIR</option>
+
+                            <option value="36">ATAULFO DE PAIV</option>
+                            <option value="1">ATLÂNTICA</option>
+                            <option value="2">AV COPACABANA</option>
+                            <option value="15">BARÃO DA TORRE</option>
+                            <option value="3">BARATA RIBEIRO</option>
+                            <option value="13">CONSTANTE RAMOS</option>
+
+                            <option value="19">DÉCIO VILARES</option>
+                            <option value="12">DIAS DA ROCHA</option>
+                            <option value="20">DJALMA URICH</option>
+                            <option value="5">DOMINGOS FERREI</option>
+                            <option value="21">DUVIVIER</option>
+                            <option value="22">EPITÁCIO PESSOA</option>
+
+                            <option value="23">FELIPE DE OLIVE</option>
+                            <option value="6">FIGUEIREDO MAGA</option>
+                            <option value="16">HILÁRIO DE GOUV</option>
+                            <option value="18">JOÃO LIRA</option>
+                            <option value="34">LAURO MULLER (R</option>
+                            <option value="25">MIGUEL LEMOS</option>
+
+                            <option value="37">NASCIMENTO SILV</option>
+                            <option value="9">PAULA FREITAS</option>
+                            <option value="26">POMPEU LOUREIRO</option>
+                            <option value="35">PRAÇA SARA KUBI</option>
+                            <option value="27">PRADO JUNIOR</option>
+                            <option value="28">PRINCESA ISABEL</option>
+
+                            <option value="17">PRUDENTE DE MOR</option>
+                            <option value="29">RAUL POMPEIA</option>
+                            <option value="10">REPÚBLICA DO PE</option>
+                            <option value="30">RODOLFO DANTAS</option>
+                            <option value="4">SANTA CLARA</option>
+                            <option value="8">SIQUEIRA CAMPOS</option>
+
+                            <option value="7">TONELEIRO</option>
+                            <option value="31">VIEIRA SOUTO</option>
+                            <option value="32">VINÍCIUS DE MOR</option>
+                            <option value="14">VISCONDE DE PIR</option>
+                            <option value="33">VIVEIRO DE CAST</option>
+                          </select>
+
+                          </font> 
+                        </form>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+        <!-- manufacturers_eof //-->
+        <!-- whats_new //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>What's 
+                  New?</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/products_new.php"><img
+src="http://www.cipolla.com.br/loja/images/infobox/arrow_right.gif"
+border="0" alt="  " width="12" height="10"></a><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+
+                    </tr>
+                    <tr> 
+                      <td align="center" class="boxText"><font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?cPath=7_20&products_id=10
+7"><img src="http://www.cipolla.com.br/loja/images/mini-100_2238.JPG"
+border="0" alt=" 1-BEDROOM-IPA-04 " width="100" height="80"></a><br>
+                        <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=107">
+1-BEDROOM-IPA-04</a><br>
+                        <s>R$250,00</s><br>
+                        <span
+class="productSpecialPrice">R$200,00</span></font></td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- whats_new_eof //-->
+        <!-- search //-->
+
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Quick 
+                  Find</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" class="boxText"> 
+                        <form name="quick_find" method="get"
+action="http://www.cipolla.com.br/loja/advanced_search_result.php">
+                          <font face="Arial, Helvetica, sans-serif"> 
+                          <input type="text" name="keywords" size="10"
+maxlength="30" value="">
+                          &nbsp; 
+                          <input type="image"
+src="includes/languages/english/images/buttons/button_quick_find.gif"
+border="0" alt="Quick Find">
+
+                          <br>
+                          Use keywords to find the product you are looking
+for.<br>
+                          <a
+href="http://www.cipolla.com.br/loja/advanced_search.php"><b>Advanced 
+                          Search</b></a> </font> 
+                        </form>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- search_eof //-->
+        <!-- information //-->
+
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Information</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td class="boxText"><font face="Arial, Helvetica,
+sans-serif"><br>
+                        <a
+href="http://www.cipolla.com.br/loja/privacy.php">Privacy 
+                        Notice</a><br>
+                        <a
+href="http://www.cipolla.com.br/loja/conditions.php">Conditions 
+                        of Use</a><br>
+
+                        <a
+href="http://www.cipolla.com.br/loja/contact_us.php">Contact 
+                        Us</a></font></td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+        <!-- information_eof //-->
+        <!-- left_navigation_eof //-->
+      </table>
+    </td>
+    <!-- body_text //-->
+    <td width="100%" valign="top"> 
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+        <tr> 
+          <td width="100%"> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td class="pageHeading"><font face="Arial, Helvetica,
+sans-serif">What's 
+                  New?</font></td>
+                <td align="right"><font face="Arial, Helvetica,
+sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/table_background_default.gif"
+border="0" alt=" What's New? " width="57" height="40"></font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr> 
+          <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="100%" height="10"></font></td>
+        </tr>
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td class="main"><font face="Arial, Helvetica,
+sans-serif">Welcome 
+                  <span class="greetUser">Guest!</span> Would you like to <a
+href="http://www.cipolla.com.br/loja/login.php"><u>log 
+                  yourself in</u></a>? Or would you prefer to <a
+href="http://www.cipolla.com.br/loja/create_account.php"><u>create 
+                  an account</u></a>?</font></td>
+
+              </tr>
+              <tr> 
+                <td class="main"><font face="Arial, Helvetica, sans-serif"><br>
+                  Call for (55) 21 2549 9157 in our central of reserves. This 
+                  is the biggest virtual community of reserves of apartments
+of 
+                  Rio De Janeiro, consults and reserves now .</font></td>
+              </tr>
+              <tr> 
+                <td><font face="Arial, Helvetica, sans-serif"><br>
+                  <!-- new_products //-->
+                  </font> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="0">
+
+                    <tr> 
+                      <td height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                      <td height="14" class="infoBoxHeading"
+width="100%"><font face="Arial, Helvetica, sans-serif"><b>New 
+                        Apartments For September</b></font></td>
+                      <td height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                    </tr>
+                  </table>
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="1" class="infoBox">
+                    <tr> 
+                      <td> 
+                        <table border="0" width="100%" cellspacing="0"
+cellpadding="4" class="infoBoxContents">
+
+                          <tr> 
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=115"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_2650.jpg" border="0"
+alt=" 1-BEDROOM-COPA-18 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=115">
+1-BEDROOM-COPA-18</a><br>
+                              R$176,00</font></td>
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=114"><img
+src="http://www.cipolla.com.br/loja/images/mini-1080.JPG" border="0" alt="
+STUDIO-COPA-11 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=114">
+STUDIO-COPA-11</a><br>
+                              R$120,00</font></td>
+
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=113"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_1008.jpe" border="0"
+alt=" STUDIO-COPA-10 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=113">
+STUDIO-COPA-10</a><br>
+                              R$120,00</font></td>
+                          </tr>
+                          <tr> 
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=112"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_2876.JPG" border="0"
+alt=" TOP-BARRA-01 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=112">
+TOP-BARRA-01</a><br>
+                              R$304,00</font></td>
+
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=111"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_2771.JPG" border="0"
+alt=" 1-BEDROON-IPA-06 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=111">
+1-BEDROON-IPA-06</a><br>
+                              R$144,00</font></td>
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=110"><img
+src="http://www.cipolla.com.br/loja/images/mini-100_2264.JPG" border="0"
+alt=" 2-BEDROOMS-IPA-05 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=110">
+2-BEDROOMS-IPA-05</a><br>
+                              R$176,00</font></td>
+                          </tr>
+
+                          <tr> 
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=109"><img
+src="http://www.cipolla.com.br/loja/images/mini-100_2265.JPG" border="0"
+alt=" 1-BEDROOM-IPA-05 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=109">
+1-BEDROOM-IPA-05</a><br>
+                              R$176,00</font></td>
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=108"><img
+src="http://www.cipolla.com.br/loja/images/mini-100_2232.jpg" border="0"
+alt=" 2-BEDROOMS-IPA-04 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=108">
+2-BEDROOMS-IPA-04</a><br>
+                              R$200,00</font></td>
+
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=107"><img
+src="http://www.cipolla.com.br/loja/images/mini-100_2238.JPG" border="0"
+alt=" 1-BEDROOM-IPA-04 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=107">
+1-BEDROOM-IPA-04</a><br>
+                              R$200,00</font></td>
+                          </tr>
+                          <tr> 
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=106"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_2651.JPG" border="0"
+alt=" 2 BEDROONS-COPA-18 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=106">2 
+                              BEDROONS-COPA-18</a><br>
+                              R$240,00</font></td>
+
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=103"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_2676.JPG" border="0"
+alt=" 1 BEDROOM-COPA-17 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=103">1 
+                              BEDROOM-COPA-17</a><br>
+                              R$176,00</font></td>
+                            <td align="center" class="smallText" width="33%"
+valign="top"><font face="Arial, Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=100"><img
+src="http://www.cipolla.com.br/loja/images/mini-000_2503.JPG" border="0"
+alt=" BEDROOM-COPA-16 " width="100" height="80"></a><br>
+                              <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=100">
+BEDROOM-COPA-16</a><br>
+                              R$176,00</font></td>
+                          </tr>
+
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <font face="Arial, Helvetica, sans-serif"> 
+                  <!-- new_products_eof //-->
+                  </font></td>
+              </tr>
+              <!-- upcoming_products //-->
+
+              <tr> 
+                <td><font face="Arial, Helvetica, sans-serif"><br>
+                  </font> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="2">
+                    <tr> 
+                      <td class="tableHeading"><font face="Arial, Helvetica,
+sans-serif">&nbsp;Upcoming 
+                        apartments&nbsp;</font></td>
+                      <td align="right" class="tableHeading"><font
+face="Arial, Helvetica, sans-serif">&nbsp;Date 
+                        Expected&nbsp;</font></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="2"><font face="Arial, Helvetica,
+sans-serif"><img src="http://www.cipolla.com.br/loja/images/pixel_black.gif"
+border="0" alt="  " width="100%" height="1"></font></td>
+
+                    </tr>
+                    <tr> 
+                    <tr class="upcomingProducts-odd"> 
+                      <td class="smallText"><font face="Arial, Helvetica,
+sans-serif">&nbsp;<a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=85">4 
+                        BEDROOMS-COPA-03</a>&nbsp;</font></td>
+                      <td align="right" class="smallText"><font face="Arial,
+Helvetica, sans-serif">&nbsp;25/12/2004&nbsp;</font></td>
+                    </tr>
+                    <tr> 
+                      <td colspan="2"><font face="Arial, Helvetica,
+sans-serif"><img src="http://www.cipolla.com.br/loja/images/pixel_black.gif"
+border="0" alt="  " width="100%" height="1"></font></td>
+                    </tr>
+
+                  </table>
+                </td>
+              </tr>
+              <!-- upcoming_products_eof //-->
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- body_text_eof //-->
+    <td width="125" valign="top"> 
+      <table border="0" width="125" cellspacing="0" cellpadding="2">
+        <!-- right_navigation //-->
+        <!-- shopping_cart //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>List 
+                  of Reserves</b></font></td>
+
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/shopping_cart.php"><img
+src="http://www.cipolla.com.br/loja/images/infobox/arrow_right.gif"
+border="0" alt="  " width="12" height="10"></a><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+
+                    <tr> 
+                      <td class="boxText"><font face="Arial, Helvetica,
+sans-serif">0 
+                        Apartment</font></td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+        <!-- shopping_cart_eof //-->
+        <!-- best_sellers //-->
+        <!-- best_sellers_eof //-->
+        <!-- specials //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Specials</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/specials.php"><img
+src="http://www.cipolla.com.br/loja/images/infobox/arrow_right.gif"
+border="0" alt="  " width="12" height="10"></a><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" class="boxText"><font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=75"><img
+src="http://www.cipolla.com.br/loja/images/7.jpg" border="0" alt=" TOP
+FLOOR-DUPLEX IPA-2 " width="100" height="80"></a><br>
+                        <a
+href="http://www.cipolla.com.br/loja/product_info.php?products_id=75">TOP 
+                        FLOOR-DUPLEX IPA-2</a><br>
+                        <s>R$700,00</s><br>
+                        <span
+class="productSpecialPrice">R$560,00</span></font></td>
+
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+        </tr>
+        <!-- specials_eof //-->
+        <!-- reviews //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Reviews</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/reviews.php"><img
+src="http://www.cipolla.com.br/loja/images/infobox/arrow_right.gif"
+border="0" alt="  " width="12" height="10"></a><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td class="boxText"><font face="Arial, Helvetica,
+sans-serif">There 
+                        are currently no product reviews</font></td>
+
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+        </tr>
+        <!-- reviews_eof //-->
+        <!-- languages //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Languages</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" class="boxText"> <font face="Arial,
+Helvetica, sans-serif"><a
+href="http://www.cipolla.com.br/loja/default.php?language=pt"><img
+src="http://www.cipolla.com.br/loja/includes/languages/portugues/images/flag_br
+.gif" border="0" alt=" Português " width="31" height="21"></a> 
+                        <a
+href="http://www.cipolla.com.br/loja/default.php?language=en"><img
+src="http://www.cipolla.com.br/loja/includes/languages/english/images/icon.gif"
+ border="0" alt=" Inglês " width="31" height="21"></a> 
+                        <a
+href="http://www.cipolla.com.br/loja/default.php?language=es"><img
+src="http://www.cipolla.com.br/loja/includes/languages/espanol/images/flag_es.g
+if" border="0" alt=" Espanhol " width="31" height="21"></a> 
+                        </font></td>
+
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+        </tr>
+        <!-- languages_eof //-->
+        <!-- currencies //-->
+        <tr> 
+          <td> 
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/infobox/corner_right_left.gif"
+border="0" alt="  " width="11" height="14"></font></td>
+                <td width="100%" height="14" class="infoBoxHeading"><font
+face="Arial, Helvetica, sans-serif"><b>Currencies</b></font></td>
+                <td height="14" class="infoBoxHeading"><font face="Arial,
+Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt=" 
+" width="11" height="14"></font></td>
+
+              </tr>
+            </table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="1"
+class="infoBox">
+              <tr> 
+                <td> 
+                  <table border="0" width="100%" cellspacing="0"
+cellpadding="3" class="infoBoxContents">
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                    <tr> 
+                      <td class="boxText"> 
+                        <form name="currencies" method="get"
+action="http://www.cipolla.com.br/loja/default.php">
+
+                          <font face="Arial, Helvetica, sans-serif"> 
+                          <select name="currency"
+onChange="this.form.submit();">
+                            <option value="US">US$ Dollar</option>
+                            <option value="BR" SELECTED>R$ Reais</option>
+                            <option value="€">€$ Euro</option>
+                          </select>
+                          <input type="hidden" name="language" value="en">
+                          </font> 
+                        </form>
+
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td><font face="Arial, Helvetica, sans-serif"><img
+src="http://www.cipolla.com.br/loja/images/pixel_trans.gif" border="0" alt="
+1 " width="1" height="0.72222222222222"></font></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+        <!-- currencies_eof //-->
+        <!-- right_navigation_eof //-->
+      </table>
+    </td>
+  </tr>
+</table>
+<!-- body_eof //-->
+
+<!-- footer //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+  <tr class="footer">
+    <td class="footer">&nbsp;&nbsp;Thursday 16 September, 2004&nbsp;&nbsp;</td>
+    <td align="right" class="footer">&nbsp;&nbsp;23991  Friday 28 May,
+2004&nbsp;&nbsp;</td>
+
+  </tr>
+</table>
+<br>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+
+    <td align="center" class="smallText">APARTMENTT.NET - 21
+2549-9157<br>Powered By: <a href="http://www.cipolla.com.br/"> Webmaster
+Cipolla.</a>
+</td>
+  </tr>
+</table>
+
+<p><br>
+  Retire seu e-mail do nosso banco de dados no e-mail
+gcipoll@superig.com.br</p>
+<p>Remove your e-mail from our data base at gcipoll@superig.com.br</p>
+
+<p><br>
+  <!-- footer_eof //-->
+  <br>
+</p>
+</body>
+</html>

@@ -1,0 +1,180 @@
+Message-ID: <21547648.1075856642126.JavaMail.evans@thyme>
+Date: Mon, 9 Oct 2000 01:23:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: FYI: UK Var issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tanya Tamarchenko
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince, 
+UK VAR breached the limit last week.
+UK traders asked us to review the correlations across UK gas and power as 
+well as the correlations across EFA slots.
+We did part of the work last week.
+Now we'll update the correlations based on historical prices.
+
+Tanya.
+
+
+
+
+Richard Lewis
+10/08/2000 07:31 AM
+To: Tanya Tamarchenko/HOU/ECT@ECT
+cc: Oliver Gaylard/LON/ECT@ECT, James New/LON/ECT@ECT, Steven 
+Leppard/LON/ECT@ECT, Rudy Dautel/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, 
+Naveen Andrews/Corp/Enron@ENRON, David Port/Market Risk/Corp/Enron@ENRON, Ted 
+Murphy/HOU/ECT@ECT, Simon Hastings/LON/ECT@ECT, Paul D'Arcy/LON/ECT@ECT, Amir 
+Ghodsian/LON/ECT@ECT 
+Subject: Re: VaR correlation scenarios  
+
+Thanks Tanya, these are interesting results.  I am on vacation next week, so 
+here are my current thoughts.  I am contactable on my mobile if necessary.
+
+Gas to power correlations
+ I see your point about gas to power correlation only affecting VAR for the 
+combined gas and power portfolio, and this raises an interesting point:  At a 
+conservative 30% long term correlation, combined VAR is o1mm less than 
+previously expected - so how does this affect the limit breach?  Strictly 
+speaking, we are still over our UK power limit, but the limit was set when we 
+were assuming no gas power correlation and therefore a higher portfolio VAR.  
+
+A suggested way forward given the importance of the spread options to the UK 
+Gas and Power books- 
+can we allocate to the gas and power books a share of the reduction in 
+portfolio VAR  - ie [Reduction = Portfolio VAR - sum(Power VAR + Gas VAR)]?
+
+Also, if I understand your mail correctly, Matrix 1 implies 55% gas power 
+correlation is consistent with our correlation curves, and this reduces total 
+VAR by o1.8mm.
+
+EFA slot correlations
+The issue of whether our existing EFA to EFA correlation matrix is correct is 
+a separate issue.  I don't understand where the Matrix 2 EFA to EFA 
+correlations come from, but I am happy for you to run some historical 
+correlations from the forward curves (use the first 2 years, I would 
+suggest).  Our original matrix was based on historicals, but the analysis is 
+worth doing again.  Your matrix 2 results certainly indicate how important 
+these correlations are.
+
+Closing thoughts
+Friday's trading left us longer so I would not expect a limit breach on 
+Monday.  We are still reviewing the shape of the long term curve, and I'd 
+like to wait until both Simon Hastings and I are back in the office (Monday 
+week) before finalising this.
+ 
+Regards
+
+Richard
+ 
+
+
+
+Tanya Tamarchenko
+06/10/2000 22:59
+To: Oliver Gaylard/LON/ECT@ECT, Richard Lewis/LON/ECT@ECT, James 
+New/LON/ECT@ECT, Steven Leppard/LON/ECT@ECT, Rudy Dautel/HOU/ECT@ECT, Kirstee 
+Hewitt/LON/ECT@ECT, Naveen Andrews/Corp/Enron@ENRON, David Port/Market 
+Risk/Corp/Enron@ENRON, Ted Murphy/HOU/ECT@ECT
+cc:  
+
+Subject: Re: VaR correlation scenarios  
+
+Everybody,
+Oliver  sent us the VAR number for different correlations for UK-Power 
+portfolio separately from UK-Gas portfolio.
+
+First, if VAR is calculated accurately the correlation between Power and Gas 
+curves should not affect VAR number for Power and VAR number for Gas, only 
+the aggregate number will be affected. The changes you see are due to the 
+fact that we use Monte-Carlo simulation method,
+which accuracy depends on the number of simulations. Even if we don't change 
+the correlations but use different realizations of random numbers,
+we get slightly different result from the model.
+
+So: to see the effect of using different correlations between Gas and Power 
+we should look at the aggregate number.
+
+I calculated weighted correlations based on 2 curves I got from Paul. As the 
+weights along the term structure I used the product of price, position and 
+volatility for each time bucket for Gas and each of EFA slots. The results 
+are shown below:
+
+
+Inserting these numbers into the original correlation matrix produced 
+negatively definite correlation matrix, which brakes VAR engine. 
+Correlation matrix for any set of random variables is non-negative by 
+definition, and remains non-negatively definite if calculated properly based 
+on any historical data.
+Here, according to our phone discussion, we started experimenting with 
+correlations, assuming the same correlation for each EFA slot and ET Elec 
+versus Gas. I am sending you the spreadsheet which summaries the results. In 
+addition to the aggregate VAR numbers for the runs Oliver did, you can see 
+the VAR numbers based on correlation Matrix 1 and Matrix 2. In Matrix 1 the 
+correlations across EFA slots are identical to these in original matrix.
+I obtained this matrix by trial and error. Matrix 2 is produces by Naveen 
+using Finger's algorithm, it differs from original matrix across EFA slots as 
+well
+as in Power versus Gas correlations and gives higher VAR than matrix 1 does. 
+
+Concluding: we will look at the historical forward prices and try to 
+calculate historical correlations from them.
+
+Tanya.
+
+
+
+
+Oliver Gaylard
+10/06/2000 01:50 PM
+To: Richard Lewis/LON/ECT@ECT, James New/LON/ECT@ECT, Steven 
+Leppard/LON/ECT@ECT, Rudy Dautel/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, 
+Naveen Andrews/Corp/Enron@ENRON, Tanya Tamarchenko/HOU/ECT@ECT, David 
+Port/Market Risk/Corp/Enron@ENRON
+cc:  
+Subject: VaR correlation scenarios
+
+The results were as follows when changing the gas/power correlations:
+
+Correlation  VaR-UK Power book       VaR- UK Gas book
+ 0.0  o10.405MM       o3.180MM
+ 0.1  o10.134MM       o3.197MM
+ 0.2  o10.270MM       o3.185MM
+ 0.3  o10.030MM       o3.245MM
+ 0.4  Cholesky decomposition failed (Not positive definite)
+ 0.5  Cholesky decomposition failed (Not positive definite)
+ 0.6  Cholesky decomposition failed (Not positive definite)
+ 0.7  Cholesky decomposition failed (Not positive definite)
+ 0.8  Cholesky decomposition failed (Not positive definite)
+ 0.9  Cholesky decomposition failed (Not positive definite)
+ 1.0  Cholesky decomposition failed (Not positive definite)
+ 
+Peaks and off peaks were treated the same to avoid violating the matrix's 
+integrity. 
+
+Interesting to note that for a higher correlation of 0.2 the power VaR 
+increases which is counter to intuition.  This implies that we need to look 
+into how the correlations are being applied within the model. Once we can 
+derive single correlations from the term structure, is the next action to 
+understand how they are being applied and whether the model captures the P+L 
+volatility in the spread option deals.
+
+From 0.4 onwards the VaR calculation failed.
+
+Oliver
+
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+Received: from webmail.multinet.com.pk (HELO mail1.multinet.com.pk) (202.141.224.47)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:57 -0000
+From: postmaster@multinet.com.pk
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 16:01:43 +0500
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C58C4546A048CE0000012Email1.multinet.c"
+X-DSNContext: 335a7efd - 4460 - 00000001 - 80040546
+Message-ID: <C6FaGyFR300006cad@mail1.multinet.com.pk>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C58C4546A048CE0000012Email1.multinet.c
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       noumanb@multinet.com.pk
+
+
+
+
+--9B095B5ADSN=_01C58C4546A048CE0000012Email1.multinet.c
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;mail1.multinet.com.pk
+Received-From-MTA: dns;mailwisconsin.com
+Arrival-Date: Tue, 19 Jul 2005 16:01:42 +0500
+
+Final-Recipient: rfc822;noumanb@multinet.com.pk
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C58C4546A048CE0000012Email1.multinet.c
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([210.92.118.57]) by mail1.multinet.com.pk with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 19 Jul 2005 16:01:42 +0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359817;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: noumanb@multinet.com.pk
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Path: projecthoneypot@projecthoneypot.org
+X-OriginalArrivalTime: 19 Jul 2005 11:01:42.0562 (UTC) FILETIME=[3EE8F020:01C58C51]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891270">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+
+--9B095B5ADSN=_01C58C4546A048CE0000012Email1.multinet.c--

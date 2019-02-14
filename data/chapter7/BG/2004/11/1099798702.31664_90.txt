@@ -1,0 +1,104 @@
+Return-Path: <ecocomercial@ecocomercial.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10314 invoked by uid 115); 6 Nov 2004 23:48:09 -0000
+Received: from ecocomercial@ecocomercial.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(217.124.37.94):. 
+ Processed in 0.121741 secs); 06 Nov 2004 23:48:09 -0000
+Received: from 217-124-37-94.dialup.nuria.telefonica-data.net (HELO psanchez) (217.124.37.94)
+  by churchill.factcomp.com with SMTP; 6 Nov 2004 23:48:08 -0000
+From: "Ecocomercial" <ecocomercial@ecocomercial.com>
+To: bruceg@em.ca
+Subject: ¿Sabe que puede comprar en Tiffany?
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 7 Nov 2004 00:48:17
+X-Qmail-Scanner-Message-ID: <109978488967210307@churchill>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Tiffany</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="none, default">
+</head>
+
+
+
+<body>
+
+<table dir="ltr" cellSpacing="0" cellPadding="0" width="746" border="0">
+  <tr>
+    <td vAlign="top" width="24">&nbsp;</td>
+    <td vAlign="top" width="722">
+    <table cellSpacing="0" cellPadding="0" width="77%" border="0">
+      <tr>
+        <td width="20%" bgColor="#808080">&nbsp;</td>
+        <td width="20%" bgColor="#808080">&nbsp;</td>
+        <td width="20%" bgColor="#808080">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="40%" bgColor="#cbcbc9" colspan="2">
+        <font size="7" color="#808080">¿Sabe que puede comprar en Tiffany?</font></td>
+        <td width="20%" bgColor="#cbcbc9">
+        <p align="right"><font size="2">publicidad</font></td>
+      </tr>
+      <tr>
+        <td width="20%"><a href="http://ecocomercial.com"><font color="#808080">
+        <img src="http://www.ecocomercial.com/Images2/logoecpeqgris.jpg" border="0" width="233" height="60"></font></a></td>
+        <td width="20%"><font color="#808080">&nbsp;</font></td>
+        <td width="20%">&nbsp; </td>
+      </tr>
+      <tr>
+        <td align="middle" width="20%">
+        <img src="http://www.ecocomercial.com/Images2/home_flower.jpg" border="0" width="70" height="169"></td>
+        <td align="middle" width="20%">
+        <a href="http://www.tiffany.com/default.asp?popup=0&fl=1">
+        <img src="http://www.ecocomercial.com/Images4/home_tiffany_text.gif" border="0" width="217" height="29"></a></td>
+        <td align="middle" width="20%"><font color="#808080">
+        <img src="http://www.ecocomercial.com/images/category_Fragrance.gif" border="0" width="112" height="14"></font>&nbsp;<p>
+        <img alt="Wedding Presents" hspace="0" src="http://www.ecocomercial.com/images/category_Wedding_Presents.gif" border="0" width="188" height="15"></p>
+        <p>
+        <img alt="Clocks" hspace="0" src="http://www.ecocomercial.com/images/category_Clocks.gif" border="0" width="73" height="14"></p>
+        <p>
+        <img alt="Watches" hspace="0" src="http://www.ecocomercial.com/images/category_Watches.gif" border="0" width="90" height="14"></td>
+      </tr>
+      <tr>
+        <td align="middle" width="20%">
+        <img height="106" src="http://www.ecocomercial.com/Images4/home_tiffanyinvite_text_top.gif" width="315" border="0"></td>
+        <td align="middle" width="20%">
+        <img alt="Paloma Picasso" hspace="0" src="http://www.ecocomercial.com/Images4/des_picasso_hd.gif" border="0" width="183" height="60">&nbsp;</td>
+        <td align="middle" width="20%"><font color="#808080">
+        <a href="http://www.aaatchis.com/"><b><font color="#808080" size="6">
+        ¿Cómo comprar?</font></b></a></font>&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="middle" width="20%">
+        <img alt="Jewelry Expertise" hspace="0" src="http://www.ecocomercial.com/Images4/expertise_jewelryexpertise.gif" border="0" width="212" height="71">
+        </td>
+        <td align="middle" width="20%">
+        <font face="Bookman Old Style" color="#808080" size="-1">Tiffany &amp; Co. 
+        is a sumptuous emporium of classic jewelry designs and fine tabletop 
+        collections. This is the place to celebrate life's most important 
+        moments with gifts of extraordinary beauty. Here at tiffany.com you will 
+        see a few of our favorite designs. Please visit a Tiffany store to view 
+        our complete offering.</font></td>
+      </tr>
+      <tr>
+        <td align="middle" width="20%">
+        <font face="Arial Black" color="#cc3300" size="1">Si no desea recibir 
+        correo de ecocomercial envíe un correo a
+        <a href="mailto:excluir@ecocomercial.com"><font color="#CC3300">
+        excluir@ecocomercial.com</font></a></font></td>
+        <td align="middle" width="20%">
+        &nbsp;</td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html></html>

@@ -1,0 +1,87 @@
+Message-ID: <18628786.1075857036047.JavaMail.evans@thyme>
+Date: Tue, 14 Mar 2000 06:05:00 -0800 (PST)
+From: viacheslav.danilov@enron.com
+To: benjamin.parsons@enron.com, bryan.seyfried@enron.com, 
+	martin.mcdermott@enron.com, viacheslav.danilov@enron.com, 
+	stuart.ffoulkes@enron.com, eklavya.sareen@enron.com, 
+	tomas.valnek@enron.com, john.metzler@enron.com, 
+	simon.brooks@enron.com, konstantin.malinovski@enron.com, 
+	vasant.shanbhogue@enron.com, vince.kaminski@enron.com, 
+	steven.leppard@enron.com, jitendra.patel@enron.com, 
+	william.bradford@enron.com, harry.arora@enron.com
+Subject: Re: Choosing the Riskfree Rate
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Viacheslav Danilov
+X-To: Benjamin Parsons, Bryan Seyfried, Martin McDermott, Viacheslav Danilov, Stuart Ffoulkes, Eklavya Sareen, Tomas Valnek, John Metzler, Simon Brooks, Konstantin Malinovski, Vasant Shanbhogue, Vince J Kaminski, Steven Leppard, Jitendra Patel, William S Bradford, Harry Arora
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear all,
+
+I completeley agree with Ben that Treasuries are the most liquid and reliable 
+benchmarks. I also think that FMAs have their own advantages and 
+disadvantages.
+
+However, it looks like it would be very difficult for us to avoid using LIBOR 
+as benchmark - at least to price anything related to Capital Markets (for 
+example, credit default swaps) . Our prices will always be different from 
+that on Capital Markets if we use benchmarks different from the Market.
+
+As a half-way solution we can have different benchmarks - for example, use 
+anything, that we decide is closest to risk-free, to value products 
+significantly different from that priced on Capital markets,and LIBOR for 
+everything priced on Capital Markets .
+
+ We can adjust by manipulating other coefficients (event, liquidity, 
+recovery) for our purposes, but it looks like benchmark should be LIBOR.
+
+To avoid negative default probabilites (for highly rated reference entities) 
+we can add cost fo repo and haircuts (as all bankers do).
+
+Let us continue our discussion on this.
+
+Slava
+
+
+
+
+
+Benjamin Parsons
+13/03/2000 20:07
+To: Bryan Seyfried/LON/ECT@ECT, Martin McDermott/LON/ECT@ECT, Viacheslav 
+Danilov/LON/ECT@ECT, Stuart Ffoulkes/LON/ECT@ECT, Eklavya Sareen/LON/ECT@ECT, 
+Tomas Valnek/LON/ECT@ECT, John Metzler/LON/ECT@ECT, Simon Brooks/LON/ECT@ECT, 
+Konstantin Malinovski/LON/ECT@ECT
+cc: Vasant Shanbhogue/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT, Steven 
+Leppard/LON/ECT@ECT, Jitendra Patel/LON/ECT@ECT, William S 
+Bradford/HOU/ECT@ECT, Harry Arora/HOU/ECT@ECT 
+
+Subject: Choosing the Riskfree Rate
+
+Dear all,
+
+Following on from the discussions had with Vince et al a few weeks ago, 
+regarding the problems inherent in using Treasuries as our benchmark riskfree 
+curve, I've written the attached short document. My preliminary conclusions 
+are as follows:
+
+Recent turmoil in the Treasury market mostly hit 10 and 30-year bonds.
+Treasuries are still the most liquid curve, and that used by banks for 
+benchmarking risky debt.
+There is a considerable a liquidity/scarcity premium inherent within the 
+corporate-Treasury spread, which we are not taking into account. More 
+accurate measurement of this premium should allow us to calculate bankruptcy 
+prices based on Treasuries, which are consistent with the market.
+
+All further comments are welcome of course.
+
+Regards
+
+Ben
+
+
+

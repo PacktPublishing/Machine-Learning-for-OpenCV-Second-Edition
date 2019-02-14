@@ -1,0 +1,50 @@
+Message-ID: <7826392.1075856584363.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 09:35:00 -0800 (PST)
+From: stinson.gibner@enron.com
+To: paul.quilkey@enron.com
+Subject: Proj. X analytics diligence
+Cc: vince.kaminski@enron.com, gary.hickerson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, gary.hickerson@enron.com
+X-From: Stinson Gibner
+X-To: Paul Quilkey
+X-cc: Vince J Kaminski, Gary Hickerson
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Paul,
+
+Vince and I spent some time thinking about the diligence process for the 
+trading analytics.   There is a limited amount that can be accomplished in a 
+two day time period.   I think a reasonable start would be the following:
+
+1.  Obtain an audited history of the trading strategies which have been 
+implemented in order to verify profitability, and P/L volatility of each.
+2.  Review needed working capital and risk capital requirements and compare 
+these to projections for trading income.
+3.  Review current level of access to electronic markets and verify that a 
+change of ownership would not have adverse consequences, i.e. are there 
+guarantees of continued access using the current systems?
+4.  Review feasibility of entry into proposed new markets?   It is far from 
+clear that there will be any synergy with most commodity markets given the 
+current limited "electronic" liquidity.
+5.  Review, at least qualitatively, the current trading strategies being 
+used.   Try to develop some estimate of how fast the profitability of these 
+strategies will disappear as other's implement similar trading models.   What 
+is the trade off between trade quantity and slippage.
+6.  Review the methodology used to generate new trading strategies which will 
+be needed to replace the current models as they become unprofitable and 
+outdated.
+7.  Try to determine if there will be any value in transfer of trading 
+technology to Enron's other markets, given the illiquidity of these markets 
+as compared to the financial equity markets.
+
+If there were a sufficiently long time horizon for our analysis, we would 
+probably want to run their system on a test set of data.
+
+Let me know if you have other suggestions.
+
+--Stinson

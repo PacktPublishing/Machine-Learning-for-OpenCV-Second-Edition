@@ -1,0 +1,48 @@
+Message-ID: <8120214.1075856602253.JavaMail.evans@thyme>
+Date: Fri, 30 Mar 2001 08:08:00 -0800 (PST)
+From: bryan.seyfried@enron.com
+To: vince.kaminski@enron.com
+Subject: Asset Swaps vs CDS's
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bryan Seyfried
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Bryan Seyfried/LON/ECT on 30/03/2001 
+17:12 ---------------------------
+
+
+Martin McDermott
+23/03/2001 18:47
+To: John Sherriff/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT
+cc:  
+
+Subject: Asset Swaps vs CDS's
+
+John, 
+
+I haven't had much time to put something together on this issue.  
+Fundamentally both instruments represent the same credit risk, i.e. same 
+credit events and contingent payments, both represent senior unsecured credit 
+risk.  The differences in pricing therefore arise purely from supply and 
+demand.  One would expect generally that the asset swap would be lower than 
+the CDS because of liquidity:  there are only so many bonds out there, and so 
+demand for Asset swaps is limited.  I am attaching a one page note by JP 
+morgan where they claim that one of the principal reasons for the CDS to be 
+more expensive is people hedging convertible bonds by combining  (1) a call 
+option on the equity and (2) a CDS.  If the call is cheap they will be 
+willing to pay more for the CDS, driving the price up.  I'll try to 
+synthesize something more complete next week.
+
+Cheers
+
+Martin
+
+
+
+

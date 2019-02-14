@@ -1,0 +1,91 @@
+Message-ID: <10708772.1075855881727.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 11:24:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: jeffrey.gossett@enron.com
+Subject: Re: Spreadsheets and other Data
+Cc: brent.price@enron.com, steve.jackson@enron.com, sunil.dalal@enron.com, 
+	vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, steve.jackson@enron.com, sunil.dalal@enron.com, 
+	vladimir.gorny@enron.com
+X-From: Michael E Moscoso
+X-To: Jeffrey C Gossett
+X-cc: Brent A Price, Steve Jackson, Sunil Dalal, Vladimir Gorny
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Jeff,
+
+We will definitely need a lot more information related to the items below.  
+Please let me know when we can meet and discuss these.  Some of the items we 
+will need to know include:
+
+We discussed discrepancies your team noted between the spreadsheet positions 
+that are being captured and what's reported on the Gas BM report.  This is 
+causing you to manually adjust the Gas BM report.  Is this for all 
+spreadsheet positions?  Some of them?  Is the variance significant?  Is it 
+off everyday?  
+What do you mean by " All Transport Models".   Does this mean positions?  Are 
+transport positions on the Gas BM report?  Are they manual adjustments?  Are 
+they in GRMS?  Can we capture these with spreadsheets?
+What is your current methodology in preparing the Gas BM report for 
+roll-offs?  Is it currently consistent across all regions or is it handled 
+differently by different traders?  Please explain this in further detail. The 
+Basis roll-off was done in the GRMS system in the past.  Is this still the 
+case?  If not, we need to capture these roll-off adjustments using 
+spreadsheets?
+Can we make the Fixed Price Canadian Deals adjustments using spreadsheets 
+that can be captured in GRMS?
+Also, what is the status of capturing IM-Canada positions in the system?
+
+We will need this type of information urgently.  We are meeting with Jeff 
+Shankman on Tuesday to update him on the progress we are making.  
+
+Please let me know if there is anything we can do to help.
+
+Thanks,
+Mike
+
+
+   
+	Enron North America Corp.
+	
+	From:  Jeffrey C Gossett                           06/07/2000 05:26 PM
+	
+
+To: Michael E Moscoso/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, Steve Jackson/HOU/ECT@ECT, Susan 
+Harrison/HOU/ECT@ECT, Sunil Dalal/Corp/Enron@ENRON, Vladimir 
+Gorny/HOU/ECT@ECT 
+Subject: Spreadsheets and other Data
+
+Spreadsheets :
+(in Quark)
+EES_Dublin
+NG_Opt
+Pipe_Opt_date
+Storage_opt_date
+
+All Transport models:
+East 
+West
+Central
+
+Manual Adjustments:
+Spreadsheets
+Fixed Price Canadian Deals
+Roll Off
+
+Let me know if you need anything further.
+
+Thanks
+
+JG
+
+
+
+
+

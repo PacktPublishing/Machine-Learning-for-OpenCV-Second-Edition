@@ -1,0 +1,84 @@
+Received: from mail.uklinux.net (HELO s1.uklinux.net) (80.84.72.21)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:55 -0000
+Received: from localhost (localhost)
+	by s1.uklinux.net (8.11.6/8.11.6) id j6JAxrm09051;
+	Tue, 19 Jul 2005 11:59:53 +0100
+Envelope-To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 11:59:53 +0100
+From: Mail Delivery Subsystem <MAILER-DAEMON@s1.uklinux.net>
+Message-Id: <200507191059.j6JAxrm09051@s1.uklinux.net>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAxrm09051.1121770793/s1.uklinux.net"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAxrm09051.1121770793/s1.uklinux.net
+
+The original message was received at Tue, 19 Jul 2005 11:59:52 +0100
+from s3.uklinux.net [80.84.64.13]
+
+   ----- The following addresses had permanent fatal errors -----
+<sjw@exegesis.uklinux.net>
+    (reason: can't create (user) output file)
+
+   ----- Transcript of session follows -----
+procmail: Quota exceeded while writing "/var/spool/mail/exegesis"
+550 5.0.0 <sjw@exegesis.uklinux.net>... Can't create output
+
+--j6JAxrm09051.1121770793/s1.uklinux.net
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; s1.uklinux.net
+Received-From-MTA: DNS; s3.uklinux.net
+Arrival-Date: Tue, 19 Jul 2005 11:59:52 +0100
+
+Final-Recipient: RFC822; sjw@exegesis.uklinux.net
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: X-Unix; 73
+Last-Attempt-Date: Tue, 19 Jul 2005 11:59:53 +0100
+
+--j6JAxrm09051.1121770793/s1.uklinux.net
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mxbackup.uklinux.net (s3.uklinux.net [80.84.64.13])
+	by s1.uklinux.net (8.11.6/8.11.6) with ESMTP id j6JAxpm09045
+	for <sjw@exegesis.uklinux.net>; Tue, 19 Jul 2005 11:59:52 +0100
+Envelope-To: <sjw@exegesis.uklinux.net>
+Received: from mailwisconsin.com (unknown [61.98.78.230])
+	by mxbackup.uklinux.net (Postfix) with SMTP id C55D1C9A9
+	for <sjw@exegesis.uklinux.net>; Tue, 19 Jul 2005 11:59:47 +0100 (BST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360277;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: sjw@exegesis.uklinux.net
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836500">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--j6JAxrm09051.1121770793/s1.uklinux.net--
+

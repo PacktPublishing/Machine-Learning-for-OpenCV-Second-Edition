@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-arranged@em.ca
+Received: (qmail 14057 invoked by uid 115); 24 Jun 2005 20:13:54 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(81.37.199.110):. 
+ Processed in 7.253195 secs); 24 Jun 2005 20:13:54 -0000
+Received: from 110.red-81-37-199.pooles.rima-tde.net (81.37.199.110)
+  by churchill.factcomp.com with SMTP; 24 Jun 2005 20:13:45 -0000
+Received: from 156.11.78.68 by 81.37.199.110; Sat, 25 Jun 2005 00:17:17 +0300
+Message-ID: <EDQEQQNAECCQCQYOGZPVNGOFI@snowcrest.net>
+From: " " <@ccom.net>
+Reply-To: " " <@ccom.net>
+To: bait-arranged@em.ca
+Subject: 
+Date: Fri, 24 Jun 2005 17:12:17 -0400
+X-Mailer: Internet Mail Service (5.5.2650.21)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--._"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+----._
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text; charset=iso-8859-1">
+</head>
+<body><font color=FF9F9F size=1>       .</font><br>
+<table border=1 cellspacing=1 cellpadding=10 width=630 bordercolor=ffffff>
+<tr><td bgcolor=FFFBFF bordercolor=000000>
+<font color=000000 size=2 face=arial>
+<center><font color=EC0000 size=5 face=arial><b>Super CHEAAP Softwares & Shiiip to All Countries</b></font><br>We have every P0PULAR softwares u NEED!<br><font color=009700 size=3><b>You name it & we got it! </b></font></center><br>
+<b>Micros0ft Windows XP Professional</b> - <font color=1C8DFF><b>my price: $5O</b> ; </font> normal : $299.OO ; <font color=AAAA00><b>you saave $249.OO</b></font><br>
+<b>Ad0be Acrobat v6.O Professional PC</b> - <font color=1C8DFF><b>my price: $1OO</b> ; </font> normal : $449.95 ; <font color=AAAA00><b>you saave $349.95</b></font><br>& more more more softwares to choose from <br><br>
+<font color=000000 size=2>We do have full range softwares : <font size=2 color=FF9191><b>Ad0be, Alias Maya, Autodesk, Borland, Corel, Crystal Reports. Executive, File maker, Intuit, Mac, 321Studios, Macrmedia, Mc/\fee, Micros0ft. Nero, Pinnacle Systems, PowerQuest, Quark, Red Hat, Riverdeep, Roxio, Symantec, VMware Softwares </b></font> & 315 More P0PULAR titles F0R you<br><br><a href=http://www..org...economiccostsare.com target=_blank><font color=0000F4 size=5 face=arial><u><center>Checkk out 315 more popu1ar softwares on our site<br>Guaaranteed SUPER L0W PR1CE<br><br><font size=6><b>=== C|ick here to check out ===</b></font></u></font></a><br></center>
+</font>
+</td></tr></table><font color=FF9F9F size=1>   </font>
+</body>
+</html>
+
+----._--
+

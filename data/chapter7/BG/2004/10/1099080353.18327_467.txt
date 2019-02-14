@@ -1,0 +1,74 @@
+Return-Path: <dhet_1155@hotmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10500 invoked by uid 115); 28 Oct 2004 08:37:08 -0000
+Received: from dhet_1155@hotmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(203.146.237.138):. 
+ Processed in 0.104303 secs); 28 Oct 2004 08:37:08 -0000
+Received: from mail.loxinfo.co.th (HELO bufferz6.loxinfo.co.th) (203.146.237.138)
+  by churchill.factcomp.com with SMTP; 28 Oct 2004 08:37:07 -0000
+Received: from bufferz3.loxinfo.co.th (bufferz.f5.csloxinfo.com [10.20.4.33])
+	by bufferz6.loxinfo.co.th (Postfix) with ESMTP id C93EB38F497D
+	for <bruceg@em.ca>; Thu, 28 Oct 2004 09:39:10 +0700 (ICT)
+Received: from mav1.loxinfo.co.th (mav.loxinfo.co.th [203.146.237.170])
+	by bufferz3.loxinfo.co.th (Postfix) with ESMTP id A870ABA29A
+	for <bruceg@em.ca>; Thu, 28 Oct 2004 09:39:10 +0700 (ICT)
+Received: from localhost (localhost [127.0.0.1])
+	by mav1.loxinfo.co.th (Postfix) with SMTP id 383BB2058C
+	for <bruceg@em.ca>; Thu, 28 Oct 2004 09:39:10 +0700 (ICT)
+Received: from mailz3.loxinfo.co.th (mailz5.loxinfo.co.th [203.146.237.133])
+	by mav1.loxinfo.co.th (Postfix) with ESMTP id BB91C2056F
+	for <bruceg@em.ca>; Thu, 28 Oct 2004 09:39:09 +0700 (ICT)
+Received: from mail.loxinfo.co.th (p205-rasbkkSP6.C.csloxinfo.net [202.183.134.205])
+	by mailz3.loxinfo.co.th (Postfix) with SMTP id 8789AAFB77
+	for <bruceg@em.ca>; Thu, 28 Oct 2004 09:39:07 +0700 (ICT)
+Message-Id: <1098931145.890@loxinfo.co.th>
+Date: Thu, 28 Oct 2004 09:39:05 0700
+To: bruceg@em.ca
+From: "คุณวีรเดช" <dhet_1155@hotmail.com>
+Subject: แบบทดสอบความมั่นคงของชีวิต
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"; format=flowed
+
+ระบบธุรกิจสมัยใหม่ สามารถทำงานจากที่ใดก็ได้ แม้ กระทั่งที่บ้านของคุณเอง
+โดยใช้เทคโนโลยี การสื่อสารที่ ทันสมัยในปัจจุบันให้เป็นประโยชน์มากที่สุด
+ไม่ต้องลงทุนสูง ใช้สิ่งที่มีอยู่แล้วสร้างรายได้ให้กับครอบครัว และอิสรภาพ
+ในการใช้ชีวิต สามารถทำเป็น
+:   Part time 12000-30000/Month
+:   Full Time 30000-80000/Month
+
+เคล็ดลับสร้างธุรกิจสู่ความสำเร็จ
+"คนรวยมองหาโอกาสสร้างธุรกิจ
+ในขณะที่คนจนมองหางานทำ"
+Robert T. Kiyosaki
+
+E-Commerce ธุรกิจบนอินเตอร์เน็ตกำลังมาแรง
+e-commerce เป็นธุรกิจมาแรงที่สุดในยุคข้อมูลข่าวสาร 
+ทำให้เกิดมหาเศรษฐีอายุต่ำกว่า
+30 ปีเกิดขึ้นมากที่สุด ในประวัติศาสตร์ 
+เริ่มต้นได้จากคอมพิวเตอร์เพียงเครื่องเดียว
+
+ก่อนอื่นต้องขอทำความเข้าใจกันก่อนว่าเว็บของเราเป็นเพียงการให้ข้อมูลข่าวสาร
+เกี่ยวกับแนวทางในการสร้างรายได้ แนะนำอาชีพต่างๆที่กำลังมาแรง และสามารถเริ่ม
+ทำงานได้ง่าย 
+ไม่ต้องลงทุนมากไม่ต้องมีความเสี่ยงและสามารถสร้างรายได้ให้กับทุกคน
+ โดยไม่จำกัด เพศ  วุฒิการศึกษา ประสบการณ์ 
+หรือฐานะทางการเงินทุกคนสามารถเริ่มต้น
+ได้เหมือน ๆ กัน โดยเลือกงานที่เหมาะสมกับเวลาและความสามารถของแต่ละคน
+แต่เนื่องจากมีคนสนใจเข้ามาสอบถามข้อมูลเพิ่มเติมกันเป็นจำนวนมากทุกวัน
+ทำให้เราไม่สามารถส่งคำตอบที่ต้องการไปให้ได้ทัน
+ทางเว็บจึงมีนโยบายให้บริการกับผู้ที่ต้องการทำงานจริงๆ โดยเราจะพิจารณาจาก
+ผู้ที่กรอกข้อมูลครบถ้วน และตรงกับความเป็นจริงก่อน 
+จึงเรียนมาเพื่อทราบโดยทั่วกัน
+
+http://www.geocities.com/bussinesscenter01/home.html
+(หากคลิ๊กแล้ว web ไม่โชว์ สามารถ copy url ไปเปิดได้ครับ)
+
+ชีวิตคุณ คุณเลือกได้ครับ
+
+ขอแสดงความเคารพทุกท่าน
+
+ขออภัยหากข้อความนี้ถูกส่งไปยังคุณโดยบังเอิญ
+หากท่านที่ไม่ต้องการรับวารสารของเราอีกต่อไป
+กรุณาส่ง E-mail address ไปที่ unmailna@lemononline.com
+ระบบของเราจะตรวจสอบและทำการลบชื่อของท่านออกจากฐานข้อมูลของเราทันที
+

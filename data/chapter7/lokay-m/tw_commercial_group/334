@@ -1,0 +1,33 @@
+Message-ID: <4643122.1075844105933.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 08:45:00 -0800 (PST)
+From: meiling.chen@enron.com
+To: michelle.lokay@enron.com
+Subject: base differential for TW deal analysis
+Cc: kim.kouri@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kim.kouri@enron.com
+X-From: Meiling Chen
+X-To: Michelle Lokay
+X-cc: Kim Kouri
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Michelle,
+
+Our dba has loaded TW base differential to test database from revenue 
+management data base
+after Vernon added TW to his regular update.
+The spreadsheet is the latest NYMEX and base differential for 4 areas of TW 
+as of 11/28/00.
+Please take a look.  If no problem, I'll apply the same logic that I used to 
+create this spreadsheet
+to TW deal analysis program.  I'll dynamically get the latest price from the 
+table based on 
+receipt point location.
+Please let me know.
+Thanks,
+
+Mei-Ling 

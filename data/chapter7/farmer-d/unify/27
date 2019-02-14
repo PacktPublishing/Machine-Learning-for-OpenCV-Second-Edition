@@ -1,0 +1,246 @@
+Message-ID: <13238721.1075854183901.JavaMail.evans@thyme>
+Date: Wed, 5 Apr 2000 07:55:00 -0700 (PDT)
+From: mark.mcclure@enron.com
+To: donna.greif@enron.com
+Subject: Re: Sitara Release (Re: Changes in Global due to Consent to
+ Assignment)
+Cc: robert.superty@enron.com, kathryn.bussell@enron.com, robert.cotten@enron.com, 
+	gary.payne@enron.com, richard.pinion@enron.com, 
+	george.smith@enron.com, katherine.kelly@enron.com, 
+	randall.gay@enron.com, daren.farmer@enron.com, 
+	edward.terry@enron.com, bryce.baxter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, kathryn.bussell@enron.com, robert.cotten@enron.com, 
+	gary.payne@enron.com, richard.pinion@enron.com, 
+	george.smith@enron.com, katherine.kelly@enron.com, 
+	randall.gay@enron.com, daren.farmer@enron.com, 
+	edward.terry@enron.com, bryce.baxter@enron.com
+X-From: Mark McClure
+X-To: Donna Greif
+X-cc: Robert Superty, Kathryn Bussell, Robert Cotten, Gary L Payne, Richard Pinion, George Smith, Katherine L Kelly, Randall L Gay, Daren J Farmer, Edward Terry, Bryce Baxter
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Volume Management should be fine with this change. All name changes will be 
+still attached to the original path of the Buy/Sell deal. The Settlement 
+Group will have to make sure that the new name that is being added to the 
+deal has the appropriate 'Statement Group' attached.  Other than that this 
+change should flow smoothly.
+
+Thanks,
+m.m.
+
+
+   
+
+
+From:  Donna Greif                                                            
+ 04/05/2000 01:18 PM	
+	
+	
+	                           
+	
+
+To: Kathryn Bussell/HOU/ECT@ECT, Robert Cotten/HOU/ECT@ECT, Mark 
+McClure/HOU/ECT@ECT, Gary L Payne/HOU/ECT, Richard Pinion/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Katherine L Kelly/HOU/ECT@ECT, 
+Randall L Gay/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, Edward 
+Terry/HOU/ECT@ECT
+cc: Dave Nommensen/HOU/ECT@ECT, Diane E Niestrath/HOU/ECT@ECT, Carrie 
+Hollomon/HOU/ECT@ect, Bryce Baxter/HOU/ECT@ECT, Kathryn Cordes/HOU/ECT@ECT, 
+Dana Daigle/Corp/Enron@ENRON, Elizabeth L Hernandez/HOU/ECT@ECT, Julie 
+Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, Stephanie Sever/HOU/ECT@ECT, 
+Dianne J Swiber/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Dianne 
+Seib/CAL/ECT@ECT, Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, 
+Faye Ellis/HOU/ECT@ECT, Donna Consemiu/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, 
+Russ Severson/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Karie 
+Hastings/HOU/ECT@ECT, Regina Perkins/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, 
+William E Kasemervisz/HOU/ECT@ECT, Hunaid Engineer/HOU/ECT@ECT, Steven 
+Gullion/HOU/ECT@ECT, Larrissa Sharma/HOU/ECT@ECT, Thomas Engel/HOU/ECT@ECT 
+Subject: Re: Sitara Release (Re: Changes in Global due to Consent to 
+Assignment)  
+
+FYI....
+
+This change went in for the Deal Validation group.   It gives them the 
+ability to change counterparties names after bridge back.
+
+Impact to Logistics - Unify
+If a counterparty name change takes place to deals that have been bridge 
+backed, it could cause problems on EDI pipes as that new counterparty name 
+will flow over to Unify and repathing should eventually take place.
+One problem may be with the Imbalance data sets, which are not in production 
+yet......(EDI Imbalance Qtys would not match up to paths)
+This may also cause an issue with the scheduled quantities (especially where 
+nominations were sent for entire month)
+can't remember the rules on this one, but I think Unify does have some safe 
+guards (idiot proofs) to force re-pathing.
+Unify does have the ability to over-ride duns numbers, yet would still cause 
+an additional step for EDI the scheduler would need to think through in order 
+to get a clean quick response.
+What are (if any) impacts to Vol Mgt if counterparty name changes take 
+place?  (prior periods?  re-pathing?)
+
+I have a call into Diane and Dave both.  After speaking w/ them, hopefully I 
+can get a clear understanding of the true impact.  I am sure we'll need to 
+put some processes and procedures together for Deal Validation to follow when 
+these type of changes are needed.
+
+Will keep you posted.
+
+Thanks,
+
+dg
+
+
+
+   
+	
+	
+	From:  Thomas Engel                           04/05/2000 09:44 AM
+	
+
+To: Kathryn Cordes/HOU/ECT@ECT, Dana Daigle/Corp/Enron@ENRON, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT, Peggy 
+Hedstrom/CAL/ECT@ECT, Dianne Seib/CAL/ECT@ECT
+cc: Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Faye 
+Ellis/HOU/ECT@ECT, Donna Consemiu/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Russ 
+Severson/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Karie Hastings/HOU/ECT@ECT, 
+Regina Perkins/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, William E 
+Kasemervisz/HOU/ECT@ECT, Hunaid Engineer/HOU/ECT@ECT, Steven 
+Gullion/HOU/ECT@ECT, Larrissa Sharma/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT 
+Subject: Sitara Release (Re: Changes in Global due to Consent to Assignment)
+
+
+Regarding the ability to change counterparties on deals in SITARA with 
+confirmed volumes - Tom's words of caution:
+
+If someone calls you and wants to change a counterparty - we created the 
+ability for you to invalidate the deal - and 
+then change the counterparty - however - I did add a warning message:
+
+"Warning - changing counterparty on deal with confirmed volumes - make sure 
+pipeline allows this change."   
+
+Some pipelines do not allow us to change counterparties after there is 
+feedback - I assume for the same reasons
+we had this rule - it used to blow up our old scheduling systems 
+(pre-UNIFY).  Some pipelines will require a new 
+deal and we will have to zero out the old deal.
+
+Before you make the change - make sure the logistics person is aware - just 
+in case it causes problems with their
+pipeline.   Sorry - I don't know which pipes these are - you will have to ask 
+the UNIFY team.
+
+There is one rule still in place - you can change from ENA-IM East to ENA-IM 
+Market East - but not from 
+ENA-IM Texas to HPLC-IM HPLC - when changing business units - they must be 
+the same legal entity. 
+"Warning - not the same legal entity"
+
+Also - beware of making contract and counterparty changes to Service deals 
+(Transport Capacity, Storage, Cash Out).
+Once the deal is invalidated - there are no rules.  Don't forget - the items 
+were locked down for a reason.
+ If you invalidate a service deal - and change the previously locked down 
+data that was validated - and someone used these
+deals in UNIFY - it is highly likely that the UNIFY deals and paths created 
+using these deals will get corrupted.  Always check 
+with someone from UNIFY to make sure no one used these deals for anything in 
+UNIFY.
+
+
+
+
+
+---------------------- Forwarded by Thomas Engel/HOU/ECT on 04/05/2000 09:47 
+AM ---------------------------
+From: Scott Mills on 04/04/2000 07:38 PM
+To: Kathryn Cordes/HOU/ECT@ECT, Dana Daigle/Corp/Enron@ENRON, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT
+cc: Steve Jackson/HOU/ECT@ECT, Thomas Engel/HOU/ECT@ECT, Sylvia A 
+Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Faye Ellis/HOU/ECT@ECT, Donna 
+Consemiu/HOU/ECT@ECT 
+Subject: Sitara Release (Re: Changes in Global due to Consent to Assignment)  
+
+With the release that was put out Tuesday evening, Deal Validation should be 
+able to change the counterparty on deals where the volume is something other 
+than expected (e.g. confirmed, nominated, scheduled, etc.).  
+
+In addition, this release will also capture "near-time" the contract changes 
+that are made in global.  This means that need for server bounces will not be 
+necessary.
+
+ New/Changes to contracts will show up without having to get out of deal 
+manager.
+ New Counterparties, and new/changes to facilities will require getting out 
+of all active Sitara apps (except for launch pad).  
+  Once out of all apps, start a new app - the respective information that you 
+are looking for will appear.
+
+I mention "near-time" because we are constrained by the amount of time it 
+takes for the change in Global data to trigger an alert for Sitara who then 
+updates its information
+
+SRM (x33548)
+
+
+
+
+
+Cyndie Balfour-Flanagan@ENRON
+04/04/2000 03:41 PM
+To: Connie Sutton/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Kathryn 
+Cordes/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Richard Elwood/HOU/ECT@ECT, Dave 
+Nommensen/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Dana 
+Daigle/Corp/Enron@ENRON, Kathryn Cordes/HOU/ECT@ECT, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT, Gayle 
+Horn/Corp/Enron@ENRON, Brant Reves/HOU/ECT@ECT, Russell Diamond/HOU/ECT@ECT, 
+Debbie R Brackett/HOU/ECT@ECT, Steve Jackson/HOU/ECT@ECT
+cc:  
+Subject: Changes in Global due to Consent to Assignment
+
+The following changes will be made in the Global Contracts database due to 
+receipt of executed Consent to Assignment for the following contracts:
+
+Current Counterparty Name   Contract Type  Contract #   'New' Counterparty 
+Name
+CES - Commonwealth Energy Services  GISB   96029892  Commonwealth Energy 
+Services
+
+CES - Samuel Gary Jr. & Associates, Inc  GISB   96029302  Samuel Gary Jr. & 
+Associates
+
+CES - South Jersey Gas Company  GISB   96029143  South Jersey Gas Company
+
+CP name change and Contract Type correction (Contract Type different than 
+that provided by CES)
+Per CES
+CES - Southwest Gas Corporation  1/1/98 GISB  96029146
+
+Per Contract File
+CES - Southwest Gas Corporation  04/14/93 Master Purchase/Sale Interruptible 
+(will edit Global #96029146)
+&
+CES - Southwest Gas Corporation  12/01/94 Master Sale Firm   (created new 
+Global record to accommodate this K, #96037402)
+
+Please note that Southwest Gas Corporation has consented to the assignment of 
+both of these contracts.
+
+
+
+
+
+
+
+
+
+

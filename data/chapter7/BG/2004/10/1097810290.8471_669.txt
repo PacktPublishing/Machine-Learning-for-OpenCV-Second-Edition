@@ -1,0 +1,215 @@
+Return-Path: <service@thailandehotel.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 19436 invoked from network); 15 Oct 2004 03:13:14 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 15 Oct 2004 03:13:14 -0000
+Received: (qmail 11922 invoked from network); 15 Oct 2004 03:13:14 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx03.futurequest.net ([69.5.6.174])
+  with QMQP via TCP; 15 Oct 2004 03:13:14 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 19404 invoked from network); 15 Oct 2004 03:13:13 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 15 Oct 2004 03:13:13 -0000
+Received: (qmail 818 invoked from network); 15 Oct 2004 03:13:13 -0000
+Received: from nextleve2 (ppp-61.90.23.218.revip.asianet.co.th [61.90.23.218])
+  by mx06.futurequest.net ([69.5.6.177])
+  with SMTP via TCP; 15 Oct 2004 03:13:11 -0000
+From: "ThailandEhotel.com" <service@thailandehotel.com>
+To: <webmaster@ezmlm.org>
+Subject: Newsletter, October 04
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 15 Oct 2004 10:13:15
+Content-Length: 15115
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>ThailandEhotel news September 2004</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+</head>
+
+<body >
+<table width="656" align="center" bgcolor="">
+<tr height="30">
+	<td height="65" colspan="2" align="center" bordercolor="#6633FF" ><a href="http://www.thailandehotel.com"><img src="http://www.thailandehotel.com/news/news_heading.jpg" width="650" height="56" border="0"></a></td>
+</tr>
+
+  <tr height="60" > 
+				  <td width="348" height="137" bgcolor="#FFFFCC" align="left" valign="top">					<font face="AngsanaUPC" size="+3" color="#333399"><em><strong>Thailand E hotel.com</strong></em></font><br>
+				        <b><font  color="#0033CC" size="-1">1220/64 Sathupadit Rd. Bangklo Bangkorlarm Bangkok 10120 <br>
+			          </font></b><font  color="#0033CC" size="-1"><strong>Tel. 662-674-8182 to 3  Fax. 662-212-4696</strong><b><br>
+			          www.thailandehotel.com  <br>E-mail: sale@thailandehotel.com </b></font> 
+					<table>
+										<tr bgcolor="#000099">
+												<td height="47" colspan="2" align="center" ><font face="AngsanaUPC" color="#FFFF99" size="+2"><b><em>Hot Package &amp; Promotion</em></b></font></td>
+	    </tr>
+										<tr>
+											<td width="127" height="70" ><a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470077&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><img src="http://www.thailandehotel.com/news/october_04/hot%20package/ariel_cruise.jpg" width="124" height="115"></a></td>
+											<td width="266" bgcolor="#66CCFF">											  <div align="center"> <a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470077&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><font size="-1"><strong>PATTAYA Package
+										      ariel cruise</strong></font></a><font size="-1"><br>
+											  1 Days 1 Night on boat<br>Only <strong><font color="#FF0000">6,800</font></strong> Baht <br>
+											  Great fishing activity <br>
+											  up to 15 persons </div>
+											  </td>
+		  </tr>
+										<tr>
+										  <td height="70" ><a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470058&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004">
+										  <img src="http://www.thailandehotel.com/news/october_04/hot package/chao_pharaya_cruise.jpg" width="124" height="120"></a></td>
+										  <td bgcolor="#66CCCC"> <p align="center"><strong><a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470058&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004">
+										  <font size="-1">Bangokok promotion</font></a><font size="-1"><a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470058&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><br>
+									              Buffet Dinner Cruise</a></font></strong><font size="-1"><a href="http://www.thailandehotel.com/package.php?package_id=PK470073"><strong> </strong></a> <br>
+									    1 hour and 15 minutes and 2 hours trip with your chouseable choice  <br> 
+									    <font color="#FF0000"><strong>790</strong></font> Baht <br> 
+									    (Price for per person)
+                                          </font>										    
+									      <p align="center"></td>
+	    </tr>
+										<tr>
+										  <td height="70"><a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470074&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><img src="http://www.thailandehotel.com/news/october_04/hot package/grand_pearl.jpg" width="120" height="100"></a></td>
+										  <td bgcolor="#66FFFF"><div align="center"><strong><a href="http://www.thailandehotel.com/promotion.php?promotion_id=PM470074&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><font size="-1">Bangkok - Ayutthaya Tour & Buffet Lunch on Grand Pearl Cruise
+										</font></a></strong> <font size="-1"><br> 
+										  Full day trip <font color="#FF0000"><strong>1,500</strong></font> Baht  <br>
+										  (10 persons up price at 1,400 Baht)&nbsp;</font></div></td>
+									  </tr>
+										<tr>
+										  <td height="70"><a href="http://www.thailandehotel.com/package.php?package_id=PK470215&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><img src="http://www.thailandehotel.com/news/october_04/hot package/sukorn_cabana_3_days_2_nights.jpg" width="120" height="100"></a></td>
+										  <td bgcolor="#66FFCC"><div align="center"><strong><a href="http://www.thailandehotel.com/package.php?package_id=PK470215&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004">
+										  				<font size="-1">Sukorn cabana  <br>At Koh Sukorn  Trang province</font></a></strong> <font size="-1"><br> 
+			  3 Days 2 Nights Start at <font color="#FF0000"><strong>3,700</strong></font> Baht <br>
+			 Only 3,000 Baht  at 8 persons</font></div></td>
+									  </tr>
+										<tr>
+										  <td height="70"><a href="http://www.thailandehotel.com/package.php?package_id=PK470047&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><img src="http://www.thailandehotel.com/news/october_04/hot package/taru_taw.jpg" width="120" height="100"></a></td>
+										  <td bgcolor="#66FFCC"><div align="center"><strong><a href="http://www.thailandehotel.com/package.php?package_id=PK470047&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><font size="-1">Satun, TarutaoTour Package 
+										  </font></a></strong> <font size="-1"><br> 
+			  8 Days 7 Nights <font color="#FF0000"><strong>1,275</strong></font> US<br>
+			For long holiday with deep impressive</font></div></td>
+					  </tr>
+										<tr>
+										  <td height="70"><a href="http://www.thailandehotel.com/package.php?package_id=PK470217&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><img src="http://www.thailandehotel.com/news/october_04/hot package/tee_raw_su.jpg" width="120" height="100"></a></td>
+										  <td bgcolor="#66FFCC"><div align="center"><strong><a href="http://www.thailandehotel.com/package.php?package_id=PK470217&day_begin=&month_begin=1&year_begin=2004&day_end=&month_end=1&year_end=2004"><font size="-1">Tak Longkang Tee Lor Su Waterfall 
+										  </font></a></strong> <font size="-1"><br> 
+			  3 Days 2 Nights Start from<font color="#FF0000"><strong> 2,000</strong></font> Baht<br>
+			  	This package is suitable for <br>10 persons group</font></div></td>
+					  </tr>
+										<tr>
+										  
+					
+</tr>
+	</table>	<br>
+	&nbsp; &nbsp;&nbsp;<img src="http://www.thailandehotel.com/news/october_04/event/vegetarian_festival_phuket.jpg"><br>
+    <strong>Phuket Vegetarian Festival	</strong>
+				  <td width="296" bgcolor="#FFFFCC" align="center" valign="top">
+									<table>
+									<tr bgcolor="#000099">
+									<td colspan="2" align="center"><strong><font face="AngsanaUPC" color="#FFFF99" size="+2"><em>Hotel Guide</em></font></strong></td>
+									</tr>
+											<tr>
+													<td height="100" width="98"><strong><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470776&region=south&province_id=34"><img src="http://www.thailandehotel.com/news/october_04/hotel guide/khaolak.jpg" height="81" width="94"></a></strong></td>
+											  <td width="182" bgcolor="#D5FCCF" align="center"><strong><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470776&region=south&province_id=34"><font face="AngsanaUPC" size="+2">Khaolak Resort</font></a></strong> <br>
+											    <strong>Special <font color="#FF0000">1,600</font> Baht.</strong> </td>
+									  </tr>
+											<tr>
+											  <td height="100"><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470913&region=central&province_id=2"><img src="http://www.thailandehotel.com/news/october_04/hotel guide/metropilitand.jpg" width="94" height="81"></a></td>
+											  <td  bgcolor="#D5FCCF" align="center"><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470913&region=central&province_id=2"><font face="AngsanaUPC" size="+2"><strong>Metropolitan</strong></font></a><br>
+										        <strong>Special <font color="#FF0000">115 ++</font> US.</strong></td>
+											  
+									  </tr>
+											<tr>
+											  <td height="100"><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470951&region=east&province_id=77"><img src="http://www.thailandehotel.com/news/october_04/hotel guide/sabai_lodge.jpg"  width="94" height="84"></a></td>
+											  <td  bgcolor="#D5FCCF" align="center"><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470951&region=east&province_id=77"><font size="+2" face="AngsanaUPC"><strong>Sabai lodge</strong> </font></a><br>   
+										        <strong>Special <font color="#FF0000">1,100</font> Baht.</strong> </td>
+									  </tr>
+											<tr>
+											  <td height="100"><strong><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470850&region=south&province_id=41"><img src="http://www.thailandehotel.com/news/october_04/hotel guide/tonsai retreat.jpg" width="94" height="84"></a></strong></td>
+											  <td  bgcolor="#D5FCCF" align="center"><strong><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470850&region=south&province_id=41"><font size="+2" face="AngsanaUPC">Tonsai Retreat</font></a><br>
+											  Special <font color="#FF0000">3,600</font> Baht.</strong></td>
+									  </tr>
+											<tr>
+											  <td height="100"><strong><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470483&region=central&province_id=2">
+											  <img src="http://www.thailandehotel.com/news/october_04/hotel guide/trinity silom.jpg" width="94" height="84"></a>
+											  </strong></td>
+											  <td  bgcolor="#D5FCCF" align="center"><strong><a href="http://www.thailandehotel.com/h_detail.php?hotel_id=HT470483&region=central&province_id=2">
+											  <font size="+2" face="AngsanaUPC">Trinity Silom</font></a><br>Special <font color="#FF0000">1,200</font> Baht.
+										      </strong></td>
+									  </tr>
+						</table>					
+						<table width="281">
+							<tr>
+							  <td width="281" align="center"><strong><font face="AngsanaUPC" color="#6699FF"  size="+2"><em> Special Event</em></font> <br>
+						<font size="-1">Phuket Vegetarian Festival <br>
+				-- Oct 13 2004 - Oct 22 2004 -- <br>
+                <em>Venue</em> : Phuket Province<br>
+                <em>Region</em> : Lower South 
+								</strong></td>
+							</tr>
+	  </table>
+						
+						
+						    <div align="justify">
+						      <p><strong><font face="Times New Roman, Times, serif"size="-1"><em>Description</em> : The festival will take place at many spirit houses around Phuket, 
+        the biggest island of the country. Devoted Buddhists will refrain from eating meat products and some vegetables 
+        for 9 days during the festival. Other activities include the rite to welcome all nine planetary saints, parade, procession 
+        of Chinese gods image and many jaw-dropping stunts believed to be inspired by gods. 
+        
+</font></strong></p>
+						      <p><strong><font face="Times New Roman, Times, serif"size="-1"><em>10 Rules for the Vegetarian Festival</em></font></strong></p>
+						      <p><strong><font face="Times New Roman, Times, serif"size="-1">				              1. Cleanliness of bodies during the festival <br>
+				              2. Clean kitchen utensils and to use them seperately from other who do not join the festival <br>
+				              3. Wear white during the festival <br>
+				              4. Behave physically and mentally <br>
+				              5. No meat eating <br>
+				              6. No sex <br>
+				              7. No alcoholic drinks <br>
+				              8. People at mourning period should not attend the festival <br>
+				              9. Pragnant ladies should not watch any ritual <br>
+				              10. Ladies with period should not attend the ritual </font></strong></p>
+						      <p><strong><font face="Times New Roman, Times, serif"size="-1">		                      <em> -- News By TAT</em> -- </font></strong></p>
+       </div>
+	</tr>
+		  <tr bgcolor="#FFCCCC">
+		  			<td height="65" colspan="2"><strong><img src="http://www.thailandehotel.com/news/news_specialevent.jpg" width="650" height="65"></strong></td>
+  </tr>
+					<tr></tr>
+				  <tr bgcolor="#FFCC66">
+				    <td height="16" colspan="2" >     
+							<table>
+									<tr>
+									  <td width="636" bordercolor="#FFFFFF">
+											 <div align="justify">
+											   <p align="center"><strong><img src="http://www.thailandehotel.com/news/october_04/event/wax_castle.jpg" border="0" hspace="10" vspace="10" align="left" width="200" height="139">Wax Castle Procession and Long Boat Race -- Oct 22 2004 - Oct 28 2004
+--  </strong></p>
+											   <p align="center"><strong><em>Venue</em> : Wat Phratat Choengchum Woramahawihan, Sakhon Nakhon Province 
+				         </strong></p>
+											   <p align="center"><strong><em>Region</em> : Upper Northeastern 
+      </strong></p>
+											   <p><em><strong>Description</strong></em> :<font face="Times New Roman, Times, serif"><b> Thais, especially in Sakon Nakhon, gather to join this annual wax castle festival that has been handed down for years. 
+          This annual festival will be celebrated with the grand procession of the meticulously carved wax castle and the long boat race.
+          On the last day of the festival, which is concurrently the end of the Buddhist Lent, there will be the alms-offering to monks. 
+        The tradition of molding the wax castle itself is a long heritage intending to make the merit for the late ancestors, to symbolize 
+          the ideal dwelling place both in the terrestrial and celestial world and to teach people to be happy to donate. 
+        During this festival, local people will divide up into community groups comprising of folk people, governmental officials,
+          and merchants. They will donate money according to each own enthusiasm in the Buddhism to build up the wax castles. 
+          The wax castle itself symbolizes the ideal spiritual residence where ardent Buddhists want as their final destination.
+          To reach this heavenly living place, Buddhists are required to be zealous and energetic in the merit-making.</b></font></p>
+											   <p><strong><br>
+                                               <em> -- News By TAT -- </em></strong></p>
+											 </div></td>
+									</tr>
+							</table>               
+  </tr>               
+ <tr>
+                  <td height="16" colspan="2" bgcolor="#6600FF" align="right">
+				  <strong><font color="#FFFFFF">Copy Right  by Next Level Company Limited  </font><br>
+				  <font color="#FFFFFF" size="-1">If the image does not show, please click displayed HTML graphic at the bottom of this page</font>
+				  </strong></td>
+  </tr>
+			
+</table>
+</body>
+</html>

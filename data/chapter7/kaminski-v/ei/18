@@ -1,0 +1,34 @@
+Message-ID: <6085910.1075856605780.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 09:31:00 -0800 (PST)
+From: sandeep.kohli@enron.com
+Subject: Henwood & PSIM
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sandeep Kohli
+X-To: Stinson Gibner@ECT, Vince J Kaminski@ECT
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson/Vince,
+
+The Henwood runs for Dabhol are, at least temporarily, over.  However, the 
+main modeller for Henwood (David Yumigada) works out of their California 
+office.
+
+It maybe worth our while to have him come and demonstrate the runs, and 
+explain the modelling algorithm to the larger group.
+
+In aparticular, now that I am going through some of the comments people have 
+raised on the PSIM model, I think there is value in understanding the way 
+Henwood deals with Hot and Cold Starts, ramp up costs, and with issues of 
+cycling plants.
+
+I think understanding these will help in developing the next version of the 
+PSIM, and will also give the group here ideas to build into existing models.  
+This is a suggestion, and so please let me know if you see value in this.
+
+Regards,
+Sandeep.

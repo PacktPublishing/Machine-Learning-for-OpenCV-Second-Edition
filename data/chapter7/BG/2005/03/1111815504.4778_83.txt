@@ -1,0 +1,57 @@
+Return-Path: <Jason.Harding@Address.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26628 invoked by uid 115); 24 Mar 2005 21:15:01 -0000
+Received: from Jason.Harding@Address.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(203.68.58.96):. 
+ Processed in 0.115929 secs); 24 Mar 2005 21:15:01 -0000
+Received: from 203-68-58-96.im.vnu.edu.tw (203.68.58.96)
+  by churchill.factcomp.com with SMTP; 24 Mar 2005 21:15:00 -0000
+Return-Path: <EmilyvnGalindovn@canoemail.com>
+X-Original-To: bruceg@em.ca
+Delivered-To: bruceg@em.ca
+Received: from server1.flashmail.com  (mail.flashmail.com  [216.239.161.152])
+	by fep2.canoemail.com (Postfix) with ESMTP id A025C5239
+	for <bruceg@em.ca>; Thu, 24 Mar 2005 16:20:02 -0500 (EDT)
+Received: from nobody by canoemail.com with local (Exim 4.80)
+	id 1C1rjW-8948oD-My
+	for <bruceg@em.ca>; Thu, 24 Mar 2005 23:22:02 +0200
+To: bruceg@em.ca
+Subject: You have a new private message waiting
+From: "Emily Galindo" <EmilyvnGalindovn@canoemail.com>
+Message-ID: <947218280982.7eb1e5740640@canoemail.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+Date: Fri, 25 Mar 2005 01:18:02 +0400
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.canoemail.com
+X-AntiAbuse: Original Domain - bolt.com
+X-AntiAbuse: Originator/Caller UID/GID - [09 95] / [04 12]
+X-AntiAbuse: Sender Address Domain - canoemail.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+
+Thank you very much for your mortgage refinance
+application.
+
+The company that best suited your needs is requesting 
+applicant verification in order to process your claim.
+
+(COMPANY ID:Y-455)
+
+http://psallay.ok-mrt-yes.com/refimort.asp
+
+Thanks,
+Emily Galindo
+Broker (O-966-304)
+
+
+If this message doesn't concern you, please
+remove yourself from our records.
+
+http://rbelmsford.ok-mrt-yes.com/gone.asp

@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 2896 invoked from network); 20 Apr 2005 23:38:26 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 20 Apr 2005 23:38:26 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 20 Apr 2005 23:38:26 -0000
+Received: (qmail 11161 invoked from network); 20 Apr 2005 23:38:26 -0000
+Received: from yahoo.co.uk (unknown [82.155.144.140])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 20 Apr 2005 23:38:25 -0000
+Date: Thu, 21 Apr 2005 00:12:09 +0000 (Hora padrão de GMT)
+From: FEMALE djs <femaledjs@yahoo.co.uk>
+To: cvs@bruce-guenter.dyndns.org
+Message-ID: 38463.008437500001_29499186685512
+Subject: Justin d' Avila [summer open dates]
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+Content-Length: 3238
+Lines: 60
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Justin d'Avila</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#CCCCCC" text="#000000" link="#003399" vlink="#003399" alink="#003399">
+<table width="420" border="0" align="center" cellspacing="10" bgcolor="#FFFFFF">
+  <tr>
+    <td><img src="http://p001.no.sapo.pt/justin/top_2.jpg" width="400" height="267" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><table width="100%"  border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td><p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">              <br />
+              Justin d'Avila stepped into the djing world on her 19th birthday, playing and spinning for her friends. Shortly after, she played at Pacha marking the start of her djing career.<br />
+  Since then, she's played at some renowned events such as Bass Station, Pool &amp; Dance, Dance Energie, amoung others.<br />
+          Her sets are filled with great deep house grooves flavoured occasionally with some progressive and tribal beats.</font></p>
+          <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">She takes as a personal dj reference, Tom Stephan aka Superchumbo, because his beats and vocals make the crowds dance! Justin, now 23 years old, feels the urge to conquest the dance music scene while jumping between her live performances and her studio work. So be prepared to hear more from this talented dj/producer in the near future!<br />
+            <br />
+          </font></p></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><div align="center">      
+      <p><font color="#666666" size="5" face="Arial, Helvetica, sans-serif"><strong>Available  for booking</strong></font><font face="Verdana, Arial, Helvetica, sans-serif"><br />
+            <strong><font size="3" face="Arial, Helvetica, sans-serif">June, July, August and September<br />
+            <a href="mailto:booking@female-djs.net">booking@female-djs.net</a>        </font></strong></font></p>
+      </div></td>
+  </tr>
+  <tr>
+    <td><table  border="0" align="center" cellpadding="2" cellspacing="20">
+      <tr>
+        <td align="left" bgcolor="#EEEEEE"><img src="http://p001.no.sapo.pt/justin/small1.jpg" width="150" height="225" border="0" /></td>
+        <td align="right" bgcolor="#EEEEEE"><img src="http://p001.no.sapo.pt/justin/small2.jpg" width="150" height="225" border="0" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F2F2F2"><div align="center"><font color="#CCCCCC" size="1" face="Arial, Helvetica, sans-serif">Your email has been listed in our </font><font color="#CCCCCC" size="1" face="Arial, Helvetica, sans-serif"> Female Djs database.<br />
+  If you want to opt-out of this list, please reply to remove@female-djs.net</font></div></td>
+  </tr>
+</table>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--

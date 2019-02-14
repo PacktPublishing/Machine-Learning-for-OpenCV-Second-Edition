@@ -1,0 +1,56 @@
+Received: from smtp.lcn.biz (HELO smtp1.lcn.com) (195.82.107.155)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:11 -0000
+Received: from mailnull by smtp1.lcn.com with local (Exim 4.51 (FreeBSD))
+	id 1Dupnf-0005CK-9p
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 11:58:11 +0100
+X-Failed-Recipients: info@tittyhillstudio.com
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@smtp1.lcn.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupnf-0005CK-9p@smtp1.lcn.com>
+Date: Tue, 19 Jul 2005 11:58:11 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@tittyhillstudio.com
+    SMTP error from remote mail server after RCPT TO:<info@tittyhillstudio.com>:
+    host www.tittyhillstudio.com [83.244.130.13]:
+    550 relay not permitted
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from catv-219-099-025-107.medias.ne.jp ([219.99.25.107] helo=mailwisconsin.com)
+	by smtp1.lcn.com with smtp (Exim 4.51 (FreeBSD))
+	id 1Dupne-0005CE-FT
+	for info@tittyhillstudio.com; Tue, 19 Jul 2005 11:58:11 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815633;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@tittyhillstudio.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279388">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

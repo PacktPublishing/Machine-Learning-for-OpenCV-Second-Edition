@@ -1,0 +1,69 @@
+Return-Path: <caqsklsleg@msa.hinet.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 21273 invoked by uid 115); 3 Apr 2005 21:47:25 -0000
+Received: from caqsklsleg@msa.hinet.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(213.74.252.108):. 
+ Processed in 0.132371 secs); 03 Apr 2005 21:47:25 -0000
+Received: from eu108.st252-net74.ip.superonlinecorporate.com (HELO webshielde250.penguen) (213.74.252.108)
+  by churchill.factcomp.com with SMTP; 3 Apr 2005 21:47:24 -0000
+Received: from nodnsquery(200.30.105.115) by webshielde250.penguen via csmap 
+	 id b6a92c9e_a48c_11d9_8c4b_0002b3ca88ab_13152;
+	Mon, 04 Apr 2005 01:07:21 +0300 (EEST)
+Received: from 102.174.64.192 by 200.30.105.115; Mon, 04 Apr 2005 00:54:41 +0300
+Received: (qmail 26624 invoked from network); Mon, 04 Apr 2005 01:51:41 +0400 -0000
+Received: from unknown (HELO W§d³Í¦w.com.tw) ([95.18.63.92]) (envelope-sender <bzgvbru@msa.hinet.net>)
+          by 0 (qmail-ldap-1.03) with SMTP
+          for <dcnew@yam.com>; Sun, 03 Apr 2005 14:50:41 -0700 -0000
+Received: (qmail 4706 invoked from network); Sun, 03 Apr 2005 16:50:41 -0500 -0000
+Received: from unknown (HELO ms1.url.com.tw) ([200.218.47.204]) (envelope-sender <¶ÀªQ­ëO@doya.url.com.tw>)
+          by fDcnew.com.tw (qmail-ldap-1.03) with SMTP
+          for <dcnew@yam.com>; Sun, 03 Apr 2005 16:53:41 -0500 +0800
+Message-ID: <CFETQMNCRXLINDASIZFXXFORY@doya.url.com.tw>
+From: "¶ÀªQ­ë" <kndwj@msa.hinet.net>
+Reply-To: "¶ÀªQ­ë" <trdsztdf@msa.hinet.net>
+To: dcnew@yam.com
+Subject: ¡E¦o§â³±®B¥¶¶}Åý§A¬ÝùØ­±~~~ 
+Date: Sun, 03 Apr 2005 18:47:41 -0300
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--81582650585655112514"
+X-Priority: 1
+X-MSMail-Priority: High
+X-EM-Registration: #01305001105800006300
+
+----81582650585655112514
+Content-Type: text/html;
+  charset="utf-8"
+Content-Transfer-Encoding: base64
+X-NAIMIME-Modified: 1
+
+PGh0bWw+Cgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVu
+dD0iemgtdHciPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQv
+aHRtbDsgY2hhcnNldD1iaWc1Ij4KPG1ldGEgbmFtZT0iR0VORVJBVE9SIiBjb250ZW50PSJNaWNy
+b3NvZnQgRnJvbnRQYWdlIDUuMCI+CjxtZXRhIG5hbWU9IlByb2dJZCIgY29udGVudD0iRnJvbnRQ
+YWdlLkVkaXRvci5Eb2N1bWVudCI+Cjx0aXRsZT7Cu1DCpMOpwqXCu8KmUMKzwqHCp8OzwrdzPC90
+aXRsZT4KPC9oZWFkPgoKPGJvZHkgYmdjb2xvcj0iI0ZGRkZGRiIgbGluaz0iIzAwMDAwMCIgdmxp
+bms9IiMwMDAwMDAiPgo8cCBhbGlnbj0iY2VudGVyIj48Zm9udCBzaXplPSIyIj48YSBocmVmPSJo
+dHRwOi8vd3d3LmF2LWRheS5jb20vIiANCnRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAg
+IA0Kwq9Twq7DrcK1TMK9WFZDRMKhQcKvU8K7w7k2MMKkwrjCsF/CoUHCplXCpsKhwrrDmMODw77C
+r1PCrsOtwrVMwr1Ywrx2wqTDuSANCsKhQcOAwrPCpsKzwrrDicKmwrPCoUHDhXfCqsOvwqtlwqjD
+k8Kww5HDhlvCv8Ovw4HDijwvYT48L2ZvbnQ+PC9wPgo8cCBhbGlnbj0iY2VudGVyIj48Zm9udCBz
+aXplPSIyIj48YSBocmVmPSJodHRwOi8vcXFnaXJsLmdnLWR2ZC5jb20vIiANCnRhcmdldD0iX2Js
+YW5rIj7Cu1DCpMOpwqXCu8KmUMKzwqHCp8OzwrdzwqFBwqZVwqbCocKwwqrCtWXCvcOowrVMwr1Y
+RFZEwqEgDQpBwqdDwrvDucKlWMKyTcKhQcKoQ8Kkw7nCrMOSwqbCs8K6w6vCrMO8wqXDmMK/w73C
+pWnCqMORwrl3w4TDvcKsRMK/w688L2E+IA0KPC9mb250PjwvcD4KPHAgYWxpZ249ImNlbnRlciI+
+PGZvbnQgc2l6ZT0iMiI+PGEgDQpocmVmPSJodHRwOi8vMjA4LjM3LjMxLjE4L2NnaS1iaW4vaW5k
+ZXguY2dpP0lEPXFxZ2lybCIgDQp0YXJnZXQ9Il9ibGFuayI+wrzDmsKsw7zCrcOswrjDi8Klwq3C
+psOmwr/DqcKkSsKhQcKrw4LCpsOTwq3DqMKhQcK1UsKkT8KkIA0KaMKhQcKnQ8K7w7nCqMORw4DC
+s8KhQcKrT8ODw5LCpsKzwq7DhMKhQcK9dcKkV8KtccOBw4rDgcO0wrFLwqFBwqZ3wqXDvjwvYSAN
+Cj48L2ZvbnQ+PC9wPgo8cCBhbGlnbj0iY2VudGVyIj4KICAgICAgICA8YSANCmhyZWY9Imh0dHA6
+Ly93d3cucHMyMDA0LmNvbS9zaG9wL2luZGV4LnBocD9pZD1raW5nIj7CpcO+wqV4wrPDjMK3c8Kz
+w4zCu8O0IA0KwqXDviDCosOewqLDocKiwrHCoULCosOmwqLDkMKiw53CosOmCiAgICAgICAgwrPD
+hsKlw7fCpcO6wrrDkMK6w7QhwqtPw4PDksOFw73CsXrDgcOIwqjDrMKuYSEhPC9hPjwvcD4KCgo8
+RElWPjxQPjxIUj4KQnUgbWFpbCB2aXJ1cyB0YXJhbWFzJiMzMDU7bmRhbiBnZWNtaXN0aXIuLi4g
+UEVOR1VFTiBHSURBIFNBTkFZSSBBLlMKPC9QPjwvRElWPgo8L2JvZHk+Cgo8L2h0bWw+Cg==
+
+----81582650585655112514--
+
+

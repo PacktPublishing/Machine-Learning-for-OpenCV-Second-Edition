@@ -1,0 +1,77 @@
+Message-ID: <11619349.1075849854107.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 09:21:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: sally.beck@enron.com
+Subject: Single deal entry
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Funny...This did not get mentioned in our meeting with Dave.
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 03/12/2001 
+05:19 PM ---------------------------
+From: Zhiyong Wei/ENRON@enronXgate on 03/12/2001 05:10 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc: Russ Severson/HOU/ECT@ECT 
+Subject: Single deal entry
+
+Jeff,
+
+I just found out that the development of phase1 single deal entry project 
+didn't start as scheduled due to resource constraints. Therefore, the 
+development won't be done until mid of April. Sorry for the delay. I will 
+make sure to deliver it to you for testing by the middle of April. After 
+consulting Russ and Sitara-TDS team, the phase1 single deal entry will allow 
+users to enter simple types of physical deals at deal creation time. It does 
+not provide any editing functionality. In other words, once the deals are 
+saved to the system, any changes need to be done through both TAGG and 
+Sitara. Please see below for a short list of complex deals that are not going 
+to be captured in phase1. Russ helped me put the list together.
+
+
+Deal Types not Captured in the Phase1-Single-Deal-Capture
+
+1. Deals with multiple locations each of which has different cost of gas 
+because TAGG does not capture location information. For example, a 
+10-location deal will result in 1 Sitara deal with 10 CPR   tickets and 10 
+TAGG legs. Each Tagg leg capturing the risk between contract price and mid 
+for that location.
+2. Structured deals which have different volume for different months and 
+whose different risk components will be managed by different desks.
+3. Tiered pricing structured deals that require one Sitara ticket and more 
+than one TAGG ticket. For example, 15,000 deal volume in broken down to 5,000 
+at fixed price, 5,000 at NYMEX - 0.10 and 5,000 at the index.
+4. Physical options because TDS deal capture does not handle physical 
+options. 
+5. Trigger deals that allow setting prices before index settles.  Basic 
+trigger deal can be captured.  Entry problem relates if price trigger is 
+managed in a different book, or if different volume is triggered or 
+untriggered, than the original deal volume.
+6. Physical index deals with the index that is different from the mid for the 
+location. Such deals need to be broken down into an index, a long basis and a 
+short basis in TAGG.
+7. Percentage index deals that require two legs in TAGG. One leg is index 
+flat and the other is fixed price deal with zero fixed price and zero basis 
+and reduced quantity. For example, a 90% index deal with a quantity of 5000 
+can be broken down into one leg of index flat and the other leg of zero 
+fixed-price and zero basis and a quantity of 5000*0.1 = 500.
+8. Floating basis deals.  Deals can be entered with a price and physical 
+premium component where the basis will default to the actual basis settle. 
+These deals are sometimes entered as trigger deals with a floating basis.  
+The deal looks like a straight index deal, however the price can be triggered 
+and the basis will default to actual. 
+
+
+
+I would appreciate your comments.
+
+Zhiyong
+
+
+

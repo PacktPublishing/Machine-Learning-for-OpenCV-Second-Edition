@@ -1,0 +1,43 @@
+Return-Path: <publi_latin@hotmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3485 invoked by uid 115); 17 May 2005 16:15:35 -0000
+Received: from publi_latin@hotmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(201.3.235.211):. 
+ Processed in 0.134038 secs); 17 May 2005 16:15:35 -0000
+Received: from 201-3-235-211.bnut3702.dsl.brasiltelecom.net.br (HELO LATIN) (201.3.235.211)
+  by churchill.factcomp.com with SMTP; 17 May 2005 16:15:34 -0000
+From: "agenda de eventos" <publi_latin@hotmail.com>
+To: bruceg@em.ca
+Subject: SOFTWEEK - SEMANA NACIONAL DO SOFTWARE
+Sender: "agenda de eventos" <publi_latin@hotmail.com>
+Date: Tue, 17 May 2005 13:35:31 -0300
+Reply-To: publi_latin@hotmail.com
+Return-Path: <publi_latin@hotmail.com>
+Errors-To: <publi_latin@hotmail.com>
+X-Priority: 5
+X-MSMail-Priority: Low
+Content-Type: text/html; charset="iso-8859-1"
+X-Qmail-Scanner-Message-ID: <11163465356723478@churchill>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="http://www.latinevent.com.br/idbrasil/e-mail/imagens/layout.gif" width="600" height="800" border="0" usemap="#Map"></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="23,23,377,118" href="http://www.blusoftbrasil.com.br">
+  <area shape="rect" coords="541,21,589,775" href="http://www.blusoftbrasil.com.br">
+  <area shape="rect" coords="3,483,147,498" href="http://www.blusoftbrasil.com.br">
+  <area shape="rect" coords="177,658,360,674" href="http://www.blusoftbrasil.com.br">
+</map>
+</body>
+</html>

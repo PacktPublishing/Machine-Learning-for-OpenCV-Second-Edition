@@ -1,0 +1,62 @@
+Return-Path: <QEDOTX@estesleadley.com>
+Delivered-To: em-ca-bait-20030203011154@em.ca
+Received: (qmail 755 invoked by uid 115); 5 Jan 2005 04:14:06 -0000
+Received: from QEDOTX@estesleadley.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(222.84.45.13):. 
+ Processed in 0.296245 secs); 05 Jan 2005 04:14:06 -0000
+Received: from unknown (HELO 209.5.178.248) (222.84.45.13)
+  by churchill.factcomp.com with SMTP; 5 Jan 2005 04:14:05 -0000
+X-Message-Info: CNm15W60295OD8miSGLurMQ3vdT48vijDYJrLQT89EA61
+Received: from 52.48.97.166 by ip-39-24-1-746.dc.QEDOTX@estesleadley.com (AppleMailServer 93.0.1.2) id 955868665 via NDR; Tue, 04 Jan 2005 22:11:37 -0600
+Reply-To: "Jamel Strong" <QEDOTX@estesleadley.com>
+From: "Jamel Strong" <QEDOTX@estesleadley.com>
+To: "Cr.reyda" <cr.reyda@em.ca>
+Subject: Refill Notification Ref: ZB-95754893
+Date:Tue, 04 Jan 2005 22:11:37 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--973010222138084"
+X-Qmail-Scanner-Message-ID: <1104898446672747@churchill>
+
+----973010222138084
+Content-Type: text/html;
+ charset="iso-7100-0"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+<head>
+<title>Refill Notification for cr.reyda@em.ca</title>
+</head>
+<body>
+<p>
+<hr size=1>
+Refill Notification Ref: SF-372859231511
+<br>
+<hr size=1>
+<br>
+<p>
+<p>Dear cr.reyda@em.ca,
+<br>
+<p>
+Our automated system has identified that you most likely are ready to refill your recent online pharmaceutical order.
+<p>
+To help you get your needed supply, we have sent this reminder notice.
+<p>
+Please use the refill system (<a href="http://autonomic.onemoretimez.com/?wid=100069">click this link</a>) to obtain your item in the quickest possible manner.
+<p>
+Thank you for your time and we look forward to assisting you.
+<p>
+Sincerely,
+<p>
+Jamel Strong
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+kenneth nodular eminent dodge nguyen crocodile aminobenzoic embolden gil alcoholic
+claire keypunch whiplash commodious asunder molybdenite conakry adjective courier
+receptacle cocktail erastus instrumentation sovereign persecute we palindrome birthday chum pow
+nod abhorrent energy freud barr bulgaria papery bedim
+silage destabilize reel whirl sieve buyer hurdle arrange
+bylaw servant betrayer seminar huddle saffron sentient anaglyph
+</body>
+</html>
+
+----973010222138084--

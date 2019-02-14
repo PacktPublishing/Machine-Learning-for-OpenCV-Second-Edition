@@ -1,0 +1,107 @@
+Message-ID: <19138452.1075856588081.JavaMail.evans@thyme>
+Date: Mon, 29 Jan 2001 02:43:00 -0800 (PST)
+From: stinson.gibner@enron.com
+To: vince.kaminski@enron.com
+Subject: Erac Koch P+ spread options
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stinson Gibner
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Stinson Gibner/HOU/ECT on 01/29/2001 
+10:42 AM ---------------------------
+
+
+Stinson Gibner
+01/29/2001 09:47 AM
+To: Bob Lee/NA/Enron@Enron, Paulo Issler/HOU/ECT@ECT, Zimin Lu/HOU/ECT@ECT
+cc:  
+Subject: Erac Koch P+ spread options
+
+Booking spreadsheet in in O:\research\common\projects\exotic2001_0125.xls
+
+Sheet where options are booked is called "index deals".
+
+--Stinson
+
+---------------------- Forwarded by Stinson Gibner/HOU/ECT on 01/29/2001 
+09:43 AM ---------------------------
+
+
+Mark Fondren
+01/26/2001 10:53 AM
+To: Stinson Gibner/HOU/ECT@ECT
+cc:  
+Subject: Erac Koch P+ spread options
+
+
+---------------------- Forwarded by Mark Fondren/HOU/ECT on 01/26/2001 10:53 
+AM ---------------------------
+
+
+Mark Fondren
+01/25/2001 12:07 PM
+To: John L Nowlan/HOU/ECT@ECT
+cc: Spencer Vosko/HOU/ECT@ECT 
+Subject: Erac Koch P+ spread options
+
+Price  1    =     WTI Cushing physical cash price  (WTI  Nymex 
+contract)       For example,  the April 2001
+                             WTI cushing price equals the Apr01 WTI Nymex 
+contract.
+
+
+ Price  2    =    Koch Oil posting for West Texas/New Mexico Intermediate.
+
+
+Koch P+   =    Price 1  -  Price  2
+
+
+  Price 2 is calculated by subtracting  3 spreads  from Price 1   
+  
+       1.    Koch Posting/Wti NYMEX basis spread  
+       2.    66.6%   (April01/May01  WTI Nymex spread)
+       3.    33.3%   (April01/Jun01  WTI Nymex spread)
+
+
+
+Example   using  1/24/2001 WTI settles       APR01       28.31
+                                                                              
+    MAY01       27.72
+                                                                              
+    JUN01        27.19 
+
+April 2001  Koch posting   =     April 2001 WTI NYMEX settlement   -   
+KOCH/NYMEX basis spread  -  .666(Apr/May)  -  .333(Apr/Jun)
+
+                                                  =       28.31     -    
+2.75     -    .666(.59)   -   .333(1.12)
+                                                  =       28.31     -    
+2.75     -     .3929        -   .37296
+                                                  =       24.794
+
+Koch P+    =   28.31   -    24.794
+                    =   3.516
+  
+  Please call with any questions
+
+
+Mark F
+ext   853-1982                   
+
+
+
+ 
+
+
+
+  
+
+
+
+

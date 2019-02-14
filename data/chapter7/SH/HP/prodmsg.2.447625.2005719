@@ -1,0 +1,99 @@
+Received: from sp?200?219?248?125.datacenter1.com.br (HELO cenesp.santistatextil.com.br) (200.219.248.125)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:35 -0000
+Received: by cenesp.santistatextil.com.br (Postfix)
+	id EE1C35402F; Tue, 19 Jul 2005 08:03:44 -0300 (BRT)
+Date: Tue, 19 Jul 2005 08:03:44 -0300 (BRT)
+From: MAILER-DAEMON@santistatextil.com.br (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="625D153FFA.1121771024/cenesp.santistatextil.com.br"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719110344.EE1C35402F@cenesp.santistatextil.com.br>
+
+This is a MIME-encapsulated message.
+
+--625D153FFA.1121771024/cenesp.santistatextil.com.br
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host cenesp.santistatextil.com.br.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<antonio_sanches@santistatextil.com.br>: unknown user: "antonio_sanches"
+
+--625D153FFA.1121771024/cenesp.santistatextil.com.br
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; cenesp.santistatextil.com.br
+X-Postfix-Queue-ID: 625D153FFA
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 08:03:44 -0300 (BRT)
+
+Final-Recipient: rfc822; antonio_sanches@santistatextil.com.br
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; unknown user: "antonio_sanches"
+
+--625D153FFA.1121771024/cenesp.santistatextil.com.br
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from localhost (localhost [127.0.0.1])
+	by cenesp.santistatextil.com.br (Postfix) with ESMTP id 625D153FFA
+	for <antonio_sanches@santistatextil.com.br>; Tue, 19 Jul 2005 08:03:44 -0300 (BRT)
+Received: from cenesp.santistatextil.com.br ([127.0.0.1])
+ by localhost (cenesp.santistatextil.com.br [127.0.0.1]) (amavisd-new, port 10024)
+ with ESMTP id 30974-06 for <antonio_sanches@santistatextil.com.br>;
+ Tue, 19 Jul 2005 08:03:43 -0300 (BRT)
+Received: from mailrouter.santistatextil.com.br (mailrouter [128.1.5.8])
+	by cenesp.santistatextil.com.br (Postfix) with ESMTP id EFE7C54039
+	for <antonio_sanches@santistatextil.com.br>; Tue, 19 Jul 2005 08:03:37 -0300 (BRT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mailrouter.santistatextil.com.br (Postfix) with ESMTP id 771B35FA91
+	for <antonio_sanches@santistatextil.com.br>; Tue, 19 Jul 2005 07:58:44 -0300 (BRST)
+Received: from mailwisconsin.com (unknown [202.127.185.105])
+	by mailrouter.santistatextil.com.br (Postfix) with SMTP id 290625FA4E
+	for <antonio_sanches@santistatextil.com.br>; Tue, 19 Jul 2005 10:58:41 +0000 (UTC)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516481;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonio_sanches@santistatextil.com.br
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Virus-Scanned: by Amavis at mailrouter.santistatextil.com.br
+X-Virus-Scanned: by amavisd-new at santistatextil.com.br
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973427">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+--625D153FFA.1121771024/cenesp.santistatextil.com.br--

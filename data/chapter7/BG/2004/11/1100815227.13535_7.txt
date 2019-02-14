@@ -1,0 +1,136 @@
+Return-Path: <learnin33@wanadoo.es>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 10352 invoked from network); 18 Nov 2004 21:34:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Nov 2004 21:34:18 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Nov 2004 21:34:18 -0000
+Received: (qmail 22457 invoked from network); 18 Nov 2004 21:34:17 -0000
+Received: from terra (unknown [83.36.219.150])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 18 Nov 2004 21:34:14 -0000
+From: "Coordinación" <learnin33@wanadoo.es>
+To: <cvs@bruce-guenter.dyndns.org>
+Subject: idiomas con profesor presencial
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 18 Nov 2004 22:32:43
+Content-Length: 3424
+Lines: 115
+
+</HEAD>
+
+
+<BODY BGCOLOR="#9b9b9b" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000" LEFTMARGIN=0 TOPMARGIN=0>
+
+<TABLE BORDER=0 WIDTH=592 HEIGHT=426 CELLPADDING=0 CELLSPACING=0>
+<TR ALIGN=LEFT VALIGN=TOP>
+	<TD NOWRAP WIDTH=40 HEIGHT=77>
+	</TD><TD NOWRAP WIDTH=1>
+	</TD><TD NOWRAP WIDTH=1>
+	</TD><TD NOWRAP WIDTH=1>
+	</TD><TD NOWRAP WIDTH=1>
+	</TD><TD NOWRAP WIDTH=1>
+	</TD><TD NOWRAP WIDTH=406>
+	</TD><TD NOWRAP WIDTH=68>
+	</TD><TD NOWRAP WIDTH=9>
+	</TD><TD NOWRAP WIDTH=27>
+	</TD><TD NOWRAP WIDTH=18>
+	</TD><TD NOWRAP WIDTH=14>
+	</TD><TD NOWRAP WIDTH=5>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=23>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD WIDTH=512 COLSPAN=6 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=2> 
+		No haga un reply. Por seguridad no contestamos a los e/mails-Llame al tel 645043838 
+		</FONT>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=2>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=89>
+	</TD><TD WIDTH=552 COLSPAN=12 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=2> 
+		CLASES DE IDIOMAS CON PROFESOR PRESENCIAL INDIVIDUALES O EN GRUPOS.<BR> 
+		APROVECHE LA OPORTUNIDAD<BR> 
+		Nuestros profesores se desplazan a su oficina o domicilio particular<BR> 
+		Clases exclusivamente personalizadas, eligiendo nuestro participante, particular o empresa, lugar, hora y duración de las mismas. Pueden ser tanto en la oficina como en su domicilio. 
+		</FONT>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=2>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=34>
+	</TD><TD>
+	</TD><TD WIDTH=410 COLSPAN=5 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=2> 
+		ADEMAS, PROGRAMA DE MANTENIMIENTO<BR> 
+		Para los que dominan el idioma y necesitan  mejorar o correcciones  
+		</FONT>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=6>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=82>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD WIDTH=486 COLSPAN=6 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=2> 
+		OBJETIVOS<BR> 
+		Adquirir desde el primer momento los hábitos y conocimientos que pueda necesitar en su relación empresarial o social,todo ello en un entorno de máxima motivación, haciendo que disfrute de los progresos o mejoras alcanzadas. Evitando fracasos anteriores  
+		</FONT>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=1>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=33>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD WIDTH=528 COLSPAN=5 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=2><I> 
+		Algunos idiomas disponibles: Alemán, Francés, Inglés Británico y Americano, Italiano, Ruso. Otros a consultar. 
+		</I></FONT>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=5>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=23>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD WIDTH=477 COLSPAN=5 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=3 COLOR="#800000"> 
+		Información y reservas para todas las comunidades Tel. 645043838 
+		</FONT>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=4>
+	</TD>
+</TR><TR ALIGN=LEFT VALIGN=TOP>
+	<TD HEIGHT=45>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD>
+	</TD><TD WIDTH=543 COLSPAN=7 ALIGN=LEFT VALIGN=TOP>
+		<FONT FACE="Arial" SIZE=1> 
+		Le enviamos este correo en la confianza de que pueda ser de su utilidad.<BR> 
+		No obstante, en cumplimiento de la Ley 34/2002(LSSI) y Ley Organiza 15/1999(PDCP) para bajas,<BR> 
+		envie un e-mail a londonlang@hotmail.com  
+		</FONT>
+	</TD>
+</TR></TABLE>
+</BODY>
+</HTML>

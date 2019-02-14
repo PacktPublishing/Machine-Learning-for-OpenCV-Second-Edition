@@ -1,0 +1,47 @@
+Message-ID: <4735310.1075849855817.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 06:55:00 -0800 (PST)
+From: richard.burchfield@enron.com
+To: mike.jordan@enron.com, mark.pickering@enron.com
+Subject: Production Migration Guidelines
+Cc: sally.beck@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Richard Burchfield
+X-To: Mike Jordan, Mark Pickering
+X-cc: Sally Beck, Beth Perlman, Stephen Stock
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Mike & Mark,
+ Due to IT created production issues in Enron's mission critical applications 
+since the first of 2001 the following guidelines will need to be adhered with 
+several exceptions.
+ Guidelines:
+   In the Houston application environment there will be no production 
+migrations +- 5 days of the end on month.
+
+   Development teams will be moving to a more standard production migration 
+schedule. Schedule to be rolled out in     March 2001.
+
+   IT will be removed from production access with the exception of 1 or 2 
+senior developers per team. 
+  
+
+ Exceptions:
+  Production fixes will move into production as they do today.
+
+  Application enhancements that have been formally approved by the Business 
+and IT.
+
+  New applications that are in their start-up phase.
+
+  Current processes that require IT intervention in order for it to be 
+successful. Processes will be reviewed in order to    replace in the future 
+with automation.
+
+All the Houston IT leads are aware of these guidelines and exceptions. 
+
+Richard

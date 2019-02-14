@@ -1,0 +1,130 @@
+Message-ID: <32939067.1075849854464.JavaMail.evans@thyme>
+Date: Mon, 2 Apr 2001 03:08:00 -0700 (PDT)
+From: bob.hall@enron.com
+To: sally.beck@enron.com, leslie.reeves@enron.com
+Subject: RE: Items Requiring Attention
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob M Hall
+X-To: Sally Beck, Leslie Reeves
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+more information than you want.
+---------------------- Forwarded by Bob M Hall/NA/Enron on 04/02/2001 11:05 
+AM ---------------------------
+From: Tommy Yanowski/ENRON@enronXgate on 03/30/2001 12:27 PM
+To: "dbsimpson@aep.com@ENRON" 
+<IMCEANOTES-dbsimpson+40aep+2Ecom+40ENRON@ENRON.com>@SMTP@enronXgate, 
+tyanows@enron.com@SMTP@enronXgate
+cc: dabanks@aep.com@SMTP@enronXgate, kdwissner@aep.com@SMTP@enronXgate, 
+tjgoldstein@aep.com@SMTP@enronXgate, Edward D Gottlob/HOU/ECT@ECT, Bob M 
+Hall/NA/Enron@Enron, "sbjackson@aep.com@ENRON" 
+<IMCEANOTES-sbjackson+40aep+2Ecom+40ENRON@ENRON.com>@SMTP@enronXgate 
+
+Subject: RE: Items Requiring Attention
+
+Don:  I tried to call you when I had a minute to discuss your note.  I will 
+respond to your questions in this email but we still need to talk ASAP.  If 
+you call back and get my phonemail please call me on my cell phone at 
+713-539-7094
+
+ -----Original Message-----
+From:  dbsimpson@aep.com@ENRON 
+[mailto:IMCEANOTES-dbsimpson+40aep+2Ecom+40ENRON@ENRON.com] 
+Sent: Friday, March 30, 2001 6:56 AM
+To: tyanows@enron.com
+Cc: dabanks@aep.com; kdwissner@aep.com; tjgoldstein@aep.com
+Subject: Items Requiring Attention
+
+Tommy-
+
+Here are some items that we need some help from you to achieve:
+
+   It has always been my understanding that there would be a complete
+   separate instance of all required tables to run HPL's business and as a
+   result we would be able to run all required Enron software to maintain
+   our business independent of Enron.  We have just been told that we will
+   not have access to the customer tables to add new customers and that
+   this must be accomplished through Enron.  If this is true, it is not
+   acceptable.  Could we please discuss?
+[Yanowski, Tommy J.]  In our original proposal, when we offered up a long 
+term service deal the fee structure covered us setting up a totally seperate 
+environment for HPL/AEP.  It would take somewhere between $3 - $5 MM in 
+hardware to duplicate our environment for HPL.  You guys came back and said 
+you just wanted something for an interim time period at a lower cost.  It was 
+then that we offered letting you use our applications running on our boxes 
+and on the same database.  Most of our applications have enough application 
+and database level security that we can keep Enron's data seperate from 
+HPL/AEP's.  There are two applications, ERMS & CPR where we felt it necessary 
+to create a duplicate environment due to security concerns.  Remember 
+security cuts both ways and we don't want you looking at Enron's data just as 
+much as you don't want Enron looking at yours.  Never the less the hardware 
+to run these two applications plus setting up the terminal server environment 
+plus the resource time is costing us about $500 K.  Hence the charge for set 
+up costs.  There are three areas where Enron and AEP will be sharing data.  
+They are in the global reference data area:
+
+Global Common Codes:  Your codes for MMBtu and US Dollars will be the same as 
+ours.
+
+Global Facilities:  Your access to Pipeline, meter numbers and DRN Numbers 
+will be the same as ours.  All of this information is public knowledge and is 
+provided to us via IHS Energy who is the GISB certified provider of this 
+information to the industry.  You will have the ability to update you own 
+meter information.
+
+Global Counterparties:  You will be sharing customer names and addresses such 
+as those for settlements or statements with Enron.  We can identify within 
+the Counterparty system who uses which address.  In that way we can filter 
+the view to the business units so that they only see those customers that 
+they deal with.  The process for HPL/AEP is the same that is used across 
+Enron.  Our retail business units only see their customers and ENA only see 
+theirs.  The reason we only have one group updating this information is 
+because if EES starts doing business with someone who is already a customer 
+of ENA then we wouldn't want to duplicate that customer information.  It 
+helps us roll up total credit exposure across Enron for a customer.  The 
+people who update this information are seperate from the rest of the business 
+units and are instructed not to share any customer information even though 
+most of it is public knowledge if you look up that customer on the internet.  
+Let me know in detail what your concern is.  The ENA trading community will 
+not know who your customers are and vice versa.  They will not know what 
+addresses you use and vice versa.  There are only a few people across Enron 
+who can find out this information and they are Enron Net Works employees who 
+provide this service to all of Enron as well as the 3rd Party customers we 
+are providing IT services for.  You will have a web interface to view your 
+own customer information and to request updates or additions.
+
+   It looks like we will need access to DCAF in order to send out
+   confirmations for physical contracts executed on behalf of HPL.  Do you
+   foresee any problems with this?
+[Yanowski, Tommy J.]  We can provide confirms for those spot and 30 day deals 
+that hit Sitara and DCAF II.  All this is set up and is ready to go.  Long 
+Term and financial deals for Enron also flow into TAGG and into ERMS.  It is 
+from TAGG that Long Term and Financial confirmations are generated via DCAF 
+I.  I had been told that you will not be using ERMS for Forward Risk and 
+would be confirming deals out of ZAINET so we did not set up a seperate TAGG 
+and DCAF I environment to go with the seperate ERMS and CPR environment 
+needed for Intramonth valuation.  We need to talk about this ASAP.  I need to 
+understand what if anything you will be confirming out of ZAINet.  If you 
+want to change your mind this late in the game and let Enron Confirm  
+everyting except for financial deals then I need to know ASAP so that we can 
+begin scrambling to see if we can set this up in time.  We actually have put 
+in code to block generating HPL/AEP confirms that now needs to be removed.    
+
+Also-
+
+I extended offers to Ken Ellerman and Greg Lind yesterday with a start date
+to be mutually determined and worked out between you and me.
+[Yanowski, Tommy J.]  Thanks for letting me know.  Have you communicated 
+anything to Dave Stadnick.  I probably need to talk to him and let him know 
+how much we need him but it would be nice for me to know what he is aware of 
+before I meet with him.
+
+
+Kindest Regards,
+Don
+

@@ -1,0 +1,59 @@
+Message-ID: <29310343.1075839947212.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 15:37:00 -0700 (PDT)
+From: geir.solberg@enron.com
+To: bill.iii@enron.com
+Subject: Reason - For SAR Report to be delayed
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Geir Solberg <Geir Solberg/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+---------------------- Forwarded by Geir Solberg/PDX/ECT on 05/01/2001 05:45 AM ---------------------------
+   
+
+	Enron Capital & Trade Resources Corp.  From:  "Venkataswami, Vishwanatha" <Vishwanatha.Venkataswami@ENRON.com>                           04/30/2001 06:04 AM	
+		
+
+
+To:	<gsolberg@enron.com>
+cc:	"Crooks, William" <William.Crooks@ENRON.com>, "Luu, Duong" <Duong.Luu@ENRON.com> 
+Subject:	Reason - For SAR Report to be delayed
+
+
+
+Geir Solberg,
+
+Scheduling Activity Report is using the following tables, these tables
+might be locked while running this report
+between 01:00AM-02:50AM CST, that is why this report takes more than 2
+hours to complete. Please keep track on these tables during this
+interval of time for removing the locks. Once we cross 02:50AM CST, SAR
+will be executing within few minutes.
+
+*	PWR_DEAL_LEGS
+*	PWR_DEAL_PEERS
+*	PWR_TERM_STRP_SETS
+*	PWR_TERM_STRIP_RULES
+*	PWR_TERM_STRIPS
+*	PWR_CRD_COUNTERPARTY
+*	PWR_CRD_DESK
+*	PWR_EASY_INSTR_MAP
+*	PWR_DELIVERY_POINTS
+*	PWR_REGIONS
+*	PWR_PUB_CODES
+*	PWR_LIQUIDATE_STRIPS
+*	PWR_SCHEDULE_STRIPS
+*	PWR_SYSTEM_STATUES
+
+I am observing this from past 2 days.
+
+
+Thanks,
+Vish
+x 53209

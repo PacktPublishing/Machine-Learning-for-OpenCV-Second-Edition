@@ -1,0 +1,96 @@
+Message-ID: <17625448.1075856067908.JavaMail.evans@thyme>
+Date: Thu, 7 Sep 2000 10:17:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: john.lavorato@enron.com, john.sherriff@enron.com, jeffrey.shankman@enron.com, 
+	ted.murphy@enron.com, mark.frevert@enron.com, rick.buy@enron.com, 
+	sally.beck@enron.com, shona.wilson@enron.com
+Subject: Four New Graphs
+Cc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com, 
+	jennifer.nguyen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com, 
+	jennifer.nguyen@enron.com
+X-From: Eugenio Perez
+X-To: John J Lavorato, John Sherriff, Jeffrey A Shankman, Ted Murphy, Mark Frevert, Rick Buy, Sally Beck, Shona Wilson
+X-cc: Michael E Moscoso, Maria Teresa Aguilera-Peon, Jennifer Nguyen
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have created four additional graphs to be published daily along with the 
+DPR: 
+
+Return on VaR (ROVAR)
+Curve Shift P&L (Delta - Gamma) Sharpe Ratio
+Risk - Return (Large)
+Risk - Return (Small)
+
+All of these graphs deal with the concept of risk-adjusted return.  The 
+markets in which we operate have unlike risk characteristics.  Furthermore, 
+Enron's appetite for risk also differs in each market.  As a result, it is 
+difficult to compare returns in absolute terms.  Therefore, the approach of 
+these graphs is to divide return by a measure of risk, in effect restating 
+return numbers into a standard base (how many dollars we earn for every 
+dollar we put at risk).
+
+
+ For each business unit or commodity group, the ROVAR graph shows an average 
+of daily total P&L divided by an average of daily VaR.  Higher ROVARs 
+indicate better performance (relative to other business units).  For each 
+business unit or commodity group there are two bars: the dark blue on the 
+left shows ROVAR on a 4 week (20 business day) rolling basis, and the light 
+blue on the right shows ROVAR on a 1 week (5 business day) rolling basis.  
+Because of the shorter term, the 1 week ROVAR is more sensitive: it can be 
+quite high or low, and it changes frequently.
+
+
+The Sharpe Ratio graph is very similar in concept; it shows an average of 
+daily curve shift P&L (both delta and gamma) divided by its standard 
+deviation. This Sharpe ratio is uncomplicated by non-trading P&L (like new 
+deals, reserves, and so forth).  Furthermore, whereas VaR is a forward 
+looking statistic (the most we are likely to lose in one day with a given 
+probability), standard deviation is backward looking (the actual volatility 
+of our returns over the period). This graph also has two bars for every 
+business unit or commodity group: a dark brown on the left showing the Sharpe 
+ratio on a 4 week rolling basis, and a light brown on the right showing the 
+ratio on a 1 week basis.
+
+The Curve Shift P&L Sharpe Ratio and the ROVAR graphs complement each other 
+well.  They measure different things, but if our P&L is composed mostly of 
+curve shift, and if our VaR closely predicts curve shift volatility, the two 
+statistics should be very close.
+
+
+Sometimes it is interesting to see the actual magnitude of the P&L relative 
+to the risk.  We therefore put together the Risk - Return graphs.  On the 
+vertical axis, they show 4 week rolling average P&L.  On the horizontal, they 
+show 4 week rolling average VaR.  The various business units are plotted as 
+points on the graphs.  These graphs are closely related to the 4-week ROVARs, 
+in that the vertical value of every point divided by its horizontal value is 
+the business unit's ROVAR (average P&L / average VaR).  Another way of 
+looking at these graphs is that the slope of a line connecting the origin 
+(0,0) with the plotted point of a business unit is its ROVAR.  Books with 
+small risks and returns (< $2 million) are plotted on the "Small" graph, and 
+the rest, on the "Large".
+
+These graphs are based on the DPR Database that we built to standardize and 
+capture the information that is reported in the DPR.  Most, but not all of 
+the information in the DPR currently flows from the database.  As a result, 
+we do not have ROVARs or Sharpe Ratios for every business unit.  As we 
+continue to set up exports into the database, we will fill in the missing 
+numbers.
+
+We will e-mail you these graphs every day until we can publish them on the 
+intra-net.  Please remember to launch the file in Excel, instead of using the 
+Lotus Notes viewer.  The VaR Limit Usage graphs that we created last week are 
+already on the web.  We hope that you find all of these useful.
+
+
+
+Regards,
+
+
+
+Eugenio Perez

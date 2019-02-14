@@ -1,0 +1,58 @@
+Return-Path: <s_slimming@yahoo.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26899 invoked by uid 115); 22 Dec 2004 12:58:40 -0000
+Received: from s_slimming@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.90.23.78):. 
+ Processed in 0.107699 secs); 22 Dec 2004 12:58:40 -0000
+Received: from ppp-61.90.23.78.revip.asianet.co.th (HELO COM2) (61.90.23.78)
+  by churchill.factcomp.com with SMTP; 22 Dec 2004 12:58:39 -0000
+From: "slimming" <s_slimming@yahoo.com>
+To: <bruceg@em.ca>
+Subject: อ้วนอยู่ทามมัย......แจก VCD แก้ไขปัญหาน้ำหนักตัวเกิน
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 22 Dec 2004 20:02:24
+X-Qmail-Scanner-Message-ID: <110372032067226893@churchill>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+</head>
+
+<body>
+<p align="center"> 
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="480" height="120">
+    <param name="quality" value="high">
+    <param name="SRC" value="http://www.geocities.com/aui2108/retail/retail1.swf">
+    <embed src="http://www.geocities.com/aui2108/retail/retail1.swf" width="480" height="120" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed></object>
+</p>
+<p align="center"><font color="#66CC00" size="6"><em>แจกฟรี VCD</em></font> <font color="#FF9900">ที่จะช่วยคุณแก้ไขปัญหา 
+  น้ำหนัก</font></p>
+<p align="center"><font color="#FF9900">สัดส่วนเกิน รูปร่าง ผิวพรรณ สุขภาพ ให้ดูดีอ่อนเยาว์ 
+  </font><font color="#FF6600"> </font></p>
+<p align="center"><br>
+  <font color="#339900">*ผิวพรรณสดใสดูดี อ่อนกว่าวัยแน่นอน*<br>
+  *ไม่ต้องทานยา ไม่ต้องอดอาหาร ไม่ต้องออกกำลังกายหักโหม* <br>
+  *แก้ปัญหาที่ต้นเหตุ ผอมแล้ว ไม่กลับมาอ้วนอีก* <br>
+  *รับรองผล 200 % ทุกๆคนที่ทำตามนี้ จะได้ผลแน่นอน*</font></p>
+<p align="center"><br>
+  <font color="#FF00FF">สำหรับผู้ที่จริงจังเท่านั้น ขอรับ VCD</font> </p>
+<p align="center"><font color="#FF00FF">แนะนำโปรแกรม ที่จะช่วยคุณแก้ไขปัญหา</font></p>
+<p align="center"><font color="#FF00FF">น้ำหนัก สัดส่วนเกิน รูปร่าง ผิวพรรณ สุขภาพ 
+  ให้ดูดีอ่อนเยาว</font><font color="#9900FF">์</font></p>
+<p align="center"><font color="#FF0000">เพียงคุณกรอกรายละเอียดให้ครบถ้วน....</font></p>
+<p align="center"><font color="#3333FF">ชื่อ .........................สกุล..................................</font></p>
+<p align="center"><font color="#3333FF">(ปัจจุบัน)น้ำหนัก.............ส่วนสูง..............อายุ 
+  ..............</font></p>
+<p align="center"><font color="#3333FF">ที่อยู่ (ที่จัดส่งได้สะดวก) ..............................................</font></p>
+<p align="center"><font color="#3333FF">โทรศัพท์..........................................................</font></p>
+<p align="center"><br>
+  <font color="#FF0000">แล้วส่งมาที่ e:mail</font> <a href="mailto:slimming@pop.co.th">slimming@pop.co.th</a></p>
+<p align="center"><font color="#999999">(เราจะติดต่อกลับภายใน 48 ชม.เพื่อให้ข้อมูลเพิ่มเติม) 
+  </font><br>
+  <br>
+</p>
+</body>
+</html>

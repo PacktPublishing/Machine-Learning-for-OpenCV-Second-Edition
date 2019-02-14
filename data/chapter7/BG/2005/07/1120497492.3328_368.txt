@@ -1,0 +1,49 @@
+Return-Path: <boletiminformativo@iconenet.com.br>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 29940 invoked from network); 01 Jul 2005 18:19:24 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 01 Jul 2005 18:19:24 -0000
+Received: (qmail 22979 invoked from network); 1 Jul 2005 18:19:24 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx08.futurequest.net ([69.5.6.180])
+  with QMQP via TCP; 01 Jul 2005 18:19:24 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 29934 invoked from network); 01 Jul 2005 18:19:24 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 01 Jul 2005 18:19:24 -0000
+Received: (qmail 542 invoked from network); 1 Jul 2005 18:19:24 -0000
+Received: from Comercial01 (201008062157.user.veloxzone.com.br [201.8.62.157])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 01 Jul 2005 18:19:24 -0000
+From: "Arquivos Digitais também sãi exigidos pela Receita Federal" <boletiminformativo@iconenet.com.br>
+To: <webmaster@ezmlm.org>
+Subject: Boletim Informativo
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 1 Jul 2005 15:19:28
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Bolitin Informativo - &Iacute;cone</title>
+<base target="_blank">
+</head>
+
+<body>
+<p> <img src="http://www.iconenet.com.br/imgs/mkt/Newslleter.JPG" width="540" height="720" border="0" usemap="#Map"> 
+  <map name="Map">
+    <area shape="rect" coords="3,2,538,191" href="http://www.iconenet.com.br/V2/" target="_blank">
+    <area shape="rect" coords="255,634,476,660" href="mailto:comercial@iconenet.com.br" target="_blank">
+    <area shape="rect" coords="256,571,476,602" href="http://www.iconenet.com.br/V2/" target="_blank">
+    <area shape="rect" coords="111,679,466,707" href="mailto:eventos@iconenet.com.br?subject=remover" target="_blank">
+  </map>
+</p>
+
+</body>
+
+</html>

@@ -1,0 +1,127 @@
+Message-ID: <8246157.1075857042750.JavaMail.evans@thyme>
+Date: Wed, 15 Mar 2000 00:55:00 -0800 (PST)
+From: novellnetware@bdcimail.com
+To: vkamins@enron.com
+Subject: Btrieve free ride ends
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: "NW on Novell NetWare" <NovellNetWare@bdcimail.com>
+X-To: <vkamins@enron.com>
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+NETWORK WORLD FUSION FOCUS: DAVE KEARNS on NOVELL NETWARE
+Today's Focus: Btrieve free ride ends
+03/14/00
+
+Dear Wincenty Kaminski,
+
+Today's Focus: Btrieve free ride ends
+---------------------------------------------------------------
+By Dave Kearns
+
+NetWare has shipped with Btrieve (originally a flat-file database
+system, now grown into a full-fledged relational database system) since
+the days of NetWare 2 some 12 years ago. Many independent software
+vendors have relied on this and constructed their NetWare applications
+to use the built-in facilities Btrieve afforded.
+
+Originally licensed from its creator, Softcraft, Novell bought Btrieve
+outright in the late =01+80s, then sold it off 10 years later to some of
+the original developers, now incorporated as Pervasive Software.
+Pervasive has, essentially, retired the Btrieve name in favor of
+"Pervasive SQL 2000," a true relational database system which
+nevertheless still purports to support applications written to the
+Btrieve 6.x specification.
+
+A major change has been introduced in NetWare 5.1, however. There is no
+longer an unlimited-use version of the database included. Novell still
+uses Btrieve technology for (among other things) its installed products
+database (sys:system\products.dat is the file), but NetWare 5.1
+includes only a two-user license for SQL 2000  enough for the
+administrator to add new products and services, but not enough for any
+Btrieve-based applications the network might be running.
+
+There is an unlimited-use version of SQL 2000 included, but it=01,s an
+evaluation version only. It will time out after 90 days. Full-use
+licenses may be purchased from Pervasive Software (or your software
+vendors may provide them), but unsuspecting network administrators
+could be caught off-guard when applications stop working.
+
+For the adventurous, there is an unlimited-use version of Btrieve 6.10
+included with the NetWare 5.1 distribution. But Novell admits it hasn't
+tested the software with NetWare 5.1, it may not work, and  the real
+killer  most current applications (such as Computer Associates
+ArcServe) require Btrieve 6.15.
+
+Check the applications you're using before doing that upgrade to
+NetWare 5.1, and calculate the additional costs of obtaining the
+requisite number of SQL 2000 licenses. Then, decide if that's what you
+want to do, or if switching to a different application is the better
+choice.
+
+To contact Dave Kearns:
+-----------------------
+Dave Kearns is the Word Wrangler for Virtual Quill, a writing agency
+serving the computer and networking industries. If your target
+customer doesn't know your product, doesn't know its uses and doesn't
+know he needs it, he's not going to buy it. From books to reviews,
+marketing to manuals, VQ can help you and your business. Virtual Quill
+- "words to sell by..." Find out more at: http://www.vquill.com/, or
+by e-mail at mailto:info@vquill.com.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FOR RELATED LINKS -- Click here for Network World's home page:
+http://www.nwfusion.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pervasive.SQL=01v 2000 Product Family SDK
+http://www.pervasive.com/products/psql/sdk/
+
+Understanding Pervasive.SQL 2000, a white paper (PDF)
+http://www.pervasive.com/products/psql/psql_wkgrengine/workgroupwp.pdf
+
+Migration Guide 6 to Pervasive.SQL.doc
+http://www.pervasive.com/support/technical/papers/Migration%20Guide%20-%206=
+.15
+%20to%20Pervasive.SQL.pdf
+
+
+Other NetWare-related articles from Network World:
+
+Active Directory upgrade requires strong game plan, Network World,
+03/13/00
+http://www.nwfusion.com/archive/2000/89629_03-13-2000.html
+
+Microsoft exec sketches future for Win 2000, Network World, 03/13/00
+http://www.nwfusion.com/archive/2000/89698_03-13-2000.html
+
+*********************************************************
+Subscription Services
+
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+http://www.nwwsubscribe.com/news/scripts/notprinteditnews.asp
+
+To change your email address, go to:
+http://www.nwwsubscribe.com/news/scripts/changeemail.asp
+
+Subscription questions? Contact Customer Service by replying to this
+message.
+
+Other Questions/Comments
+
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+mailto:jcaruso@nww.com
+
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+http://www.idg.com
+
+Copyright Network World, Inc., 2000

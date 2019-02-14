@@ -1,0 +1,45 @@
+Return-Path: <nfvaknstaq@hush.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 27712 invoked by uid 115); 14 Mar 2005 13:43:47 -0000
+Received: from nfvaknstaq@hush.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(222.235.140.85):. 
+ Processed in 0.212469 secs); 14 Mar 2005 13:43:47 -0000
+Received: from unknown (HELO 8J0CMOMHWCYA1GN) (222.235.140.85)
+  by churchill.factcomp.com with SMTP; 14 Mar 2005 13:43:46 -0000
+X-Message-Info: QFSW/ykew/5/y/MN+39/0839173791
+Received: from .nfvaknstaq@hush.com ([50.170.16.0]) by cfk06-b80.nfvaknstaq@hush.com with Microsoft SMTPSVC(5.0.2018.7180);
+	 Mon, 14 Mar 2005 10:46:05 -0300
+Received: from .nfvaknstaq@hush.com ([132.29.236.230]) by .nfvaknstaq@hush.com with MailEnable ESMTP; Mon, 14 Mar 2005 16:47:05 +0300
+From: "Marvin Swanson" <nfvaknstaq@hush.com>
+To: "Bruceg" <bruceg@em.ca>
+Subject: Online Univeristy diploma degrees
+MIME-Version: 1.0 (produced by  1.6)
+Content-Type: multipart/alternative;
+	boundary="--1221945897216451"
+X-Qmail-Scanner-Message-ID: <111080782767227699@churchill>
+
+----1221945897216451
+Content-Type: text/plain;
+	charset="iso-3219-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Description:   
+
+Get a Degree in Any Experienced Field 
+
+Call  USA 1-801-849-3104
+
+Now For More Information! 
+
+It is a well known fact that people who posses a degree 
+are looked upon as the elite
+If you have a degree, you are almost assured 
+to gain leverage in the work place 
+
+There's no testing required 
+
+Call  USA 1-801-849-3104
+
+for more information. 
+
+
+----1221945897216451--

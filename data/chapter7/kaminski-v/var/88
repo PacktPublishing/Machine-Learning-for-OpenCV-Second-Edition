@@ -1,0 +1,80 @@
+Message-ID: <3972832.1075856642695.JavaMail.evans@thyme>
+Date: Wed, 26 Jul 2000 04:58:00 -0700 (PDT)
+From: cantekin.dincerler@enron.com
+To: vince.kaminski@enron.com
+Subject: Re:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cantekin Dincerler
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+Sorry for getting back a little late. I have been in touch with Kirstee to 
+figure out how to treat positions data which is the primary cause for 
+fluctuations. Apparently, as of 7/19, MG still has July position. This may be 
+spot or balance of the month, or some settlement issue. This indeed is what 
+we are trying to find out/verify (it may be an error too). Kirstee is going 
+to get back to me on this. If it is not an error, then Anjam's latest results 
+($5.5 million total VAR) are reasonable given all the assumptions and the 
+missing pieces. I will keep you posted.
+Cantekin
+
+
+
+
+Vince J Kaminski
+07/26/2000 10:12 AM
+To: Cantekin Dincerler/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT 
+Subject: Re:  
+
+Cantekin,
+
+Can you figure out the reason for cocoa beans VaR fluctuations?
+The same is true of aluminum. I assume this is the position change.
+
+
+Vince
+
+
+
+Cantekin Dincerler
+07/26/2000 09:28 AM
+To: Anjam Ahmad/LON/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT 
+Subject: 
+
+Anjam and Kirstee,
+
+
+As I have suspected the position as of 6/30 vs 7/19 makes the difference. The 
+first table first column is my VAR number with 6/30 position and gold&silver 
+prices, the second column is your VAR with 7/19 position and dummy 
+gold&silver prices. The second table first column is my VAR with 7/19 
+position and 6/30 gold&silver prices, the second column is as before.
+
+I would ask you to plug the gold and silver prices and see what kind of 
+numbers you get in order to verify we are on the same page. Please refer to 
+MODELVAR2000.xls that I have sent you for gold & silver prices and 
+volatilities. 
+
+Thank you,
+Cantekin
+
+
+  TABLE 1
+
+
+
+  TABLE 2
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+Return-Path: <StephanalkalifiableG2dEm@softhome.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17235 invoked by uid 115); 22 Feb 2005 16:22:09 -0000
+Received: from StephanalkalifiableG2dEm@softhome.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.79.129.174):. 
+ Processed in 0.278184 secs); 22 Feb 2005 16:22:09 -0000
+Received: from unknown (HELO gd) (61.79.129.174)
+  by churchill.factcomp.com with SMTP; 22 Feb 2005 16:22:06 -0000
+Subject: i tried calling last night
+Message-ID: <ORMW$ln3G3.cQKjeVZ$sPE3@antelopian0.vfemail.net>
+From: "Leroy B. Baez, V" <StephanalkalifiableG2dEm@softhome.net>
+To: "Leroy B. Baez, V" <StephanalkalifiableG2dEm@softhome.net>
+Cc: bob.smith@em.ca, bruceg@em.ca, caxworthy@em.ca
+Date: Tue, 22 Feb 2005 18:20:09 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--6.CSCQlo4H8.xOPznPNtLW3"
+
+----6.CSCQlo4H8.xOPznPNtLW3
+Content-Type: text/plain;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+http://formern.com/?a=3D408
+
+Don't you practice dancing as often as possible?
+
+----6.CSCQlo4H8.xOPznPNtLW3
+Content-Type: text/html;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+<a href="http://formern.com/?a=408"><img src="http://home.comcast.net/~circa/w00t.gif"></a>
+<br><br><br>
+<br>They are not missing shouting today.
+
+----6.CSCQlo4H8.xOPznPNtLW3--
+
+
+

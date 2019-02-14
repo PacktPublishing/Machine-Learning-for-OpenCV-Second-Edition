@@ -1,0 +1,31 @@
+Message-ID: <22066539.1075856593891.JavaMail.evans@thyme>
+Date: Wed, 7 Jun 2000 04:16:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com
+Subject: eol trade size discrepancies
+Cc: vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vasant.shanbhogue@enron.com
+X-From: Clayton Vernon
+X-To: Vince J Kaminski
+X-cc: Vasant Shanbhogue
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince-
+
+I have discovered the two sources of discrepancy in the "transaction dollars" 
+on EOL, between my numbers and those of EOL. First, EOL records all index 
+trades with the Henry Hub price (since the index price isn't, inadvertently, 
+recorded with the trade, as I told you), whereas I went back and appended the 
+contemporaneous index price to the trades. Second, EOL ignores all Basis 
+trades in reporting transaction dollars, whereas I append a rough size to 
+them of the "price" as the basis, times the quantity.
+
+I'm sorry I wasn't ready in time with my numbers; I took the task of accuracy 
+very seriously.
+
+Clayton

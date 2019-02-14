@@ -1,0 +1,51 @@
+Return-Path: <aspirant@macmail.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 798 invoked from network); 25 Apr 2005 17:08:24 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 25 Apr 2005 17:08:24 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 25 Apr 2005 17:08:24 -0000
+Received: (qmail 15214 invoked from network); 25 Apr 2005 17:08:23 -0000
+Received: from pcp0011972827pcs.sthind01.mo.comcast.net (unknown [69.247.200.6])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 25 Apr 2005 17:08:22 -0000
+Received: from [223.42.108.110] by necessary3946.electoral.69.247.200.6 via HTTP; Mon, 25 Apr 2005 19:11:53 +0100
+Reply-To: "Katie Werner" <aspirant@macmail.com>
+From: "Katie Werner" <aspirant@macmail.com>
+To: rait@bruce-guenter.dyndns.org
+Subject: Your 30 seconds application
+Date: Mon, 25 Apr 2005 20:10:53 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8057069904mnya9934"
+Content-Length: 590
+Lines: 28
+
+----8057069904mnya9934
+Content-Type: text/plain;
+	charset="iso-5248zpk4491-008zphryz"
+Content-Transfer-Encoding: 7Bit
+
+Hello,
+
+We tried contacting you awhile ago about your low interest morta(ge rate.
+
+You have qualified for the lowest rate in years...
+
+You could get over $340,000 for as little as $500 a month!
+
+Ba(d credit? Doesn't matter, low rates are fixed no matter what!
+
+To get a free, no obli,gation consultation click below:
+
+http://www.fasterdaz.com/x/loan2.php?id=lt
+
+Best Regards,
+
+Katie Werner
+ 
+
+to be remov(ed:	http://www.fasterdaz.com/x/st.html
+
+----8057069904mnya9934--

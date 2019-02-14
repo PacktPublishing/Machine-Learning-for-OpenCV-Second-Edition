@@ -1,0 +1,49 @@
+Return-Path: <info@3R-RHEDE.com>
+Delivered-To: em-ca-bait-smoothes@em.ca
+Received: (qmail 9579 invoked by uid 115); 6 Mar 2005 06:12:41 -0000
+Received: from info@3R-RHEDE.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(217.22.192.6):. 
+ Processed in 0.189082 secs); 06 Mar 2005 06:12:41 -0000
+Received: from darkgate.equinoxe.de (217.22.192.6)
+  by churchill.factcomp.com with SMTP; 6 Mar 2005 06:12:38 -0000
+Received: (qmail 7286 invoked by uid 10504); 6 Mar 2005 05:30:52 -0000
+Received: from info@3R-RHEDE.com by sun1 by uid 10501 with qmail-scanner-1.20rc4  (uvscan Clear:RC:0:.  Processed in 6.151738 secs); 06 Mar 2005 05:30:52 -0000
+Received: from unknown (HELO 50cent) ([201.129.129.34]) (envelope-sender <info@3R-RHEDE.com>)
+          by darkgate.equinoxe.de (qmail-ldap-1.03) with SMTP
+          for <bait-reckless@em.ca>; 6 Mar 2005 05:30:45 -0000
+From: "info@3R-RHEDE.com" <info@3R-RHEDE.com>
+Subject: Please disregard this message.
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Reply-To: info@3R-RHEDE.com
+Date: Sat, 5 Mar 2005 23:44:56 -0600
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+X-Qmail-Scanner-Message-ID: <11100870466537254@sun1>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Clialis</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><font color="#000000">CIALIS</font></strong>
+  shipped right to your doorstep discretely<br>
+  <font color="#FF0000"><strong>NO <font color="#000000">Prior</font> Prescription
+  <font color="#000000">Needed</font></strong></font><br>
+  Great Prices<br>
+  <strong>CIALIS</strong> stays longer in the system -- up to 36 hours <br>
+  <strong>CIALIS</strong> acts fast within 16 minutes compared to one hour taken
+  by Viagra or Levitra ! </font></p>
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://saveonrxmedz.com">CLICK
+  HERE TO ORDER TODAY</a></strong> </font></p>
+<p><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif">thank
+  you very much for helping me out with school and stuff. I can&#8217;t express
+  enough what it means to me and how proud I am. I love you. I&#8217;ll be returning
+  the favor as soon as a decent job falls into my lap. I miss you . Mom and Dad
+  like it up here, they think it is great, I hope we get a chance to talk very
+  soon. Take care and I miss you allot. Yours truley Bill</font> </p>
+</body>
+</html>

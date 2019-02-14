@@ -1,0 +1,209 @@
+Return-Path: <info@gitdoc.net>
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 14689 invoked from network); 16 Dec 2004 17:05:45 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 16 Dec 2004 17:05:45 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 Dec 2004 17:05:45 -0000
+Received: (qmail 19785 invoked from network); 16 Dec 2004 17:05:43 -0000
+Received: from internet2.gitdoc.net (unknown [83.41.174.185])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 16 Dec 2004 17:05:42 -0000
+Received: from mariano ([10.0.0.27]) by internet2.gitdoc.net with Microsoft SMTPSVC(5.0.2195.6713);
+	 Thu, 16 Dec 2004 15:14:34 +0100
+thread-index: AcTjeiMW8DCzVBKJT2u4ocCItw9sXw==
+Thread-Topic: =?iso-8859-1?Q?Su_empresa_sin_papel_-_Automatizaci=F3n_de_Procesos_?=
+From: "Gestion documental" <info@gitdoc.net>
+To: <lists-linux-xfs@bruce-guenter.dyndns.org>
+Subject: =?iso-8859-1?Q?Su_empresa_sin_papel_-_Automatizaci=F3n_de_Procesos_?=
+Date: Thu, 16 Dec 2004 15:18:38 +0100
+Message-ID: <8a5401c4e37a$23165d40$1b00000a@CADEMAGITDOC.COM>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8A55_01C4E382.84DAC540"
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: high
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Return-Path: info@gitdoc.net
+X-OriginalArrivalTime: 16 Dec 2004 14:14:34.0546 (UTC) FILETIME=[91895120:01C4E379]
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_8A55_01C4E382.84DAC540
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+www.gitdoc.com <http://www.gitdoc.com>=20
+
+=20
+
+Somos l=EDderes en el desarrollo y personalizaci=F3n de soluciones
+integrales de gesti=F3n documental y automatizaci=F3n de procesos
+"workflow", adaptadas a procesos espec=EDficos de negocio.=20
+
+Nuestra propuesta de valor: GIT-DOC se ha desarrollado como una potente
+herramienta de gesti=F3n documental que permite parametrizar cualquier
+necesidad a la hora de estructurar documentos, gestionar contenidos o
+automatizar procesos con ilimitados requerimientos.
+
+ 	 Consultor=EDa
+
+Gesti=F3n documental
+
+Workflow
+
+Gesti=F3n de contenidos
+
+Soluciones:
+
+=95 Registro de entrada-salida
+=95 Recortes de prensa
+=95 Pedidos-Albaranes-Facturas
+=95 Gesti=F3n de expedientes
+=95 Pymes, Cl=EDnicas, Abogados
+
+Servicios:
+
+=95 Digitalizaci=F3n de documentos
+=95 Grabaci=F3n de =EDndices
+=95 Archivo y custodia=20
+
+Ofrecemos distribuci=F3n
+
+
+Nicol=E1s Mendoza Tel.: 629 80 34 34 - 902 999 073	 www.gitdoc.com
+<http://www.gitdoc.com> 	 gitdoc@gitdoc.com
+<mailto:gitdoc@gitdoc.com> 	=20
+AVISO LEGAL Le recordamos que su cta. de e-mail figura registrada en
+nuestra base de datos al confirmar su deseo de recibir nuestras ofertas.
+Dicha informaci=F3n ser=E1 tratada de forma totalmente confidencial con
+arreglo a la nueva ley L.S.S.I. y no ser=E1 vendida ni traspasada a
+terceros en ning=FAn caso. Si Vd. recibe este e-mail debido alg=FAn =
+error o
+no es su deseo recibir mas e-mail nuestros, puede darse de baja de forma
+inmediata, simplemente pulsanso sobre B O R R A R
+<http://ias.cadema-gitdoc.com/webapp/servlet/Sborrar?email=3Dlists-linux-=
+x
+fs@bruce-guenter.dyndns.org> =20
+
+ =20
+
+
+------=_NextPart_000_8A55_01C4E382.84DAC540
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<div align="center"> 
+  <table border="0" height="267" width="704" bgcolor="#CCCCCC">
+    <tr> 
+      <td height="29" colspan="3"> 
+        <p><a href="http://www.gitdoc.com"><img src="http://www.gitdoc.com/ctl_arch/image/envioemail.jpg" width="704" height="131" border="0" alt="www.gitdoc.com"></a></p>
+      </td>
+    </tr>
+    <tr> 
+      <td height="83" width="5"> 
+        <p>&nbsp;</p>
+        <p><font color="#666666"><b></b></font></p>
+      </td>
+      <td height="83" width="307"> 
+        <p><font color="#003399" size="2" face="Verdana, Arial, Helvetica, sans-serif">Somos 
+          líderes</font><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+          en el desarrollo y personalización de soluciones integrales de gestión 
+          documental y automatización de procesos "workflow", adaptadas a procesos 
+          específicos de negocio. </font></p>
+      </td>
+      <td height="83" width="378"> 
+        <p><font color="#003399" size="2" face="Verdana, Arial, Helvetica, sans-serif">Nuestra 
+          propuesta de valor:</font><font color="#666666" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+          GIT-DOC se ha desarrollado como una potente herramienta de gestión documental 
+          que permite parametrizar cualquier necesidad a la hora de estructurar 
+          documentos, gestionar contenidos o automatizar procesos con ilimitados 
+          requerimientos.</font></p>
+      </td>
+    </tr>
+    <tr> 
+      <td height="7" width="5">&nbsp;</td>
+      <td height="7" colspan="2"> 
+        <table border="0" width="691">
+          <tr> 
+            <td width="219"> 
+              <p><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000099">Consultor&iacute;a</font></b></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" color="#000099"><b>Gesti&oacute;n 
+                documental</b></font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" color="#000099"><b>Workflow</b></font></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" color="#000099"><b>Gesti&oacute;n 
+                de contenidos</b></font></p>
+            </td>
+            <td width="231"> 
+              <p><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000099">Soluciones:</font></b></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Registro de entrada-salida<br>
+                </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Recortes de prensa<br>
+                </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Pedidos-Albaranes-Facturas<br>
+                </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Gesti&oacute;n de expedientes<br>
+                </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Pymes, Cl&iacute;nicas, Abogados</font></p>
+            </td>
+            <td width="227"> 
+              <p><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#000099">Servicios:</font></b></p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Digitalizaci&oacute;n de documentos<br>
+                </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Grabaci&oacute;n de &iacute;ndices<br>
+                </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC">&#149; 
+                Archivo y custodia</font> </p>
+              <p><font face="Verdana, Arial, Helvetica, sans-serif" color="#000066"><b><font color="#000099">Ofrecemos 
+                distribuci&oacute;n</font></b></font></p>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <table border="0" width="691">
+          <tr> 
+            <td width="387"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Nicol&aacute;s 
+              Mendoza Tel.: 629 80 34 34 - 902 999 073</b></font></td>
+            <td width="150"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a href="http://www.gitdoc.com"><font color="#333333">www.gitdoc.com</font></a></b></font></td>
+            <td width="140"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a href="mailto:gitdoc@gitdoc.com"><font color="#333333">gitdoc@gitdoc.com</font></a></b></font></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="750" border="1" align="center">
+    <tr> 
+      <td> 
+        <div align="left"><font size="-2" color="#808080"><b><font size="-1">AVISO 
+          LEGAL</font></b></font><font size="-1"><font color="#808080"> Le recordamos 
+          que su cta. de e-mail figura registrada en nuestra base de datos al 
+          confirmar su deseo de recibir nuestras ofertas. Dicha información será 
+          tratada de forma totalmente confidencial con arreglo a la nueva ley 
+          L.S.S.I. y no será vendida ni traspasada a terceros en ningún caso. 
+          Si Vd. recibe este e-mail debido algún error o no es su deseo recibir 
+          mas e-mail nuestros, puede darse de baja de forma inmediata, simplemente 
+          pulsanso sobre<b> 
+</b><a href='http://ias.cadema-gitdoc.com/webapp/servlet/Sborrar?email=lists-linux-xfs@bruce-guenter.dyndns.org'><font color='#0066CC'>B O R R A R</font></a></font></font></td>
+      
+    </tr>
+  </table>
+  <p>&nbsp; </p>
+</div>
+</body>
+</html>
+------=_NextPart_000_8A55_01C4E382.84DAC540--
+

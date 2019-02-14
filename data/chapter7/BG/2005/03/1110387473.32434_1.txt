@@ -1,0 +1,610 @@
+Return-Path: <inforfqjhu@bizcap.info>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17200 invoked by uid 115); 9 Mar 2005 12:41:45 -0000
+Received: from inforfqjhu@bizcap.info by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.82.252.64):. 
+ Processed in 7.519142 secs); 09 Mar 2005 12:41:45 -0000
+Received: from unknown (HELO bizcap.info) (218.82.252.64)
+  by churchill.factcomp.com with SMTP; 9 Mar 2005 12:41:36 -0000
+Message-ID: <989C2AA2.B9CF44F@bizcap.info>
+Date: Wed, 09 Mar 2005 05:27:52 -1000
+Reply-To: "BizCap" <inforfqjhu@bizcap.info>
+From: "BizCap" <inforfqjhu@bizcap.info>
+User-Agent: Microbod Mail 5.20.2314.1300
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <bruceg@em.ca>
+Subject: GNBT Fact Sheet
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List
+href="Generex%20Biotechnology%20Corporation_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="Generex%20Biotechnology%20Corporation_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>               </title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region" downloadurl="http://www.5iantlavalamp.com/"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place" downloadurl="http://www.5iantlavalamp.com/"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="date"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Brian Conway</o:Author>
+  <o:LastAuthor>Brian Conway</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
+  <o:Created>2005-03-07T12:32:00Z</o:Created>
+  <o:LastSaved>2005-03-07T12:32:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>684</o:Words>
+  <o:Characters>3905</o:Characters>
+  <o:Company>ListGuy.com</o:Company>
+  <o:Lines>32</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4580</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>6 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:WW6BorderRules/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:AutoSpaceLikeWord95/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:"Arial Unicode MS";
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	mso-bidi-font-family:"Courier New";
+	color:black;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	color:red;
+	mso-font-kerning:0pt;
+	font-weight:normal;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt=""
+style='width:6in;
+ height:36pt'>
+ <v:imagedata src="Generex%20Biotechnology%20Corporation_files/image001.png
+"
+  o:href="http://www.generex.com/images/home/launch-logo1.gif"/>
+</v:shape><![endif]--><![if !vml]><img width=576 height=48
+src="Generex%20Biotechnology%20Corporation_files/image002.gif"
+v:shapes="_x0000_i1025"><![endif]><span
+style='mso-spacerun:yes'>              </span><b
+style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;font-family:Arial'><o:p></o:p></span>
+</b></p>
+
+<div style='border:none;border-top:solid windowtext
+1.0pt;mso-border-top-alt:
+solid windowtext .5pt;padding:6.0pt 0in 0in
+0in;margin-left:0in;margin-right:
+-.25in'>
+
+<h1 align=center style='text-align:center;border:none;mso-border-top-alt:so
+lid windowtext .5pt;
+padding:0in;mso-padding-alt:6.0pt 0in 0in 0in'><span class=SpellE><span
+style='mso-bidi-font-size:14.0pt;font-family:"Trebuchet
+MS";color:windowtext'>Generex</span></span><span
+style='mso-bidi-font-size:14.0pt;font-family:"Trebuchet
+MS";color:windowtext'>
+Biotechnology Corporation.<o:p></o:p></span></h1>
+
+<h1 align=center style='text-align:center;border:none;mso-border-top-alt:so
+lid windowtext .5pt;
+padding:0in;mso-padding-alt:6.0pt 0in 0in 0in'><span
+style='mso-bidi-font-size:
+14.0pt;font-family:"Trebuchet MS";color:windowtext'>Investor Fact
+Sheet</span><span
+style='mso-bidi-font-size:14.0pt'><o:p></o:p></span></h1>
+
+<h1 align=center style='text-align:center;border:none;mso-border-top-alt:so
+lid windowtext .5pt;
+padding:0in;mso-padding-alt:6.0pt 0in 0in 0in'><!--[if gte vml
+1]><v:shapetype
+ id="_x0000_t202" coordsize="21600,21600" o:spt="202"
+path="m,l,21600r21600,l21600,xe">
+ <v:stroke joinstyle="miter"/>
+ <v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t202"
+style='position:absolute;
+ left:0;text-align:left;margin-left:452pt;margin-top:14.9pt;width:186pt;
+ height:198pt;z-index:1;mso-position-horizontal:right'>
+ <v:textbox>
+  <![if !mso]>
+  <table cellpadding=0 cellspacing=0 width="100%">
+   <tr>
+    <td><![endif]>
+    <div>
+    <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+    style='font-size:9.0pt;font-family:Arial'>AT A
+GLANCE:<o:p></o:p></span></b></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Symbol <span
+    class=SpellE>NasdaqSC</span>: <span style='mso-tab-count:1'>          
+</span>GNBT<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Price (</span><st1:date
+    Year="2005" Day="4" Month="3"><span style='font-size:9.0pt;font-family:
+     Arial'>3/4/05</span></st1:date><span
+style='font-size:9.0pt;font-family:
+    Arial'>): <span style='mso-tab-count:2'>                     
+</span>$0.61<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>52-week
+    high/low: <span style='mso-tab-count:1'>             
+</span>$0.58/$1.86<o:p></o:p></span></p>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:Arial'>Av.
+    volume (3-mo):<span style='mso-tab-count:1'>             
+</span>303,681<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Shares
+    outstanding:<span style='mso-tab-count:1'>           </span>34.76
+Million<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Float:<span
+    style='mso-tab-count:3'>                                     
+</span>29.6
+    Million<o:p></o:p></span></p>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:Arial'>%
+held
+    by insiders:<span style='mso-tab-count:1'>            
+</span>14.83%<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Market
+    capitalization:<span style='mso-tab-count:1'>          </span>$21.20
+Million<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Cash:*<span
+    style='mso-tab-count:3'>                                   </span>$1.76
+    million<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Long-tem
+    Debt:*<span style='mso-tab-count:1'>  </span><span
+style='mso-tab-count:
+    1'>                </span>$935,000<o:p></o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:9.0pt;font-family:Arial'>Revenue**<span
+    style='mso-tab-count:2'>                           
+</span>$710,000<o:p></o:p></span></p>
+    <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+    style='font-size:9.0pt;font-family:Arial;background:yellow;mso-highligh
+t:
+    yellow'><o:p>&nbsp;</o:p></span></i></p>
+    <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+    style='font-size:9.0pt;font-family:Arial'>*As of </span></i><st1:date
+    Year="2004" Day="31" Month="10"><i
+style='mso-bidi-font-style:normal'><span
+     style='font-size:9.0pt;font-family:Arial'>10/31/04</span></i></st1:dat
+e><i
+    style='mso-bidi-font-style:normal'><span
+style='font-size:9.0pt;font-family:
+    Arial'><o:p></o:p></span></i></p>
+    <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+    style='font-size:9.0pt;font-family:Arial'>**12 months ended
+</span></i><st1:date
+    Year="2004" Day="31" Month="10"><i
+style='mso-bidi-font-style:normal'><span
+     style='font-size:9.0pt;font-family:Arial'>10/31/04</span></i></st1:dat
+e><i
+    style='mso-bidi-font-style:normal'><span
+style='font-size:9.0pt;font-family:
+    Arial'><o:p></o:p></span></i></p>
+    <p class=MsoNormal><span
+style='font-size:11.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+    <p class=MsoNormal><span
+style='font-size:11.0pt;font-family:Arial'><span
+    style='mso-tab-count:1'>            </span><o:p></o:p></span></p>
+    </div>
+    <![if !mso]></td>
+   </tr>
+  </table>
+  <![endif]></v:textbox>
+ <w:wrap type="square" side="left"/>
+</v:shape><![endif]--><![if !vml]><img width=254 height=270
+src="Generex%20Biotechnology%20Corporation_files/image003.gif" align=right
+hspace=12
+alt="Text Box: AT A GLANCE:&#13;&#10;&#13;&#10;Symbol NasdaqSC: 
+GNBT&#13;&#10;Price (3/4/05): 		$0.61&#13;&#10;52-week high/low: 
+$0.58/$1.86&#13;&#10;Av. volume (3-mo):	303,681&#13;&#10;&#13;&#10;Shares
+outstanding:	34.76 Million&#13;&#10;Float:			29.6 Million&#13;&#10;% held by
+insiders:	14.83%&#13;&#10;Market capitalization:	$21.20
+Million&#13;&#10;&#13;&#10;Cash:*			$1.76 million&#13;&#10;Long-tem Debt:*	
+$935,000&#13;&#10;Revenue**		$710,000&#13;&#10;&#13;&#10;*As of
+10/31/04&#13;&#10;**12 months ended 10/31/04&#13;&#10;&#13;&#10;	&#13;&#10;"
+v:shapes="_x0000_s1026"><![endif]></h1>
+
+<h1 style='border:none;mso-border-top-alt:solid windowtext
+5pt;padding:0in;
+mso-padding-alt:6.0pt 0in 0in 0in'><b
+style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;font-family:Arial;color:windowtext;mso-no-proof:yes
+'>Insulin
+Without Pain, Ready for Market</span></b><b
+style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;font-family:Arial;mso-no-proof:yes'>
+</span></b><span
+style='font-size:11.0pt;font-family:"Trebuchet
+MS";color:windowtext'><o:p></o:p></span></h1>
+
+</div>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:11.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'>-- <span
+class=SpellE>Generex</span>
+Biotechnology (<span class=SpellE>NasdaqSC</span>: GNBT) has developed
+Oral-<span
+class=SpellE>lyn</span>™, an oral insulin spray for the treatment of
+diabetes,
+thereby replacing insulin injections. <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'>-- After 10 years of
+development, Oral-<span
+class=SpellE>lyn</span>™ has been found to be as effective as injected
+insulin and
+is ready for commercialization.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'>-- Sales could start as early as
+the
+first half of 2005 in </span></b><st1:place><b style='mso-bidi-font-weight:
+ normal'><span style='font-size:10.0pt;font-family:Arial'>South
+America</span></b></st1:place><b
+style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:
+Arial'>. Canada and Europe is the next target market, with
+</span></b><st1:country-region><st1:place><b
+  style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:
+  Arial'>U.S.</span></b></st1:place></st1:country-region><b
+style='mso-bidi-font-weight:
+normal'><span style='font-size:10.0pt;font-family:Arial'> and
+</span></b><st1:place><b
+ style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:
+ Arial'>Europe</span></b></st1:place><b
+style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'> to
+follow.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'>-- Diabetes is growing at
+epidemic
+rates. Hundreds of millions suffer from type 1, type 2 or pre-diabetes.
+Even
+modest penetration of the worldwide diabetes market would translate into
+revenues
+in the billion-dollar range.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'>-- <span
+class=SpellE>Generex’s</span>
+delivery system, <span class=SpellE>RapidMist</span>™, has the potential to
+replace
+injected drugs, including morphine, <span class=SpellE>fentanyl</span>,
+heparin
+and flu vaccine.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'>Why Buy Now</span></b><span
+style='font-size:10.0pt;font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'><o:p>&n
+bsp;</o:p></span></p>
+
+<p class=MsoNormal><span class=SpellE><span
+style='font-size:10.0pt;font-family:
+Arial'>Generex</span></span><span
+style='font-size:10.0pt;font-family:Arial'>
+Biotechnology is a Toronto-based, Delaware Corporation with a market-ready
+solution to a central challenge in diabetes treatment – ending the pain and
+hassle of insulin injections. Ever since scientists early in the 20th
+century
+learned that diabetes was caused by the body’s inability to produce a
+normal
+supply of insulin, patients have had to administer insulin by injection.
+Alternatives
+that have been developed in recent years – pumps or needle-less “pens” –
+are
+still invasive and/or expensive. Pharmaceutical companies have tried to
+develop
+a truly non-invasive insulin product that is pain-free, easy to use and
+free from
+serious side effects.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'><o:p>&n
+bsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Arial'>Among
+today’s competing technologies, only Oral-<span class=SpellE>lyn</span>™,
+an
+insulin spray to treatment diabetes, meets all those tests. After 10 years
+of
+development, Oral-<span class=SpellE>lyn</span>™ is ready for market and is
+set
+to produce enormous revenue growth for the company. <span
+class=SpellE>Generex</span>
+is little known outside a small community of investors focused on drug
+delivery
+and diabetes treatment. In the next few months, however, the expected
+commercial
+entry of Oral-<span class=SpellE>lyn</span>™ in </span><st1:place><span
+ style='font-size:10.0pt;font-family:Arial'>South
+America</span></st1:place><span
+style='font-size:10.0pt;font-family:Arial'> could raise <span
+class=SpellE>Generex’s</span>
+profile sharply, with a commensurate rise in their share price. Small
+companies
+in drug and medical-device development are, of course, inherently high-risk
+investments. But aggressive investors who take an early stake in these
+firms
+can profit several times over. <span class=SpellE>Generex</span> has the
+profile of being one such potential winner.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:7.0pt;font-family:Arial'><o:p>&nb
+sp;</o:p></span></p>
+
+<div style='border:none;border-top:solid windowtext
+1.0pt;mso-border-top-alt:
+solid windowtext .5pt;padding:1.0pt 0in 0in 0in'>
+
+<p class=MsoNormal style='text-align:justify;border:none;mso-border-top-alt
+:
+solid windowtext .5pt;padding:0in;mso-padding-alt:1.0pt 0in 0in 0in'><span
+style='font-size:7.0pt;font-family:"Trebuchet MS"'>Readers are advised that
+this Investor Fact Sheet is intended for informational use only.<span
+style='mso-spacerun:yes'>  </span>Anyone interested in obtaining more
+detailed
+information about the Company should contact <span
+class=SpellE>Generex</span>
+Biotechnology (<span class=SpellE>Generex</span>) or Investor Relations
+International (IRI). This Investment Profile was developed as part of an
+overall investor relations program with IRI.<span
+style='mso-spacerun:yes'> 
+</span>IRI has been retained by <span class=SpellE>Generex</span> to
+provide
+investor relations advisory services, for which IRI receives compensation
+in the
+form of cash. This Investment Fact Sheet is intended solely for
+informational
+purposes and is not to be construed as an offer to sell or the solicitation
+of
+an offer to buy the Company's stock. This Investment Fact Sheet is based
+upon
+information available to the public, as well as other information from
+sources
+deemed reliable, but is not guaranteed as being accurate nor does it
+purport to
+be complete. This Investment Fact Sheet may contain forward-looking
+statements
+within the meaning of Section 27A of the Securities Act of 1933, as
+amended,
+and Section 21E of the Securities Exchange Act of 1934, as amended. These
+forward-looking statements are subject to a variety of risks and
+uncertainties,
+many of which are beyond <span class=SpellE>Generex’s</span> control, which
+could cause actual results to differ materially from those contemplated in
+these forward-looking statements. Existing and prospective investors are
+cautioned not to place undue reliance on these forward-looking statements,
+which speak only as of the date hereof. For additional information
+regarding
+these and other risks faced by the Company, visit the company’s website at
+<a
+href="http://www.generex.com/">www.generex.com</a>. </span><span
+style='font-size:7.0pt;font-family:Arial'><o:p></o:p></span></p>
+
+</div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt'>This message is sent to
+you
+in compliance with the Federal CAN-Spam Bill and the Electronic Commerce
+(EC
+Directive) Regulations of 2004. This is a commercial email which includes
+an
+unsubscribe method for remove processing as mandated by law. Footer also
+includes
+the sender's information. <span class=SpellE>BizCap.info</span> <span
+class=SpellE>p.o</span>. box 155 Sugarloaf, NY. 10981 To be excluded from
+future mailings, please reply to this email with &quot;<span
+class=SpellE>rem</span>&quot;
+in the subject line.</span></p>
+
+</div>
+
+</body>
+
+</html>
+
+

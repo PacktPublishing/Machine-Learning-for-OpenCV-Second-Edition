@@ -1,0 +1,34 @@
+Message-ID: <17464964.1075856643309.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 08:19:00 -0700 (PDT)
+From: naveen.andrews@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Component VaR
+Cc: ted.murphy@enron.com, vince.kaminski@enron.com, grant.masson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com, vince.kaminski@enron.com, grant.masson@enron.com
+X-From: Naveen Andrews
+X-To: Tanya Tamarchenko
+X-cc: Ted Murphy, Vince J Kaminski, Grant Masson
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+
+Some stability tests were performed on the simulation.
+(1) The Window size of the averaging in the simulation was changed from 10 to 
+20 for NG-PRICE(the biggest book in gas) for effective date June-28 .  As you 
+can see in the file 28NG-Price_Windowsize, the Component VaR numbers are very 
+similar. 
+
+(2)  To look at a calculational comparison, I looked at the STORAGE-PRC book 
+(which has no gamma position) for effective date of 27th and (a) calculated 
+FFVols, and (b)calculated the RiskMetrics VaR (the correlations are very high 
+across the term structure) and compared to the Component Var code 
+calculation, and again the two nubers are comparable, given the different 
+modes of calculation.
+
+Naveen
+

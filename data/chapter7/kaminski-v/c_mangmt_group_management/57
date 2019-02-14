@@ -1,0 +1,126 @@
+Message-ID: <31207533.1075856573913.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 08:13:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: stinson.gibner@enron.com
+Subject: Re: Asian Option for Pavel
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Vince J Kaminski
+X-To: Stinson Gibner
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson,
+
+Let's talk about it. It seems like an open personality clash developing 
+for the first time in the history of the group.
+
+Vince
+
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 05/02/2001 
+03:12 PM ---------------------------
+
+
+Zimin Lu
+05/02/2001 01:41 PM
+To: Paulo Issler/HOU/ECT@ECT
+cc:  (bcc: Vince J Kaminski/HOU/ECT)
+Subject: Re: Asian Option for Pavel  
+
+
+Our convention is whoever finalizes the model should write the 
+documentation.  It does not make sense
+to write one when changes are anticipated.  You have been working on this 
+almost a year, it never 
+strikes you that we need a documentation ? 
+
+I created Exotica.xll, does that also give you an excuse not working on 
+Exotica documentation ?   
+
+Zimin 
+
+
+
+
+
+Paulo Issler
+05/02/2001 11:52 AM
+To: Zimin Lu/HOU/ECT@ECT
+cc: Tai Woo/ENRON@enronXgate @ ENRON, Pavel Zadorozhny/Enron@EnronXGate 
+Subject: Re: Asian Option for Pavel  
+
+I am surprised that we do not have the documentation ready.
+I can make that for you. It is not there because you did not put that 
+together by the time it was created and all the changes I have made did not 
+required changes on the functionality.
+Paulo Issler
+ 
+
+
+
+Zimin Lu
+05/02/2001 11:29 AM
+To: Tai Woo/ENRON@enronXgate @ ENRON, Paulo Issler/HOU/ECT@ECT
+cc: Pavel Zadorozhny/Enron@EnronXGate 
+Subject: Re: Asian Option for Pavel  
+
+
+
+Tai Woo,
+
+Here are the c-codes for the CrudeAPO.  'Sig' is the spot
+volatility meaning the price volatility within the delivery period. 
+You should consult  with Pavel for the definition of this "extra" 
+parameters.   We 
+would like to see the Position Monitor once you get it running.
+We might have some additional suggestions.
+
+
+
+
+Paulo,
+
+Why don't we have a documentation on CrudeAPO you worked on ?
+I can not find it in Exotica help file.   Please supply that to Tai, thanks.
+
+
+
+--------------------------------------
+
+
+
+
+
+
+
+
+From: Tai Woo/ENRON@enronXgate on 05/02/2001 09:55 AM
+To: Paulo Issler/HOU/ECT@ECT
+cc: Kara Maloney/ENRON@enronXgate, Zimin Lu/HOU/ECT@ECT 
+Subject: Asian Option for Pavel
+
+This morning, Zimin told me that Pavel is using a special model in evaluating 
+his Asian option portfolio. 
+He asked me to talk to you in order to access to the code so that I can see 
+the difference made to the model.
+
+As I cannot find the doc. describing this model, please tell me what that new 
+input parameter 'Sig' is.
+
+Thanks,
+
+
+
+
+
+
+
+
+
+
+

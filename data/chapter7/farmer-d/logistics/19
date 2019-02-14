@@ -1,0 +1,101 @@
+Message-ID: <27611459.1075840432243.JavaMail.evans@thyme>
+Date: Wed, 14 Nov 2001 14:56:48 -0800 (PST)
+From: tammy.jaquet@enron.com
+To: suzanne.calcagno@enron.com, robert.superty@enron.com, donna.greif@enron.com, 
+	wendy.hiatt@enron.com, shahnaz.lakho@enron.com, 
+	richard.pinion@enron.com, l..dinari@enron.com, 
+	l..driscoll-ernest@enron.com, donna.greif@enron.com, 
+	t..muzzy@enron.com, j..farmer@enron.com, kevin.heal@enron.com, 
+	lisa.kinsey@enron.com, victor.lamadrid@enron.com, f..smith@enron.com, 
+	patti.sullivan@enron.com
+Subject: GISB IR Meeting Notes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TJAQUET>
+X-To: Calcagno, Suzanne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scalcagn>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Hiatt, Wendy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Whiatt>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Dinari, Sabra L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdinari>, Driscoll-Ernest, Marde L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdriscol>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Muzzy, Charles T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmuzzy>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>
+X-cc: 
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+
+GISB IR Meeting - 11-13&14, 2001
+
+SUMMARY:  
+Finalized the Transactional Information (FT, IT, and Capacity Release).  This information will be access via the Upload of a Request for Download of Posted Datasets.  Majority of the two days was spent developing the data dictionary for the new Producer Imbalance Statement.  The Producer Imbalance Statement is not a mandatory dataset.  Exxon was the only producer present.
+
+
+DETAILED NOTES:
+
+Informational Reporting
+Where should the reporting be located in the GISB Books for the IT & FT Reporting?
+?	In Cap Release books
+?	General book
+?	IT & FT into noms and cap release into cap release
+?	Create a new book called reports
+?	If we create a new book, we will have to do an executive summary.
+Should reside in Capacity Release book since the Upload Request for a Download of Posted Dataset is the request document.
+
+Update the Upload of a Request for Download of Posted Datasets to include code values and technical implementation to support the request for Transaction Information IT,  FT, and capacity release datasets.
+?Add "?withdrawals, or and transactional reports" to technical implementation.
+?Add code value, "Transaction Information Firm"
+?Add code value, "Transaction Information Interruptible"
+?Add code value, "Transaction Information - Capacity Release"
+
+Update the Response to Upload of a Request for Download of Posted Datasets to include code values to support the request for Transaction Information IT,  FT, and capacity release datasets.
+?Add code value, "Transaction Information Firm"
+?Add code value, "Transaction Information Interruptible"
+?Add code value, "Transaction Information - Capacity Release"
+
+Executive Summary for Capacity Release, under the Capacity Release Process/Datasets/EDI Transaction section modified with the below:
+?	Add the IT & FT reporting datasets under the mandatory datasets in alphabetical order
+?	Page 4 of Executive Summary - add new section describing the dataset.    
+Title: Transactional Information - Transactional information consisting of reports from a TSP provider detailing information for new or amended transportation service or capacity release transaction.  These reports are requested through the use of a Upload of a Request for Download of Posted Datasets and Response to Upload of a Request for Download of Posted Datasets.
+
+?	Business Process and Practices, under Overview
+o	First paragraph "Capacity Release Reports consists of the following datasets: ?. the Transactional Information - Interruptible, the Transactional Information - Firm,  and Transactional Information - Capacity Release
+Voting:
+?	Put together a rec form and data dictionaries and bring back next meeting and vote.  
+
+Producer Imbalance Statement ExxonMobil Work paper - In Progress
+?	Not a mandatory document
+?	One account per point.
+?	Modify Contact Person Data to Preparer Contact Person Data
+?	Cumulative Imbalance changed to Ending Imbalance Quantity
+?	Current Month Entitlement  - Quantity of gas each interest owner is entitled to take of the total production deliveries
+?	Current Month Imbalance changed to Current Month Quantity
+?	Interest Owner Data - The entity with ownership interest in the gas.
+?	Interest Owner - hold for resolution R97058B for the condition
+?	Interest Owner Name - hold for resolution of R97058B.
+?	Interest Owner Proprietary Code - hold for resolution of R97058B.
+?	Prior Period Adjustment - changed usage from Condition to Mandatory.  Condition = default is zero.  (In order words if a prior period is not present, send a zero.)
+?	Production Delivery - Quantity of gas delivered to a location for a Interest Owner based on Location Operator's allocation statement.
+?	Interest Owner Decimal changed Interest Owner Percentage - Percentage of gas owned by the Interest Owner.  Usage - mandatory.
+?	Add - Transportation Service Provider Data group - At detail level.
+?	Add - Transportation Service Provider data element = a code value that uniquely identifies the TSP. Mandatory.  
+?	Add - Transportation Service Provide Name. Mandatory. 
+?	Grand Total All TSP's = The total of all production deliveries made to all TSPs from a given location.   Mandatory.
+?	Total TSP = The total of all production deliveries made to a specified TSP from a given location.  Detail.  Mandatory.
+?	 Ending Imbalance Qty =  Cumulative imbalance for an interest owner delivered to a TSP. #20
+?	Current Month Entitlement -  a quantity of gas each interest owner is entitled to take of the Grand Total - All TSP for a given TSP. #16      
+?	Interest Owner Percentage - Percentage of the gas owned by the Interest Owner dedicated to specified TSP.
+?	Add discussion to the TIBP the definition of PPI.  PPI is related to Interest Owner Percentage.  PPI is the portion of the production interest dedicated to a TSP.
+?	Field - #6 We don't currently support this location information in any other GISB documents.  It is derivable from the location.
+?	County - #6 We don't currently support this location information in any other 
+?	GISB documents.  It is derivable from the location.
+?	State - #6 We don't currently support this location information in any other GISB documents.  It is derivable from the location.
+?	Move location data to header level.
+?	Location Operator - Party recognized as the Operator of record for the location.
+?	Location Operator - Proprietary code - hold for R97058B
+?	Move Statement Basis Data to header.  If one line time is adjusted or estimated, it impacts the whole allocation.
+?	Statement Recipient ID* - hold for R97058
+?	Cumulative Ending Imbalance Qty (NEW) - #26 Cumulative imbalance qty for the current period for an interest owner delivered to all TSPs.  Mandatory.  Detail.
+?	Cumulative Imbalance Qty (NEW) #24 Cumulative imbalance qty for the current period for an interest owner.  Mandatory.  Detail.
+
+
+
+
+Tammy Lee-Jaquet
+713-853-5375
+tammy.jaquet@enron.com

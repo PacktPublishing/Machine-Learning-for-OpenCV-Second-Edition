@@ -1,0 +1,37 @@
+Return-Path: <today@hotmail.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26400 invoked by uid 115); 11 Nov 2004 18:58:13 -0000
+Received: from today@hotmail.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.196.254.42):. 
+ Processed in 0.097094 secs); 11 Nov 2004 18:58:13 -0000
+Received: from unknown (HELO hotmail1440.com) (211.196.254.42)
+  by churchill.factcomp.com with SMTP; 11 Nov 2004 18:58:12 -0000
+From: =?iso-8859-1?q?=C1=A4=B8=AE=B6=F3_<today@hotmail.net>?=
+To: bruceg@em.ca
+Reply-To: today@hotmail.net
+Subject: =?iso-8859-1?q?(=B1=A4=B0=ED)=BE=EE=B6=B2_"=B4=EB=C3=E2"=C0=CC=B6=F3=B5=B5_=C3=A5=C0=D3=C1=F6=B0=DA=BD=C0=B4=CF=B4=D9.@?=
+Date: Fri, 12 Nov 2004 03:59:00 +0900
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="d8837e12-fd32-4ec7-a027-587134abdf33"
+X-Qmail-Scanner-Message-ID: <110019949367226394@churchill>
+
+
+This is a multi-part message in MIME format
+--d8837e12-fd32-4ec7-a027-587134abdf33
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><a href=3D"http://218.38.12.200:18504/pl_13.asp"><img src=3D=
+"http://blogfiles.naver.net/data6/2004/11/2/182/mpl11-com050505-frog66.jpg" =
+border=3D0></a></td>
+  </tr>
+  <tr>
+    <td><a href=3D"http://218.38.12.200:18504/pl_newno.asp"><img src=3D=
+"http://blogfiles.naver.net/data6/2004/11/2/208/mpl11-com050505-frog66.gif" =
+border=3D0></a></td>
+  </tr>
+</table>  
+--d8837e12-fd32-4ec7-a027-587134abdf33--
+

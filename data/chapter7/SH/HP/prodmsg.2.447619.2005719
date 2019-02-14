@@ -1,0 +1,55 @@
+Received: from smtp.keme.net (62.121.20.8)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:14 -0000
+Received: from Debian-exim by smtp.keme.net with local (Exim 4.30)
+	id 1Dupqb-0001Ia-4l
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:01:13 +0100
+X-Failed-Recipients: antonio_schiavon@artac.com
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@smtp.keme.net>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupqb-0001Ia-4l@smtp.keme.net>
+Date: Tue, 19 Jul 2005 12:01:13 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  antonio_schiavon@artac.com
+    SMTP error from remote mailer after RCPT TO:<antonio_schiavon@artac.com>:
+    host a.mx.intamail.com [62.3.206.135]: 553 sorry, unknown email address (#5.7.1)
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [210.78.83.23] (helo=mailwisconsin.com)
+	by smtp.keme.net with smtp (Exim 4.30)
+	id 1DupqZ-0001GO-6B
+	for antonio_schiavon@artac.com; Tue, 19 Jul 2005 12:01:12 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516474;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonio_schiavon@artac.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973404">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>

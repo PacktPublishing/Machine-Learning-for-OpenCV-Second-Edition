@@ -1,0 +1,93 @@
+Message-ID: <22485177.1075855896140.JavaMail.evans@thyme>
+Date: Tue, 20 Jun 2000 12:14:00 -0700 (PDT)
+From: julie.nickell@enron.com
+To: wes.colwell@enron.com, sally.beck@enron.com
+Subject: ENA SAP Project
+Cc: danny.wo@enron.com, kate.wo@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: danny.wo@enron.com, kate.wo@enron.com
+X-From: Julie Nickell
+X-To: Wes Colwell, Sally Beck
+X-cc: Danny D. Rudloff@ANDERSEN WO, Kate E. Agnew@ANDERSEN WO
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As you know, we have substantially wrapped up our work related to this 
+project.  Today, we are making what I hope are final changes to the maps and 
+deliverables, with the anticipation that we will deliver to you complete 
+binders by Wednesday.  
+
+One issue that we wanted to communicate relates to the use of manual payment 
+processes and the risk that processing manual payments presents in the 
+automated Unify/SAP environment.  This issue was raised by Melissa during our 
+discussion of the manual cash reconciliation effort caused by the inability 
+of SAP to auto-match cash receipts and disbursements in situations where the 
+money has moved or been received, but the corresponding JE has not been made 
+in SAP.  Both Melissa and Cindy Morrow have been involved in subsequent 
+discussions related to the below-mentioned risks. 
+
+1.  Risk of JE and payment duplication:
+
+Payments taken directly to Treasury and underlying transaction is recorded in 
+Unify:
+ In the event that the transaction giving rise to the manual payment is 
+entered initially into Unify (which would be the case for all normal 
+commodity payments, excluding broker fee and broker margin payment 
+transactions), a risk exists that the payment could be recorded and paid 
+twice (once by either A/P or Treasury when the manual payment is wired and 
+subsequently recorded, and once during the normal Unify to SAP interface).  
+Process controls will be put in place to mitigate this risk; however, all 
+controls will be people-based, not system-based.  It is too late to rebuild 
+the Unify to SAP interface to better address the use of manual payments.  One 
+additional suggestion might be to work with each group to reduce the use of 
+manual payments except under well-defined, important circumstances.
+
+Payments taken to Treasury, and underlying transaction is recorded directly 
+to SAP (does not go through Unify):
+If the payment is not entered into SAP with payment method "J", A/P will not 
+realize that the payment has already been made and will process the 
+disbursement a second time.
+
+2.  Risk of understated expense:
+
+Payments taken to Treasury and underlying transaction is recorded in Unify:
+For manual payments that are not finalized in Unify (a process performed in 
+the system to mark an invoice as final) by month-end (but the disbursement 
+has already happened), expense will be understated.
+
+Payments taken to Treasury, and underlying transaction is recorded directly 
+to SAP (does not go through Unify):
+If payment is not input into SAP by month-end but cash has moved, expense 
+will be understated.  (Cash outflow account will show a credit balance which 
+will be flipped to A/P, but no income statement entry will be made at that 
+time.)
+
+3.  Risk of cash misappropriation:
+
+In addition to the above risks related to the use of manual payments, we also 
+believe that a risk exists related to the use of Excel-generated counterparty 
+invoices and the lack of segregation between the person responsible for 
+preparing these invoices and also for handling/having access to the related 
+accounting records.  We believe that it may be possible for a settlements 
+coordinator to change the bank routing instructions or bank account number on 
+the Excel invoice mailed to the counterparty and then manipulate the 
+accounting records during the cash application process to either write off 
+the account balance or to reflect the receivable as being paid while 
+constantly moving cash application balances from one counterparty to another 
+(so that no one account balance ages past an acceptable range).  We have been 
+unable to determine a set of control procedures that would mitigate this risk.
+
+4.  Revision to counterparty banking details:
+
+We are currently investigating the procedure performed by Treasury when 
+problems with bank account details cause payments to kick-out of Treasury 
+workstation.  If the risk of misappropriation exists related to this 
+procedure, we will separately communicate.
+
+The above may be unclear.  If so, we would be glad to sit down with you for 
+15 minutes or so and clarify.  Please let me know if you have any questions.  
+
+Thank you for the opportunity to work on this project.  

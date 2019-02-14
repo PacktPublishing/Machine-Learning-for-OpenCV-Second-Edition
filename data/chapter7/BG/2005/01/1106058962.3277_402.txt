@@ -1,0 +1,35 @@
+Return-Path: <boston@changing_boston.net>
+Received: (fqmail 31302 invoked from network); 18 Jan 2005 09:14:42 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 18 Jan 2005 09:14:42 -0000
+Received: (qmail 3626 invoked from network); 18 Jan 2005 09:14:13 -0000
+Received: from tiger-woods (ppp-61.91.64.9.revip.asianet.co.th [61.91.64.9])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 18 Jan 2005 09:14:13 -0000
+From: "BOSTON NETWORK เครือเดอะเนชั่น" <boston@changing_boston.net>
+To: <webmaster@ezmlm.org>
+Subject: หลักสูตร "พัฒนาทรัพยากรมนุษย์อย่างมืออาชีพ" Changing HRD to Strategic Partner
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 18 Jan 2005 16:14:24
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font color="#666666" size="2"> หากรายละเอียดด้านล่างไม่แสดงกรุณา <a href="http://www.ohgos.com/boston/boston.html">คลิกที่นี่</a> 
+</font> <iframe src="http://www.ohgos.com/boston/b1/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> <br>
+<br>
+<img src="http://www.ohgos.com/boston/boston.gif" width="591" height="1165" border="0" usemap="#Map"> 
+<map name="Map"> 
+  <area shape="rect" coords="417,782,573,800" href="http://www.bostonnetwork.com" target="_blank">
+  <area shape="rect" coords="0,916,589,1111" href="http://www.ohgos.com/boston/boston02.html">
+</map>
+<br>
+<br>
+<hr noshade>
+<font color="#666666" size="1"> unsubscript please reply to <a href="mailto:chitchail@hotmail.com">chitchail@hotmail.com</a> 
+</font>
+</body>
+</html>

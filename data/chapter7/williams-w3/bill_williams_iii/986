@@ -1,0 +1,201 @@
+Message-ID: <19605051.1075863318746.JavaMail.evans@thyme>
+Date: Mon, 11 Jun 2001 08:12:54 -0700 (PDT)
+From: kate.symes@enron.com
+To: stephanie.piwetz@enron.com
+Subject: Missing Bloomberg Deals
+Cc: bill.williams@enron.com, geir.solberg@enron.com, david.porter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com, geir.solberg@enron.com, david.porter@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Piwetz, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=4b1cedd0-33914a39-862567fa-728082>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Solberg, Geir </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsolber>, Porter, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=826454fa-a15924c6-862566c2-620989>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Stephanie -
+I believe I've found these trades. The first one already had Bloomberg in as the broker along with the appropriate flat fee. The second deal did not have a broker or fee in it - those have been added. Please let me know if you still don't see the trades.
+
+639921 (Geir Solberg) - Sell AEP/25 MW/SP-15/$105 - Deal flows hours 14 through 18, and broker fee reflects $15 flat times 4 trades - $60
+
+640346 (David Porter) - Sell TransAlta/50 MW/SP-15/$105 - Deal flows for HE 16, and broker fee reflects $15
+
+Thanks,
+Kate
+
+
+
+ -----Original Message-----
+From: 	Piwetz, Stephanie  
+Sent:	Friday, June 08, 2001 2:03 PM
+To:	Symes, Kate
+Subject:	Bloombergs hourly SELL 25 SPH15 at 105.0000 - AEP SERVICE CORP.
+
+Kate, I believe there are 5 trades below, that I cannot find in system
+thanks
+
+Stephanie Piwetz/HOU/ECT on 06/08/2001 04:01 PM ---------------------------
+
+ 
+"BLOOMBERG POWERMATCH " <POWERMATCH@bloomberg.net> on 06/08/2001 10:47:03 AM
+To:	
+cc:	 
+Subject:	SELL  25 SPH15    at 105.0000 - AEP SERVICE CORP.
+
+
+SELL  25 SPH15    at 105.0000 - AEP SERVICE CORP.
+Trade  10 RefID 20010608440010 on 06/08/2001
+Buyer  : AEP SERVICE CORP.                               (AGGR)
+DAVID BAKER                              Phone 614-324-5027
+Seller : ENRON POWER MARKETING INC. (WEST)
+GEIR SOLBERG                             Phone 503 464 3808
+Delivery: Physical power, CAL ISO SP15
+Type : Financ. firm, w/liquidated damages, CAISO firm energy
+Dates: 6/08/2001 through 6/08/2001
+Hours: 1400 - 1459  Pacific Prevailing Time
+Rate : 25 Megawatts per hour
+Rate      25 MWh at USD     105/MWh, Total      25 MWh
+Commission Fee : USD   15.00 (FLAT)
+
+
+--------------------------------------------------------------------------------
+Buyer and Seller acknowledge that all aspects and terms of this transaction were determined and agreed to solely by the
+Buyer and the Seller and compliance with the terms of this transaction is strictly their obligation. If any dispute
+occurs, or if Buyer and Seller fail to reach agreement on all of the terms of this transaction, Buyer and Seller agree
+to hold Bloomberg Powermatch LLC, Bloomberg L.P. and each of their affiliates and successors harmless from any and all
+liabilities that may result therefrom.
+
+---------------------- Forwarded by Stephanie Piwetz/HOU/ECT on 06/08/2001 04:01 PM ---------------------------
+
+ 
+"BLOOMBERG POWERMATCH " <POWERMATCH@bloomberg.net> on 06/08/2001 10:47:06 AM
+To:	
+cc:	 
+Subject:	SELL  25 SPH16    at 105.0000 - AEP SERVICE CORP.
+
+
+SELL  25 SPH16    at 105.0000 - AEP SERVICE CORP.
+Trade  12 RefID 20010608440012 on 06/08/2001
+Buyer  : AEP SERVICE CORP.                               (AGGR)
+DAVID BAKER                              Phone 614-324-5027
+Seller : ENRON POWER MARKETING INC. (WEST)
+GEIR SOLBERG                             Phone 503 464 3808
+Delivery: Physical power, CAL ISO SP15
+Type : Financ. firm, w/liquidated damages, CAISO firm energy
+Dates: 6/08/2001 through 6/08/2001
+Hours: 1500 - 1559  Pacific Prevailing Time
+Rate : 25 Megawatts per hour
+Rate      25 MWh at USD     105/MWh, Total      25 MWh
+Commission Fee : USD   15.00 (FLAT)
+
+
+--------------------------------------------------------------------------------
+Buyer and Seller acknowledge that all aspects and terms of this transaction were determined and agreed to solely by the
+Buyer and the Seller and compliance with the terms of this transaction is strictly their obligation. If any dispute
+occurs, or if Buyer and Seller fail to reach agreement on all of the terms of this transaction, Buyer and Seller agree
+to hold Bloomberg Powermatch LLC, Bloomberg L.P. and each of their affiliates and successors harmless from any and all
+liabilities that may result therefrom.
+
+---------------------- Forwarded by Stephanie Piwetz/HOU/ECT on 06/08/2001 04:01 PM ---------------------------
+
+ 
+"BLOOMBERG POWERMATCH " <POWERMATCH@bloomberg.net> on 06/08/2001 10:47:04 AM
+To:	
+cc:	 
+Subject:	SELL  25 SPH18    at 105.0000 - AEP SERVICE CORP.
+
+
+SELL  25 SPH18    at 105.0000 - AEP SERVICE CORP.
+Trade  11 RefID 20010608440011 on 06/08/2001
+Buyer  : AEP SERVICE CORP.                               (AGGR)
+RON LESHINSKI                            Phone 614-324-5079
+Seller : ENRON POWER MARKETING INC. (WEST)
+GEIR SOLBERG                             Phone 503 464 3808
+Delivery: Physical power, CAL ISO SP15
+Type : Financ. firm, w/liquidated damages, CAISO firm energy
+Dates: 6/08/2001 through 6/08/2001
+Hours: 1700 - 1759  Pacific Prevailing Time
+Rate : 25 Megawatts per hour
+Rate      25 MWh at USD     105/MWh, Total      25 MWh
+Commission Fee : USD   15.00 (FLAT)
+
+
+--------------------------------------------------------------------------------
+Buyer and Seller acknowledge that all aspects and terms of this transaction were determined and agreed to solely by the
+Buyer and the Seller and compliance with the terms of this transaction is strictly their obligation. If any dispute
+occurs, or if Buyer and Seller fail to reach agreement on all of the terms of this transaction, Buyer and Seller agree
+to hold Bloomberg Powermatch LLC, Bloomberg L.P. and each of their affiliates and successors harmless from any and all
+liabilities that may result therefrom.
+
+---------------------- Forwarded by Stephanie Piwetz/HOU/ECT on 06/08/2001 04:01 PM ---------------------------
+
+ 
+"BLOOMBERG POWERMATCH " <POWERMATCH@bloomberg.net> on 06/08/2001 10:47:02 AM
+To:	
+cc:	 
+Subject:	SELL  25 SPH17    at 105.0000 - AEP SERVICE CORP.
+
+
+SELL  25 SPH17    at 105.0000 - AEP SERVICE CORP.
+Trade   9 RefID 20010608440009 on 06/08/2001
+Buyer  : AEP SERVICE CORP.                               (AGGR)
+RON LESHINSKI                            Phone 614-324-5079
+Seller : ENRON POWER MARKETING INC. (WEST)
+GEIR SOLBERG                             Phone 503 464 3808
+Delivery: Physical power, CAL ISO SP15
+Type : Financ. firm, w/liquidated damages, CAISO firm energy
+Dates: 6/08/2001 through 6/08/2001
+Hours: 1600 - 1659  Pacific Prevailing Time
+Rate : 25 Megawatts per hour
+Rate      25 MWh at USD     105/MWh, Total      25 MWh
+Commission Fee : USD   15.00 (FLAT)
+
+
+--------------------------------------------------------------------------------
+Buyer and Seller acknowledge that all aspects and terms of this transaction were determined and agreed to solely by the
+Buyer and the Seller and compliance with the terms of this transaction is strictly their obligation. If any dispute
+occurs, or if Buyer and Seller fail to reach agreement on all of the terms of this transaction, Buyer and Seller agree
+to hold Bloomberg Powermatch LLC, Bloomberg L.P. and each of their affiliates and successors harmless from any and all
+liabilities that may result therefrom.
+
+---------------------- Forwarded by Stephanie Piwetz/HOU/ECT on 06/08/2001 04:01 PM ---------------------------
+
+ 
+"BLOOMBERG POWERMATCH " <POWERMATCH@bloomberg.net> on 06/08/2001 01:14:46 PM
+To:	
+cc:	 
+Subject:	SELL  50 SPH16    at 105.0000 - TRANSALTA ENERGY MARKETING (US)
+
+
+SELL  50 SPH16    at 105.0000 - TRANSALTA ENERGY MARKETING (US)
+Trade  21 RefID 20010608440021 on 06/08/2001
+Buyer  : TRANSALTA ENERGY MARKETING (US) INC.
+LANA SMITH                               Phone 403-267-6956
+Seller : ENRON POWER MARKETING INC. (WEST)               (AGGR)
+GEIR SOLBERG                             Phone 503 464 3808
+Delivery: Physical power, CAL ISO SP15
+Type : Financ. firm, w/liquidated damages, CAISO firm energy
+Dates: 6/08/2001 through 6/08/2001
+Hours: 1500 - 1559  Pacific Prevailing Time
+Rate : 25 Megawatts per hour
+Rate      50 MWh at USD     105/MWh, Total      50 MWh
+Commission Fee : USD   15.00 (FLAT)
+
+
+--------------------------------------------------------------------------------
+Buyer and Seller acknowledge that all aspects and terms of this transaction were determined and agreed to solely by the
+Buyer and the Seller and compliance with the terms of this transaction is strictly their obligation. If any dispute
+occurs, or if Buyer and Seller fail to reach agreement on all of the terms of this transaction, Buyer and Seller agree
+to hold Bloomberg Powermatch LLC, Bloomberg L.P. and each of their affiliates and successors harmless from any and all
+liabilities that may result therefrom.
+
+
+
+
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>

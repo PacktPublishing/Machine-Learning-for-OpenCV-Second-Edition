@@ -1,0 +1,104 @@
+Message-ID: <18764457.1075854131930.JavaMail.evans@thyme>
+Date: Tue, 23 May 2000 14:56:00 -0700 (PDT)
+From: brenda.herod@enron.com
+To: pat.clynes@enron.com, daren.farmer@enron.com
+Subject: 24 x 5 Products
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Pat Clynes, Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Please make sure this is clearly understood by the schedulers.
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 05/23/2000 
+09:52 PM ---------------------------
+   
+
+
+From:  Jennifer deBoisblanc Denny                                             
+                05/23/2000 05:11 PM	
+	
+	
+	                           
+	
+
+To: Steve Venturatos/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT, O'Neal D 
+Winfree/HOU/ECT@ECT, Michael Walters/HOU/ECT@ECT, Bryan Hull/HOU/ECT@ECT, 
+Jeff A Crook/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, Ami 
+Chokshi/Corp/Enron@ENRON
+cc: Torrey Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT, Brenda F 
+Herod/HOU/ECT@ECT, Sheri Thomas/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, Scott 
+Mills/HOU/ECT@ECT 
+Subject: 24 x 5 Products
+
+Eric Bass, Texas Desk trader, requested the following product described below 
+be traded on EnronOnline. This product will NOT bridge into Sitara and will 
+have to be put in manually. 
+
+The reason it will not bridge is due to the fact that it can have multiple 
+stripes of start & end dates rather than one start & end date. Currently, 
+EnronOnline can
+only send one start & end date per deal therefore it will fail in the bridge 
+monitor and will have to be manually entered into Sitara & subsequently 
+cleared out of the monitor. 
+
+Since these transactions could flow next day, it is imperative that these 
+transactions get into Sitara as soon as possible. Please read the FULL 
+description below. (This product looks like a month long deal but excludes 
+weekends. The "Wkd" is short for week days.)
+
+We do not anticipate a large volume of these transactions but need to be 
+prepared to react quickly when they do. For the future, we are looking into 
+the cost/benefit of EnronOnline having the capability of sending multiple 
+dates for these types of products.
+
+If you have any questions, please call me at 3-5824
+Thank you. 
+  
+---------------------- Forwarded by Jennifer deBoisblanc Denny/HOU/ECT on 
+05/23/2000 02:05 PM ---------------------------
+Dale Neuner   05/23/2000 10:26 AM
+
+To: David Forster/Corp/Enron@Enron, Sheri Thomas/HOU/ECT@ECT, Jennifer 
+deBoisblanc Denny/HOU/ECT@ECT, Jason Althaus/Corp/Enron@Enron, Jason 
+Althaus/Corp/Enron@Enron, Melba Lozano/HOU/ECT@ECT
+cc: Eric Bass/HOU/ECT@ECT 
+Subject: 24 x 5 Products
+
+We are rolling out the use of the 24 x 5 Nat Gas Product commencing tomorrow, 
+May 24th. 
+
+The Product is a month-long Physical Nat Gas Product traded off the Texas 
+desk. It will be identified as follows:
+
+US Gas Phy       Exxon Katy WkD          Jun00           USD/MM
+
+This Product is different from the usual Products traded on the Texas Desk in 
+that the Product  description has an 
+indicator of  WkD, which designates that the Product only moves gas on a day 
+that is a Monday, Tuesday, Wednesday, 
+Thursday or Friday.
+
+These Products WILL NOT bridge into Sitara. Risk personnel will need to be 
+diligent to identify these Products based 
+on the information in the Product Description to ensure that the Products are 
+entered into Sitara correctly (presumably - 
+strips of Monday-Friday trades and the corresponding month-starting days 
+and/or month-ending days).
+
+We understand the potential impact of having to manually input these 
+transactions and have asked the appropriate
+systems personnel to examine the links between EOL and Sitara and consider 
+building bridge capability. In the
+interim, we anticipate that the trading volume on these Products will be low, 
+and will ask for higher prioritization of the
+bridging in the event that volumes increase.
+
+Dale
+3-9746
+
+

@@ -1,0 +1,179 @@
+Message-ID: <20178509.1075849852978.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 11:53:00 -0800 (PST)
+From: brenda.herod@enron.com
+To: mike.jordan@enron.com
+Subject: Re: Metals
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Brenda F Herod
+X-To: Mike Jordan
+X-cc: Sally Beck
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Mike,  
+
+Thanks for your message.  You are on point as to my intent.  From the 
+discussion I had with Andy last week, there seems to be several similarities 
+between the Metals business and industrial markets.  I believe the blueprint 
+that is forthcoming will provide more insight that will be helpful to you 
+all.  We would love to share this with you, and also discuss your system 
+direction.  There may be some opportunities for us to work together on the 
+development.  I would like to have a discussion to talk about next steps, and 
+believe Andy is planning to initiate this after he returns from holiday.  Let 
+me know if you have some other ideas.
+
+I'm sorry that we didn't have a chance to get together last week while I was 
+in London.  My trip was very short, and I kept missing you when I went to 
+your desk.  I'll plan some time with you when I'm there next time.    
+
+
+
+
+Mike Jordan
+01/24/2001 07:51 AM
+To: Brenda F Herod/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT 
+Subject: Re: Metals  
+
+Brenda
+
+It strikes me that the planning documentation could be enormously useful to 
+us in backtesting our existing processes and determining any potential 
+overlaps
+
+Is there any obstacle to access to this information ?
+
+
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Brenda F Herod                           23/01/2001 23:40
+	
+
+To: Andrew Cornfield/LON/ECT@ECT
+cc: Mike Jordan/LON/ECT@ECT, Paul Wallace/LON/ECT@ECT, John 
+Jacobsen/HOU/ECT@ECT, Roy Lipsett/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT, 
+Kristen J Hanson/HOU/ECT@ECT, Yvette G Connevey/Corp/Enron@ENRON, Jill 
+Lafave/ENRON@enronXgate, Delmar Davis/ENRON@enronXgate, Daniel 
+Hamilton/ENRON@enronXgate 
+
+Subject: Re: Metals  
+
+Andy,
+
+Thanks so much for your message.  I had you on my "To Do" list today to 
+follow-up from our conversation last week.  I appreciate your responses, and 
+will follow-up as needed.
+
+Just to recap EIM's current inititives.
+
+PriceWaterhouseCoopers (PWC) was engaged in 10/00 to develop a business plan 
+for tactical and strategic solutions for the projected growth in the physical 
+business.  In 11/00, AA was engaged to develop a "Blueprint" of EIM major 
+processes (Deal Execution, Deal Capture, Risk Management, Logistics, 
+Settlements and Financial Reporting), down to level 2 processes.  The 
+initiatives have been combined into one team focused on delivering the 
+"Blueprint", a gap analysis of Enron systems to business needs and 
+recommended systems.  A complete "roadmap" should be laid out with a 
+0-3months, 4-6months, 7-9 months and 10-12months timeline.  The plan 
+addresses tactical also.  
+
+Our overall objective:  Build an infrastructure (people, processes and 
+systems) that is scalable and supports the trading business of EIM.  The 
+current industries are Forest Products and Steel.  However, additional 
+industries may be added.  The targeted infrastructure would require little 
+change to support new industries.  
+
+The delieverable is expected by the end of 2/01.  We'd be happy to visit with 
+you all (video conference or Houston,....) to give you more information.  Let 
+me know how to proceed.  
+
+Thanks again for your time.  Since I wasn't able to attend the Controllers' 
+Conference last 10/00, I'm glad I got to meet you last week.  Stay in touch.
+
+Brenda
+
+
+To: Brenda F Herod/HOU/ECT@ECT
+cc: Mike Jordan/LON/ECT@ECT, Paul Wallace/LON/ECT@ECT 
+Subject: Metals
+
+Brenda
+
+As discussed at our meeting last week there are a few areas of commonality 
+between Enron Metals and EIM that should allow leverage off common goals.
+
+In particular I promised info on a few areas:
+
+Project Q assessment
+
+A lot of the issues raised in the report are particular to Enron Metals 
+(being to do with interfaces with our AS400 ysstem) however high level issues 
+which formed part of the decision to not develop this for Enron metals were:
+Q is over specified for metals. Traffic / logistics for metals is less 
+complex than oil & coal.
+Metals process tends towards Buy>Store>Sell whereas for liquids the storage 
+is not as prevelant
+Metals logistics typically involves trucks whereas liquids is ship/barge
+
+2.    Inventory Controls
+
+Again the reports produced here have been very specific to Enron Metals. Paul 
+Wallace a manager in the co-ordination function is working extensively on 
+developing the controls in this area. I would suggest that you contact Paul 
+directly if you wish to discuss specific areas or inventory controls in 
+general.
+
+3.    Funding of inventory
+
+We have a structured finance facility here in London. The deal is specific to 
+Enron Metals markets in that it works by reference to LME prices as these are 
+the base index for all the positions placed in the facility. If structured 
+financing is sort for EIM then it would be appropriate to talk to either 
+David Tregar (Metals Commercial) or Bill Appleby (Global Finance) as an intro 
+to the issues faced.
+
+4.    Curve Management Process
+
+The markets in which our merchanting division trades are based on the LME 
+curves but are linked to a large number of basis curves for quality and 
+location. Given the vast number we have opted to break down the markets by 
+brand group and port location. E.G. for Copper this means we have a grid with 
+5 brand groups and 3 sets of port groups (13 for europe, 7 for the US and 6 
+for the Far East). The maintaince & price testing of the grids is made 
+manageable by the fact the premiums only need be entered for brand and port 
+groups by the traders yet prices can be tested by reference to node points 
+i.e. price of  specific brand at a given location which can be checked to a 
+market quote.
+
+5.    Re recruitment of paper traders
+
+I haven't been able to contact him but I recall that the brother of David 
+Rosenblum, one of the metals traders in Chicago, is a trader of recylced 
+paper.
+
+I'll keep you posted on long term system development plans here in London. 
+I'd appreciate same for EIM.
+
+Regards
+Andy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

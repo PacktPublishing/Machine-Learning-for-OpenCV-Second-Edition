@@ -1,0 +1,82 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-filicide@em.ca
+Received: (qmail 11508 invoked by uid 115); 14 Apr 2005 02:17:37 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.146.154):. 
+ Processed in 1.214531 secs); 14 Apr 2005 02:17:37 -0000
+Received: from unknown (HELO sapo.pt) (82.155.146.154)
+  by churchill.factcomp.com with SMTP; 14 Apr 2005 02:17:29 -0000
+Date: Wed, 13 Apr 2005 12:50:14 +0000 (Hora padrão de GMT)
+From: Events info <info.eventos@sapo.pt>
+To: bait-filicide@em.ca
+Message-ID: 38455.534884259258_17991172264580
+Subject: KING BRITT press release
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cheyenne apresenta King Britt</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#333A53" text="#FFFFFF" link="#FF6600" vlink="#FF6600" alink="#FF6600">
+<div align="center">
+  <table width="450"  border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="http://p001.no.sapo.pt/kingbritt/nl/top_britt.jpg" width="450" height="470" /></td>
+    </tr>
+    <tr>
+      <td bgcolor="#444E70"><table width="100%"  border="0" cellspacing="0" cellpadding="5">
+        <tr>
+          <td><p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="2">O TALENTO</font></strong><br />
+            Um talento que supera todos os estilos, ultrapassa as barreiras dos g&eacute;neros e escapa a qualquer categoria expressando-se atrav&eacute;s do deep house, hip-hop, broken beat, nu-jazz, funk e afto-tech. Isto define, por alto, o <strong>DJ/produtor</strong> oriundo da c&eacute;lebre cidade de Filad&eacute;lfia, <strong>King Britt</strong>.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="2">PIONEIRO...</font></strong><br />
+              Este <strong>pioneiro</strong> de tudo o que &eacute; soulful e ritmado come&ccedil;ou sua carreira DJ no in&iacute;cio da d&eacute;cada dos anos 90 marcando o seu lugar ao lado de nomes sonantes do mundo da m&uacute;sica, tais como os vencedores de pr&eacute;mios Grammy, Digable Planets.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Ao longo dos anos que se seguiram, suas afilia&ccedil;&otilde;es a nomes do jazz e funk como a c&eacute;lebre &Uacute;rsula Rucker vieram acrescentar ao seu imenso talento um estilo ainda mais apurado.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Com passagens e fus&otilde;es pelos mais diversos estilos tais como Hip Hop, Jazz, Funk e Soul, Britt foi editando diversos &aacute;lbuns que foram criando o seu impacto e estatuto na ind&uacute;stria.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img src="http://p001.no.sapo.pt/kingbritt/nl/jazzmental.jpg" width="150" height="142" hspace="5" border="1" align="left" /><strong><font size="2">JAZZMENTAL</font><br />
+            </strong></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">O seu &uacute;ltimo trabalho, <strong>Jazzmental</strong>, que servir&aacute; de in&iacute;cio a uma s&eacute;rie de compila&ccedil;&otilde;es, integra sonoridades experimentais que oscilam entre broken beats, jazz e funk.<br />
+                Esta compila&ccedil;&atilde;o, lan&ccedil;ada pela <strong>Slip&rsquo;n&rsquo;Slide</strong> apresenta entre as suas faixas uma exclusiva da sua autoria em conjunto com a cantora RnB Lizz Fields.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Como remixer, <strong>King Britt</strong> j&aacute; teve a oportunidade de reinventar faixas de artistas de gabarito internacional como Tori Amos, Macy Grey, Yoko Ono, entre outros.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Seja em que estilo for, <strong>King Britt</strong>, um homem da m&uacute;sica e para a m&uacute;sica, n&atilde;o nos deixar&aacute; de surpreender e continuar&aacute; a moldar o som e a cultura neste novo s&eacute;culo.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="2">QUASE 2 ANOS DEPOIS EM PORTUGAL</font></strong><br />
+  King Britt que j&aacute; pisou o solo Portugu&ecirc;s, regressa este fim-de-semana para um tour de lan&ccedil;amento do seu mais recente album. Uma grande expectativa para que Sexta 15 de Abril no Vinyl em Coimbra, depois no New Voice em Matosinhos, S&aacute;bado 16 de Abril e a ultima data desta digress&atilde;o em Braga, House Caf&eacute; no Domingo 17 de Abril.</font></p>
+            <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="2">CHEYENNE O MAIN SPONSOR</font></strong><br />
+  A Cheyenne, uma das mais importantes marcas de modo portuguesas &eacute; o patrocinador principal deste tour com KING BRITT, aproveitando para divulgar o lan&ccedil;amento da sua nova loja em Coimbra, a partir de 19 de Abril, no Centro Comercial Dolce Vita.<br />
+            </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Para o evento do New Voice em Matosinhos a Cheyenne oferece aos seus clientes convites gratuitos na compra dos seus produtos nas suas lojas do Arr&aacute;bida Shopping, Gaia Shopping, Parque Nascente, Maia Shopping, Ribeir&atilde;o, Vila Nova de Famalic&atilde;o, Factory Vila do Conde e Viana do Castelo</font><font size="1">.</font></p>            </td>
+        </tr>
+      </table>        </td>
+    </tr>
+    <tr>
+      <td><img src="http://p001.no.sapo.pt/kingbritt/nl/bot_britt.jpg" width="450" height="341" /></td>
+    </tr>
+  </table>
+  <br />
+  <table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td> <div align="center">
+        <p><font color="#666666" size="1" face="Arial, Helvetica, sans-serif">O seu email foi registado na base de dados da Heart &amp; Soul.<br />
+          Se desejar ser removido desta base de dados, envie um email para remove@heartandsoul.pt</font></p>
+      </div></td>
+    </tr>
+  </table>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

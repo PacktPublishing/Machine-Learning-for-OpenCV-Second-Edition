@@ -1,0 +1,491 @@
+Return-Path: <radar@i-mrktng.net>
+Received: (fqmail 10414 invoked from network); 19 Aug 2004 00:03:15 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 19 Aug 2004 00:03:15 -0000
+Received: (qmail 31798 invoked from network); 19 Aug 2004 00:03:13 -0000
+Received: from barrys ([69.6.66.19])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 19 Aug 2004 00:03:13 -0000
+From: "Stock Radar 2" <radar@i-mrktng.net>
+Subject: Tomorrow's Alert.  Homeland Security Technology offers 30%  Share
+ Dividend.
+To: bugs@ezmlm.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: radar@i-mrktng.net
+Date: Wed, 18 Aug 2004 19:02:16 -0500
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+
+
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E400E43454B4744430E08.aspx'>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PersonName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="time"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="date"/>
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:DoNotRelyOnCSS/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:DocumentKind>DocumentEmail</w:DocumentKind>
+  <w:EnvelopeVis/>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]>
+<style>
+st1\:*&#123;behavior:url(#default#ieooui) &#125;
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	&#123;font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;&#125;
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	&#123;mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";&#125;
+a:link, span.MsoHyperlink
+	&#123;color:blue;
+	text-decoration:underline;
+	text-underline:single;&#125;
+a:visited, span.MsoHyperlinkFollowed
+	&#123;color:blue;
+	text-decoration:underline;
+	text-underline:single;&#125;
+p
+	&#123;mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";&#125;
+span.EmailStyle20
+	&#123;mso-style-type:personal-reply;
+	mso-style-noshow:yes;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	color:navy;&#125;
+span.GramE
+	&#123;mso-style-name:"";
+	mso-gram-e:yes;&#125;
+@page Section1
+	&#123;size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;&#125;
+div.Section1
+	&#123;page:Section1;&#125;
+style1 &#123;
+	font-size: 10.0pt;
+	color: black;
+	background-color: #FEFEFE;
+&#125;
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */ 
+ table.MsoNormalTable
+	&#123;mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";&#125;
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p ><font size=3 face="Times New Roman"><span style='font-size:
+12.0pt'><o:p></o:p></span></font></p>
+
+<p  align=center style='text-align:center'><strong><b><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'>The Center
+for Homeland and Global Security reports that governments around the world will
+spend an estimated $572 Billion for homeland security by 2005</span></font></b></strong><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white'><br>
+</span></font><strong><b><font size=2 color=black face=Arial PTSIZE=10
+FAMILY=SANSSERIF BACK="#ffffff"><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'>HSTJ is positioning itself for a piece of that
+large pie with a dream team leading the way.&nbsp; Please watch this one
+closely.&nbsp; </span></font></b></strong><font color=black face=Arial
+PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span style='font-family:Arial;
+color:black;background:white'><br>
+<br>
+</span></font><b><font size=4 color=red face=Arial PTSIZE=14 FAMILY=SANSSERIF
+BACK="#ffffff"><span style='font-size:13.5pt;font-family:Arial;color:red;
+background:white;font-weight:bold'>***Stock Radar Breaking News***</span></font></b><b><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white;font-weight:bold'> </span></font></b><font
+color=black face=Arial><span style='font-family:Arial;color:black;background:
+white'><o:p></o:p></span></font></p>
+
+<p align=center style='margin-bottom:12.0pt;text-align:center'><b><font size=3
+color=black face=Arial><span style='font-size:12.0pt;font-family:Arial;
+color:black;background:white;font-weight:bold'>Set for price and momentum alert
+tomorrow, Wednesday Aug 18<br>
+<br>
+</span></font></b><b><font size=2 color=black face=Arial PTSIZE=10
+FAMILY=SANSSERIF BACK="#ffffff"><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white;font-weight:bold'>Our last recommendation, (OTC
+BB: VPER) Took off like a rocket.&nbsp; Hopefully, you participated and
+watched. Here is our most current selection:</span></font></b><b><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white;font-weight:bold'> </span></font></b><font
+color=black face=Arial><span style='font-family:Arial;color:black;background:
+white'><o:p></o:p></span></font></p>
+
+<p align=center style='text-align:center'><strong><b><font size=2 color=black
+face=Arial><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:white'>Homeland Security Technology, Inc.&nbsp; (HSTJ) is a
+Developmental Stage Company Focused in Three Core Areas:</span></font></b></strong><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'> </span></font><font color=black face=Arial><span
+style='font-family:Arial;color:black;background:white'><o:p></o:p></span></font></p>
+
+<p><font size=2 color=black face=Arial><span style='font-size:10.0pt;
+font-family:Arial;color:black;background:white'>1. Providing Security
+Consulting &amp; Training for The Military, Law Enforcement and the Private
+Sector<br>
+2.&nbsp; Manufacturing Military Hardware and Gear for Combat Situations<br>
+3. Developing Advanced Technology Involving Armaments, Munitions, Targeting and
+Survellaince System for Urban Warfare</span></font><font color=black
+face=Arial><span style='font-family:Arial;color:black;background:white'><o:p></o:p></span></font></p>
+
+<p align=center style='margin-bottom:12.0pt;text-align:center'><em><b><i><font
+size=3 color=red face=Arial><span style='font-size:12.0pt;font-family:Arial;
+color:red;background:white;font-weight:bold'>Today's News</span></font></i></b></em><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white'><br>
+Homeland Security Technology, Inc. Announces 30% Share Dividend<br>
+</span></font><strong><b><font size=2 color=black face=Arial PTSIZE=10
+FAMILY=SANSSERIF BACK="#ffffff"><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'>Tuesday, August 17, </span></font></b></strong><st1:time
+Hour="6" Minute="0"><strong><b><font size=2 color=black face=Arial><span
+ style='font-size:10.0pt;font-family:Arial;color:black;background:white'>6:00
+ am ET</span></font></b></strong></st1:time><strong><b><font color=black
+face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span style='font-family:
+Arial;color:black;background:white'> </span></font></b></strong><font
+color=black face=Arial><span style='font-family:Arial;color:black;background:
+white'><o:p></o:p></span></font></p>
+
+<p><st1:State><st1:place><font size=2 color=black face=Arial PTSIZE=10
+  FAMILY=SANSSERIF BACK="#ffffff"><span style='font-size:10.0pt;font-family:
+  Arial;color:black;background:white'>DEL</span></font></st1:place></st1:State><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'> MAR, CA--(MARKET WIRE)--Aug 17, 2004 -- Homeland
+Security Technology Inc. Corp. (Other OTC:<a
+href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E400E43454B474A460E08.aspx'
+title="http://finance.yahoo.com/q?s=hstj.pk">HSTJ.PK</a> - <a
+href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E400E43454B4442450E08.aspx'
+title="http://finance.yahoo.com/q/h?s=hstj.pk">News</a>) announced today that
+the company will issue a 30% (thirty percent) share dividend to shareholders of
+record at the market close on </span></font><st1:date Month="9" Day="30"
+Year="2004"><font size=2 color=black face=Arial><span style='font-size:10.0pt;
+ font-family:Arial;color:black;background:white'>September 30th, 2004</span></font></st1:date><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'>. </span></font><font color=black face=Arial
+PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span style='font-family:Arial;
+color:black;background:white'><br>
+<br>
+</span></font><font size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF
+BACK="#ffffff"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:white'>&quot;Shareholders have been very supportive of our company's
+business initiatives and should be further attracted to our company as the
+result of this share dividend,&quot; commented Ernest Remo, CEO of HSTJ.</span></font><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white'><br>
+<br>
+</span></font><font size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF
+BACK="#ffffff"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:white'>(Partial Clip of the news just released.&nbsp; Please go to
+yahoo or any financial site to read this news now!)</span></font><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white'><br>
+<br>
+</span></font><b><font size=2 color=black face=Arial PTSIZE=10
+FAMILY=SANSSERIF BACK="#ffffff"><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white;font-weight:bold'>HST has recently formed a joint
+venture licensing agreement with Recon Mountaineer, llc. This license
+establishes the foundation for HST to offer Combat Trauma Bag CTB to the </span></font></b><st1:country-region><st1:place><b><font
+  size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+  color:black;background:white;font-weight:bold'>US</span></font></b></st1:place></st1:country-region><b><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white;font-weight:bold'> armed Forces.</span></font></b><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'><br>
+<br>
+<b><span style='font-weight:bold'>Combat Trauma Bag (CTB) Overview</span></b> <br>
+The CTB has been battle tested in </span></font><st1:country-region><st1:place><font
+  size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+  color:black;background:white'>Afghanistan</span></font></st1:place></st1:country-region><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'> and </span></font><st1:country-region><st1:place><font
+  size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+  color:black;background:white'>Iraq</span></font></st1:place></st1:country-region><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:white'> by Corpsman of the 1stMarine Division. The
+CTB&nbsp; is constructed of 1000 Denier Cordura and Master Designed to meet or
+exceed all requirements and demands of our field medical professionals. The
+versatility and rugged construction of the CTB has made the first responder more
+efficient when assessing and taking care of casualties. </span></font><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#ffffff"><span
+style='font-family:Arial;color:black;background:white'><br>
+<br>
+</span></font><b><font size=2 color=black face=Arial PTSIZE=8 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:#FEFEFE;font-weight:bold'>Management has received orders and
+commitments for approximately 500<br>
+units and is projecting wide scale deployment of the CBT for numerous<br>
+military operations after field evaluations have been completed.</span></font></b><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE'><br>
+</span></font><font size=1 color=black face=Arial PTSIZE=8 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:7.5pt;font-family:Arial;color:black;
+background:#FEFEFE'><br>
+</span></font><b><font size=2 color=black face=Arial PTSIZE=10
+FAMILY=SANSSERIF BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE;font-weight:bold'>2005 Homeland Security Market</span></font></b><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE'><br>
+<br>
+Recent press reports have indicated that President Bush has proposed a 14.4%
+increase in spending for the Department of Homeland Security to $47.4 billion.
+The request for total military spending was slated at 402.6 billion. Highlights
+of the 2005 budget include:</span></font><font color=black face=Arial
+PTSIZE=12 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-family:Arial;
+color:black;background:#FEFEFE'><br>
+<br>
+</span></font><font size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:#FEFEFE'>$3.2 Billion for Future Combat Systems an Army program
+developing military gear for soldier to use in combat situations.</span></font><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#fefefe"><span
+style='font-family:Arial;color:black;background:#FEFEFE'> <br>
+</span></font><font size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:#FEFEFE'>$890 million was budgeted for aviation security measures
+such as bomb detection machines and air marshal training. </span></font><font
+color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#fefefe"><span
+style='font-family:Arial;color:black;background:#FEFEFE'><br>
+</span></font><font size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:#FEFEFE'>The Justice Department is to receive a 242% budgetary
+increase from 2001 levels to $22 billion for counter-terrorism and homeland
+defense efforts allocating more than 2,600 FBI agents for counter-terrorism
+efforts.</span></font><font color=black face=Arial PTSIZE=12 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-family:Arial;color:black;background:#FEFEFE'> <br>
+<br>
+</span></font><b><font size=2 color=black face=Arial PTSIZE=10
+FAMILY=SANSSERIF BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE;font-weight:bold'>Lieutenant General Emil R.
+&quot;Buck&quot; Bedard (USMC Ret) Joins Homeland Security Technology Inc.'s
+Military Advisory Board</span></font></b><font color=black face=Arial
+PTSIZE=12 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-family:Arial;
+color:black;background:#FEFEFE'><br>
+<br>
+</span></font><font size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:10.0pt;font-family:Arial;color:black;
+background:#FEFEFE'>General Bedard has continuously been a source of advice on
+combat operations, preparation for combat, and combat leadership. His
+philosophy has always been centered on vigilance and maintenance of a fighting
+posture for the fight that is coming now, not tomorrow. He was proven correct
+on 9/11. The General evacuated his office in the Pentagon, following the
+terrorist strike, and immediately began to direct Marine Corps operations from
+his alternate command center in Headquarters Marine Corps. His combat
+experience in </span></font><st1:country-region><st1:place><font size=2
+  color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+  color:black;background:#FEFEFE'>Viet Nam</span></font></st1:place></st1:country-region><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE'>, Desert Storm, and </span></font><st1:country-region><st1:place><font
+  size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+  color:black;background:#FEFEFE'>Somalia</span></font></st1:place></st1:country-region><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE'> has always been in the center of the fight.
+The General has an instinctive understanding of what is required to maintain
+security at all levels to include the Homeland, which has been his focus since
+retiring from the Marine Corps. The General's presence on the MTAB will provide
+HST with invaluable steering guidance and connectivity to the pulse of Homeland
+Defense.&quot;&nbsp;</span></font></p>
+<p><b><font size=2 color=black face=Arial
+PTSIZE=10 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-size:10.0pt;
+font-family:Arial;color:black;background:#FEFEFE;font-weight:bold'>Homeland
+  Security Technology Inc.'s Military Advisory Board Adds Former Navy Fighter
+  Pilot and Former FBI Sniper</span></font></b> <b><font size=2 color=black
+face=Arial PTSIZE=10 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-size:
+10.0pt;font-family:Arial;color:black;background:#FEFEFE;font-weight:bold'>Ronnie
+  Frigulti and Kit Lavell on Board to Provide Expert Direction to HST's Homeland
+  Security Business</span></font></b><font color=black face=Arial PTSIZE=12
+FAMILY=SANSSERIF BACK="#fefefe"><span style='font-family:Arial;color:black;
+background:#FEFEFE'>&nbsp;</span></font></p>
+<p><font size=2 color=black face=Arial
+PTSIZE=10 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-size:10.0pt;
+font-family:Arial;color:black;background:#FEFEFE'>HST's Founder Colonel Powers
+    added, &quot;The addition of Ron Frigulti and Kit Lavell to the Military
+    Technical Advisory Board maintains connectivity to the needs and desires of
+    first responders in both the homeland security and military sector of the
+    market. Our association with the trainers enables us to test evolving concepts
+    in realistic venues with the operators who will benefit from the technology.&quot;</span></font></p>
+<p><b><font
+size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF BACK="#fefefe"><span
+style='font-size:10.0pt;font-family:Arial;color:black;background:#FEFEFE;
+font-weight:bold'>ABOUT HOMELAND SECURITY TECHNOLOGY, INC. (HST)</span></font></b> <font
+size=2 color=black face=Arial PTSIZE=10 FAMILY=SANSSERIF BACK="#fefefe"><span
+style='font-size:10.0pt;font-family:Arial;color:black;background:#FEFEFE'>HST,
+      Inc. is a developmental stage company based in north county San Diego trading
+      under the ticker symbol (Other OTC:<a
+href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E400E43454B474A460E08.aspx'
+title="http://finance.yahoo.com/q?s=hstj.pk">HSTJ.PK</a> - <a
+href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E400E43454B4442450E08.aspx'
+title="http://finance.yahoo.com/q/h?s=hstj.pk">News</a>). HST's mission is to
+      develop and commercialize technology focused on providing increased security
+      for both civilian and military personnel throughout the world. Under the
+      leadership of Colonel Jeffrey A. Powers USMC (Ret), HST seeks to assemble a
+      portfolio of technology and services through alliances with established
+      defense-related companies and through internal development that can be brought
+      to market in a cost-efficient and timely manner. HSTI recently entered into an
+      alliance with Recon Mountaineer, LLC., an </span></font><st1:City><st1:place><font
+  size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+  color:black;background:#FEFEFE'>Oceanside</span></font></st1:place></st1:City><font
+size=2 color=black face=Arial><span style='font-size:10.0pt;font-family:Arial;
+color:black;background:#FEFEFE'>, Ca.-based designer and manufacturer of
+      military combat gear for the United States Armed Forces.</span></font><font
+size=2 face=Arial><span style='font-size:10.0pt;font-family:Arial'><o:p></o:p></span></font></p>
+<p style='margin-bottom:12.0pt'><font size=2 face=Arial><span style='font-size:
+10.0pt;font-family:Arial;background:#FEFEFE'>Do your due diligence right
+now.&nbsp; Make sure you check all recent news releases and become familiar
+with this company.&nbsp; Keep your eye on it starting Wed.&nbsp; We have issued
+a strong alert so don't miss watching this one!</span></font><font color=black
+face=Arial PTSIZE=12 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-family:
+Arial;color:black'><br>
+<br>
+</span></font><font size=1 color=black face=Arial PTSIZE=8 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:7.5pt;font-family:Arial;color:black;
+background:#FEFEFE'>Disclaimer:</span></font><font color=black face=Arial
+PTSIZE=12 FAMILY=SANSSERIF BACK="#fefefe"><span style='font-family:Arial;
+color:black'><br>
+<br>
+</span></font><font size=1 color=black face=Arial PTSIZE=8 FAMILY=SANSSERIF
+BACK="#fefefe"><span style='font-size:7.5pt;font-family:Arial;color:black;
+background:#FEFEFE'>Information within this email contains &quot;forward
+looking statements&quot; within the meaning of Section 27A of the Securities
+Act of 1933 and Section 21B of the Securities Exchange Act of 1934. Any
+statements that express or involve discussions with respect to predictions,
+expectations, beliefs, plans, projections, objectives, goals, assumptions or
+future events or performance are not statements of historical fact and may be
+&quot;forward looking statements.&quot;Forward looking statements are based on
+expectations, estimates and projections at the time the statements are made
+that involve a number of risks and uncertainties which could cause actual
+results or events to differ materially from those presently anticipated.
+Forward looking statements in this action may be identified through the use of
+words such as &quot;projects&quot;, &quot;foresee&quot;, &quot;expects&quot;,
+&quot;will,&quot; &quot;anticipates,&quot; &quot;estimates,&quot;
+&quot;believes,&quot; &quot;understands&quot; or that by statements indicating
+certain actions &quot;may,&quot; &quot;could,&quot; or &quot;might&quot;
+occur.&nbsp; SR does not represent that the information contained in this
+message states all material facts or does not omit a material fact necessary to
+make the statements therein not misleading. All information provided within
+this email pertaining to investing, stocks, securities must be understood as
+information provided and not investment advice. SR advises all readers and
+subscribers to seek advice from a registered professional securities
+representative before deciding to trade in stocks featured within this email.
+None of the material within this report shall be construed as any kind of
+investment advice or solicitation. Many of these companies are on the verge of
+bankruptcy. You can lose all your money by investing in this stock. The
+publisher of SR is not a registered investment advisor. Subscribers should not
+view information herein as legal, tax, accounting or investment advice. Any
+reference to past performance(s) of companies are specially selected to be
+referenced based on the favorable performance of these companies. You would
+need perfect timing to achieve the results in the examples given. There can be
+no assurance of that happening. Remember, as always, past performance is never
+indicative of future results and a thorough due diligence effort should be
+completed prior to investing.&nbsp; Past performance is never indicative of
+future results. In compliance with the Securities Act of 1933, Section17(b), SR
+discloses the promise of one million free trading shares by a third party, who
+is not an officer or director of the company for the circulation of this
+report.&nbsp;&nbsp; Be aware of an inherent conflict of interest resulting from
+such compensation due to the fact that this is a paid advertisement. We will
+sell our free trading shares at anytime without notice. this could have an
+adverse impact on the stock price. All factual information in this report was
+gathered from public sources, including but not limited to Company Websites,
+SEC filings and Company Press Releases. SR believes this information to be
+reliable but can make no guarantee as to its accuracy or completeness. Use of
+the material within this email constitutes your acceptance of these terms<br>
+<br style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></font><font size=1 color=black face=Arial><span
+style='font-size:7.5pt;font-family:Arial;color:black'><o:p></o:p></span></font></p>
+
+</div>
+
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E08.aspx'><img src='http://www.infoemail-web.com/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.infoemail-web.com/080E100715013217081F1E1F5C1D00150E43454446430E440E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">Removal Services, Inc. &#183; 1771 Post Road East #342 &#183; Westport, CT 06880</font></p></td></tr></table></body>
+
+</html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

@@ -1,0 +1,70 @@
+Return-Path: <ariqcriycals@hotmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26915 invoked by uid 115); 8 Sep 2004 05:17:10 -0000
+Received: from ariqcriycals@hotmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.14.198.24):. 
+ Processed in 5.946578 secs); 08 Sep 2004 05:17:10 -0000
+Received: from unknown (HELO 209.5.178.248) (218.14.198.24)
+  by churchill.factcomp.com with SMTP; 8 Sep 2004 05:17:04 -0000
+Received: from 86.231.43.11 by 209.5.178.248; Wed, 08 Sep 2004 08:11:02 +0200
+Message-ID: <EYUBGBGTKJCDVSFNOKYZOAD@msn.com>
+From: "Johnathon Pereira" <ariqcriycals@hotmail.com>
+Reply-To: "Johnathon Pereira" <ariqcriycals@hotmail.com>
+To: bob.smith@em.ca
+Cc: bruceg@em.ca, darklord@em.ca, dave.reyda@em.ca, design@em.ca, djinn@em.ca, jburton@em.ca, msuggitt@em.ca
+Subject: important changes
+Date: Wed, 08 Sep 2004 04:10:02 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8546392300877941617"
+X-Priority: 3
+X-CS-IP: 216.56.215.156
+
+----8546392300877941617
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Account update</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body>
+<font face=3D"Verdana, Arial, Helvetica, sans-serif">Save HUGE amounts by =
+buying 
+&quot;O3M&quot; sof1ware! 
+<p>If you see a title you need below, you can s3ve 40-80% on it <a href=3D=
+"http://cs.softoemhouse.info/">H3RE! 
+  </a></p>
+<p>Save 60% on W1ndows XP Professiona1!<br>
+  Save 60% on M1crosoft Of1ice 2003 Profess1onal!<br>
+  Save $410 on Ad0be Pho1oshop!</p>
+<p><br>
+  S3ve hundreds of d011ars on programs for your personal use!<br>
+  S3ve your company thousands of d011ars when it needs s0f1ware!</p>
+<p><a href=3D"http://cs.softoemhouse.info/">C1ick h3re!!</a></p>
+<p>S0f1ware packages you can s3ve big on:</p>
+<p>Wind0ws XP Pr0fess1onal<br>
+  N0rton Antiv1rus 2004<br>
+  Ad0be Phot0shop 7.0<br>
+  M1crosoft 0ffice XP Pr0fessional<br>
+  M1crosoft 0ffice 2003 Pr0fessional<br>
+  M1crosoft M0ney 2004<br>
+  M1crosoft 2000 Pr0fessional<br>
+  Ad0be Phot0shop CS<br>
+  Ad0be Acr0bat 6.0 Pr0fessional</p>
+<p><a href=3D"http://cs.softoemhouse.info/">AND MANY, MANY M0RE! CL1CK HER=
+E TO SEE 
+  OUR FU11 S0FTWAR3 L1ST! </a></p>
+</font>
+<p></p>
+<p></p>
+<p></p>
+</body>
+</html>
+
+
+----8546392300877941617--
+

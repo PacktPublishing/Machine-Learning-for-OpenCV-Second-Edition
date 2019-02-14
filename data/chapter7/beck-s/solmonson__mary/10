@@ -1,0 +1,107 @@
+Message-ID: <7830560.1075849860449.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 05:15:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: lisa.petruszka@enron.com
+Subject: Re: Back Office Process Definitions
+Cc: sally.beck@enron.com, bob.hall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, bob.hall@enron.com
+X-From: Mary Solmonson
+X-To: Lisa Petruszka
+X-cc: Sally Beck, Bob M Hall
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The major groups are :
+
+Manage Risk
+Deal Clearing & Documentation
+Logistics
+Volume Management
+Client Services or Settlements
+Global Data Management
+
+
+Within each of these major areas there groups of activities.  I have some 
+charts I can provide to you (they are slightly dated, but still better than 
+not).  To give you an idea, 
+
+Manage Risk is comprised of :  Value books, Identify Limit violations, Flash 
+P&L, Trade Capture, Generate Reports, etc.
+Deal Clearing is comprised of: Prepare and distribute confirmations, 
+verify/audit deals, broker checkout, etc.
+Logistics is comprised of:  gather operational data, communicate with 
+pipelines, plan product movement, nominate product movement, balance 
+positions, etc.
+Volume Management : validate transport statements, allocate volumes, 
+reconcile imbalances, etc.
+Client Services - Prepare and generate invoices, generate payment requests, 
+resolve disputes on billing, cash management, reconcile A/R and A/P, etc
+Global Data Management - set up new counterparties, maintain cp data, capture 
+and validate settled prices, setup new pipelines and facilities, etc.
+
+Generally, what is thought of as Financial Reporting at Enron is outside of 
+Back Office Operations as is any trading or origination activity.
+
+Sally/Bob - feel free to make any corrections/additions you see fit.
+
+
+
+
+
+
+
+Lisa Petruszka@ENRON
+02/01/2001 10:47 AM
+To: Sally Beck/HOU/ECT@ECT, Mary Solmonson/HOU/ECT@ECT, Bob M 
+Hall/NA/Enron@Enron
+cc:  
+Subject: Back Office Process Definitions
+
+Hello team  - 
+
+How does Enron define their back office processes?  It seems that every 
+organization has their own definition of "back office" and the processes that 
+fall within it.  So, I was curious to know if we had a consistent breakdown 
+for Enron.  What I'm wondering is if there is a "common language" across 
+Enron.  
+
+Let me explain where I'm going with this question - I know that there will be 
+participants from many parts of Enron at the session so we might have a risk 
+of different definitions or assumptions being used during the conversations.  
+If the groups define processes differently, even slightly,  there could be 
+some confusion if we start a conversation at the session around the kinds of 
+services to be offered.
+
+To give you an idea of what I've seen, here are some different breakdowns or 
+"models" used:
+
+In Derivatives Strategy magazine's annual technology assessment, the 
+following breakdown is used to evaluate software products:
+Deal Capture
+Special Deal Entry
+EOD Mark to Market
+P/L Calculations
+Settlement
+Confirmations
+Payments
+Payment Netting
+
+The Bloomberg model, as depicted in Wall Street & Technology, January 2001, 
+has the following high-level components:
+Trade and Order Management
+Electronic Trade Confirmation
+Trade Allocation
+Settlement Instructions
+Electronic Settlement Links
+
+Let me know your thoughts on this.  If you think there is a significant risk 
+of different groups using different definitions for Enron we might be able to 
+build in an exercise early on to get us over the hurdle.  
+
+Lisa P
+5-6352
+

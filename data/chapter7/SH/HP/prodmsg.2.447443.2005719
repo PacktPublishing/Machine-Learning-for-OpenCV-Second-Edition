@@ -1,0 +1,136 @@
+Received: from unknown (HELO about-australia.propagation.net) (66.34.226.74)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:32 -0000
+Received: from localhost (localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvRf18413;
+	Tue, 19 Jul 2005 05:57:28 -0500
+Date: Tue, 19 Jul 2005 05:57:28 -0500
+From: Mail Delivery Subsystem <MAILER-DAEMON@about-australia.propagation.net>
+Message-Id: <200507191057.j6JAvRf18413@about-australia.propagation.net>
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAvRf18413.1121770648/about-australia.propagation.net"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAvRf18413.1121770648/about-australia.propagation.net
+
+The original message was received at Tue, 19 Jul 2005 05:57:27 -0500
+from mail@localhost
+
+   ----- The following addresses had permanent fatal errors -----
+"|/usr/sbin/sinfobots isntmedia"
+    (reason: 554 5.4.6 Too many hops)
+    (expanded from: nobody@isntmedia.com)
+
+   ----- Transcript of session follows -----
+554 5.4.6 Too many hops 21 (20 max): from projecthoneypot@projecthoneypot.org via localhost, to nobody@isntmedia.com
+
+--j6JAvRf18413.1121770648/about-australia.propagation.net
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; about-australia.propagation.net
+Arrival-Date: Tue, 19 Jul 2005 05:57:27 -0500
+
+Final-Recipient: RFC822; nobody@isntmedia.com
+X-Actual-Recipient: rfc822; "|/usr/sbin/sinfobots isntmedia"@about-australia.propagation.net
+Action: failed
+Status: 5.4.6
+Diagnostic-Code: smtp; 554 5.4.6 Too many hops
+Last-Attempt-Date: Tue, 19 Jul 2005 05:57:28 -0500
+
+--j6JAvRf18413.1121770648/about-australia.propagation.net
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvRe18413
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:27 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvRK18397
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:27 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvQn18383
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:26 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvQD18370
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:26 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvQN18356
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:26 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvP118343
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:25 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvPU18330
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:25 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvOF18317
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:24 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvOv18304
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:24 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvNk18291
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:23 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvN418278
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:23 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvMW18265
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:22 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvM918252
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:22 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvL918239
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:21 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvLE18226
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:21 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvKr18213
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:20 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvK318200
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:20 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvJl18187
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:19 -0500
+Received: (from mail@localhost)
+	by about-australia.propagation.net (8.11.6p2/8.11.6) id j6JAvJ018174
+	for nobody@isntmedia.com; Tue, 19 Jul 2005 05:57:19 -0500
+Received: from mailwisconsin.com ([219.139.47.135])
+	by about-australia.propagation.net (8.11.6p2/8.11.6) with SMTP id j6JAvGd18162
+	for <info@isntmedia.com>; Tue, 19 Jul 2005 05:57:17 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816250;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@isntmedia.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273596">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JAvRf18413.1121770648/about-australia.propagation.net--
+

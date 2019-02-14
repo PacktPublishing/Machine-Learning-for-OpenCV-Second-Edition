@@ -1,0 +1,101 @@
+Message-ID: <9967071.1075855870496.JavaMail.evans@thyme>
+Date: Fri, 18 Feb 2000 02:45:00 -0800 (PST)
+From: peggy.alix@enron.com
+To: mary.solmonson@enron.com, lynette.malone@enron.com, 
+	eric.wetterstroem@enron.com, peggy.alix@enron.com, 
+	susan.marshall@enron.com, leei-hong.chen@enron.com, 
+	cindy.wisemiller@enron.com, jennifer.fraser@enron.com, 
+	vanessa.lehn@enron.com
+Subject: Summary of Global Intelligence meeting held Feb 17
+Cc: inja.chun@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: inja.chun@enron.com, sally.beck@enron.com
+X-From: Peggy Alix
+X-To: Mary Solmonson, Lynette Malone, Eric Wetterstroem, Peggy Alix, Susan S Marshall, Leei-Hong Chen, Cindy Wisemiller, Jennifer Fraser, Vanessa Lehn
+X-cc: Inja Chun, Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Meeting Attendees:Mary Solmonson/HOU/ECT@ECT, Lynette Malone/HOU/ECT@ECT, 
+Eric Wetterstroem/HOU/ECT@ECT, Peggy Alix/HOU/ECT@ECT, Susan S 
+Marshall/HOU/ECT@ECT, Leei-Hong Chen/HR/Corp/Enron@Enron, Cindy 
+Wisemiller/HOU/ECT@ECT, Jennifer Fraser/HOU/ECT@ECT, Vanessa Lehn/HOU/EES@EES
+
+
+Items discussed during the meeting & respective follow-up tasks.
+
+1)  DNS name for the project was selected,
+ http://Entelligence.enron.com/
+ 
+
+2)  Type of Users  
+ Identified the types of users and assigned names to each type.   Users named 
+are approvers for User Acceptance Testing (UAT).
+Originator  Jennifer Frazer
+Trader/Financial Linda Clemmons
+Trader/Physical Jeff Shankman (will delegate to desk director)
+Sr Trading Manager Jeff Shankman
+Sr Operations Manager Sally Beck
+Administrator  Mary Solmonson
+
+Originators will be the primary users (80-90% usage) 
+
+Followup Item:
+Mary Solmonson will finalize the User names for UAT signoff.
+
+3)  Use Cases and Actors (user types)
+It was decided that capturing the requirements as Use cases will not be done 
+with the GIA business users.   Users stated that all types of users will have 
+access to all reports.  The functionality for each report will be same for 
+all user types.    Selection critieria and report content for each user type 
+will be controlled by a security  function.   Use case may still  be used by 
+the Technology team, when required, to help engineer a better technical 
+architecture.  
+
+4)  User Signoff of requirements document for Phase I deliverables:
+Signoff for non-administrative functions:  Jennifer Fraser
+Signoff for administrative functions:  Mary Solmonson
+
+(addtl comments not discussed during yesterday's meeting)
+User change requests  to requirements after signoff will be evaluated for 
+impact to schedule and cost.  Need signoff for Phase I deliverables before 
+Phase I project schedule is finalized.  
+
+5)  New user requirements reviewed:
+Find Like Prospects (required for Phase I)
+Peak Daily Volumes (required for Phase VII)
+
+Followup Item: 
+Lynette Malone:  Changes to requirements discussed in yesterday's meeting 
+need to be applied to the Requirements document
+
+
+6)   Administrative Requirements
+Changes to administrative requirements are still outstanding.   Users are 
+meeting Friday, Feb 18 to discuss their requirements.    Based on the outcome 
+of that meeting, administrative deliverables for Phase I will have to be 
+reviewed again and cost and schedule will have to be re-evaluated.   
+Administrative requirements include GIA region administration,  Data 
+cleansing,  Administration of products/internal companies/deal nature to 
+identify deal activity captured in the Entelligence database. 
+
+Followup Item:
+Mary Solmonson:  Define changes to administrative requirements.
+
+7)  User Preferences
+Requirements for User preferences are not yet defined. User preferences will 
+NOT be a Phase I deliverable.   Mary Solmonson said User preferences will 
+probably be deferred until Phase VII.    
+
+
+
+
+
+
+ 
+
+
+

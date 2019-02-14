@@ -1,0 +1,410 @@
+Return-Path: <seminars@thaiventure.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23636 invoked by uid 115); 14 Jul 2005 08:20:03 -0000
+Received: from seminars@thaiventure.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(61.91.72.234):. 
+ Processed in 0.296381 secs); 14 Jul 2005 08:20:03 -0000
+Received: from gb.jb.72.234.revip.asianet.co.th (HELO Nong) (61.91.72.234)
+  by churchill.factcomp.com with SMTP; 14 Jul 2005 08:20:01 -0000
+From: "Thaiventure.com" <seminars@thaiventure.com>
+To: <bruceg@em.ca>
+Subject: คุณต้องการให้เว็บไซต์ขายสินค้าหรือบริการของคุณเป็นทางเลือกอันดับ 1 ของลูกค้ากลุ่มเป้าหมายหรือไม่
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 14 Jul 2005 15:19:58
+X-Qmail-Scanner-Message-ID: <112132920367223627@churchill>
+
+<html>
+<head>
+<title>Yahoo ! Search Marketing Workshop รุ่นที่ 2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<br>
+<table width="600" border="0" align="center" cellpadding="5" cellspacing="0" class="table4">
+  <tr>
+    <td><div align="center"><font color="#666666">หากรายละเอียดด้านล่างไม่แสดงกรุณา 
+        <a href="http://www.thaiventure.com/seminar/yahoo-2.html" target="_blank">คลิกที่นี่</a> 
+        หรือ <a href="http://www.thaiventure.com/seminar/yahoo-2.html" target="_blank">http://www.thaiventure.com/seminar/yahoo-2.html</a></font></div></td>
+  </tr>
+</table>
+<br>
+<table width="647" border="0" align="center" cellpadding="0" cellspacing="2" bgcolor="#000000" class="table4">
+  <tr> 
+    <td valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="table4">
+        <tr> 
+          <td><img src="http://www.thaiventure.com/seminar/thaiventure/yahoo-2.gif" width="650" height="400"></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table4">
+        <tr valign="top"> 
+          <td width="65%"> <table width="95%" border="0" align="center" cellpadding="25" cellspacing="1" bgcolor="#FFFFFF" class="table4">
+              <tr> 
+                <td valign="top" bgcolor="#FFFFFF"> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                    <strong><font color="#FF0000">Yahoo! เป็นเว็บไซต์ที่มีผู้เข้าเยี่ยมชม 
+                    (Visitors) เป็นอันดับหนึ่งของโลก</font></strong>ในแต่ละเดือนมีผู้เข้าเยี่ยมชมประมาณ 
+                    100 ล้านคน โดย Yahoo! มีเนื้อหาหลากหลายให้เราเข้าไปอ่านและค้นหาข้อมูล 
+                    เช่น ข่าว หุ้น สุขภาพ หนัง เพลง ไดเรคทอรี่ สมุดหน้าเหลือง 
+                    แผนที่ กีฬา ช็อปปิ้ง ท่องเที่ยว และอื่นๆ โดย การลงโฆษณากับ 
+                    Yahoo! นั้น จะคิดค่าโฆษณาในรูปแบบ Pay Per Click (PPC) เหมือนกับ 
+                    Google Adwords </p>
+                  <table width="100%" border="1" cellpadding="10" cellspacing="1" bordercolor="#CCCCCC" bgcolor="#FFFFFF" class="table4">
+                    <tr>
+                      <td bgcolor="#CC0000"><strong><font color="#FFFFFF">&gt;&gt; 
+                        เรียนรู้เทคนิคต่างๆในการลงโฆษณากับ Yahoo! ในส่วน Yahoo! 
+                        Shopping, Yahoo! Travel, Yahoo! Search Submit และ Yahoo! 
+                        Directory</font></strong><font color="#FFFFFF"><strong><br>
+                        <br>
+                        &gt;&gt; โฆษณาของคุณจะไปปรากฎในเว็บไซต์Yahoo.com ,MSN.com,Altavista.com, 
+                        CNN.com และอื่นๆอีกมากกว่า 1000 เว็บไซต์</strong></font></td>
+                    </tr>
+                  </table>
+                  <br>
+                  <TABLE class=table4 cellSpacing=1 cellPadding=2 width="100%" border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <div align="left" class="tableH4"><font color="#FF6600"><STRONG><span class="tableH4"><font color="#990000"><strong>ดำเนินการสอนโดยวิทยากรผู้เชี่ยวชาญ</strong></font></span></STRONG></font></div></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="90%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD><strong>คุณจตุพล ทานาฤทัย</strong> ประธานเจ้าหน้าที่บริหาร 
+                                  บริษัทโกลเบลทจำกัด ผู้เชี่ยวชาญและมีประสบการณ์ด้าน 
+                                  Search Engine Marketing มีหนึ่งของเมืองไทย และมีประสบการณ์มากกว่า 
+                                  8 ปี</TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <table width="97%" border="0" align="center" cellpadding="2" cellspacing="0" class="table4">
+                    <tr> 
+                      <td width="4%"><img src="http://www.thaiventure.com/seminar/thaiventure/date.gif" width="19" height="20"></td>
+                      <td width="96%">วันอังคาร ที่19 กรกฎาคม 2548 เวลา 09.00 
+                        - 16.00 น.</td>
+                    </tr>
+                    <tr> 
+                      <td><img src="http://www.thaiventure.com/seminar/thaiventure/date-3.gif" width="19" height="20"></td>
+                      <td>ณ ศูนย์ศึกษาสาธรธานี อาคารสาธรธานี ชั้น 8 ห้อง 810 ( 
+                        ถ.สาทรเหนือ สีลม บางรัก ) <a href="http://www.thaiventure.com/map/6.jpg" target="_blank">คลิกดูแผนที่ 
+                        </a></td>
+                    </tr>
+                  </table>
+                  <br>
+                  <br> <table class=table4 cellspacing=0 cellpadding=5 width="100%" 
+      bgcolor=#999999 border=0>
+                    <tbody>
+                      <tr> 
+                        <td bgcolor=#660033> <div align=center> 
+                            <p><strong></strong></p>
+                            <table class=table4 cellspacing=0 cellpadding=3 width="95%" 
+            align=center border=0>
+                              <tbody>
+                                <tr> 
+                                  <td><div align="center"><img src="http://www.thaiventure.com/seminar/thaiventure/w1_s1.gif" width="228" height="43"></div></td>
+                                </tr>
+                                <tr> 
+                                  <td> <div align=center><strong><font 
+                  color=#ffffff>ทางโทรศัพท์ติดต่อ บริษัท ไทยเวนเจอร์ ดอท คอม จำกัด 
+                                      โทร. 02-6368332 , 04-6678979<br>
+                                      </font></strong></div></td>
+                                </tr>
+                                <tr> 
+                                  <td> <div align=center><strong><font 
+                  color=#ffffff>หรือ</font></strong></div></td>
+                                </tr>
+                                <tr> 
+                                  <td> <div align=center><a 
+                  href="http://www.thaiventure.com/seminars_register.php?No=6" target="_blank"><img 
+                  height=35 src="http://www.thaiventure.com/seminar/thaiventure/register.gif" width=211 
+                  border=0></a></div></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p><strong><font 
+        color=#ffffff></font></strong></p>
+                          </div></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <br> <br>
+                  <TABLE class=table4 cellSpacing=1 cellPadding=2 width="100%" border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <div align="left" class="tableH4"><font color="#990000"><STRONG><STRONG>สิ่งที่คุณจะได้รับในงานสัมมนา</STRONG></STRONG></font></div></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="90%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD>1. เอกสารประกอบการสัมมนาที่ประกอบด้วยข้อมูลล่าสุดโดยจัดทำเป็นรูปเล่มอย่างดี</TD>
+                              </TR>
+                              <TR> 
+                                <TD>2. อาหารกลางวัน 1 มื้อ อาหารว่าง 2 มื้อ </TD>
+                              </TR>
+                              <TR>
+                                <TD>3. ส่วนลด 20% ในการใช้บริการ Search Engine 
+                                  Marketing ของบริษัท โกลเบลท จำกัด</TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <TABLE class=table4 cellSpacing=0 cellPadding=2 width="100%" 
+      bgColor=#999999 border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <span class="tableH4"><STRONG><font color="#990000">กำหนดการสัมมนา</font></STRONG></span></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 borderColor=#cccccc cellSpacing=1 cellPadding=3 
+            width="100%" align=center border=1>
+                            <TBODY>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center>08.30 
+                                    น. - 09.00 น.</DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>ลงทะเบียน </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="4" valign="top"> <DIV align=center>09.00 
+                                    น. - 10.30 น.</DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV>
+                                  <DIV align=center></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>Keyword Generation</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - แนะนำกลยุทธ์ในการค้นหาและเลือกคีย์เวิร์ดที่ลูกค้ากลุ่มเป้าหมายนิยมใช้ค้นหา 
+                                  และเหมาะสมกับธุรกิจแต่ละประเภทของผู้ลงโฆษณา 
+                                </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> Writing Effective 
+                                  Titles and Descriptions</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - วิธีการในการเขียน 
+                                  Title และ Description สำหรับโฆษณาของแต่ละคีย์เวิร์ดที่มีประสิทธิภาพและให้อัตราคลิกสูงที่สุด 
+                                  (CTR)</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center>10.30 
+                                    น. - 10.45 น.</DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>พักรับประทาน ชา 
+                                  กาแฟ</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="6" valign="top"> <DIV align=center>10.45 
+                                    น. - 12.00 น.</DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>Guideline Guidance</TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>- กฎเกณฑ์ต่างๆของ Yahoo! ที่ต้องเรียนรู้เพื่อที่จะทำให้โฆษณาของเราผ่านการตรวจรับจาก 
+                                  editors ของ Yahoo!</TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>Campaign Management</TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>- เรียนรู้วิธีการในการบริหารงานโฆษณาโดยการใช้ฟังก์ชั่นการทำงานต่างๆของ 
+                                  DirecTraffic center </TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>Tracking Your Results</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff> - วิธีการวัดผลของการลงโฆษณากับ 
+                                  Yahoo! Search Marketing ว่าคีย์เวิร์ดคำไหนเวิร์กหรือไม่เวิร์ก 
+                                </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" valign="top"> <DIV align=center>12.00 
+                                    น. - 13.00 น.</DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>พักรับประทานอาหารกลางวัน</TD>
+                              </TR>
+                              <TR> 
+                                <TD width="29%" rowspan="4" valign="top"> <DIV align=center>13.00 
+                                    น. - 14.30 น.</DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV>
+                                  <DIV align=center><FONT color=#ffffff><font color="#000000"></font></FONT></DIV></TD>
+                                <TD width="71%" bgColor=#ffffff>Landing Pages 
+                                  That Work</TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff> - การสร้าง Landing Pages 
+                                  หรือหน้าต่อไปที่ Visitor ต้องเจอหลังจากคลิกโฆษณาแล้วสำหรับแต่ละคีย์เวิร์ดที่มีประสิทธิภาพและให้ค่า 
+                                  Conversion Rates สูงสุด </TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>Advanced Bidding Tactics </TD>
+                              </TR>
+                              <TR> 
+                                <TD width="71%" bgColor=#ffffff>- เทคนิคในการประมูลแต่ละคีย์เวิร์ดแข่งขันกับคู่แข่งรายอื่นๆ 
+                                  แบบมืออาชีพที่มีประสิทธิภาพ โดยการรักษาตำแหน่งที่เราต้องการประหยัดค่า 
+                                  Cost Per Click และสร้างยอดขายมากที่สุด </TD>
+                              </TR>
+                              <TR> 
+                                <TD valign="top"><div align="center">14.30 น. 
+                                    - 14.45 น.</div></TD>
+                                <TD bgColor=#ffffff>พักรับประทาน ชา กาแฟ</TD>
+                              </TR>
+                              <TR> 
+                                <TD rowspan="4" valign="top"><div align="center">14.45 
+                                    น. - 16.00 น.</div></TD>
+                                <TD bgColor=#ffffff>Successful Advertiser Case 
+                                  Studies</TD>
+                              </TR>
+                              <TR>
+                                <TD bgColor=#ffffff> - กรณีศึกษาจากเว็บไซต์ระดับโลกที่ประสบผลสำเร็จจากการใช้ 
+                                  Yahoo! Search Marketing </TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>Other Yahoo! Search Marketing 
+                                  Products</TD>
+                              </TR>
+                              <TR> 
+                                <TD bgColor=#ffffff>- วิธีการลงโฆษณาในส่วน Yahoo! 
+                                  Shopping, Yahoo! Travel, Yahoo! Search Submit 
+                                  และ Yahoo! Directory</TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          
+                        </TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE> <br>
+                  <TABLE class=table4 cellSpacing=1 cellPadding=2 width="100%" 
+      bgColor=#FFFFFF border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD bgColor=#FFFFFF> <font color="#990000"><span class="tableH4"><STRONG><STRONG>ค่าใช้จ่ายในการเข้าร่วมงานสัมมนา</STRONG></STRONG></span></font></TD>
+                      </TR>
+                      <TR> 
+                        <TD bgColor=#ffffff> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD>ค่าใช้จ่ายในการเข้าร่วมสัมมนา 3,500 บาท/ท่าน 
+                                </TD>
+                              </TR>
+                              <TR> 
+                                <TD>ค่าใช่จ่ายต่อ 1 ท่าน 3,500 + 245 (VAT 7 %) 
+                                  = 3,745 บาท/ท่าน </TD>
+                              </TR>
+                              <TR> 
+                                <TD>กรณีเป็นนิติบุคคล หักภาษี ณ ที่จ่ายไว้ 3 % 
+                                  (105 บาท) = 3,640 บาท/ท่าน </TD>
+                              </TR>
+                              <TR> 
+                                <TD>กรณีเป็นรัฐวิสาหกิจ หักภาษี ณ ที่จ่ายไว้ 1 
+                                  % (35 บาท) = 3,710 บาท/ท่าน </TD>
+                              </TR>
+                              <TR> 
+                                <TD><FONT color=#ff0000>* หมายเหตุ : โปรดนำหนังสือรับรองภาษีหัก 
+                                  ณ ที่จ่ายมายื่นในวันที่สัมมนา <BR>
+                                  <BR>
+                                  ** บริษัท ไทยเวนเจอร์ ดอท คอม จำกัด<BR>
+                                  90/22-23,25 อาคารสาธรธานี ชั้น 10 ถนนสาทรเหนือ 
+                                  แขวงสีลม เขตบางรัก กรุงเทพฯ 10500<BR>
+                                  หมายเลขผู้เสียภาษี 3030122742</FONT> </TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR> <TABLE class=table4 cellSpacing=0 cellPadding=3 width="95%" 
+            align=center border=0>
+                            <TBODY>
+                              <TR> 
+                                <TD><STRONG>รายละเอียดการชำระเงิน</STRONG></TD>
+                              </TR>
+                              <TR> 
+                                <TD>1. [ ] โอนเงินเข้าบัญชี THAIVENTURE DOT COM 
+                                  LIMITED ธนาคาร สแตนดาร์ดชาร์เตอร์นครธน สาขา 
+                                  สำนักงานใหญ่ บัญชี ออมทรัพย์ เลขที่บัญชี 0-002-30276-7 
+                                </TD>
+                              </TR>
+                              <TR> 
+                                <TD>2. [ ] หรือโอนเงินเข้าบัญชี นาย ชีพธรรม คำวิเศษณ์ 
+                                  ธนาคารกรุงเทพ สาขาย่อย เทสโก้ สุขาภิบาล บัญชีออมทรัพย์ 
+                                  เลขที่บัญชี 045-0-06748-3 </TD>
+                              </TR>
+                              <TR> 
+                                <TD>3. [ ] ชำระด้วยเช็คสั่งจ่ายในนาม “ THAIVENTURE 
+                                  DOT COM LIMITED ” (ท่านสามารถถือเช็คไปให้เจ้าหน้าที่ในวันงาน)</TD>
+                              </TR>
+                              <TR> 
+                                <TD><FONT color=#ff0000>* หมายเหตุ : "การสำรองที่นั่งจะเสร็จสมบูรณ์ 
+                                  ก็ต่อเมื่อท่านได้ชำระค่าใช้จ่ายเรียบร้อยแล้ว<BR>
+                                  <BR>
+                                  * เมื่อชำระค่าใช้จ่ายเสร็จแล้ว โปรดแฟกซ์รายละเอียดการโอนเงินมาที่ 
+                                  02 - 6368298 </FONT></TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <BR></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                  <br>
+                  <p align="center"><a href="http://www.thaiventure.com/seminars_detail.php?No=6" target="_blank"><img src="http://www.thaiventure.com/seminar/thaiventure/click.jpg" width="276" height="43" border="0"></a><br>
+                    <br>
+                  </p></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<br>
+<table width="600" border="0" align="center" cellpadding="5" cellspacing="0" class="table4">
+  <tr> 
+    <td><div align="center"><a href="http://t.extreme-dm.com/?login=tri3112"
+target="_top"><img src="http://t1.extreme-dm.com/i.gif"
+name="EXim" border="0" height="1" width="1"
+alt="eXTReMe Tracker"></a> 
+        <script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script>
+        <script type="text/javascript"><!--
+var EXlogin='tri3112' // Login
+var EXvsrv='s9' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=\"http://e0.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+</script>
+        <noscript>
+        <img height="1" width="1" alt=""
+src="http://e0.extreme-dm.com/s9.g?login=tri3112&amp;j=n&amp;jv=n"/> 
+        </noscript>
+        <font color="#666666">To unsubscribe send a blank email to: <a href="mailto:unsubscribe@thaiventure.com">unsubscribe@thaiventure.com</a></font></div></td>
+  </tr>
+</table>
+</body>
+</html>

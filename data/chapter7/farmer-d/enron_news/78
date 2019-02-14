@@ -1,0 +1,97 @@
+Message-ID: <16745343.1075854111855.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 05:22:00 -0800 (PST)
+From: ina.rangel@enron.com
+To: tom.donohoe@enron.com, kelli.stevens@enron.com, jason.williams@enron.com, 
+	patrice.mims@enron.com, kevin.ruscitti@enron.com, 
+	martin.cuilla@enron.com, geoff.storey@enron.com, 
+	hunter.shively@enron.com, andrew.lewis@enron.com, 
+	sylvia.pollan@enron.com, sandra.brawner@enron.com, 
+	peter.keavey@enron.com, brad.mckay@enron.com, robin.barbe@enron.com, 
+	john.taylor@enron.com, susan.pereira@enron.com, 
+	andrea.ring@enron.com, scott.neal@enron.com, dick.jenkins@enron.com, 
+	scott.hendrickson@enron.com, dan.junek@enron.com, 
+	jared.kaiser@enron.com, tammi.depaolis@enron.com, 
+	judy.townsend@enron.com, chris.germany@enron.com, 
+	jay.reitmeyer@enron.com, kenneth.shulklapper@enron.com, 
+	matthew.lenhart@enron.com, steven.south@enron.com, 
+	jane.tholt@enron.com, monique.sanchez@enron.com, 
+	keith.holst@enron.com, phillip.allen@enron.com, 
+	mike.grigsby@enron.com, carey.metz@enron.com, 
+	stacey.neuweiler@enron.com, liz.bellamy@enron.com, 
+	jim.schwieger@enron.com, thomas.martin@enron.com, 
+	greg.mcclendon@enron.com, elsa.villarreal@enron.com, 
+	daren.farmer@enron.com, lauri.allen@enron.com, 
+	edward.gottlob@enron.com, gary.lamphier@enron.com, 
+	danny.conner@enron.com, john.arnold@enron.com, mike.maggi@enron.com, 
+	larry.may@enron.com
+Subject: Implementation of the Gas Message Board Application
+Cc: laura.harder@enron.com, kimberly.brown@enron.com, airam.arteaga@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: laura.harder@enron.com, kimberly.brown@enron.com, airam.arteaga@enron.com
+X-From: Ina Rangel
+X-To: Tom Donohoe, Kelli Stevens, Jason Williams, Patrice L Mims, Kevin Ruscitti, Martin Cuilla, Geoff Storey, Hunter S Shively, Andrew H Lewis, Sylvia S Pollan, Sandra F Brawner, Peter F Keavey, Brad McKay, Robin Barbe, John Craig Taylor, Susan W Pereira, Andrea Ring, Scott Neal, Dick Jenkins, Scott Hendrickson, Dan Junek, Jared Kaiser, Tammi DePaolis, Judy Townsend, Chris Germany, Jay Reitmeyer, Kenneth Shulklapper, Matthew Lenhart, Steven P South, Jane M Tholt, Monique Sanchez, Keith Holst, Phillip K Allen, Mike Grigsby, Carey M Metz, Stacey Neuweiler, Liz Bellamy, Jim Schwieger, Thomas A Martin, Greg McClendon, Elsa Villarreal, Daren J Farmer, Lauri A Allen, Edward D Gottlob, Gary W Lamphier, Danny Conner, John Arnold, Mike Maggi, Larry May
+X-cc: Laura Harder, Kimberly Brown, Airam Arteaga
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Please see the following instructions for the new messenging board.  If you 
+have any trouble entering into this site, please let me know.  Everyone 
+should now be setup and ready to go. You will have to add this site to one of 
+your favorites.  
+
+The Gas Message Board application can run on both IE5.0 and IE5.5 now. 
+
+Attached is the URL for user to run the application.
+
+http://gasmsgboard.dev.corp.enron.com
+
+Please feel free to forward above URL to people who like to test the 
+application. 
+
+Here is the steps they should do:
+
+1) Launch Internet Explorer
+
+2) Type: http://gasmsgboard.dev.corp.enron.com (or just open this email and 
+click on above URL)
+
+3) Users should see the messages if there is any new messages for today. If 
+they don't see any messages, there are two reasons: 
+ (1) They are not valid users. Their names have not been added into the NT 
+Web_GasTraders Group yet. Please contact Chrysti Hardy to add their names 
+into the group.
+ (2) There is no new messages added yet.
+
+4) Click on "Comments" button to add messages: there will be a popup window 
+when user clicks on "comments" button. There are two ways to send the 
+messages after typing the 
+messages into the text box:
+ (1) just simply press enter to send the message. or
+ (2) click on "send" button to send the message.
+
+5) After the message has been sent, The message will be displayed on the main 
+window immediately, the rest people who are online will get the new message 
+in less than 30 seconds. This time can be reduced to as less as 1 second. 
+However, I would not recommend to reduce the time interval less than 10 
+second.  Because each time the browser refreshes the screen, the screen will 
+be blink. Users don't want the screen blink every second while they read the 
+messages.
+
+6) All messages will be cleaned up daily at 6:00PM. If they like to clean 
+them up later than 6:00PM, please let me know. I can reset the time.
+
+Note: Right now the application is under test environment. If they like it, I 
+will move it into production environment soon.
+
+Let me know any feedbacks.
+
+Thanks,
+
+Fangming
+
+
+
+

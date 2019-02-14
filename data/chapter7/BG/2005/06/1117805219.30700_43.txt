@@ -1,0 +1,44 @@
+Return-Path: <Omar@siteprotect.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 17187 invoked by uid 115); 3 Jun 2005 10:59:26 -0000
+Received: from Omar@siteprotect.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(209.200.85.218):. 
+ Processed in 0.120029 secs); 03 Jun 2005 10:59:26 -0000
+Received: from unknown (HELO 209.200.85.218) (209.200.85.218)
+  by churchill.factcomp.com with SMTP; 3 Jun 2005 10:59:25 -0000
+X-Message-Info: HZM/o+626+rne/C+4/1813862027
+Received: from smtp-bern.conferrable.Omar@siteprotect.com ([]) by e40-gbj9.Omar@siteprotect.com with Microsoft SMTPSVC(5.0.6909.6349);
+	 Fri, 03 Jun 2005 13:56:55 +0300
+Received: from zeus483.omelet.Omar@siteprotect.com (confiscate311.Omar@siteprotect.com [])
+	by smtp-mode.croft.Omar@siteprotect.com (Postfix) with SMTP id 86B9P83Q
+	for <vrb@em.ca>; Fri, 03 Jun 2005 06:53:55 -0400
+Received: from smtp-lehigh.shame.Omar@siteprotect.com ([]) by ej2-h30.Omar@siteprotect.com with Microsoft SMTPSVC(5.0.3004.5861);
+	 Fri, 03 Jun 2005 06:50:55 -0400
+X-Message-Info: WYSVD+%ND_LC_CHAR[1-3]6+js+D+4/3344882107
+Received: from anita.Omar@siteprotect.com ([156.164.24.112]) by bisect.Omar@siteprotect.com with MailEnable ESMTP; Fri, 03 Jun 2005 14:50:55 +0400
+Date: Fri, 03 Jun 2005 03:50:55 -0700
+Message-Id: <66072394866.88149@Omar@siteprotect.com>
+From: Constance Simon <Omar@siteprotect.com>
+To: Vrb <vrb@em.ca>
+Subject: You order: Sony DSC-F828 8.0MP Digital Camera
+MIME-Version: 1.0 (produced by marbleelliot 9.4)
+Content-Type: multipart/alternative;
+	boundary="--574484040312773873"
+
+----574484040312773873
+Content-Type: text/html;
+	charset="iso-8646-9"
+Content-Transfer-Encoding: 7Bit
+Content-Description: intrusion ragweed molehill
+
+Sony DSC-F828 8.0MP Digital Camera<br><br> 
+ 
+
+Your order # 12405 has been accepted for the amount 840.00$ <br> 
+Your card will be charged in that amount .Thank you for your purchase.<br><br><br> 
+  
+  
+You can check the order in your profile. <br><br> 
+<a href="http://fullssize.biz">http://fullssize.biz</a> 
+
+----574484040312773873--

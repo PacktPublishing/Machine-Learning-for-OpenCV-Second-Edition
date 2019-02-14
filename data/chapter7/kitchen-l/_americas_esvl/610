@@ -1,0 +1,86 @@
+Message-ID: <16223819.1075840844192.JavaMail.evans@thyme>
+Date: Tue, 6 Nov 2001 08:21:20 -0800 (PST)
+From: frank.cernosek@enron.com
+To: louise.kitchen@enron.com, leslie.reeves@enron.com
+Subject: margin only 11-05.xls
+Cc: greg.whiting@enron.com, todd.warwick@enron.com, georganne.hodges@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: greg.whiting@enron.com, todd.warwick@enron.com, georganne.hodges@enron.com
+X-From: Cernosek Jr., Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FCERNOS>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Reeves, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lreeves>
+X-cc: Whiting, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gwhitin>, Warwick, Todd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Twarwic>, Hodges, Georganne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghodges>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+FUTURES MARGIN REQUIREMENTS 									 	 				
+Wire Date 11/6/01	 				 	 	
+Stmt Date 11/5/01	 					 	 	
+					 	 	
+	 US $$$ 			 	  CANADIAN $$$ 			
+Broker	  OTE 	 Credit Facility Covering OTE 	 OTE Less CreditCoverage 	 Net Option Value 	 Initial Margin 	Line of Credit
+Covering Initial Margin (except EDF Mann see calc below)	 Initial Margin
+Less Line of Credit Covering Initial Margin	 	Line of Credit
+Covering Realized/Unrealized Gains & Losses	  	  OTE 	 Initial Margin 		
+					 	 	
+ABN-Amro Inc	 503,712.00 		503,712.00 	0.00 	388,300.00 		388,300.00 		0.00 	 	 			
+ADM INVESTOR	 316,250.00 		316,250.00 	0.00 	0.00 		0.00 		 	 		
+BANK ONE	 0.00 		0.00 	0.00 	0.00 		0.00 		 	 		
+CARR FUTURES (NG)	 0.00 		0.00 	0.00 	0.00 		0.00 		 	 		
+CARR FUTURES INC.	 (1,460,680.58)	 	(1,460,680.58)	 0.00 	2,511,837.81 		2,511,837.81 		 	 		
+CREDIT SUISSE FIRST BOSTON	 (1,160,915.45)	 	(1,160,915.45)	 0.00 	1,142,964.00 		1,142,964.00 		 	 		
+EDF MAN   (see note below)	 (18,655,272.50)	 9,936,510.00 	(28,591,782.50)	 (34,511,776.60)	 15,063,490.00 	15,063,490.00 	0.00 		0.00 	 	 		
+FIMAT *	 42,199,731.06 		42,199,731.06 	0.00 	10,646,516.00 		10,646,516.00 	1 	0.00 	 	 			
+HSBC - US$	 (3,323,112.50)	 	(3,323,112.50)	 0.00 	375,311.00 		375,311.00 		 	 		
+HSBC - Canadian	 	0.00 	0.00 		0.00 		 	 31,670.00 	417,220.00 		
+JP Morgan	 873,969.37 		873,969.37 	0.00 	512,020.00 		512,020.00 		 	 		
+Mann Financial	 0.00 		0.00 	0.00 	0.00 		0.00 		 	 		
+PARIBAS	 83,022,463.80 		83,022,463.80 	0.00 	25,608,872.00 	25,608,872.00 	0.00 		0.00 	 	 		
+PRUDENTIAL SI	 555,085.40 		555,085.40 	0.00 	492,800.00 		492,800.00 		 	 		
+REFCO, INC	 0.00 		0.00 	0.00 	0.00 		0.00 		 	 		
+R J O'BRIEN	 (1,870.00)	 	(1,870.00)	 0.00 	70,000.00 		70,000.00 		 	 		
+SAUL STONE & COMPANY	 77,154.00 		77,154.00 	0.00 	147,000.00 		147,000.00 		 	 		
+SMITH BARNEY, INC **	 9,569,912.00 		9,569,912.00 	0.00 	5,570,731.00 	5,570,731.00 	0.00 		0.00 	 	 		
+SMITH BARNEY, INC ** (Financial)	 (148,500.48)	 	(148,500.48)	 0.00 	86,400.00 		86,400.00 		 	 		
+						 	 		
+TOTAL EXCLUDING MID-DAY CALLS	 112,367,926.12 	9,936,510.00 	102,431,416.12 	(34,511,776.60)	 62,616,241.81 	46,243,093.00 	16,373,148.81 	 	 0.00 	 	 31,670.00 	417,220.00 		
+MID-DAY CALLS: (based solely on Market Movement)	 	 	 		
+EDF Mann	 0.00 						 	 		
+ 	  	  	  	  	  	  	  	  	  	  	  	  	 	
+TOTAL INCLUDING MID-DAY CALLS	 112,367,926.12 	 	  	  	  	  	  	  	  	  	  	  	 	
+							
+** Smith Barney Initial Margin does not include Delivery Margin of 	 	  	 $0.00 	 	  	 	
+		 Used Line 						
+Credit Lines:	  Line 	 OTE 	 Initial Margin 	 Total Line Used 	 Total Line Unused 					
+Smith Barney	                   50,000,000.00 	                       -   	          5,570,731.00 	          5,570,731.00 	 $         44,429,269.00 					
+Paribas	                   75,000,000.00 	                       -   	         25,608,872.00 	        25,608,872.00 	 $         49,391,128.00 					
+EDF	                   25,000,000.00 	        9,936,510.00 	         15,063,490.00 	        25,000,000.00 	 $                           -   					
+Fimat	                   20,000,000.00 	 	  	                           -   	 $         20,000,000.00 					
+	                170,000,000.00 	        9,936,510.00 	         46,243,093.00 	        56,179,603.00 	          113,820,397.00 					
+						
+Note:  EDF Man - Positive Net Option value is collateral for futures requirement.	  	  	  	  	 	
+Initial Margin	  	 $15,063,490.00 	 	  	  	 		
+Option value used to cover Margin	  	 $0.00 	 	  	  	 	
+Initial Margin less positive option value	  	 $15,063,490.00 	 	  	  	 	
+ 	  	  	  	  	  	 	
+EDF Man Line of Credit Analysis:	  	  	  	  	 	
+Initial Margin 	 	 $15,063,490.00 	 	  	  	 	
+OTE	  	 $18,655,272.50 	 (limit 20,000,000) 	 	  	 	
+Net Option Value	  	             34,511,776.60 	 	  	  	 	
+Line of Credit Balance	  	  $         25,000,000.00 	 (limit 50,000,000) 	 	  	 	
+						
+Paribas Line of Credit Limit is $75,000,000	  	  	  	  	 	
+						
+1 Includes amounts withheld from payments due Enron.  Fimat's customer agreement states that excess margin including OTE due to Enron must first be used to pay down advances on the facility.	 	
+     						
+						
+						
+						
+						
+						
+						
+						
+						
+															

@@ -1,0 +1,55 @@
+Return-Path: <danni11baumann@bzplaza.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 26915 invoked from network); 12 Mar 2005 05:04:01 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 12 Mar 2005 05:04:01 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2005 05:04:01 -0000
+Received: (qmail 14293 invoked from network); 12 Mar 2005 05:03:59 -0000
+Received: from 69.5.6.152 (unknown [218.156.41.135])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 12 Mar 2005 05:03:58 -0000
+Received: from host76.music-bulgaria.com (218.156.41.135)
+          by 218.156.41.135 (iPlanet Messaging Server 7.2 HotFix 4.1) with SMTP
+          id <5QIGCI5Z52>; Fri, 11 Mar 2005 23:59:50 -0500
+Message-ID: <INLP1025_EN_3169b@music-bulgaria.com>
+X-Originating-IP: [218.156.41.135]
+Alternate-recipient: Allowed
+Reply-To: "bone elle" <fagxlwbj@music-bulgaria.com>
+From: "bone elle" <fagxlwbj@music-bulgaria.com>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Final Approval Notice
+Date: Sat, 12 Mar 2005 00:52:50 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--040362_817601.rBy57"
+Content-Length: 682
+Lines: 25
+
+----040362_817601.rBy57
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Homeowner,
+<p>
+You have been pre-approved for a $400,000 Home Loan at a 3.35% Fixed Rate.<p>
+
+This offer is being extended to you unconditionally and your credit is in no way a factor.<p>
+
+To take Advantage of this Limited Time opportunity all<br>
+we ask is that you visit our Website and complete<br>
+the 1 minute post Approval Form.<p>
+
+<a href="http://www.refi-with-us.com/1/index/mal/corri">Enter Here</a><p>
+
+Sincerely,<p>
+
+bone elle<br>
+Morgan Associates
+<p><p>
+<a href="http://www.refi-with-us.com/rem.php">no tha.n.ks</a><p></html>
+
+----040362_817601.rBy57--

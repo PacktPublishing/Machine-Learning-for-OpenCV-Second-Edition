@@ -1,0 +1,34 @@
+Message-ID: <18133406.1075863319006.JavaMail.evans@thyme>
+Date: Thu, 7 Jun 2001 18:14:43 -0700 (PDT)
+From: kate.symes@enron.com
+To: lisa.gang@enron.com
+Subject: Losses at Kyrene - 5/31
+Cc: bill.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Lisa - 
+I'm trying to figure out why two deals entered to cover losses at Kyrene for the 31st of May didn't make it into the preschedule sheet. I'm looking for the following deals:
+
+627022 - STSW buys EPE
+	 PV
+	 HLH - 2 MW @ $0
+	 comments: Losses at Kyrene
+
+627025 - STSW buys EPE
+	 PV
+	 HLH - 76 MW @ $170
+	 comments: Delivery at Kyrene
+
+These deals are pulling into the CARP report, but are not shown in either the preschedule or Real Time El Paso models. Therefore, Enpower is showing more volume and a higher total cost for the day than our model. Can you give me a hint on this one?
+
+Thanks,
+Kate

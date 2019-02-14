@@ -1,0 +1,34 @@
+Message-ID: <19896857.1075863301326.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 10:25:51 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: EPE Lending/Day-Ahead Short for 8/16
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Per EPE lending agreement  -
+
+We'll be short 50 mw on peak at Palo - 25 mw under STWBOM, 25 mw under STSW - at a price of $49. Buy to fill this real time. Reduce El Paso purchase prices to $4. Sell back to El Paso at $0. Here are the day-ahead deals....
+
+732687 - STWBOM buys EPE
+	 25 mw @ $49
+
+732692 - STWBOM sells STSW
+	 25 mw @ $49
+
+732696 - STSW buys EPE
+	 25 mw @ $49
+
+Also, STWBOM is short 25 mw on peak in SP15 at a day-ahead price of $44.27. (STCALI is short 100 mw off-peak, SP15, at day-ahead price of $31.02.)
+
+Please enter all purchases using the same book name used in the day-ahead sale. If STCA is short, STCA needs to buy the energy to fill that. I am still running into errors regarding this procedure. Let me know if you have questions.
+
+Thanks,
+Kate

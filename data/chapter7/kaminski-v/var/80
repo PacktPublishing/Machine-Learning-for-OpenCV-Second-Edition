@@ -1,0 +1,74 @@
+Message-ID: <16214720.1075856642515.JavaMail.evans@thyme>
+Date: Mon, 31 Jul 2000 09:05:00 -0700 (PDT)
+From: vladimir.gorny@enron.com
+To: grant.masson@enron.com, vince.kaminski@enron.com, naveen.andrews@enron.com, 
+	pinnamaneni.krishnarao@enron.com, scott.stoness@enron.com, 
+	david.foti@enron.com, john.neslage@enron.com, minal.dalia@enron.com, 
+	andy.knight@enron.com
+Subject: Regulatory VaR
+Cc: shirley.crenshaw@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shirley.crenshaw@enron.com
+X-From: Vladimir Gorny
+X-To: Grant Masson, Vince J Kaminski, Naveen Andrews, Pinnamaneni Krishnarao, Scott Stoness, David Foti, John Neslage, Minal Dalia, Andy Knight
+X-cc: Shirley Crenshaw
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tentative agenda for the Research Lunch meeting on Wednesday, August 2nd at 
+11:30 am:
+
+Objective: Develop a methodology and a model for estimating risks of the EES 
+Regulatory portfolio.
+
+Discussion Items:
+
+1. Elements of the Regulatory portfolio
+
+ - Transmission and Distribution (T&D) Positions
+ - Bundled Tariffs (full utility tariffs that are in place prior to 
+deregulation)
+ - Competitive Transition Charges (CTC) Positions
+ - Diversification between the three risk elements
+
+2. Risk drivers in each bucket (Scott Stoness of EES to provide more detail)
+
+ - T&D: interest rates
+ - Bundled Tariffs: regulatory decisions, power prices, interest rates, 
+inflation
+ - CTC: power prices, fuel prices, generation valuation, generation stack, 
+regulatory decisions
+
+3. Position aggregation parameters (Scott Stoness of EES to provide 
+suggestions)
+
+ - by NERC Region
+ - by state
+ - by utility
+ - by utility tariff
+
+4. Model environment
+
+ - Excel
+ - GRMS/RisktRAC
+ - Other
+
+5. VaR Parameters
+
+ - correlations
+ - factor loadings (1-factor model?)
+ - other
+
+6. EES specific issues
+
+ - The size of CTC positions is impacted by the roll-off date, which is 
+subject to change due to a number of factors (jump diffusion?)
+ - T&D and Bundled Tariffs do not move daily, but rather once every 2-3 years 
+(event driven?)
+
+Thanks, Vlady.
+
+PS: Shirley, could you please make the lunch arrangements accordingly.

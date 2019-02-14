@@ -1,0 +1,101 @@
+Message-ID: <18681096.1075854247434.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 00:56:00 -0800 (PST)
+From: jim.pond@enron.com
+To: daren.farmer@enron.com
+Subject: Re: Tenaska IV 10/00
+Cc: greg.whiting@enron.com, troy.klussmann@enron.com, james.armstrong@enron.com, 
+	megan.parker@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: greg.whiting@enron.com, troy.klussmann@enron.com, james.armstrong@enron.com, 
+	megan.parker@enron.com
+X-From: Jim Pond
+X-To: Daren J Farmer
+X-cc: Greg Whiting, Troy Klussmann, James Armstrong, Megan Parker
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Darren, 
+The demand fee is probably the best solution.  We can use it to create a 
+recieivable/payable with Tenaska, depending on which way the calculation goes 
+each month.  How are PMA's to be handled once the fee been calculated and the 
+deal put in the system?
+
+Attatched is a schedule detailing what is on the GL for Cleburne as of 
+today.  Some of this info will change by the end of the month.  As you can 
+see, there are some discrepancies between Megan's calculations and what is on 
+the general ledger.  UA4 is also on my schedule.  Unless the buys/sells are 
+volumetrically balanced, we book an entry to balance the desk.  This will 
+change the calculation of what is due from/to Tenaska.  Should we be 
+recording a UA4 entry for Cleburne?  Is it addressed in the agreement with 
+Tenaska?
+
+  
+
+
+
+
+Daren J Farmer@ECT
+12/12/2000 04:48 PM
+To: Greg Whiting/Corp/Enron@ENRON, Troy Klussmann/HOU/ECT@ECT, James 
+Armstrong/HOU/ECT@ECT, Megan Parker/Corp/Enron@ENRON, Jim 
+Pond/Corp/Enron@Enron
+cc:  
+
+Subject: Tenaska IV 10/00
+
+In most cases, ENA will be a net buyer from Tenaska IV for activity related 
+to the Cleburne plant.  However, for October 2000, the plant was down the 
+majority of the month and ENA sold off the supply, resulting in ENA owing 
+money to Tenaska IV.
+
+I have created deal 529856 with a demand of $1,798,389.73, which is the 
+calculated amount of income on the Cleburne desk. (Please see the attached 
+schedule.)   We need to pass this income on to Tenaska IV.  Do we need to pay 
+this amount (wire from ENA to Tenaska IV) or is there another way to do 
+this?  This is the case for October 2000 and could possibly happen again in 
+the future.
+
+Greg, Troy, Jim - Please let me know what you think about settling this.
+
+Megan - Don't pay the amount until we here from the Greg, Troy and Jim.  
+Also, make sure that we have received dollars from the spot sales before we 
+reimburse Tenaska IV.
+
+D
+---------------------- Forwarded by Daren J Farmer/HOU/ECT on 12/12/2000 
+04:37 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Megan Parker @ ENRON                           12/07/2000 09:18 AM
+	
+
+To: Daren J Farmer/HOU/ECT@ECT
+cc:  
+Subject: Tenaska IV 10/00
+
+We have actuals.  The larger of the two volumes is 1,395,000, which is 
+45,000/day, so the demand rate in deal 514353 is fine.  I am having a 
+problem, though, with the way it is coming to settlements.  It is showing up 
+with a Jan 2003 delivery date.  I think the demand fee needs to be on 10/1 
+only.  Right now, it is on a line with a date of 10/1/00 to 12/31/36.   I 
+think this is confusing the system some how.  Also, we still need the 
+purchase deal for Tenaska IV.  It should be for a demand fee of $2,571,135.73 
+booked to the Cleburne desk.  We actually owe $1,798,389.73, but I need to 
+net the Tenaska IV sales with the purchase to clear those receivables.  James 
+is calling me every day asking for an update.  Do you know when we will be 
+able to get this in the system?  I have attached my spreadsheet so you can 
+see the numbers.
+
+
+
+
+
+
+Megan
+
+
+

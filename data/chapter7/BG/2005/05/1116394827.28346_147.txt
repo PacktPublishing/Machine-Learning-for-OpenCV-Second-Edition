@@ -1,0 +1,57 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S261409AbVEQMZK@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 1167 invoked from network); 17 May 2005 12:27:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 17 May 2005 12:27:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 May 2005 12:27:17 -0000
+Received: (qmail 18259 invoked from network); 17 May 2005 12:27:16 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 17 May 2005 12:27:16 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S261409AbVEQMZK (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Tue, 17 May 2005 08:25:10 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S261430AbVEQMZK
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Tue, 17 May 2005 08:25:10 -0400
+Received: from adsl-211-206-76.asm.bellsouth.net ([68.211.206.76]:15046 "EHLO
+	studio-internet") by vger.kernel.org with ESMTP id S261409AbVEQMZF convert rfc822-to-8bit
+	(ORCPT <rfc822;linux-kernel@vger.kernel.org>);
+	Tue, 17 May 2005 08:25:05 -0400
+Message-ID: <412-22005521712250281@studio-internet>
+Reply-To: "Danny B" <Besides_Daniel@yahoo.com>
+Organization: Global Domains International
+From:	"Danny B" <Postmaster@shadrack.ws>
+To:	linux-kernel@vger.kernel.org
+Subject: Wages = a living, Profits = a fortune!!! 
+Date:	Tue, 17 May 2005 08:25:00 -0400
+MIME-Version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 8BIT
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 963
+
+How would you like to have one dollar for every Dot com. Domain name that exists everywhere on planet Earth? Have you ever fantasized about having one dollar for every automobile that travels the highways in the entire world? Do you remember when 1-800 phone numbers were first introduced? Now there are no more 800 numbers available. You have 888's 877's etc. I wish I could somehow wave a magic wand and have you understand the HUGE income available to you via Global Domains International (GDI). I hope you are a visionary. Your total cost to participate is only $10 per month.
+
+www.atldaw.ws/page5.html
+
+thanks 
+Danny 
+678 343 7976
+846 mell ct. 
+Powder Springs Ga 30080
+Removal instructions..
+Remove@shadrack.ws
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

@@ -1,0 +1,53 @@
+Message-ID: <8177090.1075840440554.JavaMail.evans@thyme>
+Date: Wed, 14 Nov 2001 08:56:47 -0800 (PST)
+From: richard.pinion@enron.com
+To: matt.pena@enron.com, ben.nguyen@enron.com, benedicta.tung@enron.com
+Subject: Zero Path Termination in Path Manager
+Cc: tammy.jaquet@enron.com, victor.lamadrid@enron.com, lisa.kinsey@enron.com, 
+	kevin.heal@enron.com, f..smith@enron.com, j..farmer@enron.com, 
+	lisa.kinsey@enron.com, shahnaz.lakho@enron.com, 
+	kathryn.bussell@enron.com, wendy.hiatt@enron.com, 
+	donna.greif@enron.com, l..schrab@enron.com, 
+	clarissa.garcia@enron.com, john.warner@enron.com, 
+	rita.wynne@enron.com, mark.mcclure@enron.com, 
+	robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tammy.jaquet@enron.com, victor.lamadrid@enron.com, lisa.kinsey@enron.com, 
+	kevin.heal@enron.com, f..smith@enron.com, j..farmer@enron.com, 
+	lisa.kinsey@enron.com, shahnaz.lakho@enron.com, 
+	kathryn.bussell@enron.com, wendy.hiatt@enron.com, 
+	donna.greif@enron.com, l..schrab@enron.com, 
+	clarissa.garcia@enron.com, john.warner@enron.com, 
+	rita.wynne@enron.com, mark.mcclure@enron.com, 
+	robert.superty@enron.com
+X-From: Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RPINION>
+X-To: Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Nguyen, Ben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bnguyen2>, Tung, Benedicta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Btung>
+X-cc: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, 'jrlopez@aep.com', 'cjrodriguez@aep.com', Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbussel>, Hiatt, Wendy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Whiatt>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>, Garcia, Clarissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgarcia>, Warner, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>, Mcclure, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcclur>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Matt / Ben:
+
+I am responding to your request for comments on revising path manager by expanding the parameters of the path termination process to include zero volume paths on the last day of the month as a way to speed up Unify response and retrieve times.  
+
+Based on my interviews of various desks including AEP and Calgary and our recent discussions, we find a legitimate business need to allow zero volume paths to roll from month to month (requirements contracts on wellhead gas).  Following is a recap of what is PROPOSED to be done regarding zero path termination.
+
+1.  All paths that are zero on the last day of a month  (exception noted in #2 below)  will terminate on that day and WILL NO LONGER roll into the following month.
+	This path termination out function will run every night.  Any paths changed to zero retroactively will zero out future month's paths UNLESS a volume 
+	is on that path in the future month.
+
+2.  Zero Paths marked as "always send nominations" WILL CONTINUE to roll from month to month until changed to some other nomination option.  It appears that HPL
+	(736 paths) and NIGAS (1136 paths) might have some paths rolling that no longer need to.  A special one time handling of these paths will be coordinated with the
+	scheduler when you are ready.
+
+3.  Zero paths which roll from month to month using the "Volume Management - Do Not Send" function will CEASE to do so.  This was agree to by Patti in regards to 
+	paths for OBA tracking.
+
+ALL:
+Please respond via e-mail with any comments.
+
+Richard 
+x37339

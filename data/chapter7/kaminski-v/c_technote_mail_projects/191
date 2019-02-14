@@ -1,0 +1,38 @@
+Message-ID: <17936775.1075856591149.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 06:07:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: stinson.gibner@enron.com
+Subject: projects list
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Stinson Gibner
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson,
+
+Just want to give you a quick update about the current projects on my plate,
+so that you can update your blackbroad
+
+1) WTI trading simulation V.2, ready for you to review
+2) Storage valuation for Paul Bieinawski (new)
+3) Product production margin modeling for Doug Friedman (new)
+     need to model explicitly the jump piece.  Some new ideas for discussion.
+4) eSpeed warrant valuation for Randy Petersen (new)
+5) Correlation skew for Larry May
+6) Credit exposure model, Alex finished the coding, testing next
+
+Have you had a chance to review Brad's back testing results for the storage 
+model ?
+
+
+Zimin
+
+
+
+
+

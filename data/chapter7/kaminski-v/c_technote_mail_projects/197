@@ -1,0 +1,35 @@
+Message-ID: <16424352.1075856591282.JavaMail.evans@thyme>
+Date: Fri, 17 Nov 2000 08:37:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: stinson.gibner@enron.com
+Subject: EOL WTI maket maker simulation model
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: Stinson Gibner
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson,
+
+I add the total P/L due to contract rollover.  When the number of trades is 
+large
+and the spread is not too small, the model prints a lot of money, dominated by
+those trade earning the half of BO spread. 
+
+I also wrote an explaination about the model on the front page. I think we 
+are 
+ready to deliever the model V.1.
+
+The next step is to incorporate the intra-day market movement by using high 
+and low
+prices into the pricing.  I will call you on Monday.
+
+Happy Thanksgivings !
+
+Zimin

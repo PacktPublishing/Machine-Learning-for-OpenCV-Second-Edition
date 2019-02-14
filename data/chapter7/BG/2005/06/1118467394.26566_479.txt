@@ -1,0 +1,50 @@
+Return-Path: <agritranslation@alternativa1.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 744 invoked from network); 11 Jun 2005 04:57:04 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 11 Jun 2005 04:57:04 -0000
+Received: (qmail 17094 invoked from network); 11 Jun 2005 04:57:04 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx03.futurequest.net ([69.5.6.174])
+  with QMQP via TCP; 11 Jun 2005 04:57:04 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 738 invoked from network); 11 Jun 2005 04:57:04 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 11 Jun 2005 04:57:04 -0000
+Received: (qmail 12672 invoked from network); 11 Jun 2005 04:57:04 -0000
+Received: from MailUser (200.69.155.132.techtelnet.net [200.69.155.132])
+  by mx09.futurequest.net ([69.5.6.181])
+  with SMTP via TCP; 11 Jun 2005 04:57:03 -0000
+Reply-To: agritranslation@alternativa1.com
+From: "Javier Redoano"<agritranslation@alternativa1.com>
+To: "" <webmaster@ezmlm.org>
+Subject: AGRICULTURE - TRANSLATION SERVICE 
+Sender: "Javier Redoano"<agritranslation@alternativa1.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Sat, 11 Jun 2005 04:56:37 GMT
+Message-ID: <02B6FF19E.6997670.agritranslation@alternativa1.com>
+Organization: Javier Redoano Translations
+Content-Length: 364
+
+TECHNICAL TRANSLATION - AGRICULTURE
+English/Spanish - Spanish/English
+
+- Crops
+- Cattle Raising
+- Swine
+- Poultry
+- Farm Machinery
+- Agricultural Inputs
+- Veterinary Medicine
+- Farm Management
+- Agricultural Economics
+- Commodity Commercialization
+- Rural Policy
+- Natural Resources
+
+For further info, please send your message at
+
+agritranslation@alternativa1.com

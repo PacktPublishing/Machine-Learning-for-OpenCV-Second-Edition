@@ -1,0 +1,212 @@
+Message-ID: <24384548.1075857043104.JavaMail.evans@thyme>
+Date: Wed, 8 Mar 2000 10:02:00 -0800 (PST)
+From: mark.palmer@enron.com
+To: ravi.thuraisingham@enron.com
+Subject: EBS's approach to storage trading
+Cc: jim.crowder@enron.com, jean.mrha@enron.com, kara.knop@enron.com, 
+	stinson.gibner@enron.com, vince.kaminski@enron.com, 
+	david.cox@enron.com, shalesh.ganjoo@enron.com, 
+	john.bloomer@enron.com, john.griebling@enron.com, 
+	richard.reichardt@enron.com, scott.yeager@enron.com, 
+	david.berberian@enron.com, rex.shelby@enron.com, 
+	mike.haney@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: jim.crowder@enron.com, jean.mrha@enron.com, kara.knop@enron.com, 
+	stinson.gibner@enron.com, vince.kaminski@enron.com, 
+	david.cox@enron.com, shalesh.ganjoo@enron.com, 
+	john.bloomer@enron.com, john.griebling@enron.com, 
+	richard.reichardt@enron.com, scott.yeager@enron.com, 
+	david.berberian@enron.com, rex.shelby@enron.com, 
+	mike.haney@enron.com
+X-From: Mark S Palmer
+X-To: Ravi Thuraisingham
+X-cc: Jim Crowder, Jean Mrha, Kara Knop, Stinson Gibner, Vince J Kaminski, David Cox, Shalesh.Ganjoo@enron.com, John Bloomer, John Griebling, Richard Reichardt, Scott Yeager, David Berberian, Rex Shelby, Mike Haney
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Ravi--
+
+Thanks for you note. I would be very interested in a meeting to establish a=
+n=20
+EBS-wide approach to storage. It's a huge opportunity.
+We could expand the 2:30pm Friday meeting to include all interested EBS=20
+people and discuss the topics below. Could Shalesh coordinate this meeting=
+=20
+and also coordinate the ongoing effort firm-wide? Have I omitted anything=
+=20
+below?
+
+As I see it, here are the key storage initiatives that EBS should undertake=
+,=20
+and who is involved up to this point.=20
+
+1. - establish storage contract terms and pricing
+Who's involved: Virawan, Jean Mrha Beach
+ a.  define terms for storage needed for EBS products (MediaCast,=20
+MediaTransport, and new products)
+ b.  define general terms for other storage contracts
+
+2. - establish storage pooling points (SPP)
+Who's involved: Shalesh, Richard Reichardt, Mark Palmer, Kara Knop
+Who's needed: other designated people from Bloomer and Griebling groups, Ji=
+m=20
+Crowder's group input on alliances
+ a.  define technology needed
+  servers, storage devices
+  control software for physical delivery
+ b.  decide optimal SPP locations
+  at/near existing bandwidth trading pooling points
+  at/near existing EBS city PoPs
+  at a hosting partner location
+ c.  engage optimal partners to create SPP
+  IBM
+   IBM Global Services
+   Tivioli (storage management software)
+  EMC
+  Sun
+  Compaq
+  existing storage portal vendors (e.g. Storage Networks)
+
+3. - establish storage trading benchmark
+Who's involved: unknown
+Who's needed: Research group
+ a.  define unit of measure for trading contract (e.g., terabyte-month)
+ b.  establish pricing mechanisms
+
+4. - identify (and monetize) storage market opportunites
+Who's involved: unknown
+Who's needed: Cox's group, Bloomer's group
+ a.  storage intermediation opportunities
+ b.  establish Virtual Storage Portal service for EBS
+
+
+
+
+=09Ravi Thuraisingham
+=0903/08/00 11:00 AM
+=09=09=20
+=09=09 To: Mark S Palmer/Enron Communications@Enron Communications, Jean Mr=
+ha/Enron=20
+Communications@Enron Communications, John Bloomer/Enron Communications@Enro=
+n=20
+Communications, Richard Reichardt/Enron Communications@Enron Communications
+=09=09 cc: Kara Knop, Stinson Gibner/HOU/ECT@ECT, Vince Kaminski, David Cox=
+/Enron=20
+Communications@Enron Communications, Shalesh.Ganjoo@enron.com
+=09=09 Subject: Meeting for Friday on Storage
+
+Hi Mark, I have not met you yet but heard a lot of good things about you.  =
+I=20
+would like to discuss with you and possibly with John Bloomer and Richard=
+=20
+Reichardt about the EBS Research's role in supporting the Storage market=20
+development from the origination and trading perspective.  There are severa=
+l=20
+people in various groups that are talking about storage but here is what's =
+my=20
+take on our involvement--please correct me or suggest otherwise. =20
+
+Shalesh Ganjoo is our lead analyst on this effort.  In addition to his effo=
+rt=20
+with your group, he is presently supporting Jean Mrha with pricing and=20
+standardization for a traded storage maret--Stinson Gibner is directly=20
+supervising him in this effort.
+
+Shalesh came to us through referal from David Cox--David discovered him at=
+=20
+one of his speaking engagements.  Shalesh had talked to David about traded=
+=20
+storage market development some time last October and David refered Shalesh=
+=20
+to Enron Research group. We hired Shalesh for general analyst position and=
+=20
+now he is pulled into all aspect of this storage effort.  Currently, he is=
+=20
+our point person (with Stinson or I supervising his effort) who is supporti=
+ng=20
+Jean Mrha and you on the subject.  Kara Knop has aproached Shalesh with=20
+request for some support and Shalesh and she are sorting out each other=01,=
+s=20
+role in this regard.  As per my discussion today with David, we need to=20
+coordinate this storage effort from the perspective of modeling market=20
+assessment etc. For this I suggest Shalesh and his effort so that all parti=
+es=20
+involved can benefit from collective effort within one central source.  Bas=
+ed=20
+on David's and my assessment of Shalesh's capabilities, I would like to=20
+suggest that the commercial heads use Shalesh for his creative thinking,=20
+understanding of the market and analytical capabilities and not just for da=
+ta=20
+gathering and simple research effort. We can add other staff as we see the=
+=20
+need and as you request them.=20
+
+Please respond this e-mail with your comments if this sounds like aplan, so=
+=20
+that we can support this effort efficiently and in a scalable manner.
+
+Kind Regards,
+
+Ravi.
+
+
+A bit about EBS Research Group
+
+John Bloomer and Richard Reichardt have met me and are aware of my role and=
+=20
+Stinston Gibner's role in EBS. I lead a team of quantitative professionals=
+=20
+via a group we are calling EBS Research.  This group reports to Stinson=20
+Gibner (VP) and Vince Kaminski (MD and Head of Enron Research).  Stinson an=
+d=20
+Vince are the original founders of Enron Corp Research that has been charge=
+d=20
+with model development efforts to support Enron Energy trading and other=20
+Enron business.  Enron Research is involved in all aspects of Enron buiness=
+es=20
+(EES, International, Corporate affairs such as FAS 133 and other accounting=
+=20
+and new product (derivatives) development, etc.).
+
+Within EBS Research, there serveral professionals supporting Kevin Howard=
+=20
+(CFO office), John Griebling, Tom Gros and Jean Mrha, David Cox (via Boris)=
+,=20
+and the War room.  Our main area of focus is with Jean Mrha (trading) and=
+=20
+John Griebling (optical network design and optimization, etc.).  We play a=
+=20
+key role with John Griebling's go forward network design and implementation=
+=20
+through our responsiblity to provide traffic engineering analysis and=20
+modeling effort.
+
+
+----- Forwarded by Ravi Thuraisingham/Enron Communications on 03/08/00 09:3=
+1=20
+AM -----
+
+=09Shalesh Ganjoo@ECT
+=0903/07/00 08:01 PM
+=09=09=20
+=09=09 To: Mark S Palmer/Enron Communications@Enron Communications
+=09=09 cc: Ravi Thuraisingham/Enron Communications@ENRON COMMUNICATIONS@ENR=
+ON
+=09=09 Subject: Meeting for Friday on Storage
+
+Dear Mark,
+
+I am looking forward to presenting my competitive analysis on the Storage=
+=20
+market on Friday to you and others.  Ravi Thurasingham will be calling you =
+to=20
+find out if we (Research Group) can assist your group in any other way. =20
+Please let me know if you need any information before we meet.  Thank you.
+
+Sincerely,
+
+Shalesh Ganjoo
+

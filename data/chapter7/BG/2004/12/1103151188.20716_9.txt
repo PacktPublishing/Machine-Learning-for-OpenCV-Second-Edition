@@ -1,0 +1,50 @@
+Return-Path: <uyfkxrzncgazkt@Fastmail.ca>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 1771 invoked from network); 15 Dec 2004 07:49:46 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 15 Dec 2004 07:49:46 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 15 Dec 2004 07:49:46 -0000
+Received: (qmail 17170 invoked from network); 15 Dec 2004 07:49:45 -0000
+Received: from BILLGATES (unknown [61.185.149.25])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 15 Dec 2004 07:49:40 -0000
+Message-ID: <K383I9BI8F322D71LH06RFW90176108S057653@61.185.149.25>
+Content-Class: urn:content-classes:newsletter
+Location: 937 thereafter fluctuate
+Reply-To: "Benny Mcnamara" <uyfkxrzncgazkt@Fastmail.ca>
+From: "Benny Mcnamara" <uyfkxrzncgazkt@Fastmail.ca>
+To: "Rait" <rait@bruce-guenter.dyndns.org>
+Subject: Shopping for [mortgages] made easy
+Date: Wed, 15 Dec 2004 05:49:28 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--522126561825243"
+Content-Length: 432
+Lines: 24
+
+----522126561825243
+Content-Type: text/plain;
+	charset="iso-3960-5"
+Content-Transfer-Encoding: quoted-printable
+
+November Update: 
+
+Further drop! Rates starting at 3.25%
+
+Fixed Your mortgage process is pre-approved
+
+Please use our secure site to fill-out your application. 
+
+Visit us at:http://www.thebestmortage.com/x/loan2.php?id=3Dsas
+
+Thank you, 
+
+Benny Mcnamara
+
+http://www.thebestmortage.com/st.html
+ 
+
+
+----522126561825243--

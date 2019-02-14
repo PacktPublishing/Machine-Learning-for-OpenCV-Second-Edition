@@ -1,0 +1,94 @@
+Return-Path: <yxdtuircugqvt@fct.unl.pt>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 5273 invoked from network); 13 Dec 2004 15:43:31 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 13 Dec 2004 15:43:31 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Dec 2004 15:43:31 -0000
+Received: (qmail 22233 invoked from network); 13 Dec 2004 15:43:30 -0000
+Received: from 69.5.6.152 (unknown [218.154.214.8])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 13 Dec 2004 15:43:29 -0000
+X-Message-Info: 96YBIhcn7BKHA4DeunGIsekYU57mKF7CiuJPpYGFA2AE0
+Received: from [232.240.56.106] by carborundum4694.doormen.218.154.214.8 via HTTP; Mon, 13 Dec 2004 09:41:34 -0600
+Message-ID: <B51DA3520C.3FE56@218.154.214.8>
+Reply-To: "Les Poe" <yxdtuircugqvt@fct.unl.pt>
+From: "Les Poe" <yxdtuircugqvt@fct.unl.pt>
+To: cvs@bruce-guenter.dyndns.org
+Subject: 2005 doctors directory emergency medicine.
+Date: Mon, 13 Dec 2004 18:42:34 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--E414165940A38C8"
+Content-Length: 1792
+Lines: 68
+
+----E414165940A38C8
+Content-Type: text/plain;
+	charset="iso-87A2-2"
+Content-Transfer-Encoding: quoted-printable
+
+The New 2005 United States Healthcare Database.
+
+This complete database includes all hospitals, nursing homes, 
+and physicians in the country.
+
+In a rapidly-changing industry, current healthcare information is an 
+invaluable resource to businesses and organizations.  The United States 
+Healthcare Database includes comprehensive information on more than 
+7,000 hospitals, 25,000 nursing homes and 400,000 doctors.  It is the 
+most extensive and reliable mailing list and database of key decision 
+makers in the health care market.
+ 
+Each record is indexed by such features as name, address, phone and 
+fax. The database is available in Excel format on CD Rom.  It is 
+designed for mailing lists and merges.  The data can be selected by 
+state or other criteria such as type of practice. It can be used on 
+an unlimited basis.
+
+For the past 14 years, MedCom has maintained the most comprehensive 
+healthcare lists.  Our directories are 100% telephone verified and 
+updated every quarter. MedCom continues to hold the nation's most 
+extensive and reliable databases of key decision-makers in the health 
+care market.
+ 
+Available exclusively on CD-Rom (Excel), the data can be used on an 
+unlimited basis. It is easily exportable to other programs for 
+mailing or faxing purposes.
+
+For a limited time, this extensive database is offered at an introductory =
+
+
+Price of $195 (reg. $745).
+
+To order, please print this e-mail, complete the information below and 
+fax it to 416-765-0029 (tel: 416-765-0028).
+
+NAME:
+    
+TITLE:
+
+ORGANIZATION:
+
+ADDRESS:
+
+CITY:
+
+STATE:
+
+POSTAL:
+
+TEL:
+
+FAX:
+
+EMAIL:
+ 
+
+MedCom
+4410 Massachusettes Ave. NW, #201
+Washington, DC 20016
+
+
+----E414165940A38C8--

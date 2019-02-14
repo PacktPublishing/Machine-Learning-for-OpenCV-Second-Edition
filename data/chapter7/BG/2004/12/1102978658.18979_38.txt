@@ -1,0 +1,38 @@
+Return-Path: <pycjhzdowi@astral.ro>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 31553 invoked from network); 13 Dec 2004 10:42:58 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 13 Dec 2004 10:42:58 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Dec 2004 10:42:58 -0000
+Received: (qmail 9805 invoked from network); 13 Dec 2004 10:42:57 -0000
+Received: from cm218-253-26-103.hkcable.com.hk (unknown [218.253.26.103])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 13 Dec 2004 10:42:54 -0000
+Received: from zak.futurequest.net by home-140170.iasi.astral.ro with DAV; Mon, 13 Dec 2004 03:29:43 -0600
+Received: from 151.91.164.132 by mx2.astral.ro with HTTP; Mon, 13 Dec 2004 03:29:32 -0600
+Mime-Version: 1.0
+Message-ID: <59343699874376184.950133.eutowra@mfzooaly.astral.ro>
+Content-Transfer-Encoding: 7bit
+From: "Lorna Santos" <pycjhzdowi@astral.ro>
+Date: Mon, 13 Dec 2004 13:24:43 +0400
+To: cvs@bruce-guenter.dyndns.org
+Content-Type: text/plain; charset=windows-1258
+Subject: Current Identity
+Content-Length: 321
+Lines: 14
+
+Hello,
+
+Our database records indicate we will be able to   a p prov e   you 
+for a   m ortga g e / re-fin a n ce    for up to 250k for 4.0 deal.
+
+If you are interested we advise you to act ASAP.
+
+We need some information from you to finish up the process.
+http://www.ismorea.com/
+
+Have a nice day,
+Sincerly
+Lorna Santos

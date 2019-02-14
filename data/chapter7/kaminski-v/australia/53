@@ -1,0 +1,93 @@
+Message-ID: <20669230.1075856566057.JavaMail.evans@thyme>
+Date: Wed, 30 Aug 2000 02:57:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: chris@lacima.co.uk
+Subject: Re: EPRM article
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Vince J Kaminski
+X-To: "Chris Strickland" <chris@lacima.co.uk>
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Chris,
+
+This is very well written and will serve the reader well. A few comments.
+
+1. When I think about the taxonomy of the VaR models, I typically use the 
+classification based on 3 categories:
+
+ a. variance/covariance  method
+                b. historical simulation
+                c. Monte Carlo simulation.
+
+Delta approach is the way of representing a position in a nonlinear 
+instrument.
+
+2. I would define Monte Carlo as an approach based on statistical simulation 
+of behavior of
+all the market prices/rates, etc., and revaluation of the entire portfolio.
+The revaluation may be based on an approximation (using Taylor's expansion) 
+that may
+ involve delta, delta/gamma, delta/gamma/omega or may be exact (based on the 
+same
+model that produces the mark-to-market portfolio valuations).
+
+The main benefit of using the  MC simulation in the energy markets is the 
+ability to capture
+the gapping behavior of the energy markets in a straightforward way. I would 
+emphasize that
+there are attempts to incorporate jumps in the V/C model (I shall send you 
+the references 
+from home).
+
+3. I would mention that historical simulation may break down in the markets 
+that are evolving
+quickly (new instruments for which we have no comparable prices,
+behavior of prices may change as markets mature or de-mature).
+
+4. For bigger portfolios, virtually all methods require some level of 
+aggregation into
+ atomic, elemental instruments to reduce the dimensionality of the problem.
+This process may be a source of a big error.
+
+5. The computational burden of MC can be reduced through clever preprocessing
+of a portfolio that introduces no error. Many swaps with the same underlying
+can be aggregated into one positions ( they are  portfolios of forwards and 
+they are linear
+instruments).
+
+Please, feel free to use any comment (or none).
+
+Vince
+
+
+
+
+
+
+
+"Chris Strickland" <chris@lacima.co.uk> on 08/28/2000 02:58:56 PM
+Please respond to "Chris Strickland" <chris@lacima.co.uk>
+To: <vince.j.kaminski@enron.com>
+cc:  
+Subject: EPRM article
+
+
+
+Dear Vince,
+?
+D you think you might be able to look at this in  the next day or so? Robin 
+is after something by the end of this  week.
+?
+Best regards.
+?
+Chris.
+?
+ - EPRM_01_VaR.doc
+

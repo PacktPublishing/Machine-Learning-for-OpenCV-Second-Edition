@@ -1,0 +1,36 @@
+Return-Path: <norman.lackey_yc@bistum-wuerzburg.de>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 27845 invoked from network); 20 Aug 2004 08:25:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 20 Aug 2004 08:25:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 20 Aug 2004 08:25:14 -0000
+Received: (qmail 9794 invoked from network); 20 Aug 2004 08:25:13 -0000
+Received: from pch.etat.lu (unknown [67.52.145.4])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 20 Aug 2004 08:25:13 -0000
+Received: from 232.84.127.191 by smtp.bistum-wuerzburg.de;
+	Fri, 20 Aug 2004 08:26:46 +0000
+Message-ID: <712901c4868f$56265a1a$dc7528e0@pch.etat.lu>
+From: "Norman Lackey" <norman.lackey_yc@bistum-wuerzburg.de>
+To: cvs@bruce-guenter.dyndns.org
+Subject: Buy cheap Pharmaceuticals through us!
+Date: Fri, 20 Aug 2004 04:26:24 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Content-Length: 360
+Lines: 11
+
+<html>
+<head>
+<title>World Wide Meds Today</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div align="center"><a href="http://www.worldwidemedstoday.com/?wid=000023"><img src="http://www.worldwidemedstoday.com/creatives/c1/mainpic.gif" border="0"><br>Image not loading?, click here</a> 
+</div>
+</body>
+</html>

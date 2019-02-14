@@ -1,0 +1,49 @@
+Return-Path: <NQFNPOAOKHTQ@fastemailer.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 8089 invoked by uid 115); 17 Feb 2005 11:37:07 -0000
+Received: from NQFNPOAOKHTQ@fastemailer.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.230.184.228):. 
+ Processed in 0.12387 secs); 17 Feb 2005 11:37:07 -0000
+Received: from unknown (HELO 209.5.178.248) (211.230.184.228)
+  by churchill.factcomp.com with SMTP; 17 Feb 2005 11:37:06 -0000
+X-Message-Info: DSJO/qyc/9/hcj/J+652/1829944947072
+Received: from distribution.NQFNPOAOKHTQ@fastemailer.com ([194.118.216.68]) by gt13-hv14.NQFNPOAOKHTQ@fastemailer.com with Microsoft SMTPSVC(5.0.3708.5501);
+	 Thu, 17 Feb 2005 15:33:35 +0400
+Received: from bianco.NQFNPOAOKHTQ@fastemailer.com ([84.244.4.80]) by pretoria.NQFNPOAOKHTQ@fastemailer.com with MailEnable ESMTP; Thu, 17 Feb 2005 09:36:35 -0200
+From: "Angelica Darden" <NQFNPOAOKHTQ@fastemailer.com>
+To: "Bait" <bait@em.ca>
+Subject:  no more red light tickets!
+MIME-Version: 1.0 (produced by hearkenrejecter 2.5)
+Content-Type: multipart/alternative;
+	boundary="--9141899652328645"
+X-Qmail-Scanner-Message-ID: <11086402276728079@churchill>
+
+----9141899652328645
+Content-Type: text/html;
+	charset="iso-9313-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: trivalent amalgam sol
+
+<html>
+<head>
+<title></title> 
+</head> 
+<body bgcolor=3D"#FFFFFF"> 
+<p align=3D"center"><a href=3D"http://pilotuniversex.com/index.php?id=3D17=
+3&affid=3D6539"><img src=3D"http://pilotuniversex.com/ads/bnr_600x400_1.jp=
+g" border=3D"0"></a></p> 
+<p align=3D"center"><strong><font color=3D"#FF0000" size=3D"3" face=3D"ari=
+al">Don't Let Them Take Your CASH in a FLASH!!!</font><br> 
+<font color=3D"#9933CC" size=3D"3" face=3D"arial">make your licence plate =
+invisible</font><br><font color=3D"#FF00FF"></font><strong>
+<br><a href=3D"http://pilotuniversex.com/index.php?id=3D173&affid=3D6539">=
+Click Here For Information</a></strong><br></font></p>
+<br><br><br> 
+<p align=3D"center"><font color=3D"#000000" size=3D"2" face=3D"arial, helv=
+etica, sans-serif">click <a href=3D"http://pilotuniversex.com/gone.php">he=
+re</a> if you would not like to receive future mailings.</font></p> 
+</center> 
+</body> 
+</html>
+
+----9141899652328645--

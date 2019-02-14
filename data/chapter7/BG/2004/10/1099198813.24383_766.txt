@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-oversand@em.ca
+Received: (qmail 28415 invoked by uid 115); 29 Oct 2004 14:37:37 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(213.13.228.132):. 
+ Processed in 0.193771 secs); 29 Oct 2004 14:37:37 -0000
+Received: from unknown (HELO hotpop.com) (213.13.228.132)
+  by churchill.factcomp.com with SMTP; 29 Oct 2004 14:37:33 -0000
+Date: Thu, 28 Oct 2004 22:06:26 +0000 (Hora padrão de GMT)
+From: [HP] bookings <djbooking@hotpop.com>
+To: bait-oversand@em.ca
+Message-ID: 38288.921134259261_30726326513000
+Subject: LUCA RICCI new years eve...
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Luca Ricci - Booking</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+<table width="300"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#EEEEEE">      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><br>
+            <font size="3">Luca Ricci </font></strong><font size="3">Open dates:</font><br>
+            <strong>2004 - December</strong> <strong> &amp;  NYE<br>
+            2005 - January, February &amp; March </strong>
+          </font></p>
+    </blockquote></td>
+  </tr>
+  <tr>
+    <td><img src="http://vidric.com/work/hs/luca/luca.jpg" width="300" height="452"></td>
+  </tr>
+  <tr>
+    <td><table width="100%"  border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td bgcolor="#f1f1f1"><p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="2">Luca Ricci  - Bio</font></strong><br>
+            The talented up and coming Italian DJ &amp; Producer, was born and raised on a small island named Ischia in the Gulf of Naples.<br>
+            <br>
+        </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Luca's productions go from Deep to Tech House, Tribal and Progressive. When asked to explain his favourite type of music, Luca responds, &quot;Any music that gives me emotions and feelings&hellip;..for me, music is an art-form. I play from deep to dirty sexy tribal house into progressive.&quot;<br>
+        <br>
+        </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">In addition to producing under his name, Luca has also released works under different project names: When is dark, Aenaria, Vibe junction, Eugenie, Vesdino and Against the grain. <br>
+        <br>
+            Luca Ricci is a talent to be watched. His sound and style make him a favourite anywhere he plays. His music has taken clubbers on a voyage - connecting their minds to<br>
+            their bodies with the drum beats as their guide.</font>
+          </p>          </td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"><p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For booking : <a href="mailto:djbooking@hotpop.com">djbooking@hotpop.com</a></font> </p></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

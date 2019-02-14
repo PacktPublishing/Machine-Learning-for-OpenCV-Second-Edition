@@ -1,0 +1,52 @@
+Return-Path: <Brittany.Manuel@cashette.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 1738 invoked by uid 115); 21 Mar 2005 04:38:15 -0000
+Received: from Brittany.Manuel@cashette.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.125.104.116):. 
+ Processed in 0.112916 secs); 21 Mar 2005 04:38:15 -0000
+Received: from zaq3d7d6874.zaq.ne.jp (61.125.104.116)
+  by churchill.factcomp.com with SMTP; 21 Mar 2005 04:38:14 -0000
+Return-Path: <RachelerClemonser@runbox.com>
+X-Original-To: bait@em.ca
+Delivered-To: bait@em.ca
+Received: from server1.fastermail.com  (mail.fastermail.com   [205.158.62.76])
+	by fep2.runbox.com (Postfix) with ESMTP id A025C0601
+	for <bait@em.ca>; Mon, 21 Mar 2005 07:38:53 +0300 (EDT)
+Received: from nobody by runbox.com with local (Exim 4.31)
+	id 3C1rjW-0889oD-My
+	for <bait@em.ca>; Mon, 21 Mar 2005 06:38:53 +0200
+To: bait@em.ca
+Subject: Re: Account
+From: "Rachel Clemons" <RachelerClemonser@runbox.com>
+Message-ID: <638254891185.7eb1e7905555@runbox.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+Date: Mon, 21 Mar 2005 10:41:53 +0600
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.runbox.com
+X-AntiAbuse: Original Domain - go1net.com
+X-AntiAbuse: Originator/Caller UID/GID - [11 65] / [19 12]
+X-AntiAbuse: Sender Address Domain - runbox.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+
+Thank you very much for your mortgage refinance
+application.
+
+The company that best suited your needs is requesting 
+applicant verification in order to process your claim.
+
+(COMPANY ID:P-035)
+
+http://kdfilch.mtg-now-ok.net/refimort.asp
+
+Thanks,
+Rachel Clemons
+Broker (P-531-842)
+

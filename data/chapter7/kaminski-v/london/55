@@ -1,0 +1,116 @@
+Message-ID: <31763930.1075856609447.JavaMail.evans@thyme>
+Date: Tue, 17 Oct 2000 08:09:00 -0700 (PDT)
+From: sharad.agnihotri@enron.com
+To: anjam.ahmad@enron.com
+Subject: Re: Exotica.xla
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, zimin.lu@enron.com, 
+	dale.surbey@enron.com, steven.leppard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, zimin.lu@enron.com, 
+	dale.surbey@enron.com, steven.leppard@enron.com
+X-From: Sharad Agnihotri
+X-To: Anjam Ahmad
+X-cc: Vince J Kaminski, Stinson Gibner, Zimin Lu, Dale Surbey, Steven Leppard
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Anjam,
+
+Thanks for the info.
+
+I'm afraid that one thing I don't know is precisely how to build 
+S:\Research\Exotica\Excel\Exotica.xla  from the code you sent me.
+Could you send me instructions?
+
+Also as you are very busy and away from your desk could you set up your lotus 
+notes 
+calendar so  Mary Ward and Joe Kelsey 
+permission can see your calendar  so I can get in touch with you if anything 
+comes up. They can both see my calendar.
+
+Thanks,
+Sharad
+
+
+   
+
+
+	Enron Europe
+	
+	From:  Anjam Ahmad                           17/10/2000 11:37
+	
+
+To: Sharad Agnihotri/LON/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, Zimin 
+Lu/HOU/ECT@ECT, Dale Surbey/LON/ECT@ECT 
+
+Subject: Exotica.xla
+
+In answer to your questions.
+
+Anjam
+---------------------- Forwarded by Anjam Ahmad/LON/ECT on 17/10/2000 09:20 
+---------------------------
+   
+
+
+	Enron Europe
+	
+	From:  Sharad Agnihotri                           16/10/2000 13:59
+	
+
+To: Anjam Ahmad/LON/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, Dale 
+Surbey/LON/ECT@ECT, Tani Nath/LON/ECT@ECT, Steven Leppard/LON/ECT@ECT 
+
+Subject: Exotica.xla
+
+Hi Anjam,
+
+I have quite a few questions/requests regarding the exotics libarary:
+
+
+
+
+1)Could you e-mail me instructions for building/compiling  
+S:\Research\Exotica\Excel\Exotica.xla 
+Also if there is any more source code that I need please could you e-mail me 
+that.
+
+YOU HAVE ALL THE CODE (C & VBA) THAT MAKES UP THE LIBRARY NOW - PLEASE SEE 
+PREVIOU E-MAILS
+
+2)Also could you e-mail me documents on the changes you have made to  
+S:\Research\Exotica\Excel\Exotica.xla
+
+CHANGES ARE DOCUMENTED THROUGH ATERATIONS TO COMMENTS ON INDIVIDUAL SOURCE 
+CODE FILES AS IS THe CURRENt METHOD IN HOUSTON AND As ADOPTED BY ME IN 
+LONDON  - VERSION CONTROL OCCURS AT THE INDIVIDUAL FILE LEVEL RATHER THAN 
+THROUGH SOIURCE SAFE
+
+3)The exotica.xla used in London and exotica.xll used in Houston are quite 
+different. What regression testing has been done?
+How do we know if the two versions that we have been using produce the same 
+results.
+
+I HAVE NOT RECENTLY COMPARED THE XLL FROM HOUSTON WITH OUR XLA - THIS WOULD 
+BE A USEFUL EXERCISE FOR YOU
+
+4)Judging from the documentation there are quite a few more functions 
+available on the Houston Exotica
+like Asian spreads, quantos, digitals etc. Is there any reason why they have 
+not been implemented in London's exotica.xla?
+
+MAINTENANCE AND UPGRADES TO LONDON EXOTICA TO ENSURE COMPATABILITY WITH 
+HOUSTON AND VICE VERSA IS AN ON-GOING PROCESS - INEVITABLY THERE WILL BE SOME 
+LAG BETWEEN A NEW MODEL BEING IMPLEMENTED IN HOUSTON AND IN LONDON, AS IS THE 
+CASE WITH ASIAN SPREADS AND DIGITALS.  QUANTOS ARE ALREADY AVAILABLE - SEE 
+VBA CODE.
+
+Thanks in advance,
+Sharad
+
+

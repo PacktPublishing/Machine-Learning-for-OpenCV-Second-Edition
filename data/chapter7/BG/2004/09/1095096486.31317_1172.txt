@@ -1,0 +1,39 @@
+Return-Path: <m.mayerca@maustaja.fi>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 15480 invoked by uid 115); 4 Sep 2004 10:44:14 -0000
+Received: from m.mayerca@maustaja.fi by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.59.157.217):. 
+ Processed in 1.694893 secs); 04 Sep 2004 10:44:14 -0000
+Received: from unknown (HELO gedos.hu) (211.59.157.217)
+  by churchill.factcomp.com with SMTP; 4 Sep 2004 10:44:12 -0000
+Received: from 220.76.162.61 by smtp.maustaja.fi;
+	Sat, 04 Sep 2004 10:53:48 +0000
+Message-ID: <95de01c4926d$268edf35$0bee037e@gedos.hu>
+From: m.mayerca@maustaja.fi
+To: bait@em.ca
+Subject: Make $472
+Date: Sat, 04 Sep 2004 15:53:43 +0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Hello,
+
+We sent you an email a while ago, because you now qualify for a new mortgage.
+You could get $300,000 for as little as $700 a month!
+Bad credit is no problem, you can pull cash out or refinance.
+
+Please click on this link for free consultation by a mortgage broker:
+http://www.fnytqua.com/
+
+Best Regards,
+Jamie Higgs
+
+No thanks: http://www.fnytqua.com/r1
+
+---- system information ----
+string referred user fallback implement allows allow sending 
+part single native know belonging Alternate as standard 
+Provider's Because lesser revision header provider) Traditional does 
+

@@ -1,0 +1,46 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-dactylus@em.ca
+Received: (qmail 26164 invoked by uid 115); 2 Jun 2005 11:48:57 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(82.155.145.230):. 
+ Processed in 0.761614 secs); 02 Jun 2005 11:48:58 -0000
+Received: from bl6-145-230.dsl.telepac.pt (HELO heartandsoul.pt) (82.155.145.230)
+  by churchill.factcomp.com with SMTP; 2 Jun 2005 11:48:51 -0000
+Date: Thu, 02 Jun 2005 01:17:08 +0000 (Hora padrão de GMT)
+From: [news] Heart & Soul <news@heartandsoul.pt>
+To: bait-dactylus@em.ca
+Message-ID: 38505.053564814814_30294314805776
+Subject: DAVID MORALES usa 9th June in Portugal
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>David Morales</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+<div align="center">
+  <p><img src="http://p001.no.sapo.pt/davidmorales/e_flyer.jpg" width="634" height="1232" border="0" /></p>
+  <p><font color="#CCCCCC" size="1" face="Arial, Helvetica, sans-serif">O seu email foi registado na base de dados da Heart &amp; Soul.<br />
+Se desejar ser removido desta base de dados, envie um email para remove@heartandsoul.pt</font></p>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

@@ -1,0 +1,24 @@
+Message-ID: <23614515.1075863317486.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 10:57:09 -0700 (PDT)
+From: heather.dunton@enron.com
+To: bill.williams@enron.com, h..foster@enron.com
+Subject: Dec Bidding Strategy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dunton, Heather </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HDUNTON>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Foster, Chris H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfoster>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Bill and Chris - this is what I remember as to settlements with the DEC bidding strategy.
+Let me know if I can be of further assistance.
+
+-Heather
+
+
+
+Delano will schedule into the Day Ahead market and make a sale at the PX index price.  Real Time submits dec bids in the Suplemental Energy Market for any hours when they believe there is a good chance of being dec'd at a 0 price (the pprice you bid may be different than 0 to establish ouselves in the ISO Merit order - ).  Real Time makes 50% of the difference between the day ahead PX and the dec price (in this case 0).
+

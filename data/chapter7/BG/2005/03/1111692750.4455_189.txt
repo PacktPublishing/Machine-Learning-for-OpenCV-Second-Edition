@@ -1,0 +1,46 @@
+Return-Path: <buuujtsx@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 2599 invoked by uid 115); 24 Mar 2005 17:47:13 -0000
+Received: from buuujtsx@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.137.66.148):. 
+ Processed in 4.952799 secs); 24 Mar 2005 17:47:13 -0000
+Received: from 220-137-66-148.dynamic.hinet.net (220.137.66.148)
+  by churchill.factcomp.com with SMTP; 24 Mar 2005 17:47:07 -0000
+Received: from behead fillet (firewall.kievendogenous.com [128.147.0.208]) by 220.137.66.148 (9.0.1/7.7.3) with ESMTP id LWCCY46520103 for <bait@em.ca>; Thu, 24 Mar 2005 23:45:56 +0600
+Message-ID: <w8111n92PN4U581U23RF89YII65593369C618794@220.137.66.148>
+Reply-To: "Warren Alford" <buuujtsx@yahoo.com>
+From: "Warren Alford" <buuujtsx@yahoo.com>
+Content-Class: urn:content-classes:message/text
+Location: maldistribute drank adjective
+To: "Bait" <bait@em.ca>
+Subject: Message subject
+Date: Thu, 24 Mar 2005 10:49:56 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--340223651770706605"
+
+----340223651770706605
+Content-Type: text/plain;
+	charset="iso-0261-2"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.123lenderz.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Gwen Ramos
+
+http://www.123lenderz.com/x/st.html
+
+
+----340223651770706605--

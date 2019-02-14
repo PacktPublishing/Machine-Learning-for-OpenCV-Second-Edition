@@ -1,0 +1,305 @@
+Return-Path: <schu|dennachrichten@gmx.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30274 invoked by uid 115); 10 Apr 2005 18:31:02 -0000
+Received: from schu|dennachrichten@gmx.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(217.81.9.136):. 
+ Processed in 1.945598 secs); 10 Apr 2005 18:31:02 -0000
+Received: from pd9510988.dip.t-dialin.net (HELO smtp.meinserveristdas.de) (217.81.9.136)
+  by churchill.factcomp.com with SMTP; 10 Apr 2005 18:30:59 -0000
+From: "Schulden-Nachrichten" <schu|dennachrichten@gmx.net>
+To: bruceg@em.ca
+Subject: Schulden-Nachrichten - Neues für Menschen mit Schulden
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 10 Apr 2005 20:41:36
+X-Qmail-Scanner-Message-ID: <111315786067230262@churchill>
+Content-Length: 17996
+
+<html>
+
+<head>
+<title>Schuldennachrichten</title>
+</head>
+
+<body bgcolor="#669999" link="#000000" vlink="#000080" alink="#000080">
+
+<p><b><i><font face="Verdana" size="6" color="#000000">Schulden-Nachrichten</font></i></b></p>
+<p><b><font face="Verdana" size="3" color="#000000">Der Newsletter für Menschen
+mit Schulden...<br>
+</font><font face="Verdana" size="3" color="#669999">...............................</font></b><font face="Verdana" size="3" 
+color="#000000"><b>...und
+die, die sie los werden wollen</b></font></p>
+<table border="0" width="100%" bordercolor="#000000" bgcolor="#000000" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%">
+      <p align="left"><font face="Verdana" size="1" color="#000000">-</font><font face="Verdana" size="1" color="#FFFFFF">Ausgabe
+      III / 1. Jahrgang</font></td>
+    <td width="50%">
+      <p align="right"><font face="Verdana" size="1" color="#FFFFFF">Sonntag, 10.
+      April 2005</font><font face="Verdana" size="1" color="#000000">-</font></td>
+  </tr>
+</table>
+<table border="1" width="100%" bordercolor="#000000" bgcolor="#FFFFFF" bordercolorlight="#000000" bordercolordark="#000000" 
+cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="100%" bgcolor="#FFFFFF" bordercolor="#000000" bordercolorlight="#000000" bordercolordark="#000000"><font 
+face="Verdana" size="2">Liebe
+      Leserin, Lieber Leser,<br>
+      <font color="#FFFFFF">-</font></font>
+      <div align="justify">
+        <table border="0" width="100%">
+          <tr>
+            <td width="33%" valign="top" align="justify"><font face="Verdana" size="2">die
+              Lesergemeinde unserer kleinen Onlinezeitung wächst. Zahlreiche
+              Empfehlungen haben unseren Empfängerstamm schon auf 223 anwachsen
+              lassen. Schulden sind nun mal ein Thema, was viele Interessiert.
+              Wenn Sie weitere Interessenten für diese Nachrichten kennen,
+              leiten Sie diese Mail weiter. <b><u>Diese Mail ist keine Werbung.</u></b></font></td>
+            <td width="33%" valign="top" align="justify"><font face="Verdana" size="2"><b><font color="#FF0000">Dauerhaft
+              erhalten Sie diese Nachrichten nur, wenn Sie sich in unsere
+              Empfängerliste eintragen. </font></b>Dazu müssen Sie uns eine
+              eMail an <a href="mailto:schuldennachrichten@gmx.net">schuldennachrichten@gmx.net</a>
+              mit dem Betreff &quot;Eintragen&quot; senden, in den eMail-Text
+              zusätzlich Ihren Namen. Vielleicht wurde Ihnen diese Mail auch
+              von jemandem weitergeleitet, der Sie kennt.</font></td>
+            <td width="34%" valign="top" align="justify"><font face="Verdana" size="2">Erhalten
+              Sie unseren Newsletter unaufgefordert, haben Sie für Ihre
+              eMail-Adresse an anderer Stelle zugestimmt, Werbung erhalten zu
+              wollen. Ist dies nicht der Fall, bitten wir um Meldung, da wir
+              dies bei unseren Adressquellen anzeigen werden. Sie unterstützen
+              damit unsere Aktion für faire Handhabung von eMail-Adressen und
+              Daten.</font></td>
+          </tr>
+        </table>
+      </div>
+      <p><font face="Verdana" size="2"><i>Übrigens: Die Schuldennachrichten
+      sind ein Gemeinschaftsprojekt. Jeder Mensch darf hier seine Nachrichten
+      und Erfahrungen über das Thema Schulden kundtun. Hinweise am Ende der
+      Mail. Frei nach dem Grundgesetz der Bundesrepublik Deutschland, Artikel 5:
+      &quot;Meinungs-, Informations, Pressefreiheit, Kunst und
+      Wissenschaft&quot;. Absatz 1 besagt: &quot;</i></font><font face="Verdana" size="2"><i><b>Jeder
+      hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern
+      und zu verbreiten</b> und sich aus allgemein zugänglichen Quellen
+      ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der
+      Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine
+      Zensur findet nicht statt.&quot;</i></font></p>
+      <p><font face="Verdana" size="5"><b>Inhalt</b></font><font face="Verdana" size="2"><br>
+      Diesmal in den Schuldennachrichten<br>
+      <a href="#I"><br>
+      I. Die ersten
+      Privatinsolvenzen sind abgeschlossen</a><br>
+      <a href="#II">II. Insolvenz im Ausland</a><br>
+      <a href="#III">III. Wenn der Gerichtsvollzieher klingelt</a><br>
+      <a href="#IV">IV. Geerbte Schulden ausschlagen</a><br>
+      <a href="#V">V. Muss man an Inkassobüros zahlen?</a><br>
+      <a href="#VI">VI. Impressum, Hinweise für Werbung in diesem Newsletter</a></font></p>
+      <hr noshade>
+      <p><b><font face="Verdana" size="5"><a name="I"></a>Die ersten sind wieder
+      frei</font><font face="Verdana" size="4"><br>
+      </font></b><font face="Verdana" size="2"><b>Privatinsolvenzen: Die ersten
+      Antragsteller sind von ihrer Restschuld befreit </b></font></p>
+      <p align="center"><font size="2" face="Verdana"><b>BERLIN. </b>Die ersten
+      Nutzer der Privatinsolvenz sind von ihrer&nbsp; Restschuld
+      befreit.&nbsp;Eine Frist von sechs Jahres setzt das 1999 in Kraft
+      getretene Insolvenzgesetz Schuldnern, in der sie ihre Außenstände
+      erlassen bekommen.<br>
+      <br>
+      Auch wenn der Weg nicht einfach ist - viele wurden von der Aussicht
+      gelockt, endlich schuldenfrei zu werden. Dabei sind die Schuldner an feste
+      Abläufe gebunden, die eine Menge Disziplin erfordern.</font> <font size="2" face="Verdana">Nach
+      dem Gesetz stellen Schuldner ihren Gläubigern den pfändbaren Betrag
+      ihres Einkommens zur Verfügung - sechs Jahre lang. Um Einschränkungen
+      und einen grundlegenden Lebenswandel kommen sie dabei nicht herum. Auch
+      viele Pflichten - im Insolvenzrecht Obliegenheiten genannt - müssen sie
+      nachkommen, damit am Ende auch die Restschuldbefreiung steht. Wer
+      arbeitslos ist, muss beispielsweise nachweisen, dass sie sich aktiv um
+      eine neue Stelle bemühen. <br>
+      <br>
+      Alle finanziellen Angelegenheiten wickelt bei der Privatinsolvenz ein
+      Treuhänder ab. Dem Schuldner ist es daher nicht erlaubt, an einzelne Gläubiger
+      selbst Beträge zu bezahlen - es droht ihm sonst die Ablehnung der
+      Restschuldbefreiung.<br>
+      <br>
+      Die Zahl der Anträge auf Restschuldbefreiung hat sich in den vergangenen
+      Jahren stark gesteigert. Beispielsweise in Nordrhein-Westfalen gingen 2000
+      noch 2<font color="#FFFFFF">.</font>440 Anträge ein. Im Vorjahr waren es
+      schon 18<font color="#FFFFFF">.</font>072. Das liegt unter anderem daran,
+      dass mehr Menschen von der Möglichkeit der Privatinsolvenz erfahren
+      haben.<br>
+      <br>
+      Die Gerichte haben nun stets mehr zu tun, denn weitere Privatinsolvenzen
+      müssen bundesweit abgeschlossen werden. Die Befreiungen werden an den
+      Gerichten von Rechtspflegern ausgesprochen. Nur wenn Gläubiger
+      beantragen, einem Schuldner die Restschuldbefreiung zu versagen - wenn er
+      beispielsweise eine Straftat begeht, fällt ein Richter eine Entscheidung.
+      Normalerweise klappt das Verfahren aber. </font><i><font face="Verdana" size="1">(SNL)<br>
+      <br>
+      </font></i><font face="Verdana" size="2"><i><b>Tipp: Wichtige Urteile und
+      Artikel zum Verbraucherinsolvenzverfahren gibt es unter folgendem Link:<br>
+      </b></i></font><b><a href="http://www.bag-schuldnerberatung.de/VIV-Urteile%202003.htm" target="_blank"><font face="Verdana" 
+size="3">Hier
+      klicken</font></a><font face="Verdana" size="3"><br>
+      </font></b><font face="Verdana" size="1">(Zusammengestellt von einer
+      Schuldnerberatungsstelle)</font></p>
+      <hr noshade>
+      <p><b><font face="Verdana" size="5"><a name="II"></a>Insolvenzen im
+      Ausland</font><font face="Verdana" size="4"><br>
+      </font><font face="Verdana" size="2">Internetseitenbetreiber hat
+      Informationen zusammengestellt </font></b></p>
+      <p><font size="2" face="Verdana"><b>BERLIN. </b>Eine Internetseite zum
+      Thema internationale Insolvenzverfahren hat </font><font size="2" face="Verdana">Guido
+      Stephan ins Netz gestellt. Wer mehr über ausländische Gesetze, Formulare
+      und Literaturtipps wissen will, sollte sich mal auf seine Homepage
+      klicken.</font></p>
+      <p><font size="2" face="Verdana">&quot;Grenzüberschreitende
+      Insolvenzverfahren gewinnen zunehmend an Bedeutung&quot;, schreibt er auf
+      seiner Seite. Für die Bundesrepublik Deutschland sei es als Exportnation
+      wichtig, wie deutsche Unternehmen ihre Rechte in der Insolvenz des ausländischen
+      Geschäftspartners geltend machen können. Auch bei einem im Inland eröffneten
+      Insolvenzverfahren sei es von Interesse, wie ausländisches Vermögen des
+      Gemeinschuldners für ein inländisches Verfahren verwertet werden kann. </font><i><font face="Verdana" size="1">(SNL)</font>
+</i></p>
+      <p><font size="2" face="Verdana">Erreicht wird sein Angebot unter der
+      Adresse <b><a href="http://www.inso-international.de/">http://www.inso-international.de</a></b></font></p>
+      <hr noshade>
+      <p><b><font face="Verdana" size="5"><a name="III"></a>Wenn der
+      Gerichtsvollzieher klingelt</font></b><b><font face="Verdana" size="4"><br>
+      </font><font face="Verdana" size="2">Alles über die Leute mit den großen
+      Koffern&nbsp; </font></b></p>
+      <p><font size="2" face="Verdana"><b>HOMBURG</b></font><font size="2" face="Verdana"><b>.
+      </b>Wehr mehr über die Arbeit von Gerichtsvollziehern wissen will, findet
+      Informationen im Internet. Eine interessante Seite hat der Homburger
+      Gerichtsvollzieher Roger Zimmermann online gestellt. Er schreibt über die
+      Arbeitsweisen, Handwerkszeuge und sogar über Ausbildungsstätten seiner
+      Kollegen. </font><i><font face="Verdana" size="1">(SNL)</font></i></p>
+      <p><font size="2" face="Verdana">Die Homepage findet man unter <b><a href="http://www.der-gerichtsvollzieher.de">
+http://www.der-gerichtsvollzieher.de</a>
+      </b></font></p>
+      <hr noshade>
+      <p><b><font face="Verdana" size="5"><a name="IV"></a>Geerbte Schulden
+      ausschlagen</font></b><b><font face="Verdana" size="4"><br>
+      </font><font face="Verdana" size="2">Man muss sich nichts aufzwängen
+      lassen&nbsp; </font></b></p>
+      <p><font size="2" face="Verdana"><b>BERLIN</b><b>. </b>Stirbt ein
+      Familienmitglied, hat man es oft nicht nur mit Trauer zu tun. War die
+      Person zum Zeitpunkt des Todes verschuldet, gehen die Verpflichtungen auf
+      die Erben über. Schulden und Bürgschaftsverpflichtungen können einen
+      schnell ruinieren. Es gibt aber Wege, das ungewollte Erbe auszuschlagen.
+      Jedoch ist Tempo gefordert<big>: </big>Sechs Wochen nach dem Tod des&nbsp;&nbsp;
+      Angehörigen muss beim Nachlassgericht oder einem Notar eine Erklärung
+      abgeben werden, dass man die Erbschaft ausschlägt.</font></p>
+      <p><font size="2" face="Verdana">Auch wenn sich erst nach sechs Wochen
+      herausstellt, dass der Verstorbene nur Schulden hinterlassen hat, hat man
+      noch die Möglichkeit das Erbe anzufechten. Wieder muss man innerhalb von
+      sechs Wochen handeln. Grund für die Anfechtung ist dann, dass Sie sich über
+      eine wesentliche Eigenschaft des Erbes geirrt haben - in diesem Fall der
+      Schuldenberg. Die Frist bricht an, wenn man von der Überschuldung
+      erfährt.</font></p>
+      <p><font size="2" face="Verdana">Sind beide Fristen verstrichen, muss man
+      einen </font><font size="2" face="Verdana">Antrag auf Nachlassverwaltung/Nachlassinsolvenz
+      stellen. Das kann man tun, wenn das Erbe die Schulden nicht abdeckt. Den
+      Antrag kann man beim Nachlassgericht stellen, bei dem der Verstorbene
+      zuletzt seinen Wohnsitz angegeben hatte. Wenn noch genug Geld da ist,
+      zahlt das Gericht die Ansprüche der Gläubiger aus dem Betrag. Reicht das
+      Geld nicht einmal zur Deckung der Kosten des Insolvenzverfahrens, wird das
+      Verfahren wegen fehlender Masse eingestellt. Auch dann muss man selbst
+      nichts bezahlen: Wird man dennoch von einem Nachlassgläubiger genervt, kann
+      man sich an einen Anwalt oder die Verbraucher-Zentrale wenden. </font><i><font face="Verdana" size="1">(SNL)</font></i></p>
+      <hr noshade>
+      <p><b><font face="Verdana" size="5"><a name="V"></a>Muss man an
+      Inkassobüros zahlen?</font></b><b><font face="Verdana" size="4"><br>
+      </font><font face="Verdana" size="2">Aufmerksame Kontrolle der Forderung
+      ist wichtig </font></b></p>
+      <p><font size="2" face="Verdana"><b>BERLIN</b><b>. </b>Viele Gläubiger
+      wollen mit Hilfe von Inkassobüros an ihre Geld kommen. Das ist besonders
+      schwer für die Schuldner, denn bekanntermaßen üben diese Unternehmen
+      oft dubiosen psychischen Druck auf die Menschen aus. Man sollte sich davon
+      nicht beeinflussen lassen und sein schon knappes Konto noch weiter
+      belasten. Oft reichen die Raten an Inkassobüros nicht einmal für die
+      Deckung laufender Kosten wie Zinsen. So wird die Forderung nicht weniger,
+      sondern kann weiter ansteigen. Auch erkennen Sie mit einer Zahlung die
+      Forderung juristisch an und man verzichtet auf eine mögliche Verjährung.
+      Überprüfen Sie immer die Forderungen, die das Inkassounternehmen
+      einziehen will. Machen Sie etwaige Einwände sofort vor der Zahlung
+      geltend, sonst erkennen Sie die Forderung an.</font> <br>
+      <br>
+      <font face="Verdana" size="2">Inkassobüros dürfen mit entsprechender
+      Genehmigung außergerichtlich fremde Forderungen einziehen. Man sollte
+      sich daher stets die Abtretungserklärung oder eine Vollmacht, die der
+      ursprüngliche Gläubiger ausgestellt hat, zeigen lassen. Kann das Büro
+      dem nicht nachkommen, leisten Sie nur an Ihren Gläubiger und nicht an das
+      Inkassobüro.<br>
+      <br>
+      </font><font face="Verdana" size="2">Nicht zahlen muss man, wenn man</font>
+      <font face="Verdana" size="2">den Gläubiger rechtzeitig vor Beauftragung
+      des Inkassounternehmens über die Zahlungsunfähigkeit informiert hat. Der
+      darf dann wegen seiner Schadensminderungspflicht die Kosten durch
+      Einschaltung eines Inkassounternehmens nicht unnötig erhöhen.<br>
+      <br>
+      Einige Beispiele aus der Rechtsprechung:</font></p>
+      <p><font face="Verdana" size="2">Haben Sie mit dem Inkassobüro eine
+      Ratenzahlung vereinbart, darf hierfür keine „Vergleichsgebühr"
+      abgerechnet werden.<br>
+      <i>(LG Berlin Juristisches Büro 1988/545)</i></font></p>
+      <p><font face="Verdana" size="2">Pro Mahngebühr darf ein
+      Inkassounternehmen nur die ungefähren Portokosten berechnen. Dies gilt
+      allerdings nur, wenn es sich z.B. um Forderungen aus Warenlieferungen
+      handelt.<br>
+      <i>(OLG HammRR NJW 1992/444 und OLG Stuttgart RR NJW 1988 / 1082)</i></font></p>
+      <p><font face="Verdana" size="2">Bei Forderungen aus Krediten dürfen
+      neben Verzugszinsen keine Mahngebühren geltend gemacht werden. <br>
+      <i>(BGH NJW 1988/1971)</i></font></p>
+      <hr noshade>
+      <p><font size="1" face="Verdana">Die Betreiber der Schuldennachrichten
+      distanzieren sich generell von den Angeboten der Werbepartner und den
+      Inhalten der darin enthaltenen Links.</font></p>
+      <table border="0" width="100%" bgcolor="#000000" cellspacing="0">
+        <tr>
+          <td width="100%"><font size="1" face="Verdana" color="#FFFFFF">ANZEIGE</font></td>
+        </tr>
+      </table>
+      <table border="1" width="100%" bordercolor="#000000" cellspacing="0" cellpadding="10" bordercolordark="#000000" 
+bordercolorlight="#000000" bgcolor="#3366FF">
+        <tr>
+          <td width="100%">
+            <p align="center"><font size="4"><font face="Arial"><b><i>Hoffnungslos
+            überschuldet? Probleme mit unfairen Gläubigern? Keinen Ausweg?<br>
+            Vielleicht sollten Sie mal unsere <a href="http://www.schuldenfibel.de" target="_blank">Informationsseite</a>
+            besuchen...</i><br>
+            <font color="#3366FF">-</font></b></font><font face="Arial Black"><br>
+            </font></font><font face="Arial Black" size="5">»»» Die
+            Schuldenfibel «««<br>
+            </font><font size="4"><font face="Arial"><b><font color="#3366FF">-</font></b></font><font face="Arial Black" color="#
+3366FF"><br>
+            </font><i><font face="Arial">Inklusive dem Konzept <b>&quot;In sechs
+            Wochen schuldenfrei&quot;</b></font></i></font></p>
+            <p align="center"><a href="http://www.schuldenfibel.de" target="_blank"><b><font face="Arial" size="4">Für
+            weitere Informationen klicken Sie hier...</font></b></a></td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+      <hr noshade>
+      <p><b><font face="Verdana" size="5"><a name="VI"></a>Impressum</font></b><br>
+      <font size="2" face="Verdana">Herausgeber der Schulden-Nachrichten ist die PM Medienproduktion,
+      erreichbar unter <a href="mailto:schuldennachrichten@gmx.net">schuldennachrichten@gmx.net
+      </a> Bitte verzeihen Sie, dass wir hier keine Telefonnummer
+      veröffentlichen. Sollten Sie einen Anruf wünschen, geben Sie in der
+      eMail Ihre Telefonnummer sowie den Grund des Gesprächswunsches an.<br>
+      <br>
+      Das Angebot ist eine reine Verbreitung von Nachrichten zum Thema
+      Schulden. Es wird nichts verkauft, das Angebot ist nicht kostenpflichtig.
+      Beiträge von Gastautoren sind willkommen und können einfach an die oben
+      angegebene eMail-Adresse gesendet werden. Die Rechte auf Veröffentlichung
+      und Kürzung behält sich der Herausgeber jedoch vor.<br>
+      <br>
+      Auch Anfragen für Werbeschaltungen, mit denen dieses Projekt finanziert werden soll, richten Sie bitte an diese Adresse.<br>
+      <br>
+      Wenn Sie den Newsletter nicht erhalten möchten, tragen Sie sich bitte mit
+      dem Betreff &quot;Austragen&quot; unter der gleichen Adresse
+      aus. Vielen Dank.</font></td>
+  </tr>
+</table>
+
+</body>
+
+</html>

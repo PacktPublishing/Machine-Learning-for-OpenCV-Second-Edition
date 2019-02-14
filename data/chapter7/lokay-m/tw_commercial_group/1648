@@ -1,0 +1,43 @@
+Message-ID: <22037829.1075860978172.JavaMail.evans@thyme>
+Date: Fri, 7 Dec 2001 14:25:00 -0800 (PST)
+From: center.ets@enron.com
+Subject: ATTENTION REMOTE ACCESS USERS
+Cc: diane.becker@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: diane.becker@enron.com
+X-From: ETS Solution Center, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B502D3D9-A0AB9D3B-8625693C-5D4DD1>
+X-To: Enron Everyone_ET&S_Houston@ENRON <??SEnron Everyone_ET&S_Houston@ENRON>, Enron Everyone_OTS@ENRON <??SEnron Everyone_OTS@ENRON>, Enron Everyone_FGT@ENRON <??SEnron Everyone_FGT@ENRON>
+X-cc: Becker, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DBECKER>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: mlokay (Non-Privileged).pst
+
+
+
+*****  Attention Remote Access Users - Important Update  *****
+
+There is now an interim solution in place for your remote access needs.
+
+Please use 713-440-4221 or 866-295-3813 for dial-up access.
+
+Windows 2000:
+
+VPN access for Windows 2000 is fully operational.  Either the VPN without iPass option can be used, or a connection may be created manually using the same settings as VPN without iPass.  For users who are dialing in, creating a Dial-Up connection using either number listed above with the default settings will work.  You must be sure to append the domain name to the user id (i.e.. CORP\rbarker) for the connection to be successful.
+
+Windows 9x:
+
+Dial-Up access is working provided that Dial-Up Networking version 1.4 is installed on the system.  Dial-Up Networking version 1.4 can be downloaded from http://support.microsoft.com/default.aspx?scid=kb;EN-US;q285189.  Follow the instructions for installation.  VPN access for Windows 9x has not yet been verified.  Dial-Up connections using either number listed above should be setup using the default settings.
+
+Windows NT:
+
+Dial-Up access for Windows NT4 is working provided that Service Pack 6a has been installed on the system.  Service Pack 6a may be obtained from http://www.microsoft.com/ntserver/nts/downloads/recommended/SP6/128bitX86/default.asp. Follow the instructions for installation.  VPN access for Windows NT4 has not yet been verified.  Dial-Up connections using either number listed above should be setup using the default settings.
+
+This information is also available on the ETS Solution Center website at http://www.ets.enron.com/Services/Solution_Center/default.asp under Quick Reference - Remote Access with additional information about setting up a Dial-Up connection.
+
+Please keep in mind that the Remote Access situation is changing rapidly.  You will be notified as additional information or updates become available.
+
+
+ETS Solution Center - Houston	713-345-4745
+ETS Solution Center - Omaha	402-398-7454

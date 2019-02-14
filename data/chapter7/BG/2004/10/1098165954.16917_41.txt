@@ -1,0 +1,89 @@
+Return-Path: <roundup-users-admin@lists.sourceforge.net>
+Delivered-To: lists-roundup-users@bruce-guenter.dyndns.org
+Received: (qmail 23180 invoked from network); 17 Oct 2004 17:48:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 17 Oct 2004 17:48:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Oct 2004 17:48:04 -0000
+Received: (qmail 14405 invoked from network); 17 Oct 2004 17:48:03 -0000
+Received: from sc8-sf-uberspam1.sourceforge.net (unknown [66.35.250.206])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 17 Oct 2004 17:48:03 -0000
+Received: from projects.sourceforge.net (sc8-sf-list1-b.sourceforge.net [10.3.1.7])
+	by sc8-sf-uberspam1.sourceforge.net (Postfix) with ESMTP
+	id E99DB1D2461; Sun, 17 Oct 2004 10:48:02 -0700 (PDT)
+Received: from sc8-sf-mx1-b.sourceforge.net ([10.3.1.11] helo=sc8-sf-mx1.sourceforge.net)
+	by sc8-sf-list1.sourceforge.net with esmtp (Exim 4.30)
+	id 1CJF7b-0005HC-Im
+	for roundup-users@lists.sourceforge.net; Sun, 17 Oct 2004 10:47:07 -0700
+Received: from [218.86.49.66] (helo=eyou.com)
+	by sc8-sf-mx1.sourceforge.net with smtp (Exim 4.41)
+	id 1CJF7a-0005qA-03
+	for roundup-users@lists.sourceforge.net; Sun, 17 Oct 2004 10:47:07 -0700
+From: "Percy" <Linkforyou@eyou.com>
+To: <roundup-users@lists.sourceforge.net>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Reply-To: "Percy" <Sales@87b.com>
+Content-Transfer-Encoding: 8bit
+Message-ID: <E1CJF7a-0005qA-03@sc8-sf-mx1.sourceforge.net>
+Subject: [Roundup-users] Re: Legal Marketing
+Sender: roundup-users-admin@lists.sourceforge.net
+Errors-To: roundup-users-admin@lists.sourceforge.net
+X-BeenThere: roundup-users@lists.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Unsubscribe: <https://lists.sourceforge.net/lists/listinfo/roundup-users>,
+	<mailto:roundup-users-request@lists.sourceforge.net?subject=unsubscribe>
+List-Id: <roundup-users.lists.sourceforge.net>
+List-Post: <mailto:roundup-users@lists.sourceforge.net>
+List-Help: <mailto:roundup-users-request@lists.sourceforge.net?subject=help>
+List-Subscribe: <https://lists.sourceforge.net/lists/listinfo/roundup-users>,
+	<mailto:roundup-users-request@lists.sourceforge.net?subject=subscribe>
+List-Archive: <http://sourceforge.net/mailarchive/forum.php?forum=roundup-users>
+X-Original-Date: Mon, 18 Oct 2004 01:43:56 +0800
+Date: Mon, 18 Oct 2004 01:43:56 +0800
+Content-Length: 1266
+
+
+Dear roundup-users@lists.sourceforge.net:
+
+Email is the best growing marketing tool. We offer E-Marketing with 
+quality service.
+
+1. Target Email Addresses
+
+We can provide target e-mail addresses you need, which are compiled 
+only on your order. We will customize your customer email addresses.
+
+* We have millions of email addresses in a wide variety of categories.
+
+2. Send out Target Emails for you
+
+We can send your email message to your target customers! We will
+customize your email addresses and send your message for you.
+
+* We can Bullet Proof your Web Site $ mailing dedicated server.
+
+Hope to hear from you soon.
+
+
+Regards!
+
+Percy
+www.izzb.com
+Sales@izzb.com
+
+Take your address:  Http://61.137.13.86/roundup-users@lists.sourceforge.net=off.html
+
+
+-------------------------------------------------------
+This SF.net email is sponsored by: IT Product Guide on ITManagersJournal
+Use IT products in your business? Tell us what you think of them. Give us
+Your Opinions, Get Free ThinkGeek Gift Certificates! Click to find out more
+http://productguide.itmanagersjournal.com/guidepromo.tmpl
+_______________________________________________
+Roundup-users mailing list
+Roundup-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/roundup-users

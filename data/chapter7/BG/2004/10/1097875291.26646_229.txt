@@ -1,0 +1,44 @@
+Return-Path: <theresa.fry_ia@meri.uwasa.fi>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23477 invoked by uid 115); 14 Oct 2004 13:30:58 -0000
+Received: from theresa.fry_ia@meri.uwasa.fi by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.121.84.204):. 
+ Processed in 0.222179 secs); 14 Oct 2004 13:30:58 -0000
+Received: from kkrfa-01p3-204.ppp11.odn.ad.jp (HELO gfk.se) (211.121.84.204)
+  by churchill.factcomp.com with SMTP; 14 Oct 2004 13:30:58 -0000
+Date: Thu, 14 Oct 2004 15:25:23 +0000
+User-Agent: Mozilla/5.001 (windows; U; NT4.0; en-us) Gecko/25250101
+From: "Theresa Fry" <theresa.fry_ia@meri.uwasa.fi>
+Subject: =?ISO-8859-1?B?Tm93IGlzIHRoZSB0aW1lIHRvIHJlJWZpbmFuY2U=?=
+Message-ID: <416E9A63.6FE2B64B@meri.uwasa.fi>
+To: bruceg@em.ca
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<center><h1>Preferred Mor<font style=font-size:1px>.</font>tgage </h1></p></center>
+<table width="600" border="0" cellspacing="1" cellpadding="5" bgcolor="#999999" align="center">
+<tr>
+<td height="35" bgcolor="#3399CC">
+<div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="5">G<font style=font-size:1px>.</font>ET M<font style=font-size:1px>.</font>ONEY N<font style=font-size:1px>.</font>OW!</font></b></div>
+</td>
+</tr>
+<tr> 
+<td bgcolor="#000000" valign="top">
+<b>
+<font face="Arial, Helvetica, sans-serif" color="#FFFFFF" size="3">
+- Fill out a for<font style=font-size:1px>.</font>m that will take 60-seconds<font style=font-size:1px>.</font><br>
+- Sa<font style=font-size:1px>.</font>ve <font color="#FFFF00">big mo<font style=font-size:1px>.</font>ney</font>!<br>
+- Its <font color="#FFFF00">free</font>!<br>
+- There is <font color="#FFFF00">NO obligati<font style=font-size:1px>.</font>on</font>!<br>
+- There is <font color="#FFFF00">NO cr<font style=font-size:1px>.</font>edit che<font style=font-size:1px>.</font>ck</font>!<br>
+` <font color="#FFFF00">Let us match you with an experience<font style=font-size:1px>.</font>d l<font style=font-size:1px>.</font>ender</font>!
+</tr>
+<tr>
+<td bgcolor="#CCFFFF" valign="top"><b><font face="Arial, Helvetica, sans-serif">Cl<font style=font-size:1px>.</font>ick the link below, f<font style=font-size:1px>.</font>ill out a for<font style=font-size:1px>.</font>m, and wait to be contacted<font style=font-size:1px>.</font>  It's that simple, and it's that easy<font style=font-size:1px>.</font></font></b></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#000000" valign="top"><b><font face="Arial, Helvetica, sans-serif"><a href="http://www.infostead.biz/green/index.php?affiliateid=m8"><font size="6" color="#FFFF00">C<font style=font-size:1px>.</font>LICK H<font style=font-size:1px>.</font>ERE NO<font style=font-size:1px>.</font>W!</font></a></font></b></td>
+</tr>
+</table>

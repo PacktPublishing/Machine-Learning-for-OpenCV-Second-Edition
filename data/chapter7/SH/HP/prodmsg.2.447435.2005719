@@ -1,0 +1,84 @@
+Received: from unknown (HELO antiquejewelleryindia.com) (216.109.76.22)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:21 -0000
+Received: from localhost (localhost)
+	by antiquejewelleryindia.com (8.11.6/8.11.6) id j6JB69L28531;
+	Tue, 19 Jul 2005 07:06:09 -0400
+Date: Tue, 19 Jul 2005 07:06:09 -0400
+From: Mail Delivery Subsystem <MAILER-DAEMON@antiquejewelleryindia.com>
+Message-Id: <200507191106.j6JB69L28531@antiquejewelleryindia.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JB69L28531.1121771169/antiquejewelleryindia.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JB69L28531.1121771169/antiquejewelleryindia.com
+
+The original message was received at Tue, 19 Jul 2005 07:06:09 -0400
+from root@localhost
+
+   ----- The following addresses had permanent fatal errors -----
+antique
+    (reason: can't create (user) output file)
+    (expanded from: <info@antiquejewelleryindia.com>)
+
+   ----- Transcript of session follows -----
+procmail: Quota exceeded while writing "/var/spool/mail/antique"
+550 5.0.0 antique... Can't create output
+
+--j6JB69L28531.1121771169/antiquejewelleryindia.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; antiquejewelleryindia.com
+Arrival-Date: Tue, 19 Jul 2005 07:06:09 -0400
+
+Final-Recipient: RFC822; <info@antiquejewelleryindia.com>
+X-Actual-Recipient: RFC822; antique@antiquejewelleryindia.com
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: X-Unix; 73
+Last-Attempt-Date: Tue, 19 Jul 2005 07:06:09 -0400
+
+--j6JB69L28531.1121771169/antiquejewelleryindia.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from host.thelinuxhostingpeople.com (root@localhost)
+	by antiquejewelleryindia.com (8.11.6/8.11.6) with ESMTP id j6JB69L28530
+	for <info@antiquejewelleryindia.com>; Tue, 19 Jul 2005 07:06:09 -0400
+X-ClientAddr: 61.125.98.253
+Received: from mailwisconsin.com (zaq3d7d62fd.zaq.ne.jp [61.125.98.253])
+	by host.thelinuxhostingpeople.com (8.11.6/8.11.6) with SMTP id j6JB67k28518
+	for <info@antiquejewelleryindia.com>; Tue, 19 Jul 2005 07:06:08 -0400
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816201;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@antiquejewelleryindia.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273567">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JB69L28531.1121771169/antiquejewelleryindia.com--
+

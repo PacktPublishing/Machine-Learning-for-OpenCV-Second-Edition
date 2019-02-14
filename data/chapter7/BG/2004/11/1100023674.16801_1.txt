@@ -1,0 +1,108 @@
+Return-Path: <m29967.p4952643-errors@zinester.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 8149 invoked by uid 115); 9 Nov 2004 17:56:38 -0000
+Received: from m29967.p4952643-errors@zinester.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(198.173.4.8):. 
+ Processed in 0.131821 secs); 09 Nov 2004 17:56:38 -0000
+Received: from shadow32.agava.net (198.173.4.8)
+  by churchill.factcomp.com with SMTP; 9 Nov 2004 17:56:37 -0000
+Received: from localhost.localdomain (shadow32.agava.net [198.173.4.8])
+	by shadow32.agava.net (Postfix) with ESMTP id A512C1B0C28
+	for <bait@em.ca>; Tue,  9 Nov 2004 12:11:55 -0500 (EST)
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.411 (Entity 5.404)
+Subject: News Alert >> GDVI Announces Six Month Revenues Top $4 Million
+Date: Tue, 09 Nov 2004 11:44:06 -0500
+X-MailList-Message-ID: 29967
+List-Subscribe: <http://www.zinester.com/mpb/ml_fs.cgi?Action=fs&topic=21556>
+Errors-To: m29967.p4952643-errors@zinester.com
+List-Unsubscribe: <http://www.zinester.com/mpb/unsub.cgi?21556&4952643&011m0Mt8Q85oVa7rbXVn4A>
+Sender: "Zinester.com" <response@zinester.com>
+List-Help: <http://www.zinester.com>
+List-Id: Zinester.com <21556.zinester.com>
+List-Post: NO
+List-Owner: <mailto:otcprir@aol.com>
+X-Zinester-PID: 4952643
+From: Special Report <response@zinester.com>
+To: bait@em.ca
+Reply-To: Special Report <response@zinester.com>
+Message-Id: <20041109171155.A512C1B0C28@shadow32.agava.net>
+
+<HTML>
+<TITLE>Zinester's Mailing List Service</TITLE>
+<BODY >
+
+
+<br>
+
+<font face="Courier New">
+Press Release…	&nbsp;	&nbsp;<br>
+<br>
+Source: Global Diversified Industries, Inc.<br>
+<br>
+GLOBAL DIVERSIFIED INDUSTRIES, INC. ANNOUNCES<br>
+&nbsp;SIX MONTH REVENUES TOP $4 MILLION<br>
+<br>
+<br>
+-- Six Month Revenues Surpass Total Annual Revenues for 2004 --<br>
+<br>
+CHOWCHILLA, CA., November 8, 2004 – Global Diversified Industries, Inc. (OTC.BB: GDVI), focused on the modular building industry with emphasis on the education market, today reported that it has generated more than $4 million in revenue during its first six months of the fiscal year ending October 31, 2004. &nbsp;Total revenues for fiscal year 2004 totaled $3.8 million, showing Global Diversified’s ever-increasing market saturation in the California public school market.<br>
+<br>
+Global Diversified Chairman and CEO Phil Hamilton said: &nbsp;“We are pleased with the growth that our modular subsidiaries have sustained over the past year.” &nbsp;Mr. Hamilton added that “the Company’s sales force continues to build momentum into the winter season with substantial quote activity compared to this same period in 2003. &nbsp;We currently have more than $20 million in potential new orders quoted to school districts throughout California. &nbsp;We expect this momentum to escalate during the third and fourth quarters, especially pertaining to ‘custom’ permanent-type modular construction.”<br>
+<br>
+<br>
+About Global Diversified Industries, Inc. <br>
+<br>
+Global Diversified Industries, Inc. is a holding company with two wholly owned subsidiaries, Global Modular, Inc. and MBS Construction, Inc. Both are engaged in the modular construction marketplace with an emphasis on educational projects. They incorporate the latest in construction software, allowing them to better manage projects incorporating cost vs. profit ratios, construction and manufacturing schedules, purchasing, receiving and other facets of industrial management. The Company's work is found both in Northern and Southern California, with numerous projects on budget for school systems throughout the state. <br>
+<br>
+&nbsp;	&nbsp;	****<br>
+This press release contains information that constitutes forward-looking statements made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Any such forward-looking statements involve risk and uncertainties that could cause actual results to differ materially from any future results described within the forward-looking statements. Risk factors that could contribute to such differences include those matters more fully disclosed in the Company's reports filed with the Securities and Exchange Commission. The forward-looking information provided herein represents the Company's estimates as of the date of the press release, and subsequent events and developments may cause the Company's estimates to change. The Company specifically disclaims any obligation
+to update the forward-looking information in the future. Therefore, this forward-looking information should not be relied upon as representing the Company's estimates of its future financial performance as of any date subsequent to the date of this press release.<br>
+&nbsp; <br>
+Contact:<br>
+<br>
+&nbsp; &nbsp; &nbsp;For investor information contact:<br>
+&nbsp; &nbsp; &nbsp;Paul Knopick<br>
+&nbsp; &nbsp; &nbsp;949-707-5365<br>
+&nbsp; &nbsp; <a href="mailto:&nbsp;pknopick@eandecommunications.com">&nbsp;pknopick@eandecommunications.com</a><br>
+
+</font>
+
+
+<br><br><hr width="200">
+<table width="80%" cellpadding="3" cellspacing="0" border="0" align="center">
+  <tr>
+    <td align="center">
+
+<p align="center">
+<font face="Arial" size="2">
+
+<table>
+<tr>
+<td><a target="_blank" href="http://archives.zinester.com/21556">Visit&nbsp;Archives</
+a></td>
+<td>|</td>
+<td><a href="http://zinester.com/mpb/ml_fs.cgi?topic=21556">Subscribe</a></td>
+<td>|</td>
+<td><a href="http://www.zinester.com/cgi/l.cgi?bait@em.ca&011m0Mt8Q85oVa7rbXVn4A">Update&nbsp;Profile</
+a></td>
+<td>|</td>
+<td><a href="http://zinester.com/mpb/unsub.cgi?21556&4952643&011m0Mt8Q85oVa7rbXVn4A">Unsubs
+cribe</a></td>
+</tr>  
+</table>
+
+
+</font>
+</p>
+
+
+    </td>
+  </tr>
+</table>
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,106 @@
+Message-ID: <30828814.1075857043212.JavaMail.evans@thyme>
+Date: Wed, 8 Mar 2000 06:07:00 -0800 (PST)
+From: ravi.thuraisingham@enron.com
+To: stinson.gibner@enron.com, samer.takriti@enron.com, 
+	chonawee.supatgiat@enron.com, martin.lin@enron.com
+Subject: Packet analysis software
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Ravi Thuraisingham
+X-To: Stinson Gibner, Samer Takriti, Chonawee Supatgiat, Martin Lin
+X-cc: Vince Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Stinson, as per our discussion, here is the e-mail from Jim on the 
+subject.  I convinced Jim that this type of modeling effort is our gig and he 
+completely agrees.  As per Jim's suggestion, he and I will talk more on the 
+product while we are in Denver. I suspect that we will arrange for the vendor 
+to come to Houston and do a presentation on the product and install the 
+product on our machines.   As for additional development we should get John 
+Bloomer and Jim together in a meeting and hash out the requirements from John 
+Bloomer's perspective.
+
+Using Vince's analogy, this tool allows us to deternime the size of the cargo 
+space needed for Fedex-like delivery (our streaming media products). Whereas, 
+the optical light path switching (DS-3, OC-3, OC-12 and OC-48) based trading 
+will reserve the underlying airline routes, etc.  So the packet based stuff 
+is looking at the required capacity from IP layer (Network and Transport: 
+level 3 and 4) requirements. The optical light path is Level 1 & 2 based 
+requirements.  That is this tool will allow John Bloomer to size (actually we 
+will do the analysis for him) the capacity requirement that he would need for 
+the products that he is developing.
+
+That is my take on the difference, we'll find out otherwise.
+
+Once I finish off this discussion with Jim in Denver, I suggest putting 
+Martin Lin on the job to find out more about the product and do the leg work 
+to arrange for vendor demo and software installation.  Martin will keep Samer 
+and Chonawee updated on the information that he gathers.  Martin please start 
+checking on the web about this company and other similiar produts. I will get 
+you contact number for EBS and the vendor as soon as Jim provides them to 
+me.  
+
+Avici uses this product. Avici is a next generation router vendor that is 
+selling Terabit routers. EBS is an investor in that company.
+
+Ravi.
+
+----- Forwarded by Ravi Thuraisingham/Enron Communications on 03/08/00 03:47 
+PM -----
+
+	Jim Irvine
+	03/08/00 12:33 PM
+		 
+		 To: Ravi Thuraisingham/Enron Communications@Enron Communications
+		 cc: 
+		 Subject: 
+
+
+Ravi
+Attached is an overview of what OPNET Technologies ITDG and Modeler (V) 7.0 
+offers out of the box.  As previously mentioned, we have purchased this S/W 
+and are discussing potential co-development of module(s) currently not 
+supported.  My belief is we can spin up a couple of your studs and develop 
+our own stuff faster @ a fraction of the cost.   Avici, used OPNET to develop 
+a circuit emulation model for their TSR and Cisco used OPNET for MPLS and DPT 
+modeling.  These guys are willing brides at this point.  We just need to 
+clearly identify their role in the network performance management and 
+modeling space.  We will have to talk more in Denver. 
+
+My flight arrives @ 10:00 ish and I am told that rental cars are scarce.
+
+Jim
+
+----- Forwarded by Jim Irvine/Enron Communications on 03/08/00 10:18 AM -----
+
+	mvaghedi@mil3.com
+	01/12/00 02:10 PM
+		 
+		 To: Jim Irvine/Enron Communications@Enron Communications
+		 cc: 
+		 Subject: 
+
+
+ - Version 7.0 Capability List - FINAL - v1.3.00.doc
+
+
+Mani Vaghedi
+MIL 3, Inc.
+ITDG Sales Engineer
+Tel. (408) 562-5757 ext. 3200
+Fax: (408) 562-5758
+mvaghedi@mil3.com
+http://www.mil3.com
+
+****************************************************************************
+**********************
+Please attend the industry's most informative DECISION SUPPORT SEMINAR
+Register TODAY for FREE SEMINAR at www.mil3.com/seminars.html
+****************************************************************************
+**********************
+ - att2.htm

@@ -1,0 +1,71 @@
+Message-ID: <13350191.1075856565873.JavaMail.evans@thyme>
+Date: Tue, 17 Oct 2000 13:11:00 -0700 (PDT)
+From: chris@lacima.co.uk
+To: vkaminski@aol.com, julie@lacima.co.uk
+Subject: Re: Comments
+Cc: les@lacimagroup.com, vkamins@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: les@lacimagroup.com, vkamins@enron.com
+X-From: "Chris Strickland" <chris@lacima.co.uk>
+X-To: <VKaminski@aol.com>, <julie@lacima.co.uk>
+X-cc: <les@lacimagroup.com>, <vkamins@enron.com>
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince,
+
+Sorry to have missed you in Paris. Many thanks for your comments - they've
+now been incorporated and sent to EPRM. Things are crazy at the moment, but
+hopefully will calm down in a couple of weeks and we'll have time to catch
+up better.
+
+Best regards.
+
+Chris.
+
+
+
+----- Original Message -----
+From: <VKaminski@aol.com>
+To: <julie@lacima.co.uk>
+Cc: <les@lacimagroup.com>; <vkamins@enron.com>; <chris@lacima.co.uk>
+Sent: Sunday, October 15, 2000 11:06 AM
+Subject: Comments
+
+
+> Julie,
+>
+> Sorry for the delay. Here are he comments.
+>
+> Vince
+>
+> ************************************
+>
+> Sorry for long delay in responding. I have a few comments. Most are
+focused
+> on the third article as here is till time to make modifications.
+>
+> 1.  In the second article, I would mention that the formulation of the
+mean
+> reversion process represents one of several possible equations that
+capture
+> the same type of market evolution of prices over time.
+> 2.  One comment that applies to both articles. The problem is how one
+defines
+> the time series of energy prices. The numbers used for Australian NSW pool
+> prices seem to correspond to chronological prices. One alternative
+approach
+> is to build different time series for the corresponding time intervals for
+> each day. This would result in different price behavior and estimates of
+> jump. The choice is one of convenience and depends on actual problem under
+> investigation. One could argue that volumes of electricity traded during
+> different time slots represent different economic commodities.
+> Figure 3a (Jump Frequency) has units on the vertical axis that require
+> explanation. Are we talking about an expected number of jumps in the total
+> number of half hourly periods in a year? The same goes for f in Table 2
+> (article number 3).
+>
+>

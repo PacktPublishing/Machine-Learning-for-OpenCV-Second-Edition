@@ -1,0 +1,128 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S269085AbUI2WEA@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 25750 invoked from network); 29 Sep 2004 22:07:44 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 29 Sep 2004 22:07:44 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Sep 2004 22:07:44 -0000
+Received: (qmail 7338 invoked from network); 29 Sep 2004 22:07:42 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 29 Sep 2004 22:07:42 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S269085AbUI2WEA (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Wed, 29 Sep 2004 18:04:00 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S269078AbUI2WD6
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Wed, 29 Sep 2004 18:03:58 -0400
+Received: from mail.catholicexchange.com ([64.66.6.209]:12556 "EHLO
+	mail.catholicexchange.com") by vger.kernel.org with ESMTP
+	id S269073AbUI2WDe (ORCPT <rfc822;linux-kernel@vger.kernel.org>);
+	Wed, 29 Sep 2004 18:03:34 -0400
+Received: from catholicexchange.com (unverified [192.168.10.209]) 
+	by mail.catholicexchange.com (SurgeMail 2.1c7) with ESMTP id 2797193 
+	for multiple; Wed, 29 Sep 2004 16:42:38 -600 CDT
+From:	"newhopeint" <newhopeint@catholicexchange.com>
+To:	newhopeint@catholicexchange.com
+Subject: Happy days are here again
+X-Mailer: Quality Web Email v3.1k, http://netwinsite.com/refw.htm
+Date:	Wed, 29 Sep 2004 15:42:33 -0600
+Message-id: <415b2c49.3c4.d7c.31346@catholicexchange.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Server: High Performance Mail Server - http://surgemail.com
+X-Authenticated-User: newhopeint@mail.catholicexchange.com 
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+FROM: 
+
+NEW HOPE LOTTERY INTERNATIONAL 
+NIEUWE ZIJDS VOORBURGWAL, NL- 1009 CEH
+AMSTERDAM NETHERLANDS
+Email: nhlint@SwissEmail.com
+ 
+
+REF NUMBER: NHL/653/029/03/SA 
+
+BATCH NUMBER: AT-040-SB06-03 
+
+
+DEAR SIR/MADAM, 
+We are pleased to inform you, THAT AS A RESULT OF OUR
+RECENT LOTTERY DRAWS HELD on the 12th of JULY 2004.
+Your e-mail address attached to ticket
+number:27511465896-6410 with serial number 4204-777
+drew lucky numbers 5-21-23-34-61-72-1 which consequently
+won in the ist category. you have therefore been
+approved for a lump sum pay out of 2,500,000 (EUROS)
+(Two MILLION, Five hundred thousand EUROS) 
+
+Note that All participants in this lottery program
+have been selected randomly through a computer ballot
+system drawn from over 200,000 companies and
+30,000,000 individual email addresses from all search
+engines and web sites. This promotional program takes
+place every year, and is promoted and sponsored by
+eminent personalities like the Sultan of Brunei, Bill
+Gates of microsoft inc and other corporate
+organisations. This is to encourage the use of the
+internet and computers worldwide.
+
+For security purposes and clarity, we advise that you
+keep your winning information confidential until your
+claims have been processed and your money remitted to
+you. This is part of our security protocol to avoid
+double claims and unwarranted abuse of this program by
+some participants. We look forward to your active
+participation in our next year USD50 million slot.
+
+
+
+You are requested to contact your claims clearance
+officer as named below, to assist you with the
+processing of your winnings and subsequent payments.
+All winnings must be claimed not later than one month
+after the date of this notice.  
+
+Please note, in order to avoid unnecessary delays and
+complications, remember to quote your reference number
+and batch number in all correspondence. Furthermore,
+should there be any change of address do inform our
+agent as soon as possible. 
+
+Congratulations once more and thank you for being part
+of our promotional program. 
+
+
+
+NOTE: YOU ARE AUTOMATICALLY DISQUALIFIED IF YOU ARE
+BELOW 18 YEARS OF AGE. 
+
+Sincerely yours, 
+
+
+Mrs. Janet Freiburg,
+nhlint@SwissEmail.com 
+(LOTTERY COORDINATOR)
+
+CLAIMS AGENT:
+Mr. Robert Duncan
+KARINTER SECURITIES
+Tel: +447005805645
+Fax: +447005805640
+Email:karintersecurities@theukzone.com
+
+
+_______________________________________________________________
+Get FREE email at:
+http://CatholicExchange.com
+Your Faith. Your Life. Your World.
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

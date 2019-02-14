@@ -1,0 +1,93 @@
+Return-Path: <Haroun@gbembossing.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 5446 invoked from network); 4 Mar 2005 06:07:58 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 04 Mar 2005 06:07:58 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 04 Mar 2005 06:07:58 -0000
+Received: (qmail 15649 invoked from network); 4 Mar 2005 06:07:58 -0000
+Received: from gbembossing.com (unknown [202.73.60.109])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 04 Mar 2005 06:07:57 -0000
+From: "Patrice Landis" <Haroun@gbembossing.com>
+To: "Merrill Tyson" <cvs@bruce-guenter.dyndns.org>
+Subject: MBJ 71-Medicationns
+Date: Fri, 4 Mar 2005 09:54:53 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_004D_01C51E97.422879D9"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Unsent: 1
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Content-Length: 2712
+Lines: 68
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_004D_01C51E97.422879D9
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, 
+
+Have a nice day.
+------=_NextPart_000_004D_01C51E97.422879D9
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<META content=3D"MSHTML 6.00.2800.1106" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D4><FONT face=3DArial =
+size=3D3></FONT></FONT>&nbsp;</DIV>
+<DIV><FONT><FONT face=3DArial size=3D4>Hello, </FONT><A=20
+href=3D"http://www.xl.rxyk.com.medalod.com/"><FONT =
+face=3DArial size=3D4>Visit Our PharmMail=20
+SH0P</FONT></A><FONT face=3DArial size=3D4>.</FONT></FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV>
+<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY>
+  <TR vAlign=3Dbottom>
+    <TD rowSpan=3D2><FONT face=3DArial size=3D4>SP</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial size=3D4>&nbsp;OF</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial size=3D4>&nbsp;Vi</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial=20
+size=3D4>ra&nbsp;$200(120p.)&nbsp;Ci</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial=20
+    size=3D4>is&nbsp;$300(150p.)&nbsp;Lev</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial =
+size=3D4>ra&nbsp;$300(50p.)</FONT></TD></TR>
+  <TR vAlign=3Dbottom>
+    <TD><FONT face=3DArial size=3D4>ECIAL</FONT></TD>
+    <TD><FONT face=3DArial size=3D4>FER:</FONT></TD>
+    <TD><FONT face=3DArial size=3D4>ag</FONT></TD>
+    <TD><FONT face=3DArial size=3D4>al</FONT></TD>
+    <TD><FONT face=3DArial =
+size=3D4>it</FONT></TD></TD></TR></TBODY></TABLE></DIV>
+<DIV><FONT face=3DArial size=3D4>And Many Other!</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D3>With each purchase you =
+get:</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>Home delivery</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>Total confidentiality</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>FDAApproved</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>Highest Quality</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D3>Have a nice =
+day.</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_004D_01C51E97.422879D9--

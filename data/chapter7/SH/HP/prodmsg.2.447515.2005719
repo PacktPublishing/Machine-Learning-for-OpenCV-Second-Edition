@@ -1,0 +1,90 @@
+Received: from mx2.oi.com.br (200.222.115.11)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:57 -0000
+Received: by mx2.oi.com.br (Postfix)
+	id 70C995582E8; Tue, 19 Jul 2005 07:58:56 -0300 (BRT)
+Date: Tue, 19 Jul 2005 07:58:56 -0300 (BRT)
+From: MAILER-DAEMON@mx2.oi.com.br (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0ADAE5580BE.1121770736/mx2.oi.com.br"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105856.70C995582E8@mx2.oi.com.br>
+
+This is a MIME-encapsulated message.
+
+--0ADAE5580BE.1121770736/mx2.oi.com.br
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host mx2.oi.com.br.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<distler@oi.com.br>: host frontend.oi.com.br[200.222.115.18] said: 550-Mailbox
+    unknown.  Either there is no mailbox associated with this 550-name or you
+    do not have authorization to see it. 550 5.1.1 User unknown (in reply to
+    end of DATA command)
+
+--0ADAE5580BE.1121770736/mx2.oi.com.br
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx2.oi.com.br
+X-Postfix-Queue-ID: 0ADAE5580BE
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 07:58:47 -0300 (BRT)
+
+Final-Recipient: rfc822; distler@oi.com.br
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host frontend.oi.com.br[200.222.115.18] said:
+    550-Mailbox unknown.  Either there is no mailbox associated with this
+    550-name or you do not have authorization to see it. 550 5.1.1 User unknown
+    (in reply to end of DATA command)
+
+--0ADAE5580BE.1121770736/mx2.oi.com.br
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from mailwisconsin.com (unknown [61.74.129.210])
+	by mx2.oi.com.br (Postfix) with SMTP id 0ADAE5580BE
+	for <distler@oi.com.br>; Tue, 19 Jul 2005 07:58:47 -0300 (BRT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190843;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distler@oi.com.br
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716248">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--0ADAE5580BE.1121770736/mx2.oi.com.br--

@@ -1,0 +1,41 @@
+Delivered-To: em-ca-bait-myotonic@em.ca
+Received: (qmail 4205 invoked by uid 115); 21 Jul 2005 02:54:35 -0000
+Received: from info@high-tec.info by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(83.29.2.175):. 
+ Processed in 0.113895 secs); 21 Jul 2005 02:54:35 -0000
+Received: from bnm175.neoplus.adsl.tpnet.pl (HELO smtp) (83.29.2.175)
+  by churchill.factcomp.com with SMTP; 21 Jul 2005 02:54:33 -0000
+Received: from 212.204.245.181 (helo=something)
+	by smtp with esmtpa (Exim 4.51 (FreeBSD))
+	id J87Gz030808533
+	for bait-myotonic@em.ca; Thu, 21 Jul 2005 02:56:14 +0000
+Date: Thu, 21 Jul 2005 02:56:14 +0000
+From: "Tonie" <info@high-tec.info>
+X-Mailer: The Bat! (v3.0) Professional
+Reply-To: "Tonie" <info@high-tec.info>
+X-Priority: 3 (Normal)
+Message-ID: <qfEruv.200507198474939@localhost>
+To: bait-myotonic@em.ca
+Subject: Localized software, all languages available.
+MIME-Version: 1.0
+Content-Type: text/html; charset=Windows-1252
+Content-Transfer-Encoding: 8bit
+
+<HTML>
+<BODY>
+Hello, we would like to offer localized software versions (qerman ,french ,spanish, UK ,and many others).<br>
+AlI Iisted software is available for immediate download!<br>
+No need to wait 2-3 week for CD delivery!<br><br>
+
+Just few exampIes:<br>
+- Norton Internet Security Pro 2005 - $29.95<br>
+- Windows XP Professional With SP2 FulI Version - $59.95<br>
+- CoreI Draw Graphics Suite 12 - $49.95<br>
+- Dreamweaver MX 2004 (HomeSite 5.5 incIuding) - $39.95<br>
+- Macromedia Studio MX 2004 - $119.95<br><br>
+
+<a href="http://86262988.fastforsoft.info">Just browse our site and find any software you need in your native Ianguaqe!</a><br><br>
+Best regards,<br>
+Tonie
+</HTML>
+</BODY>

@@ -1,0 +1,72 @@
+Received: from vmailhub1.mclink.it (195.110.136.78)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:25:36 -0000
+Received: from localhost (localhost)
+	by vmailhub1.mclink.it (8.12.6/8.11.3) id j6JBDKNw069281;
+	Tue, 19 Jul 2005 13:25:35 +0200 (CEST)
+	(envelope-from MAILER-DAEMON)
+Date: Tue, 19 Jul 2005 13:25:35 +0200 (CEST)
+From: Mail Delivery Subsystem <MAILER-DAEMON@vmailhub1.mclink.it>
+Message-Id: <200507191125.j6JBDKNw069281@vmailhub1.mclink.it>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JBDKNw069281.1121772335/vmailhub1.mclink.it"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JBDKNw069281.1121772335/vmailhub1.mclink.it
+
+The original message was received at Tue, 19 Jul 2005 13:12:51 +0200 (CEST)
+from ns2.mclink.it [212.48.4.11]
+
+   ----- The following addresses had permanent fatal errors -----
+<distintapop.fildi.itfildifildi@fildi.it>
+
+   ----- Transcript of session follows -----
+550 5.1.1 <distintapop.fildi.itfildifildi@fildi.it>... User unknown
+
+--j6JBDKNw069281.1121772335/vmailhub1.mclink.it
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vmailhub1.mclink.it
+Arrival-Date: Tue, 19 Jul 2005 13:12:51 +0200 (CEST)
+
+Final-Recipient: RFC822; distintapop.fildi.itfildifildi@fildi.it
+X-Actual-Recipient: rfc822; distintapop.fildi.itfildifildi@fildi.it
+Action: failed
+Status: 5.1.1
+Last-Attempt-Date: Tue, 19 Jul 2005 13:25:35 +0200 (CEST)
+
+--j6JBDKNw069281.1121772335/vmailhub1.mclink.it
+Content-Type: text/rfc822-headers
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from ns2.mclink.it (ns2.mclink.it [212.48.4.11])
+	by vmailhub1.mclink.it (8.12.6/8.11.3) with ESMTP id j6JBCoXs068979
+	for <distintapop.fildi.itfildifildi@fildi.it>; Tue, 19 Jul 2005 13:12:51 +0200 (CEST)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from mailwisconsin.com (3642@[60.16.126.29])
+	by ns2.mclink.it (8.12.8p1/8.12.8) with SMTP id j6JAwpoQ087310
+	for <distintapop.fildi.itfildifildi@fildi.it>; Tue, 19 Jul 2005 12:58:55 +0200 (CEST)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190921;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distintapop.fildi.itfildifildi@fildi.it
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+--j6JBDKNw069281.1121772335/vmailhub1.mclink.it--
+

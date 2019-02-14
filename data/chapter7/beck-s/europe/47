@@ -1,0 +1,99 @@
+Message-ID: <18403898.1075855873629.JavaMail.evans@thyme>
+Date: Tue, 21 Nov 2000 10:56:00 -0800 (PST)
+From: james.new@enron.com
+To: david.hardy@enron.com
+Subject: Re: DPR Adjustments for UK Power
+Cc: mike.jordan@enron.com, steve.young@enron.com, debbie.brackett@enron.com, 
+	david.port@enron.com, michael.brown@enron.com, rick.buy@enron.com, 
+	fernley.dyson@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mike.jordan@enron.com, steve.young@enron.com, debbie.brackett@enron.com, 
+	david.port@enron.com, michael.brown@enron.com, rick.buy@enron.com, 
+	fernley.dyson@enron.com, sally.beck@enron.com
+X-From: James New
+X-To: David Hardy
+X-cc: Mike Jordan, Steve W Young, Debbie R Brackett, David Port, Michael R Brown, Rick Buy, Fernley Dyson, Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+From the Risk Management perspective I would like to add the following 
+comments :
+
+UK Power - despite much testing we still have a few production teething 
+problems with the transfer to Enpower and this was the first full live day. 
+The specific issues surrounding the o30m adjustment is being investigated by 
+IT and we hope to have a definitive answer tomorrow.
+
+Continental Power - the Portcalc valuation failed 4 times as a result of IT 
+problems resulting is us missing the deadline.
+
+Oslo - the officialisation was at 10.56 London time against a deadline of 
+11.00.
+
+James
+
+
+
+
+
+David Hardy
+21/11/2000 17:01
+To: James New/LON/ECT@ECT
+cc: Mike Jordan/LON/ECT@ECT, Steve W Young/LON/ECT@ECT, Debbie R 
+Brackett/HOU/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON, Michael R 
+Brown/LON/ECT@ECT 
+
+Subject: DPR Adjustments for UK Power
+
+James,
+
+It appears only the UK Gas MTM made it for the V@R run in Houston today.
+
+UK Power:  (despite the spotlight  being on this feed due to the first run of 
+the new evaluation system) was officialised late and required the below 
+mentioned adjustment.
+
+Contintental Power : Officialised late ?
+
+Nordic Power : was officialised around 11am London time - the slowness of the 
+current feed to Houston prevented the feed reaching there on time (feed has 
+been rewritten by IT to speed up the process  and is currently in UAT) 
+however, it appears the normal time for officialisation this book is around 
+10.30am which allows the feed to hit to normally hit on time. 
+
+Appreciate if you could looked into the above.
+
+
+Regards
+
+David
+
+ 
+
+
+---------------------- Forwarded by David Hardy/LON/ECT on 21/11/2000 16:06 
+---------------------------
+
+
+Michael Batey
+21/11/2000 12:22
+To: David Hardy/LON/ECT@ECT
+cc: Mike Wellings/LON/ECT@ECT 
+
+Subject: DPR Adjustments for UK Power
+
+David
+
+We have a topside adjustment to put through of o(30,164,151) against South 
+Western Electricity plc.  This is due to PD Deal E000535, Peer ID 41957 being 
+valued in EnPower when it was supposed to be excluded from the MTM.
+
+Regards
+
+Mike
+
+
+

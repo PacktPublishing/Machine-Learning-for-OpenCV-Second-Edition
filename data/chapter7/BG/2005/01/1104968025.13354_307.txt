@@ -1,0 +1,206 @@
+Return-Path: <agendaeventos@hotmail.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 428 invoked from network); 05 Jan 2005 22:47:22 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 05 Jan 2005 22:47:22 -0000
+Received: (qmail 13650 invoked from network); 5 Jan 2005 22:47:22 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx03.futurequest.net ([69.5.6.174])
+  with QMQP via TCP; 05 Jan 2005 22:47:22 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 32310 invoked from network); 05 Jan 2005 22:47:18 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 05 Jan 2005 22:47:18 -0000
+Received: (qmail 24649 invoked from network); 5 Jan 2005 22:47:18 -0000
+Received: from LATIN (201-002-216-138.bnut37001.dsl.brasiltelecom.net.br [201.2.216.138])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 05 Jan 2005 22:47:16 -0000
+From: "Eventos" <agendaeventos@hotmail.com>
+To: webmaster@ezmlm.org
+Subject: e-news Blusoft Brasil 2005
+Sender: "Eventos" <agendaeventos@hotmail.com>
+Date: Wed, 5 Jan 2005 20:40:29 -0200
+Reply-To: publicidade@latinevent.com.br
+Return-Path: <agendaeventos@hotmail.com>
+Errors-To: <agendaeventos@hotmail.com>
+X-Priority: 5
+X-MSMail-Priority: Low
+Content-Type: text/html; charset="iso-8859-1"
+Content-Length: 11682
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>.: e-news Blusoft Brasil:.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body link="#183884" vlink="#183884" alink="#183884" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td bgcolor="#183884">
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tr> 
+          <td><div align="center"><img src="http://www.blusoftbrasil.com.br/imagens/topo_news.jpg" width="413" height="165"></div></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td><div align="center"></div></td>
+        </tr>
+        <tr> 
+          <td><div align="center"><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><strong><a href="#bemvindo">Bem-vindos</a> 
+              | <a href="#editorial">Editorial</a> |<a href="#info"> Informa&ccedil;&otilde;es 
+              </a>| <a href="#eventosp">Eventos Paralelos</a> | <a href="#apoio">Apoios</a> 
+              | <a href="#org">Organiza&ccedil;&atilde;o</a></strong></font></div></td>
+        </tr>
+        <tr> 
+          <td><div align="center"><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"></font></div></td>
+        </tr>
+        <tr> 
+          <td height="19" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="575" valign="top"> <blockquote> 
+              <p><strong><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"><a name="bemvindo"></a>NEWSLETTER 
+                INFORMATIVO N&ordm;2 - 12/2004</font></strong></p>
+              <p><strong><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Prezados 
+                Senhores</font></strong></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Este 
+                &eacute; o <strong>Blusoft News N&deg; 2</strong>, o boletim eletr&ocirc;nico 
+                que traz as &uacute;ltimas novidades sobre a <strong>Blusoft Brasil 
+                2005</strong>, organizada pela Latin Event Feiras e Congressos. 
+                Nos pr&oacute;ximos informativos poder&atilde;o ser conhecidos 
+                detalhes sobre os crit&eacute;rios que orientam sua participa&ccedil;&atilde;o 
+                neste grande evento, como expositor e visitante. Caso voc&ecirc; 
+                necessite agora dessas informa&ccedil;&otilde;es, envie um e-mail 
+                para <a href="mailto:blusoft@latinevent.com.br">blusoft@latinevent.com.br</a></font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Equipe 
+                Latin Event<br>
+                Visite o site <a href="http://www.latinevent.com.br">www.latinevent.com.br</a></font></p>
+              <p>&nbsp;</p>
+              <p><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"><strong><a name="editorial"></a>EDITORIAL</strong></font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Continuamos 
+                com os preparativos da Blusoft Brasil&#8217;2005 &#8211; Feira 
+                e Congresso de Tecnologia, que acontecer&aacute; de 21 a 24 de 
+                junho de 2005 &#8211; em Blumenau-SC. </font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">No 
+                evento estar&aacute; reunido o que de melhor e mais moderno est&aacute; 
+                se produzindo em mat&eacute;ria de software e tecnologia da informa&ccedil;&atilde;o 
+                no pa&iacute;s.</font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Durante 
+                a Blusoft Brasil, Blumenau tamb&eacute;m sediar&aacute; a SoftWeek 
+                &#8211; Semana Nacional do Software, que ter&aacute; diversos 
+                eventos verticais relacionados ao segmento, oferecendo atualiza&ccedil;&atilde;o 
+                e reciclagem profissional. Um dos destaques ser&aacute; o Semin&aacute;rio 
+                de Educa&ccedil;&atilde;o &amp; Tecnologia.</font> </p>
+              <p>&nbsp;</p>
+              <p><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"><strong><a name="eventosp"></a>EVENTOS 
+                PARALELOS</strong></font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Durante 
+                a Blusoft Brasil, Blumenau tamb&eacute;m sediar&aacute; a SoftWeek 
+                &#8211; Semana Nacional do Software, que ter&aacute; diversos 
+                eventos verticais relacionados ao segmento, oferecendo atualiza&ccedil;&atilde;o 
+                e reciclagem profissional. Veja abaixo, alguns dos eventos que 
+                estar&atilde;o acontecendo na ocasi&atilde;o:</font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">- 
+                Semin&aacute;rio de Educa&ccedil;&atilde;o e Tecnologia;<br>
+                - Congresso de Solu&ccedil;&otilde;es para Impress&atilde;o Digital;<br>
+                - e-solution &#8211; Congresso de Solu&ccedil;&otilde;es para 
+                o Com&eacute;rcio Eletr&ocirc;nico;<br>
+                - Congresso de Solu&ccedil;&otilde;es para Governos;<br>
+                - Congresso de Telecomunica&ccedil;&otilde;es;<br>
+                - Semin&aacute;rio de Seguran&ccedil;a da Informa&ccedil;&atilde;o;<br>
+                - Semin&aacute;rio de Solu&ccedil;&otilde;es para Automa&ccedil;&atilde;o 
+                Industrial;<br>
+                - Semin&aacute;rio de Tecnologia e Mercado;<br>
+                - Programa de Compradores Corporativos.</font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><strong>DESTAQUE</strong><br>
+                Um dos destaques da Semana ser&aacute; o <em>SEMIN&Aacute;RIO 
+                EDUCA&Ccedil;&Atilde;O &amp; TECNOLOGIA</em>. Conhe&ccedil;a abaixo 
+                alguns detalhes desse evento:</font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><br>
+                <strong>SEMIN&Aacute;RIO DE EDUCA&Ccedil;&Atilde;O E TECNOLOGIA</strong></font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><em>OBJETIVO</em><br>
+                Abordar temas voltados a aperfei&ccedil;oar a gest&atilde;o das 
+                Institui&ccedil;&otilde;es de Ensino do ponto de vista humano 
+                e tecnol&oacute;gico, aperfei&ccedil;oando e reciclando profissionais 
+                para a capta&ccedil;&atilde;o e manuten&ccedil;&atilde;o de seus 
+                clientes (alunos) e ao mesmo tempo propor maneiras e apresentar 
+                ferramentas para a redu&ccedil;&atilde;o de custos operacionais.</font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><em>LOCAL</em><br>
+                Em um dos Pavilh&otilde;es da PROEB, ser&atilde;o disponibilizados 
+                espa&ccedil;os especiais (Business Su&iacute;tes) onde os compradores 
+                receber&atilde;o os expositores e patrocinadores, atrav&eacute;s 
+                de reuni&otilde;es previamente agendadas.</font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><em>P&Uacute;BLICO 
+                ALVO</em><br>
+                Reitores de Universidades;<br>
+                Coordenadores de Cursos;<br>
+                Diretores de Escolas;<br>
+                Administradores de Escolas;<br>
+                Secret&aacute;rias de Escolas;<br>
+                Professores;<br>
+                Outros Profissionais da &Aacute;rea Educacional.</font></p>
+              <p>&nbsp;</p>
+              <p><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"><strong><a name="info"></a>INFORMA&Ccedil;&Otilde;ES</strong></font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">Para 
+                mais informa&ccedil;&otilde;es acesse o site <a href="http://www.blusoftbrasil.com.br">www.blusoftbrasil.com.br</a></font></p>
+              <p><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"><strong><a name="apoio"></a>APOIOS</strong></font></p>
+              <p><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">-</font><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"> 
+                ABECORTEL - Associa&ccedil;&atilde;o Brasileira das Empresas de 
+                Servi&ccedil;os de Engenharia de Telecomunica&ccedil;&otilde;es;<br>
+                - ABIPTI &#8211; Associa&ccedil;&atilde;o Brasileira das Institui&ccedil;&otilde;es 
+                de Pesquisas Tecnol&oacute;gicas;<br>
+                - ABRAT - Associa&ccedil;&atilde;o Brasileira de Empresas de Tecnologia 
+                da Informa&ccedil;&atilde;o<br>
+                - ACIB - Associa&ccedil;&atilde;o Comercial e Industrial de Blumenau;<br>
+                </font><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">- 
+                AMPE - Associa&ccedil;&atilde;o das Micro e Pequenas Empresas 
+                de Blumenau;<br>
+                - ASSESPRO Nacional;<br>
+                - ASSESPRO SC;<br>
+                - BADESC;<br>
+                - C&acirc;mara Brasileira de Com&eacute;rcio Eletr&ocirc;nico;<br>
+                - CDL - C&acirc;mara de Dirigentes Lojistas de Blumenau;<br>
+                - FINEP - Financiamento de Estudos e Projetos; <br>
+                - FUNCITEC &#8211; Funda&ccedil;&atilde;o de Ci&ecirc;ncia e Tecnologia;<br>
+                - FURB &#8211; Funda&ccedil;&atilde;o Universidade Regional de 
+                Blumenau;<br>
+                - Governo do Estado de Santa Catarina;<br>
+                - Jornal de Santa Catarina;<br>
+                - Prefeitura de Blumenau;<br>
+                - RBS TV;<br>
+                - RECEPET;<br>
+                - SEBRAE Santa Catarina;<br>
+                - Sistema Federa&ccedil;&atilde;o das Ind&uacute;strias do Estado 
+                de Santa Catarina;<br>
+                - SUCESU-SC &#8211; Sociedade de Usu&aacute;rios de Inform&aacute;tica 
+                e Telecomunica&ccedil;&otilde;es.</font></p>
+              <p>&nbsp;</p>
+              <p><strong><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"><a name="org" id="org"></a>ORGANIZA&Ccedil;&Atilde;O</font></strong></p>
+              <strong><font color="#183884" size="2" face="Arial, Helvetica, sans-serif">Latin 
+              Event Feiras e Congressos<br>
+              </font></strong><font color="#183884" size="2" face="Arial, Helvetica, sans-serif"> 
+              <font color="#333333">Rua Paul Hering, n&deg; 110 - 4&deg; andar<br>
+              89010-050 - Bluemnau - Centro<br>
+              Fone/Fax: (47) 326-4267<br>
+              e-mail: <a href="mailto:%20blusoft@latinevent.com.br">blusoft@latinevent.com.br</a><br>
+              Site: <a href="http://www.latinevent.com.br">www.latinevent.com.br</a></font></font> 
+              <p>&nbsp;</p>
+            </blockquote></td>
+        </tr>
+        <tr> 
+          <td height="11"> <div align="center"><font color="#333333" size="1,5" face="Arial, Helvetica, sans-serif"><strong>Se 
+              n&atilde;o deseja mais receber estas mensagens, responda esta mensagem 
+              com a palavra REMOVER no campo Assunto &#8220;Subject&#8221;</strong></font></div></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

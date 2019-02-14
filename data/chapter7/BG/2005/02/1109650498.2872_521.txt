@@ -1,0 +1,47 @@
+Return-Path: <xlvyqulsu@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 9110 invoked by uid 115); 14 Feb 2005 07:51:13 -0000
+Received: from xlvyqulsu@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(168.226.184.251):. 
+ Processed in 16.197807 secs); 14 Feb 2005 07:51:13 -0000
+Received: from 168-226-184-251.speedy.com.ar (168.226.184.251)
+  by churchill.factcomp.com with SMTP; 14 Feb 2005 07:50:55 -0000
+Received: from culpable bullfrog (firewall.owingscraggly.com [178.224.251.224]) by 168.226.184.251 (6.3.6/7.7.3) with ESMTP id PIMA47041190 for <bait@em.ca>; Mon, 14 Feb 2005 08:46:20 +0100
+Message-ID: <a2665p3FO1O235P55YS54IIR22233588U466842@168.226.184.251>
+Reply-To: "Lorna Stern" <xlvyqulsu@yahoo.com>
+From: "Lorna Stern" <xlvyqulsu@yahoo.com>
+Content-Class: urn:content-classes:message/text
+Location: sunlight bromfield chest
+Delivery-Notification: No
+To: "Bait" <bait@em.ca>
+Subject: Message subject
+Date: Mon, 14 Feb 2005 00:44:20 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--4889892477079131"
+
+----4889892477079131
+Content-Type: text/plain;
+	charset="iso-5954-7"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.savingcashola.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Rebecca Hoffman
+
+http://www.savingcashola.com/x/st.html
+
+
+----4889892477079131--

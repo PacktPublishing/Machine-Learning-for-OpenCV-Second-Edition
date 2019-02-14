@@ -1,0 +1,40 @@
+Message-ID: <15886558.1075840010371.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 17:36:00 -0700 (PDT)
+From: tim.belden@enron.com
+To: mike.swerzbin@enron.com, robert.badeer@enron.com, sean.crandall@enron.com, 
+	tim.belden@enron.com, jeff.richter@enron.com, matt.motley@enron.com, 
+	tom.alonso@enron.com, mark.fischer@enron.com, bill.iii@enron.com
+Subject: FW: West VAR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim Belden <Tim Belden/HOU/ECT@ECT>
+X-To: Mike Swerzbin <Mike Swerzbin/HOU/ECT@ECT>, Robert Badeer <Robert Badeer/HOU/ECT@ECT>, Sean Crandall <Sean Crandall/PDX/ECT@ECT>, Tim Belden <Tim Belden/HOU/ECT@ECT>, Jeff Richter <Jeff Richter/HOU/ECT@ECT>, Matt Motley <Matt Motley/PDX/ECT@ECT>, Tom Alonso <Tom Alonso/PDX/ECT@ECT>, Mark Fischer <Mark Fischer/PDX/ECT@ECT>, Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+fyi.
+---------------------- Forwarded by Tim Belden/HOU/ECT on 04/30/2001 07:43 AM ---------------------------
+From:	John J Lavorato/ENRON@enronXgate on 04/30/2001 09:40 AM CDT
+To:	Tim Belden/HOU/ECT@ECT, David Port/ENRON@enronXgate
+cc:	 
+Subject:	FW: West VAR
+
+
+Tim
+
+You will get stopped out.  I talked to David Port today because last year we spent a lot of time cleaning up gas var and now we must spend the time fixing power var.  However, until its fixed I have no choice but to use the reported numbers.
+ -----Original Message-----
+From: 	Belden, Tim  
+Sent:	Monday, April 30, 2001 9:19 AM
+To:	Lavorato, John; Kitchen, Louise; Gorny, Vladimir
+Cc:	Presto, Kevin
+Subject:	West VAR
+
+the numbers being generated for the west's var do not comport with what i believe our risk to be.  i think that it may have to do with the correlation across months and across locations.  for example, the ltnw book has a grant total of <3,000> MWh from now through September On-Peak and 194,000 MWh from now through September Off-Peak.  the var report shows mike with $20 million of var -- about $16 million of it coming between now and september.  we have a total var of $30 million, with about $20 million between now and september.  by my rough calculations, we would have to have the entire curve move roughly $100/MWh in one day for this var to be accurate.  that means that once every 20 days the entire summer curve -- peak and off-peak -- would have to move in excess of $100/MWh.  i might add that we are short q4 which i'm not giving us any credit for as an offset. 
+
+i understand that there is a lot of risk on our books.  i just don't think that it is as much as the var model is spitting out.  wierd things happen in the var model and option valuation models due to the interaction of the blending formula on the volatility and the correlations as we approach delivery.  we see the same thing with option valuations.  we see option model valuations (e.g., transmission spread options) going through the roof when they are trading for fractions of our model valuations in reality.  similarly, the var model valuations move up really fast as the summer approaches.
+
+bottom line.  i need to know what you want us to do.  we are chewing up a lot of var.  if we are going to get stopped out i need to know now.  i think that it would be a shame to close out of a largely spread position that wouldn't necessarily have any practical impact on our real profitability but would make the "model" happy.

@@ -1,0 +1,55 @@
+Return-Path: <Jonelistinger@citiz.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 14240 invoked from network); 27 Feb 2005 14:31:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 Feb 2005 14:31:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Feb 2005 14:31:17 -0000
+Received: (qmail 11558 invoked from network); 27 Feb 2005 14:31:16 -0000
+Received: from citiz.net (unknown [218.6.24.175])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Feb 2005 14:31:15 -0000
+From: "Jason" <Jonelistinger@citiz.net>
+To: <cvs@bruce-guenter.dyndns.org>
+Subject: Promotion Plan
+Sender: "Jason" <Jonelistinger@citiz.net>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Sun, 27 Feb 2005 22:26:31 +0800
+Reply-To: "Jason" <Sales@30600.com>
+Content-Transfer-Encoding: 8bit
+Content-Length: 717
+Lines: 31
+
+
+To cvs@bruce-guenter.dyndns.org:
+
+Email is the best promote tool.
+
+We offer Email Marketing with quality service.
+
+1. Target Email Addresses
+
+We can provide target e-mail addresses you need, which are compiled 
+only on your order. We will customize your client email addresses.
+
+* We have millions of email addresses in a wide variety of categories.
+
+2. Send out Target Emails for you
+
+We can send your email message to your target clients! We will
+customize your email addresses and send your message for you.
+
+More information: www.marketingforme.com
+
+* We also offer Web Hosting & mail server.
+
+
+Regards!
+
+Jason
+Sale Support
+Sales@marketingforme.com
+
+No Thanks: Leave@MSN.com?subject=cvs@bruce-guenter.dyndns.org

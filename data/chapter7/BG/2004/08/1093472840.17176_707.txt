@@ -1,0 +1,31 @@
+Return-Path: <virgenclough@idotriathlons.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 12318 invoked by uid 115); 23 Aug 2004 12:20:15 -0000
+Received: from virgenclough@idotriathlons.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(221.10.113.28):. 
+ Processed in 1.665771 secs); 23 Aug 2004 12:20:15 -0000
+Received: from unknown (HELO 209.5.178.248) (221.10.113.28)
+  by churchill.factcomp.com with SMTP; 23 Aug 2004 12:20:13 -0000
+X-Message-Info: 1H29Cod1GQ8mUHiraTWL466nUB298elcKOctjPDN218B44
+Received: from dns3.copper.net ([166.128.224.207]) by 566smy-j74.221.10.113.28 with Microsoft SMTPSVC(5.0.1867.8283);
+	 Mon, 23 Aug 2004 10:14:31 -0200
+Message-ID: <6991621125.85266@221.10.113.28>
+Reply-To: "Danial Hutton" <virgenclough@idotriathlons.com>
+From: "Danial Hutton" <virgenclough@idotriathlons.com>
+To: bruceg@em.ca
+Subject: how will the eur0 help you
+Date: Mon, 23 Aug 2004 15:09:31 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8916527288181294657"
+
+----8916527288181294657
+Content-Type: text/html;
+	charset="iso-8337-6"
+Content-Transfer-Encoding: 7Bit
+
+<a href="http://moaucbi.com/prime/CrispOreo/">
+<img src="http://tollingtime.info/prime/ad-euro.jpg" width="420" height="376"></a>
+</html>
+
+----8916527288181294657--

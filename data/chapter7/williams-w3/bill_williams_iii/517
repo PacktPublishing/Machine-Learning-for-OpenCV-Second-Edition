@@ -1,0 +1,40 @@
+Message-ID: <20445728.1075863307388.JavaMail.evans@thyme>
+Date: Fri, 27 Jul 2001 12:25:06 -0700 (PDT)
+From: wlmcreynolds@bpa.gov
+To: bill.williams.iii@enron.com
+Subject: FW: Summary of scheduling problems we discussed on July 27, 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: McReynolds, Warren L. - TOT <wlmcreynolds@bpa.gov>
+X-To: '"bill.williams.iii@enron.com"' <"bill.williams.iii@enron.com"@brick2.bpa.gov>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+
+
+The two dispatcher log entries show that Enron requested operating reserves
+for the same contingency the occurred about 16:18 on June 30th.  They
+continued to request reserves for several subsequent hours for the same
+contingency. Note also, that MCC was called about the first contingency at
+14:52 but no request for reserves was made.  
+
+In listening to the voice recorder:
+1.	Mark called at 16:28 and said he had been calling "Casey" at Munro
+all day with reliability problem reports and requesting operating reserves.
+Finally, he was directed to call the Dittmer generation dispatcher.  Mark
+said he had fuel problems and needed reserves.  He also wanted to know who
+to call for reporting hourly actual generation because we told him that the
+hourly reporting had stopped at 0400.  Seems they were calling Munro with
+this information also.
+2.	 Burt called at 17:32 and asked for more operating reserves for the
+same 16:18 contingency of fuel problems.  We said no.  They are allowed to
+use operating reserves only through HE17 due the time of the event being
+16:18.  They must call the TBL real-time scheduler and change transmission
+schedules.  
+Bernie (BPA) then called our RT schedulers to convey the previous events.
+RT schedulers told Bernie that the Enron schedulers hung up on them and did
+not change any of the transmission schedules when the RT schedulers refused
+to provide any more operating reserves.

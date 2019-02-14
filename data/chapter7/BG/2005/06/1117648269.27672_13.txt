@@ -1,0 +1,61 @@
+Return-Path: <gussie-janell@seeme4realestate.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 7487 invoked from network); 1 Jun 2005 03:23:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 01 Jun 2005 03:23:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Jun 2005 03:23:16 -0000
+Received: (qmail 26593 invoked from network); 1 Jun 2005 03:23:15 -0000
+Received: from 69.5.6.152 (unknown [200.174.252.2])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 01 Jun 2005 03:23:06 -0000
+Received: from annie.englade.com (61.144.98.92)
+          by 61.144.98.92 (ellsworth 0.0 6.8) with SMTP
+          id <4UKVS8B60>; Tue, 31 May 2005 22:20:06 -0600
+Message-ID: <DBZO04364_VC_537u@englade.com>
+X-Originating-IP: [61.144.98.92]
+Alternate-recipient: Allowed
+Reply-To: "seline shacklet" <kiyoharatzung@englade.com>
+From: "seline shacklet" <kiyoharatzung@englade.com>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Thank You For Applying
+Date: Tue, 31 May 2005 21:15:06 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--24132_07808199.XA119"
+Content-Length: 853
+Lines: 31
+
+----24132_07808199.XA119
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you earlier about financing your home at a lower rate.<br>
+We would like to let you know that we have gone ahead and started<br>
+the approval process.<p>
+
+Here are the results:<br>
+*Negotiable Amount: $250,000 - $500,000<br>
+*Rate: 4.87% - 5.36%<p>
+<p>
+
+Please fill out this form and a broker will contact you soon.<br>
+<a href="http://www.go-funding.com/index2.php?refid=mal">Approval Form</a><p>
+Best Regards,<p>
+
+Sara Palmer,<br>
+Account Manager<p>
+
+---------------------<p>
+
+No future contact:<br>
+<a href="http://www.go-funding.com/r.php">No Future Contact</a>
+<p>
+middleburymazanjinickinstillationcoltsfoot
+</html>
+
+----24132_07808199.XA119--

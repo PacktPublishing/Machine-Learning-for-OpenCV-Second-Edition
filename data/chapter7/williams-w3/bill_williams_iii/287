@@ -1,0 +1,49 @@
+Message-ID: <26322757.1075863301900.JavaMail.evans@thyme>
+Date: Tue, 14 Aug 2001 10:50:00 -0700 (PDT)
+From: diana.scholtes@enron.com
+To: bill.williams@enron.com
+Subject: FW: Adjust Function
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSCHOLT>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Bill,
+=20
+Not sure if this is impacting us now, but I'm sure it will in the future!  =
+Currently only the LCA has the adjust function capability, and only until 1=
+.7 implementation will the PSE's have the capability to Adjust.  Until then=
+, I believe we need the LCA's to co-operate with the PSE's, otherwise this =
+will create unwanted workload to your group and others alike. Please give m=
+e some feedback.  Not sure if you've been added to the discussion email lis=
+t. =20
+=20
+Diana
+-----Original Message-----
+From: Rice, Paul [mailto:Paul.Rice@Pacificorp.com]
+Sent: Wednesday, August 08, 2001 1:00 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: Adjust Function
+
+
+
+
+PacifiCorp Real-Time has recently been requested several times by PSE's to =
+use their "Adjust" function for changing schedules.  This has prompted them=
+ to ask for a clarification on the Adjust function "rules".  It is Real-Tim=
+es belief that the Adjust function is for Control Area use and only for Rel=
+iability/Curtailment issues.  If Merchants/PSE's want to change a schedule =
+on an existing tag it should be done through the Termination/replaced funct=
+ions at their control and not ask C/A's to use their Adjust function.  I ha=
+ve found documentation that tells who has control of the Adjust function an=
+d how it can be used but cannot find any documentation that specifically pr=
+ohibits or limits it's use to C/A and/or their curtailment issues.  Does an=
+ybody have any help here??  The main issue is, R/T does not have time to pe=
+rform adjust functions for other entities merely at their request.   We can=
+ understand doing it when the tag originator has lost control and is unable=
+ to terminate a tag but not on a routine basis.    

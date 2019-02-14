@@ -1,0 +1,38 @@
+Message-ID: <32850281.1075840834888.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 15:08:16 -0800 (PST)
+From: lloyd.will@enron.com
+To: c..koehler@enron.com
+Subject: Systems/Lists
+Cc: louise.kitchen@enron.com, m..presto@enron.com, tim.belden@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: louise.kitchen@enron.com, m..presto@enron.com, tim.belden@enron.com
+X-From: Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LWILL>
+X-To: Koehler, Anne C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Akoehle>
+X-cc: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Presto, Kevin M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpresto>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Anne
+
+We have the following items that are contained in several key directories/servers that we are assuming will be moved.  If this needs moving or changes prior to the sale then we will require a team from networks that can work with each of us to properly document and transfer these items to a clean environment.  I will follow up tomorrow with you to ensure we have met your needs.
+
+m:fundamental analysis directory
+Contains all of the fundamental analysis and application.   The fundamental analysis/databases contains documentation of all the process and applications we use.
+
+m:electric directory & power2 directories
+This directory contains the some of our trading information and regional data.  A directory under this one call swapco has been created and a all key apps used by traders that were on their hard drives and home directories have been moved here.
+This directory also hosts the traders models, position managers, one off spreadsheets and custom databases.
+
+Calgary Power, East Power Fundamentals and West Power Fundamentals
+These server/servers host and contains all of our fundamental material and applications.
+
+m:eprojects
+Contains documentation on the core enpower, scheduling, settlement and trading systems.
+
+m:eservices
+Contains all details of our services agreements.
+
+Please provide additional direction if we need a plan for the network and infrastructure requirements for the east, west and Canada operations.

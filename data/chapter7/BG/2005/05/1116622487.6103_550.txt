@@ -1,0 +1,23 @@
+Return-Path: <jb@erix.ericsson.se>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16386 invoked by uid 115); 20 May 2005 20:07:32 -0000
+Received: from jb@erix.ericsson.se by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(67.32.153.3):. 
+ Processed in 0.096135 secs); 20 May 2005 20:07:32 -0000
+Received: from adsl-067-032-153-003.sip.bhm.bellsouth.net (HELO kiqpblxb.se) (67.32.153.3)
+  by churchill.factcomp.com with SMTP; 20 May 2005 20:07:31 -0000
+From: jb@erix.ericsson.se
+To: bruceg@em.ca
+Date: Fri, 20 May 2005 20:23:29 UTC
+Subject: Armenian Genocide Plagues Ankara 90 Years On
+Importance: Normal
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+Message-ID: <eef4.aac1dc0beafae@erix.ericsson.se>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+Content-Length: 82
+
+Full Article:
+http://service.spiegel.de/cache/international/0,1518,353274,00.html

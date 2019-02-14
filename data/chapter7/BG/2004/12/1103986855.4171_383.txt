@@ -1,0 +1,74 @@
+Return-Path: <illustrativelylhaa@anthonygroup.net>
+Received: (fqmail 32353 invoked from network); 25 Dec 2004 05:45:42 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 25 Dec 2004 05:45:42 -0000
+Received: (qmail 29487 invoked from network); 25 Dec 2004 05:45:42 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by mx07.futurequest.net ([69.5.6.180]); 25 Dec 2004 05:45:42 -0000
+Received: from 221.148.203.198 ([221.148.203.198])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 25 Dec 2004 05:45:42 -0000
+From: =?utf-8?q?Tilly Bllcab?= <illustrativelylhaa@anthonygroup.net>
+To: =?utf-8?q?Tessa Agon?= <webmaster@ezmlm.org>
+Subject: =?utf-8?q?furtherance propose?=
+Date: Sat, 25 Dec 2004 08:47:36 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	 boundary="4EXBzJCCkdsOwbVHMI"
+
+This is a multi-part message in MIME format.
+
+--4EXBzJCCkdsOwbVHMI
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir/Madam,
+
+We are glad to offer you a broad range of databases:
+both general and targeted (by country, city or state,
+by topic or by audience).  
+
+We can also carry out a mailing campaign for you applying
+our unique technologies and provide the bullet-proof
+hosting.
+
+The constant of our service demand allows us to keep
+low prices.
+ 
+http://www.%65%6dailprom%6f.biz/eng/cont.html
+
+Please, feel free to contact us anytime!
+--4EXBzJCCkdsOwbVHMI
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<STYLE></STYLE>
+</HEAD>
+<HTML>
+<BODY>
+<P>Dear Sir/Madam,</P>
+<P>We are glad to offer you a broad range of dat<!IRTMPTM>abas<!S=
+ge>es:<BR>both general and 
+targeted (by country, city or state,<BR>by topic or by audience).=
+&nbsp; </P>
+<P>We can also carry out a ma<!XIVT>ilin<!OZZON>g c<!EMYILRD>ampa=
+i<!ODCDUC>gn for you applying<BR>our unique 
+technologies and provide the b<!CKGPW>ul<!UPILOID>let-pr<!TSPOUAW=
+>oof<BR>hosting.</P>
+<P>The constant of our service demand allows us to keep<BR>low 
+prices.<BR>&nbsp;<BR>
+<A href=3D"http://%77%77w.em%61%69%6cpr%6f%6d%6f.%62iz/eng/cont.h=
+tml">
+C<!XEDA>lick He<!OWFC>re To C<!RLPK>ontac<!SL>t Us (U<!KSHEKE>SE =
+ONL<!ARIBEX>Y T<!MPBN>HI<!BOS>S)</A></P>
+<P>Please, feel free to contact us anytime!</P>
+</BODY>
+</HTML></HTML>
+--4EXBzJCCkdsOwbVHMI--
+

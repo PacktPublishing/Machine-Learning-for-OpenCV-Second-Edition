@@ -1,0 +1,37 @@
+Message-ID: <16557463.1075854174971.JavaMail.evans@thyme>
+Date: Thu, 27 Apr 2000 10:37:00 -0700 (PDT)
+From: hunaid.engineer@enron.com
+To: george.smith@enron.com, tricia.bowen@enron.com, randall.gay@enron.com, 
+	daren.farmer@enron.com, robert.superty@enron.com
+Subject: CPR Pipeline Exchange Activity Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hunaid Engineer
+X-To: George Smith, Tricia Bowen, Randall L Gay, Daren J Farmer, Robert Superty
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+We have placed the CPR Pipeline Exchange Activity Report into the Sitara 
+Production Reporting.   Please let me know if
+you have any questions.   This report gves you the volume activity of a given 
+business unit , on all or selectied pipes,  for 
+given flow dates.   Please rememeber that this report is originating from the 
+SITARA database.
+
+You all have access to run reports in SITARA.   You can run reports by 
+clicking the last icon (blue one) from the Sitara launchpad.
+You may have to logout of SITARA to compeletely to see the icon.  
+
+*  Once you are able to access the WEB site from the ICON,  click on Reports.
+*  Login using your SITARA login and password. 
+*  Select the Specialized/Exceptions Category from the drop down menu.
+*  Run the CPR Pipeline Exchange Activity Report.  You will have to select a 
+business unit, flow date and optionally pipe.
+
+If you have any problems running this report, let me know at x37913.
+
+Thanks,
+Hunaid

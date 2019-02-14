@@ -1,0 +1,56 @@
+Message-ID: <21648882.1075839945264.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 19:41:31 -0700 (PDT)
+From: ctilghman@tucsonelectric.com
+To: robert'.'harshbarger@enron.com, jerry'.'dempsey@enron.com, 
+	mons.ellingson@enron.com, demetrios.fotiou@enron.com, 
+	lisa.grow@enron.com, susan.holden-baker@enron.com, 
+	chris.smith@enron.com, john.underwood@enron.com, 
+	bill.williams@enron.com
+Subject: RE: Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Tilghman, Carmine" <CTilghman@TucsonElectric.com>@ENRON <IMCEANOTES-+22Tilghman+2C+20Carmine+22+20+3CCTilghman+40TucsonElectric+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, 'DEMPSEY, JERRY' <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bob,
+Sorry for the late response, I've been gone the last 10 days. I will not be
+able to make the meeting on June 27. I do like Jack Dempsey's proposal. I'm
+not sure I completely understand Mons' reasoning, but I believe the PSE
+submission deadline should be left at 30 minutes for the following 2
+reasons:
+
+1. 3A1 is very explicit in its definition of transaction start time and
+excluding the ramp time. If we change it to read "20 minutes prior
+    to start" that would allow a tag to be submitted at 40 after.
+
+2. If the 20 minutes verbage is to be used, then the the remaining verbage
+defining transaction start time as excluding ramp time will
+    need to be removed.
+
+It was my understanding that both proposals intended to leave the real-time
+deadline at :30 after.
+
+However, I still have the same questions as a few weeks ago with respect to
+the new BP's being put forth by the ESC/ESTF. Are we going to take into
+account the BP's that the ECS/ESTF have put out/being commented on? The
+schedule process BP has several ramping/timing changes, as well as frag
+tags. They aren't asking whether or not we should adopt Eastern Connection
+timelines, they're just doing it.
+
+Personally, I don't think the majority of the WSCC's units can handle a 10
+minute ramp, and the idea of finishing the ramp on the quarter is a prelude
+to a perpetual time error correction and excessive inadvertent accounts.
+However, that is being proposed.
+
+I would appreciate someone else's opinion on where the proposed BP's fit in
+with our goal.
+
+Carmine Tilghman
+Tucson Electric Power
+Wholesale Marketing
+(520) 745-7108

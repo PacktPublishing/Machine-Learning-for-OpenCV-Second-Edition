@@ -1,0 +1,77 @@
+Message-ID: <8674312.1075857043515.JavaMail.evans@thyme>
+Date: Mon, 6 Mar 2000 05:22:00 -0800 (PST)
+From: ravi.thuraisingham@enron.com
+To: stinson.gibner@enron.com
+Subject: Re: Network planning
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Ravi Thuraisingham
+X-To: Stinson Gibner
+X-cc: Vince Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson, I had a discussion with Jim and he said that the company's name is 
+Mill three. They provide modeling tools for Tiered QoS and the like for 
+network planning.  He said that the code is written in C and that we should 
+be able to work with it. He will get us the contact name and we can get a 
+presentation for us.  Jim said that he arranged for this before he met me and 
+learned of our (EBS Research) role in this matter. I made it clear to Jim 
+that John Griebling had asked us to set up this group to do modeling and that 
+we are in the process of arranging for 4 OR modeling experts to reside in 
+Houston. From now on Jim and I will work hand and hand on such issues along 
+with you to make sure that we initiate development efforts as soon as 
+possible to utilize Krishna, Samer and Co. asap...
+
+I'll take care of arranging a meeting with these consultatants ASAP.
+
+My involvement in Hamachi is through Jim Irvine. Jim and I are working very 
+well together due to our engineering background. Jim has been a network 
+(communications) engineer in the army for about 20 years.  For Hamachi, there 
+were gap analysis that needed to be done w.r.t. network reach and when and 
+where the network will be available (EBS' and Hamachi's). Additionally, we 
+would look at when Tom Gros wanted pooling points up and running, we would 
+then look at Hamachi's pooling point sites and come up with requests to 
+change dates or third party involvements.
+
+For the most part, our efforts has been to interview Hamachi network 
+developers about their plans and put the data together in a manner that we 
+can summarize for John. Additionally, we've had two meetings with Sycamore 
+(they have offices in Denver) on their products and Brett gave a presentation 
+on his effort to Jim, etc.... More details later when we meet.
+
+Ravi.
+
+
+
+
+
+	Stinson Gibner@ECT
+	03/02/00 08:52 AM
+		
+		 To: Ravi Thuraisingham/Enron Communications@ENRON COMMUNICATIONS@ENRON
+		 cc: 
+		 Subject: Network planning
+Ravi:
+
+I was told by John Bloomer that there is a group of consultants in the 
+Portland office from a company called (I think)  M3i.   They are doing 
+network consumption and operations modelling.    Jim Irvine or Shawna Meyer 
+were given as Enron contacts on this project.   We need to find out what 
+exactly this group is doing and see if we should get Samer and either you or 
+me to go, find out the details, and get a brain dump of what they have 
+accomplished to see if it can be used in our modelling efforts.
+
+Can you find out what Jim knows about this project and get back to me?
+
+thanks,
+
+--Stinson
+
+PS   How is hamachi going, and what has been your role there?
+
+

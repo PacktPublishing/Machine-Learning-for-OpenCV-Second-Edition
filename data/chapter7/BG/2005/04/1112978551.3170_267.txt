@@ -1,0 +1,89 @@
+Return-Path: <allton@3-cities.com>
+Delivered-To: em-ca-bait-doubters@em.ca
+Received: (qmail 2167 invoked by uid 115); 30 Mar 2005 17:52:09 -0000
+Received: from allton@3-cities.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.228.96.89):. 
+ Processed in 0.265406 secs); 30 Mar 2005 17:52:09 -0000
+Received: from 200-228-96-89.papalegua.com.br (HELO ?200.228.96.89?) (200.228.96.89)
+  by churchill.factcomp.com with SMTP; 30 Mar 2005 17:52:07 -0000
+Received: from 127.0.0.1 (AVG SMTP 7.0.300 [266.0.0]); Wed, 30 Mar 2005 11:16:18 -0300
+Message-ID: <353b01c53533$a58d97f0$96165702@3-cities.com>
+From: Aikin <allton@3-cities.com>
+To: bait-doubters@em.ca
+Subject: Direct selling
+Date: Wed, 30 Mar 2005 14:20:22 +0000
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=======AVGMAIL-424AB4DC1ACB======="
+Content-Length: 2432
+Lines: 65
+
+--=======AVGMAIL-424AB4DC1ACB=======
+Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_000_0000_7EAD6315.B8CBD087"
+
+------=_NextPart_000_0000_7EAD6315.B8CBD087
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0001_CEAAC4C0.A9330039"
+
+------=_NextPart_001_0001_CEAAC4C0.A9330039
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+Hallo!
+
+230
+ 
+So long
+
+
+------=_NextPart_001_0001_CEAAC4C0.A9330039
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1251">
+<META content="MSHTML 6.00.2600.0" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV><FONT face=Arial size=2>&nbsp; Have a nice day 
+Annal!</FONT></DIV>
+<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>
+<DIV><FONT face=Arial size=2>Are you looking for powerfull software 
+package but the prices have prevented you from 
+purchasing?</FONT></DIV>
+<DIV><FONT face=Arial size=2>We'll help you! 
+<BR>You save up to 80%&nbsp;with 
+us!</FONT></DIV>
+<DIV><FONT face=Arial size=2><BR><EM><U>We offer:</U></EM></FONT></DIV>
+<UL>
+  <LI><EM><FONT face=Arial size=2>Office software</FONT> </EM>
+  <LI><EM><FONT face=Arial size=2>Operating systems</FONT> </EM>  
+  <LI><EM><FONT face=Arial size=2>Anti-virus and security</FONT> </EM>  
+  <LI><EM><FONT face=Arial size=2>Graphics software</FONT> </EM>  
+  <LI><EM><FONT face=Arial size=2>Server software</FONT> </EM>  
+  <LI><EM><FONT face=Arial size=2>Finance</FONT> </EM>  
+  <LI><EM><FONT face=Arial size=2>Programming</FONT> 
+  </EM>  <LI><FONT face=Arial size=2><EM>PC diagnostics</EM></FONT></LI></UL>
+<DIV><FONT face=Arial size=2><A 
+href="http://rylmx.supercdonline.us/uk/hbkqs.htm">More info about this...</A></FONT></DIV>
+<DIV><FONT face=Arial size=2>Au revoir!</FONT></DIV></BODY></HTML>
+
+
+
+------=_NextPart_001_0001_CEAAC4C0.A9330039--
+------=_NextPart_000_0000_7EAD6315.B8CBD087--
+--=======AVGMAIL-424AB4DC1ACB=======
+Content-Type: text/plain; x-avg=cert; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Content-Description: "AVG certification"
+
+Internal Virus Database is out-of-date.
+Checked by AVG Anti-Virus.
+Version: 7.0.300 / Virus Database: 266.0.0 - Release Date: 18/2/2005
+
+--=======AVGMAIL-424AB4DC1ACB=======--

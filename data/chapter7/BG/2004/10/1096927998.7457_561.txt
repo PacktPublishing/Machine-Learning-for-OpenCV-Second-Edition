@@ -1,0 +1,47 @@
+Return-Path: <carlene.mcManus_wv@osn.de>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13889 invoked by uid 115); 2 Oct 2004 13:45:39 -0000
+Received: from carlene.mcManus_wv@osn.de by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(68.123.234.190):. 
+ Processed in 0.140457 secs); 02 Oct 2004 13:45:39 -0000
+Received: from adsl-68-123-234-190.dsl.irvnca.pacbell.net (HELO online.nsk.su) (68.123.234.190)
+  by churchill.factcomp.com with SMTP; 2 Oct 2004 13:45:39 -0000
+From: "Carlene McManus" <carlene.mcManus_wv@osn.de>
+MIME-Version: 1.0
+To: bruceg@em.ca
+Date: Sat, 02 Oct 2004 13:43:07 +0000
+Message-ID: <BNHOMKMLJDIMAFEKFLKHDCIMHFAA.carlene.mcManus_wv@osn.de>
+Subject: =?iso-8859-1?B?QmVoaW5kIG9uIHBheW1lbnRzLCBObyBuZWVkIHRvIHdvcnJ5?=
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+<div align="center">
+  <center><!--jbexhXvHwOoz9Jd-->
+    <table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="256">
+        <a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+	<img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c1.gif" width="256" height="82" border="0"></a></td>
+        <td width="125"><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c2.gif" width="166" height="82" border="0"></a></td>
+        <td width="219" rowspan="2"><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c3.gif" width="178" height="283" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c1.gif" width="256" height="201" border="0"></a></td>
+        <td><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c2.gif" width="166" height="201" border="0"></a></td>
+      </tr>
+      <tr bgcolor="#990000">
+        <td colspan="3"></td>
+      </tr>
+    </table>
+</body>
+</html>
+

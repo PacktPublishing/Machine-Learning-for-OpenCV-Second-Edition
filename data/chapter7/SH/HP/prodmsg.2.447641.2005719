@@ -1,0 +1,79 @@
+Received: from alamailout.com (HELO OUTBOUNDMAIL02.alamode.com) (66.210.173.156)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:13:41 -0000
+Received: from OUTBOUNDMAIL02.alamode.com by OUTBOUNDMAIL02.alamode-mailhandler.com at Tue, 19 Jul 2005 06:13:36 -0500
+From: "postmaster@alamode-mailhandler.com" <postmaster@alamode-mailhandler.com>
+To: "projecthoneypot@projecthoneypot.org" <projecthoneypot@projecthoneypot.org>
+Subject: Failed mail
+Date: Tue, 19 Jul 2005 06:13:36 -0500
+Message-Id: <11133630122548@OUTBOUNDMAIL02.alamode-mailhandler.com>
+X-Mailer: Gordano Messaging Suite v9.01.3158
+Reply-To: <>
+X-Failed-Delivery: younghly@bellsouth.net
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="==_11133630122550@OUTBOUNDMAIL02.alamode-mailhandler.com==_"
+
+This is a MIME-encapsulated message
+
+--==_11133630122550@OUTBOUNDMAIL02.alamode-mailhandler.com==_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Your message to mx00.mail.bellsouth.net was rejected.
+I said:
+    RCPT To:<younghly@bellsouth.net>
+And mx00.mail.bellsouth.net [205.152.59.32] responded with
+    550 Invalid recipient: <younghly@bellsouth.net>
+
+
+--==_11133630122550@OUTBOUNDMAIL02.alamode-mailhandler.com==_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+The message headers and first 50 body lines follow:
+
+
+--==_11133630122550@OUTBOUNDMAIL02.alamode-mailhandler.com==_
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Received: from [10.10.3.146] by OUTBOUNDMAIL02.alamailout.com (GMS 9.01.3158/SQ4033.08.09d0d535) with ESMTP id ximyymaa for younghly@bellsouth.net; Tue, 19 Jul 2005 05:57:40 -0500
+Received: from mailwisconsin.com ([220.79.207.210])
+        by mail.certmail.com (CertMail by a la mode, inc.) with SMTP id JGF74626
+        for <info@albanyhomeinspections.com>; Tue, 19 Jul 2005 05:57:30 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815897;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@albanyhomeinspections.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Spam-Flag: YES
+X-Spam-Status: Yes, hits=11.97 required=4.00 tests=MIME_HTML_ONLY,HTML_MESSAGE,HTML_TAG_EXISTS_TBODY,URIBL_SURBL,DISGUISE_VIAGRA,NO_RDNS2,DRUGS_ERECTILE
+	version=3.0
+X-Spam-Level: ***********
+X-Spam-Checker-Version: SpamAssassin 3.0 (1.3) on mail.certmail.com
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279210">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--==_11133630122550@OUTBOUNDMAIL02.alamode-mailhandler.com==_--
+

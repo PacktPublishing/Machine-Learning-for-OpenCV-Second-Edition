@@ -1,0 +1,119 @@
+Message-ID: <23189960.1075863313829.JavaMail.evans@thyme>
+Date: Mon, 2 Jul 2001 16:49:19 -0700 (PDT)
+From: bharsh@puget.com
+To: jerry.dempsey@enron.com, mons.ellingson@enron.com, 
+	demetrios.fotiou@enron.com, lisa.grow@enron.com, 
+	susan.holden-baker@enron.com, chris.smith@enron.com, 
+	carmine.tilghman@enron.com, john.underwood@enron.com, 
+	bill.williams@enron.com
+Subject: draft e-mail for ad hoc team's recommendations
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: DEMPSEY, JERRY <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Hey, I'm no angel or English major.  Please review the attached draft email
+and comment.  It will serve as the cover to Hackney with our recommended
+time table.
+
+ <<Ad Hoc Timeline Review Team >>
+
+Thanks,
+
+Bob
+
+Message-ID: <C7A66C6BE090D411A4C900805FF590972F3E3A@sesoexc4.puget.com>
+To: "Hackney, Mark" <mhackney@apsc.com>
+Cc: ISAS Timeline Review <IMCEAEX-@exch.puget.com>
+Subject: Ad Hoc Timeline Review Team
+Date: Mon, 2 Jul 2001 16:46:31 -0700
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Content-Type: text/plain;	charset="iso-8859-1"
+
+Mark -
+
+The ad hoc team's product is attached.  It is a suggested revision to the
+NERC A3A1 time table for the WSCC.  Some basic points are:
+
+*	Elimination of manually setting the WSCC pre-schedule flag.  The
+table provides rules for e-tag software to automatically set the flag.
+
+*	The majority of our efforts were focussed on creating an incentive
+mechanism to encourage timely tag submission and assessment.  The team
+agreed that the best incentive mechanism would be a financial one (i.e.,
+tags submitted close to the deadline would pay a high submittal fee - tags
+submitted early in the hour would pay little or no submittal fee - approval
+entities would receive compensation for assessing/approving late tags,
+etc.).  But, a financial mechanism would likely have to go through a
+cumbersome review/approval process which would be too inflexible for the
+fast paced world of E-Tag and NERC's electronic scheduling.  So, the
+suggested incentive process increases the risk of a tag not being approved
+the closer the submittal time is to the start time.  To do this, we
+considered three parameters - the assessment window, deferred denial, and
+the default composite status.
+
+	*	The assessment window is a period time that the E-Tag
+Authority Service gives the Approval Services to assess a submitted tag.
+Each Approval Service is to check the tag for various things and respond
+with a approved or denied vote back to Authority service who then set the
+final composite status.
+
+	*	Deferred denial is when a entity denies a tag, the composite
+status does not immediately become Denied, but instead waits until the end
+of the assessment window to set the composite status.  This allows the
+denying approval entity time to reconsider their vote and change it, if
+appropriate.
+
+	*	The default composite status is a final stated reached at
+the end of the assessment window when one or more approval entities fails to
+actively approve or deny a tag.  Currently, tags submitted before a certain
+deadline will have their final composite status default to Approved.  Tags
+submitted after a certain deadline will have their final composite status
+default to Denied.
+
+	For real-time tagging, we cite the hour-ahead business where
+Purchasing-selling entities trade products for delivery in the next hour.
+
+	*	Tags submitted in the first half of the hour-ahead, referred
+to 0 to 30 past, will have a 10 minute assessment window, are subjected to
+deferred denial, and will default to Approved/Conditional.
+
+	*	Tags submitted from 30 to 40 past, will have a 10 minute
+assessment window, are not subjected to deferred denial (can be called
+instant denial), and but will still default to Approved/Conditional.
+
+	*	Tags submitted in the after 40 past, will have a 5 minute
+assessment window, are not subjected to deferred denial (can be called
+instant denial), and will default to Denied (thus assigned a composite
+status of Late).
+
+*	The table references specific times in the submittal and assessment
+process which should all reference a consistant time zone standard.  The
+team was divided on the best approach.  Some suggested all times on the
+table be the prevailing time for the LCA.  This would require each CA to
+include in the e-tag registry their time zone.  Some suggested  all times on
+the table be in Pacific Prevailing Time.  And some suggested that all times
+on the table be in Pacific Standard Time.  The conclusion is that a white
+paper would be produced prior to the July ISAS meeting discussing the pros
+and cons of each suggestion.
+
+*	The group does not recommend basing submittal time on the tag
+agent's time clock - it should stay with the authority service.
+
+*	Here's a big one - because the timing table allows for later
+submittal times, the tag assessment process is encroaching on the start of
+the WSCC standard ramp (i.e., currently starts at 10 minutes before the
+hour).  We are recommending that ISAS request the OC to study the
+feasibility of moving the WSCC standard ramp from a twenty minute duration
+straddling the hour to 10 minute duration stranddling the hour (i.e., starts
+at 0:55 and ends at 0:05).  Such a change would aglign the WSCC with the
+Eastern Interconnection and relieve some of the issues surrounding late tag
+submittals.
+
+I

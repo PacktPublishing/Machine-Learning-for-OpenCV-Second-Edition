@@ -1,0 +1,82 @@
+Return-Path: <>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 7352 invoked by uid 115); 19 Sep 2004 18:13:35 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(65.54.165.18):. 
+ Processed in 0.051116 secs); 19 Sep 2004 18:13:35 -0000
+Received: from mc9-s9.bay6.hotmail.com (HELO mc9-s9.hotmail.com) (65.54.165.18)
+  by churchill.factcomp.com with SMTP; 19 Sep 2004 18:13:35 -0000
+From: postmaster@mail.hotmail.com
+To: bait@em.ca
+Date: Sun, 19 Sep 2004 11:11:24 -0700
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C49DBBF75E37EE00025917mc9?s9.hotmail.c"
+Message-ID: <RURqYYrX0000063ab@mc9-s9.hotmail.com>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C49DBBF75E37EE00025917mc9?s9.hotmail.c
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       jalbertoh@hotmail.com
+
+
+
+
+--9B095B5ADSN=_01C49DBBF75E37EE00025917mc9?s9.hotmail.c
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;mc9-s9.hotmail.com
+Received-From-MTA: dns;mc9-f21.hotmail.com
+Arrival-Date: Sun, 19 Sep 2004 11:11:16 -0700
+
+Original-Recipient: 
+Final-Recipient: rfc822;jalbertoh@hotmail.com
+Action: failed
+Status: 5.2.3
+Diagnostic-Code: smtp;552 5.2.3 This message is larger than the current system limit or the recipient's mailbox is full. Create a shorter message body or remove attachments and try sending it again.
+
+
+--9B095B5ADSN=_01C49DBBF75E37EE00025917mc9?s9.hotmail.c
+Content-Type: message/rfc822
+
+Received: from mc9-f21.hotmail.com ([65.54.166.28]) by mc9-s9.hotmail.com with Microsoft SMTPSVC(5.0.2195.6824);
+	 Sun, 19 Sep 2004 11:11:16 -0700
+Received: from ACB385A5.ipt.aol.com ([172.179.133.165]) by mc9-f21.hotmail.com with Microsoft SMTPSVC(5.0.2195.6824);
+	 Sun, 19 Sep 2004 11:11:15 -0700
+From: <Ideas>
+From: <bill.treurniet@crc.ca>
+Reply-To: <bgalipeau@sprint.ca>
+To: daganna@hotmail.com
+Subject: Thi:ck-N-Ha:RD
+Date: Sun, 19 Sep 2004 11:06:19 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0582852439250014"
+Return-Path: bait@em.ca
+Message-ID: <MC9-F21Hdei8MwrmOwe0005b2c4@mc9-f21.hotmail.com>
+X-OriginalArrivalTime: 19 Sep 2004 18:11:16.0557 (UTC) FILETIME=[0E3E37D0:01C49E74]
+
+----0582852439250014
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+She'll Luv it
+
+
+http://clearheadedsexual.dothema%78%78foryou.com:23535/?tsunami.punditry@hotmail.com
+
+
+end ads next page
+residuary never snorkel thesis anastasia surrogate filial involution suburbia apparel flagellate wherefore poetry limpkin hadamard veneto autoclave contradistinction floppy 
+
+
+
+--9B095B5ADSN=_01C49DBBF75E37EE00025917mc9?s9.hotmail.c--

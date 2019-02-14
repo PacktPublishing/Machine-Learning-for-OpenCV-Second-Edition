@@ -1,0 +1,109 @@
+Return-Path: <shamuchia@usermail.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 19277 invoked from network); 23 Nov 2004 22:28:05 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 23 Nov 2004 22:28:05 -0000
+Received: (qmail 31066 invoked from network); 23 Nov 2004 22:28:05 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx07.futurequest.net ([69.5.6.178])
+  with QMQP via TCP; 23 Nov 2004 22:28:05 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 19094 invoked from network); 23 Nov 2004 22:28:04 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 23 Nov 2004 22:28:04 -0000
+Received: (qmail 1699 invoked from network); 23 Nov 2004 22:28:04 -0000
+Received: from gavin (bb220-255-55-246.singnet.com.sg [220.255.55.246])
+  by mx05.futurequest.net ([69.5.6.176])
+  with ESMTP via TCP; 23 Nov 2004 22:28:03 -0000
+Message-ID: <26mg6pnn4mtr84atvxlt@chckh77l1w>
+From: "Shamu" <shamuchia@usermail.com>
+To: "webmaster@ezmlm.org" <webmaster@ezmlm.org>
+Subject: Nice to meet you
+Reply-to: <shamuchia@usermail.com>
+Date: Wed, 24 Nov 2004 06:28:03 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Content-Length: 1065
+
+<!--
+
+This plain text message area is for recipients who have email programs that=
+ do not support html emails (almost every modern email client software progra=
+m can accept html emails). If you want to add an alternate plain text messag=
+e for those who cannot receive html emails, enter it here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//-->
+<HTML>
+<HEAD>
+<META NAME=3D"GENERATOR" Content=3D"Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P>Hi,</P>
+<P>Nice to meet you.&nbsp; I hope to become friends with you.&nbsp; You can=
+ see=20
+my photo <BR>(and give me a rating) at <BR><A=20
+href=3D"http://www.sambalhot.com/rateUser.asp?index=3D175">http://www.samba=
+lhot.com/rateUser.asp?index=3D175</A><BR>If=20
+you are using hotmail, please cut and paste the link to see my profile.</P>
+<P>If I am not your type, you can also rate and contact other people on the=20
+<BR>site.&nbsp; You can also upload your own photo and find out if others t=
+hink=20
+you <BR>are attractive/cute etc.</P>
+<P>Cheers,<BR>Shamu<BR></P>
+</BODY>
+</HTML>

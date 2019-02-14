@@ -1,0 +1,63 @@
+Return-Path: <nofrom@email>
+Delivered-To: info@bruce-guenter.dyndns.org
+Received: (qmail 31488 invoked from network); 9 Jun 2005 15:48:35 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 09 Jun 2005 15:48:35 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Jun 2005 15:48:35 -0000
+Received: (qmail 9351 invoked from network); 9 Jun 2005 15:48:35 -0000
+Received: from lh (unknown [219.134.175.117])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 09 Jun 2005 15:48:28 -0000
+From: " Jolly" <>
+To: info@bruce-guenter.dyndns.org
+Subject: Fw: FYI
+Date: Thu, 09 Jun 2005 20:36:44 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0000_"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Length: 1893
+Lines: 40
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+THIS WILL BE OUR CLOSING ANNOUNCEMENT
+We have sought to make contact with you on many possibilities and now is the time to respond!
+
+Your exisiting home loan meets the requirements for you for up to a 3.70% lower rate.
+
+However, based on the fact that our previous attempts to make contact with you did not succeed,
+this will be our final try to finalize  in the lower rate.
+
+Please finalize your final step upon receiving this notice immediately,and complete your claim  now.
+
+
+Finish Here.
+
+If your decision is not to make use of this final offer going here will help you to do so.
+
+------=_NextPart_000_0000_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<HTML>
+<BODY bgColor=#ffffff>
+<FONT face=Verdana size=2>THIS WILL BE OUR CLOSING ANNOUNCEMENT<P>
+We have sought to make contact with you on many possibilities and now is the time to respond!<P>
+Your exisiting home loan meets the requirements for you for up to a 3.70% lower rate.<P>
+However, based on the fact that our previous attempts to make contact with 
+you did not succeed,<BR>this will be our final try to finalize  the lower rate.<P>
+Please finalize this final step upon receiving 
+this notice immediately,and complete your claim  now.<P><P>
+
+<A HREF="http://rds.yahoo.com/S=2847297/K=computer/v=2/SID=/l=WS1/R=1/SS=83598977/IPC=us/SHE=0/H=0/SIG=01700K727/EXP=045915452/*-http://google.com.cr3am.net/home.asp">Finish Here.</A><P>
+
+If your decision is not to make use of this final offer going <A HREF="http://rds.yahoo.com/S=5113294/K=computer/v=5/SID=/l=WS1/R=1/SS=09072150/IPC=us/SHE=0/H=0/SIG=29065BI625/EXP=745525680/*-http://google.com.cr3am.net/del.asp"> here</A> will help you to do so.</FONT></BODY></HTML>
+
+------=_NextPart_000_0000_--

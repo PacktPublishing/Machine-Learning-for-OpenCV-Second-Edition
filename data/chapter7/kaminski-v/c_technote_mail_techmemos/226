@@ -1,0 +1,36 @@
+Message-ID: <30180457.1075857035706.JavaMail.evans@thyme>
+Date: Fri, 19 May 2000 06:27:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	pinnamaneni.krishnarao@enron.com, vasant.shanbhogue@enron.com, 
+	mike.roberts@enron.com, joseph.hrgovcic@enron.com, 
+	kevin.moore@enron.com, grant.masson@enron.com, 
+	tanya.tamarchenko@enron.com, zimin.lu@enron.com, 
+	anjam.ahmad@enron.com, vincent.tang@enron.com, 
+	alexios.kollaros@enron.com, rodney.keys@enron.com, 
+	maureen.raymond@enron.com, martin.lin@enron.com, 
+	benjamin.parsons@enron.com, osman.sezgen@enron.com, 
+	paulo.issler@enron.com, steven.leppard@enron.com, 
+	bryan.seyfried@enron.com, patricia.tlapek@enron.com, 
+	farouk.lalji@enron.com, amitava.dhar@enron.com, alex.huang@enron.com, 
+	ronnie.chahal@enron.com, kevin.kindall@enron.com, 
+	clayton.vernon@enron.com, demonica.lipscomb@enron.com, 
+	william.smith@enron.com, leandro.ibasco@enron.com, 
+	jose.marquez@enron.com, samer.takriti@enron.com, 
+	chonawee.supatgiat@enron.com, shalesh.ganjoo@enron.com, 
+	guadalupe.margain@enron.com, tom.halliburton@enron.com, 
+	kirstee.hewitt@enron.com, matthew.williams@enron.com, 
+	elena.chilkina@enron.com
+Subject: ps on the new XMIM tool for EXCEL
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clayton Vernon
+X-To: Michael Schilmoeller@CCMAIL, Vince J Kaminski, Stinson Gibner, Pinnamaneni Krishnarao, Vasant Shanbhogue, Mike A Roberts, Joseph Hrgovcic, Kevin G Moore, Grant Masson, Tanya Tamarchenko, Zimin Lu, Anjam Ahmad, Vincent Tang, Alexios Kollaros, Rodney Keys, Maureen Raymond, Martin Lin, Benjamin Parsons, Osman Sezgen, Paulo Issler, Steven Leppard, Bryan Seyfried, Patricia Tlapek, Farouk Lalji, Amitava Dhar, Alex Huang, Ronnie Chahal, Kevin Kindall, Clayton Vernon, DeMonica Lipscomb, William Smith, Leandro Ibasco, Jose Marquez, Samer Takriti, Chonawee Supatgiat, Shalesh Ganjoo, Guadalupe Margain, Tom Halliburton, Kirstee Hewitt, Matthew D Williams, Elena Chilkina
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+When you install this, you need to change the xmim server from "xmimhost" to 
+"limbo" (port is still 0)

@@ -1,0 +1,52 @@
+Message-ID: <16281358.1075840894522.JavaMail.evans@thyme>
+Date: Thu, 27 Sep 2001 16:02:28 -0700 (PDT)
+From: frank.hayden@enron.com
+To: john.lavorato@enron.com, louise.kitchen@enron.com
+Subject: 
+Cc: tim.belden@enron.com, m..presto@enron.com, j.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: tim.belden@enron.com, m..presto@enron.com, j.kaminski@enron.com
+X-From: Hayden, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FHAYDEN>
+X-To: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Presto, Kevin M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpresto>, Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+I finally was able to implement the new factors for power, now know as Project X.  If you have time, I would like to give you a down load on the work involved the last few months cleaning things up.  Overall VAR is reduced.  I've included some highlights below.
+
+?	Changed correlation measure to fixed contract instead of using prompt price history
+?	Extended factors out past prompt month to 24 months (power only), (previously was for prompt month only) 
+o	Repeating last 12 months (seasonality) for 120 months, and scaled by ff vol
+?	Updated jumps from 1998 (impacts intra month books)
+o	Introduced regionally correlated jumps
+?	Mapped F curves to appropriate R and B curves 
+?	Captured gas leg in spread option 
+?	Captured gas leg in heat rate swaps 
+?	Corrected incorrect curve codes and data input relating to risk type 
+
+(as of Sept 24)
+Trader			Old VAR		New VAR
+Dana Davis		2.9			1.8
+East VAR		15.3			13.2
+West VAR		14			10.4
+Canada			14.3			11.4	
+Power total		35			30.8
+
+Additionally, items on our to do list for the future include:
+1.	Smoothing of FFvol curve 
+2.	Introducing more factors to model (40). (Improving correlations and decreasing VAR instability)  
+
+As an aside, we are looking at trying to introduce a fast Fourier transformation to improve VAR modeling, allowing us to increase number and accuracy of simulations.
+
+In closing, this project could not have been completed without the help of the Stephen Stock's IT team, the power traders, Tanya Tamarchenko, Jaesoo Lew, Stacey White, Casey Evans, Naveen Andrews, Michael Presley and Donnie Vinson.
+
+I appreciate your patience, I realize it has been a long haul.
+
+Thanks,
+
+Frank
+
+	

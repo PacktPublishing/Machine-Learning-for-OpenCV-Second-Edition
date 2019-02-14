@@ -1,0 +1,35 @@
+Return-Path: <rdbeesyc@cookieo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 31707 invoked by uid 115); 29 Dec 2004 01:28:42 -0000
+Received: from rdbeesyc@cookieo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(65.9.154.159):. 
+ Processed in 0.125057 secs); 29 Dec 2004 01:28:42 -0000
+Received: from adsl-9-154-159.mia.bellsouth.net (65.9.154.159)
+  by churchill.factcomp.com with SMTP; 29 Dec 2004 01:28:41 -0000
+Received: from unknown (HELO localhost) (127.0.0.1)
+    by localhost.adsfi.com with SMTP; Wed, 29 Dec 2004 01:42:24 +0000
+Received: from 203.125.131.100 (203.125.131.100[203.125.131.100])
+       by adsl-9-154-159.mia.bellsouth.net (IMP) with HTTP
+       for <bait@em.ca>; 
+Message-ID: <3788261104284544@adsl-9-154-159.mia.bellsouth.net>
+From: "Maud" <rdbeesyc@cookieo.com>
+To: "Jim" <bait@em.ca>
+Subject: Casio membership Login and Password
+Date: Wed, 29 Dec 2004 01:42:24 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+User-Agent: Internet Messaging Program (IMP) 3.2.2
+X-Originating-IP: 203.125.131.100
+
+<HTML><html>
+<body>
+<P>Dear Customer,</P>
+<P>We are glad to provide you a free access to our site<BR><A 
+href="http://www.cassiopay.net">http://www.cassiopay.net</A> for two weeks.</P>
+<P>Here is your account details:<BR>Login: acc372p<BR>Password: g82whz22</P>
+<P>Regards, R.P.G.S. International AG </P>
+</body>
+</html>
+</HTML>
+

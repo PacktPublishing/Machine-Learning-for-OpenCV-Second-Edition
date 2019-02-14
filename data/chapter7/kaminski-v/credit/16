@@ -1,0 +1,66 @@
+Message-ID: <26934713.1075840780919.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 12:14:00 -0700 (PDT)
+From: pinnamaneni.krishnarao@enron.com
+To: vince.kaminski@enron.com, amitava.dhar@enron.com, rabi.de@enron.com, 
+	william.bradford@enron.com, tanya.tamarchenko@enron.com
+Subject: Credit Risk Model Comments - at this point.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pinnamaneni Krishnarao <Pinnamaneni Krishnarao/HOU/ECT@ECT>
+X-To: Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>, Amitava Dhar <Amitava Dhar/Corp/Enron@ENRON>, Rabi De <Rabi De/NA/Enron@ENRON>, William S Bradford <William S Bradford/HOU/ECT@ECT>, Tanya Tamarchenko <Tanya Tamarchenko/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Comments from Rick Jones on the credit reserve model. Anita Dupont is setting up a meet with Rick Jones to discuss  these. Vince & Bill -  if you want to join the meeting, please let me or Anita know.
+
+Regards,
+Krishna.
+---------------------- Forwarded by Pinnamaneni Krishnarao/HOU/ECT on 04/11/2001 09:04 AM ---------------------------
+
+
+Richard B Jones@EES
+04/10/2001 04:16 PM
+To:	Pinnamaneni Krishnarao/HOU/ECT@ECT
+cc:	 
+Subject:	Credit Risk Model Comments - at this point.
+
+
+---------------------- Forwarded by Richard B Jones/HOU/EES on 04/10/2001 04:16 PM ---------------------------
+
+
+Richard B Jones
+03/23/2001 05:53 PM
+To:	Cheryl Lipshutz/HOU/EES@EES, Trushar Patel/Corp/Enron@Enron, michelle.wenz@enron.com, Gayle Muench/ENRON@enronXgate, Jeremy Blachman/HOU/EES@EES
+cc:	 
+Subject:	Credit Risk Model Comments - at this point.
+
+Hi everyone,
+
+I have run the model and, along with the contract briefs I have some questions & ideas. I was hoping to talk to each of you so I could avoid writing this detailed, one-sided e-mail, but with our schedules being so exclusive, this will have to do for now.
+
+Every deal has its own model because of the commodity deal structure complexity. So no aggregate results can be obtained without having the models for each contract. However, the JC Penny's version can serve as a testing platform for some of the items I am mentioning below. I have not talked to the people in research who are the most knowledgeable about the model, so some of these comments may be mute points. I plan to do that went I get back. 
+
+1)	Since the credit risk is developed for a time period, it makes sense to regularly update the commodity data (and credit rating if its chaged) and re-run the model for the time remaining.  I would expect this is done already.
+
+2)	The default probabilities seem not to change. That is, if the input credit rating is E1, then the E1 default probability curve is used for the contract period. For annual accounting that seems OK, but in MTM, it seems to me that the credit analysis needs to take into consideration the credit rating transition probabilities.  That is, the credit implications of companies changing their credit rating during the contract period. with some constraints imposed by actually slow credits appear to change would give a more realistic view of our credit risk in the MTM world.
+
+3)	Are all "defaults" created equal to us? Look at OC. It seems to me that the data used to develop the default probabilities are over different business segments and are OK ----for that range of companies. However, we are dealing with specific types of firms where "default" may not mean we do not get paid. Sure we still have some credit risk, but it's not like Montgomery Ward's where the lights are being turned off for good. Energy is so fundamental for a company's success and default actions can be used as a way to save a company albeit in a different form.  So financial default does not neccesarily mean default for EES commodity payments totally.
+
+4)	A while back someone said to me that may, maybe the people who reach for a life preserver are more likely to live than those that don't. By that I mean that, perhaps our use of these default probabilities actually overstates the credit risk in that if a company has at least enough proactive vision to contract EES, then they are more likely to improve that one that doesn't. This is a type of behavioral variable that the data doesn't consider. This would be a useful MBA project to examine these types of corporate variables and compare it to their credit rating forward curve.
+
+5)	This leads me to something I hope we can acomplish in the special finance team. The contract briefs are, to me, the begimnning of this exercise.  If we can combine our customers into "exposure group portfolios" (for lack of a better term), where a group has similar "risk characteristics" beyind the current parameter set, that we define, then this offers a potential to shop some of these exposure to specialized insurance markets.
+
+6)	A technical point. Monte Carlo simulations are numerical experiments. Besides the model assumptions, numerical experiments have three inherent error attributes; the number of trials, numerical roundoff, and random number generator randomness statistical properties. The first two are not a problem in this application but the last one could be. Has anyone examined the effect of using different random number generators on Enron's aggregate credit risk?
+
+7)	There is one last point here. For most of the above points, the "improved" analysis could make the credit risk be higher. 
+
+Rick 
+
+
+
+
+
+

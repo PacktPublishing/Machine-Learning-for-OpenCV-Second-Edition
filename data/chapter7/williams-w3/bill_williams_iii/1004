@@ -1,0 +1,40 @@
+Message-ID: <18554866.1075863319170.JavaMail.evans@thyme>
+Date: Wed, 6 Jun 2001 12:24:23 -0700 (PDT)
+From: dave.perrino@enron.com
+To: jeff.dasovich@enron.com, james.steffes@enron.com
+Subject: CAISO MCP Postings
+Cc: ray.alvarez@enron.com, tim.belden@enron.com, h..foster@enron.com, 
+	chris.mallory@enron.com, susan.mara@enron.com, 
+	bill.williams@enron.com, steve.walton@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ray.alvarez@enron.com, tim.belden@enron.com, h..foster@enron.com, 
+	chris.mallory@enron.com, susan.mara@enron.com, 
+	bill.williams@enron.com, steve.walton@enron.com
+X-From: Perrino, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=13E30736-7885E1B0-86256A31-56095B>
+X-To: Alan Comnes/PDX/ECT@ENRON <??SAlan Comnes/PDX/ECT@ENRON>, Dasovich, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DA220740-3E85E661-86256962-4F9C13>, Steffes, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=AFB3D0FA-CCB03D20-86256962-56FDA5>
+X-cc: Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EBE4476B-2D94882A-86256A14-75FF3B>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TBELDEN>, Foster, Chris H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CFOSTER>, Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CMALLOR>, Mara, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8A20ECE9-992CF340-8625697D-7146E9>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Walton, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B307C856-48FAA49D-86256721-510ADA>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+To All,
+
+As per todays (6/6/01) conversation with Keoni Almeida (Enron's customer rep at the CAISO) the CAISO has been directed by their board to post only the Market Clearing prices.  What this means is the following:
+
+During "Normal" operating periods the Market Clearing Price may be the true cost of energy in the ISO.  The component that could be missing is the cost and volume of the Out Of Market calls, if any - but there's no way to know, since this information is not posted.
+
+During any Stage 1-3 market mitigation procedures, the Market Clearing Price is the highest Proxy Price of the least efficient unit selected under the mitigation procedures. The ISO is setting the emission credit value to zero and the proxy has never included gas transportation costs, the proxy MCP is not really a measure of marginal cost.  Further the proxy MCP excludes the cost and volumes of the Out Of Market calls and any accepted "pay-as-bid" costs and volumes.
+
+To find the MCP (Proxy Price during Stage 1-3) the following link http://www.caiso.com/marketops/OASIS/pubmkt2.html button number 17.
+
+The impacts of the lack of this information include, but are not limited to, our knowing what the real-time cost of going short as a scheduling coordinator would be or the actual cost of congestion.  Not having access to the complete pricing picture hampers the ability of the real-time traders in the west from making the best business decisions possible.
+
+Since it has been articulated by Kenoi that the CAISO Board has made a conscious decision not to post a complete picture of the costs of energy from hour to hour it would seem that it would be appropriate for Enron to consider making an attempt to persuade the ISO to reconsider it's decision and that it would be of significant benefit to the market and the ISO to publish all pertinent pricing data.
+
+Do you agree?  If yes, how do we proceed?  If no, why not?
+
+Thanks,
+
+Dave

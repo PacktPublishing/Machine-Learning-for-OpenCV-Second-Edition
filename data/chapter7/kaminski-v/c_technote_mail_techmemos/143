@@ -1,0 +1,43 @@
+Message-ID: <615970.1075856597149.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 09:03:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: mike.roberts@enron.com
+Subject: 6/30 aga forecast at 66
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Zimin Lu
+X-To: Mike A Roberts
+X-cc: Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Mike,
+
+My number for next week is 66 (from Seasonal Holt-Winter model, SHW).
+
+I am also fitting AGA to an ARIMAX model.  As discussed, I need weighted 
+temperature
+data for east, west and production areas.   I would appreciate if you could 
+provide that data.
+ After that, I could add forward price curve as explainatory variables. 
+
+Since AGA is a market mover, it is important to have an accurate model. 
+
+Zimin
+
+
+
+
+
+To: Zimin Lu/HOU/ECT@ECT
+cc:  
+Subject: Re: revised aga forecast for 6/23 is 65  
+
+came in at 73
+
+what do have for next week?
+

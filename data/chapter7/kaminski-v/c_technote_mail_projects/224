@@ -1,0 +1,36 @@
+Message-ID: <8148761.1075856591890.JavaMail.evans@thyme>
+Date: Tue, 17 Oct 2000 14:13:00 -0700 (PDT)
+From: chonawee.supatgiat@enron.com
+To: mike.roberts@enron.com
+Subject: program
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Chonawee Supatgiat
+X-To: Mike A Roberts
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Mike, 
+Here is third version of the program. It gives better results than the 
+previous versions you have. Sorry for the delay, these past 2 days I have 
+been busy meeting with people on the new EBS project. I think the result 
+looks reasonably good. You can try it. (To run, type cow filename.jpg m)
+
+
+
+smallcow.jpg : hand count 165, program reports 140
+cow2.jpg : hand count 1, program reports 1
+cow3.jpg : hand count 273, program reports 244
+cow4.jpg : hand count 7, program reports 7
+cow5.jpg : hand count 160-180, program reports 165
+-chonawee
+
+You can show it to the others by yourself or I can go with you. I will have 
+to go to German Consulate tomorrow morning and will be in the office around 
+10:30-11am.
+-Chonawee

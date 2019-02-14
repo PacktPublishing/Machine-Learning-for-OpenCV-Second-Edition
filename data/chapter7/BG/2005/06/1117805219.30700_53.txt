@@ -1,0 +1,41 @@
+Return-Path: <Quincy@nline.no>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 18745 invoked by uid 115); 3 Jun 2005 11:09:42 -0000
+Received: from Quincy@nline.no by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(209.200.85.218):. 
+ Processed in 0.120912 secs); 03 Jun 2005 11:09:42 -0000
+Received: from unknown (HELO 209.200.85.218) (209.200.85.218)
+  by churchill.factcomp.com with SMTP; 3 Jun 2005 11:09:41 -0000
+X-Message-Info: SA/gc+215+w/XUX+06/00903482388566
+Received: from smtp-claus.allusion.Quincy@nline.no ([]) by k81-qpq3.Quincy@nline.no with Microsoft SMTPSVC(5.0.1187.4861);
+	 Fri, 03 Jun 2005 14:05:11 +0300
+Received: from smtp-octal.chlorate.Quincy@nline.no ([]) by ro3-h45.Quincy@nline.no with Microsoft SMTPSVC(5.0.3450.1395);
+	 Fri, 03 Jun 2005 16:02:11 +0500
+X-Message-Info: YFDZO+%ND_LC_CHAR[1-3]05+p+DLH+5/2237884361968
+Received: (qmail 39453 invoked by uid 40); Fri, 03 Jun 2005 10:06:11 -0100
+Date: Fri, 03 Jun 2005 05:05:11 -0600
+Message-Id: <012406486861.72212@Quincy@nline.no>
+From: Mandy Hairston <Quincy@nline.no>
+To: 19991123234518.a31001 <19991123234518.a31001@em.ca>
+Subject: You order: Sony DSC-F828 8.0MP Digital Camera
+MIME-Version: 1.0 (produced by driptraverse 2.9)
+Content-Type: multipart/alternative;
+	boundary="--43818681445972044"
+
+----43818681445972044
+Content-Type: text/html;
+	charset="iso-9084-4"
+Content-Transfer-Encoding: 7Bit
+Content-Description: burtt countersunk jocular
+
+Sony DSC-F828 8.0MP Digital Camera<br><br> 
+ 
+
+Your order # 12405 has been accepted for the amount 840.00$ <br> 
+Your card will be charged in that amount .Thank you for your purchase.<br><br><br> 
+  
+  
+You can check the order in your profile. <br><br> 
+<a href="http://fullssize.biz">http://fullssize.biz</a> 
+
+----43818681445972044--

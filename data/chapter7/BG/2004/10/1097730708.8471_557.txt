@@ -1,0 +1,49 @@
+Return-Path: <businessmen.alexandra@qcfsbo.com>
+Received: (fqmail 7423 invoked from network); 14 Oct 2004 03:55:30 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 14 Oct 2004 03:55:30 -0000
+Received: (qmail 644 invoked from network); 14 Oct 2004 03:55:30 -0000
+Received: from f45-pc78.cty-net.ne.jp (f45-pc78.cty-net.ne.jp [210.148.58.78])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 14 Oct 2004 03:55:28 -0000
+Received: from uhfddbq9805.lz.texnet.net([210.148.58.78]) by du7714-mcs.texnet.net with Microsoft SMTPSVC(5.0.1410.61099);
+	 Thu, 14 Oct 2004 07:51:14 +0300
+Received: from SonDawson@texnet.net (184.190.7.177)
+  by vwien5202.xq.@texnet.net with QMQP; Thu, 14 Oct 2004 05:55:14 +0100
+X-MIME-Autoconverted: Yes
+Discarded-X400-MTS-Extensions: Yes
+Alternate-Recipient: Allowed
+Xref: xrnagurdqvojgfrcbo
+Reply-To: "Clarence Purvis" <SonDawson@texnet.net>
+From: "Clarence Purvis" <SonDawson@texnet.net>
+To: bugs@ezmlm.org
+Cc: webmaster@ezmlm.org
+Subject: Confirm Your Application
+Date: Thu, 14 Oct 2004 08:46:14 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--362782050312172"
+
+----362782050312172
+Content-Type: text/html;
+	charset="iso-3272-0"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible for $400,000 with a 2.1% rate.
+<p>
+Please verify your information here:<br>
+<a href="http://www.wecanhelpnp.biz/green/m79a/">http://www.wecanhelpnp.biz/green/m79a/</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<p>
+
+Clarence Purvis, Client Account Manager<br>
+Madison Financial Association<br>
+458 East Main Street<br>
+Chicago, IL 60679
+</html>
+
+----362782050312172--

@@ -1,0 +1,22 @@
+Message-ID: <16022517.1075839947691.JavaMail.evans@thyme>
+Date: Tue, 3 Apr 2001 19:30:00 -0700 (PDT)
+From: kourtney.nelson@enron.com
+To: portland.shift@enron.com, jeff.richter@enron.com, phillip.platter@enron.com, 
+	chris.mallory@enron.com, jeremy.morris@enron.com
+Subject: Scheduling Wheels
+Cc: volume_management_portland@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: volume_management_portland@enron.com
+X-From: Kourtney Nelson <Kourtney Nelson/PDX/ECT@ECT>
+X-To: Portland Shift <Portland Shift@ECT>, Jeff Richter <Jeff Richter/HOU/ECT@ECT>, Phillip Platter <Phillip Platter/HOU/ECT@ECT>, Chris Mallory <Chris Mallory/PDX/ECT@ECT>, Jeremy Morris <Jeremy Morris/PDX/ECT@ECT>
+X-cc: Volume_Management_Portland <Volume_Management_Portland@ECT>
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Just a reminder that when entering a wheel, the Interchange ID must be the same for the import and export.  When the Import is labeled as "EPMI_CISO_**" and the Export as "CISO_EPMI_**," the ISO views these as unique imports and exports.  They will not be linked together for a wheel, thus causing ancillary services charges to occur.  
+
+Thank you!

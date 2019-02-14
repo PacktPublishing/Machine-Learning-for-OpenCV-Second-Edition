@@ -1,0 +1,68 @@
+Received: from smtp4.libero.it (193.70.192.54)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:55 -0000
+Received: from smtp4.libero.it (193.70.192.54) by smtp4.libero.it (7.0.027-DD01)
+        id 41C15160038087C5 for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:59:54 +0200
+Received: by smtp4.libero.it (7.0.027-DD01) id 42B98822041BD3CC for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:59:54 +0200
+From: Mail Delivery Service <postmaster@iol.it>
+Subject: Delivery Status Notification
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 12:59:54 +0200
+Message-ID: <42B98822041BD3CA@smtp4.libero.it>
+MIME-Version: 1.0
+Content-Type: Multipart/Report; report-type=delivery-status; boundary="========/42B98822041BD3C1/smtp4.libero.it"
+
+This multi-part MIME message contains a Delivery Status Notification.
+If you can see this text, your mail client may not be able to understand MIME
+formatted messages or DSNs (see RFC 2045 through 2049 for general MIME
+information and RFC 1891 through 1894 for DSN specific information).
+
+--========/42B98822041BD3C1/smtp4.libero.it
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+ - These recipients of your message have been processed by the mail server:
+orlandi.enrico@inwind.it; Failed; 5.2.2 (mailbox full)
+
+    Remote MTA ims9a.libero.it: SMTP diagnostic: 552 RCPT TO:<orlandi.enrico@inwind.it> Mailbox disk quota exceeded
+
+
+
+--========/42B98822041BD3C1/smtp4.libero.it
+Content-Type: Message/Delivery-Status
+
+Reporting-MTA: dns; smtp4.libero.it
+Received-from-MTA: dns; mailwisconsin.com (211.168.67.248)
+Arrival-Date: Tue, 19 Jul 2005 12:59:54 +0200
+
+Final-Recipient: rfc822; orlandi.enrico@inwind.it
+Action: Failed
+Status: 5.2.2 (mailbox full)
+Remote-MTA: dns; ims9a.libero.it
+Diagnostic-Code: smtp; 552 RCPT TO:<orlandi.enrico@inwind.it> Mailbox disk quota exceeded
+
+--========/42B98822041BD3C1/smtp4.libero.it
+Content-Type: Text/RFC822-headers
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (211.168.67.248) by smtp4.libero.it (7.0.027-DD01)
+        id 42B98822041BD3C1 for orlandi.enrico@inwind.it; Tue, 19 Jul 2005 12:59:54 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360348;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: orlandi.enrico@inwind.it
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+
+--========/42B98822041BD3C1/smtp4.libero.it--
+

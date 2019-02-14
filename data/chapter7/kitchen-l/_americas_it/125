@@ -1,0 +1,30 @@
+Message-ID: <27584480.1075840862686.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 19:53:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: TIBCO/W2K migration
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/LON/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+with regards to the TIBCO compatability issue.....
+
+If you dont want to wait for the Windows 2000 migration in mid May, it appears that migrating to TIBCO 6.5 in NT4 requires running a migration script that takes about 15 to 20 minutes, but there is a risk that there would be some interruption if the migration doesn't go to plan.
+
+We could go for this Friday, and the Infrastructure team are already working on modifying a version of the migration script to work on Windows NT4, in anticipation.
+
+Another option would be ask the  Windows 2000 migration team to switch their roll-out schedule around to pick up the single-deal entry users earlier
+
+Please let me know if you are prepared to wait for the Windows 2000 roll-out. 
+
+regards
+
+Steve

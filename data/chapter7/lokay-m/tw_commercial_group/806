@@ -1,0 +1,58 @@
+Message-ID: <22152510.1075844186235.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 08:33:00 -0800 (PST)
+From: ramona.betancourt@enron.com
+To: lindy.donoho@enron.com, jeffery.fawcett@enron.com, steven.harris@enron.com, 
+	kevin.hyatt@enron.com, lorraine.lindberg@enron.com, 
+	tk.lohman@enron.com, michelle.lokay@enron.com
+Subject: TW LFT System Enhancement
+Cc: linda.trevino@enron.com, elizabeth.brown@enron.com, rick.dietz@enron.com, 
+	dennis.lee@enron.com, dale.eldridge@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	albert.hernandez@enron.com, christine.mcevoy@enron.com, 
+	beverly.miller@enron.com, tracy.minter@enron.com, 
+	amy.mulligan@enron.com, cynthia.rivers@enron.com, 
+	darrell.schoolcraft@enron.com, linda.ward@enron.com, 
+	sheila.nacey@enron.com, lynn.blair@enron.com, julia.white@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: linda.trevino@enron.com, elizabeth.brown@enron.com, rick.dietz@enron.com, 
+	dennis.lee@enron.com, dale.eldridge@enron.com, 
+	john.buchanan@enron.com, terry.kowalke@enron.com, 
+	albert.hernandez@enron.com, christine.mcevoy@enron.com, 
+	beverly.miller@enron.com, tracy.minter@enron.com, 
+	amy.mulligan@enron.com, cynthia.rivers@enron.com, 
+	darrell.schoolcraft@enron.com, linda.ward@enron.com, 
+	sheila.nacey@enron.com, lynn.blair@enron.com, julia.white@enron.com
+X-From: Ramona Betancourt
+X-To: Lindy Donoho, Jeffery Fawcett, Steven Harris, Kevin Hyatt, Lorraine Lindberg, TK Lohman, Michelle Lokay
+X-cc: Linda Trevino, Elizabeth Brown, Rick Dietz, Dennis Lee, Dale Eldridge, John Buchanan, Terry Kowalke, Albert Hernandez, Christine McEvoy, Beverly Miller, Tracy Minter, Amy Mulligan, Cynthia Rivers, Darrell Schoolcraft, Linda Ward, Sheila Nacey, Lynn Blair, Julia White
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+FYI,
+
+I have been testing the enhancement changes for LFT contracts that was 
+documented last April and this item will move to production the weekend.  
+This change will move the LFT validation process from the allocation function 
+to the Rollover and Balance function. To explain,  when TW post a notice 
+that  "No LFT is Available" for a location and gas day, the system will 
+automatically schedule the LFT contract to zero for that day at that point 
+during the 1st scheduling process after the nomination deadline which is 
+called rollover and balance process. The current process today cuts the LFT 
+contracts during our allocation function, which is the last process done on 
+TW. 
+
+We have also added the waiver flag to the contract system that identifies the 
+LFT shippers who have signed the waiver granting TW responsibility to change 
+their nomination from firm to overrun on days when no LFT service is 
+available.
+Both Lorraine and TK have a copy of this draft document that I created. 
+Please review this waiver document and finalize any changes to it so this new 
+service can be offered to the shippers. If you would like to post this waiver 
+document to our web site under forms, please let me know.  Finally, the 
+contract team will keep these waiver documents with the LFT contract file, as 
+well as in their waiver log book.
+
+Thanks Ramona  

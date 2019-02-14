@@ -1,0 +1,126 @@
+Message-ID: <24882164.1075856610043.JavaMail.evans@thyme>
+Date: Fri, 25 Aug 2000 01:57:00 -0700 (PDT)
+From: michael_schilmoeller@pgn.com
+Subject: Re: Henwood query
+Cc: vkamins@enron.com, grant_masson@pgn.com, matthew_d_williams@pgn.com, 
+	mike_niman@pgn.com, steven_leppard@pgn.com, vince_j_kaminski@pgn.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: vkamins@enron.com, grant_masson@pgn.com, matthew_d_williams@pgn.com, 
+	mike_niman@pgn.com, steven_leppard@pgn.com, vince_j_kaminski@pgn.com
+X-From: "Michael SCHILMOELLER" <Michael_Schilmoeller@pgn.com>
+X-To: NOTES:Karolina.Potter@ENRON
+X-cc: vkamins@enron.com, Grant_Masson@pgn.com, Matthew_D_Williams@pgn.com, Mike_Niman@pgn.com, Steven_Leppard@pgn.com, Vince_J_Kaminski@pgn.com
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Good talking with you this morning.  By all means, talk to Grant Masson abo=
+ut=20
+who else is using the Henwood model within Enron.
+
+Attached are the workbooks I mentioned.  The "Details of Jan and July.xls"=
+=20
+workbook contains the resulting listing from the query I gave you yesterday=
+=20
+and you can see how the supply curve was created from that.  The supply cur=
+ve=20
+becomes nonsense at points for reasons I believe are related to reliability=
+=20
+commitment constrants, instead of pure economic dispatch, and to the=20
+aggregate reporting problem I described in my note yesterday.
+
+The workbook "Supply Curve.xls" has the simplistic, average supply curve I=
+=20
+mentioned, constructed from fuel and VOM costs.  Depending on the question=
+=20
+you are trying to answer, it may be an approach to consider.
+
+The Henwood Contacts I had in mind are:
+
+Tao Guo, PhD, Senior "Algorithmist"  (916-569-0985) =02=05 the one I was th=
+inking=20
+of
+Wenxiong Huang, PhD Senior Project Consultant (916-569-0985)
+Ajit Kulkarni, PhD, Software Product Manager (916-569-0985) =02=05 more a t=
+rainer,=20
+but sharp
+Cosimo Coscia, Senior Consultant (South Australia) 618-8357-1244 =02=05 ver=
+y=20
+resourceful
+Wade Schauer, Staff Consultant, (916-569-0985) =02=05 best for questions ab=
+out=20
+EMSS per se
+
+all have emails, of course.  Template:  tguo@hesinet.com
+
+Also, if you can not get satisfaction, contact Eric Toolson, VP=20
+(916-569-0985).  He has a laconic style, but is very focused on customer=20
+satisfaction and retention.  And he has the pull to make things happen.
+
+Regards,
+Michael
+
+
+
+
+
+
+>>> Karolina Potter/LON/ECT@ENRON 08/24/00 07:08AM >>>
+Michael,
+
+I am an analyst in Paul Mead's Continental Power Trading group in London. I=
+=20
+am currently working on the project, which requires the use of EMSS, and=20
+experience some difficulties interpreting the output results. Steven Leppar=
+d=20
+from our research group gave me your name as an expert in this system and=
+=20
+consequently the person to contact in case of problems.
+
+I have been running simulations for the Dutch market and was asked to provi=
+de=20
+the traders with some front-end screen graphs in order to interpret the=20
+numerical results. One of the graphs is to show an hourly generation stack=
+=20
+and system's marginal cost, as we only run cost based scenarios. To sort ea=
+ch=20
+station's hourly generation I need its marginal cost. To my knowledge thoug=
+h,=20
+marginal cost is only generated for a systems marginal unit (TransArea=20
+Marginal Units query, Marg_cost unit). Therefore I was sorting the stations=
+=20
+according to the cost which I calculated based on the outputs from Station=
+=20
+Detail by Hour query. The calculation was as follows:
+
+For each hour, for each generating station:
+
+"marginal cost" [o/MWh] =3D (Generation_Cost [o000] * 1000)/Generation [MWh=
+] -=20
+VOM_cost [o/MWh]
+
+This I thought would include fuel cost and start up costs. However, a=20
+marginal station which I get on the stack as a result of the above=20
+calculation is not a station given in Marginal Station field in TransArea=
+=20
+Marginal Units query. I have also looked into TransArea_Data_Hr table and=
+=20
+TransArea_Data table but non of the costs there match my results.
+
+Do you happen to know what formula is used to determine Marg_cost and which=
+=20
+outputs I should be using to obtain the right results?
+
+It might be easier if we could discuss this issue on the phone. In this cas=
+e=20
+could you please send me your direct telephone number. I am struggling=20
+understanding what is going on and would appreciate your help very much.
+
+Regards
+
+Karolina=20
+ - TEXT.htm
+ - Details of Jan and July.xls
+ - Supply Curve.xls

@@ -1,0 +1,112 @@
+Return-Path: <nobody@host.bullydesigns.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 9383 invoked by uid 115); 8 May 2005 22:22:19 -0000
+Received: from nobody@host.bullydesigns.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(209.59.170.225):. 
+ Processed in 0.229256 secs); 08 May 2005 22:22:19 -0000
+Received: from unknown (HELO host.bullydesigns.com) (209.59.170.225)
+  by churchill.factcomp.com with SMTP; 8 May 2005 22:22:16 -0000
+Received: from nobody by host.bullydesigns.com with local (Exim 4.50)
+	id 1DUuOL-00082i-FN
+	for bruceg@em.ca; Sun, 08 May 2005 18:36:53 -0400
+To: bruceg@em.ca
+Subject: We Have A Part Time Job For You!
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From:  NTRS <ntrsjobsnow@aol.com>
+Reply-To: ntrsjobsnow@aol.com
+X-Mailer: PHP/4.3.10
+Message-Id: <E1DUuOL-00082i-FN@host.bullydesigns.com>
+Date: Sun, 08 May 2005 18:36:53 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.bullydesigns.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - host.bullydesigns.com
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: purebredpuppy.com:/public_html/test/w
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+Save Time and let your commute be a walk down the stairs. <br>
+<p>Be part of the IT/ E-commerce explosion!</p>
+<p>&nbsp;</p>
+<p>Work at home online around your schedule &ndash; Part time or Full time.<br>
+  We offer a simplistic High Tech approach to working at home!<br>
+</p>
+<p>Do you remember the days when you could get a job in whatever industry <br>
+  you wanted? Healthcare, nursing, admin or clerical &ndash; you name it! <br>
+  Whatever you wanted, more than likely the job was yours for the rest of your <br>
+  life! Downsizing was non-existent and you had a serious shot at <br>
+  advancing within the company. The bottom line is &ndash; You need to take control of <br>
+  your financial future! </p>
+<p>If we could show you how to earn an extra $1,300 every month and could <br>
+  go up to $5,000,by working at home, part time around your full time <br>
+  schedule, would you be interested? </p>
+<p>We are pioneering the true work at home opportunity. No holding <br>
+  parties, stuffing envelopes or going to your friends and family to promote <br>
+  your business. Our Work at Home Marketing System incorporates the <br>
+  tremendous power of the internet and e-commerce industries, giving you an <br>
+  unparalleled advantage over traditional business. We will train you every <br>
+  step of the way and also help you develop skills in advertising, retail <br>
+  sales &amp; internet marketing!<br>
+</p>
+<p>Secure your piece of the greatest marketing trend today &ndash; Take <br>
+  advantage of the enormous growth that is happening now on the internet!<br>
+</p>
+<p>Do any of these words relate to you?<br>
+  work online, computer, manager, e-commerce business, retail manager, <br>
+  telecommuting, telecommute, on-line sales, sales manager, home mailing, <br>
+  work at home business, business opportunity, internet business, work at <br>
+  home opportunity, business opportunity, home based business, retail <br>
+  store manager, stay at home work, work online at home, retail, wholesale <br>
+  distributor, home business opportunity, home work, work from home, <br>
+  direct marketing, online advertising, online sales, consultant, internet, <br>
+  e-commerce, consumer marketing<br>
+</p>
+<p>--------------------------------------------------------------------------------</p>
+<p> <br>
+    <br>
+  REQUIREMENTS<br>
+  <br>
+  All you need to get started is a personal home computer and Wells Fargo <br>
+  Bank Account.Why we require Wells Fargo Account For Our Employees?.That <br>
+  is very simple to explain: Most of our clients make payment towards our <br>
+  company by Wells Fargo Ach or direct deposit.In order to be able to <br>
+  process the payments faster and more efficiently our employees must have <br>
+  or open a Wells Fargo checking account.To open a new account is FREE!. </p>
+<p>You can learn how to use your computer and the power of the internet to <br>
+  market from home.<br>
+  Are you willing to do what it takes to change your life course? Entry <br>
+  Level opportunity.<br>
+  Stop making your company lots of money and start building a business so <br>
+  you can reap all the benefits!</p>
+<p>We are not going to insult your intelligence and tell you this is a <br>
+&ldquo;get rich quick&rdquo; business</p>
+<p>With our Home-Based Marketing program on the Internet we actually <br>
+  helped hundreds of people start making money from the comfort of their own <br>
+  homes by using their bank accounts with Wells Fargo Bank.The Only <br>
+  Home-Based Marketing Group On The Internet That Has Actually Helped Thousands <br>
+  Of People Start Making Money From Their Homes!</p>
+<p>--------------------------------------------------------------------------------<br>
+</p>
+<p> REQUIREMENTS <br>
+  -Flexible Hours<br>
+  -Great Attitude<br>
+  -Ability to Work Well with People<br>
+</p>
+<p>Email us today at <a href="mailto:ntrsjobsnow@aol.com">ntrsjobsnow@aol.com</a> for more details and join our part <br>
+  time employees group to start.<br>
+  Ntrs(North Star) Investments Inc.</p>
+<p></p>
+</body>
+</html>
+

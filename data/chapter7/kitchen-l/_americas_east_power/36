@@ -1,0 +1,26 @@
+Message-ID: <5025481.1075840815059.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 14:07:31 -0700 (PDT)
+From: joseph.deffner@enron.com
+To: louise.kitchen@enron.com, david.duran@enron.com, wes.colwell@enron.com
+Subject: ECP/Linden Swaps
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Deffner, Joseph </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JDEFFNE>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Duran, W. David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dduran>, Colwell, Wes </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcolwel>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Here's my understanding of what has happened with the interest rate swaps:
+
+As I indicated earlier, the original $32mm was put on for the Linden 6 expansion which never occurred.
+The second swap of $350mm was put on to protect the value of the cash flow from El Paso assuming we would monetize the asset shortly. This hedge does appear to have been set with the El Paso payment stream in mind.
+The original $32mm of swaps DID NOT provide a clean hedge to the remaining El Paso cash flows as they were 10 year bullets while the El Paso payment stream is a 7 year monthly amortizer.
+However, the $382mm of hedges did approximate notionally the asset to be hedged.
+
+It appears that given the assumption the swaps were to have been monetized in a short period of time, a decision may have been made that unwinding and rewinding the "dirty" interest rate hedge was more expensive than wearing the basis risk for a brief time.
+Given that the monetization never occurred, it does appear to me that the $32mm hedge is ineffective and should be removed or replaced if we determine that we should hedge the rate risk associated with the note.
+
+Anyone have anything additional to add? That's the best I could turn up looking back after the fact given the many personnel departures.

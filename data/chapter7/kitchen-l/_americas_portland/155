@@ -1,0 +1,52 @@
+Message-ID: <33294247.1075840890792.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 12:52:00 -0700 (PDT)
+From: tim.belden@enron.com
+To: john.lavorato@enron.com, louise.kitchen@enron.com
+Subject: Good News From FERC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Tim Belden <Tim Belden/HOU/ECT@ECT>
+X-To: John J Lavorato <John J Lavorato/Corp/Enron@ECT>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+No action needed by either of you.  You can ignore this if you like.  The i=
+ssue is really complicated and I've tried to summarize it.  I'm not sure ho=
+w closely the two of you have been tracking activities at FERC.  We had an =
+interim victory late last week on the chargeback issue. =20
+
+As Edison and Pacific Gas were defaulting on PX and ISO payments in January=
+ and February, the PX attempted to invoke the charge back section of its ta=
+riff.  This had several strange outcomes.  First, the PX attempted to recov=
+er the short payments by Edison for December activity by charging PX market=
+ participants based on a three month rolling average of gross sales.  If th=
+e PX owed a supplier money, they simply short-payed by the prorata amount. =
+ If the market participant owed the PX money, the PX added it to the partic=
+ipants bill.  This created a series of short pays and chargebacks.  If a ma=
+rket participant who received a chargeback bill didn't pay (e.g., PG&E for =
+SCE's December PX activity), the PX would then allocate that amount (via sh=
+ort pays and chargebacks) to other participants.  This iterative process wo=
+uld continue until credit-worthy participants shouldered the burden.  The P=
+X attempted to us an equally bizarre method to allocate defaults by the uti=
+lities on their ISO RT energy bill (the PX is the Schedule Coordinator for =
+the utilities and handles payments to the ISO for RT energy on behalf of th=
+e utilities).  Rather than shortpaying suppliers to the ISO for defaults by=
+ the utilities on RT energy charges, the PX attempted to collect this money=
+ from its participants in order to pay the ISO -- that is sellers into the =
+PX Day Ahead market were supposed to pay SCE's and PG&E's RT ISO bill.  Thi=
+s was done via a chargeback.  This led to our "last man standing" theory, w=
+hereby the PX would iteritively chargebacks until a few credit-worthy entit=
+ies were stuck with PG&E and SCE's defaults in both the PX and ISO markets.
+
+FERC granted market participants some relief on Friday.  They directed the =
+PX to (1) rescind all chargebacks and (2) refrain from taking any future ch=
+argebacks.  They found "the chargeback provision in the PX tariff was not d=
+esigned to address default of this magnitude and, thus, its application in =
+these circumstances is unjust and unreasonable."  This is not the last word=
+ on this matter.  There are a variety of state court cases that impact this=
+, and, of course the bankruptcy judge will weigh in as well.  However, this=
+ is a solid victory for us as FERC has sided with us rather than the PX wit=
+h respect to interpreting the PX tariff for defaults.

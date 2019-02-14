@@ -1,0 +1,38 @@
+Message-ID: <31028292.1075856593535.JavaMail.evans@thyme>
+Date: Fri, 21 Jul 2000 03:54:00 -0700 (PDT)
+From: stinson.gibner@enron.com
+To: amitava.dhar@enron.com, paulo.issler@enron.com, tanya.tamarchenko@enron.com
+Subject: Credit Support Value for MG and PaperCo
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Stinson Gibner
+X-To: Amitava Dhar, Paulo Issler, Tanya Tamarchenko
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Find below a spreadsheet with my very rough calculation of the value of 
+credit support for MG and PaperCo.
+
+My approach is as follows:
+
+1.   Assume all contracts can be modelled as financial swaps.
+2.   Spread the notional trading volumes over the estimated swap tenors.
+3.   Calculate the value of defaulting at each period of the swap (the 
+default option)  using Black's formula.
+4.   Treat the value of the default options as risky cash flows.  That is 
+treat this value just like you would an annuity stream.  By discounting back 
+this stream of cash flows at the original risky rate and at the risk-reduced 
+rate, I find the value of credit enhancement as the difference in the two 
+NPV's.
+
+Please give your comments, especially if this makes no sense to you.
+
+Stinson
+
+
+

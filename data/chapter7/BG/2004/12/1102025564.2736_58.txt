@@ -1,0 +1,144 @@
+Return-Path: <contato@brmarketing.com.br>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4830 invoked by uid 115); 2 Dec 2004 00:00:59 -0000
+Received: from contato@brmarketing.com.br by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.158.176.92):. 
+ Processed in 0.275037 secs); 02 Dec 2004 00:00:59 -0000
+Received: from 200-158-176-92.dsl.telesp.net.br (HELO smtp.uol.com.br) (200.158.176.92)
+  by churchill.factcomp.com with SMTP; 2 Dec 2004 00:00:58 -0000
+From: "Sites de Buscas" <contato@brmarketing.com.br>
+To: bruceg@em.ca
+Subject: Proposta
+Sender: "Sites de Buscas" <contato@brmarketing.com.br>
+Date: Wed, 1 Dec 2004 22:01:48 -0300
+Reply-To:contato@brmarketing.com.br
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Type: text/html; charset="iso-8859-1"
+X-Qmail-Scanner-Message-ID: <11019456596724824@churchill>
+
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<table cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr>
+    <td width="665" height="44" colspan="3" valign="top" bgcolor="#CCCCCC"><div align="center"><b><font color="#000000" size="4" face="Times New Roman, Times, serif"><i>NESTE 
+        MOMENTO, PODE TER ALGU&Eacute;M PROCURANDO SUA MARCA, PRODUTO OU SERVI&Ccedil;O, 
+        E N&Atilde;O EST&Aacute; ENCONTRANDO!</i></font></b></div></td>
+    <td width="1" height="44" valign="top"></td>
+    <td width="1" height="44" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="333" height="6" valign="top"></td>
+    <td width="7" height="6" valign="top"></td>
+    <td width="325" height="6" valign="top"></td>
+    <td width="1" height="6" valign="top"></td>
+    <td width="1" height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="665" height="19" colspan="3" valign="top" bgcolor="#CCCCCC"><div align="center"><b><font face="Arial, Helvetica, sans-serif">Cadastre seu 
+    web site em at&eacute; 3.500 mecanismos de buscas!</font></b></div></td>
+    <td width="1" height="19" valign="top"></td>
+    <td width="1" height="19" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="333" height="6" valign="top"></td>
+    <td width="7" height="6" valign="top"></td>
+    <td width="325" height="6" valign="top"></td>
+    <td width="1" height="6" valign="top"></td>
+    <td width="1" height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="665" height="53" colspan="3" valign="top" bgcolor="#FFFFFF">
+      <div align="center"><a href="http://www.sitesonline.com.br/cadastramentosite3.htm" target="_blank"><img src="http://www.sitesonline.com.br/bol.gif" width="661" height="46" border="0"></a></div>
+    </td>
+    <td width="1" height="53" valign="top"></td>
+    <td width="1" height="53" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="333" height="6" valign="top"></td>
+    <td width="7" height="6" valign="top"></td>
+    <td width="325" height="6" valign="top"></td>
+    <td width="1" height="6" valign="top"></td>
+    <td width="1" height="6" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="666" height="115" colspan="4" valign="top" bgcolor="#CCCCCC"><p><font color=#FFFFFF face="Arial, Helvetica, sans-serif" size=2><b><font color="#000000">Este 
+        procedimento tem a finalidade de trazer um grande n&uacute;mero de novos 
+        visitantes para seu web site, j&aacute; que 95% dos internautas de todo 
+        o planeta utilizam as ferramentas de busca para achar os sites com seus 
+        assuntos preferidos.</font></b></font></p>
+      <p><font color="#000000"><b><font face="Arial, Helvetica, sans-serif" size="2">Aplicamos 
+        t&eacute;cnicas em html para al&eacute;m de cadastrar o site, proporcionar 
+        um posicionamento previlegiado nos sites de busca, visando deixar seu 
+        site no topo dos resultados de pesquisa sem custos adicionais. Saiba maiores 
+        informa&ccedil;&otilde;es e como adquirir este servi&ccedil;o atrav&eacute;s 
+        dos links abaixo.</font></b></font></p></td>
+    <td width="1" height="115" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="333" height="9" valign="top"></td>
+    <td width="7" height="9" valign="top"></td>
+    <td width="325" height="9" valign="top"></td>
+    <td width="1" height="9" valign="top"></td>
+    <td width="1" height="9" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="333" height="19" valign="top" bgcolor="#CCCCCC"><div align="center"><b><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.sitesonline.com.br/perguntas_frequentes.htm" target="_blank">PERGUNTAS 
+    FREQUENTES ?</a></font></b></div></td>
+    <td width="7" height="19" valign="top"></td>
+    <td width="326" height="19" colspan="2" valign="top" bgcolor="#CCCCCC"><div align="center"><b><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.sitesonline.com.br/cadastramentosite3.htm" target="_blank">COMO 
+    ADQUIRIR ESTE SERVI&Ccedil;O ?</a></font></b></div></td>
+    <td width="1" height="19" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="333" height="7" valign="top"></td>
+    <td width="7" height="7" valign="top"></td>
+    <td width="325" height="7" valign="top"></td>
+    <td width="1" height="7" valign="top"></td>
+    <td width="1" height="7" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="667" height="80" colspan="5" valign="top" bgcolor="#CCCCCC"><font face="Arial, Helvetica, sans-serif"><i><font size="2"><b>Webvis&atilde;o 
+  Inform&aacute;tica Ltda<br>
+  Av. Na&ccedil;&otilde;es Unidas, 17-17, 10 andar - Centro Empresarial das Am&eacute;ricas<br>
+  Bauru - SP / Cep: 17013-035<br>
+  Fone / Fax: (14) 3234-8403<br>
+  Equipe - Br Marketing</b></font></i></font> </td>
+  </tr>
+  <tr>
+    <td width="333" height="7" valign="top"></td>
+    <td width="7" height="7" valign="top"></td>
+    <td width="325" height="7" valign="top"></td>
+    <td width="1" height="7" valign="top"></td>
+    <td width="1" height="7" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="667" height="20" colspan="5" valign="top" bgcolor="#CCCCCC"> 
+  <div align="center"><font face="Arial, Helvetica, sans-serif" size="2">Para 
+    remover seu endere&ccedil;o eletr&ocirc;nico, <a href="http://www.sitesonline.com.br/remover_destinatarios.htm" target="_blank">clique 
+    aqui</a></font></div></td>
+  </tr>
+  <tr>
+    <td width="333" height="1" valign="top"><img width="333" height="1" src="file:///C|/Propagandas/BrMarketing/Cadastramento_nova/transparent.gif"></td>
+    <td width="7" height="1" valign="top"><img width="7" height="1" src="file:///C|/Propagandas/BrMarketing/Cadastramento_nova/transparent.gif"></td>
+    <td width="325" height="1" valign="top"><img width="325" height="1" src="file:///C|/Propagandas/BrMarketing/Cadastramento_nova/transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="file:///C|/Propagandas/BrMarketing/Cadastramento_nova/transparent.gif"></td>
+    <td width="1" height="1" valign="top"><img width="1" height="1" src="file:///C|/Propagandas/BrMarketing/Cadastramento_nova/transparent.gif"></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,75 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S261594AbUKIRip@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 2740 invoked from network); 9 Nov 2004 17:40:11 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 09 Nov 2004 17:40:11 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Nov 2004 17:40:11 -0000
+Received: (qmail 23830 invoked from network); 9 Nov 2004 17:40:10 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 09 Nov 2004 17:40:10 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S261594AbUKIRip (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Tue, 9 Nov 2004 12:38:45 -0500
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S261595AbUKIRip
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Tue, 9 Nov 2004 12:38:45 -0500
+Received: from zeus.kernel.org ([204.152.189.113]:34177 "EHLO zeus.kernel.org")
+	by vger.kernel.org with ESMTP id S261594AbUKIRil (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Tue, 9 Nov 2004 12:38:41 -0500
+Received: from alpenantique.com (adsl-68-127-37-201.dsl.irvnca.pacbell.net [68.127.37.201])
+	by zeus.kernel.org (8.12.11/8.11.6) with SMTP id iA95ot6A025695
+	for <linux-kernel@vger.kernel.org>; Mon, 8 Nov 2004 21:51:00 -0800
+Date: Tue, 09 Nov 2004 09:47:55 +0000
+From: "Alpen-Antique recruitment (Australian job opportunities)" 
+	<info@alpenantique.com>
+Subject: Alpen-Antique recruitment (Australian job opportunities)
+To: linux-kernel <linux-kernel@vger.kernel.org>
+References: <D64121F0G2L2LDD1@vger.kernel.org>
+In-Reply-To: <D64121F0G2L2LDD1@vger.kernel.org>
+Message-ID: <FE10KH481GEHEG15@alpenantique.com>
+Reply-To: "Alpen-Antique recruitment (Australian job opportunities)" 
+	  <info@alpenantique.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7BIT
+Sender: linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List: linux-kernel@vger.kernel.org
+Content-Length: 1470
+
+Dear Mr/Mrs,
+
+Alpen-Antique GmbH was founded in 1896 year and since that time our company
+successfully participated in antique items distribution all over the Central
+Europe. After opening our website our goods became subject of new customers?
+interest from all over the world, especially from Australia and New Zealand.
+
+We started new campaign selling our goods on-line, but we faced new difficulties
+connected with payment delivery delays to our account, because of international
+wire transfers usual 5 business days delay. A decision was made to hire sales
+representatives capable to receiving payments from the same area where are
+the customers located.
+At this moment we run sales representatives hiring campaign and are glad
+to propose you this position. You?re welcome to be our representative. Please
+visit our webpage www.alpenantique.com/partner.htm describing all aspects
+of this opportunity and if you?re interested - please send us an email to
+job@alpenantique.com and you will be sent an application form. If you have
+any additional questions - don?t hesitate to contact us at info@alpenantique.com
+and we?ll try to help you for sure.
+
+Best regards,
+Karl Schallmeiner,
+Alpen-Antique GmbH
+job@alpenantique.com
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

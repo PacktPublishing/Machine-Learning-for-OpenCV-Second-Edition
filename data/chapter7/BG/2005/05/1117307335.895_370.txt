@@ -1,0 +1,181 @@
+Return-Path: <info@bryaningrammusic.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5091 invoked by uid 115); 28 May 2005 18:15:17 -0000
+Received: from info@bryaningrammusic.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(67.15.36.27):. 
+ Processed in 0.22095 secs); 28 May 2005 18:15:17 -0000
+Received: from ev1s-67-15-36-27.ev1servers.net (HELO solid.flashlevel.net) (67.15.36.27)
+  by churchill.factcomp.com with SMTP; 28 May 2005 18:15:15 -0000
+Received: from ingram (24-53-44-170.vnnyca.adelphia.net [24.53.44.170])
+	(authenticated bits=0)
+	by solid.flashlevel.net (8.12.10/8.12.11) with ESMTP id j4SIHj3k017664
+	for <bruceg@em.ca>; Sat, 28 May 2005 13:17:47 -0500
+From: "Bryan Ingram Music" <info@bryaningrammusic.com>
+To: "Bruceg" <bruceg@em.ca>
+Subject: Bryan Ingram {Be That As It May}
+Date: Sat, 28 May 2005 11:32:28 -0700
+Reply-To: "Bryan Ingram Music" <info@bryaningrammusic.com>
+Message-ID: <89815805.20050528113228@bryaningrammusic.com>
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Organization: Bryan Ingram Music
+Content-Type: multipart/alternative;  boundary="----_PartID_764873402724075"
+Content-Length: 7530
+
+This is a multi-part message in MIME format.
+
+------_PartID_764873402724075
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Be one of the first to experience the
+music of Bryan Ingram.
+
+"A captivating musical journey..."
+"A fresh, epic sound..."
+
+Introducing the new EP:
+Bryan Ingram: Be That As It May
+
+Click to experience the music of Bryan Ingram:
+http://www.bryaningrammusic.com/bryaningram_email/detect.html
+
+
+
+
+
+
+
+
+All music and imagery =A9 2005 Kings Raven Music.  All Rights Reserved.
+Unsubscribe:  info@bryaningrammusic.com?subject=3Dunsubscribe
+
+
+
+EOS
+5612 Mutilja, Los Angeles, CA  91402
+
+
+
+------_PartID_764873402724075
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Bryan Ingram { Be That As It May }</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-1">
+<style type=3D"text/css">
+<!--
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #A2743F;
+	text-decoration: none;
+}
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #A2743F;
+	text-decoration: none;
+}
+.footer a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #A2743F;
+	text-decoration: underline;
+}
+-->
+</style>
+</head>
+<BODY bgColor=3D#32180b leftMargin=3D0 topMargin=3D0 marginheight=3D"0" marginwidth=3D"0">
+<TABLE height=3D"100%" cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD vAlign=3Dtop align=3Dleft bgColor=3D#32180b>
+      <TABLE height=3D20 cellSpacing=3D0 cellPadding=3D0 width=3D928 border=3D0>
+        <TBODY>
+        <TR 
+        background=3D"http://www.bryaningrammusic.com/bryaningram_email/images/cannotsee_bg.gif">
+          <TD vAlign=3Dtop align=3Dleft width=3D40 
+          background=3Dhttp://www.bryaningrammusic.com/bryaningram_email/images/cannotsee_bg.gif 
+          bgColor=3D#1f1714 height=3D20></TD>
+          <TD vAlign=3Dcenter align=3Dleft 
+          background=3Dhttp://www.bryaningrammusic.com/bryaningram_email/images/cannotsee_bg.gif 
+          bgColor=3D#1f1714 height=3D20><A style=3D"COLOR: #a2743f" 
+            href=3D"http://www.bryaningrammusic.com/bryaningram_email/detect.html" 
+            target=3D_blank>You are receiving a rich media email. Cannot see the 
+            animation? &gt;&gt;</A></TD></TR></TBODY></TABLE>
+      <TABLE height=3D581 cellSpacing=3D0 cellPadding=3D0 width=3D928 border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D75 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_01.jpg" 
+            width=3D38></TD>
+          <TD><IMG height=3D75 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_02.jpg" 
+            width=3D430></TD>
+          <TD rowSpan=3D2><IMG height=3D285 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_03.jpg" 
+            width=3D235></TD>
+          <TD rowSpan=3D2><IMG height=3D285 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_04.jpg" 
+            width=3D225></TD></TR>
+        <TR>
+          <TD><IMG height=3D210 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_05.jpg" 
+            width=3D38></TD>
+          <TD vAlign=3Dtop align=3Dleft 
+          background=3Dhttp://www.bryaningrammusic.com/bryaningram_email/images/behind_flash.jpg 
+          height=3D210>
+            <OBJECT 
+            codeBase=3Dhttp://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=3D6,0,29,0 
+            height=3D210 width=3D430 
+            classid=3Dclsid:D27CDB6E-AE6D-11cf-96B8-444553540000><PARAM NAME=3D"_cx" VALUE=3D"7585"><PARAM NAME=3D"_cy" VALUE=3D"3704"><PARAM NAME=3D"FlashVars" VALUE=3D""><PARAM NAME=3D"Movie" VALUE=3D"http://www.bryaningrammusic.com/bryaningram_email/flash/bryanEmail.swf?clickURL=3Dhttp://www.bryaningrammusic.com/buy"><PARAM NAME=3D"Src" VALUE=3D"http://www.bryaningrammusic.com/bryaningram_email/flash/bryanEmail.swf?clickURL=3Dhttp://www.bryaningrammusic.com/buy"><PARAM NAME=3D"WMode" VALUE=3D"Window"><PARAM NAME=3D"Play" VALUE=3D"-1"><PARAM NAME=3D"Loop" VALUE=3D"-1"><PARAM NAME=3D"Quality" VALUE=3D"High"><PARAM NAME=3D"SAlign" VALUE=3D""><PARAM NAME=3D"Menu" VALUE=3D"0"><PARAM NAME=3D"Base" VALUE=3D""><PARAM NAME=3D"AllowScriptAccess" VALUE=3D"always"><PARAM NAME=3D"Scale" VALUE=3D"ShowAll"><PARAM NAME=3D"DeviceFont" VALUE=3D"0"><PARAM NAME=3D"EmbedMovie" VALUE=3D"0"><PARAM NAME=3D"BGColor" VALUE=3D""><PARAM NAME=3D"SWRemote" VALUE=3D""><PARAM NAME=3D"MovieData" VALUE=3D!
+ ""><PARAM NAME=3D"SeamlessTabbing" VALUE=3D"1">
+                                          <embed             
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/flash/bryanEmail.swf?clickURL=3Dhttp://www.bryaningrammusic.com/buy" 
+                        quality=3D"high"             
+            pluginspage=3D"http://www.macromedia.com/go/getflashplayer"            
+             type=3D"application/x-shockwave-flash" width=3D"430"             
+            height=3D"210"></embed>    </OBJECT></TD></TR>
+        <TR>
+          <TD><IMG height=3D56 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_07.jpg" 
+            width=3D38></TD>
+          <TD><A href=3D"http://www.bryaningrammusic.com/buy" target=3D_blank><IMG 
+            height=3D56 alt=3D"Listen and Purchase" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_08.jpg" 
+            width=3D430 border=3D0></A></TD>
+          <TD rowSpan=3D2><IMG height=3D296 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_09.jpg" 
+            width=3D235></TD>
+          <TD rowSpan=3D2><IMG height=3D296 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_10.jpg" 
+            width=3D225></TD></TR>
+        <TR>
+          <TD><IMG height=3D240 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_11.jpg" 
+            width=3D38></TD>
+          <TD><IMG height=3D240 alt=3D"" 
+            src=3D"http://www.bryaningrammusic.com/bryaningram_email/images/bryaningram_12.jpg" 
+            width=3D430></TD></TR></TBODY></TABLE>
+      <TABLE height=3D20 cellSpacing=3D0 cellPadding=3D0 width=3D928 border=3D0>
+        <TBODY>
+        <TR 
+        background=3D"http://www.bryaningrammusic.com/bryaningram_email/images/cannotsee_bg.gif">
+          <TD vAlign=3Dtop align=3Dleft width=3D40 
+          background=3Dhttp://www.bryaningrammusic.com/bryaningram_email/images/cannotsee_bg.gif 
+          bgColor=3D#1f1714 height=3D20></TD>
+          <TD class=3Dfooter vAlign=3Dcenter align=3Dleft 
+          background=3Dhttp://www.bryaningrammusic.com/bryaningram_email/images/cannotsee_bg.gif 
+          bgColor=3D#1f1714 height=3D20><SPAN style=3D"COLOR: #a2743f">All music and 
+            imagery =A9 2005 Kings Raven Music. All Rights 
+            Reserved.&nbsp;&nbsp;&nbsp;<A style=3D"COLOR: #a2743f" href=3D"mailto:info@bryaningrammusic.com?subject=3Dunsubscribe" target=3D_blank>Unsubscribe?</A>&nbsp;&nbsp;&nbsp;EOS, 
+            5612 Mutilja, Los Angeles, CA 94012</SPAN< td> 
+      </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+</BODY>
+</html>
+
+
+------_PartID_764873402724075--

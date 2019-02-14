@@ -1,0 +1,26 @@
+Return-Path: <hurd_zx@singtel.com.sg>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 22776 invoked by uid 115); 14 Sep 2004 01:08:05 -0000
+Received: from hurd_zx@singtel.com.sg by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.141.137.43):. 
+ Processed in 0.481048 secs); 14 Sep 2004 01:08:05 -0000
+Received: from 220-141-137-43.dynamic.hinet.net (HELO asas.de) (220.141.137.43)
+  by churchill.factcomp.com with SMTP; 14 Sep 2004 01:08:04 -0000
+Received: from 41.172.39.48 by smtp.singtel.com.sg;
+	Tue, 14 Sep 2004 03:16:15 +0000
+Message-ID: <0e3001c49a09$25551f9f$959351a6@asas.de>
+From: "Brad Hurd" <hurd_zx@singtel.com.sg>
+To: bait@em.ca, bait-portrays@em.ca, bait-20030311014036@em.ca
+Subject: Pharma
+Date: Tue, 14 Sep 2004 10:16:00 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Stop wasting money on prescription drugs. Get them online for 80% off.
+V1agra, C1alis, Xanax, Val1um, Xen1cal, And many many more...
+Stop paying more than you have too! 
+
+Visit us here: http://www.prescriptionnetmed.com/a/?refid=12
+

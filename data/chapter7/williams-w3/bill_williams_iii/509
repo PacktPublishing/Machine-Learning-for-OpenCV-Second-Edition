@@ -1,0 +1,33 @@
+Message-ID: <31656306.1075863307204.JavaMail.evans@thyme>
+Date: Fri, 27 Jul 2001 14:58:12 -0700 (PDT)
+From: kate.symes@enron.com
+To: bill.williams@enron.com
+Subject: Palo Verde  Bottleneck - PLEASE READ
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Is this the right idea?
+
+FYI -
+
+Roger called today to inform us of a bottleneck at Palo Verde. Apparently, El Paso cannot take more than 50 mw into their system at Palo in any given hour; therefore, we need to monitor El Paso's net schedule to ensure that it does not exceed this. This poses some obstacles and opportunities related to the lending agreement. If El Paso is taking a net of 50 mw in at PV, you'll need to procure energy at Four Corners or Greenlee to fill the lending short, then enter a zero priced buy-resale to get the energy from an alternate delivery point to PV. 
+
+This is how it should take place - 
+Day-Ahead
+	Buy from El Paso at PV 
+	Sell to STSW at PV 
+Hour-Ahead	
+	Buy from Counterparty X at FC or Greenlee 
+	Buy-Resale from El Paso from FC or Greenlee to PV 
+
+Please let me know if you have questions.
+
+Thanks,
+Kate

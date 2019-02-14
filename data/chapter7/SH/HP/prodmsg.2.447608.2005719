@@ -1,0 +1,89 @@
+Received: from conc-coppead.ufrj.br (HELO scott.coppead.ufrj.br) (146.164.9.2)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:57 -0000
+Received: (from uucp@localhost)
+	by scott.coppead.ufrj.br (8.12.6/8.12.6) id j6JB0vgO010969
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 08:00:57 -0300 (BRT)
+Received: from exchsvr.lan.coppead.ufrj.br(146.164.90.120)
+ via SMTP by scott.coppead.ufrj.br, id smtpdOX5WnO; Tue Jul 19 08:00:51 2005
+From: postmaster@coppead.ufrj.br
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 07:59:22 -0300
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C5898222BE110400008260exchsvr.lan.copp"
+X-DSNContext: 335a7efd - 4523 - 00000001 - 80040546
+Message-ID: <L9xIhPJj700005317@exchsvr.lan.coppead.ufrj.br>
+Subject: Delivery Status Notification (Failure)
+X-scanner: scanned by Inflex-OIT 0.1.8s - http://www.OpenIT.com.br/
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C5898222BE110400008260exchsvr.lan.copp
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       antunes@coppead.ufrj.br
+
+
+
+
+--9B095B5ADSN=_01C5898222BE110400008260exchsvr.lan.copp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;exchsvr.lan.coppead.ufrj.br
+Received-From-MTA: dns;scott.coppead.ufrj.br
+Arrival-Date: Tue, 19 Jul 2005 07:59:22 -0300
+
+Final-Recipient: rfc822;antunes@coppead.ufrj.br
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C5898222BE110400008260exchsvr.lan.copp
+Content-Type: message/rfc822
+
+Received: from scott.coppead.ufrj.br ([146.164.90.3]) by exchsvr.lan.coppead.ufrj.br with Microsoft SMTPSVC(6.0.3790.1830);
+	 Tue, 19 Jul 2005 07:59:22 -0300
+Received: (from uucp@localhost)
+	by scott.coppead.ufrj.br (8.12.6/8.12.6) id j6JB0in5010782
+	for <antunes@coppead.ufrj.br>; Tue, 19 Jul 2005 08:00:44 -0300 (BRT)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from UNKNOWN(211.222.36.87), claiming to be "mailwisconsin.com"
+ via SMTP by scott.coppead.ufrj.br, id smtpdWAoSlN; Tue Jul 19 08:00:31 2005
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030522866;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antunes@coppead.ufrj.br
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-scanner: scanned by Inflex-OIT 0.1.8s - http://www.OpenIT.com.br/
+Return-Path: projecthoneypot@projecthoneypot.org
+X-OriginalArrivalTime: 19 Jul 2005 10:59:22.0640 (UTC) FILETIME=[EB828900:01C58C50]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86955233">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+
+
+--9B095B5ADSN=_01C5898222BE110400008260exchsvr.lan.copp--
+

@@ -1,0 +1,57 @@
+Received: from two.mx.123-reg.co.uk (195.224.48.125)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:48 -0000
+Received: from exim by two.mx.123-reg.co.uk with local (Exim 4.43)
+	id 1DupnG-0004Pz-LS
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 11:57:46 +0100
+X-Failed-Recipients: leecam@tiscali.co.uk
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@two.mx.123-reg.co.uk>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1DupnG-0004Pz-LS@two.mx.123-reg.co.uk>
+Date: Tue, 19 Jul 2005 11:57:46 +0100
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  leecam@tiscali.co.uk
+    (generated from info@highnrg.co.uk)
+    SMTP error from remote mailer after RCPT TO:<leecam@tiscali.co.uk>:
+    host mk-cpfront-12.mail.uk.tiscali.com [212.74.114.26]:
+    550 RCPT TO:<leecam@tiscali.co.uk> User unknown
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [218.159.229.14] (helo=mailwisconsin.com)
+	by two.mx.123-reg.co.uk with smtp (Exim 4.43)
+	id 1DupnB-0004Oi-FL
+	for info@highnrg.co.uk; Tue, 19 Jul 2005 11:57:42 +0100
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815958;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@highnrg.co.uk
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279192">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

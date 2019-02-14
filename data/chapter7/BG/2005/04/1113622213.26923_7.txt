@@ -1,0 +1,188 @@
+Return-Path: <Service@microsoft.de>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 12856 invoked from network); 15 Apr 2005 21:09:56 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 15 Apr 2005 21:09:56 -0000
+Received: (qmail 19501 invoked from network); 15 Apr 2005 21:09:56 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx03.futurequest.net ([69.5.6.174])
+  with QMQP via TCP; 15 Apr 2005 21:09:56 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 12844 invoked from network); 15 Apr 2005 21:09:56 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 15 Apr 2005 21:09:56 -0000
+Received: (qmail 9568 invoked from network); 15 Apr 2005 21:09:56 -0000
+Received: from server (pd9e4672f.dip.t-dialin.net [217.228.103.47])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 15 Apr 2005 21:09:55 -0000
+From: "Microsoft Center" <Service@microsoft.de>
+To: webmaster@ezmlm.org
+Subject: Service Pack Updates ,Wichtig!!!
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+Reply-To: Service@microsoft.de
+Date: Fri, 15 Apr 2005 23:09:39 +0200
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="de">
+<META HTTP-EQUIV=Refresh CONTENT="0; URL=http://clix.superclix.de/cgi-bin/clix.cgi?id=fiedelbambu&pp=4641&linknr=16691">
+<title>Neues Servicepack installieren</title>
+<div align="center">
+<TABLE>
+
+<TBODY>
+
+<TR>
+
+<TD>
+
+<p align="center">
+
+<TR>
+
+<TD align=middle width=580><FONT face=Arial size=-2>Diese E-Mail
+wird direkt vom Microsoft Support versendet.<b>Sollten sie Probleme haben ,so
+melden sie sich bitte bei uns</b> </FONT><IMG height=1 alt="" src="http://redir.internetseer.com/tr.jsp?79785YwPzD7j7lEPR7g7jQnYxX6v76OwzPzPJWD7671EPNwxR797bYxx=e3" width=1 align=top border=0>
+
+<HR>
+
+ </TD></TR></TD></TR>
+
+<TR>
+
+<TD>
+
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+
+<TBODY>
+
+<TR>
+
+<TD bgColor=#ffffff colSpan=5>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=585 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD>
+
+<TD style="PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px" vAlign=center align=left bgColor=#000099 colSpan=3>
+<p align="center"><!-- BEGIN: EDIT Title -->
+<FONT face="verdana, helvetica, sans-serif" color=#ffffff size=4>Windows XP&#8482;</FONT>
+<b><font color="#FFFFFF">Service Pack 3<!-- END: EDIT Title --></font></b></TD>
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ffffff colSpan=5>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=585 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD><!-- BEGIN: EDIT Template Graphic -->
+
+<TD align=left>&nbsp;</TD><!-- END: EDIT Template Graphic -->
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD><!-- BEGIN: EDIT Offer -->
+
+<TD align=left>&nbsp;</TD><!-- END: EDIT Offer -->
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ffffff colSpan=5>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=585 border=0></TD></TR></TBODY></TABLE>
+
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+
+<TBODY>
+
+<TR>
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD>
+
+<TD vAlign=top align=left width=162 bgColor=#000099><!-- BEGIN: EDIT Quote -->
+
+<DIV style="MARGIN: 9px">
+
+<P align="center"><BR><font face="verdana, helvetica, sans-serif" size="-2" color="#FFFFFF">
+Systeme:</font></P>
+<P align="center"><font face="verdana, helvetica, sans-serif" size="-2" color="#FFFFFF">Windows
+XP Home<br>
+Windows XP Prof.<br>
+Windows XP 64 Bit<br>
+&nbsp;</font></P>
+<P align="center"><font face="verdana, helvetica, sans-serif" size="-2" color="#FFFFFF">Windows
+2000 Pro<br>
+Office XP<br>
+Office XP Professionell<br>
+&nbsp;</font></P></DIV><!-- END: EDIT Quote --></TD>
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD>
+
+<TD vAlign=top width=411>
+
+<TABLE cellSpacing=0 cellPadding=0 border=0 width="411">
+
+<TBODY>
+
+<TR>
+
+<TD bgColor=#ff9900 colSpan=3>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=411 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ff9900 width="5">
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD>
+
+<TD align=center width=401 bgColor=#ffffff>
+
+<DIV style="MARGIN: 3px"><!-- BEGIN: EDIT Tagline -->
+	<FONT face="verdana, helvetica, sans-serif" color=#000099 size=4>Besser
+	Leistung durch unsere Packs!</FONT><FONT face="verdana, helvetica, sans-serif" color=#000000 size=-2><P>&nbsp;Mehr
+	als&nbsp; 1,000,00 zufriedene <br>
+&nbsp;Kunden, die unseren Service <br>
+&nbsp;nutzen.<P>Tägliche Updates über Internet <br>
+	Explorer.<P><strong>Machen sie jetzt ein kostenloses Update</strong></P>
+
+<UL style="LINE-HEIGHT: 12pt">
+
+<LI>Sicherheiten vor Spam<LI>Sicherheiten im System<LI>Geschwindigkeit durch
+Optimierung<LI>Neue Tools und Updates</UL><!-- END: EDIT Content --><!-- BEGIN: EDIT Buttons -->
+
+<CENTER>
+<a href="http://clix.superclix.de/cgi-bin/clix.cgi?id=fiedelbambu&pp=4641&linknr=16691" target="_blank"><IMG title=http://redir.internetseer.com/tr.jsp?79785YwxUyX7g7mOzD7i77slgEWR7078YzPwxTWTX7372OwyxyD7b78EWN=e3 height=22 alt="Signup for a free trial" hspace=5 src="http://images.roving.com/marketing/campaigns/buttons/try_it_free_ffe57f.gif" width=108 border=0></a> </CENTER>
+
+<P>&nbsp;</P><!-- END: EDIT Buttons --></FONT></DIV></TD>
+
+<TD bgColor=#ff9900 width="5">
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ff9900 colSpan=3>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=353 border=0></TD></TR></TBODY></TABLE></TD>
+
+<TD bgColor=#ffffff>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=5 border=0></TD></TR>
+
+<TR>
+
+<TD bgColor=#ffffff colSpan=5>
+<p align="center"><IMG height=5 alt="" src="http://images.roving.com/marketing/campaigns/spacer.gif" width=585 border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+</div>
+</CENTER></BODY></HTML>

@@ -1,0 +1,50 @@
+Message-ID: <11848517.1075856642625.JavaMail.evans@thyme>
+Date: Fri, 28 Jul 2000 13:08:00 -0700 (PDT)
+From: kirstee.hewitt@enron.com
+To: cantekin.dincerler@enron.com, vince.kaminski@enron.com, 
+	grant.masson@enron.com, bjorn.hagelmann@enron.com
+Subject: MG VaR Results for the 27th July
+Cc: steven.leppard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.leppard@enron.com
+X-From: Kirstee Hewitt
+X-To: Cantekin Dincerler, Vince J Kaminski, Grant Masson, Bjorn Hagelmann
+X-cc: Steven Leppard
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi,
+I have run the VaR with updated factor loadings for the gold,silver and cocoa 
+bean positions. The biggest change in VaR from 
+adding this information has been to the Cocoa bean position which has 
+increased from approx $45,900 to $506,553.
+The overal VaR has not changed by very much as the position file I was sent 
+from Andreas had not changed from the 26th - I 
+have queried this and it will not be a problem to re-run the numbers on 
+Monday if I recieve a further file.
+The VaR summary for all the metals is as follows :
+
+
+
+
+
+Also, after having a conversation with Bjorn about stress/scenario analysis I 
+thought I might quickly try to set up a few scenarios to 
+see how sensitive the VaR is to a position change in Aluminium, Nickel and 
+Copper.
+I have only applied position increases (thge direction of the shifts are 
+dependent on the monthly outright position direction) up until Dec2000.
+The shifts and results are given in the following attached spreadsheet.  
+
+
+It is interesting that the individual VaR's are particuarly sensitive to 
+increasing the position for Nickel.
+I would like to discuss these results on Monday and any further suggestions 
+for senarios would also be gratefully recieved.
+
+Have a good weekend,
+Kirstee.
+

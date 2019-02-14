@@ -1,0 +1,41 @@
+Message-ID: <10281025.1075856591215.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 08:41:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: stinson.gibner@enron.com, vince.kaminski@enron.com
+Subject: Market Maker simulation V.2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Stinson Gibner, Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson and Vince,
+
+I finished the second version of the model which deals with Open to Close 
+trading.
+The major difference is that there is an additional mark to market at Open 
+price which
+will affect the P/L.
+
+I also added the output features that John wants to see.
+
+The cumulative P/L is path dependent, the Net Open Allowed seemingly has
+a strong influence on the cumulative P/L trajectory.  (the anomaly I 
+discussed 
+with Vince is due to the trajectory shape change which needs further 
+examination).
+
+Could you review what I have done before we talk to John again ?
+
+
+Zimin
+
+
+
+
+
+

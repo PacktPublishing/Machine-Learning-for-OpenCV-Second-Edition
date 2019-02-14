@@ -1,0 +1,43 @@
+Message-ID: <422255.1075844098709.JavaMail.evans@thyme>
+Date: Thu, 20 Jul 2000 07:39:00 -0700 (PDT)
+From: richard.abramowicz@enron.com
+To: toby.kuehl@enron.com, christine.stokes@enron.com, 
+	lorraine.lindberg@enron.com, jeffery.fawcett@enron.com, 
+	michelle.lokay@enron.com, tk.lohman@enron.com, 
+	steven.harris@enron.com, kevin.hyatt@enron.com
+Subject: Interactive Open Season Ready For Testing
+Cc: girish.kaimal@enron.com, lisa.sawyer@enron.com, julia.white@enron.com, 
+	sheila.nacey@enron.com, steve.hotte@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: girish.kaimal@enron.com, lisa.sawyer@enron.com, julia.white@enron.com, 
+	sheila.nacey@enron.com, steve.hotte@enron.com
+X-From: Richard Abramowicz
+X-To: Toby Kuehl, Christine Stokes, Lorraine Lindberg, Jeffery Fawcett, Michelle Lokay, TK Lohman, Steven Harris, Kevin Hyatt
+X-cc: Girish Kaimal, Lisa Sawyer, Julia White, Sheila Nacey, Steve Hotte
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The latest changes to the Interactive Open Season application have been moved 
+into production and are ready for testing.  These modifications include:
+
+Displaying the actual bids along with the evaluated bids on each of the 
+detail lines.  This will allow shippers to see the actual bid rate for all 
+bids greater than max rate.
+Calculating the winning bids based on evaluated bid and term only (ignore 
+time entered).  A " * " in the first column now means that the bid is a 
+potential winner, not an actual winner.
+Forcing shippers to bid on the full volume of the package.
+
+The modifications do not include:
+
+Allowing users to supersede any of their own bids greater than or equal to 
+max rate.  Because this modification introduces a high risk factor, it will 
+be made after Fiday's IOS.
+
+
+Because some of these modifications affect the way in which bids are ranked, 
+thorough testing by the Marketing team should be completed before any 
+shippers are allowed to enter the system.

@@ -1,0 +1,53 @@
+Return-Path: <endgame_fair712@bezeqint.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 30665 invoked from network); 14 Oct 2004 20:37:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 14 Oct 2004 20:37:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 14 Oct 2004 20:37:04 -0000
+Received: (qmail 3354 invoked from network); 14 Oct 2004 20:37:03 -0000
+Received: from 201-13-4-83.dsl.telesp.net.br (unknown [201.13.4.83])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 14 Oct 2004 20:36:56 -0000
+Received: from jdcolon69 (toast[109.220.215.244])
+          by 201.13.4.83 (sf739) with SMTP
+          id <2490036867526bl92530x>
+          (Authid: Pedro$24279$Deleon);
+          Thu, 14 Oct 2004 23:34:16 +0300
+Approved: Yes (spitz.sw@cfl.rr.com)
+Distribution: orbit adherent 
+Prevent-NonDelivery-Report: Yes
+Reply-To: "Eldon Lutz" <endgame_fair712@bezeqint.net>
+From: "Eldon Lutz" <endgame_fair712@bezeqint.net>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: To Accept This Offer Today!
+Date: Thu, 14 Oct 2004 23:41:16 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--169543888953332108"
+Content-Length: 492
+Lines: 21
+
+----169543888953332108
+Content-Type: text/html;
+	charset="iso-5685-9"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+
+Dear Applicant,<p>
+
+Because you're a valued member, you're been approved for a loan of $350,000.<br>
+Accept this offer before 10/16/2004 and start enjoying your loan today.<p>
+
+Accept today at:<br>
+<a href="http://polar.moneyanalysis.net/s6/jj.php?n5n=63">http://polaroid.moneyanalysis.net/s6/jj.php?n5n=63</a><p>
+Sincerely,<br>
+PayLoan Co.<br>
+
+</html>
+
+
+----169543888953332108--

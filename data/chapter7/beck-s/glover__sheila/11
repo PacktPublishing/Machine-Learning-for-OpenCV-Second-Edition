@@ -1,0 +1,43 @@
+Message-ID: <15437671.1075855877015.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 04:34:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: shona.wilson@enron.com, brent.price@enron.com, sally.beck@enron.com
+Subject: Controls needed to ensure cashflows are received by Infinity
+Cc: michael.moscoso@enron.com, gary.hickerson@enron.com, pushkar.shahi@enron.com, 
+	clara.carrington@enron.com, david.port@enron.com, 
+	samantha.davidson@enron.com, joyce.kuo@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, gary.hickerson@enron.com, pushkar.shahi@enron.com, 
+	clara.carrington@enron.com, david.port@enron.com, 
+	samantha.davidson@enron.com, joyce.kuo@enron.com
+X-From: Sheila Glover
+X-To: Shona Wilson, Brent A Price, Sally Beck
+X-cc: Michael E Moscoso, Gary Hickerson, Pushkar Shahi, Clara Carrington, David Port, Samantha T Davidson, Joyce Kuo
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Shona, Brent and Sally,
+This morning, the cash flows from approximately 75 books were not received by 
+Infinity from the ERMS system.  We normally get 375 books and only got 296 
+this morning.
+
+Per conversation with Joyce Kuo and Mike Moscoso, Susan Trevino, Risk 
+Controls,  and Christian, RAC, changed the book heirarchy on Friday, moving 
+global products books, including the prepays, out of the ECT group and into 
+another group.  We have had discussions in the past verifying with Risk 
+Controls that the ECT group is the only group which automatically sends its 
+cash flows to Infinity.  Other cash flows from books are included only by 
+being listed in a script.  This was not done when the books were moved from 
+the ECT Group on Friday.
+
+Obviously, the Rate & Currency is not able to hedge Enron's cash flows when 
+so much has been omitted.   At this time we are about one hour away from a 
+good Hedging report for the trading desk.  This report is due the desk daily 
+by 7:30 am.
+
+Mike and I discussed the need for controls and sign-off by him or Shona for 
+changes in book heirarchy.  
+Sheila

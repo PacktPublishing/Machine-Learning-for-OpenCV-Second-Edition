@@ -1,0 +1,46 @@
+Return-Path: <monksj@fastermail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 32669 invoked by uid 115); 2 Sep 2004 06:57:51 -0000
+Received: from monksj@fastermail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(4.10.11.97):. 
+ Processed in 0.375074 secs); 02 Sep 2004 06:57:51 -0000
+Received: from unknown (HELO D8KF2N31) (4.10.11.97)
+  by churchill.factcomp.com with SMTP; 2 Sep 2004 06:57:51 -0000
+Received: from 224.22.78.212 by 81.203.244.177; Thu, 02 Sep 2004 12:48:24 +0500
+Message-ID: <DFKOZESJSGSCJFNABFFIV@hotmail.com>
+From: "Mrs. Miller" <tomay@outgun.com>
+Reply-To: "Mrs. Miller" <spacecruise@operamail.com>
+To: bruceg@em.ca, msuggitt@em.ca, rightbrain@em.ca, songbird@em.ca, tomg@em.ca
+Subject: Re: ..an advertising method worth thinking about
+Date: Thu, 02 Sep 2004 09:52:24 +0200
+X-Mailer: AOL 2.5 for Windows US sub 932
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0952629301001087021"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-IP:82.4.42.129
+----0952629301001087021
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<HTML><HEAD><META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<STYLE>BODY {FONT-FAMILY: "Arial"}TT {FONT-FAMILY: "Courier New"}BLOCKQUOTE.CITE {PADDING-LEFT: 2.6em; MARGIN: 0px; BORDER-LEFT: 0px solid}
+SPAN.TABOOHEADER {DISPLAY: none}</STYLE><META content="MSHTML 6.00.2712.300" name=GENERATOR></HEAD>
+<body bgColor=#6666CC><SPAN class=EUDORAHEADER><BR></SPAN><SPAN class=EUDORAHEADER><P>&nbsp;</P>
+<TABLE borderColor=#000000 cellSpacing=0 cellPadding=0 width=650 align=center bgColor=#ffffff border=1>
+<TR><TD bgColor=#ccccff><DIV align=center><TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR><TD bgColor=#000000><DIV align=center><B><FONT face="Arial, Helvetica, sans-serif"><font size=1><BR><BR><a href="http://www.broadcastingtoday.biz"><FONT color=yellow size=10>Press to Email Your Web Site<BR>to 28 MILLION PEOPLE</A><font size=5><BR>
+<BR></B><FONT color=yellow size=5<B>=> <font color=red><B><a href="http://www.broadcastingtoday.biz""><font color=red><U>F-R-E-E Today Only</U></A></B>
+
+<font color=yellow> <=</B><FONT COLOR=yellow size=2><FONT color=yellow size=1><BR><BR>
+<FONT color=gray size=1>Only If You Are a Non-Profit Organization That Aids Low-Income Families Gain Access to the Internet<BR>
+At Our Web Site, Mail Us At the Address Listed For Details. PO Box 1259, Seattle, WA 98111<BR>
+Every Month We Show A Different Non-Commercial Special for Specific Non-Profit Causes.
+<BR><BR></FONT></FONT></B></DIV></TD></TR></TABLE></DIV><P align=center><B><FONT face="Arial, Helvetica, sans-serif"><FONT color=gray size=2></FONT></FONT></B></P>
+<BLOCKQUOTE><FONT face="Arial, Helvetica, sans-serif" color=black size=3><P align=center>
+<font size=1><A HREF="http://www.broadcastingtoday.biz/unsub.html">Unsubscribe From Our Non Primary Purpose Non-Commercial/Non-Profit Exempt From S.877 Code List<BR><BR></A><BR></TABLE>
+</BODY></HTML>
+
+----0952629301001087021--
+

@@ -1,0 +1,52 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-dactylus@em.ca
+Received: (qmail 28423 invoked by uid 115); 11 Apr 2005 23:42:19 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.145.89):. 
+ Processed in 0.685482 secs); 11 Apr 2005 23:42:19 -0000
+Received: from bl6-145-89.dsl.telepac.pt (HELO heartandsoul.pt) (82.155.145.89)
+  by churchill.factcomp.com with SMTP; 11 Apr 2005 23:42:13 -0000
+Date: Tue, 12 Apr 2005 00:35:37 +0000 (Hora padrão de GMT)
+From: [news] Heart & Soul <news@heartandsoul.pt>
+To: bait-dactylus@em.ca
+Message-ID: 38454.024733796294_17889242893368
+Subject: KING BRITT in Portugal [april 15, 16, 17]
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cheyenne apresenta King Britt</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#000000" text="#3366CC">
+<div align="center"><img src="http://p001.no.sapo.pt/kingbritt/kb_eflyer.jpg" width="450" height="811" />
+  <br />
+  <table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td> <div align="center">
+        <p><font color="#666666" size="1" face="Arial, Helvetica, sans-serif">O seu email foi registado na base de dados da Heart &amp; Soul.<br />
+          Se desejar ser removido desta base de dados, envie um email para remove@heartandsoul.pt</font></p>
+      </div></td>
+    </tr>
+  </table>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

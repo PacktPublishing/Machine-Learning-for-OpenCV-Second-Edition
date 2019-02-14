@@ -1,0 +1,37 @@
+Message-ID: <6533490.1075856641473.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 05:17:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: wenyao.jia@enron.com, debbie.brackett@enron.com
+Subject: Re: "analytical" var implementation in RisktRAC
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Tanya Tamarchenko
+X-To: Wenyao Jia, Debbie R Brackett
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Debbie,
+I am forwarding to you a 2 page document describing implementation of 
+"analytical" VAR in RisktRAC.
+
+Here is why this effort is very important:
+1. We need to calculate VAR for other percentile but 5 (1% or even 0.2% as 
+mentioned by Rick Buy)
+and our simulation model can not handle required number of simulations;
+2. We need to present additional risk measures (such as Mean Tail Loss) to 
+the Board.
+
+The analytical approach is implemented in a spreadsheet and fully tested 
+already so there will be no problems
+with the algorithm itself.
+
+We need to get together and discuss IT implementation.
+
+What do you think?
+
+Tanya

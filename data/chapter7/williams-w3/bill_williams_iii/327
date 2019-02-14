@@ -1,0 +1,35 @@
+Message-ID: <24351765.1075863302868.JavaMail.evans@thyme>
+Date: Fri, 10 Aug 2001 10:43:36 -0700 (PDT)
+From: kate.symes@enron.com
+To: william.crooks@enron.com, duong.luu@enron.com, will.smith@enron.com
+Subject: Forward Obligations Report Issues
+Cc: bill.williams@enron.com, david.poston@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com, david.poston@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Crooks, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcrooks>, Luu, Duong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dluu>, Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dposton2>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Bill -
+
+Following are two glitches the Real Time group has run across with the Forward Obs report. As I understand, Dave Poston is getting set to roll out a new version of Enpower Position Manager, which may eventually take the place of many of the reports we run (Forward Obs included), but in the meantime these are the problems we've seen. Thanks so much for your help on this!
+
+1. REPORT NOT READING TWO IDENTICAL STRIPS - When deals are extended in scheduling for the same hours, same volume, same price and same counterparty (using the same deal number), the report only reads one strip. For example, on 8/6/01, deal 718320 was previously entered as a sale to the California Imbalance for 50 mw HE 7-12 and two separate but identical strips of 25 mw for HE 13-22. The report read all 50 mw HE 7-12, but only 25 mw HE 13-22. I zeroed out one 25 mw strip and aggregated it with the other so the report would read all 50 mw. 
+
+Another example, on 8/4/01, deal 718205 is a purchase from EES HE 21-22 which was also entered as two separate strips of 25 mw each. Again, the report read only one of these, and I eventually zeroed out one strip and aggregated it with the other so the report would read a total of 50 mw for those hours.
+
+Due to the nature of Real Time deal entry - high volume and a lot of deal extension in scheduling - it would be impractical to aggregate volumes within deals that fall in the same hours at the same price. So I'm hoping this can be remedied by tweaking the report to read strips with identical terms. Please let me know if this is feasible.
+
+2. REPORT NOT READING SALES AT THE BC BORDER - This is a new one that cropped up this morning. We made a purchase from a counterparty at the BPA Busbar, wheeled the power to the BC Border and sold it there. For some reason, although all three deals (724366/724368/724367) appear in Deal Entry and Scheduling, the sale at the BC Border does not show up in the Forward Obligation report. After looking into this, I've found no deal entry errors and can only conclude that deal 724367 is simply not pulling into the report. I'm wondering if this is related to deals done at the BC Border, although I don't recall seeing this problem before.
+
+Again, please let me know when and if these report problems can be addressed. I look forward to our next conference call....
+
+Thanks,
+Kate Symes
+Real Time Trading Support
+503-464-3939

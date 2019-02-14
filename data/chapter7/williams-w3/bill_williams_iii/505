@@ -1,0 +1,58 @@
+Message-ID: <31281508.1075863307113.JavaMail.evans@thyme>
+Date: Fri, 27 Jul 2001 15:42:20 -0700 (PDT)
+From: cara.semperger@enron.com
+To: corry.bentley@enron.com, david.poston@enron.com, will.smith@enron.com, 
+	vishwanatha.venkataswami@enron.com
+Subject: Path Confirmation Testing of latest Release
+Cc: bill.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Bentley, Corry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbentle>, Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dposton2>, Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith>, Venkataswami, Vishwanatha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vvenkata>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Afternoon:
+
+I am looking at version 1.0.0.47 the day I was checking was initally June 23, but switched over to June 20th (new data)
+
+TEXT WRAPPING:
+
+The text wraps in the following Fields:
+	Counterparty
+	Tag
+	Comments
+
+The text does not consistently wrap in the Path field, which is the most critical field to have wrap.
+
+MISSING TRANSMISSION INFORMATION:(June 20th re-ran to check this)
+	The transmission information from Trans1, Trans1Oasis seems to be coming thru (inconsistently); and I still do not see the transmission information from  Trans2, 	Trans2 Oasis represented.  I re-ran my data from the 20th to check it BUT when. I went to delete my data for the 20th, and there was none there.  Do you all know if 	this data was purposefully removed, or did it just go away? The only data that seems to have survived to this version is the data from 6/23.
+
+SORTING:
+
+	By Tag - I see how to make it sort in the strip, but cannot just look at tag numbers. Right now in Lotus, If i activate the sort by tag I get a list, and If I just start 	typing a tag number, it takes me to the one I want.  Can we have that Capability duplicated?  
+
+	By Global ID - This needs to be able to be done in the upper Sort area.
+
+EXPANDED VIEW:
+	Will the Path size in the expanded view be fixed in the next release?  I still cannot see the whole path.
+	The Delivery point is blank when I pull this up, but I populated border 1 and 2. What drives this?
+
+PATH CUT: (working in June 20th data)
+	I was able to sucessfully cut a path - but with the following problems
+	1. Region still needs to be the forced choice that I mentioned in earlier e-mails
+	2. After a path is cut, and I go into the original path, I can't see any way to easily find the cut associated with the path. Maybe a -Go to Cut- button
+	3.I would like to be able to add incremental hours to a cut, as hourly cuts can go on for several hours but one hour at a time. A new tag might have to be made each 	hour of the cut.
+
+
+
+Question: In the expanded view of the Path under counterparty;  I see a name of a person kind of greyed out.  Who is this person? It does not match the trader name on the deal.  I looked at Williams deal # 633037.1.  Janelle Barsness shows in the path expanded view, but no trader is visible in the trade (Done on EOL).  I looked at WAPA deal # 622350.1, Kathy Crane is in the path expanded view, and Penny Casey is their trader.  
+
+That's all for now,  catch you all on Monday
+
+Cara
+

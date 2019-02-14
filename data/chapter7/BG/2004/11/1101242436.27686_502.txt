@@ -1,0 +1,55 @@
+Return-Path: <>
+Received: (fqmail 23709 invoked from network); 23 Nov 2004 20:40:18 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 23 Nov 2004 20:40:18 -0000
+Received: (qmail 23646 invoked from network); 23 Nov 2004 20:40:18 -0000
+Received: from heartandsoul.pt (adslsapo-b4-161-218.telepac.pt [81.193.161.218])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 23 Nov 2004 20:40:17 -0000
+Date: Tue, 23 Nov 2004 19:07:17 +0000 (Hora padrão de GMT)
+From: [news] Heart & Soul <news@heartandsoul.pt>
+To: webmaster@ezmlm.org
+Message-ID: 38314.796724537038_3590111264664
+Subject: 10th December DIMITRI FROM PARIS @ New VOICE oporto PORTUGAL
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Dimitri From Paris - 10 Dezembo 2004 @ Voice Club, Matosinho - Portugal</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#DEDEDE" text="#000000" link="#999999" vlink="#999999" alink="#999999" >
+<bgsound src="http://vidric.com/work/hs/dimitri/dimitri.mp3" loop="1">
+<div align="center">
+  <p><img src="http://vidric.com/work/hs/dimitri/dfp_animation.gif" width="470" height="424">
+</p>
+  <table width="450" border="0" cellspacing="0" cellpadding="3">
+    <tr>
+      <td><div align="justify"><font color="#999999" size="1" face="Arial, Helvetica, sans-serif">Esta mensagem &eacute; enviada sob a nova legisla&ccedil;&atilde;o sobre correio Electr&oacute;nico, Sec&ccedil;&atilde;o 301, Par&aacute;grafo (a) (2) (c) Decreto S 1618, T&iacute;tulo Terceiro aprovado pelo 105&ordm; Congresso Base das Normativas Internacionais sobre o SPAM. &quot;Um e-mail n&atilde;o poder&aacute; ser considerado SPAM quando inclui uma forma de ser removido&quot;.<br>
+      Para remover o seu e-mail, devolva-nos uma mensagem para unsubscribe@heartandsoul.pt com a palavra &quot;REMOVER&quot; na linha de assunto. In you want to be removed from the list please send us a message with the word &quot;REMOVE&quot; in subject.</font></div></td>
+    </tr>
+  </table>
+  <p>&nbsp;  </p>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

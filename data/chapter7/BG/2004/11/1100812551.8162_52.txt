@@ -1,0 +1,142 @@
+Return-Path: <ux188556@virtdom.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8642 invoked by uid 115); 18 Nov 2004 20:34:10 -0000
+Received: from ux188556@virtdom.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(12.26.83.51):. 
+ Processed in 0.166828 secs); 18 Nov 2004 20:34:10 -0000
+Received: from s1morpheus.virtdom.com (12.26.83.51)
+  by churchill.factcomp.com with SMTP; 18 Nov 2004 20:34:09 -0000
+Received: from s1morpheus.virtdom.com (localhost.virtdom.com [127.0.0.1])
+	by s1morpheus.virtdom.com (8.12.10/8.12.10) with ESMTP id iAIKj880016953
+	for <bruceg@em.ca>; Thu, 18 Nov 2004 15:45:08 -0500 (EST)
+	(envelope-from ux188556@s1morpheus.virtdom.com)
+Received: (from ux188556@localhost)
+	by s1morpheus.virtdom.com (8.12.10/8.12.10/Submit) id iAIKj8kd016952;
+	Thu, 18 Nov 2004 15:45:08 -0500 (EST)
+	(envelope-from ux188556)
+Date: Thu, 18 Nov 2004 15:45:08 -0500 (EST)
+Message-Id: <200411182045.iAIKj8kd016952@s1morpheus.virtdom.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+To: bruceg@em.ca
+From: newsupdate@stockbrokerprofile.com
+Reply-to: newsupdate@stockbrokerprofile.com
+X-Mailer: Perl Powered Socket Mailer
+Subject: Wild Western Clothing
+
+<body bgcolor="#CCCC99" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/bg.jpg" onLoad="MM_preloadImages('images/navigation/catalog_f2.jpg','images/navigation/stores_f2.jpg','images/navigation/western_f2.jpg')" link="#663300" vlink="#333333">
+<table border="0" cellpadding="0" cellspacing="0" width="738">
+  <!-- fwtable fwsrc="header(flat).png" fwbase="header.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tr> 
+    <td width="112"><img src="http://www.billymartin.com/images/spacer.gif" width="108" height="1" border="0"></td>
+    <td width="161"><img src="http://www.billymartin.com/images/spacer.gif" width="144" height="1" border="0"></td>
+    <td width="119"><img src="http://www.billymartin.com/images/spacer.gif" width="110" height="1" border="0"></td>
+    <td width="139"><img src="http://www.billymartin.com/images/spacer.gif" width="128" height="1" border="0"></td>
+    <td width="161"><img src="http://www.billymartin.com/images/spacer.gif" width="161" height="1" border="0"></td>
+    <td width="105"><img src="http://www.billymartin.com/images/spacer.gif" width="105" height="1" border="0"></td>
+    <td width="108"><img src="http://www.billymartin.com/images/spacer.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr> 
+    <td rowspan="2" colspan="6" valign="top" align="left">
+      <div align="center"><img src="http://www.stockbrokerprofile.com/stock/outgoing/bmlogo.gif" width="779" height="94"></div>
+    </td>
+    <td width="108"><img src="http://www.billymartin.com/images/spacer.gif" width="1" height="67" border="0"></td>
+  </tr>
+  <tr> 
+    <td width="108" height="38"> </td>
+  </tr>
+</table>
+<table width="50%" border="0" cellpadding="5">
+  <tr> 
+    <td width="7%"> </td>
+    <td width="93%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://www.billymartin.com/home.htm"><b>Home</b></a><b> 
+      > <font color="#333300">Investor Relations</font></b></font></td>
+  </tr>
+</table>
+<table width="757" border="0" height="456">
+  <tr> 
+    <td align="left" valign="top" height="2" colspan="2"> 
+      <div align="center"></div>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top" align="left" height="270" width="162"> 
+      <p><img src="http://www.billymartin.com/company/stock.jpg" width="135" height="105"></p>
+      <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ticker 
+        Symbol: BLYM<br>
+        </font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><br>
+        </b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Shareholder 
+        Information</b><br>
+        <a href="http://www.billymartin.com/ir_market_maker.htm">Market Makers</a><br>
+        <a href="http://www.billymartin.com/ir_transfer_agent.htm">Transfer Agent</a></font></p>
+      <p><font face="Times New Roman, Times, serif" size="3"><br>
+        </font></p>
+    </td>
+    <td width="425" valign="top" align="left" height="322"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Symbol:  BLYM (As 
+        in “Baseball's Lucky Yankee Manager)<br>
+        Traded: OTC “Pink Sheets”</b> </font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
+        <br>
+        <font size="-1">Press Release <br>
+        Source: Billy Martin's USA, Inc.</font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="-1"> 
+        -- Expanding East and West Via CyberAds, Inc.<br>
+        Thursday November 18, 5:00 am ET </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">LOS ANGELES, 
+        Nov. 18, 2004 (PRIMEZONE) -- Billy Martin's USA, Inc. (Other OTC:BLYM.PK 
+        - News) announced today that they have executed an agreement to support 
+        the online and direct response marketing of its internationally known 
+        western-lifestyle apparel and accessories brand, whose products heretofore 
+        have been sold via the Company's upscale boutiques in New York City and 
+        Hollywood on the Sunset Strip.<br>
+        Per the agreement, CyberAds, Inc. (OTC BB:CYAD.OB - News) will be working 
+        closely with BLYM and its new product design team to produce a direct 
+        Internet sales and direct response marketing program targeted to consumers 
+        -- both in the U.S. and abroad -- who are looking for authentic USA-made 
+        goods with a distinctive American or "western'' flavor and character.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Doug Newton, 
+        CEO of BLYM noted, "This agreement gives us the opportunity to expand 
+        on the Internet and tap into the market of foreign consumers like never 
+        before. Potentially, there is a huge, untapped, sleeping giant of a market 
+        outside the U.S. for well-made American branded goods, especially in Japan, 
+        China and Russia where young, active consumers with disposable incomes 
+        are increasingly embracing e-commerce.''</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">"With CyberAds' 
+        expertise in Internet and direct marketing, we can expose our products 
+        across oceans and borders alike, in a highly cost-efficient manner.''</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">"The Billy 
+        Martin's brand is about as American as you can get, and when you combine 
+        that with well-made, great fitting, and well-priced goods -- like a classic 
+        denim shirt with pearl snap buttons -- the consumer is given a product 
+        of value, prestige and character,'' Newton concluded.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Statements 
+        about BLYM's future expectations, including revenues and earnings, and 
+        all other statements in this release are "forward-looking statements.'' 
+        Since these statements involve risks and uncertainties and are subject 
+        to change at any time, the company's actual results may differ materially 
+        from the company's plans if its assumptions prove to be incorrect, or, 
+        for a variety of other reasons. Billy Martin's USA, Inc. became public 
+        in October 2001, via reverse merger with Hitech Resource Corp. which changed 
+        its corporate name to Billy Martin's USA, Inc. after completing the acquisition 
+        of Billy Martin's Western Wear, LA, Inc. Shares of its stock trade under 
+        the symbol "BLYM.'' The company is currently not an SEC reporting 
+        company.</font></p>
+      <p></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="-1">Contact:<br>
+        Billy Martin's USA, Inc.<br>
+        Doug Newton, CEO <br>
+        (310) 289-5000<br>
+        doug@billymartin.com<br>
+        http://www.BillyMartin.com</font>
+      </td>
+  </tr>
+  <tr valign="top" align="center"> 
+    <td colspan="4"> </td>
+  </tr><tr> 
+    <td colspan="2">      <p> 
+      <div align="center"><font size="-2"><b><a href="mailto:remove@bankersfinance.com"><font size="-1" face="Verdana, Arial, Helvetica, sans-serif">To 
+        Remove "Reply HERE"</font></a> <font size="-1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+        and type remove in subject line.</font></b></font></div></td>
+  </tr>
+
+</table>
+</body>

@@ -1,0 +1,46 @@
+Return-Path: <Wilford.Foremanconfess@bh2media.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 5897 invoked from network); 17 Jul 2005 07:31:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 17 Jul 2005 07:31:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Jul 2005 07:31:14 -0000
+Received: (qmail 6891 invoked from network); 17 Jul 2005 07:31:13 -0000
+Received: from 69.5.6.152 (unknown [59.50.227.121])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 17 Jul 2005 07:31:12 -0000
+Received: from hogging.net.tr (helo=ineke)
+        by smtp0.br with esmtp (Exim 3.35 #1 (chunglicrypt))
+        id 8AKaB6-4305curriculumbayola-00
+Date: Sun, 17 Jul 2005 14:28:16 +0600
+Message-Id:  <delgross.AA5673@l-p-s.com>
+From: "Davis Mims" <YGRAEP@l-p-s.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org, cvs@bruce-guenter.dyndns.org, rait@bruce-guenter.dyndns.org
+Subject:  We Owe You Alot of Money
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Length: 590
+Lines: 22
+
+
+<html>Dear Homeowner,
+<p>
+You have been pre-approved for $400,000 with a low fixed rate.<p>
+
+This offer is being extended to you unconditionally and your credit is in no way a factor.<p>
+
+Take Advantage of this Limited Time opportunity.  Just answer only a few questions at <br>
+our site and we can give you an approval in under 30 seconds..it’s that simple!<p>
+
+<a href="http://www.refin-xnd.com/index2.php?refid=malx">http://www.refin-xnd.com/index2.php?refid=malx</a><p>
+
+Regards,<p>
+
+Davis Mims<br>
+Prime Lending, LLC.<p>
+
+
+database deletion - http://www.refin-xnd.com/r.php</html>

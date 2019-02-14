@@ -1,0 +1,73 @@
+Return-Path: <deorcq@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 26141 invoked by uid 115); 2 Feb 2005 08:21:37 -0000
+Received: from deorcq@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.33.140.189):. 
+ Processed in 0.26766 secs); 02 Feb 2005 08:21:37 -0000
+Received: from 82-33-140-189.cable.ubr02.wiga.blueyonder.co.uk (82.33.140.189)
+  by churchill.factcomp.com with SMTP; 2 Feb 2005 08:21:35 -0000
+Received: from %ONE_DNS_NAME ([%LIST_IP])
+          by %TWO_DNS_NAME
+          (InterMail vK.4.04.00.03 104-834-361 license %LICENSE)
+          with ESMTP
+          id <78892349726058.JIVF033.@%ONE_DNS_NAME>
+          for <bait-smoothes@em.ca>; Wed, 02 Feb 2005 06:17:37 -0200
+Received: from  (.ONE_DNS_NAME [%LIST_IP])
+	by ONE_DNS_NAME (MOS 3.4.5-GR)
+	with SMTP id BNX62217;
+	Wed, 02 Feb 2005 14:14:37 +0600 (IST)
+Message-ID: <%MESSAGEID_1>
+From: "Ginger Foster" <deorcq@yahoo.com>
+To: "Bait-smoothes" <bait-smoothes@em.ca>
+Subject: Message subject
+Date: Wed, 02 Feb 2005 14:22:37 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_%NEXTPART"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: eGroups Message Poster
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_%NEXTPART
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<CENTER><A HREF=3D"http://.caymanwalls.com/575r.html"><img src=3D"http://.=
+caymanwalls.com/image/9.jpg"></A></CENTER>
+<BR><BR><BR><BR>
+<CENTER><A HREF=3D"http://.caymanwalls.com/nothanks.php">Goodbye</A></CENT=
+ER>
+<BR><BR><BR><BR>
+
+=20=20=20  
+=20=20=20  
+=20=20=20  
+=20=20=20  
+=20
+------=_NextPart_%NEXTPART
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<CENTER><A HREF=3D"http://.caymanwalls.com/575r.html"><img src=3D"http://.=
+caymanwalls.com/image/9.jpg"></A></CENTER>
+<BR><BR><BR><BR>
+<CENTER><A HREF=3D"http://.caymanwalls.com/nothanks.php">Goodbye</A></CENT=
+ER>
+<BR><BR><BR><BR>
+
+=20=20=20  
+=20=20=20  
+=20=20=20  
+=20=20=20  
+=20
+
+------=_NextPart_%NEXTPART--
+
+

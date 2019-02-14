@@ -1,0 +1,71 @@
+Message-ID: <13062146.1075856596740.JavaMail.evans@thyme>
+Date: Thu, 10 Aug 2000 10:26:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: kenneth.shulklapper@enron.com, greg.couch@enron.com
+Subject: risk bucketing for P/L
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, bob.lee@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, bob.lee@enron.com
+X-From: Zimin Lu
+X-To: Kenneth Shulklapper, Greg Couch
+X-cc: Stinson Gibner, Vince J Kaminski, Bob Lee
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Ken and Greg,
+
+What we have been doing is absoutely fine under the assumption that the market
+conditions move relatively small ( where Taylor series has fast convergence).
+However, we could run into troubles when the market has a big move.
+
+In order to have a error proof bucketing, we can use the following 
+method(finite-difference), let me
+know what you guys think how to implement it to the transport book.
+
+
+Sensitivity to risk parameters, or P/L attribution by risk bucket:
+
+Today's premium = Premium based on today's curves
+
+Last day's premium = Premium based on last day's curves
+
+Change due to
+DeliveryCurveShift = [Premium based on today's delivery price and last day's 
+receipt  price, volatilities, interest rate, last's time to expiration etc] - 
+Last day's premium - today's change due to Gamma1
+
+ReceiptCurveShift = [Premium based on today's receipt price and last day's 
+everything else] - Last day's premium -today's change due to Gamma2
+
+Vega1 = [Premium based on today's delivery volatility and last day's 
+everything else] - Last day's premium
+
+Vega2 = as above for gas volatility 
+
+Rho =  as above for interest rate
+
+Eta = as above for correlation
+
+Theta = {[Premium based on today's days to expiration and last day's 
+everything else] - Drift - Last day's premium } / 365.25
+
+[This is a daily Theta.The sprdopt function returns an annualised theta.]
+
+Gamma1 = 0.5 Last day's Gamma1' * PriceShift1 2??Gamma2 = 0.5 Last day's Gamma2' * PriceShift2 2
+
+Drift = [(exp (Last day's interest rate*(Today - Last days) /365.25)) - 1 ]* 
+Last day's premium
+
+Priceshift1 = Today's delivery price - Last day's delivery price
+
+Priceshift2 = Today's receipt price - Last day's receipt price
+
+Gamma1' = theoretical Gamma1, i.e. gamma from spread option
+
+Gamma2' = theoretical Gamma2, i.e. gamma from spread option calculation
+
+Liquidation= Premium of option which expired the day before, i.e. intrinsic 
+value.

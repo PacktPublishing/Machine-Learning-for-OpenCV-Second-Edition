@@ -1,0 +1,536 @@
+Return-Path: <Tom@Magnummtg.com>
+Delivered-To: em-ca-bait-abdicant@em.ca
+Received: (qmail 9060 invoked by uid 115); 10 Jun 2005 20:26:09 -0000
+Received: from Tom@Magnummtg.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(205.178.146.50):. 
+ Processed in 0.72054 secs); 10 Jun 2005 20:26:09 -0000
+Received: from mail.networksolutionsemail.com (205.178.146.50)
+  by churchill.factcomp.com with SMTP; 10 Jun 2005 20:26:04 -0000
+Received: (qmail 24172 invoked by uid 78); 10 Jun 2005 20:27:30 -0000
+Received: from unknown (HELO 192.168.1.114) (168.103.249.156)
+  by mail5.netsol.inquent.com with SMTP; 10 Jun 2005 20:27:30 -0000
+Message-ID: <vsxp30c5z3kraxzxwvyp@ttid65weiu>
+From: "Tom@Magnummtg.com" <Tom@Magnummtg.com>
+To: "bait-abdicant" <bait-abdicant@em.ca>
+Subject: From Tom your Mortgage Guy
+Date: Fri, 10 Jun 2005 14:27:27 -0600
+MIME-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!--
+
+This plain text message area is for recipients who have email programs that=
+ do not support html emails (almost every modern email client software progra=
+m can accept html emails). If you want to add an alternate plain text messag=
+e for those who cannot receive html emails, enter it here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//-->
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns:b=3D"urn:schemas-microsoft-com:office:publisher"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-1252=
+">
+<meta name=3DProgId content=3DPublisher.Document>
+<meta name=3DGenerator content=3D"Microsoft Publisher 11">
+<link rel=3DFile-List href=3D"simplemailer_files/filelist.xml">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+b\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Thomas P. Kadlec</o:Author>
+  <o:Version>11.6408</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if pub]><xml>
+ <b:Publication type=3D"OplPub" oty=3D"68" oh=3D"256">
+  <b:OhPrintBlock priv=3D"30E">285</b:OhPrintBlock>
+  <b:FWebPublication priv=3D"C00">True</b:FWebPublication>
+  <b:DptlPageDimensions type=3D"OplPt" priv=3D"1211">
+   <b:Xl priv=3D"104">7772400</b:Xl>
+   <b:Yl priv=3D"204">43891200</b:Yl>
+  </b:DptlPageDimensions>
+  <b:OhGallery priv=3D"180E">259</b:OhGallery>
+  <b:OhFancyBorders priv=3D"190E">261</b:OhFancyBorders>
+  <b:OhCaptions priv=3D"1A0E">257</b:OhCaptions>
+  <b:OhQuillDoc priv=3D"200E">280</b:OhQuillDoc>
+  <b:OhMailMergeData priv=3D"210E">262</b:OhMailMergeData>
+  <b:OhColorScheme priv=3D"220E">283</b:OhColorScheme>
+  <b:DwNextUniqueOid priv=3D"2304">1</b:DwNextUniqueOid>
+  <b:IdentGUID priv=3D"2A07">0+1&lt;_\IU=3D.4F\Q[8QYUMI9`</b:IdentGUID>
+  <b:DpgSpecial priv=3D"2C03">5</b:DpgSpecial>
+  <b:FWorkpaneVisible priv=3D"3900">False</b:FWorkpaneVisible>
+  <b:CTimesEdited priv=3D"3C04">1</b:CTimesEdited>
+  <b:NuDefaultUnitsEx priv=3D"4104">26</b:NuDefaultUnitsEx>
+ </b:Publication>
+ <b:PrinterInfo type=3D"OplPrb" oty=3D"75" oh=3D"285">
+  <b:CDnb priv=3D"104">2</b:CDnb>
+  <b:Rgdnb type=3D"OplDnb" priv=3D"212">
+   <b:OplDnb type=3D"OplDnb" priv=3D"11">
+    <b:Ssz priv=3D"103">5</b:Ssz>
+    <b:Dptl type=3D"OplPt" priv=3D"213">
+     <b:Xl>7772400</b:Xl>
+     <b:Yl>12801600</b:Yl>
+    </b:Dptl>
+    <b:Sso priv=3D"303">2</b:Sso>
+    <b:FSszOK priv=3D"600">True</b:FSszOK>
+    <b:SzDevice priv=3D"818">Minolta PageWorks/Pro 20 (MS)</b:SzDevice>
+    <b:SzDriver priv=3D"918">winspool</b:SzDriver>
+    <b:SzOutput priv=3D"A18">LPT3:</b:SzOutput>
+    <b:Devmode priv=3D"C10" cb=3D"2">&quot;```</b:Devmode>
+   </b:OplDnb>
+   <b:OplDnb type=3D"OplDnb" priv=3D"111">
+    <b:Ssz>5</b:Ssz>
+    <b:Dptl type=3D"OplPt">
+     <b:Xl>7772400</b:Xl>
+     <b:Yl>12801600</b:Yl>
+    </b:Dptl>
+    <b:Sso>2</b:Sso>
+    <b:FSszOK>True</b:FSszOK>
+    <b:Devmode cb=3D"2">&quot;```</b:Devmode>
+   </b:OplDnb>
+  </b:Rgdnb>
+  <b:OhColorSepBlock priv=3D"30E">286</b:OhColorSepBlock>
+  <b:FKOBlackFills priv=3D"A00">True</b:FKOBlackFills>
+  <b:TlmTilingMode priv=3D"D04">1</b:TlmTilingMode>
+  <b:DzlOverlap priv=3D"1004">228600</b:DzlOverlap>
+  <b:FAllowBleeds priv=3D"1800">True</b:FAllowBleeds>
+  <b:FNoBlankLines priv=3D"1A00">True</b:FNoBlankLines>
+  <b:FEnvUseDefaults priv=3D"1C00">True</b:FEnvUseDefaults>
+  <b:FEnvFeedLandscape priv=3D"1D00">True</b:FEnvFeedLandscape>
+  <b:DpiX priv=3D"2203">0</b:DpiX>
+  <b:DpiY priv=3D"2303">0</b:DpiY>
+ </b:PrinterInfo>
+ <b:ColorSeperationInfo type=3D"OplCsb" oty=3D"79" oh=3D"286">
+  <b:Plates type=3D"OplCsp" priv=3D"214">
+   <b:OplCsp type=3D"OplCsp" priv=3D"11">
+    <b:EcpPlate type=3D"OplEcp" priv=3D"213">
+     <b:Color priv=3D"104">-1</b:Color>
+    </b:EcpPlate>
+   </b:OplCsp>
+  </b:Plates>
+  <b:DzlOverprintMost priv=3D"304">304800</b:DzlOverprintMost>
+  <b:CprOverprintMin priv=3D"404">243</b:CprOverprintMin>
+  <b:FKeepawayTrap priv=3D"700">True</b:FKeepawayTrap>
+  <b:CprTrapMin1 priv=3D"904">128</b:CprTrapMin1>
+  <b:CprTrapMin2 priv=3D"A04">77</b:CprTrapMin2>
+  <b:CprKeepawayMin priv=3D"B04">255</b:CprKeepawayMin>
+  <b:DzlTrap priv=3D"C04">3175</b:DzlTrap>
+  <b:DzlIndTrap priv=3D"D04">3175</b:DzlIndTrap>
+  <b:PctCenterline priv=3D"E04">70</b:PctCenterline>
+  <b:FMarksRegistration priv=3D"F00">True</b:FMarksRegistration>
+  <b:FMarksJob priv=3D"1000">True</b:FMarksJob>
+  <b:FMarksDensity priv=3D"1100">True</b:FMarksDensity>
+  <b:FMarksColor priv=3D"1200">True</b:FMarksColor>
+  <b:FLineScreenDefault priv=3D"1300">True</b:FLineScreenDefault>
+ </b:ColorSeperationInfo>
+ <b:TextDocProperties type=3D"OplDocq" oty=3D"91" oh=3D"280">
+  <b:OhPlcqsb priv=3D"20E">282</b:OhPlcqsb>
+  <b:OhPlbefd priv=3D"40E">289</b:OhPlbefd>
+  <b:EcpSplitMenu type=3D"OplEcp" priv=3D"A13">
+   <b:Color>134217728</b:Color>
+  </b:EcpSplitMenu>
+ </b:TextDocProperties>
+ <b:StoryBlock type=3D"OplPlcQsb" oty=3D"101" oh=3D"282">
+  <b:IqsbMax priv=3D"104">1</b:IqsbMax>
+  <b:Rgqsb type=3D"OplQsb" priv=3D"214">
+   <b:OplQsb type=3D"OplQsb" priv=3D"11">
+    <b:Qsid priv=3D"104">1</b:Qsid>
+    <b:TomfCopyfitBase priv=3D"80B">-9999996.000000</b:TomfCopyfitBase>
+    <b:TomfCopyfitBase2 priv=3D"90B">-9999996.000000</b:TomfCopyfitBase2>
+   </b:OplQsb>
+  </b:Rgqsb>
+ </b:StoryBlock>
+ <b:EmbeddedFontInfo type=3D"OplPlbEfd" oty=3D"108" oh=3D"289">
+  <b:IefdMax priv=3D"104">1</b:IefdMax>
+  <b:Rgefd type=3D"OplEfd" priv=3D"214">
+   <b:OplEfd type=3D"OplEfd" priv=3D"11">
+    <b:CStyles priv=3D"302">0</b:CStyles>
+    <b:SzName priv=3D"418">Times New Roman</b:SzName>
+    <b:grfqisidLo priv=3D"604">223</b:grfqisidLo>
+    <b:rgfffc priv=3D"704">376323</b:rgfffc>
+    <b:Fs priv=3D"B09">8AWH``````(`(`````````/\!`$```/__</b:Fs>
+    <b:panose priv=3D"D10" cb=3D"10">*`@(&amp;`P4$!0(#!`</b:panose>
+    <b:grfqisidHi priv=3D"E04">4096</b:grfqisidHi>
+   </b:OplEfd>
+  </b:Rgefd>
+ </b:EmbeddedFontInfo>
+ <b:ColorScheme type=3D"OplSccm" oty=3D"92" oh=3D"283">
+  <b:Cecp priv=3D"104">8</b:Cecp>
+  <b:Rgecp type=3D"OplEcp" priv=3D"214">
+   <b:OplEcp priv=3D"F">Empty</b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"111">
+    <b:Color>16711680</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"211">
+    <b:Color>52479</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"311">
+    <b:Color>26367</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"411">
+    <b:Color>13421772</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"511">
+    <b:Color>16737792</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"611">
+    <b:Color>13382502</b:Color>
+   </b:OplEcp>
+   <b:OplEcp type=3D"OplEcp" priv=3D"711">
+    <b:Color>16777215</b:Color>
+   </b:OplEcp>
+  </b:Rgecp>
+  <b:SzSchemeName priv=3D"618">Bluebird</b:SzSchemeName>
+ </b:ColorScheme>
+</xml><![endif]-->
+<title>Page Title</title>
+<!--[if pub]><xml>
+ <b:Page type=3D"OplPd" oty=3D"67" oh=3D"266">
+  <b:PtlvOrigin type=3D"OplPt" priv=3D"511">
+   <b:Xl>22860000</b:Xl>
+   <b:Yl>22860000</b:Yl>
+  </b:PtlvOrigin>
+  <b:Oid priv=3D"605">(`0`````````</b:Oid>
+  <b:OhoplWebPageProps priv=3D"90E">267</b:OhoplWebPageProps>
+  <b:OhoplFormProperties priv=3D"B0E">268</b:OhoplFormProperties>
+  <b:OhpdMaster priv=3D"D0D">263</b:OhpdMaster>
+  <b:PgtType priv=3D"1004">5</b:PgtType>
+  <b:PtlvOriginEx type=3D"OplPt" priv=3D"1111">
+   <b:Xl>110185200</b:Xl>
+   <b:Yl>110185200</b:Yl>
+  </b:PtlvOriginEx>
+ </b:Page>
+ <b:otyFormProperties type=3D"OplOdpoFormControl" oty=3D"119" oh=3D"268">
+  <b:FCOSubmitType priv=3D"C04">2</b:FCOSubmitType>
+  <b:FCOEmailAddr priv=3D"E18">someone@example.com</b:FCOEmailAddr>
+  <b:FCOEmailTitle priv=3D"F18">Web Site Form Response</b:FCOEmailTitle>
+  <b:FCOConfirmText priv=3D"1018">Your information was received</b:FCOConfirmT=
+ext>
+  <b:FCOResultsFile priv=3D"1318">FORMDATA.HTM</b:FCOResultsFile>
+  <b:FCOPageNumber priv=3D"1704">1</b:FCOPageNumber>
+  <b:FCOSubmitUrl priv=3D"1818">http://example.microsoft.com/~user/ispscript.c=
+gi</b:FCOSubmitUrl>
+ </b:otyFormProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-signature:31367 -2147483648 8 0 1073742335 -65536;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	text-indent:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:0pt;
+	margin-bottom:0pt;
+	text-align:left;
+	font-family:"Times New Roman";
+	mso-default-font-family:"Times New Roman";
+	mso-ascii-font-family:"Times New Roman";
+	mso-latin-font-family:"Times New Roman";
+	mso-greek-font-family:"Times New Roman";
+	mso-cyrillic-font-family:"Times New Roman";
+	mso-armenian-font-family:Sylfaen;
+	mso-hebrew-font-family:"Times New Roman";
+	mso-arabic-font-family:"Times New Roman";
+	mso-devanagari-font-family:Mangal;
+	mso-bengali-font-family:Vrinda;
+	mso-gurmukhi-font-family:Raavi;
+	mso-oriya-font-family:Sandnya;
+	mso-tamil-font-family:Latha;
+	mso-telugu-font-family:Gautami;
+	mso-kannada-font-family:Tunga;
+	mso-malayalam-font-family:Kartika;
+	mso-thai-font-family:"Angsana New";
+	mso-georgian-font-family:Sylfaen;
+	mso-hangul-font-family:Batang;
+	mso-kana-font-family:"MS Mincho";
+	mso-bopomofo-font-family:PMingLiU;
+	mso-han-font-family:SimSun;
+	mso-halfwidthkana-font-family:"MS Mincho";
+	mso-syriac-font-family:"Estrangelo Edessa";
+	mso-thaana-font-family:"MV Boli";
+	mso-latinext-font-family:"Times New Roman";
+	font-size:10.0pt;
+	color:black;
+	mso-font-kerning:14.0pt;
+	mso-char-tracking:100%;
+	mso-font-width:100%;}
+ol
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:.25in;}
+ul
+	{margin-top:0in;
+	margin-bottom:0in;
+	margin-left:.25in;}
+@page
+	{size:8.5in 14.0in;
+	mso-paper-source:2;
+	mso-hyphenate:auto;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"3075" fill=3D"f" fillcolor=3D"whi=
+te [7]"
+  strokecolor=3D"black [0]">
+  <v:fill color=3D"white [7]" color2=3D"white [7]" on=3D"f"/>
+  <v:stroke color=3D"black [0]" color2=3D"white [7]">
+   <o:left v:ext=3D"view" color=3D"black [0]" color2=3D"white [7]"/>
+   <o:top v:ext=3D"view" color=3D"black [0]" color2=3D"white [7]"/>
+   <o:right v:ext=3D"view" color=3D"black [0]" color2=3D"white [7]"/>
+   <o:bottom v:ext=3D"view" color=3D"black [0]" color2=3D"white [7]"/>
+   <o:column v:ext=3D"view" color=3D"black [0]" color2=3D"white [7]"/>
+  </v:stroke>
+  <v:shadow color=3D"#ccc [4]"/>
+  <v:textbox inset=3D"2.88pt,2.88pt,2.88pt,2.88pt"/>
+  <o:colormenu v:ext=3D"edit" fillcolor=3D"blue [1]" strokecolor=3D"black [0]"
+   shadowcolor=3D"#ccc [4]"/>
+ </o:shapedefaults><o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body link=3D"#0066ff" vlink=3D"#6633cc" style=3D"MARGIN: 0px; tab-interval:=
+ .5in">
+
+<div style=3D"WIDTH: 8.515in; POSITION: absolute; HEIGHT: 11.037in"><!--[if=
+ gte vml 1]><v:shapetype id=3D_x0000_t202 coordsize =3D=20
+"21600,21600" o:spt =3D "202" path =3D=20
+" m0,0 l0,21600,21600,21600,21600,0 xe"><v:stroke joinstyle =3D=20
+"miter"></v:stroke><v:path gradientshapeok =3D "t" o:connecttype =3D=20
+"rect"></v:path></v:shapetype><v:shape id=3D_x0000_s1025=20
+style=3D"Z-INDEX: 1; LEFT: 1in; WIDTH: 513pt; POSITION: absolute; TOP: 90pt=
+; HEIGHT: 703.59pt; mso-wrap-distance-left: 2.88pt; mso-wrap-distance-top: 2=
+.88pt; mso-wrap-distance-right: 2.88pt; mso-wrap-distance-bottom: 2.88pt"=20
+o:cliptowrap=3D"t" type =3D "#_x0000_t202" coordsize =3D "21600,21600" fill=
+ed =3D "f"=20
+fillcolor =3D "white" stroked =3D "f" strokecolor =3D "black"><v:fill color=
+2 =3D=20
+"white"></v:fill><v:stroke color2 =3D "white"><o:left v:ext=3D"view" color=
+ =3D "black"=20
+color2 =3D "white"></o:left><o:top v:ext=3D"view" color =3D "black" color2=
+ =3D=20
+"white"></o:top><o:right v:ext=3D"view" color =3D "black" color2 =3D=20
+"white"></o:right><o:bottom v:ext=3D"view" color =3D "black" color2 =3D=20
+"white"></o:bottom><o:column v:ext=3D"view" color =3D "black" color2 =3D=20
+"white"></o:column></v:stroke><v:shadow color =3D "#ccc"></v:shadow><v:path=20
+insetpenok=3D"f"></v:path><v:textbox=20
+style=3D"MARGIN-TOP: 2.875pt; LEFT: auto; MARGIN-LEFT: 2.875pt; WIDTH: 507.=
+25pt; TOP: auto; HEIGHT: 697.812pt; mso-column-margin: 5.76pt"=20
+inset =3D "2.88pt,2.88pt,2.88pt,2.88pt"></v:textbox><![if pub]><b:otyEscher=
+Text type=3D"OplPo" oty=3D"1" oh=3D"293">
+  <b:FUserChangedFmt priv=3D"200">True</b:FUserChangedFmt>
+  <b:FMoved priv=3D"300">True</b:FMoved>
+  <b:Txwp priv=3D"402">3</b:Txwp>
+  <b:Oid priv=3D"C05">(```````````</b:Oid>
+  <b:OidAssociated priv=3D"D05">(```````````</b:OidAssociated>
+  <b:Qsid priv=3D"2704">1</b:Qsid>
+  <b:DxlMax priv=3D"AA04">6515100</b:DxlMax>
+  <b:DylMax priv=3D"AB04">8935620</b:DylMax>
+ </b:otyEscherText>
+ <![endif]></v:shape><![endif]--><![if !vml]><span style=3D'mso-ignore:vglayo=
+ut;position:
+absolute;z-index:1;left:96px;top:120px;width:684px;height:939px'>
+
+<table cellpadding=3D0 cellspacing=3D0>
+ <tr>
+  <td width=3D684 height=3D939 style=3D'vertical-align:top'><![endif]>
+  <div style=3D"PADDING-RIGHT: 2.88pt; PADDING-LEFT: 2.88pt; PADDING-BOTTOM:
+  2.88pt; PADDING-TOP: 2.88pt" class=3Dshape v:shape =3D "_x0000_s1025">
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Click to visit my Mortgage Sit=
+e!!!&nbsp; I am your local mortgage guy!!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">I have great rates and product=
+s to help you!!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"FONT-SIZE: 24pt; COLOR: blue; language: EN; mso-ansi-language: EN">=
+<a
+  href=3D"http://WWW.MAGNUMMORTGAGEGROUP.COM">http://WWW.MAGNUMMORTGAGEGROUP.C=
+OM</a></span><span
+  style=3D"language: EN; mso-ansi-language: EN"><o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Click to enter my Mortgage Pay=
+ment Sweepstakes<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Click for car loans, Credit Ca=
+rds, Mortgages, Home Equity Lines<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">I am here to help even if you=
+ just have questions!!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">&nbsp;<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">I also deal with bad credit, f=
+oreclosure and Bankruptcy!!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">&nbsp;<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Let me know what I can do for=
+ you!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">&nbsp;<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Hi,<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">I am Tom at Magnum!!!&nbsp; I=
+ am a mortgage specialist and I want your business!!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Let me know if I can help you!=
+!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">This is an automated E-mail do=
+ not REPY<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">The Magnum Companies, Inc.<o:p=
+></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Mortgage Division<o:p></o:p></=
+span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Your Lender for Life<o:p></o:p=
+></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">13175 Pinery Drive<o:p></o:p><=
+/span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">Colorado Springs, CO 80908<o:p=
+></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">(719) 494-8280<o:p></o:p></spa=
+n></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<o:p><=
+/o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">This is an advertisement.&nbsp=
+; I am sorry if this e-mail made you mad!!<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN">To be removed from future e-ma=
+ils click here:<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D"MARGIN-BOTTOM: 14pt; mso-pagination: none"><sp=
+an
+  style=3D"language: EN; mso-ansi-language: EN"><A
+  href=3D"mailto:Removemefromthelistplease@Magnummtg.com">mailto:Removemefromt=
+helistplease@Magnummtg.com</a></span><span
+  style=3D"language: EN; mso-ansi-language: EN"><o:p></o:p></span></p>
+  </div><![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]>
+</div>
+
+</body>
+
+</html>
+
+
+
+

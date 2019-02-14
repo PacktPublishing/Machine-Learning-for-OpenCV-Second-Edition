@@ -1,0 +1,29 @@
+Return-Path: <kholt_ar@tvol.it>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 6524 invoked from network); 8 Sep 2004 02:29:37 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 08 Sep 2004 02:29:37 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Sep 2004 02:29:37 -0000
+Received: (qmail 18771 invoked from network); 8 Sep 2004 02:29:36 -0000
+Received: from tvskolen.dk (unknown [211.162.100.119])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 08 Sep 2004 02:29:35 -0000
+Message-ID: <758201c49556$b8ab73dc$b300d637@tvskolen.dk>
+From: "Katrina Holt" <kholt_ar@tvol.it>
+To: rait@bruce-guenter.dyndns.org
+Subject: [92]no more unwanted mail[17]
+Date: Wed, 08 Sep 2004 03:45:50 +0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+Content-Length: 326
+Lines: 5
+
+<html>
+<a href="http://maaazeqgmpphdt.adware-business.com/?id=pnam12"><img src="http://amffyebjluo.adware-business.com/m5.gif" border="0"></a><br>
+Put an end to unwanted spam, popups and other internet security hazards PERMANENTLY<br>
+<a href="http://ghrfhbcuthyg.adware-business.com/?id=pnam12">more info here...</a>
+</html>

@@ -1,0 +1,24 @@
+Message-ID: <18203470.1075840839614.JavaMail.evans@thyme>
+Date: Tue, 27 Nov 2001 15:56:11 -0800 (PST)
+From: john.lavorato@enron.com
+To: greg.whalley@enron.com
+Subject: 
+Cc: louise.kitchen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: louise.kitchen@enron.com
+X-From: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JLAVORA>
+X-To: Whalley, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gwhalle>
+X-cc: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Greg,
+
+1.  We can include the sithe agreement in the master netting agreement although we do not believe that this will work for Dynegy as it is not a forward contract but an annuity stream which cannot be accelerated, however if they think it works - fine.  We would not want the margin calculated net (it needs to be exclusive of this transaction).  If they were to convert to two swaps in order to allow for acceleration in the master netting agreement, there is an accounting issue for us.
+
+2.  In the East we are long physical power from them in the markets which are not pools.  We are short to them in the pools which clear financially and we have no issues in the pools.  So we do not need to do anything.  I'll have the west soon. 
+
+3.  We will have our physical gas position by point soon.  We will agree to prepay for all of Dec but we should only pay day by day.

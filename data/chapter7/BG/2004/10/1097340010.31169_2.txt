@@ -1,0 +1,63 @@
+Return-Path: <jlqaotaurljza@aussiemail.com.au>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 14695 invoked from network); 9 Oct 2004 01:34:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 09 Oct 2004 01:34:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Oct 2004 01:34:17 -0000
+Received: (qmail 8821 invoked from network); 9 Oct 2004 01:34:16 -0000
+Received: from 69.5.6.152 (unknown [61.97.159.182])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 09 Oct 2004 01:34:15 -0000
+X-Message-Info: AT/ow++upx/H+/
+Received: from smtp-..jlqaotaurljza@aussiemail.com.au ([61.97.159.182]) by e-nrg.jlqaotaurljza@aussiemail.com.au with Microsoft SMTPSVC(5.0..);
+	 Fri, 08 Oct 2004 19:38:03 +0500
+Received: from ..jlqaotaurljza@aussiemail.com.au (.jlqaotaurljza@aussiemail.com.au [61.97.159.182])
+	by smtp-..jlqaotaurljza@aussiemail.com.au (Postfix) with SMTP id HMKTSU
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri, 08 Oct 2004 18:44:03 +0400
+Received: from smtp-..jlqaotaurljza@aussiemail.com.au ([61.97.159.182]) by fp-pr.jlqaotaurljza@aussiemail.com.au with Microsoft SMTPSVC(5.0..);
+	 Fri, 08 Oct 2004 09:45:03 -0500
+X-Message-Info: LRZVA+%ND_LC_CHAR[1-3]+v+OC+/
+Received: from .jlqaotaurljza@aussiemail.com.au ([234.119.99.4]) by .jlqaotaurljza@aussiemail.com.au with MailEnable ESMTP; Fri, 08 Oct 2004 08:44:03 -0600
+Date: Fri, 08 Oct 2004 08:40:03 -0600
+Message-Id: <.@jlqaotaurljza@aussiemail.com.au>
+From:  Winslow <jlqaotaurljza@aussiemail.com.au>
+To: Lists-bikini <lists-bikini@bruce-guenter.dyndns.org>
+Subject: Online pharmacy
+MIME-Version: 1.0 (produced by  .)
+Content-Type: multipart/alternative;
+	boundary="--"
+
+----
+Content-Type: text/html;
+	charset="iso--"
+Content-Transfer-Encoding: quoted-printable
+Content-Description:   
+
+<p align=3D"center"><font face=3D"Verdana" size=3D"2">Message is loading..=
+</font></p>
+<p align=3D"center"><a href=3D"http://opt4life.biz/">
+<img border=3D"0" src=3D"http://opt4life.biz/newtop.gif" width=3D"783" hei=
+ght=3D"344"></a></p>
+<div align=3D"center" style=3D"width: 1021; height: 2">
+  <br>
+&nbsp;<div align=3D"center">
+    <font face=3D"Verdana" size=3D"2">Image not showing? View message
+    <a href=3D"http://opt4life.biz/">here</a></font></div>
+</div>
+<p><br>
+&nbsp;</p>
+<div align=3D"center">
+  <font face=3D"verdana" size=3D"1">
+  <a href=3D"http://opt4life.biz/abc/">Stop</a> future 
+  announcements.</div>
+</font>
+<p align=3D"center">&nbsp;</p><font SIZE=3D"1"></font>
+
+
+
+
+
+
+------

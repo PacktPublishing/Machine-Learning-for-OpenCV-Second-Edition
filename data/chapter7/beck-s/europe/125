@@ -1,0 +1,107 @@
+Message-ID: <21026755.1075855875539.JavaMail.evans@thyme>
+Date: Tue, 21 Mar 2000 16:23:00 -0800 (PST)
+From: tim.poullain-patterson@enron.com
+To: ted.murphy@enron.com, sally.beck@enron.com
+Subject: Project "Q"
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim Poullain-Patterson
+X-To: Ted Murphy, Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi...
+
+Ted,
+
+As discussed, please see below an outline of the changes that we are making 
+to the Logistics set-up in London. I also attach the Roles & Responsibilities 
+document we discussed - I highlight in red the sections that have been agreed 
+with the functional groups... 
+
+Sally,
+
+Sorry to have missed you this week. I hope to have the opportunity to explain 
+to you in greater detail the changes we are making to the logistics function 
+in Europe. We hope to replicate this model to Singapore and possibly Houston 
+once we have proven the model in London.
+
+I will also forward you a plan that we have kicked off to migrate trading 
+support for the Helsinki operation back to London...
+
+Regards,
+Tim
+---------------------- Forwarded by Tim Poullain-Patterson/LON/ECT on 
+03/21/2000 11:13 PM ---------------------------
+
+
+Tim Poullain-Patterson
+03/10/2000 05:57 PM
+To: Graham Cane/LON/ECT@ECT, Rebecca Millerchip/LON/ECT@ECT, Iain 
+Greig/LON/ECT@ECT, David Rae/LON/ECT@ECT, Paul Wallace/HEL/ECT@ECT, Cindy 
+Horn/HOU/ECT@ECT, Sylvie Mostura/LON/ECT@ECT, Andre Nicholson/LON/ECT@ECT
+cc: Fernley Dyson/LON/ECT@ECT, Kevin Sweeney/HOU/ECT@ECT, Tani 
+Nath/LON/ECT@ECT, Richard Sage/LON/ECT@ECT, John L Nowlan/HOU/ECT@ECT, 
+Richard Burchfield/HOU/ECT@ECT 
+
+Subject: Project "Q"
+
+Hi,
+
+I'd like to summarise the various discussions that have taken place over the 
+last few days in relation to our forthcoming Logistics project, which I've 
+tentatively named "Project Q". At some point a prize will be awarded to 
+whoever can guess what the "Q" stands for...
+
+Objective
+
+Project "Q" has a twofold objective:
+
+1) Implement the Co-ordination function for the London and Helsinki Global 
+Trading Support group - see attached for a definition of this function 
+
+2) Roll out the Products Inventory Management System ("PIMS") for the London 
+and Helsinki Global Trading Support groups.
+
+Target Timescale
+
+Completion of both objectives is currently planned for the end of May. David 
+and I have hastily put together a timeline which we will refine as a group at 
+a Kick-Off meeting scheduled for next Friday, by which time the project team 
+will be assembled in London - see attached .
+
+To meet this tight timeframe, the scope of the project needs to be clearly 
+understood especially in relation to rolling out PIMS. Though over time 1) 
+functionality may be added to PIMS, 2) there will (hopefully) be a further 
+deployment in Houston and Singapore, 3) an interface to RightAngle may be 
+developed, 4) invoicing may be added etc... - for the purpose of this project 
+the scope of the PIMS application is limited to replacing MANIPS for the 
+Helsinki and London Operators (Petchems may or may not be included in this 
+phase). The actual PIMS specification will be finalised next week by Graham 
+and David (IT are currently mid-way through a full elaboration for the 
+system).
+
+Project Team
+
+Steering group will comprise me (also Sponsor), Graham and Becky.
+
+Project Manager is Cindy (arriving from Houston on Tuesday).
+
+IT lead for PIMS is David Rae (full time for duration of project), managed by 
+Iain Greig.
+
+A Task Force comprising three contract accountants is being assembled and 
+will be in place by the middle of next week.
+
+Other stakeholders/key participants in this project are Logistics in London 
+and Helsinki. The result of this project should be to leverage our existing 
+operators and improve controls by introducing a second tier support around 
+the Logistics function. However, for this to happen a significant 
+contribution will be required from all our Operators to ensure a successful 
+implementation within our timeframe.
+
+Regards,
+Tim

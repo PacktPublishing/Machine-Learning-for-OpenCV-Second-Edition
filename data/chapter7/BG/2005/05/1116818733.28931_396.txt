@@ -1,0 +1,55 @@
+Return-Path: <wbtrbz@atlaswebmail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 30147 invoked by uid 115); 21 May 2005 20:36:50 -0000
+Received: from wbtrbz@atlaswebmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(61.82.220.18):. 
+ Processed in 0.109057 secs); 21 May 2005 20:36:50 -0000
+Received: from unknown (HELO 209.5.178.248) (61.82.220.18)
+  by churchill.factcomp.com with SMTP; 21 May 2005 20:36:48 -0000
+X-Message-Info: CZI/b+456+h/QX+480/4099226766306
+Received: from smtp-..wbtrbz@atlaswebmail.com ([61.82.220.18]) by k546-fds4.wbtrbz@atlaswebmail.com with Microsoft SMTPSVC(5.0.7824.8279);
+	 Sat, 21 May 2005 14:56:40 -0700
+Received: from 138..wbtrbz@atlaswebmail.com (675.wbtrbz@atlaswebmail.com [61.82.220.18])
+	by smtp-..wbtrbz@atlaswebmail.com (Postfix) with SMTP id 889URT555JV8K
+	for <bait@em.ca>; Sun, 22 May 2005 02:49:40 +0500
+Received: from smtp-..wbtrbz@atlaswebmail.com ([61.82.220.18]) by tk5-lo50.wbtrbz@atlaswebmail.com with Microsoft SMTPSVC(5.0.0419.7400);
+	 Sat, 21 May 2005 18:50:40 -0300
+X-Message-Info: VRNRV+%ND_LC_CHAR[1-3]7+pn+EVN+81/76900331929
+Received: (qmail 63804 invoked by uid 10); Sat, 21 May 2005 22:55:40 +0100
+Date: Sat, 21 May 2005 23:51:40 +0200
+Message-Id: <133668085717.27172@wbtrbz@atlaswebmail.com>
+From: Katharine Talbot <wbtrbz@atlaswebmail.com>
+To: Bait <bait@em.ca>
+Subject: Application approval #2424
+MIME-Version: 1.0 (produced by  1.8)
+Content-Type: multipart/alternative;
+	boundary="--0908932915321593117"
+
+----0908932915321593117
+Content-Type: text/plain;
+	charset="iso-3547-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Description:   
+
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.r8tesdrop.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Young Nixon
+
+http://www.r8tesdrop.com/x/st.html
+
+
+
+----0908932915321593117--

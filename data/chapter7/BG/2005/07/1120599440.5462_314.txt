@@ -1,0 +1,50 @@
+Return-Path: <asocdh@ole.com>
+Delivered-To: em-ca-bait-apologue@em.ca
+Received: (qmail 24046 invoked by uid 115); 5 Jul 2005 14:46:18 -0000
+Received: from asocdh@ole.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(213.4.149.11):. 
+ Processed in 1.607488 secs); 05 Jul 2005 14:46:19 -0000
+Received: from 11.host.terra.es (HELO tsmtp7.mail.isp) (213.4.149.11)
+  by churchill.factcomp.com with SMTP; 5 Jul 2005 14:45:59 -0000
+Received: from SERVER ([10.20.0.250]) by tsmtp7.mail.isp
+          (terra.es) with SMTP id IJ5T3800.2AY for <bait-apologue@em.ca>;
+          Tue, 5 Jul 2005 16:47:32 +0200 
+Reply-To: "asocdh@ole.com" <asocdh@ole.com>
+From: "asocdh@ole.com" <asocdh@ole.com>
+To: "Bait Apologue" <bait-apologue@em.ca>
+Subject: Bait Apologue's Vacation
+Date: Tue, 5 Jul 2005 09:47:30 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Qmail-Scanner-Message-ID: <112057477767223822@churchill>
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+</head>
+
+<body>
+Thinking about a vacation in mexico?
+
+Come to the <a href="http://ajijicguesthouse.com">Ajijic Guest House</a>.
+
+20 Dollars a night rate, if you say you saw this ad!
+
+Email:  	info@ajijicguesthouse.com
+Phone: 		(From the U.S. and Canada (001 + 52))
+			(376) 766 -2149 (9am - 9pm CST)
+
+Location: 	Ajijic Guest House
+Independencia #11
+Ajijic, Jalisco, Mexico CP 45920
+
+6172968A8487F32EB19B
+</body>
+</html>

@@ -1,0 +1,40 @@
+Return-Path: <marketplaza@verizon.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 25073 invoked by uid 115); 29 Apr 2005 15:33:46 -0000
+Received: from marketplaza@verizon.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(206.46.252.46):. 
+ Processed in 0.147945 secs); 29 Apr 2005 15:33:46 -0000
+Received: from vms046pub.verizon.net (206.46.252.46)
+  by churchill.factcomp.com with SMTP; 29 Apr 2005 15:33:44 -0000
+Received: from verizon.net ([68.130.237.204])
+ by vms046.mailsrvcs.net (Sun Java System Messaging Server 6.2 HotFix 0.04
+ (built Dec 24 2004)) with ESMTPA id <0IFP00EDBT482AM5@vms046.mailsrvcs.net> for
+ bruceg@em.ca; Fri, 29 Apr 2005 10:46:56 -0500 (CDT)
+Date: Fri, 29 Apr 2005 11:47:16 -0400
+From: marketplaza@verizon.net
+Subject: bruceg@em.ca  Your Computer Can Create Sales Leads For You.
+To: bruceg@em.ca
+Message-id: <20050429114716.34BDF4BD5C92BF82@verizon.net>
+MIME-version: 1.0
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: quoted-printable
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<p><a href=3D"mailto:marketplaza@aol.com?subject=3DPlease Send Me More Infor=
+mation On Your E-Mail System.&amp;amp;body=3DHello Mike. I would like to lea=
+rn more about your E-Mail system. I look forward to hearing from you. Thank =
+You! (Please type below your full name, company name, website address, phone=
+ number and best time to reach you. I will contact you shortly.)"><img src=
+=3D"http://www.angelfire.com/apes2/mrmike/eadcreative.GIF" width=3D"500" hei=
+ght=3D"425"></a></p>
+
+</body>
+
+</html>

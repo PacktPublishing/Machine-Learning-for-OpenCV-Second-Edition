@@ -1,0 +1,49 @@
+Return-Path: <GregorioSullivan@concentric.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 8312 invoked by uid 115); 6 Jul 2005 15:11:39 -0000
+Received: from GregorioSullivan@concentric.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(201.25.240.50):. 
+ Processed in 1.754209 secs); 06 Jul 2005 15:11:39 -0000
+Received: from 201-25-240-50.bnut3702.dsl.brasiltelecom.net.br (201.25.240.50)
+  by churchill.factcomp.com with SMTP; 6 Jul 2005 15:11:19 -0000
+Received: from idt.net ([128.0.206.106] "HELO idt.net" 
+            smtp-auth: <none> TLS-CIPHER: <none> TLS-PEER-CN1: <none>)
+            by mail.idt.net with SMTP id AnZVxmdrGpBLRJF; Wed, 06 Jul 2005 08:11:33 -0800
+Reply-To: "Lacy Dillard" <LacyDillard@idt.net>
+From: "Lacy Dillard" <LacyDillard@idt.net>
+To: asetar@em.ca
+Date: Wed, 06 Jul 2005 08:11:33 -0800
+Message-ID: <uYBI9KGLNQGqXVELndz2694KL7ubP@idt.net>
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+X-MimeOLE: Produced By MIME-tools 5.503 (Entity 5.501)
+Subject: FreeMort agQuotes
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="-----=986_3401_5Z150I34.63MM543G"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+-------=986_3401_5Z150I34.63MM543G
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY><BR>Important information regarding your loan: ID EHPI883<BR><BR> 
+Hello, Your refinance application has been accepted. We are ready to give you a loan.<BR><BR>
+After further review, our lenders have esstablished your locked rate as low as 3.87%<BR><BR>
+Please finalize everything by visiting our Secure Web-Form<BR><BR>
+<A href="http://www.reftosavecash.com/?a=Grabadora">http://www.reftosavecash.com/?a=Grabadora</A><BR><BR>
+Upon receiving your submission you will be contacted shortly via phone/email. 
+</BODY>
+</HTML>
+
+-------=986_3401_5Z150I34.63MM543G
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+-------=986_3401_5Z150I34.63MM543G--
+

@@ -1,0 +1,70 @@
+Message-ID: <20834712.1075856603873.JavaMail.evans@thyme>
+Date: Wed, 26 Jul 2000 04:16:00 -0700 (PDT)
+From: pinnamaneni.krishnarao@enron.com
+To: marty.sunde@enron.com
+Subject: Re: New POWERMOD97.xls
+Cc: dennis.benevides@enron.com, maureen.craig@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dennis.benevides@enron.com, maureen.craig@enron.com
+X-From: Pinnamaneni Krishnarao
+X-To: Marty Sunde
+X-cc: Dennis Benevides, Maureen Craig
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Marty:
+ Absolutely yes! We are now using option functions in the Exotic options 
+library (in R:\Exotica which everybody in Risk Management has access to) 
+instead of the old Visual Basic code in the powermod file. This improved the 
+calculation speed for options quite a bit.
+
+ We are also embarking on a new project to develop the next generation 
+structuring and pricing models. I will discuss about this project in more 
+detail with you soon and get your input, but the main goals I see now are: 
+
+1. Superior performance (speed) to enable fast pricing especially for the 
+underwriting group, 
+2. Proper documentation for easy maintenance and ability to quickly adapt to 
+meet future needs, and
+3. Security/access control to the files.
+
+The first stage in this process is to take inventory of what we have: I am 
+documenting the current structuring models. This step is important not only 
+for developing our next generation models but also for the AA audit of all 
+the EES pricing models.
+
+Krishna.
+
+
+
+To: Maureen Craig/HOU/EES@EES, Pinnamaneni Krishnarao/HOU/ECT@ECT, Dennis 
+Benevides/HOU/EES@EES
+cc:  
+Subject: New POWERMOD97.xls
+
+any performance improvement to be expected?
+---------------------- Forwarded by Marty Sunde/HOU/EES on 07/26/2000 10:14 
+AM ---------------------------
+
+
+Pinnamaneni Krishnarao@ECT
+07/24/2000 01:37 PM
+To: Dennis Benevides/HOU/EES@EES, James W Lewis/HOU/EES@EES, Neil 
+Hong/HOU/EES@EES
+cc: Marty Sunde/HOU/EES@EES, Alexios Kollaros/HOU/EES@EES 
+Subject: New POWERMOD97.xls
+
+We have made enhancements to POWERMOD97.xls model to enable proper processing 
+from the batch model. These changes should not affect current functionality 
+of this file. We will be putting the new version into production later today. 
+Please contact me or Alex Kollaros (x39806) with your comments or problems.
+
+Thanks,
+Krishna
+x35485.
+
+
+

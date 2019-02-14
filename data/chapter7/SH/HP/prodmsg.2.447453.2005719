@@ -1,0 +1,89 @@
+Received: from smtp.easydns.com (HELO storm.easydns.com) (205.210.42.52)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:39 -0000
+Received: by storm.easydns.com (Postfix)
+	id A2762500C2; Tue, 19 Jul 2005 06:57:38 -0400 (EDT)
+Date: Tue, 19 Jul 2005 06:57:38 -0400 (EDT)
+From: MAILER-DAEMON (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0F9584D186.1121770658/storm.easydns.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105738.A2762500C2@storm.easydns.com>
+
+This is a MIME-encapsulated message.
+
+--0F9584D186.1121770658/storm.easydns.com
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host storm.easydns.com.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<currier@oakmoon.net> (expanded from <info@sharoncurrier.com>): host
+    mail.oakmoon.net[68.105.246.70] said: 550 This message scored 13.5 spam
+    points. Congratulations! (in reply to end of DATA command)
+
+--0F9584D186.1121770658/storm.easydns.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; storm.easydns.com
+X-Postfix-Queue-ID: 0F9584D186
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 06:57:31 -0400 (EDT)
+
+Final-Recipient: rfc822; currier@oakmoon.net
+Original-Recipient: rfc822; info@sharoncurrier.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host mail.oakmoon.net[68.105.246.70] said: 550 This
+    message scored 13.5 spam points. Congratulations! (in reply to end of DATA
+    command)
+
+--0F9584D186.1121770658/storm.easydns.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from mailwisconsin.com (YahooBB219017052037.bbtec.net [219.17.52.37])
+	by storm.easydns.com (Postfix) with SMTP id 0F9584D186
+	for <info@sharoncurrier.com>; Tue, 19 Jul 2005 06:57:31 -0400 (EDT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815792;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@sharoncurrier.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279015">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--0F9584D186.1121770658/storm.easydns.com--

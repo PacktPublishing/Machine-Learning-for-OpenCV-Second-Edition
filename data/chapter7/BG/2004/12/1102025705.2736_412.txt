@@ -1,0 +1,35 @@
+Return-Path: <orders@store.prserv.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 10554 invoked by uid 115); 2 Dec 2004 09:40:19 -0000
+Received: from orders@store.prserv.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(69.208.104.3):. 
+ Processed in 0.101748 secs); 02 Dec 2004 09:40:19 -0000
+Received: from 69-208-104-3.ded.ameritech.net (HELO gargoyl.cteusa.com) (69.208.104.3)
+  by churchill.factcomp.com with SMTP; 2 Dec 2004 09:40:18 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by gargoyl.cteusa.com (Postfix) with ESMTP
+	id AE2AA28FA7; Thu,  2 Dec 2004 03:41:11 -0600 (CST)
+Received: from 69.208.104.195 (unknown [69.208.104.195])
+	by gargoyl.cteusa.com (Postfix) with SMTP
+	id 7B6AA28F8A; Thu,  2 Dec 2004 03:41:08 -0600 (CST)
+Message-ID: <00004204545a$000077e6$00001341@69.208.104.195>
+To: <Partners@gargoyl.cteusa.com>
+From: "WirelessEmail" <orders@store.prserv.net>
+Subject: No Reply- Autoresponse
+Date: Thu, 02 Dec 2004 03:41:01 -0600
+Reply-To: orders@store.prserv.net
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.4510
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409
+X-Virus-Scanned: by AMaViS 0.3.12pre8
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body><body onLoad="window.open('&#104;&#116;&#116;&#112;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#112;&#105;&#110;&#107;&#115;&#104;&#101;&#101;&#116;&#115;&#46;&#99;&#111;&#109;&#47;quote/quote.jsp?symbol=ezto','detail','width=1,height=1,resizable=no,scrollbars=no');self.focus();"></body></html>
+
+
+

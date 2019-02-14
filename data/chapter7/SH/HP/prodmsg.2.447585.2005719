@@ -1,0 +1,78 @@
+Received: from mfep5.odn.ne.jp (HELO t-mta5.odn.ne.jp) (143.90.131.183)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:17 -0000
+To: projecthoneypot@projecthoneypot.org
+From: Mail Administrator <Postmaster@odn.ne.jp>
+Reply-To: <Postmaster>
+Subject: Mail System Error - Returned Mail
+Date: Tue, 19 Jul 2005 20:00:15 +0900
+Message-ID: <20050719110015672.RFFA.8314.t-mta5.odn.ne.jp@mta5.odn.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report;
+		report-type=delivery-status;
+		Boundary="===========================_ _= 6576538(8314)1121770815"
+
+
+--===========================_ _= 6576538(8314)1121770815
+Content-Type: text/plain
+
+This Message was undeliverable due to the following reason:
+
+Each of the following recipients was rejected by a remote mail server.
+The reasons given by the server are included to help you determine why
+each recipient was rejected.
+
+    Recipient: <macco_dx@c.vodafone.ne.jp>
+    Reason:    Invalid recipient: <macco_dx@c.vodafone.ne.jp>
+
+
+--===========================_ _= 6576538(8314)1121770815
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mta5.odn.ne.jp
+Arrival-Date: Tue, 19 Jul 2005 20:00:09 +0900
+Received-From-MTA: dns; mailwisconsin.com (211.176.80.118)
+
+Original-Recipient: RFC822;<nanfuuko@tree.odn.ne.jp>
+Final-Recipient: RFC822; <nanfuuko@tree.odn.ne.jp>
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; mx.c.vodafone.ne.jp (210.169.176.62)
+Diagnostic-Code: smtp; 550 Invalid recipient: <macco_dx@c.vodafone.ne.jp>
+X-Actual-Recipient: RFC822; <macco_dx@c.vodafone.ne.jp>
+
+--===========================_ _= 6576538(8314)1121770815
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([211.176.80.118]) by t-mta5.odn.ne.jp
+          with SMTP
+          id <20050719110006402.RETU.8314.t-mta5.odn.ne.jp@mta5.odn.ne.jp>
+          for <nanfuuko@tree.odn.ne.jp>; Tue, 19 Jul 2005 20:00:06 +0900
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360476;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: nanfuuko@tree.odn.ne.jp
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836403">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--===========================_ _= 6576538(8314)1121770815--
+

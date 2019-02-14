@@ -1,0 +1,45 @@
+Return-Path: <HarrisonBright@greenapple.com>
+Delivered-To: em-ca-bait-baseline@em.ca
+Received: (qmail 10616 invoked by uid 115); 30 Jun 2005 04:10:00 -0000
+Received: from HarrisonBright@greenapple.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(200.73.29.206):. 
+ Processed in 0.313738 secs); 30 Jun 2005 04:10:00 -0000
+Received: from host206.200.73.29.adsl.ifxnw.cl (200.73.29.206)
+  by churchill.factcomp.com with SMTP; 30 Jun 2005 04:09:58 -0000
+eceived: from dns266att.net (80.200.28.24) by rbe381-pra0.att.net with Microsoft SMTPSVC(5.0.2195.6824);
+	 Wed, 29 Jun 2005 21:10:58 -0800
+Message-ID: <44588197808358321242.60558qq11916911y@att.net>
+Reply-To: "Van Hawkins" <VanHawkins@att.net>
+From: "Van Hawkins" <VanHawkins@att.net>
+To: <bob.smith@em.ca>
+Subject: Mort ag: BestRatesNationwide
+Date: Wed, 29 Jun 2005 21:10:58 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="-----=643_3613_0N982T35.36AP367J"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+-------=643_3613_0N982T35.36AP367J
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY><BR>Thank you for your loan request, which we recieved on 5/15/05,<BR><BR>
+we'd like to inform you that we are accepting your application, bad credit ok,  We are ready to give you a $260,000 loan for a low month payment.<BR><BR>
+Approval process will take only 1 minute.<BR><BR>  
+Please visit the confirmation link below and fill-out our short 30 second form.<BR><BR>
+<A href="http://www.fastrefi.biz/?a=Grabadora">http://www.fastrefi.biz/?a=Grabadora</A>
+</BODY>
+</HTML>
+
+-------=643_3613_0N982T35.36AP367J
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+-------=643_3613_0N982T35.36AP367J--
+

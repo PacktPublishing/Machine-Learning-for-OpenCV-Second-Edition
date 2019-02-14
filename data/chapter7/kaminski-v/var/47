@@ -1,0 +1,69 @@
+Message-ID: <22520490.1075856641735.JavaMail.evans@thyme>
+Date: Fri, 29 Dec 2000 02:48:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: Suggestion: implementing VAR based on non-normal log-returns
+ simulations
+Cc: rabi.de@enron.com, jaesoo.lew@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rabi.de@enron.com, jaesoo.lew@enron.com
+X-From: Tanya Tamarchenko
+X-To: Vince J Kaminski
+X-cc: Rabi De, Jaesoo Lew
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince, sorry, the files from that directory get deleted periodically. I 
+attached this file here.
+Rabi did some analysis related to implementation of correlated non-normally 
+(RTDM-distributed)
+variables. Let's discuss later?
+
+Tanya.
+
+
+
+
+
+
+Vince J Kaminski
+12/22/2000 05:58 PM
+To: Tanya Tamarchenko/HOU/ECT@ECT
+cc:  
+Subject: Re: Suggestion: implementing VAR based on non-normal log-returns 
+simulations  
+
+Tanya,
+
+I could not locate the file.
+
+Vince
+
+
+
+
+Tanya Tamarchenko
+12/07/2000 01:17 PM
+To: Vince J Kaminski/HOU/ECT@ECT, Rabi De/NA/Enron@ENRON, Jaesoo 
+Lew/NA/Enron@ENRON
+cc:  
+Subject: Re: Suggestion: implementing VAR based on non-normal log-returns 
+simulations  
+
+Everybody, 
+we were talking for a while about using non-normal distributions in the 
+Monte-Carlo simulations in our VAR model.
+I put together some suggestion regarding this. The text is under 
+O:\_Dropbox\Tanya\non_normal_logs.doc
+
+Look through this 3 page document, and let me know what you think, please.
+
+
+Tanya
+
+
+
+

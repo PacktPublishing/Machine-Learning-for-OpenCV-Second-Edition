@@ -1,0 +1,207 @@
+Message-ID: <2799670.1075840432467.JavaMail.evans@thyme>
+Date: Fri, 2 Nov 2001 13:06:41 -0800 (PST)
+From: brandee.jackson@enron.com
+To: kirk.lenart@enron.com, l..schrab@enron.com, bonnie.chang@enron.com, 
+	tammy.gilmore@enron.com, kevin.brady@enron.com, p..adams@enron.com, 
+	shannon.groenewold@enron.com, jesse.villarreal@enron.com, 
+	lisa.trofholz@enron.com, tamara.carter@enron.com, 
+	shanna.boudreaux@enron.com, christina.sanchez@enron.com, 
+	kelly.loocke@enron.com, robert.ramirez@enron.com, 
+	joann.collins@enron.com, robert.allwein@enron.com, 
+	dan.prudenti@enron.com, lia.halstead@enron.com, 
+	meredith.homco@enron.com, airam.arteaga@enron.com
+Subject: FW: ON CALL (REVISED)
+Cc: victor.lamadrid@enron.com, lisa.kinsey@enron.com, robert.superty@enron.com, 
+	j..farmer@enron.com, patti.sullivan@enron.com, kevin.heal@enron.com, 
+	peggy.hedstrom@enron.com, lisa.mcisaac@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: victor.lamadrid@enron.com, lisa.kinsey@enron.com, robert.superty@enron.com, 
+	j..farmer@enron.com, patti.sullivan@enron.com, kevin.heal@enron.com, 
+	peggy.hedstrom@enron.com, lisa.mcisaac@enron.com
+X-From: Jackson, Brandee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BJACKSON>
+X-To: Lenart, Kirk </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klenart>, Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>, Chang, Bonnie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bchang>, Gilmore, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tgilmore>, Brady, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrady>, Adams, Jacqueline P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams2>, Groenewold, Shannon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgroenew>, Villarreal, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvillar>, Trofholz, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ltrofhol>, Carter, Tamara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcarter4>, Boudreaux, Shanna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sboudrea>, Sanchez, Christina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csanche>, Loocke, Kelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kloocke>, Ramirez, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rramire3>, Collins, Joann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcollin>, Allwein, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rallwei>, Prudenti, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dprudent>, Halstead, Lia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lhalstea>, Homco, Meredith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmitch2>, Arteaga, Airam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aarteag>
+X-cc: Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Hedstrom, Peggy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Phedstr>, McIsaac, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmcisaac>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+
+
+ CORRECTION ON WEST DESK
+
+
+ 
+Brandee Jackson
+713-345-4013
+
+ ------------------------------------------------------------------------------------------------------
+ 
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+November 2, 2001 5:00pm through November 5, 2001 12:00am
+------------------------------------------------------------------------------------------------------
+		    		    		    				       		    				   		    			
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI: 
+Impact:  CORP
+Time:  Fri 11/2/2001 at  12:00:00 PM CT thru Sun 11/4/2001 at  4:00:00 AM CT
+	Fri 11/2/2001 at  10:00:00 AM PT thru Sun 11/4/2001 at  2:00:00 AM PT
+	Fri 11/2/2001 at  6:00:00 PM London thru Sun 11/4/2001 at  10:00:00 AM London
+Outage:  EDI_QA Oracle database upgrade
+Environments Impacted:  Corp
+Purpose: To comply with corporate standardization
+Backout: Restore the database to its original state
+Contact(s): 	Maria Santiago  713-345-7354  
+		John Kratzer  713-345-7672  
+		Karen O'Grady  713-345-7149  
+ 
+EES: 
+Impact:  EES
+Time:  Thu 11/1/2001 at  6:00:00 PM CT thru Sun 11/4/2001 at  12:00:00 AM CT
+	Thu 11/1/2001 at  4:00:00 PM PT thru Sat 11/3/2001 at  10:00:00 PM PT
+	Fri 11/2/2001 at  12:00:00 AM London thru Sun 11/4/2001 at  6:00:00 AM London
+Outage:  Migrate EESHOU-FS1to SAN
+Environments Impacted:  EES
+Purpose: New Cluster server is on SAN and SAN backups
+This will provide better performance, server redundancy, and backups should complete without problems.
+Backout: Take new server offline,
+Bring up old servers
+change users profiles back to original settings.
+Contact(s): 	Roderic H Gerlach    713-345-3077
+ 
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS: 
+Impact:  Ardmore
+Time:  Sat 11/3/2001 at  10:00:00 PM CT thru Sun 11/4/2001 at  2:00:00 AM CT
+	Sat 11/3/2001 at    8:00:00 PM PT thru Sun 11/4/2001 at 12:00:00 AM PT
+	Sun 11/4/2001 at  4:00:00 AM London thru Sun 11/4/2001 at  8:00:00 AM London
+Outage:  Add redundant connections between ARD-COR-CCX1/2 and ENA-CX1/2-ARD 
+Environments Impacted:  All
+Purpose: Increased bandwidth / resiliency available on the MAN
+Backout: Put original equipment/configs back in place
+Contact(s): 	Dennis McGough   713-345-3143 
+
+Impact:  EBS
+Time:  Sat 11/3/2001 at    1:00:00 PM CT thru Sat 11/3/2001 at  4:00:00 PM CT
+	Sat 11/3/2001 at  11:00:00 AM PT thru Sat 11/3/2001 at  2:00:00 PM PT
+	Sat 11/3/2001 at  7:00:00 PM London thru Sat 11/3/2001 at  10:00:00 PM London
+Outage:  Relocate EBS Portland servers and switch pdx-3wtcpl-swx1
+Environments Impacted:  EBS
+Purpose: Existing equipment rack removed in order to install new phone system.
+Backout: None.  Space must be vacated.
+Contact(s): 	Chris Shirkoff  503-778-0920  8774937918@skytel.com
+		Dave Steiner  503-703-1553  
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: 
+Impact:  Corp Notes
+Time:  Fri 11/2/2001 at  9:00:00 PM CT thru Sat 11/3/2001 at    1:00:00 AM CT
+	Fri 11/2/2001 at  7:00:00 PM PT thru Fri 11/2/2001 at  11:00:00 PM PT
+	Sat 11/3/2001 at  3:00:00 AM London thru Sat 11/3/2001 at  7:00:00 AM London
+Outage:  cNotes Server Reboots
+Environments Impacted:  All users on any of the mailservers listed below
+Purpose: Scheduled @ 2 week interval
+Backout: Make sure server comes up.
+Contact(s): 	Trey Rhodes  (713) 345-7792  
+		    		    		    		
+Impact:  EI
+Time:   Fri 11/2/2001 at  9:00:00 PM CT thru Sat 11/3/2001 at    1:00:00 AM CT
+	Fri 11/2/2001 at  7:00:00 PM PT thru Fri 11/2/2001 at  11:00:00 PM PT
+	Sat 11/3/2001 at  3:00:00 AM London thru Sat 11/3/2001 at  7:00:00 AM London
+Outage:  EI Notes Server Maintenance
+Environments Impacted:  EI Local/Domestic/Foreign Sites
+Purpose: Scheduled @ 2 week interval
+Backout: N/A
+Contact(s): 	David Ricafrente    713-646-7741
+		    		    		    		
+Impact:  EES
+Time:  Fri 11/2/2001 at  8:30:00 PM CT thru Fri 11/2/2001 at  11:30:00 PM CT
+	Fri 11/2/2001 at  6:30:00 PM PT thru Fri 11/2/2001 at    9:30:00 PM PT
+	Sat 11/3/2001 at  2:30:00 AM London thru Sat 11/3/2001 at  5:30:00 AM London
+Outage:  EES Notes Server Reboots
+Environments Impacted:  All users on any of the mailservers listed below
+Purpose: Scheduled @ 2 week interval on 1st and the 3rd Friday of each month.
+Backout: 
+Contact(s): 	Dalak Malik    713-345-8219
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER: 
+Impact:  
+Time:  Sat 11/3/2001 at  9:00:00 PM CT thru Sun 11/4/2001 at  12:00:00 AM CT      
+	Sat 11/3/2001 at  7:00:00 PM PT thru Sat 11/3/2001 at  10:00:00 PM PT
+	Sun 11/4/2001 at  3:00:00 AM London thru Sun 11/4/2001 at 6:00:00 AM London
+Outage:  Migrate EBS Common Data to Corp Environment and update DFS
+Environments Impacted:  Any user accessing o: EBS
+Purpose: Will be migrating all common data from o: EBS Houston and o: EBS Portland to Corp servers in Houston and their corresponding EBS servers will be decommissioned. o: ebs shepherd and o: ebs loopcentral will also be migrated and their corresponding EBS servers will be decommissioned.  o: EBS will be removed from DFS and the DFS entries will be re-inputed in order to decommission the EBS DFS server.  This needs to be done as part of the decommissioning of the EBS environment.
+Backout: Leave EBS data servers and DFS servers online and re-input the DFS links.
+Contact(s): 	Mark Wolf    713-345-6389
+		    		    		    				    		    		
+Impact:  HR
+Time:  Sat 11/3/2001 at  8:00:00 AM CT thru Sat 11/3/2001 at  11:00:00 AM CT
+	Sat 11/3/2001 at  6:00:00 AM PT thru Sat 11/3/2001 at    9:00:00 AM PT
+	Sat 11/3/2001 at  2:00:00 PM London thru Sat 11/3/2001 at  5:00:00 PM London
+Outage:  Replace CD-ROM in HR-DB-5
+Environments Impacted:  HR LAN
+Purpose: The CD-ROM drive has failed and needs to be replaced.
+Backout: 
+Contact(s): 	Brandon Bangerter   713-345-4904   
+		Mark Calkin               713-345-7831  
+		Raj Perubhatla         713-345-8016  281-788-9307
+		    				    		    		    		
+Impact:  nahou-rem2
+Time:  Sun 11/4/2001 at    1:00:00 PM CT thru Sun 11/4/2001 at    1:30:00 PM CT
+	Sun 11/4/2001 at  11:00:00 AM PT thru Sun 11/4/2001 at  11:30:00 AM PT
+	Sun 11/4/2001 at  7:00:00 PM London thru Sun 11/4/2001 at  7:30:00 PM London
+Outage:  Upgrade nahou-rem2 server with latest Remedy Patch
+Environments Impacted:  Remedy Reporting Server
+Purpose: Plug a memory leak in the current version patch.
+Backout: Remove the new executable and rename the arserver.old to arserver.exe
+Contact(s): 	James Weaver    713-345-4810
+ 
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+----------------------------------------------------------------------------------------------------------------------------
+								FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management			(713) 853-5536
+SAP/ISC                                                                               (713) 345-4727
+Unify On-Call 					(713) 284-3757  [Pager]
+Sitara On-Call					(713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS			(713) 639-9726  [Pager]
+OSS/UA4/TARP				(713) 285-3165  [Pager]
+CPR						(713) 284-4175  [Pager]
+EDI Support 					(713) 327-3893  [Pager]
+EES Help Desk					(713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]

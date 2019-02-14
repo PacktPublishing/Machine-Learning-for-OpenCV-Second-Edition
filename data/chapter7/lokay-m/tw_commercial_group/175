@@ -1,0 +1,39 @@
+Message-ID: <11584577.1075844101568.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 08:56:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: lorraine.lindberg@enron.com, michelle.lokay@enron.com
+Subject: Right of first refusal pricing
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: Lorraine Lindberg, Michelle Lokay
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Lorrian and Michel,
+
+The Rofr option, which grants the shipper the right to lock in the 
+transportation rate (max rate) for next
+a few years, is priced as a spread swaption. 
+
+I priced two scenarios for you:  the strip starts 1) Nov.1-00 and 2)Nov. 1-01.
+For the first one I assume that the shipper makes decision on Oct. 31,00 (54 
+days  to maturity)
+and  on Oct. 31,01(419 days to maturity)  for the second case.
+
+The second case has longer time to expiration, therefore larger option time 
+value. See the attached
+spreadsheets for more detail.
+
+Let me know if you have any questions.
+
+Zimin
+
+
+
+

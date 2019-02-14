@@ -1,0 +1,73 @@
+Message-ID: <3993101.1075840797154.JavaMail.evans@thyme>
+Date: Mon, 23 Apr 2001 17:05:00 -0700 (PDT)
+From: tanya.tamarchenko@enron.com
+To: frank.hayden@enron.com
+Subject: Re: FW: Mtg. Scheduled
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Tanya Tamarchenko <Tanya Tamarchenko/HOU/ECT@ECT>
+X-To: Frank Hayden <Frank Hayden/ENRON@enronXgate@ENRON>
+X-cc: Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Frank, 
+regarding simulating power prices in VAR we might discuss the following items
+and show some results:
+1. Clustering for power:
+	- clustering based on historical prices and correlations from them;
+	- geographical clustering;
+	- flexibility in choosing "core curves" (based on position size);
+2. Jump-diffusion process for intramonth and prompt month:
+	- parameter estimation from historical data (do we want to use it?)
+	- working out parameters (jumps frequency, jump size) as stress scenarios;
+3. Correlations within a cluster and across clusters.
+4. Changing correlations estimations (using fixed contact' time series).
+5. Joint estimation of factors for selected regions.
+
+Let me know what you think should be in the agenda for this meeting.
+
+Regards,
+
+Tanya	
+
+
+From:	Frank Hayden/ENRON@enronXgate on 04/18/2001 03:43 PM
+To:	Tanya Tamarchenko/HOU/ECT@ECT
+cc:	 
+Subject:	FW: Mtg. Scheduled
+
+If you want, I welcome your help in putting together an agenda.
+
+Frank
+
+ -----Original Message-----
+From: 	Black, Tamara Jae  
+Sent:	Wednesday, April 18, 2001 3:32 PM
+To:	Presto, Kevin; Davis, Mark Dana; Sturm, Fletcher; Herndon, Rogers; Gilbert-Smith, Doug; White, Stacey; Kaminski, Vince; Andrews, Naveen; Belden, Tim; Gorny, Vladimir; Davenport, Lacrecia
+Cc:	Hayden, Frank
+Subject:	Mtg. Scheduled
+
+Please mark your calendar for a meeting with:
+
+
+Frank Hayden
+Reg. Value @ Risk
+April 26th
+3 - 4pm
+rm 3125b
+
+
+
+Thanks 
+
+Tjae Black
+x35800
+
+
+
+

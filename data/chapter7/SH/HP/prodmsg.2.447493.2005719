@@ -1,0 +1,78 @@
+Received: from mailspool1-3.rackhosting.com (194.150.111.92)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:18 -0000
+Received: from mailscan.rackhosting.com (mailscan2-3.rackhosting.com [194.150.109.148])
+	by mailspool1-3.rackhosting.com (Postfix) with ESMTP id 9E8EE7A9FA7
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 12:57:35 +0200 (CEST)
+Received: from localhost (localhost.rackhosting.com [127.0.0.1])
+	by mailscan.rackhosting.com (Postfix) with ESMTP id C8EB7422037
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 12:58:22 +0200 (CEST)
+MIME-Version: 1.0
+Subject: Considered UNSOLICITED BULK EMAIL from you
+In-Reply-To: <ccrtOX.squirrel@205.214.42.66>
+Message-ID: <SSEFL6nkZRotlW@mailscan2-3.rackhosting.com>
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary="----------=_1121770702-1500-1"
+From: "Content-filter at mailscan2-3.rackhosting.com" <postmaster@mailscan2-3.rackhosting.com>
+To: <projecthoneypot@projecthoneypot.org>
+Date: Tue, 19 Jul 2005 12:58:22 +0200 (CEST)
+
+This is a multi-part message in MIME format...
+
+------------=_1121770702-1500-1
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+Your message to:
+-> info@rgbaz.com
+
+was considered unsolicited bulk e-mail (UBE).
+Subject: Just to her...
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Our internal reference code for your message is 01500-02/EFL6nkZRotlW.
+
+Delivery of the email was stopped!
+
+------------=_1121770702-1500-1
+Content-Type: message/delivery-status
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; mailscan2-3.rackhosting.com
+Received-From-MTA: smtp; mailscan.rackhosting.com ([127.0.0.1])
+Arrival-Date: Tue, 19 Jul 2005 12:58:21 +0200 (CEST)
+
+Final-Recipient: rfc822; info@rgbaz.com
+Action: failed
+Status: 5.7.1
+Diagnostic-Code: smtp; 550 5.7.1 Message content rejected, UBE, id=01500-02
+Last-Attempt-Date: Tue, 19 Jul 2005 12:58:22 +0200 (CEST)
+
+------------=_1121770702-1500-1
+Content-Type: text/rfc822-headers
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Undelivered-message headers
+
+Received: from mailwisconsin.com (unknown [211.94.99.130])
+	by mailscan.rackhosting.com (Postfix) with SMTP id 0359C422036
+	for <info@rgbaz.com>; Tue, 19 Jul 2005 12:58:14 +0200 (CEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815492;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@rgbaz.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+------------=_1121770702-1500-1--

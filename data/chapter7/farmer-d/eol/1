@@ -1,0 +1,45 @@
+Message-ID: <10150315.1075840430663.JavaMail.evans@thyme>
+Date: Fri, 19 Oct 2001 11:10:17 -0700 (PDT)
+From: savita.puthigai@enron.com
+To: traders.eol@enron.com, traders.eol@enron.com
+Subject: EnronOnline- Change to Autohedge
+Cc: houston.product@enron.com, center.eol@enron.com, group.enron@enron.com, 
+	teresa.mandola@enron.com, angela.connelly@enron.com, 
+	brad.richter@enron.com, mark.pickering@enron.com, 
+	greg.piper@enron.com, lindsay.renaud@enron.com, 
+	leonardo.pacheco@enron.com, carl.carter@enron.com, 
+	kevin.meredith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: houston.product@enron.com, center.eol@enron.com, group.enron@enron.com, 
+	teresa.mandola@enron.com, angela.connelly@enron.com, 
+	brad.richter@enron.com, mark.pickering@enron.com, 
+	greg.piper@enron.com, lindsay.renaud@enron.com, 
+	leonardo.pacheco@enron.com, carl.carter@enron.com, 
+	kevin.meredith@enron.com
+X-From: Puthigai, Savita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SPUTHIGA>
+X-To: EOL Non North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NON NORTH AMERICA TRADERS>, EOL North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NORTH AMERICA TRADERS>
+X-cc: Product Control - Houston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PRODUCT CONTROL - HOUSTON>, EOL Call Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL CALL CENTER>, Enron London - EOL Product Control Group </O=ENRON/OU=EU/CN=RECIPIENTS/CN=EOL PRODUCT CONTROL GROUP41D94F914DF73A638A80BFA9AAD5819A7B56D1>, Mandola, Teresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TMANDOLA>, Connelly, Angela </O=ENRON/OU=EU/CN=RECIPIENTS/CN=ACONNELL>, Richter, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BRICHTE>, Pickering, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MPICKER>, Piper, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GPIPER>, Renaud, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LRENAUD>, Pacheco, Leonardo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPACHECO>, Carter, Carl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CCARTER4>, Meredith, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KMEREDI>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Effective Monday, October 22, 2001 the following changes will be made to the Autohedge functionality on EnronOnline.
+
+The volume on the hedge will now respect the minimum volume and volume increment settings on the parent product. See rules below: 
+
+?	If the transaction volume on the child is less than half of the parent's minimum volume no hedge will occur.
+?	If the transaction volume on the child is more than half the parent's minimum volume but less than half the volume increment on the parent, the hedge will volume will be the parent's minimum volume.
+?	For all other volumes, the same rounding rules will apply based on the volume increment on the parent product.
+
+Please see example below:
+
+Parent's Settings:
+Minimum: 	5000
+Increment:  1000
+
+Volume on Autohedge transaction			Volume Hedged
+1      - 2499							0
+2500 - 5499							5000
+5500 - 6499							6000

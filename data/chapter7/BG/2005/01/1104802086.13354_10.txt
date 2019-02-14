@@ -1,0 +1,292 @@
+Return-Path: <super@mixnomail.cl>
+Received: (fqmail 16290 invoked from network); 04 Jan 2005 01:10:32 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 04 Jan 2005 01:10:32 -0000
+Received: (qmail 20124 invoked from network); 4 Jan 2005 01:10:32 -0000
+Received: from Oscar. (cm-lcon5-182-115.cm.vtr.net [200.83.182.115])
+  by mx09.futurequest.net ([69.5.6.181])
+  with SMTP via TCP; 04 Jan 2005 01:10:29 -0000
+x-esmtp: 0 0 1
+Message-ID: <2285985-2200512401258949@Oscar>
+Reply-To: "SUPERMEDIOS HOSTING" <info@supermedios.com>
+To: "super" <info@supermedios.com>
+From: "SUPERMEDIOS HOSTING" <super@mixnomail.cl>
+Subject: HOSTING 1000 MB A $25.000 AL AÑO !!!!
+Date: Mon, 3 Jan 2005 21:12:58 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+=09=09=09=09=09<head>
+=09=09=09=09=09<title>SERVIDOR SPEED SERVER</title>
+=09=09=09=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; cha=
+rset=3Diso-8859-1">
+=09=09=09=09=09
+<script language=3D"JavaScript" type=3D"text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4=2E01
+  var p,i,x;  if(!d) d=3Ddocument; if((p=3Dn=2EindexOf("?"))>0&&parent=2Ef=
+rames=2Elength) {
+    d=3Dparent=2Eframes[n=2Esubstring(p+1)]=2Edocument; n=3Dn=2Esubstring(=
+0,p);}
+  if(!(x=3Dd[n])&&d=2Eall) x=3Dd=2Eall[n]; for (i=3D0;!x&&i<d=2Eforms=2Ele=
+ngth;i++) x=3Dd=2Eforms[i][n];
+  for(i=3D0;!x&&d=2Elayers&&i<d=2Elayers=2Elength;i++) x=3DMM_findObj(n,d=2E=
+layers[i]=2Edocument);
+  if(!x && d=2EgetElementById) x=3Dd=2EgetElementById(n); return x;
+}
+
+function MM_validateForm() { //v4=2E0
+  var i,p,q,nm,test,num,min,max,errors=3D'',args=3DMM_validateForm=2Eargum=
+ents;
+  for (i=3D0; i<(args=2Elength-2); i+=3D3) { test=3Dargs[i+2]; val=3DMM_fi=
+ndObj(args[i]);
+    if (val) { nm=3Dval=2Ename; if ((val=3Dval=2Evalue)!=3D"") {
+      if (test=2EindexOf('isEmail')!=3D-1) { p=3Dval=2EindexOf('@');
+        if (p<1 || p=3D=3D(val=2Elength-1)) errors+=3D'- '+nm+' debe conte=
+ner un email=2E\n';
+      } else if (test!=3D'R') { num =3D parseFloat(val);
+        if (isNaN(val)) errors+=3D'- '+nm+' contiene solo numeros=2E\n';
+        if (test=2EindexOf('inRange') !=3D -1) { p=3Dtest=2EindexOf(':');
+          min=3Dtest=2Esubstring(8,p); max=3Dtest=2Esubstring(p+1);
+          if (num<min || max<num) errors+=3D'- '+nm+' contiene numeros ent=
+ra '+min+' a '+max+'=2E\n';
+    } } } else if (test=2EcharAt(0) =3D=3D 'R') errors +=3D '- '+nm+' es r=
+equerido=2E\n'; }
+  } if (errors) alert('Error:\n'+errors);
+  document=2EMM_returnValue =3D (errors =3D=3D '');
+}
+//-->
+</script>
+<link href=3D"http://www=2Esupermedios=2Ecom/admin/mailing/style=2Ecss" re=
+l=3D"stylesheet" type=3D"text/css">
+                           =20
+</head>
+=09
+=09=09=09=09=09<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" ma=
+rginheight=3D"0">
+=09=09=09=09    <table width=3D"80%" height=3D"608" border=3D"0" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0">
+  =09=09=09=09=09<tr>
+    =09=09=09=09<td align=3D"center" valign=3D"top"><table width=3D"560" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" bordercolor=3D"#FF9900">
+        <tr>
+=09          =09=09=09<td>
+=09=09=09=09=09=09=09<div align=3D"center">
+=09              =09=09=09=09
+              <p> <font color=3D"#000000" size=3D"1" face=3D"Arial, Helvet=
+ica, sans-serif">=20
+                <strong> Si no puede ver este mail, entre a: <a href=3D"ht=
+tp://www=2Esupermedios=2Ecom/admin/mailing/speedserver/">=20
+                http://www=2Esupermedios=2Ecom/admin/mailing/speedserver/<=
+/a><br>
+                <br>
+=09=09=09=09=09=09=09=09=09=09</strong>
+=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09</p>
+=09            =09=09=09</div>
+=09=09=09=09=09=09</td>
+=09        =09=09</tr>
+        =09=09=09
+=09=09=09=09=09<tr>
+          =09=09=09=09
+          <td align=3D"center" valign=3D"top">=20
+            <div align=3D"center">
+              <table width=3D"552" height=3D"422" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+                <tr>
+                  <td align=3D"center" valign=3D"middle" bgcolor=3D"#FF660=
+0"><a href=3D"http://www=2Esupermedios=2Ecom/admin/mailing/speedserver/" t=
+arget=3D"_blank"><img src=3D"http://www=2Esupermedios=2Ecom/admin/mailing/=
+PRE_MostrarImagen=2Ephp?id=3D57" border=3D"0" ></a></td>
+                </tr>
+              </table>
+              </a>
+              <form action=3D"http://www=2Esupermedios=2Ecom/admin/actionE=
+mail=2Ephp" method=3D"post" name=3D"formulario" id=3D"formulario">
+                <table width=3D"450" border=3D"0" cellspacing=3D"2" cellpa=
+dding=3D"0">
+                  <tr bgcolor=3D"#FF9900">=20
+                    <td colspan=3D"2"><font color=3D"#000000" size=3D"2" f=
+ace=3D"Verdana, Arial, Helvetica, sans-serif"><strong>CONTACTO=20
+                      TECNICO</strong></font></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000">&nbsp;</font></td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Nombre=20
+                      del Contacto</font></td>
+                    <td><input name=3D"nombre" type=3D"text" id=3D"nombre"=
+ size=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Email</font></td>
+                    <td><input name=3D"email" type=3D"text" id=3D"email" s=
+ize=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Direcci&oacute;n</font></td>
+                    <td><input name=3D"direccion" type=3D"text" id=3D"dire=
+ccion" size=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Ciudad</font></td>
+                    <td><input name=3D"ciudad" type=3D"text" id=3D"ciudad"=
+ size=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Fono</font></td>
+                    <td><input name=3D"fono" type=3D"text" id=3D"fono" siz=
+e=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Dominio</font></td>
+                    <td><input name=3D"dominio" type=3D"text" id=3D"domini=
+o" size=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">Fecha=20
+                      de Nacimiento</font></td>
+                    <td><input name=3D"dia" type=3D"text" id=3D"dia" size=3D=
+"3" maxlength=3D"2">
+                      <font color=3D"#000000" size=3D"2" face=3D"Verdana, =
+Arial, Helvetica, sans-serif">=20
+                      /=20
+                      <input name=3D"mes" type=3D"text" id=3D"mes" size=3D=
+"3" maxlength=3D"2">
+                      /</font> <font color=3D"#000000">
+                      <input name=3D"anio" type=3D"text" id=3D"anio" size=3D=
+"5" maxlength=3D"4">
+                      </font> </td>
+                  </tr>
+                  <tr>=20
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr bgcolor=3D"#FF9900">=20
+                    <td colspan=3D"2"><font color=3D"#000000" size=3D"2" f=
+ace=3D"Verdana, Arial, Helvetica, sans-serif"><strong>PARA=20
+                      FACTURAR </strong></font></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000">&nbsp;</font></td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">RUT</font></td>
+                    <td><input name=3D"rut" type=3D"text" id=3D"rut" size=3D=
+"9" maxlength=3D"8">=20
+                      <input name=3D"dv" type=3D"text" id=3D"dv" size=3D"2=
+" maxlength=3D"1"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">GIRO</font></td>
+                    <td><input name=3D"giro" type=3D"text" id=3D"giro" siz=
+e=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">RAZON</font></td>
+                    <td><input name=3D"razon" type=3D"text" id=3D"razon" s=
+ize=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td><font color=3D"#000000" size=3D"2" face=3D"Verdana=
+, Arial, Helvetica, sans-serif">DIRECCION</font></td>
+                    <td><input name=3D"direccion" type=3D"text" id=3D"dire=
+ccion" size=3D"30"></td>
+                  </tr>
+                  <tr>=20
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>=20
+                    <td>&nbsp;</td>
+                    <td><input name=3D"Etapa" type=3D"submit" id=3D"Etapa"=
+ onClick=3D"MM_validateForm('nombre','','R','email','','RisEmail','0','','=
+R','ciudad','','R','fono','','RisNum','dominio','','R','dia','','NisNum','=
+mes','','NisNum','anio','','NisNum','rut','','RisNum','dv','','NisNum','gi=
+ro','','R','razon','','R','1','','R');return document=2EMM_returnValue" va=
+lue=3D"Enviar"></td>
+                  </tr>
+                </table>
+              </form>
+             =20
+            </div>
+=09=09=09=09=09=09</td>
+        =09=09=09</tr>
+        =09=09=09<tr>
+          =09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09=09<div align=3D"justify">
+=09=09=09=09=09=09=09=09<font color=3D"#000000" size=3D"1" face=3D"Arial, =
+Helvetica, sans-serif">
+=09=09=09=09=09=09=09=09=09  Este=20
+=09=09=09=09=09=09              mensaje se env&iacute;a bajo los Art&iacut=
+e;culos 2 y 4 de la Ley=20
+=09=09=09=09=09=09              19=2E628 de la Constituci&oacute;n de la R=
+ep&uacute;blica de Chile=2E=20
+=09=09=09=09=09=09              Su direcci&oacute;n ha sido extra&iacute;d=
+a manualmente por personal=20
+=09=09=09=09=09=09              de nuestra compa&ntilde;&iacute;a desde su=
+ sitio Web en Internet,=20
+=09=09=09=09=09=09              o ha sido introducida por usted al aceptar=
+ el env&iacute;o de mensajes=20
+=09=09=09=09=09=09              publicitarios al inscribirse en alguno de =
+los sitios o foros de=20
+=09=09=09=09=09=09              nuestra Red de trabajo=2E Si usted no dese=
+a recibir m&aacute;s nuestros=20
+=09=09=09=09=09=09              mensajes, <a href=3D"http://www=2Esupermed=
+ios=2Ecom/admin/mailing/remover=2Ephp?proyecto=3D35">presione=20
+=09=09=09=09=09=09              aqu&iacute;</a>=2E Bajo el Decreto S=2E 16=
+18 titulo III aprobado por=20
+=09=09=09=09=09=09              el 105 Congreso base de las normativas int=
+ernacionales sobre SPAM=20
+=09=09=09=09=09=09              y United States Federal Requeriments for C=
+omercial E-mail Bill,=20
+=09=09=09=09=09=09              secci&oacute;n 301, p&aacute;rrafo (a)(2)(=
+C) de S=2E1618 Bajo el decreto=20
+=09=09=09=09=09=09              S=2E1618 t&iacute;tulo 3ro=2E, Este mensaj=
+e no puede ser considerado=20
+=09=09=09=09=09=09              SPAM mientras incluya una forma de ser rem=
+ovido=2E
+=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09</td>
+        =09=09=09</tr>
+      =09=09=09</table>
+=09=09=09</td>
+  =09=09</tr>
+=09</table>
+=09</body>
+=09</html>
+------=_NextPart_84815C5ABAF209EF376268C8--
+

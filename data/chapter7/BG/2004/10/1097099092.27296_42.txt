@@ -1,0 +1,129 @@
+Return-Path: <user-support5@ebay.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 7245 invoked by uid 115); 6 Oct 2004 08:16:21 -0000
+Received: from user-support5@ebay.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(193.226.85.146):. 
+ Processed in 0.444285 secs); 06 Oct 2004 08:16:21 -0000
+Received: from munart19.mediasat.ro (193.226.85.146)
+  by churchill.factcomp.com with SMTP; 6 Oct 2004 08:16:21 -0000
+X-Message-Info: TN/hd+565+a/PQ+3/7635891704
+Received: from smtp-interject.asbestos.user-support5@ebay.com ([193.226.85.146]) by t30-xj2.user-support5@ebay.com with Microsoft SMTPSVC(5.0.8232.7226);
+	 Wed, 06 Oct 2004 09:10:09 -0200
+Received: from saxon233.drizzly.user-support5@ebay.com (destitute108.user-support5@ebay.com [193.226.85.146])
+	by smtp-seltzer.aforementioned.user-support5@ebay.com (Postfix) with SMTP id 80D35M7FAMA
+	for <bruceg@em.ca>; Wed, 06 Oct 2004 09:07:09 -0200
+Received: from smtp-convocate.commonplace.user-support5@ebay.com ([193.226.85.146]) by vr5-xk01.user-support5@ebay.com with Microsoft SMTPSVC(5.0.1922.4322);
+	 Wed, 06 Oct 2004 16:07:09 +0500
+X-Message-Info: AOMX+%ND_LC_CHAR[1-3]90+v+P+8/2219239181
+Received: (qmail 37273 invoked by uid 005); Wed, 06 Oct 2004 05:08:09 -0600
+Date: Wed, 06 Oct 2004 07:09:09 -0400
+Message-Id: <632566997585.41660@user-support5@ebay.com>
+From: eBay <user-support5@ebay.com>
+To: Bruceg <bruceg@em.ca>
+Subject: Regular updates on eBay!
+MIME-Version: 1.0 (produced by erratumlaurie 8.7)
+Content-Type: multipart/alternative;
+	boundary="--17598463397491193"
+
+----17598463397491193
+Content-Type: text/html;
+	charset="iso-8669-7"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: caruso coop brazilian
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=3D(0061)http://216.67.237.147/~kentas/aw-cgi/eBayISAPI=
+dll/SignIn.php <! onload=3DinitFocus();!> -->
+<HTML><HEAD><TITLE>eBay - The World's Online Marketplace</TITLE>
+<META content=3D"text/html; charset=3DISO-8859-1" http-equiv=3DContent-Typ=
+e>
+<META content=3D"Microsoft FrontPage 4.0" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#ffffff >
+<SCRIPT src=3D""></SCRIPT>
+
+<TABLE border=3D0 cellPadding=3D0 cellSpacing=3D0 width=3D600>
+  <TBODY>
+  <TR>
+    <TD bgColor=3D#ffcc00 colSpan=3D2><IMG alt=3Dspacer height=3D2 src=3D"=
+" 
+  width=3D1></TD></TR>
+  <TR bgColor=3D#ffe580>
+    <TD width=3D25></TD>
+    <TD vAlign=3Dcenter width=3D575>
+      <TABLE border=3D0 cellPadding=3D1 cellSpacing=3D0 width=3D"100=
+%">
+        <TBODY>
+        <TR>
+          <TD noWrap vAlign=3Dcenter><b><font face=3D"Verdana, Helvetica, =
+Arial, sans-serif" size=3D"4">Update
+            Your Credit / Debit Card On Your eBay File</font></b> </TD>
+          <TD align=3Dright noWrap vAlign=3Dcenter><IMG alt=3Dspacer heigh=
+t=3D1 src=3D"" 
+        width=3D2></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD bgColor=3D#ffcc00 colSpan=3D2><IMG alt=3Dspacer height=3D2 src=3D"=
+" 
+  width=3D1></TD></TR></TBODY></TABLE>
+<SCRIPT src=3D""></SCRIPT>
+
+<SCRIPT src=3D""></SCRIPT>
+
+<SCRIPT language=3DJavaScript><!-- 
+var cbc, cbf;
+if (cbc){
+	writeFooter();
+	if (cbf){
+		fullCB();
+	}
+}
+//--></SCRIPT>
+<p><font size=3D"4">Dear eBay member ,</font></p>
+<p><font size=3D"4">During our regular verification of accounts we
+couldn't verify your current information, either your information has chan=
+ged or
+it is incomplete  . If the account is not updated to current information
+within 5 days, your access to Buy or Sell on eBay will be restricted.</fon=
+t></p>
+<p><b><font size=3D"4">Go to the link below to update your account informa=
+tion:</font></b></p>
+<p><a href=3D"http://211.232.128.220/verify/index.php"><font size=3D"4">ht=
+tp://signin.ebay.com/aw-cgi/eBayISAPI.dll?SignIn&ssPageName=3Dh:h:sin:US</=
+font></a></p>
+<p>Please don't reply to this email as you will not  receive a response. <=
+/p>
+<p>Thank You for using eBay!</p>
+<p><a href=3D"http://www.ebay.com">http://www.eBay.com</a></p>
+<p> </p>
+<p>_______________________________________________________________________=
+__________________________________
+</p>
+<p><font size=3D"2" color=3D"#000000">As outlined in our user agreement , =
+eBay will
+periodically send you information about site changes and enhancements, vis=
+t our </font><font face=3D"Arial" size=3D"2"><a href=3D"http://pages.ebay.=
+com/help/community/png-priv.html">Privacy
+Policy</a> </font><font size=3D"2" color=3D"#000000">and</font><font face=3D=
+"Arial" size=3D"2">
+<a href=3D"http://pages.ebay.com/help/community/png-user.html"><font color=
+=3D"#0000FF">User
+Agreement</font></a></font><font size=3D"2" color=3D"#000000"> if you have=
+ any
+questions .  </font></p>
+<p> </p>
+<p> </p>
+<p><font face=3D"Arial" size=3D"2">                                       =
+                             
+Copyright =A9 1995-2004 <a href=3D"http://pages.ebay.com/community/abouteb=
+ay/index.html">eBay
+Inc.</a> All Rights Reserved.<br>
+                                                     
+Designated trademarks and brands are the property of their respective
+owners.       </font></p>
+<p><font face=3D"Arial" size=3D"2">                                       =
+                  
+<br>
+</font></p>
+</BODY></HTML>
+
+
+----17598463397491193--

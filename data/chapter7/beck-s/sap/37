@@ -1,0 +1,89 @@
+Message-ID: <15171896.1075855896574.JavaMail.evans@thyme>
+Date: Fri, 3 Mar 2000 12:16:00 -0800 (PST)
+From: greg.nikkel@enron.com
+To: enron.council@enron.com
+Subject: Status of Reporting
+Cc: donald.sullivan@enron.com, rebecca.miles@enron.com, andreas.kraus@enron.com, 
+	randy.parman@enron.com, maria.young@enron.com, kim.lesley@enron.com, 
+	susan.bellinghausen@enron.com, emitra.nelson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: donald.sullivan@enron.com, rebecca.miles@enron.com, andreas.kraus@enron.com, 
+	randy.parman@enron.com, maria.young@enron.com, kim.lesley@enron.com, 
+	susan.bellinghausen@enron.com, emitra.nelson@enron.com
+X-From: Greg Nikkel
+X-To: ENRON APOLLO AND BEYOND FINANCIAL COUNCIL
+X-cc: Donald Sullivan, Rebecca Miles, Andreas Kraus, Randy Parman, Maria Young, Kim Lesley, Susan Bellinghausen, Emitra Nelson
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+At the request of the Financial Council during its last meeting, the COE 
+established a SWAT team to assist the business units in SAP reporting.  This 
+is the first of weekly status reports that we will provide.
+
+Purpose:  
+
+The team has begun to hold small, interactive workshops with production users 
+to:
+
+Show users how to extract data from SAP by:
+Using on-line inquiry
+Using SAP standard reports and
+Creating and modifying a variant
+Educate users on the SAP data model and where business unit specific data 
+resides in SAP (which module).
+Better understand what additional reporting needs users may have.
+
+Team structure: Lead:  Kim Lesley (consultant)
+   PS:  Andreas Kraus (COE), Damon Willis (consultant)
+   FI/CO:  Randy Parman (COE), Esther Cortes (consultant)
+   Education support:  Maria Young (COE)
+
+The structure of the team reflects the initial focus on project and financial 
+reports.  It has been balanced to include COE support analysts who will 
+provide long-term customer support plus SAP consultants with deep reporting 
+knowledge.  We will adjust the team members as appropriate to address the 
+material needed by the business units.
+
+In addition to this team, Susan Bellinghausen and Emitra Nelson are 
+continuing their efforts on 1/1, 4/1 and 7/1 report development.
+
+Progress:
+
+To date we have held 5 workshops with the Apachi and South American regions.  
+These workshops have been evaluated across several criteria.  
+
+On a scale of 1-4 (1 = not at all and 4 = absolutely), the workshops have 
+received an average rating of 3.6 in learning reports and increasing comfort 
+levels.  The workshops are definitely providing the one on one experience 
+that the users are requesting.  They are also seeing and learning (hands on) 
+various tools that are available to them to adjust the display of reports, 
+query the data from each module and analyze the data.  The sessions are also 
+helping to remove some of the fear associated with trying things in a new 
+system by providing helpful tricks and hints from the experts.  
+
+However, there is still a concern about increasing the understanding of where 
+data resides within SAP.  This is reflected in the average rating to the key 
+question "can SAP meet your needs" being only 2.5.  We will further explore 
+why the users think this is the case and what they are not getting.   We are 
+adjusting our sessions to address this and will continue to seek feedback.  
+
+Upcoming key activities:
+
+Schedule the remaining International region sessions and the EECC home office 
+sessions.  We have the participant lists and are working on logistics.
+Complete the analysis of the needs of the other business units in production.
+Develop a process to follow up on these sessions to monitor the learning 
+progress of the users.
+Begin to evaluate a cost center reporting tool that Enron Europe has deployed 
+in London.
+
+
+I would like to thank the active participation of the business units in 
+identifying and providing the right group of resources to the sessions.  If 
+you have any questions or comments, feel free to address them to Melissa 
+Becker, Kim Lesley or myself.
+
+Greg

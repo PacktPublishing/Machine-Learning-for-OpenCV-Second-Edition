@@ -1,0 +1,57 @@
+Return-Path: <puzzle@thepuzzlebox.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 16710 invoked by uid 115); 9 Oct 2004 05:00:00 -0000
+Received: from puzzle@thepuzzlebox.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.187.5.253):. 
+ Processed in 1.11784 secs); 09 Oct 2004 05:00:00 -0000
+Received: from unknown (HELO 209.5.178.248) (220.187.5.253)
+  by churchill.factcomp.com with SMTP; 9 Oct 2004 04:59:59 -0000
+X-Message-Info: H/b+56+m/WCA+64/627476123000017
+Received: from smtp-stewardess.goofy.puzzle@thepuzzlebox.com ([219.254.51.28]) by e85-hwb8.puzzle@thepuzzlebox.com with Microsoft SMTPSVC(5.0.8052.7448);
+	 Sat, 09 Oct 2004 04:48:04 -0100
+Received: from interdict735.appear.puzzle@thepuzzlebox.com (dutton048.puzzle@thepuzzlebox.com [219.254.51.28])
+	by smtp-anomalous.advisor.puzzle@thepuzzlebox.com (Postfix) with SMTP id 22JMM844HB7S
+	for <user.name@em.ca>; Sat, 09 Oct 2004 02:51:04 -0300
+Received: from smtp-fitzpatrick.nutritive.puzzle@thepuzzlebox.com ([219.254.51.28]) by sk15-z97.puzzle@thepuzzlebox.com with Microsoft SMTPSVC(5.0.0020.2082);
+	 Sat, 09 Oct 2004 06:48:04 +0100
+X-Message-Info: ITXA+%ND_LC_CHAR[1-3]6+ui+DRF+945/17584319211085
+Received: (qmail 80060 invoked by uid 49); Sat, 09 Oct 2004 10:49:04 +0500
+Date: Sat, 09 Oct 2004 07:53:04 +0200
+Message-Id: <20495410746.13645@puzzle@thepuzzlebox.com>
+From: Faith Saunders <puzzle@thepuzzlebox.com>
+To: User.name <user.name@em.ca>
+Subject: 
+MIME-Version: 1.0 (produced by priceconductance 2.3)
+Content-Type: multipart/alternative;
+	boundary="--2205793619374833"
+
+----2205793619374833
+Content-Type: text/plain;
+	charset="iso-7461-5"
+Content-Transfer-Encoding: 7Bit
+Content-Description: cuttlefish bondsmen shopkeep
+
+Your Application is Pre-Approved  Friday Oct 8 2004 18:31:45 -0800 
+     
+Your mtg process is pre-approved, for rates starting at 3.25% Fixed.  
+Please use our secure site to fill-out your application. 
+    
+Thank you. 
+  
+visit us at: 
+  
+http://www.polarrate.net/?id=g66
+  
+  
+------------------------------------------------------ 
+  
+To be taken off future:  
+  
+http://www.polarrate.net/book.php 
+  
+USA Lenders Network 
+Box 40937 
+Bedford, Nova Scotia, 
+Canada, B4A 3Z2 
+
+----2205793619374833--

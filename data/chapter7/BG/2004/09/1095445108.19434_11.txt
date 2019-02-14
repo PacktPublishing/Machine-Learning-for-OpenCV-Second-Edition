@@ -1,0 +1,36 @@
+Return-Path: <QXOEJA@mail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15121 invoked by uid 115); 17 Sep 2004 17:38:36 -0000
+Received: from QXOEJA@mail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.23.36.60):. 
+ Processed in 5.274473 secs); 17 Sep 2004 17:38:36 -0000
+Received: from unknown (HELO 209.5.178.248) (218.23.36.60)
+  by churchill.factcomp.com with SMTP; 17 Sep 2004 17:38:30 -0000
+Received: from hilly-6.backdrop.localhost ([121.32.112.47]) by uproot-2.liken.218.23.36.60 by mta099.mail.scd.yahoo.com with SMTP; 
+Fri, 17 Sep 2004 22:27:52 -0700
+News-Id: <09740159114767.3100.720@ryfyp-kh189.localhost>
+From: "Violet Nieves" <QXOEJA@mail.com>
+To: bruceg@em.ca
+Subject: Door Step Delivery on Xanax, Valíum and more
+Date: Sat, 18 Sep 2004 04:28:52 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0659127612522980"
+X-Qmail-Scanner-Message-ID: <109544271667215079@churchill>
+
+----0659127612522980
+Content-Type: text/html;
+	charset="iso-5542-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head></head>
+<body><center>
+<a href=3D"http://www.mmd123.com/?wid=3D100058" target=3D"_blank"> 
+<img src=3D"http://www.mmd123.com/ads/images/60pills4.gif" border=3D"0"><b=
+r>click to order
+</a><br><br><br><a href=3D"http://www.mmd123.com/book">r me</a>
+</center>
+</body></html>
+
+----0659127612522980--

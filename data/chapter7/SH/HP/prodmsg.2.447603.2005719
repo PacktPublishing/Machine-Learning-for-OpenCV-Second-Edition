@@ -1,0 +1,56 @@
+Received: from fallback.psinetpa.net (200.46.127.12)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:51 -0000
+Received: from mailnull by fallback.psinetpa.net with local (Exim 4.43)
+	id 1Dunsh-0006Es-U3
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 03:55:15 -0500
+X-Failed-Recipients: antos@waked.com
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@fallback.psinetpa.net>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dunsh-0006Es-U3@fallback.psinetpa.net>
+Date: Tue, 19 Jul 2005 03:55:15 -0500
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  antos@waked.com
+    SMTP error from remote mailer after RCPT TO:<antos@waked.com>:
+    host mail.waked.com [200.46.46.114]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [203.251.49.197] (helo=mailwisconsin.com)
+	by fallback.psinetpa.net with smtp (Exim 4.43)
+	id 1Dunsf-0006Ei-Jn
+	for antos@waked.com; Tue, 19 Jul 2005 03:55:15 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030522153;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antos@waked.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86955798">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>

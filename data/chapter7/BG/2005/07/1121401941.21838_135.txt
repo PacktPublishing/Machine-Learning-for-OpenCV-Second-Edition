@@ -1,0 +1,41 @@
+Return-Path: <QAFGMNNRRU@mail15.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 10990 invoked by uid 115); 15 Jul 2005 04:18:32 -0000
+Received: from QAFGMNNRRU@mail15.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(218.20.158.70):. 
+ Processed in 2.162132 secs); 15 Jul 2005 04:18:32 -0000
+Received: from unknown (HELO 209.5.178.248) (218.20.158.70)
+  by churchill.factcomp.com with SMTP; 15 Jul 2005 04:18:29 -0000
+Message-ID: <f9698r7OQ4O258P81BW91SOW53918873S995918@218.20.158.70>
+Content-Class: urn:content-classes:notice
+Content-Class: urn:content-classes:appointment
+Location: 698 wing redpoll
+Reply-To: "Madelyn Henson" <QAFGMNNRRU@mail15.com>
+From: "Madelyn Henson" <QAFGMNNRRU@mail15.com>
+To: "Bait" <bait@em.ca>
+Subject: Compare p)rescription drug prices
+Date: Fri, 15 Jul 2005 03:16:46 -0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--387873385447373584"
+
+----387873385447373584
+Content-Type: text/plain;
+	charset="iso-0384-5"
+Content-Transfer-Encoding: 7Bit
+
+Find all your medications in one place! 
+ Everything you want! Fast and cheap! 
+
+
+ You name it! We have it! 
+http://drugease.com/?name=sas18
+
+
+ Stop receiving promotional material now 
+ http://drugease.com/oo.html 
+
+
+
+
+----387873385447373584--

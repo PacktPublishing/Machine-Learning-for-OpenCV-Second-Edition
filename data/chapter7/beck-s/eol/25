@@ -1,0 +1,74 @@
+Message-ID: <27828757.1075855871069.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 02:19:00 -0700 (PDT)
+From: sheri.thomas@enron.com
+To: sally.beck@enron.com
+Subject: Test Results of EOL Management Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheri Thomas
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+This is the preliminary results of "round 2" of testing the management 
+report.  I will give you the highlights tomorrow in our meeting.  (Stephen's 
+comments pretty much cover it).
+
+Sheri
+---------------------- Forwarded by Sheri Thomas/HOU/ECT on 08/28/2000 09:16 
+AM ---------------------------
+   
+
+
+From:  Sheri Thomas                                                           
+  08/28/2000 09:17 AM	
+	
+	
+	                           
+	
+
+To: Andy Zipper/Corp/Enron@Enron
+cc:  
+Subject: Test Results of EOL Management Report
+
+Let me know if you want us to go over this with you.  
+
+Sheri
+---------------------- Forwarded by Sheri Thomas/HOU/ECT on 08/28/2000 09:15 
+AM ---------------------------
+From: Stephen Simpson@ENRON on 08/25/2000 06:19 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc: David Forster/Corp/Enron@Enron, Torrey Moorer/HOU/ECT@ECT, Sheri 
+Thomas/HOU/ECT@ECT, Mark Thibodeaux/HOU/ECT@ECT, Andrew 
+Parsons/Corp/Enron@Enron 
+Subject: Test Results of EOL Management Report
+
+Louise,
+
+I have attached a draft of the newly revised report on our test results of 
+the EOL Management Report for your review.  Please keep in mind this is a 
+tentative draft.  Mark and Andrew still want to perform some QA on the 
+results and Torrey is still looking into some of the observations.  
+
+To summarize, we observed a significant improvement from the last test we 
+performed a few months ago.  The systemic problems that created a large 
+volume of the discrepancies in our previous testing have been greatly 
+reduced.  The majority of the discrepancies identified in the most recent 
+testing are primarily a result of random data entry errors and some deal 
+booking changes made in the back office without the Product Control Group's 
+knowledge.  Torrey has already corrected the most significant discrepancies 
+and is continuing to investigate the smaller items.  
+
+Andrew and I will both be on vacation for the week of August 28.  When we 
+return, we will set up a meeting with you and Dave to discuss the final 
+results once Torrey has had time to conclude his research.
+
+
+
+Steve
+
+
+

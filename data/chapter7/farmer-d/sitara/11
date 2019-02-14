@@ -1,0 +1,71 @@
+Message-ID: <6117393.1075854174646.JavaMail.evans@thyme>
+Date: Fri, 11 Aug 2000 08:07:00 -0700 (PDT)
+From: thomas.engel@enron.com
+To: scott.mills@enron.com
+Subject: SITARA/CPR AVAILABILITY
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thomas Engel
+X-To: Scott Mills
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+To all SITARA users:
+
+
+The SITARA system will be brought down early this evening (AUG 11th - 9 PM 
+Central Time)
+to change the event transmission software to TIBCO.  This software is used to 
+send data change events to
+SITARA applications that are using portfolios (Position Manager, Deal Ticker, 
+Facility Assignment, Deal Manager).  
+
+Significant changes:
+
+New deal level fees: Transport Reimbursement, Demand Reimbursement, Transport 
+Reimbursement
+New required field for Storage service deal type: Physical, Synthetic 
+Added help file for on-line user guide (still being edited for content)
+Additional live link buttons to service deals (for future use)
+Additional warnings and hints for primary and secondary service deals
+Improved audit for deleted data and D2D deals
+Changed price warning to $9.01 (from $5.01)
+Contract auto attaching matrix changed to exclude single transaction 
+contracts for on-line deals
+Added GST exempt flag to agency
+Changed default date for new EFP to begin next month
+
+
+If you experience any problems with the release, please call the SITARA 
+Hotline.
+
+CPR will be available during the outage.  
+
+SITARA will be available early Saturday morning.
+
+
+Please call the SITARA Hotline ((713)-853-7049) if you have any questions or 
+concerns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

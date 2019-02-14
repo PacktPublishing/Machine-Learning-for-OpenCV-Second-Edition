@@ -1,0 +1,54 @@
+Message-ID: <1085589.1075856582160.JavaMail.evans@thyme>
+Date: Thu, 15 Jun 2000 01:20:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: vince.kaminski@enron.com, stinson.gibner@enron.com
+Subject: Volumetric Optionality Model Changes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Vince J Kaminski, Stinson Gibner
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Zimin Lu/HOU/ECT on 06/15/2000 08:19 AM 
+---------------------------
+
+
+Natasha Danilochkina
+06/15/2000 05:26 AM
+To: David Gallagher/LON/ECT@ECT, Peter Crilly/LON/ECT@ECT, Richard 
+Lewis/LON/ECT@ECT, Haakon Olafsson/LON/ECT@ECT, Tony Fricker/LON/ECT@ECT, 
+Andrew Fairley/LON/ECT@ECT, Matthew Nicholas/LON/ECT@ECT, David 
+Redmond/LON/ECT@ECT, Steven McCarthy/LON/ECT@ECT, Dale Surbey/LON/ECT@ECT, 
+Matthew Nimmo/LON/ECT@ECT, Matthew Ferguson/LON/ECT@ECT
+cc: Anjam Ahmad/LON/ECT@ECT, Zimin Lu/HOU/ECT@ECT, Steven 
+Leppard/LON/ECT@ECT, Stinson Gibner/HOU/ECT@ECT 
+Subject: Volumetric Optionality Model Changes
+
+As a result of meetings with Zimin Lu (Houston Research) and Anjam Ahmad in 
+early June, the gas desk together with research will be revising the models 
+for pricing options on volume (swing) and similar products. 
+
+The idea is to have a consistent method that can be applied to all contracts. 
+This will affect:
+ flat price gas swing options
+ indexed gas swing options
+ J-Block contract
+ modified Thermbank contract
+ EnBank (virtual storage)
+ 
+The new feature that will be introduced into all models is ability for 
+real-time MTM (and prospectively - sensitivities calculations).
+
+The work will be carried out as follows:
+
+Natasha Danilochkina: problem definition, contracts/products summary, 
+functional specification
+Anjam Ahmad:  Zimin's model modifications/implementation and Houston/London 
+interaction
+
+start date:  June 16th, 2000
+end date: TBC

@@ -1,0 +1,48 @@
+Return-Path: <"\"C[5-]\""@incamail.com>
+Received: (qmail 30943 invoked from network); 5 Nov 2004 19:58:28 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 05 Nov 2004 19:58:28 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 05 Nov 2004 19:58:28 -0000
+Received: (qmail 23042 invoked from network); 5 Nov 2004 19:58:27 -0000
+Received: from spr1-pool2-6-0-cust248.cosh.broadband.ntl.com (unknown [81.96.238.248])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 05 Nov 2004 19:58:25 -0000
+X-Message-Info: VY/omb+21+nwu/GA+02/76959339568952
+Received: from smtp-smother.invitation.C[5-]@incamail.com ([81.96.238.248]) by m302-yki4.C[5-]@incamail.com with Microsoft SMTPSVC(5.0.2433.1734);
+	 Sat, 06 Nov 2004 01:49:23 +0600
+Received: from demijohn650.paschal.C[5-]@incamail.com (assurance703.C[5-]@incamail.com [81.96.238.248])
+	by smtp-fidget.cryptographer.C[5-]@incamail.com (Postfix) with SMTP id 5X70E77BVOL
+	for <cvs@bruce-guenter.dyndns.org>; Sat, 06 Nov 2004 01:57:23 +0600
+Received: from smtp-hankel.silversmith.C[5-]@incamail.com ([81.96.238.248]) by kh5-d53.C[5-]@incamail.com with Microsoft SMTPSVC(5.0.8281.6908);
+	 Fri, 05 Nov 2004 18:56:23 -0100
+X-Message-Info: IIEO+%ND_LC_CHAR[1-3]673+qiy+U+461/48356384143552
+Received: from thrips.C[5-]@incamail.com ([111.128.175.217]) by room.C[5-]@incamail.com with MailEnable ESMTP; Fri, 05 Nov 2004 21:58:23 +0200
+Date: Fri, 05 Nov 2004 21:54:23 +0200
+Message-Id: <681037349.06860@C[5-]@incamail.com>
+From: Megan Huerta <C[5-]@incamail.com>
+To: Cvs <cvs@bruce-guenter.dyndns.org>
+Subject: 
+MIME-Version: 1.0 (produced by freonangelina 9.7)
+Content-Type: multipart/alternative;
+	boundary="--6806315629191339660"
+
+----6806315629191339660
+Content-Type: text/plain;
+	charset="iso-8842-5"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: sanborn croquet dewdrop
+
+Generic cialis (Regalis), at cheap prices.
+Most places charge $20, we charge $5. Quite a difference.
+
+Cialis is known as a Super-V=EDagra or Weekend-V=EDagra because its effect=
+s 
+start sooner and last much longer.
+Shipped worldwide.
+
+Your easy-to-use solution is here: www.rx-world6.com/cia/?bonsay
+
+
+----6806315629191339660--

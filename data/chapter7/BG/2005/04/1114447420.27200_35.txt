@@ -1,0 +1,110 @@
+Return-Path: <sonhumphrey_ou@car-tax-donations.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 3122 invoked from network); 24 Apr 2005 22:32:59 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 24 Apr 2005 22:32:59 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 24 Apr 2005 22:32:59 -0000
+Received: (qmail 6797 invoked from network); 24 Apr 2005 22:32:58 -0000
+Received: from 127.0.0.1 (unknown [24.179.12.71])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 24 Apr 2005 22:32:43 -0000
+Message-ID: <JCDCEFNOBNBCNJBMKKDIKDDHBNAA.sonhumphrey_ou@car-tax-donations.com>
+From: "Son G. Humphrey" <sonhumphrey_ou@car-tax-donations.com>
+To: cvs@bruce-guenter.dyndns.org
+Subject: =?iso-8859-1?b?SSBzZWxsaW5nIFZJQUdSQSBkbyB5b3Ugd2FudD8gICAgN20=?=
+Date: Thu, 17 Jun 2004 04:12:59 +0000
+MIME-Version: 1.0
+X-Sender: <sonhumphrey_ou@car-tax-donations.com>
+Sender: <sonhumphrey_ou@car-tax-donations.com>
+Reply-To: "Son G. Humphrey" <sonhumphrey_ou@car-tax-donations.com>
+In-Reply-To: <9b8a01c450f0$72c1db6e$89d2f0e2@f9g35d3>
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0A1F_716B0407.8204D5F6"
+Content-Length: 2014
+Lines: 82
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0A1F_716B0407.8204D5F6
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+Cheap Online Pharmacy
+
+Cialis 20mg - 30 pill bottle for only 80$
+Viagra  100mg - 30 pill bottle for only 70$
+
+Se our full offer at
+http://rxonlineshopping.info
+
+
+
+
+
+
+
+
+No more
+http://rxonlineshopping.info/nomore
+------=_NextPart_000_0A1F_716B0407.8204D5F6
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html>
+
+<head>
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<div align="center">
+  <center>
+  <table border="0" width="48%">
+    <tr>
+      <td width="100%" colspan="2" bgcolor="#FFE6F0">
+        <p align="center"><font face="Verdana" size="5"><a href="http://rxonlineshopping.info/">CHEAP
+        ONLINE PHARMACY</a></font></td>
+    </tr>
+    <tr>
+      <td width="50%" bgcolor="#FFFFCC">
+        <p align="center"><font face="Verdana" size="3"><b>Cialis 20mg </b></font></td>
+      <td width="50%" align="center" bgcolor="#FFFFCC"><font face="Verdana" size="3"><b>Viagra
+        100mg </b></font></td>
+    </tr>
+    <tr>
+      <td width="50%" bgcolor="#FFFFCC">
+        <p align="center"><font face="Verdana" size="3"><b>30 pill bottle</b></font></td>
+      <td width="50%" align="center" bgcolor="#FFFFCC"><font face="Verdana" size="3"><b>30
+        pill bottle</b></font></td>
+    </tr>
+    <tr>
+      <td width="50%" bgcolor="#FFE6F0">
+        <p align="center"><font face="Verdana" size="3"><b>&nbsp;ONLY 70 $</b></font></td>
+      <td width="50%" align="center" bgcolor="#FFE6F0"><font face="Verdana" size="3"><b>&nbsp;ONLY
+        70 $</b></font></td>
+    </tr>
+    <tr>
+      <td width="100%" colspan="2">
+        <p align="center"><a href="http://rxonlineshopping.info/">SEE OUR
+        FULL OFFER</a></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://rxonlineshopping.info/nomore">out</a></p>
+
+</body>
+
+</html>
+
+
+------=_NextPart_000_0A1F_716B0407.8204D5F6--

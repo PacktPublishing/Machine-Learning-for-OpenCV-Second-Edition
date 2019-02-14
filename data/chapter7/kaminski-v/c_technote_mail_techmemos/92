@@ -1,0 +1,136 @@
+Message-ID: <32590747.1075856595932.JavaMail.evans@thyme>
+Date: Mon, 13 Nov 2000 02:43:00 -0800 (PST)
+From: naveen.andrews@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: looking for "Fat Tails" in time-series for NGI-SOCAL
+Cc: tanya.tamarchenko@enron.com, vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tanya.tamarchenko@enron.com, vladimir.gorny@enron.com
+X-From: Naveen Andrews
+X-To: Vince J Kaminski
+X-cc: Tanya Tamarchenko, Vladimir Gorny
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+                I quite agree, we have to separate out price and position, 
+and that is what we have done with the historical simulations/EVT ideas.  We 
+have taken today's delta-gamma, hold that frozen, and gone back historically 
+and looked at price changes and see what happens to portfolio changes.    
+Garman and company have looked at gross historical portfolio changes, which I 
+agree is not the best approach, due to the artificiality imposed by largest 
+Net Open Positions (NOP), such as we have seen recently.
+         
+Regards
+Naveen
+
+
+
+
+
+
+Vince J Kaminski@ECT
+11/13/2000 10:31 AM
+To: Tanya Tamarchenko/HOU/ECT@ECT
+cc: Naveen Andrews/Corp/Enron@ENRON, Vince J Kaminski/HOU/ECT@ECT, Vladimir 
+Gorny/HOU/ECT@ECT 
+
+Subject: Re: looking for "Fat Tails" in time-series for NGI-SOCAL  
+
+Tanya, Naveen,
+
+Just a thought. Changes in the portfolio values may combine both the changes 
+of prices and positions.
+This happens if one tracks changes in the value of our historical gas 
+portfolio. A big jump in
+the volumetric position from day to day, combined with a moderate price 
+movement may produce an
+observation that looks artificially big.
+
+If the volumetric position was frozen, it's just a scaling factor and there 
+should be 
+no discrepancy between your numbers. Of course, the correct approach
+is to separate the price process from the position changes. 
+
+Vince
+
+
+
+
+
+Tanya Tamarchenko
+11/13/2000 08:38 AM
+To: Naveen Andrews/Corp/Enron@ENRON
+cc: Vince J Kaminski/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT 
+Subject: Re: looking for "Fat Tails" in time-series for NGI-SOCAL  
+
+Naveen,
+I am trying to answer the question: what is the appropriate stochastic 
+process to model the behavior
+of commodities' prices in our VAR model. So what  I do care about is the 
+behavior of log-returns. 
+Any help is appreciated.
+
+Tanya.
+ 
+
+
+
+Naveen Andrews@ENRON
+11/10/2000 04:35 PM
+To: Tanya Tamarchenko/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT 
+Subject: Re: looking for "Fat Tails" in time-series for NGI-SOCAL  
+
+Tanya,
+               We care about PORTFOLIO VALUE CHANGES, not log-returns of a 
+single contract, which has extremes in the behavior and can be fit to a 
+fat-tailed distribution.   A 1.20 basis move, with 500 BCF position, is an 
+extreme event, anyway you slice it.In the literature, as elsewhere, I agree 
+for a single contract log-returns, they don't divide by vols.  
+
+Regards
+Naveen
+
+
+
+Tanya Tamarchenko@ECT
+11/10/2000 04:17 PM
+To: Naveen Andrews/Corp/Enron@ENRON
+cc: Vince J Kaminski/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT 
+
+Subject: Re: looking for "Fat Tails" in time-series for NGI-SOCAL  
+
+Naveen,
+
+I got NGI-SOCAL prices for prompt, prompt+1,...,prompt+59 contracts.
+For each contract I calculated moving average based on 21 log-returns as
+well as moving volatility. Then I calculated normalized log-returns:
+
+[ return(t)-ave(t) ] / vol(t)
+
+and compared the results to normal distribution. 
+
+I COULD NOT FIND Fat Tails! 
+
+Volatility changes a lot from day to day, so when people look at
+log-returns (not normalized) it seems that there fat tails (big spikes, large 
+returns more frequent than normal), 
+which comes from the fact that volatility is not constant (at all).
+
+See the spreadsheet is under O:\_Dropbox\Tanya
+
+Tanya
+
+
+
+
+
+
+
+
+
+

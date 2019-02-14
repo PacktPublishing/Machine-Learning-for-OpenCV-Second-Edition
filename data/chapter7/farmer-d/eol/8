@@ -1,0 +1,49 @@
+Message-ID: <15994959.1075840430840.JavaMail.evans@thyme>
+Date: Fri, 31 Aug 2001 13:25:37 -0700 (PDT)
+From: savita.puthigai@enron.com
+To: traders.eol@enron.com, traders.eol@enron.com, center.eol@enron.com, 
+	sydney.eol@enron.com, group.enron@enron.com, 
+	houston.product@enron.com
+Subject: NEW ENRONONLINE FUNCTIONALITY
+Cc: jay.webb@enron.com, greg.piper@enron.com, brad.richter@enron.com, 
+	lindsay.renaud@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jay.webb@enron.com, greg.piper@enron.com, brad.richter@enron.com, 
+	lindsay.renaud@enron.com
+X-From: Puthigai, Savita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SPUTHIGA>
+X-To: EOL Non North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NON NORTH AMERICA TRADERS>, EOL North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL NORTH AMERICA TRADERS>, EOL Call Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EOL CALL CENTER>, EOL Product Control Group, Enron Sydney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C54B7BAA-3D476E0B-862568BD-54B03B>, Enron London - EOL Product Control Group, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EB17BF3-5A5745-802567F4-3D719C>, Product Control - Houston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PRODUCT CONTROL - HOUSTON>
+X-cc: Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JWEBB>, Piper, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GPIPER>, Richter, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BRICHTE>, Renaud, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LRENAUD>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Several changes have been made to Stack Manager and the website. These changes are outlined below and will be visible by all as of Monday September 3, 2001.
+
+
+Stack Manager Changes
+
+Activate/Inactivate Stack - This functionality allows the trader to pull a product's prices from the website without suspending the product. If the Top of Stack limit order functionality is activated for a particular product this should be used to pull the stack prices from the website without pulling the entire product; therefore, if there are top of stack limit orders against the product they will remain visible and transactable on the website. 
+
+If a product's stack is inactivated the font for that product will be grayed out in stack manager. If the stack is active it will appear in black font.
+
+To use this feature, select the product, right click and choose "Inactivate Stack". When you are ready to reactivate your prices, select the same product, right click again and choose "Activate Stack". There are also icons on the tool bar at the top of your screen which will Activate/Inactivate the stack of the highlighted product. See screen shot below for the icons.
+
+					 
+
+Changes to Product Properties - Currently when modifications are made to certain properties within the product properties screen, the product will be suspended and pulled from the website. Now instead of being suspended, the product's stack will become inactive. Once the changes have been made and saved to the properties of a product simply click the Activate Stack icon as discussed above.
+
+
+Website Change
+
+Restrictions on Top of Stack orders - If Top of Stack limit orders are allowed on a product, but the trader is not showing both a bid and offer, limit orders will not be able to be placed on that product.
+
+
+If you have any questions please call me at 31787. Thanks.
+
+Savita
+
+
+
+<Embedded Paintbrush Picture>

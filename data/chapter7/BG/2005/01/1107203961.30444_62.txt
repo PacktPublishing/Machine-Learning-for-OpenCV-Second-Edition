@@ -1,0 +1,46 @@
+Return-Path: <"\"P[5-]\""@mailblocks.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 12697 invoked from network); 29 Jan 2005 01:59:41 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 29 Jan 2005 01:59:41 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Jan 2005 01:59:41 -0000
+Received: (qmail 29878 invoked from network); 29 Jan 2005 01:59:39 -0000
+Received: from adsl-68-75-163-131.dsl.emhril.ameritech.net (unknown [68.75.163.131])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 29 Jan 2005 01:59:39 -0000
+X-Message-Info: JZ/w+57+gd/P+632/74595060446
+Received: from smtp-clubhouse.gyrate.P[5-]@mailblocks.com ([68.75.163.131]) by j537-ivw7.P[5-]@mailblocks.com with Microsoft SMTPSVC(5.0.3707.9923);
+	 Fri, 28 Jan 2005 21:58:54 -0400
+Received: from defrost312.roth.P[5-]@mailblocks.com (haphazard841.P[5-]@mailblocks.com [68.75.163.131])
+	by smtp-highway.cockpit.P[5-]@mailblocks.com (Postfix) with SMTP id 313GT406G5YRK
+	for <rait@bruce-guenter.dyndns.org>; Fri, 28 Jan 2005 22:53:54 -0300
+Received: from smtp-show.orbit.P[5-]@mailblocks.com ([68.75.163.131]) by jj40-w47.P[5-]@mailblocks.com with Microsoft SMTPSVC(5.0.0533.4911);
+	 Fri, 28 Jan 2005 20:55:54 -0500
+X-Message-Info: OBNEP+%ND_LC_CHAR[1-3]532+xt+ZN+649/0995942363
+Received: (qmail 87269 invoked by uid 699); Sat, 29 Jan 2005 02:52:54 +0100
+Date: Sat, 29 Jan 2005 02:58:54 +0100
+Message-Id: <319953791647.49833@P[5-]@mailblocks.com>
+From: Zoe  Thomas <P[5-]@mailblocks.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: Viagra for Free
+MIME-Version: 1.0 (produced by belfastsuccession 6.0)
+Content-Type: multipart/alternative;
+	boundary="--85891432050561210214"
+Content-Length: 365
+Lines: 13
+
+----85891432050561210214
+Content-Type: text/plain;
+	charset="iso-7450-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: conflict scum banjo
+
+Always wanted to try the drug the world has been talking about?
+
+Well now is your chance to try it for FREE!!!
+
+Get FREE Viagra here: http://www.rxonlinesale.com/free/?bonsay=20
+
+----85891432050561210214--

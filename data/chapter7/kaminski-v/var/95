@@ -1,0 +1,89 @@
+Message-ID: <12846267.1075856642854.JavaMail.evans@thyme>
+Date: Tue, 25 Jul 2000 14:29:00 -0700 (PDT)
+From: anjam.ahmad@enron.com
+To: tanya.tamarchenko@enron.com, cantekin.dincerler@enron.com, 
+	kirstee.hewitt@enron.com
+Subject: Re: Final Pivot Table for MG Metals Globals Positions Data
+Cc: vince.kaminski@enron.com, grant.masson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, grant.masson@enron.com
+X-From: Anjam Ahmad
+X-To: Tanya Tamarchenko, Cantekin Dincerler, Kirstee Hewitt
+X-cc: Vince J Kaminski, Grant Masson
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear all,
+
+Please see attached spreadsheet - we will have to think of a way to automate 
+the position update - right now it's a manual process to convert the text 
+file that Andreas sends us to proper spreadsheet format and then pivot table 
+the results - only takes about 20 minutes to do this however.  Note that the 
+version 1a VaR model links via VLOOKUP to the spreadsheet attached (as you 
+know, we have to use VLOOKUP because MG does not necessarily have positions 
+in all forward months, whilst the pivot table only produces numbers for 
+forward months with a position).
+
+Regards,
+
+Anjam
+x35383
+
+POSITIONS AS OF 19th JULY
+
+---------------------- Forwarded by Anjam Ahmad/LON/ECT on 25/07/2000 20:41 
+---------------------------
+   
+
+
+	Enron Europe
+	
+	From:  Anjam Ahmad                           25/07/2000 19:17
+	
+
+To: Cantekin Dincerler/HOU/ECT@ECT
+cc: Tanya Tamarchenko/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, Grant 
+Masson/HOU/ECT@ECT, Andreas.Barschkis@mgusa.com @ ENRON 
+
+Subject: Re: Positions Data
+
+Our pivot table; we noticed that copper position for 19th July has option 
+included but this is not reported in Mercur - I guess we should include the 
+5,248 tonnes for the copper option for 2000.09, but we won't show any gamma.
+
+
+
+---------------------- Forwarded by Anjam Ahmad/LON/ECT on 25/07/2000 19:18 
+---------------------------
+   
+
+
+	Enron Europe
+	
+	From:  Anjam Ahmad                           25/07/2000 19:14
+	
+
+To: Tanya Tamarchenko/HOU/ECT@ECT
+cc: Cantekin Dincerler/HOU/ECT@ECT, Andreas.Barschkis@mgusa.com @ ENRON 
+
+Subject: Re: Positions Data  
+
+Hi Tanya,
+
+We are using the data for 19th July from Andreas - see file attached.  We are 
+using this because we can reconcile to Mercur print out that we got from 
+Andreas last Wednesday.  If you don't mind, perhaps Cantekin can try again 
+with this new sheet attached.  We already looked at it, but would like to see 
+what Cantekin can come up with independently.  I think the positions changed 
+a lot from 3rd July (your data) to 19th July.
+
+Thanks,
+
+Anjam & Kirstee
+
+ 
+
+

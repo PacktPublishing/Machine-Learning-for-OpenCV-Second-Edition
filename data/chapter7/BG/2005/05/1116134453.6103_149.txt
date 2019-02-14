@@ -1,0 +1,23 @@
+Return-Path: <jeygn@sohu.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16135 invoked by uid 115); 15 May 2005 05:01:46 -0000
+Received: from jeygn@sohu.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(66.231.229.69):. 
+ Processed in 0.100235 secs); 15 May 2005 05:01:46 -0000
+Received: from monitor.bivapr.net (HELO dosvlrry.com) (66.231.229.69)
+  by churchill.factcomp.com with SMTP; 15 May 2005 05:01:45 -0000
+From: jeygn@sohu.com
+To: qmail@em.ca
+Date: Sun, 15 May 2005 05:15:39 UTC
+Subject: Auslaenderpolitik
+Importance: Normal
+X-Mailer: Outlook 4.78
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Message-ID: <95b6fcc4924dacbc235@em.ca>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+Content-Length: 51
+
+Lese selbst:
+http://www.mjoelnirsseite.de/2100.htm

@@ -1,0 +1,67 @@
+Message-ID: <20946730.1075855928703.JavaMail.evans@thyme>
+Date: Tue, 12 Sep 2000 01:49:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Trade Warehouse Mtg - Purpose
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 09/12/2000=20
+08:47 AM ---------------------------
+
+
+Vanessa Schulte@ENRON
+09/11/2000 02:52 PM
+To: Nicki Daw/NA/Enron@Enron
+cc: Joel Henenberg/NA/Enron@Enron, Mary Solmonson/HOU/ECT@ECT, Scott=20
+Williamson/HOU/ECT@ECT, Cindy Wisemiller/HOU/ECT@ECT=20
+Subject: Trade Warehouse Mtg - Purpose
+
+Hi Nicki,
+Thanks for setting up the meeting next Wednesday (9/20) at 2:30 with M.=20
+Frevert, D. Delainey, J. Shankman, and J. Lavorato.  Here is a brief overvi=
+ew=20
+of the meeting objective:
+
+Purpose
+To gain support and approval for a data warehouse vision containing=20
+consolidated trade information with centralized access.
+
+Background
+The definition of a data warehouse is a place to consolidate information=20
+originating from multiple transaction processing systems and platforms into=
+ a=20
+common database repository.  The idea of an Enron =01&Trade Warehouse=018=
+=20
+originated from members of the London office and has been expanded to inclu=
+de=20
+the Houston systems.  The need for a Trade Warehouse stems from the=20
+requirement of multiple departments needing to access consolidated deal=20
+information for analytical reporting and down-stream processing.   Currentl=
+y,=20
+deal information is held in separate trading systems both within product=20
+process flows from mid to back office, and across product lines. The=20
+information is also stored across multiple system platforms and is not easi=
+ly=20
+accessible or consistently presented across the various trading products=20
+within Enron. Given this current architecture, it is very difficult and=20
+costly to access timely, quality-assured, and consolidated cross-product de=
+al=20
+information for analytical reporting and down-stream processing.
+
+Proposal
+Houston will use the warehouse as the data source for EnTelligence and=20
+numerous analytical reporting application systems.  These analytical=20
+reporting application systems can include, but are not limited to,=20
+Operational Pricing Module (OPM), EnronOnline, and Daily Position Report=20
+(DPR).  Once the warehouse is in place, it may be used as the source for=20
+additional downstream systems as well as Investor Relations reporting.
+

@@ -1,0 +1,68 @@
+Message-ID: <6632336.1075856589903.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 19:44:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: greg.whalley@enron.com, john.lavorato@enron.com
+Subject: EOL WTI Historical Trade Simulation - more profitable trading
+ strategy
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Zimin Lu
+X-To: Greg Whalley, John J Lavorato
+X-cc: Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Please ignor my previous mail regarding the same issue, which contains some 
+typos.
+
+
+
+Greg and John,
+
+I found that by reducing the volume per trade and increasing daily number of 
+trades ( keeping the 
+total volume per day constant), we can be more profitable.  This is partially 
+because in a trending market
+we lose less money by following the market more closely. For example, suppose 
+market move from
+$30 to $35. If per trade volume is 10,000 BBL and the half bid-offer spread 
+is $1 for simplicity, we take 5
+ trades of short positions, the total MTM for that day is 
+(-5-4-3-2-1)*10,000=-$150,000 and total trading 
+volume is 50,000 BBL short.  If per trade volume is 50,000 BBL, we take one 
+trade, the total MTM is 
+-5*50,000= -$250,000.   Thus the net difference between the two trading 
+strategies is $10,000 for that
+particular day.
+
+Therefore it seems that by reducing per trade volume and increasing the 
+number of trades, we can be more
+profitable as a market maker.  
+
+I rerun a scenario that Stinson sent to you on Dec. 27 where he used per 
+trade volume of 30,000 BBL.
+I reduce the number of trade to 10,000 while increasing the number of trades 
+by factor of 3.  Almost in all
+cases, I saw increased profitability.  See the colume marked "Change" for 
+dollar amount change in millions.
+
+Please let Stinson or me know your thoughts on this.
+
+Regards,
+
+Zimin Lu
+
+x36388
+
+
+
+As compared to
+
+
+
+
+

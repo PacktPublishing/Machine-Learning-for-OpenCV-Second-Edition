@@ -1,0 +1,46 @@
+Message-ID: <12710336.1075856617018.JavaMail.evans@thyme>
+Date: Fri, 22 Dec 2000 06:04:00 -0800 (PST)
+From: ted.murphy@enron.com
+To: rick.buy@enron.com, vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	rudi.zipter@enron.com, david.port@enron.com
+Subject: WTI - New EOL Product
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ted Murphy
+X-To: Rick Buy, Vince J Kaminski, Stinson Gibner, Rudi Zipter, David Port
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Please provide comments on the summary below.  After I have collected them, 
+we can decide to distribute to Greg, John, Jeff and anyone else involved.
+
+The following is my summary of our collective thoughts regarding the proposed 
+24x7 trading of prompt WTI:
+
+ 1) appears advisable to have on-site human monitoring for the following 
+reasons:
+  a) public relations
+  b) in case there are operational bugs
+  c) unforeseen market events, particulary during off exchange hours, long 
+weekends, etc
+
+ 2) We advocate some live trading simulation with incentives to "bust" the 
+system prior to launch to work our
+  operational glitches, and because the historical simulations used daily, 
+not intra-day prices.
+
+ 3) Consider a daily position limit (a sub-limit of the overall Global 
+Products limit) whereby each day, at least once a day,
+  the open position will be reduced under the limit (or to close to flat?)
+ 
+ 4) Consider  a "trigger" whereby the fixed spread widens if a certain number 
+of consecutive trades occurs on the same 
+  side of the market
+
+ 5) Consider the purchase of deep out-of-the-money puts and calls to protect 
+against extreme events.
+
+Ted

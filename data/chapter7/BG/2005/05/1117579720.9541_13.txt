@@ -1,0 +1,80 @@
+Return-Path: <editor@the-tech-news.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30415 invoked by uid 115); 31 May 2005 21:30:37 -0000
+Received: from editor@the-tech-news.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(81.40.60.174):. 
+ Processed in 5.559672 secs); 31 May 2005 21:30:37 -0000
+Received: from 174.red-81-40-60.pooles.rima-tde.net (HELO world-foundation.org) (81.40.60.174)
+  by churchill.factcomp.com with SMTP; 31 May 2005 21:30:30 -0000
+Received: from STEPC020 by world-foundation.org
+	with SMTP (MDaemon.v3.1.2.R)
+	for <bruceg@em.ca>; Tue, 31 May 2005 23:19:04 +0200
+From: "The TechNews" <editor@the-tech-news.com>
+Subject: The TechNews - Bulletin, June 2005
+To: bruceg@em.ca
+Content-Type: multipart/alternative; boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+MIME-Version: 1.0
+Date: Tue, 31 May 2005 23:19:04 +0200
+X-Priority: 3
+X-Library: Indy 8.0.22
+X-MDRcpt-To: bruceg@em.ca
+X-Return-Path: editor@the-tech-news.com
+X-MDaemon-Deliver-To: bruceg@em.ca
+Reply-To: editor@the-tech-news.com
+Message-ID: <MDAEMON-F200505312319.AA190411md50063618536@world-foundation.org>
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Mobile production units for developing countries - Worldwide Partners program
+
+SN World Foundation will supply to countries and developing regions the technology and necessary support for production in series of Mini-plants in mobile=20containers (40-foot). The Mini-plant system is designed in such a way that all the production machinery is fixed on the platform of the container, with all wiring,=20piping, and installation parts; that is, they are fully equipped... and the Mini-plant is ready for production.
+
+More than 700 portable production systems: Bakeries, Water purification, Dehydrated food, Steel Nails, Fruit juice preparation, Tire Retreading, Reinforcement=20Bar Bending for Construction Framework, Sheeting for Roofing, Ceilings and Fa=E7ades, Plated Drums, Aluminum Buckets, Injected Polypropylene Housewares,=20Pressed Melamine Items (Glasses, Cups, Plates, Mugs, etc.), Mufflers, Construction Electrically Welded Mesh, Plastic Bags and Packaging, Medical assistance=20mobile units, Sanitary Material, Hypodermic Syringes, Hemostatic Clamps, etc.=20
+The Mini-plants of production in mobile containers is the only system in the world that can provide up to six (6) of the most essential products for basic=20sustenance for just one dollar (=241.00) per day.=20
+SN World Foundation has started a Co-investment program for the installation of small Assembly Plants to manufacture, in series, the Mini-plants of portable=20production on site, region or country where required. One of the most relevant features is the fact that these plants will be connected to the International Trade=20System, with access to more than 50 million raw materials, products and services and automatic transactions for world trade.
+
+Due to financial reasons, involving cost and social impact, the best solution is setting up Assembly Plants on the same countries and regions, using local resources=20(labor, some equipment, etc.) SN World Foundation participates at 50% (fifty percent) for investment of each Assembly Plant.
+
+If you are interested in being a partner in your country or region, you can send your CV to: SN World Foundation (click here) <A HREF=3D=22mailto:tech=40world-
+foundation.org?Subject=3DINTERESTED IN BEING A PARTNER=22>Worldwide Partners Program</A> to: Sarah Mathews, Program Manager.
+
+-------------------------------------------------------------------------
+If you received this in error or would like to be removed from our list, please return us indicating: remove or un-subscribe in subject field, Thanks. <A=20HREF=3D=22mailto:technews=40operamail.com?Subject=3DREMOVE or UN-SUBSCRIBE=22>The TechNews, Editor</A>
+=A9 2005 THE TECH NEWS. All rights reserved.
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<meta http-equiv=3D=22content-type=22 content=3D=22text/html;CHARSET=3Diso8859-1=22>
+</HEAD>
+<BODY BGCOLOR=3D=22=23FFFFFF=22>
+<FONT COLOR=3D=22=23=22><B><FONT FACE=3D=22Arial=22><FONT SIZE=3D2>Mobile production units for developing countries - Worldwide Partners program</B><BR>
+<BR>
+SN World Foundation will supply to countries and developing regions the technology and necessary support for <B>production in series of Mini-plants in mobile containers</B> (40-foot). The Mini-plant system is designed in such a way that all the production machinery is fixed on the platform of the container, with all wiring, piping, and installation parts; that is, they are fully equipped... and the Mini-plant is ready for production.<BR>
+<BR>
+<B>More than 700 portable production systems</B>: Bakeries, Water purification, Dehydrated food, Steel Nails, Fruit juice preparation, Tire Retreading, Reinforcement Bar Bending for Construction Framework, Sheeting for Roofing, Ceilings and Fa&ccedil;ades, Plated Drums, Aluminum Buckets, Injected Polypropylene Housewares, Pressed Melamine Items (Glasses, Cups, Plates, Mugs, etc.), Mufflers, Construction Electrically Welded Mesh, Plastic Bags and Packaging, Medical assistance mobile units, Sanitary Material, Hypodermic Syringes, Hemostatic Clamps, etc. <BR>
+<BR>
+The Mini-plants of production in mobile containers is the <B>only system in the world</B> that can provide <B>up to six (6) of the most essential products for basic sustenance for just one dollar (=241.00) per day</B>. <BR>
+<BR>
+SN World Foundation has started a Co-investment program for the installation of small <B>Assembly Plants to manufacture, in series, the Mini-plants of portable production on site, region or country where required</B>. One of the most relevant features is the fact that these plants will be connected to the International Trade System, with access to more than 50 million raw materials, products and services and automatic transactions for world trade.<BR>
+<BR>
+Due to financial reasons, involving cost and social impact, the best solution is setting up Assembly Plants on the same countries and regions, using local resources (labor, some equipment, etc.) <B>SN World Foundation participates at 50% (fifty percent) for investment of each Assembly Plant</B>.<BR>
+<BR>
+If you are interested in being a partner in your country or region, you can send your CV to: <B>SN World Foundation</B> (click here) <a href=3D=22mailto:tech=40world-foundation.org?Subject=3DINTERESTED IN BEING A PARTNER=22>Worldwide Partners Program</a> to: Sarah Mathews, Program Manager.<BR>
+<BR>
+-------------------------------------------------------------------------<BR>
+If you received this in error or would like to be removed from our list, please return us indicating: remove or un-subscribe in subject field, Thanks. <a href=3D=22mailto:technews=40operamail.com?Subject=3DREMOVE or UN-SUBSCRIBE=22>The TechNews, Editor</a><BR>
+&copy; 2005 THE TECH NEWS. All rights reserved.<BR>
+</FONT></FONT></FONT>
+</BODY>
+</HTML>
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--
+

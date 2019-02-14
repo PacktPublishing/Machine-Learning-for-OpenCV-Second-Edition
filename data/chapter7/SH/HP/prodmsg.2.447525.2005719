@@ -1,0 +1,76 @@
+Received: from mxout.hispeed.ch (HELO mx.hispeed.ch) (62.2.95.247)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:18 -0000
+Received: from localhost (localhost)
+	by mx.hispeed.ch (8.12.6/8.12.6/tornado-1.0) id j6JAxHqQ023786;
+	Tue, 19 Jul 2005 12:59:17 +0200
+Date: Tue, 19 Jul 2005 12:59:17 +0200
+From: Mail Delivery Subsystem <MAILER-DAEMON@mx.hispeed.ch>
+Message-Id: <200507191059.j6JAxHqQ023786@mx.hispeed.ch>
+X-Sending-Host: chello081018216102.chello.pl
+X-Sending-IP: 81.18.216.102
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAxHqQ023786.1121770757/mx.hispeed.ch"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAxHqQ023786.1121770757/mx.hispeed.ch
+
+The original message was received at Tue, 19 Jul 2005 12:59:14 +0200
+from chello081018216102.chello.pl [81.18.216.102]
+
+   ----- The following addresses had permanent fatal errors -----
+<plutz@swissonline.ch>
+    (reason: Insufficient permission)
+
+   ----- Transcript of session follows -----
+maildrop: maildir over quota.
+550 5.0.0 <plutz@swissonline.ch>... Insufficient permission
+
+--j6JAxHqQ023786.1121770757/mx.hispeed.ch
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx.hispeed.ch
+Received-From-MTA: DNS; chello081018216102.chello.pl
+Arrival-Date: Tue, 19 Jul 2005 12:59:14 +0200
+
+Final-Recipient: RFC822; plutz@swissonline.ch
+X-Actual-Recipient: RFC822; u1011385@mx.hispeed.ch
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: X-Unix; 77
+Last-Attempt-Date: Tue, 19 Jul 2005 12:59:17 +0200
+
+--j6JAxHqQ023786.1121770757/mx.hispeed.ch
+Content-Type: text/rfc822-headers
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (chello081018216102.chello.pl [81.18.216.102])
+	by mx.hispeed.ch (8.12.6/8.12.6/tornado-1.0) with SMTP id j6JAxBqQ023762
+	for <plutz@swissonline.ch>; Tue, 19 Jul 2005 12:59:14 +0200
+X-Sending-Host: chello081018216102.chello.pl
+X-Sending-IP: 81.18.216.102
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359833;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: plutz@swissonline.ch
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Virus-Scanned: ClamAV 0.86.1/984/Tue Jul 19 11:16:09 2005 on mx-05.tornado.cablecom.ch
+X-Virus-Status: Clean
+
+--j6JAxHqQ023786.1121770757/mx.hispeed.ch--
+

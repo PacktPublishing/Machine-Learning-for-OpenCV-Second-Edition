@@ -1,0 +1,64 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S262383AbVDGByW@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 13928 invoked from network); 7 Apr 2005 01:58:15 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 07 Apr 2005 01:58:15 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Apr 2005 01:58:15 -0000
+Received: (qmail 26827 invoked from network); 7 Apr 2005 01:58:13 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 07 Apr 2005 01:58:13 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S262383AbVDGByW (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Wed, 6 Apr 2005 21:54:22 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S262384AbVDGByN
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Wed, 6 Apr 2005 21:54:13 -0400
+Received: from 48.host.terra.es ([213.4.129.48]:36007 "EHLO tfdsmtp2.mail.isp")
+	by vger.kernel.org with ESMTP id S262379AbVDGByD (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Wed, 6 Apr 2005 21:54:03 -0400
+Received: from teleline.es ([10.20.4.99]) by tfdsmtp2.mail.isp
+          (Netscape Messaging Server 4.15 tfdsmtp2 Mar 14 2002 21:29:48)
+          with ESMTP id IEJZVO02.67M; Thu, 7 Apr 2005 03:52:36 +0200 
+From:	HOWARD_JONES <HOWARD_JONES@terra.es>
+Reply-To: howardjones@katamail.com
+Message-ID: <ff08d1032fc.1032fcff08d@teleline.es>
+Date:	Thu, 07 Apr 2005 03:52:35 +0200
+X-Mailer: Netscape Webmail
+MIME-Version: 1.0
+Content-Language: es
+Subject: we can work together
+X-Accept-Language: es
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+To:	unlisted-recipients:; (no To-header on input)
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 939
+
+Dear Sir,
+
+You will be surprise to see this message but I got your information
+through Spartanburg, area chamber of commerce USA.
+My name is Howard Jones, a Chief Auditor, during my last auditing in
+the United States of America with JPMORGANCHASE CO.in New York, we 
+realized
+the sum $35.5million owned by one Patric Zuma from Egypt who died
+during the terrorist attack of Sept.11,2001 in the world trade center.
+All efforts,which have been made to reach the relatives of Mr.Patric
+Zuma for the past two years, have not yielded any positive result. It
+was later gathered that Mr.Zuma|s divorced wife and only son died in
+the September 11 bombing of the World Trade center in New York the same
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

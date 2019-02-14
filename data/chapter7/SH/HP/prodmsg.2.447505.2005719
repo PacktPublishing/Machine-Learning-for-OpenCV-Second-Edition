@@ -1,0 +1,89 @@
+Received: from mx2.essentkabel.com (195.35.184.242)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:34 -0000
+Received: by mx2.essentkabel.com (Postfix)
+	id 05C55265353; Tue, 19 Jul 2005 12:58:34 +0200 (CEST)
+Date: Tue, 19 Jul 2005 12:58:34 +0200 (CEST)
+From: MAILER-DAEMON@mx2.essentkabel.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0F9CE2653E7.1121770714/mx2.essentkabel.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105834.05C55265353@mx2.essentkabel.com>
+
+This is a MIME-encapsulated message.
+
+--0F9CE2653E7.1121770714/mx2.essentkabel.com
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host mx2.essentkabel.com.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<distinctionscoxswaining@eyetoeye.nl>: host mailhost.castel.nl[195.85.130.71]
+    said: 550 <distinctionscoxswaining@eyetoeye.nl>: Recipient address
+    rejected: User unknown in relay recipient table (in reply to RCPT TO
+    command)
+
+--0F9CE2653E7.1121770714/mx2.essentkabel.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mx2.essentkabel.com
+X-Postfix-Queue-ID: 0F9CE2653E7
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 12:58:26 +0200 (CEST)
+
+Final-Recipient: rfc822; distinctionscoxswaining@eyetoeye.nl
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host mailhost.castel.nl[195.85.130.71] said: 550
+    <distinctionscoxswaining@eyetoeye.nl>: Recipient address rejected: User
+    unknown in relay recipient table (in reply to RCPT TO command)
+
+--0F9CE2653E7.1121770714/mx2.essentkabel.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from mailwisconsin.com (dialpool-210-214-10-221.maa.sify.net [210.214.10.221])
+	by mx2.essentkabel.com (Postfix) with SMTP id 0F9CE2653E7
+	for <distinctionscoxswaining@eyetoeye.nl>; Tue, 19 Jul 2005 12:58:26 +0200 (CEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038191058;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distinctionscoxswaining@eyetoeye.nl
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82717692">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--0F9CE2653E7.1121770714/mx2.essentkabel.com--

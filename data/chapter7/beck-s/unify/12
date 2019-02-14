@@ -1,0 +1,58 @@
+Message-ID: <32668779.1075855929757.JavaMail.evans@thyme>
+Date: Thu, 9 Mar 2000 09:03:00 -0800 (PST)
+From: philippe.bibi@enron.com
+To: greg.whalley@enron.com, cliff.baxter@enron.com, sally.beck@enron.com
+Subject: Unify statistics/performance over last few months
+Cc: beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com
+X-From: Philippe A Bibi
+X-To: Greg Whalley, Cliff Baxter, Sally Beck
+X-cc: Beth Perlman
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI
+---------------------- Forwarded by Philippe A Bibi/HOU/ECT on 03/09/2000 
+05:02 PM ---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           03/09/2000 03:57 PM
+	
+
+To: Inja Chun/HOU/ECT@ECT, Tommy J Yanowski/HOU/ECT@ECT, Philippe A 
+Bibi/HOU/ECT@ECT, Scott Williamson/HOU/ECT@ECT
+cc:  
+Subject: Unify statistics/performance over last few months
+
+Here are some statistics of Unify transaction, volumetric and CPU performance 
+since December:
+
+    Dec '99  Jan '00  Feb '00  Mar '00
+Path count   4785  6325  8038  8227
+ % change  n/a  32%  27%  2%
+
+Peak Day Delivered Qty 15.4 Bcf  22.8 Bcf  20.3 Bcf  17.5 Bcf
+
+This time period includes the Columbia Energy Services business during 
+January as well as the Bridgeline merger during March.
+The increase in paths from 4785 in December 1999 to 8227 in March 2000 
+represents a total  transaction increase of 72%!
+Over this same time period, CPU utilization has increased from the mid-teens 
+to the mid-20s during 7am - 7pm peak interval (see graph below).
+Real-time deal changes to Path Manager via Tibco was implemented on Jan 21.
+
+We continue to monitor the Sybase performance on a daily basis and tune the 
+application when possible.  We are also testing the new 64 bit version of 
+Sybase 12.0 which was just released.  Although we have experienced some 
+"stack traces" on this new Sybase server, we are experiencing improved 
+performance in our initial application benchmark tests.  We hope to migrate 
+to this new OS and Sybase release in April.
+
+Regards, d.n.
+
+

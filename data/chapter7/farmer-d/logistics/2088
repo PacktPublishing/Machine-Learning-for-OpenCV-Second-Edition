@@ -1,0 +1,59 @@
+Message-ID: <4817721.1075854319408.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 01:20:00 -0800 (PST)
+From: edward.terry@enron.com
+To: daren.farmer@enron.com
+Subject: EOL Deal Ids In Path Manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Edward Terry
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Thought you might want to see this.
+
+
+---------------------- Forwarded by Edward Terry/HOU/ECT on 02/21/2001 09:19 
+AM ---------------------------
+From: Matt Pena/ENRON@enronXgate on 02/21/2001 09:11 AM
+To: Edward Terry/HOU/ECT@ECT, George F Smith/HOU/ECT@ECT, Patti 
+Sullivan/HOU/ECT@ECT, Katherine L Kelly/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, 
+Donna Greif/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT
+cc: Chris Schomer/ENRON@enronXgate, Brian Ripley/ENRON@enronXgate, Bob M 
+Hall/NA/Enron@Enron, Bryce Baxter/HOU/ECT@ECT 
+Subject: EOL Deal Ids In Path Manager
+
+As you're aware, we're having to bridge Houston Street ids into Unify from 
+Sitara.  
+
+We are being asked, as a requirement, to not display the EOL id on statements 
+that are identified as "Broker EOL trade" deals originating from EOL.  We 
+have two options to accomodate this requirement:
+
+Option 1 is to have the modify the bridge code to not bridge over the EOL 
+deal id if the deal is a "Broker EOL trade"  deal.  One of the drawbacks of 
+this option is that you won't be able to referenence the EOL id on the Path 
+Manager for these related deals.  All other deals will have the EOL deal id, 
+if applicable.  The EOL id would not show up on the statements because it 
+wouldn't be populated.
+
+Option 2 is to modify several areas of code in the Settlements area which may 
+be more time consuming.  The obvious code change would be in the statement 
+generation area as well as other report type information.  
+
+Option 2 allows you the greatest flexibility while Option 1 may be quicker to 
+implement.  
+
+Please pass this along to others in your group and get feedback.  Please 
+share your thoughts....
+I've attached an email explaining the Broker EOL trades.  This is not to be 
+confused with Broker deals done at a given point with not transportation.  
+These will continue to come across as you'd normally expect.
+
+Any questions, please ask...
+
+Thanks!

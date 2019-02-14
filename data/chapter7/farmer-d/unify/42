@@ -1,0 +1,69 @@
+Message-ID: <4347889.1075854184277.JavaMail.evans@thyme>
+Date: Tue, 5 Sep 2000 09:35:00 -0700 (PDT)
+From: pat.clynes@enron.com
+To: daren.farmer@enron.com
+Subject: Re: possibly adding deal prices to Path Manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Clynes
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+   
+	
+	
+	From:  Donna Greif @ ECT                           09/05/2000 02:28 PM
+	
+
+To: Patti Sullivan/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, George 
+Smith/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Kevin Heal/CAL/ECT@ECT
+cc: Diane H Cook/HOU/ECT@ECT, Robert Superty/HOU/ECT@ECT, Dave 
+Nommensen/HOU/ECT@ECT 
+
+Subject: possibly adding deal prices to Path Manager
+
+Please see note from Nommensen below and let me know your thoughts (note:  
+this additional functionality/screen 
+view may cause an impact on system performance).
+
+THanks!
+
+dg
+---------------------- Forwarded by Donna Greif/HOU/ECT on 09/05/2000 02:23 
+PM ---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           08/31/2000 11:37 AM
+	
+
+To: Donna Greif/HOU/ECT@ECT
+cc: Matt Pena/NA/Enron@Enron, Dave McMullan/HOU/ECT@ECT 
+Subject: possibly adding deal prices to Path Manager
+
+Donna,
+
+A request was brought up this week that I would like you to run by the 
+managers for input:
+ - add the deal price to the Sales and Supply list windows of Path Manager
+This seems more significant based on the transactions from EOL.
+
+This has been mentioned in the past, but has had some related "baggage":
+ - impact on performance, may run slower.  Could make it an option so you pay 
+the price when you need it.
+ - ability to show tier info.  Maybe just use the work "Tiered" and not try 
+to represent the actual pricing
+ - agreed format for those deals that have index pricing and percentage and 
+fixed price offset (ie 98% of IF.Transco.ZN1 + .02)
+
+This column would be customizable by resizing and relocating it by user 
+preference.
+
+Let me know what you hear.  d.n.
+
+
+

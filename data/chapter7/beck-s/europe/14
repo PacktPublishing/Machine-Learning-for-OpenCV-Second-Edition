@@ -1,0 +1,293 @@
+Message-ID: <11411933.1075849852504.JavaMail.evans@thyme>
+Date: Thu, 1 Mar 2001 10:43:00 -0800 (PST)
+From: mike.jordan@enron.com
+To: richard.causey@enron.com
+Subject: Re: Metals - Imminent Actions - an update
+Cc: fernley.dyson@enron.com, sally.beck@enron.com, michael.brown@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: fernley.dyson@enron.com, sally.beck@enron.com, michael.brown@enron.com
+X-From: Mike Jordan
+X-To: Richard Causey
+X-cc: Fernley Dyson, Sally Beck, Michael R Brown
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Rick
+
+Actions for IT contingency  - may I get back to you on this, as we had set=
+=20
+tomorrow as a deadline internally to discuss status of IT efforts on bug=20
+fixing and the wider resourcing plan for inventory control coding.=20
+Additionally, I am reviewing with my Middle Office staff our contingency pl=
+ans
+
+Actions for SAP - we have decoupled the Merchanting Business implementation=
+=20
+from the Financial Brokerage Business implementation ( where the greatest=
+=20
+operational risk and therefore SAP benefits exist ). We are still go live f=
+or=20
+the brokerage business as at 1 April. I will forward the communication lett=
+er=20
+re decoupling in due course
+
+Regards
+
+Mike
+
+
+
+
+Richard Causey@ENRON
+28/02/2001 21:39
+To: Mike Jordan/LON/ECT@ECT
+cc: Rick Buy/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Fernley Dyson/LON/ECT@ECT=
+,=20
+Michael R Brown/LON/ECT@ECT, Ted Murphy/LON/ECT@ECT=20
+
+Subject: Re: Metals - Imminent Actions - an update =20
+
+So what are the actions coming out of this?  Just pushing IT (who don't see=
+m=20
+to have the AS400 resources) won't fix the problem.  Also, what is the plan=
+=20
+re SAP?
+
+
+
+Mike Jordan@ECT
+02/26/2001 01:11 PM
+To: Richard Causey/Corp/Enron@ENRON, Rick Buy/HOU/ECT@ECT, Sally=20
+Beck/HOU/ECT@ECT
+cc: Fernley Dyson/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Ted=20
+Murphy/LON/ECT@ECT=20
+
+Subject: Metals - Imminent Actions - an update
+
+Rick / Rick / Sally=20
+
+I attach the  'executive' summary of a note sent to the office of the chair=
+=20
+last week detailing current operational difficulties with the Metals=20
+Merchanting business. Subsequently an 'all hands' meeting was called to=20
+discuss the operational issues and the business imperatives of=20
+Off Balance Sheet Facility ("OBSF") renegotiation
+Minimising working captial
+SAP implementation
+The notes of that meeting are also attached at the bottom of this email
+
+Should you require any further information please call, otherwise I will=20
+forward updates as they are completed.
+
+Regards
+
+Mike
+
+
+
+ISSUE
+
+The Physical metals business implemented an Off Balance Sheet Structure=20
+(OBSF) pre year-end to meet Enron requirements for gearing ratios.
+
+Whilst this does not present undue problems for LME warrants, these being=
+=20
+bearer documents, it does present an issue when physical metal, the value o=
+f=20
+which depends upon brand and location, is placed into the facility. Given t=
+he=20
+hard deadline of year-end the operational support of this process initially=
+=20
+took place on spreadsheets.
+
+The impact of the OBSF on the operational side of the physical business=20
+should not be underestimated. The process of moving material off and on=20
+balance sheet places considerable strain from trading through to settlement=
+s,=20
+particularly when there is an absence of necessary control functionality in=
+=20
+the AS400. With the specified functionality it is believed that all=20
+operational and trading issues arising from OBSF can be managed=20
+satisfactorily.
+
+The core functionality, which was due prior to the year-end, was released=
+=20
+during January but was subsequently found to have introduced =01+bugs=01, t=
+o the=20
+integrated business control processes. Whilst an improvement on having no=
+=20
+OBSF functionality, the =01+bugs=01, have had an increasingly negative effe=
+ct on=20
+the control environment, compounded by the fact that IT can not provide a=
+=20
+guaranteed delivery for the =01+bug=01, fixes and non core =01,reporting=01=
+,=20
+functionality.
+
+This has given rise to the following concerns:
+
+? There are insufficient experienced resources to fully reconcile stock at =
+a=20
+brand & location level to coordination records (the global position is=20
+reconciled however).
+? It is not possible to substantiate the DPR for EM&CL as:
+? a) P&L on spread moves from Cash to 3 months positions (and related cash =
+to=20
+3 months provisions) can not be produced by the system and must be estimate=
+d,=20
+and
+? b) System bugs have created uncertainties over trial balance values.
+
+These concerns are compounded by the following:
+
+? The most experienced AS400 IT developer for the EM&CL business has=20
+resigned. He is currently working his 6 months notice which will expire in=
+=20
+July 2001.
+? The most experienced AS400 IT developer on the EML side of the business h=
+as=20
+also resigned. He left in January 2001.=20
+? There is no documentation for the AS400. It is therefore difficult for=20
+experienced AS400 programmers to get upto speed on the system.
+
+Conclusion
+
+It is essential that we do not become hostages to the development of the=20
+AS400 system and the renegotiation of the OBSF facility with Barclays. The=
+=20
+current situation has arisen due to non-delivery of IT developments and tig=
+ht=20
+timescales on the finalisation of the OBSF facility.
+
+To meet Q1 end requirements (i.e. full production of the DPR and stock=20
+reconciliation), IT and the OBSF deal team must make concrete commitments o=
+n=20
+delivery timeline. The business will not be able to commit to successful=20
+implementation of the facility and resubstantiation of the Trial Balance=20
+without these
+
+---------------------- Forwarded by Mike Jordan/LON/ECT on 26/02/2001 16:18=
+=20
+---------------------------
+
+
+Mike Jordan
+26/02/2001 16:18
+To: Michael R Brown/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, Joe=20
+Gold/LON/ECT@ECT, Michael Farmer/EU/Enron@ENRON, Michael J=20
+Hutchinson/EU/Enron@Enron, Anne Edgley/LON/ECT@ECT, Melissa=20
+Allen/LON/ECT@ECT, Mark Pickering/LON/ECT@ECT, Paul Chivers/LON/ECT@ECT,=20
+Robert Campbell/LON/ECT@ECT, Andrew Cornfield/LON/ECT@ECT, Howard=20
+Carter/EU/Enron@Enron, Bill Appleby/LON/ECT@ECT, David P Tregar/EU/Enron@En=
+ron
+cc: =20
+
+Subject: Metals - Imminent Actions - notes of meeting 23 rd Feb
+
+To all
+
+I seek to clarify the actions discussed at Friday's meeting and to emphasis=
+e=20
+the critical importance of getting all the below completed as quickly as=20
+possible to meet our Q1 requirements ( revenue targets, balance sheet=20
+targets, interest expense minimisation etc ). The proposed tactical plan th=
+at=20
+was circulated is not attached as it has already been superceded!
+
+There was agreement on several broad areas of immediate focus with specific=
+=20
+objectives and accountabilities -=20
+
+IT resourcing
+
+Communicate priority to HR about the importance of obtaining skilled AS400=
+=20
+programmers - for tactical short term and for long term work - action MP
+Resourcing for long term AS400 'off-load' initiative to be completed asap -=
+=20
+action MP
+Merchanting resource focus to be on bug fixes impacting MO ability to updat=
+e=20
+OBSF options in AS400 and for traffic to update recent location movements o=
+f=20
+stock in OBSF - action RC ( deadline 1 week )
+Completion of inception document for full OBSF inventory control=20
+functionality - action RC ( deadline 1 week )
+Split of resources for SAP interface - only EML SAP implementation is now=
+=20
+planned for 1/4/01 - action RC to confirm resource reallocation 27/01
+Immediate improvement in IT Operations support required ( including=20
+completion of transfer of support responsibility from Dev. to Ops. ) - acti=
+on=20
+MP
+
+Operational Support
+
+MO risk/trade accounting resources to focus on rebooking all remaining=20
+transactions on OBSF inventory spreadsheet - action HC ( deadline asap )
+Validation of system generated p&l to commence following the above - action=
+=20
+HC ( deadline asap )
+Timetable for catch up of traffic OBSF location movements to be completed=
+=20
+with John Lunzer 27/02 - action HC=20
+Determine action for improvement in delivering metal to facility ( initial=
+=20
+assumption for recent working capital increase was that we had operationall=
+y=20
+slowed down in placing qualifying material into facility ) - action HC / AC=
+=20
+(deadline asap)
+
+Working Capital=20
+
+Detailed daily analysis of working capital movements to be produced and=20
+formatted in style of sources and uses of funds   ( including facility=20
+headroom ) - action AC ( deadline asap )
+Forward estimate of working capital to be produced for rest of quarter and=
+=20
+used for estimation of full interest expense - action AC, MJ & MA ( deadlin=
+e=20
+asap )
+Analysis for trade receivables ( and reasons for recent increase ) and=20
+investigation of possible factoring - AC/MJ and AE/BA ( deadline asap )
+Determining extent to which pricing signals for working capital usage can b=
+e=20
+communicated to traders, traffic and operations - action JG, MJ ( contingen=
+t=20
+on above )
+
+OBSF negotiation
+
+Documentation of current negotiation issues ( including AA sign-off issues =
+)=20
+to be drafted and circulated with clear accountabilities  - action MA/DT/BA=
+=20
+(deadline 26/3)
+Operational impact of agreement to be considered in parallel to negotiation=
+ -=20
+action HC/AC/BA
+
+LME relationship
+
+Consider utilising a US subsidiary to book OBSF transactions to negate LME=
+=20
+reviewing facility as part of regulatory regime - action MA/FD
+Monitoring notice of investigation issued by LME  -action FD/DT
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+Return-Path: <support@e-gold.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4196 invoked by uid 115); 3 Aug 2004 10:35:03 -0000
+Received: from support@e-gold.com by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(217.129.106.15):. 
+ Processed in 0.0902 secs); 03 Aug 2004 10:35:03 -0000
+Received: from co-217-129-106-15.netvisao.pt (217.129.106.15)
+  by churchill.factcomp.com with SMTP; 3 Aug 2004 10:35:02 -0000
+Received: from qfyoylhw (49.30.105.8)
+	by co-217-129-106-15.netvisao.pt; Tue, 3 Aug 2004 03:33:53 -0700
+Message-ID: <009101c464ee$cac4e196$f8d66c67@qfyoylhw>
+Reply-To: =?iso-8859-5?B?U3VwcG9ydA==?= <support@e-gold.com>
+From: =?iso-8859-5?B?U3VwcG9ydA==?= <support@e-gold.com>
+To: =?iso-8859-5?B?QnJ1Y2Vn?= <bruceg@em.ca>
+Subject: =?iso-8859-5?B?RS1nb2xkIG5ldyB0ZXJtcyE=?=
+Date: Wed, 21 Jul 2004 18:48:03 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary="----=_NextPart_000_009B_01C46C67.F8D6E196"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+------=_NextPart_000_009B_01C46C67.F8D6E196
+Content-Type: text/html;
+        charset="iso-8859-5"
+Content-Transfer-Encoding: quoted-printable
+
+E-gold user new terms!<br><br>=0D
+=0D
+Please read our new terms.<br><br>=0D
+<a href=3D"http://207.234.253.142">http://e-gold.co.uk</a><br><br>=0D
+=0D
+Read new User's Guide!<br><br>=0D
+=0D
+Best regards,<br>=0D
+e-gold support.
+------=_NextPart_000_009B_01C46C67.F8D6E196--
+
+

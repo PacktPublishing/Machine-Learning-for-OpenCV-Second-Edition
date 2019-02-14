@@ -1,0 +1,95 @@
+Received: from relay.t-intra.de (HELO mailc0926.dte2k.de) (62.156.147.74)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:05:15 -0000
+Received: from mailc0909.dte2k.de ([10.50.185.9]) by mailc0926.dte2k.de with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 19 Jul 2005 13:05:13 +0200
+Received: from server09.fetra.de ([84.136.139.245]) by mailc0909.dte2k.de with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 19 Jul 2005 13:05:08 +0200
+From: postmaster@fetra.de
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 13:05:07 +0200
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C5817019DA8A0000000E94server09.fetra.d"
+X-DSNContext: 335a7efd - 4457 - 00000001 - 80040546
+Message-ID: <ycbOmVbQY00000036@server09.fetra.de>
+Subject: Benachrichtung  
+	zum  
+	=?unicode-1-1-utf-7?Q?+ANw-bermittlungsstatus  
+	(Fehlgeschlagen)?=
+Return-Path: <>
+X-OriginalArrivalTime: 19 Jul 2005 11:05:08.0498 (UTC) FILETIME=[B9A84720:01C58C51]
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C5817019DA8A0000000E94server09.fetra.d
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+Dies ist eine automatisch erstellte Benachrichtigung +APw-ber den Zustellstatus.
+
++ANw-bermittlung an folgende Empf+AOQ-nger fehlgeschlagen.
+
+       jochenfechtel@fetra.de
+
+
+
+
+--9B095B5ADSN=_01C5817019DA8A0000000E94server09.fetra.d
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;server09.fetra.de
+Received-From-MTA: dns;exchange-pop3-connector.com
+Arrival-Date: Tue, 19 Jul 2005 13:05:06 +0200
+
+Final-Recipient: rfc822;jochenfechtel@fetra.de
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C5817019DA8A0000000E94server09.fetra.d
+Content-Type: message/rfc822
+
+Received: from exchange-pop3-connector.com ([192.168.1.24]) by server09.fetra.de with Microsoft SMTPSVC(5.0.2195.6713);
+	 Tue, 19 Jul 2005 13:05:06 +0200
+X-Envelope-To: <jochenfechtel@fetra.de>
+X-Envelope-From: projecthoneypot@projecthoneypot.org
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mail04.iok.net (mail04.iok.net [62.249.129.28])
+	by mail05.iok.net (8.12.10/8.12.10) with ESMTP id j6JB02YR002559
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <jochenfechtel@fetra.de>; Tue, 19 Jul 2005 13:00:04 +0200
+Received: from mailwisconsin.com ([218.145.213.213])
+	by mail04.iok.net (8.12.11/8.12.11) with SMTP id j6JAxvJg024655
+	for <jochenfechtel@fetra.de>; Tue, 19 Jul 2005 13:00:00 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360595;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: jochenfechtel@fetra.de
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Status:   
+X-OriginalArrivalTime: 19 Jul 2005 11:05:07.0180 (UTC) FILETIME=[B8DF2AC0:01C58C51]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836919">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+
+
+
+--9B095B5ADSN=_01C5817019DA8A0000000E94server09.fetra.d--

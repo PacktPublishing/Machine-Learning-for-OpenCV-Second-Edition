@@ -1,0 +1,52 @@
+Return-Path: <ASKCHSQIPnasrvvfhvnom@haribert.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 24591 invoked from network); 27 Jun 2005 07:15:21 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 Jun 2005 07:15:21 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Jun 2005 07:15:21 -0000
+Received: (qmail 5901 invoked from network); 27 Jun 2005 07:15:20 -0000
+Received: from gut75-1-81-57-27-106.fbx.proxad.net (unknown [81.57.27.106])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Jun 2005 07:15:19 -0000
+Received:  from grubbs.bartushfoods.com (196.207.212.92)
+	  by objector-803AMLD.bartushfoods.com with Microsoft SMTPSVC(7.162.48990.104);Mon, 27 Jun 2005 13:05:36 +0500
+Message-ID: <CROTXA6156DDA@bartushfoods.com>
+Reply-To: "dimouerina macmeeki" <jolene.cucuzzel@bartushfoods.com>
+From: "dimouerina macmeeki" <jolene.cucuzzel@bartushfoods.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Read: Here is The Money You've Won
+Date: Mon, 27 Jun 2005 11:11:36 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--3333780_0666410.9r657"
+Content-Length: 893
+Lines: 25
+
+----3333780_0666410.9r657
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Applicant,<p>
+
+After further review upon receiving your application your current mortgage qualifies for a 3% lower rate.<p>
+Your new monthly payment will be as low as $340/month for a $200,000 loan.<p>
+Please confirm your information in order for us to finalize your loan, or you may also apply for a new one.<br>
+Complete the final steps by visiting our <a href="http://rds.yahoo.com/S=4351822/K=computer/v=7/SID=w/l=WS1/R=1/SS=85272063/IPC=us/SHE=0/H=0/SIG=963fmcjR29/EXP=117931349/*-http://www.bmrefi.net/?id=j22">60 second form</a><p>
+
+We look foward to working with you.
+  <p>
+Thank you,<p>
+
+Anita Wiley, Account Manager<br>
+Torico and Associates, LLC.<p>
+
+-----------------------<br>
+not interested - http://www.bmrefi.net/book.php
+</html>
+
+
+----3333780_0666410.9r657--

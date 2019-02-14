@@ -1,0 +1,23 @@
+Return-Path: <love.gaby@idoo.com>
+Delivered-To: em-ca-bait-spooning@em.ca
+Received: (qmail 18382 invoked by uid 115); 16 Oct 2004 09:24:19 -0000
+Received: from love.gaby@idoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(64.108.37.228):. 
+ Processed in 0.130936 secs); 16 Oct 2004 09:24:19 -0000
+Received: from adsl-64-108-37-228.dsl.peoril.ameritech.net (64.108.37.228)
+  by churchill.factcomp.com with SMTP; 16 Oct 2004 09:24:19 -0000
+Received: from 32.222.142.10 by 64.108.37.228; Sat, 16 Oct 2004 12:09:14 +0200
+Message-ID: <001104847435.TUUXJHPDhjgK.78@hawaikinuivaa.pf>
+From: "Quardon" <love.gaby@idoo.com>
+To: "Henning" <Henning__onbait-spooning@em.ca>
+Subject: Henning
+Date: Sat, 16 Oct 2004 13:11:14 +0300
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+
+Sat, 16 Oct 2004 04:06:14 -0600
+Bait-spooning

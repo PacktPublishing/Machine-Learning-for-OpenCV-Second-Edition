@@ -1,0 +1,46 @@
+Return-Path: <qjaenavwvahnkwa@rx-factory.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 1241 invoked by uid 115); 26 Aug 2004 20:39:50 -0000
+Received: from qjaenavwvahnkwa@rx-factory.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(84.97.113.186):. 
+ Processed in 3.247916 secs); 26 Aug 2004 20:39:50 -0000
+Received: from unknown (HELO 209.5.178.248) (84.97.113.186)
+  by churchill.factcomp.com with SMTP; 26 Aug 2004 20:39:47 -0000
+Received: from localhost.localdomain (host [127.0.0.1])
+       by localhost.localdomain (8.12.10/8.12.10) with ESMTP id i74wnRnACWTe6M
+       for <bait@em.ca>; Thu, 26 Aug 2004 17:30:57 -0400
+Received: (from root@localhost) by localhost.localdomain (8.11.6/8.11.6)
+ id i0C4Y95zxhLp; Thu, 26 Aug 2004 22:32:57 +0100
+Received: from [108.32.255.124] (helo=localhost.localdomain)
+	by bmtaa.rx-factory.com with esmtp (Exim 4.24)	id wBWhUg-3beB2M-92	for bait@em.ca;
+ Thu, 26 Aug 2004 16:35:57 -0500
+Received: from jgrm.rx-factory.com
+ (bzdoc.rx-factory.com [100.167.175.150])
+	by rawuo.rx-factory.com (Postfix) with ESMTP id CEDF68EC25	for <bait@em.ca>;
+ Thu, 26 Aug 2004 23:30:57 +0200
+Received: (from root@localhost) by	kzjub.rx-factory.com
+ (8.12.11/8.12.11/Submit) id iEsnP2f3G0zF; Thu, 26 Aug 2004 22:34:57 +0100
+Message-ID: <7745644D.96785@rx-factory.com>
+Date: Thu, 26 Aug 2004 17:36:57 -0400
+From: Woodrow Parsons <qjaenavwvahnkwa@rx-factory.com>
+User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.5) Gecko/20040712
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: bait@em.ca
+Subject: singular From now on save up to 82% off
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+
+You've heard about the hype
+
+Save on all your RX Medication order directly from our FDA-approved manufacturers
+
+Over 60 products, Save up to 82% on your RX drugs
+
+Goto rx-factory.com in your address bar to get your discount
+
+Turn notifications off rx-factory.com/u
+
+Woodrow Parsons
+
+

@@ -1,0 +1,33 @@
+Message-ID: <32127627.1075856590397.JavaMail.evans@thyme>
+Date: Wed, 27 Dec 2000 12:16:00 -0800 (PST)
+From: stinson.gibner@enron.com
+To: vince.kaminski@enron.com
+Subject: projects update
+Cc: vkaminski@aol.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkaminski@aol.com
+X-From: Stinson Gibner
+X-To: Vince J Kaminski
+X-cc: vkaminski@aol.com
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+
+A quick project update.
+
+1.   Sandeep and I spoke with  Robert Schenck in Adelaide.   He will email a 
+Henwood proposal to us.  They already figured that we must be interested in 
+modelling Dabhol.
+2.  The WTI EOL trading simulation had an error.   We were counting a 
+mid-offer spread profit on each trade, but we actually would make the spread 
+on each round-trip transaction (one trade to open, one trade to close).    I 
+modified the calculation and sent the new numbers to Greg Whalley (he is the 
+one who caught the mistake, so there goes my bonus for the year.) and John 
+Lavorato.   I should probably re-run the earning volatility numbers, and 
+update Ted Murphy as well.
+
+--Stinson

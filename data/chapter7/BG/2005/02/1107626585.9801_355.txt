@@ -1,0 +1,18 @@
+Return-Path: <ahubbard_tw@rocketmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 21459 invoked by uid 115); 5 Feb 2005 16:08:03 -0000
+Received: from ahubbard_tw@rocketmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(219.240.216.102):. 
+ Processed in 0.095713 secs); 05 Feb 2005 16:08:03 -0000
+Received: from unknown (HELO webtv.com) (219.240.216.102)
+  by churchill.factcomp.com with SMTP; 5 Feb 2005 16:08:02 -0000
+Message-ID: <0f2501c50b9c$a60ae8f3$2419132a@mwwznq3>
+Date: Sat, 05 Feb 2005 16:07:06 +0000
+From: "Aaron Hubbard" <ahubbard_tw@rocketmail.com>
+MIME-Version: 1.0
+Subject: Heyz Darling
+To: bruceg@em.ca
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+Content-Length: 1

@@ -1,0 +1,30 @@
+Message-ID: <12289233.1075857033338.JavaMail.evans@thyme>
+Date: Tue, 15 Feb 2000 03:54:00 -0800 (PST)
+From: paulo.issler@enron.com
+To: ryan.siurek@enron.com
+Subject: LJM Model
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Paulo Issler
+X-To: Ryan H Siurek
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Ryan:
+
+This is the updated spreadsheet for pricing the LJM options disregarding any 
+credit issues. It produces exactly the same results as before. The only 
+difference tis the place it gets the model's c code. I am placing all the 
+code related to this deal on a specific directory on the "o" drive now. 
+Please use this version on future pricing. I will delete the old code.
+
+
+
+
+Thanks
+Paulo Issler

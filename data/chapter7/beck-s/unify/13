@@ -1,0 +1,127 @@
+Message-ID: <13009122.1075855929780.JavaMail.evans@thyme>
+Date: Thu, 2 Mar 2000 09:52:00 -0800 (PST)
+From: inja.chun@enron.com
+To: bryce.baxter@enron.com, lisa.csikos@enron.com, susan.harrison@enron.com, 
+	rita.wynne@enron.com, gary.nelson@enron.com, brent.price@enron.com, 
+	brenda.herod@enron.com, sally.beck@enron.com, 
+	leslie.reeves@enron.com, kenneth.harmon@enron.com, 
+	regan.smith@enron.com
+Subject: Finalizing Prior Month Gas Invoice/Payment
+Cc: sally.beck@enron.com, beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, beth.perlman@enron.com
+X-From: Inja Chun
+X-To: Bryce Baxter, Lisa Csikos, Susan Harrison, Rita Wynne, Gary Nelson, Brent A Price, Brenda F Herod, Sally Beck, Leslie Reeves, Kenneth M Harmon, Regan M Smith
+X-cc: Sally Beck, Beth Perlman
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As you know, we have been experiencing very long processing times for Monthly 
+Accounting Closing each month.  This problem is becoming increasingly worse 
+each month because most of the prior months have un-finalized 
+invoices/payments which require reprocessing this data each month (draft, 
+reversal of last accrual and creating new accrual).   This condition goes 
+back to Jan. 99 for Unify, Jan. 95 for pre-Unify PMAs, and becomes worse each 
+month as more such items are accumulated. 
+
+A few month ago, we discussed this situation and as shown below, not much 
+progress has been made in finalizing prior month data in Gas business while 
+better  progress has been achieved in Power settlement.  It is essential this 
+be strongly addressed.  Otherwise, the system will soon be unable to process 
+the Monthly Closing (mass draft & Closing) within a day.  It will be very 
+helpful if you would prepare a plan to address this issue and attend a 
+meeting on  Thursday (3/9) at 10:00 in EB2601 to discuss future actions.  
+Thank you.
+
+  
+---------------------- Forwarded by Inja Chun/HOU/ECT on 03/02/2000 01:20 PM 
+---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Regan M Smith                           03/02/2000 11:06 AM
+	
+
+To: Inja Chun/HOU/ECT@ECT
+cc: Kenneth M Harmon/HOU/ECT@ECT 
+Subject: As discussed, below is the Mar-00 Accrual metrics, by delivery 
+period.
+
+
+Inja,
+
+Below is the revised detail items which reflect the open items from less than 
+July 99.  It compares from Jan1st metrics to March 1st metrics.
+The load to Unify comes from the 2 angels below.  The Mass Draft has the 
+concern of statements not finalized for those periods, which the back end 
+accrual & reporting has
+the increased load of line items.
+
+Front End process 
+Mass Draft Process (load) - whenever any statement has not been finalized for 
+a prior delivery period, it has to redraft for those deals.  Hence, redraft 
+for every deal for that counterparty.
+
+Back End processes
+Accrual Process - The accrual extracts on a line item detail, which is 
+stored, and reported on various reports.
+GL Month Process - The GL Month Report extracts on a line item detail, which 
+is reported from the ACRL and PDCLS perspective.
+
+GAS Summary:  
+    No of Line Items    No. of Line Items
+    July 99 & Prior Month    since July 99
+ As of Dec-99   12,848    87,574
+ As of Mar-00   10,802    123,694
+
+ Growth/Reduction  <2046>    36,120
+
+
+
+
+
+
+---------------------- Forwarded by Regan M Smith/HOU/ECT on 03/02/2000 08:30 
+AM ---------------------------
+
+
+	Regan M Smith
+	01/01/2000 02:08 PM
+	
+To: Inja Chun/HOU/ECT@ECT
+cc: Kenneth M Harmon/HOU/ECT@ECT 
+Subject: As discussed, below is the Dec99 Accrual metrics, by delivery period.
+
+ 
+Inja,
+As discussed, below is the Dec99 Accrual metrics, by delivery period.
+
+Again, this increased history creates additional loads on:
+mass draft process - having to redraft prior delivery periods
+accrual process - increases the accrual time, reporting
+retrieval, reporting, sending to MSA J/P.  Example, we are nearing 10,000 
+line items alone of ACRL data for 016.
+period close reversal - each month we send a offset reversal for every prior 
+month accrual
+overall data growth in detail tables to support prior months
+
+
+
+
+
+This can be also seen by running the accrual reprint retrieve report, or the 
+finalized transaction by gl month report (ACRL).
+
+Regan
+
+
+
+
+
+
+
+

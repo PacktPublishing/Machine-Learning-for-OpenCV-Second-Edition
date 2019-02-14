@@ -1,0 +1,60 @@
+Message-ID: <22293341.1075840862324.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 14:24:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com, 
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Cc: zhiyong.wei@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com
+X-From: Dave Nommensen <Dave Nommensen/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/ENRON@enronXgate>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>
+X-cc: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+GTV status meeting attendees:  Dave Nommensen, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Russ Severson, Narasim Kasaru, Mike Swaim, Chuck Ames, Geoff Storey
+
+Accomplishments:
+
+?	Incorporating physcial deal positions in TDS:
+o	Changes for the view aggregation have been completed (please see the attached project timeline).
+o	Provided Group of Groups and filters for Cash Position tab.
+
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is in user test.
+
+?	Gas Daily deals:
+o	Changes to PortCalc application to create GDI calc in ERMS are in user testing.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+?	Option Grid (phase 2):
+o	Conversion from Motif into Powerbuilder is completed and in user test.
+
+?	Gas Daily options:
+o	Changes to PortCalc application have been completed and are in user test.
+
+
+Plans for the week ending 5/11/01:
+
+?	Continue IT development of Phase I items.
+o	Exclude cash deals outside of prompt day(s)
+o	Need to include first month of "N" in both IDX and Cash positions.
+o	GDI PortCalc needs to use Pice + Basis after "M" is published.
+o	Deal Entry corrections being made for mapping Rate Index to Pub Code.
+o	Include Cash Position Total column on Position Manager tab
+
+?	Continue IT development of Phase 2 issues.
+
+Issues / Open Items:
+
+?	How to determine Fixed Price Total in Cash Position.
+?	Extent of programming revisions and user testing could cause user acceptance to occur after May bid week, thus delaying rollout until mid-June.
+ 
+Thanks, Dave N.

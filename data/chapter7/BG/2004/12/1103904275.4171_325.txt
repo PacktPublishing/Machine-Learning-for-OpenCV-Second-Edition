@@ -1,0 +1,192 @@
+Return-Path: <Lovett@molinos.com.ar>
+Received: (fqmail 14539 invoked from network); 24 Dec 2004 15:56:55 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 24 Dec 2004 15:56:55 -0000
+Received: (qmail 23364 invoked from network); 24 Dec 2004 15:56:51 -0000
+Received: from 10.0.0.8 (168-226-248-81.speedy.com.ar [168.226.248.81])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 24 Dec 2004 15:56:50 -0000
+Received: from 200.16.97.5 by atina.ar; Fri, 24 Dec 2004 16:53:27 +0100
+Message-ID: <jawhmdmjnsgixjltukkla@mindspring.com>
+From: "Betsy Dunn" <Lovett@molinos.com.ar>
+Reply-To: <Lovett@molinos.com.ar>
+To: webmaster@ezmlm.org
+Subject: Redes Inalámbricas !
+Date: Fri, 24 Dec 2004 11:51:27 -0400
+X-Mailer: PocoMail 2.64 (1120) - Licensed Version
+X-Poco-UID: 38676729
+X-Poco-Status: U
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+X-Priority: 
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>TODO LO QUE UD</title>
+</head>
+
+<body bgcolor="#003366">
+
+<div align="center">
+  <table border="1" cellpadding="0" cellspacing="0" width="410" height="1683">
+    <tr>
+      <td height="108" width="610">
+        <p align="left"><img border="0" 
+src="http://www.enviarmail.com.ar/wire/wire.jpg" width="591" 
+height="108"></p>
+      </td>
+    </tr>
+      <td height="26"><div align="center"><font color="#FFFFFF"><strong>COPYRIGHT 
+          GRUPO DEL CENTRO 2004 </strong></font></div>
+    <tr>
+      <td bgcolor="#000000" height="29" width="610"> <p align="center"><b><font face="Verdana" color="#FFFFFF" size="1"> 
+          <marquee align="middle" width="574" height="13" style="font-family: verdana">
+          <font size="2" face="Arial, Helvetica, sans-serif">Creá tu propia red 
+          WIRELLESS - Telefonía IP - Vigilancia IP - Administraci&oacute;n Remota 
+          </font> 
+          </marquee>
+          </font></b></td>
+    </tr>
+    <tr>
+      <td width="610" height="1349" bordercolor="#99FF33" bgcolor="#FFCC33">
+        <div align="center"><font size="3" face="Arial, Helvetica, sans-serif">Accede 
+          con este Cd a toda la informacion para que puedas manejarte con el conocimiento 
+          necesario en lo que respecta a la implementacion, administracion, montaje, 
+          instalacion, etc.. de redes wirelles y todos sus accesorios...<br>
+          <br>
+          <strong>CALCULOS</strong> <br>
+          <br>
+          Formulas y Paginas para realizar todos los c&aacute;lculos, para saber 
+          correctamente que antena adquirir, que cable comprar, Cual es la cobertura, 
+          etc. Adem&aacute;s, podr&aacute;s calcular que distancias cubrir&aacute;s 
+          con el equipo que tenes pensado comprar. Decidir el tipo de cable y 
+          a la velocidad con la que vas a transmitir, altura que deber&iacute;an 
+          tener tus antenas, etc<br>
+          <br>
+          <strong>ANTENAS<br>
+          </strong><br>
+          Extensa documentaci&oacute;n de como construir tu propia antena, a partir 
+          de una Parab&oacute;lica Primestar, Direct TV, Sky, etc. Detalles de 
+          materiales, especificaciones t&eacute;cnicas, todo paso a paso. Desde 
+          una antena casera a partir de una lata de tomate hasta una parab&oacute;lica 
+          capaz de alcanzar una distancia de 35km y m&aacute;s... Antenas Direccionales 
+          Caseras de 5db a 27db y Antenas Omnidireccionales Caseras de 5db a 17db<br>
+          <br>
+          <strong>PLACAS ACCESS</strong><br>
+          <br>
+          3com, Conceptronic, D-Link, Linksys, Micronet, Senao, Siemens, Teletronics, 
+          Etc... <br>
+          Datos t&eacute;cnicos de todos los modelos del mercado actual, preguntas 
+          y respuestas frecuentes, para saber que equipo comprar acorde a la necesidad 
+          que tengas<br>
+          <br>
+          <strong>CNC</strong><br>
+          <br>
+          Para que tengas todo en regla. La Comisi&oacute;n Nacional de Comunicaciones 
+          tiene autoridad para regular el uso del espectro radioel&eacute;ctrico, 
+          y por lo tanto, tu Wlan o Red Inal&aacute;mbrica debe estar sujeta a 
+          las resoluciones que la CNC dicta. Resoluciones Tecnicas, Equipos Homologados, 
+          etc.<br>
+          <br>
+          <strong>FALLAS COMUNES</strong><br>
+          <br>
+          Vulnerabilidad Wireless Fallas descubiertas recientemente. Informaci&oacute;n 
+          sobre la falla DOS (Ataques de denegacion de servicios) sobre wireless. 
+          Detalles claros y precisos del bug. Tambi&eacute;n he incluido un apartado 
+          denominado Seguridad, que de seguro te ahorrara grandes dolores de cabeza.<br>
+          <br>
+          <strong>TUTORIALES</strong><br>
+          <br>
+          Como Montar una wireless Consideraciones generales, todo lo que necesitas 
+          saber para sumergirte en esta tecnolog&iacute;a. Detalle de como configurar 
+          las placas y/o los Access Point. Que son las IP publicas y Cuales son 
+          Las Privadas. Como definirlas.<br>
+          Pol&iacute;ticas de Seguridad Compartir recursos Denegar Acceso Encriptar 
+          los Datos<br>
+          Tecnolog&iacute;a Routing y Switching<br>
+          <br>
+          <strong>CREA TU PROPIO SERVIDOR</strong> <br>
+          <br>
+          Montar Servidor. (Windows) Diferentes formas de montar un servidor Wireless. 
+          (con o sin ip fija) Ejemplos de como hacerlo con XP, Compartir Internet. 
+          Crear Servidor FTP, Cuentas POP gratuitas, etc. Montando un servidor 
+          IRC. Servidor DNS. Velocidad Internet. Mas informaci&oacute;n en Valor 
+          Agregado y Linux.<br>
+          <br>
+          <strong>SOFTWARE</strong> <br>
+          <br>
+          Software de Libre Distribuci&oacute;n. Antivirus Wireless. Servidor 
+          FTP y DNS. Herramientas para control y verificaci&oacute;n de trafico<br>
+          <br>
+          <strong>Linux: Aqu&iacute; encontraras una extensa documentaci&oacute;n 
+          para trabajar con linux.</strong><br>
+          <br>
+          Gu&iacute;as para montar un servidor desde Cero (sin saber nada) Realizar 
+          Backup de la configuraci&oacute;n del Servidor, Config. Red, Como Hacerlo 
+          con Debian, Mail Server, Routing, Seguridad, Apache y MySQL, WebCluster, 
+          Servidor DNS, Accesos a usuarios, control de Ancho de banda. etc. <br>
+          Si despu&eacute;s de haber logrado tu propia Red Inal&aacute;mbrica 
+          aun quieres mas...<br>
+          <br>
+          <strong>Tambien encontraras informaci&oacute;n relacionada de como obtener 
+          valor agregado a tu Wlan (Red Wireless). <br>
+          Todo lo que necesitas saber sobre Telefonia IP.<br>
+          Administraci&oacute;n Remota, Vigilancia IP, Telefon&iacute;a IP, Wireless 
+          ISP.<br>
+          y mucho m&aacute;s!!</strong></font></div>
+      </td>
+    </tr>
+    <tr>
+      <td height="149" bgcolor="#000000" width="610">
+        <p align="center" style="margin-top: 15"><b><font color="#FFFFFF" size="3" face="Arial">TODA 
+          LA INFORMACION CONTENIDA ES TOTALMENTE EN CASTELLANO</font><font color="#FFFFFF" face="Arial"><font 
+size="3"><br>
+          </font>EL COSTO DEL PRODUCTO CON ENV&Iacute;O INCLU&Iacute;DO ES DE 
+          </font><font face="Arial" color="#E7D394"> <font size="6">$ 40&nbsp; 
+          </font></font></b></p>
+        <div align="center">
+          <table border="0" cellpadding="0" cellspacing="0" width="330" height="28">
+            <tr>
+              <td bgcolor="#003366" width="270" height="28" style="border: 2 outset #003366">
+                <p align="center"><b> <a style="text-decoration:none;" href="http://www.imagenes.de/wirefff"><font color="#FFFFFF" size="2" face="Arial">SOLICITA 
+                  EL PACK WIRELLESS AQU&Iacute;</font></a></b></td>
+            </tr>
+          </table>
+        </div>
+        <p align="center" style="margin-bottom: 12"><b><font color="#FFFFFF" face="Arial" size="2">- 
+          El env&iacute;o se realiza sin cargo en todo el territorio de la Rep&uacute;blica 
+          Argentina. -</font></b></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p align="center"><font color="#637DB5"><font face="Arial" size="1">Bajo el
+decreto S.1618 titulo 3ro. aprobado por el 105 congreso base de las normativas
+internacionales sobre SPAM,<br>
+un E-mail no podrá ser considerado SPAM mientras incluya una forma de ser
+removido. Para hacerlo cliquee </font>
+<a href="mailto:wireghjk@datafull.com?subject=Quitarme de su lista">
+<font face="Arial" size="1">aquí.</a>
+Gracias.</font></font></p>
+
+</body>
+
+</html>
+
+
+
+
+

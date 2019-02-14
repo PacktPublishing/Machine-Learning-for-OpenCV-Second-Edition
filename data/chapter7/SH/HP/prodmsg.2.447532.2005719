@@ -1,0 +1,82 @@
+Received: from privia2.privianet.com (217.71.121.61)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:25 -0000
+Received: by privia2.privianet.com (Postfix)
+	id E23952D9B66; Tue, 19 Jul 2005 12:57:26 +0200 (CEST)
+Date: Tue, 19 Jul 2005 12:57:26 +0200 (CEST)
+From: MAILER-DAEMON@privia2.privianet.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="8B7AF2D9A19.1121770646/privia2.privianet.com"
+Message-Id: <20050719105726.E23952D9B66@privia2.privianet.com>
+
+This is a MIME-encapsulated message.
+
+--8B7AF2D9A19.1121770646/privia2.privianet.com
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host privia2.privianet.com.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Postfix program
+
+<nanoforce@clients.privianet.com>: host mx2.privianet.com[217.71.121.37] said:
+    553 sorry, that domain isn't allowed to be relayed thru this MTA (#5.7.1)
+
+--8B7AF2D9A19.1121770646/privia2.privianet.com
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; privia2.privianet.com
+Arrival-Date: Tue, 19 Jul 2005 12:57:20 +0200 (CEST)
+
+Final-Recipient: rfc822; nanoforce@clients.privianet.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host mx2.privianet.com[217.71.121.37] said: 553
+    sorry, that domain isn't allowed to be relayed thru this MTA (#5.7.1)
+
+--8B7AF2D9A19.1121770646/privia2.privianet.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com (YahooBB221030064059.bbtec.net [221.30.64.59])
+	by privia2.privianet.com (Postfix) with SMTP id 8B7AF2D9A19
+	for <nanoforce@clients.privianet.com>; Tue, 19 Jul 2005 12:57:20 +0200 (CEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359773;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: nanoforce@clients.privianet.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891008">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--8B7AF2D9A19.1121770646/privia2.privianet.com--

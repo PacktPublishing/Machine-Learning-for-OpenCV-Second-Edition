@@ -1,0 +1,45 @@
+Return-Path: <liupeijin2004@echina.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 2828 invoked by uid 115); 23 Nov 2004 05:25:54 -0000
+Received: from liupeijin2004@echina.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.195.126.6):. 
+ Processed in 0.125981 secs); 23 Nov 2004 05:25:54 -0000
+Received: from dime2.dizinc.com (66.195.126.6)
+  by churchill.factcomp.com with SMTP; 23 Nov 2004 05:25:53 -0000
+Received: from nobody by dime2.dizinc.com with local (Exim 4.43)
+	id 1CWSls-0004Vw-O1; Mon, 22 Nov 2004 23:59:23 -0500
+To: 
+Subject: REPRESENTATIVE REQUIRED
+From: liu_peijin <liupeijin2004@echina.com>
+X-Priority: 3 (Normal)
+CC: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: RLSP Mailer
+Message-Id: <E1CWSls-0004Vw-O1@dime2.dizinc.com>
+Date: Mon, 22 Nov 2004 23:59:20 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dime2.dizinc.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [99 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - echina.com
+X-Source: 
+X-Source-Args: /usr/local/apache/bin/httpd -DSSL 
+X-Source-Dir: leagueoftitans.com:/public_html
+
+
+Dear Sir/Madam,
+I am Mr.Liu Peijin ,managinig director of China Metallurgical Import&Export Henan Company (CMIEC HN). we are a company who deal on Furniture,plastic and export into the Canada/America and Europe.We are searching for representatives who can help us establish a medium of getting to our costumers in the Canada/America and Europe as well as making payments through you to us.Please if you are interested in transacting business with us we will be glad.Please contact us for more information,Subject to your satisfaction
+you will be given the opportunity to negotiate your mode of which we will pay for your services as our representative in Canada/America and Europe.
+Please if you are interested forward to us your phone  number/fax and your full contact addresses.
+
+Thanks in advance
+Mr.LiuPeijin
+Managing Director
+CMIEC HN
+
+
+___________________________________________________________________________
+Mail sent from WebMail service at PHP-Nuke Powered Site
+- http://yoursite.com

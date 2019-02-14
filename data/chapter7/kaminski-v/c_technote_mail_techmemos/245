@@ -1,0 +1,118 @@
+Message-ID: <3510465.1075857036140.JavaMail.evans@thyme>
+Date: Tue, 15 Feb 2000 09:01:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: brad.horn@enron.com
+Subject: Re: Storage Model: Simple Issues
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: Brad Horn
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Brad,
+
+Here are my thoughts on your concerns.
+
+* You needs curve inputs.  This is an IT job.  I can help you for the curves 
+before the system is properly set up.
+
+* Intrinsic value vs Time value: 
+  The intrinsic value depends on how you allocate the volumes.  If you have a 
+rough idea about the allocation as
+  you did in the spreadsheet, we can calucate the intrinsic value within the 
+model.    The difference between the 
+  total and the intrinsic will be the (option) time value. However, by 
+pre-allocating volumes, you killed some options.
+  
+  In the storage model, volumes are allocated dynamically, therefore it is 
+hard to distinguish the intrinsic vs. time value. 
+
+* Factor of loading:  Factor of loadings are used to give historical 
+correlation matrix. The three factors correspond to
+  paralle shift, slopping and curveture.  The covariance matrix in the model 
+is expressed in the form
+     
+  COVAR = row( vol_{i} ) *( Correl(i,j) )* Colum( vol_{j} ) where vols are 
+the implied volatilities from the vol curve.
+  
+  (Correl (i,j)) =L*L' +residue (small)
+  
+where L is the factor of loading matrix.  So in a simple words, the factor of 
+loadings (say, 60x3) are a simplier way for us to 
+remember the historical correlation matrix (say, 60x60).
+
+Let me know if I can offer further help.
+
+Zimin
+
+
+
+
+
+
+   Brad Horn                02/15/2000 07:15 AM
+
+To: Zimin Lu/HOU/ECT@ECT
+cc: Sandra Henderson/HOU/ECT@ect 
+Subject: Storage Model: Simple Issues
+
+Zimin:
+ Thanks for your time with the revised storage valuation.  Your right to 
+point out the similarity to market bids.  Here are some basic questions tied 
+to implementation and calibration:
+
+Model Infrastructure/IT Support: I obviously need to re-build my link to the 
+forward curves as the model is not working in my new location.  Short-term 
+(aprox 1 month), I'd like to establish a link to the ENA database EGSPROD32 
+in order to fetch the long-dated price and volatility curves.  My link to ENA 
+forward curves would then be quickly severed in favor of the curves generated 
+by the new Bridgeline entity (database name and data structure yet to be 
+defined).  However, its not clear to me what is required in this two stage 
+process to support your model.  Any definition of model input or minimum 
+support requirements you provide is appreciated.  I'll then work with Sandra 
+Henderson, an Enron employee providing our IT support, to ensure the model 
+continues to work regardless any downstream system changes that may take 
+place as we build and establish our separate trading systems or databases.  
+Meanwhile, is there anything you think you can do to ensure Im up and running 
+quickly?
+
+SANDRA: linking EXCEL spreadsheets to Bridgeline forward curves will be key 
+to all our pricing projects, not just the storage model supplied by Research.
+
+Intrinsic vs Extrinsic Value: it would be helpful to decompose the model's 
+calculated storage price and to distinguish intrinsic vs extrinsic (time or 
+option) value.  I could easily link a new spreadsheet tab to your model 
+inputs and to calculate the intrinsic value,  and then through a simple 
+difference I could  determine the extrinsic value.  Ive included a simple 
+spreadsheet calculation for the intrinsic value for review.  I wanted to 
+share this with you to ask the following:
+does the nature of the model define intrinsic and extrinsic value differently 
+than the simple difference proposed?
+do you think it would make sense to do the simple value decomposition in the 
+backcode C-code via .dll in order to ensure run-time is faster?
+
+
+
+My goal here is straightforward: a) to better understand the model and its 
+sensitivities.; and b) to determine if and when the option approach is 
+associating significant value above and beyond the simple present value of 
+the time spreads.  
+
+Factor Loadings: What are some of the thoughts or insights you can offer with 
+regards to factor loadings and how I should interpret the graph of the 3 
+factors calculated?  Factor loadings have always been a mystery to me.  For 
+example, what problems should I be looking for as a warning against 
+mispricing?  What, if anything, is implied about 1 day price change or 
+expected curve re-shapings (after all, curve-reshapings are key to storage 
+valuation!!!)?
+
+Calibration: we are preparing a simple summary of descriptive statistics 
+which should allow me to refine some of the model inputs.  I'll share the 
+data when we are and model results once Im up and running.
+

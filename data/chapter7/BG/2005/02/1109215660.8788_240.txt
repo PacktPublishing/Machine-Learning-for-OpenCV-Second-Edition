@@ -1,0 +1,203 @@
+Return-Path: <info@kotchaphan.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 5000 invoked from network); 24 Feb 2005 03:27:00 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 24 Feb 2005 03:27:00 -0000
+Received: (qmail 14833 invoked from network); 24 Feb 2005 03:27:00 -0000
+Received: from pt03.futurequest.net (pt03.futurequest.net [69.5.6.179])
+  by mx08.futurequest.net ([69.5.6.180])
+  with QMQP via TCP; 24 Feb 2005 03:27:00 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 4896 invoked from network); 24 Feb 2005 03:26:56 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 24 Feb 2005 03:26:56 -0000
+Received: (qmail 19727 invoked from network); 24 Feb 2005 03:26:56 -0000
+Received: from NOTEBOOK (ppp-202.176.142.3.revip.asianet.co.th [202.176.142.3])
+  by mx09.futurequest.net ([69.5.6.181])
+  with SMTP via TCP; 24 Feb 2005 03:26:53 -0000
+From: "sakchai" <info@kotchaphan.com>
+To: <webmaster@ezmlm.org>
+Subject: เปิดตัว น้ำมันหยอดเหรียญ
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 24 Feb 2005 10:27:20
+Return-Path: <info@kotchaphan.com>
+Content-Length: 7696
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns="http://www.w3.org/TR/REC-html40" xmlns:v = 
+"urn:schemas-microsoft-com:vml" xmlns:o = 
+"urn:schemas-microsoft-com:office:office" xmlns:w = 
+"urn:schemas-microsoft-com:office:word"><HEAD><TITLE>Message</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-874">
+<META content=Word.Document name=ProgId>
+<META content="MSHTML 6.00.2900.2604" name=GENERATOR>
+<META content="Microsoft Word 10" name=Originator><LINK 
+href="cid:filelist.xml@01C51884.8C4B6C30" rel=File-List><LINK 
+href="cid:editdata.mso@01C51884.8C4B6C30" rel=Edit-Time-Data><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:DoNotRelyOnCSS/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:DocumentKind>DocumentEmail</w:DocumentKind>
+  <w:EnvelopeVis/>
+  <w:Compatibility>
+   <w:ApplyBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: Tahoma;
+}
+@page Section1 {size: 595.3pt 841.9pt; margin: 72.0pt 90.0pt 72.0pt 90.0pt; mso-header-margin: 35.4pt; mso-footer-margin: 35.4pt; mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: Tahoma; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: Tahoma; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: Tahoma; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlink {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+A:visited {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.EmailStyle17 {
+	FONT-WEIGHT: normal; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Tahoma; TEXT-DECORATION: none; text-underline: none; mso-style-type: personal-reply; mso-style-noshow: yes; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-ascii-font-family: Tahoma; mso-hansi-font-family: Tahoma; mso-bidi-font-family: Tahoma; text-line-through: none
+}
+SPAN.SpellE {
+	mso-style-name: ""; mso-spl-e: yes
+}
+DIV.Section1 {
+	page: Section1
+}
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */ 
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1" />
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=EN-US style="tab-interval: 36.0pt" vLink=blue link=blue 
+bgColor=white>
+<BR>
+<DIV class=Section1> 
+  <P class=MsoNormal><FONT face=Tahoma color=blue size=3><span style='font-size:
+12.0pt;color:blue'><a target="_blank"  href="http://www.kotchaphan.com/" ><span style='text-decoration:
+none;text-underline:none'><img
+src="http://kotchaphan.com/images_product/b0162.jpg" width=500 height=375 border=0 id="_x0000_i1031"></span></a></span><SPAN 
+style="FONT-SIZE: 12pt; COLOR: blue"><A 
+href="http://kotchaphan.com/show_news.php?id=23"></A><o:p></o:p></SPAN></FONT></P>
+  <DIV> 
+    <P class=MsoNormal><FONT face=Arial color=blue size=2><SPAN 
+style="FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: Arial"><o:p></o:p></SPAN></FONT><FONT face=Tahoma color=blue size=2><SPAN lang=TH 
+style="FONT-SIZE: 10pt; COLOR: blue"><o:p></o:p></SPAN></FONT></P>
+    <P class=MsoNormal>&nbsp;</P>
+  </DIV>
+  <DIV>
+<P class=MsoNormal>&nbsp;</P>
+  </DIV>
+  <DIV>
+    <P class=MsoNormal><font size="2">นวัตกรรมใหม่ เพื่อความสะดวกของการเติมน้ำมัน</font></P>
+    <p><font size="2">เครื่องเติมน้ำมันเชื้อเพลิงหยอดเหรียญ 91/95/ดีเซล</font></p>
+    <p><font size="2">ธุรกิจหยอดเหรียญ ตัวล่าสุด (ลองไปอ่านรายละเอียดดูมันอาจจะเหมาะกับทำเลคุณ)</font></p>
+    <p> </p>
+    <p><font size="2">สู่การปฏิวัติการให้บริการน้ำมันเชื้อเพลิง 24 ชม. ด้วยตู้น้ำมันหยอดเหรียญ... 
+      นวัตกรรมใหม่ล่าสุด </font></p>
+    <p><font size="2">ที่สามารถทำกำไรด้วยการลงทุนต่ำ จุดคุ้มทุนเร็ว สร้างรายได้ตลอด 
+      24 ชั่วโมง </font></p>
+    <p><font size="2">- สามารถเติมน้ำมันได้ด้วยตนเอง โดยไม่ต้องเสียเวลารอพนักงานเติมน้ำมัน 
+      <br>
+      - เปิดบริการได้ 24 ชั่วโมง แบะ ได้น้ำมันมีมาตรฐาน <br>
+      - ใช้งานง่าย สามารถใช้ เหรียญได้ทุกขนาด 1 - 5 - 10 บาท <br>
+      - ตั้งเวลาเปิดปิดไฟหน้าตู้ได้สะดวก <br>
+      - เช็ครายได้ เช็คยอดรวมได้ง่าย <br>
+      - กำหนด เวลา และ ราคาขาย ได้ ปรับเปลี่ยนเองได้ทันการเปลี่ยนราคาน้ำมันอยู่เสมอ 
+      <br>
+      - ขนาด HxWxD เท่ากับ 2000x1680x840 มิลิเมตร <br>
+      - ระบบ 2 หัวจ่าย 91/95 หรือ ดีเซล <br>
+      - ระบบความปลอดภัย เป็นเลิศ โครงตู้ใช้เหล็กหนา แข็งแรง ทนแรงกระแทก ผ่านกระบวนการพ่นสีที่ได้มาตรฐานชนิดเดียวกับรถยนต์ 
+      <br>
+      - ระบบดับเพลิง ที่มีความสามารถในการดับเพลิง รัศมี 10 ตรม. เมื่อมีความร้อนสูงถึง 
+      65 องศาเซลเซียส <br>
+      - ระบบดูดละอองน้ำมันออกจากตู้ ทุกครั้งที่มีการจ่ายน้ำมัน <br>
+      - ระบบเก็บเหรียญ ทีมีกุญแจล๊อกอีกชั้นหนึ่ง เพื่อป้องกันการงัดแงะ <br>
+      - จดสิทธิบัตรถูกต้อง</font></p>
+    </DIV>
+<DIV></DIV>
+  <DIV> 
+    <P class=MsoNormal>&nbsp;</P>
+  </DIV>
+  <DIV>
+<P class=MsoNormal><FONT face=Tahoma size=2><SPAN lang=TH 
+style="FONT-SIZE: 10pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial">สนใจติดต่อชมหน้าตาผู้พิทักษ์ผลกำไรได้แล้ววันนี้</SPAN></FONT><FONT 
+face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><BR>
+      </SPAN></FONT><FONT size=2><SPAN 
+lang=TH 
+style="FONT-SIZE: 10pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial">เพียงคุณโทรมาที่</SPAN></FONT><FONT 
+face=Arial size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> 02-9042700 
+      </SPAN></FONT><FONT size=2><SPAN lang=TH 
+style="FONT-SIZE: 10pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial">หรือ</SPAN></FONT><FONT 
+face=Arial size=2><SPAN lang=TH style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> </SPAN></FONT><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><A 
+href="http://www.kotchaphan.com">www.kotchaphan.com</A><BR>
+      MSN <A 
+href="mailto:gaamga@hotmail.com">gaamga@hotmail.com</A><BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+href="mailto:porpla@kotchaphan.com">porpla@kotchaphan.com</A><BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+href="mailto:kae_yu@hotmail.com">kae_yu@hotmail.com</A><BR>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+href="mailto:ratt@kotchaphan.com">ratt@kotchaphan.com</A></SPAN></FONT><o:p></o:p></P>
+  </DIV>
+<DIV>
+<P class=MsoNormal><FONT face=Tahoma size=3><SPAN 
+style="FONT-SIZE: 12pt">&nbsp;<o:p></o:p></SPAN></FONT></P></DIV>
+<DIV>
+<P class=MsoNormal><FONT face=Tahoma size=2><SPAN lang=TH 
+style="FONT-SIZE: 10pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial">พร้อมที่จะให้ข้อมูลท่านเสมอค่ะ</SPAN></FONT><o:p></o:p></P></DIV></DIV></BODY></HTML>

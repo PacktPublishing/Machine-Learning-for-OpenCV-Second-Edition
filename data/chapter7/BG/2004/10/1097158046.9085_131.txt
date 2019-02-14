@@ -1,0 +1,47 @@
+Return-Path: <btvsylukero@list.ru>
+Received: (fqmail 2540 invoked from network); 07 Oct 2004 09:25:06 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 07 Oct 2004 09:25:06 -0000
+Received: (qmail 31360 invoked from network); 7 Oct 2004 09:25:06 -0000
+Received: from 222.51.98.198 ([222.51.98.198])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 07 Oct 2004 09:25:05 -0000
+X-Message-Info: ceb/T+9/R/k+3/37117620680
+Received: from culminate412.egypt.btvsylukero@list.ru (histochemic033.btvsylukero@list.ru [])
+	by smtp-genesis.cataract.btvsylukero@list.ru (Postfix) with SMTP id 6YLX33R94U
+	for <webmaster@ezmlm.org>; Fri, 08 Oct 2004 03:17:02 +0200
+Received: from smtp-crutch.burnout.btvsylukero@list.ru ([]) by g41-uq4.btvsylukero@list.ru with Microsoft SMTPSVC(5.0.0043.6993);
+	 Thu, 07 Oct 2004 23:23:02 -0200
+Received: from smtp-duty.churchman.btvsylukero@list.ru ([]) by lc9-hph54.btvsylukero@list.ru with Microsoft SMTPSVC(5.0.3708.6049);
+	 Thu, 07 Oct 2004 19:25:02 -0600
+X-Message-Info: NFUAE+%ND_LC_CHAR[1-3]28+m+G+19/90401415314
+Received: from ruffle.btvsylukero@list.ru ([224.12.134.174]) by guest.btvsylukero@list.ru with MailEnable ESMTP; Fri, 08 Oct 2004 03:23:02 +0200
+Date: Fri, 08 Oct 2004 06:23:02 +0500
+Message-Id: <4547169872645.95747@btvsylukero@list.ru>
+From: Graciela Pina <btvsylukero@list.ru>
+To: Webmaster <webmaster@ezmlm.org>
+Subject: finally I got it
+MIME-Version: 1.0 (produced by cleavebetrayal 7.6)
+Content-Type: multipart/alternative;
+	boundary="--4498207516156939031"
+
+----4498207516156939031
+Content-Type: text/html;
+	charset="iso-7632-5"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: counteract cantaloupe surjective
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head=
+><title></title><meta http-equiv=3D"Content-Type" content=3D"text/html; ch=
+arset=3Diso-8859-1"></head><body><a href=3D"http://www.ezglobalpay.com/php=
+live/c.php?k=3D1.5.79"><img src=3D"http://www.freejayasample.com/creative/=
+christina15pctw2.jpg" width=3D"504" height=3D"327" border=3D"0"></a><font =
+style=3Dfont-size:1px>Today's Message. Today, we shall be disucssing the a=
+dvantages of sleeping early. There are numerous  benefits which can be enj=
+oyed by you. I for one do not like sleeping late coz the I get tired easil=
+y. The next day is also suffering. So please sleep early. That's it for no=
+w. Jessica.</font></body></html>
+
+
+----4498207516156939031--

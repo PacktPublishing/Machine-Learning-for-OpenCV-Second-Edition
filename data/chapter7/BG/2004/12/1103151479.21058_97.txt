@@ -1,0 +1,22 @@
+Return-Path: <christinand@chello.nl>
+Delivered-To: em-ca-bruceg-spam@em.ca
+Received: (qmail 25526 invoked by uid 700); 14 Dec 2004 23:43:04 -0000
+Delivered-To: em-ca-em-ca-bruceg@em.ca
+Received: (qmail 25521 invoked by uid 115); 14 Dec 2004 23:43:04 -0000
+Received: from christinand@chello.nl by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(219.253.80.122):. 
+ Processed in 0.062803 secs); 14 Dec 2004 23:43:04 -0000
+Received: from unknown (HELO chello.nl) (219.253.80.122)
+  by churchill.factcomp.com with SMTP; 14 Dec 2004 23:43:03 -0000
+From: "Cristina" <christinalz@chello.nl>
+To: <em-ca-bruceg@em.ca>
+Subject: 
+Date: Tue, 14 Dec 2004 18:45:29 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Qmail-Scanner-Message-ID: <110306778467225516@churchill>
+Content-Length: 36
+Lines: 3
+
+Want a Watch?
+http://qgt.hensi.com

@@ -1,0 +1,41 @@
+Message-ID: <25524030.1075857040110.JavaMail.evans@thyme>
+Date: Tue, 22 Feb 2000 02:46:00 -0800 (PST)
+From: benjamin.parsons@enron.com
+To: vince.kaminski@enron.com, vasant.shanbhogue@enron.com, 
+	grant.masson@enron.com
+Subject: Presentation - Integrating market risk and credit risk
+Cc: bryan.seyfried@enron.com, katja.schilling@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bryan.seyfried@enron.com, katja.schilling@enron.com
+X-From: Benjamin Parsons
+X-To: Vince J Kaminski, Vasant Shanbhogue, Grant Masson
+X-cc: Bryan Seyfried, Katja Schilling
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+All,
+
+I will be giving a 40min presentation on the above topic at the EPRM Energy 
+2000 conference in April. The bulletpoints are:
+
+Balancing market risk and credit risk to achieve a reliable estimation of 
+total risk
+Incorporating market risk into a credit risk model
+Calculating probability of default using credit risk and market risk
+Refining business practice to reflect credit risk and market risk evaluations
+
+My proposed approach is to quickly step through the practical process of 
+modelling credit risk, resulting in measures for expected loss and 
+credit-VAR; then show how default probs can be calculated using bond and 
+equity data. Finally I'll describe how credit risk can be mitigated using 
+credit derivatives - plugging EnronCredit.com of course.
+
+Any other ideas for broad topics and/or specific points to mention will be 
+appreciated. The presentation has to be submitted next week.
+
+Many thanks,
+
+Ben

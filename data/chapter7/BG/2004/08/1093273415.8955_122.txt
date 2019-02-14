@@ -1,0 +1,46 @@
+Return-Path: <ifbjhxr@ntl.com>
+Received: (fqmail 26637 invoked from network); 23 Aug 2004 11:57:14 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 23 Aug 2004 11:57:14 -0000
+Received: (qmail 5357 invoked from network); 23 Aug 2004 11:57:13 -0000
+Received: from pcp01186147pcs.strl401.mi.comcast.net (pcp01186147pcs.strl401.mi.comcast.net [68.60.168.124])
+  by mx06.futurequest.net ([69.5.6.177])
+  with SMTP via TCP; 23 Aug 2004 11:57:13 -0000
+X-Message-Info: 0196DPQhl1824JPYzxkXOZZTxw+410293
+Received: from ukanwmr1444.jb.rima-tde.net ([162.202.146.111]) by iak6093-r.rima-tde.net with Microsoft SMTPSVC(5.0.2195.6824);
+	 Mon, 23 Aug 2004 07:49:09 -0400
+Message-ID: <183$ion1$92255$mpf919@rima-tde.net>
+Conversion-With-Loss: Yes
+Sensitivity: 1
+Expiry-Date: Never
+Xref: loqdtynfuihzgfumzcc
+Reply-To: "Ashlee-Wilkes" <skew.71792chuff@rima-tde.net>
+From: "Ashlee-Wilkes" <skew.71792chuff@rima-tde.net>
+To: webmaster@ezmlm.org, bugs@ezmlm.org
+Subject: Approved: We owe you $183371
+Date: Mon, 23 Aug 2004 07:55:09 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--109387919465113281"
+
+----109387919465113281
+Content-Type: text/html;
+	charset="iso-7336-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Your [m]ortgage application was approved.<br>
+You are eligible for a $201813 loan<br>
+and a 2.5% fixed rate.
+<p>
+
+Please complete the form to process your application:<br>
+ <a href="http://uniroyal.gunixub.com/h7/ke.php?l4d=55">http://uniroyal.gunixub.com/h7/ke.php?l4d=55</a><p>
+
+iMort Broker Association, LLC.
+<p><p>
+<a href="http://www.gunixub.com/r3/">not interested</a>
+</html>
+
+----109387919465113281--

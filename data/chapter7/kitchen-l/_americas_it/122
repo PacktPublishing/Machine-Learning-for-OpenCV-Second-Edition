@@ -1,0 +1,84 @@
+Message-ID: <9325538.1075840862608.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 23:27:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV weekly status update
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Geoff Storey <Geoff Storey/ENRON@enronXgate>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+I have just sent you the revised Inception Document including three additional items: Single deal entry revisions, Options reports, and Transport valuation in ERMS. After discussing with Geof, we decided not to include the EOL reporting tools this time. Hopefully, you are OK with that. Please let us know if the EOL reporting tools have to be discussed in the document.
+
+Regards.
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, April 17, 2001 1:50 PM
+To:	Wei, Zhiyong; Storey, Geoff
+Cc:	Bibi, Philippe A.; Perlman, Beth; Stock, Stephen
+Subject:	Re: GTV weekly status update
+
+I'm a bit confused - I think that the current document distributed for circulation is too small.  I would suggest this be abandonned and a next draft produced which includes the following.
+
+Single Deal entry revisions
+Options reports
+Transport Valuation in ERMS
+EOL reporting tools (possible)
+
+I would like to see Phase II include the items above and an Inception document re-issued this week.
+
+Thanks
+
+Louise
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ << File: GTV2 4-16-01.mpp >> 
+Thanks
+
+Zhiyong
+

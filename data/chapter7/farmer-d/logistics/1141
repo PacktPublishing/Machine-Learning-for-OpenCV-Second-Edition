@@ -1,0 +1,36 @@
+Message-ID: <8045010.1075854132041.JavaMail.evans@thyme>
+Date: Wed, 24 May 2000 09:08:00 -0700 (PDT)
+From: aimee.lannou@enron.com
+To: gary.hanks@enron.com, pat.clynes@enron.com, daren.farmer@enron.com, 
+	david.baumbach@enron.com
+Subject: MidTex
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Aimee Lannou
+X-To: Gary A Hanks, Pat Clynes, Daren J Farmer, David Baumbach
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+After comparing HPL's numbers with PG&E's numbers I have found a few 
+discrepancies with the Tufco volumes.  
+ 
+   HPL   PG&E
+
+5/8   137.500   139.583
+
+5/11   103.750   100.833
+
+5/19   108.333   8.333
+
+Days 8 and 11 have small discrepancies.  I got with Carlos on the 5/19 
+discrepancy.  He checked the numbers sent to him by Tufco.  He verified that 
+it should be 8.333.  I also checked with Steve in Gas Control regarding what 
+flowed for Tufco.  Steve told me 8.300.  I have gone back into MOPS and 
+corrected these volumes.   This should impact the UA4 number.  Also, this 
+decreases the MidTexas cumulative imbalance.  As of 5/23 PG&E owes HPL 
+4.649.  If you have any questions, please let me know.
+
+-Aimee

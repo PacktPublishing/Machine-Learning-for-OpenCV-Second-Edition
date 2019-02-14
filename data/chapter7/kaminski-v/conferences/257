@@ -1,0 +1,200 @@
+Message-ID: <2368277.1075857039989.JavaMail.evans@thyme>
+Date: Tue, 7 Mar 2000 10:20:00 -0800 (PST)
+From: chris_strickland@compuserve.com
+To: vince.kaminski@enron.com, grant_masson@ei.enron.com
+Subject: Energy Derivative Courses
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Chris Strickland <chris_strickland@compuserve.com>
+X-To: Vince J Kaminski, Grant Masson <grant_masson@ei.enron.com>
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear Vince/Grant,
+
+It was good to meet and talk with you both this morning - very interesting.
+Here are the details of the course (actually there are two seperate
+courses, one on VaR) that I promised you.
+
+I hope to see you both again later in the month.
+
+Best regards.
+
+Chris.
+
+
+
+
+COURSE 1:   Energy Derivatives: Pricing and Risk Management
+---------------------------------------------------------------------------
+-
+
+Course Leaders: Dr Les Clewlow and Dr Chris Strickland
+
+Houston: 29-30 March 2000
+London:  3-4 April 2000
+
+Fee : STG 1950 / USD 2950
+
+This is an intermediate course aimed at the Energy professional who is
+familiar with energy derivative products but who requires the mathematical
+foundations of derivative pricing and an understanding of the pricing and
+risk management of energy derivatives.
+
+This course assumes that participants are familiar with standard basic
+option pricing theory (the Black-Scholes formula, Monte Carlo simulation,
+and the use of binomial trees for option pricing).
+
+The format for the course will follow our usual highly practical and
+successful style of alternate sessions of lectures and Excel based computer
+workshops. To facilitate intensive interaction, the course will be limited
+to a maximum of 15 participants so early booking is advisable.
+
+The Excel based computer workshops deal with oil and gas as well as
+electricity derivatives and contain detailed calculations for pricing and
+risk management. At the end of the 2 days, participants leave with a
+diskette containing answers to all the workshops as well as valuable code
+for pricing and simulation.
+
+Registration fee includes: pre-course reading, course materials, copies of
+relevant research materials, diskette with fully worked solutions to
+computer workshops, lunch and refreshments.  Additionally, each attendee
+will receive a free copy of Clewlow and Strickland's forthcoming book
+"Energy Derivatives: Pricing and Risk Management" which includes
+valuable contributions from Enron's Vince Kaminski and Grant Masson.
+
+Upon registration, participants will be sent a pack containing relevant
+pre-course reading.
+
+COURSE OUTLINE
+
+Day 1, AM : Introduction to Energy Derivatives Modelling
+
+     Energy derivatives - structures and applications
+     Fundamentals of modeling and pricing
+     Analysing energy data
+     Spot price behaviour
+     Building forward curves - assessing available models
+     The relationship between the spot price and forward curve dynamics
+
+Workshop : Analysing the properties of energy data - mean reversion,
+volatility structures, jumps
+
+Day 1, PM :Spot Price Models and Pricing by Simulation and Trees
+
+     Review of spot price models
+     The pros and cons of spot price models
+     Pricing standard options, swaptions, caps, floors, and collars
+     Simulation for spot price models
+     Pricing exotic options (barriers, lookbacks, Asians, etc.)
+     Building and using trees for energy derivatives
+     Building trees consistent with the forward curve
+     Pricing options in trees
+
+Workshop: Using Simulation and trinomial trees to price energy
+derivatives
+
+Day 2, AM : Forward Curve Based Models
+
+     Forward curve dynamics and forward curve models
+     The relationship to spot price dynamics
+     Multi-factor forward Curve Models
+     Volatility function interpretation and estimation
+     Pricing standard energy options
+     Pricing energy swaptions
+     Pricing energy exotics using simulation
+
+Workshop : Using simulation to implement multi-factor models and price
+energy options
+
+Day 2, PM : Risk Management of Energy Derivatives
+
+     Energy market risk and hedging
+     Computing hedge sensitivities
+     Determining the hedge instruments
+     Hedging a energy derivatives book
+     Value-at-Risk in energy markets - the pros and cons of the approaches
+     Credit Risk in energy markets - issues and models
+
+Workshop: Hedging an energy portfolio
+
+Please feel free to e-mail us to register for this course and we will
+contact you regarding payment.
+
+
+
+-----------------------------------------------------
+COURSE 2:  VaR for Energy Markets
+-----------------------------------------------------
+
+Course Leaders: Dr Les Clewlow and Dr Chris Strickland
+
+Houston: 31 March 2000
+London:  5 April 2000
+
+Fee : STG 950 / USD 1950
+
+This is an intermediate course aimed at the Energy professional who is
+familiar with energy derivative products but who requires an understanding
+of the theory and calculation of Value at Risk for energy derivative
+portfolios.
+
+The format for the course will follow our usual highly practical and
+successful style of alternate sessions of lectures and Excel based computer
+workshops. To facilitate intensive interaction the course will be limited
+to a maximum of 15 participants so early booking is advisable.
+
+The Excel based computer workshops deal with oil and gas as well as
+electricity derivatives. At the end of the course participants leave with a
+diskette containing answers to all the workshops as well as valuable code
+for pricing and VaR calculations.
+
+Registration fee includes: pre-course reading, course materials, copies of
+relevant research materials, diskette with fully worked solutions to
+computer workshops, lunch and refreshments.  Additionally, each attendee
+will receive a free copy of Clewlow and Strickland's forthcoming book
+"Energy Derivatives: Pricing and Risk Management".
+
+Upon registration, participants will be sent a pack containing relevant
+pre-course reading.
+
+COURSE OUTLINE
+
+Day 1, AM : Understanding the VaR methodologies and issues
+
+     What is VaR?
+     Uses of VaR
+     Types of VaR methodologies
+     Implications of applying the RiskMetrics assumptions in energy markets
+
+     Delta VaR, historical simulation
+     Linear and Non Linear Instruments
+
+Workshop: Applying simple VaR methodologies in the energy market
+
+Day 1, PM : Calculation of Energy portfolio VaR using simulation
+
+     Modelling the energy forward curve - single and multi-factor
+     Modelling the joint behaviour of different energies simultaneously
+     Calculation of covariances and correlations
+     Incorporating jumps
+     Detailed example VaR calculation for an energy portfolio
+
+Workshop: Simulating energy forward curves and calculation of VaR for an
+energy portfolio.
+
+Dr. Les Clewlow and Dr Chris Strickland hold Associate Research Positions
+at both the School of Finance and Economics, University of Technology,
+Sydney and the Financial Options Research Centre, University of Warwick,
+UK.  Together they have over 20 years combined experience in the financial
+and energy derivative markets and have published many articles in academic
+and trade journals.  They are the authors of the book "Implementing
+Derivatives Models" (Wiley, 1998) and editors of "Exotic Options: The State
+of the Art" (ITP, 1998). Their forthcoming book, "Energy Derivatives:
+Pricing and Risk Management," is due to be published during the second
+quarter 2000.  Currently, their interests are concentrated in the energy
+derivatives area, where they have developed a wide range of pricing tools
+for electricity options and other energy derivatives.

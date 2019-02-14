@@ -1,0 +1,241 @@
+Return-Path: <mail@thai-poly.com>
+Received: (fqmail 3368 invoked from network); 28 Oct 2004 07:16:35 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 28 Oct 2004 07:16:35 -0000
+Received: (qmail 7667 invoked from network); 28 Oct 2004 07:16:36 -0000
+Received: from mx-out.daemonmail.net (mx-out.daemonmail.net [216.104.160.39])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 28 Oct 2004 07:16:35 -0000
+Received: from localhost.daemonmail.net (localhost.daemonmail.net [127.0.0.1])
+	by mx-out.daemonmail.net (8.12.9p2/8.12.9) with SMTP id i9S7GYMu042323
+	for <webmaster@ezmlm.org>; Thu, 28 Oct 2004 00:16:34 -0700 (PDT)
+	(envelope-from mail@thai-poly.com)
+Received: from [61.90.78.35] (via account 18399)
+	by mx-out.daemonmail.net with SMTP id b0B075H2
+	authenticated by POP; Thu, 28 Oct 2004 00:16:33 -0700 (PDT)
+Message-ID: <qwsaybcdnkw0xkl6dv36l3dnquklm7>
+From: "On Line pre-employment test" <mail@thai-poly.com>
+To: "webmaster@ezmlm.org" <webmaster@ezmlm.org>
+Subject: On Line Pre-employment test from 250 B
+Reply-to: <mail@thai-poly.com>
+Date: Thu, 28 Oct 2004 14:16:34 +0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_00009590.02FC3180"
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_000_00009590.02FC3180
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<!--
+
+This plain text message area is for recipients who have email programs that do not support html 
+emails (almost every modern email client software program can accept html emails). If you want to 
+add an alternate plain text message for those who cannot receive html emails, enter it here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//-->
+<html 
+xmlns:o="urn:schemas-microsoft-com:office:office"xmlns:w="urn:schemas-microsoft-com:office:word"xm
+lns:st1="urn:schemas-microsoft-com:office:smarttags"xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-874"><meta name=ProgId 
+content=Word.Document><meta name=Generator content="Microsoft Word 10"><meta name=Originator 
+content="Microsoft Word 10"><link rel=File-List 
+href="mailer4midot-eng+thai1_files/filelist.xml"><title>mailer4midot-eng+thai</title><o:SmartTagTy
+pe namespaceuri="urn:schemas-microsoft-com:office:smarttags" 
+name="country-region"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" 
+name="place"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" 
+name="PlaceType"/><o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags" 
+name="PlaceName"/><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Lalida</o:Author>  
+<o:Template>Normal</o:Template>  <o:LastAuthor>Ori</o:LastAuthor>  <o:Revision>6</o:Revision>  
+<o:TotalTime>31</o:TotalTime>  <o:Created>2004-06-01T11:08:00Z</o:Created>  
+<o:LastSaved>2004-06-16T10:23:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>247</o:Words>  
+<o:Characters>1413</o:Characters>  <o:Lines>11</o:Lines>  <o:Paragraphs>3</o:Paragraphs>  
+<o:CharactersWithSpaces>1657</o:CharactersWithSpaces>  <o:Version>10.2625</o:Version> 
+</o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  
+<w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  
+<w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>  
+<w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>  
+<w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>  <w:Compatibility>   
+<w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:ApplyBreakingRules/>   
+<w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:UseFELayout/>  </w:Compatibility>  
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> 
+</w:WordDocument></xml><![endif]--><!--[if !mso]><object 
+classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" 
+id=ieooui></object><style>st1\:*{behavior:url(#ieooui) }</style><![endif]--><style><!-- /* Font 
+Definitions */ @font-face	{font-family:SimSun;	panose-1:2 1 6 0 3 1 1 1 1 
+1;	mso-font-alt:\5B8B\4F53;	mso-font-charset:134;	mso-generic-font-family:auto;	mso-font-pitch:var
+iable;	mso-font-signature:3 135135232 16 0 262145 0;}@font-face	{font-family:"Angsana 
+New";	panose-1:2 2 6 3 5 4 5 2 3 
+4;	mso-font-charset:0;	mso-generic-font-family:roman;	mso-font-pitch:variable;	mso-font-signature:
+16777219 0 0 0 65537 0;}@font-face	{font-family:"\@SimSun";	panose-1:2 1 6 0 3 1 1 1 1 
+1;	mso-font-charset:134;	mso-generic-font-family:auto;	mso-font-pitch:variable;	mso-font-signature
+:3 135135232 16 0 262145 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, 
+div.MsoNormal	{mso-style-parent:"";	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan
+;	font-size:12.0pt;	mso-bidi-font-size:14.0pt;	font-family:"Times New 
+Roman";	mso-fareast-font-family:SimSun;	mso-bidi-font-family:"Angsana New";}a:link, 
+span.MsoHyperlink	{color:blue;	text-decoration:underline;	text-underline:single;}a:visited, 
+span.MsoHyperlinkFollowed	{color:purple;	text-decoration:underline;	text-underline:single;}span.Gr
+amE	{mso-style-name:"";	mso-gram-e:yes;}@page Section1	{size:595.3pt 841.9pt;	margin:72.0pt 
+82.3pt 72.0pt 
+76.55pt;	mso-header-margin:35.45pt;	mso-footer-margin:35.45pt;	mso-paper-source:0;}div.Section1	{p
+age:Section1;}--></style><!--[if gte mso 10]><style> /* Style Definitions */ 
+table.MsoNormalTable	{mso-style-name:"Table 
+Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-par
+ent:"";	mso-padding-alt:0cm 5.4pt 0cm 
+5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size
+:10.0pt;	font-family:"Times New Roman";}</style><![endif]--><BASE href='file://C:\Documents and 
+Settings\ori w\Desktop\prospctdata\'></HEAD><body lang=EN-US link=blue vlink=purple 
+style="tab-interval: 36.0pt"><div class=Section1><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt; COLOR: red">Another great service 
+from<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+style="FONT-SIZE: 16pt; COLOR: red"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><st1:place><st1:placename><span  style="FONT-SIZE: 16pt; COLOR: 
+red">Polygraph</span></st1:placename><span style="FONT-SIZE: 16pt; COLOR: red"> 
+</span><st1:placetype><span  style="FONT-SIZE: 16pt; COLOR: 
+red">Center</span></st1:placetype></st1:place><span style="FONT-SIZE: 16pt; COLOR: red"> 
+(</span><st1:country-region><st1:place><span  style="FONT-SIZE: 16pt; COLOR: 
+red">Thailand</span></st1:place></st1:country-region><span style="FONT-SIZE: 16pt; COLOR: red">) 
+Co., Ltd<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+style="FONT-SIZE: 16pt; COLOR: red"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt; COLOR: red">On line Ethics test 
+program<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+style="FONT-SIZE: 16pt; COLOR: red"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt">This program is best use for 
+pre-employment testing inthe convenience of your office<o:p></o:p></span></p><p class=MsoNormal 
+align=center style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt">Just have applicants <span 
+class=GramE>take</span> thetest for about 12 minutes and you get the results 5 minutes 
+later<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+style="FONT-SIZE: 16pt">The ones that pass your test requirements you can sendto a pre-employment 
+polygraph test<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: 
+center"><span style="FONT-SIZE: 16pt">This way you don't send all applicants and you save alot of 
+money<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+style="FONT-SIZE: 16pt">The program start at 250 Baht per a test depend on thequantity of test 
+per a month<o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+style="FONT-SIZE: 16pt">To try log in to our <a href="http://www.pct.co.th/">WEBSITE</a> to the 
+<a href="http://www.pct.co.th/midotaccess-demo+cutm.htm">DEMO</a>menu<o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt">And if you 
+like it and think you can use it <o:p></o:p></span></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt">Please call us<o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span style="FONT-SIZE: 
+16pt"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: 
+center"><span style="FONT-SIZE: 16pt"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span style="FONT-SIZE: 16pt">0-2650-9700<o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span style="FONT-SIZE: 
+16pt"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: 
+center"><span style="FONT-SIZE: 16pt"><a href="http://www.pct.co.th/">www.pct.co.th</a><span 
+style="mso-spacerun: 
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a 
+href="http://www.thai-poly.com/">www.thai-poly.com</a> <o:p></o:p></span></p><p class=MsoNormal 
+align=center style="TEXT-ALIGN: center"><o:p>&nbsp;</o:p></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span style="FONT-SIZE: 14pt"><A 
+href="mailto:info@thai-poly.com">info@thai-poly.com</A><o:p></o:p></span></p><p class=MsoNormal 
+align=center style="TEXT-ALIGN: center"><span style="FONT-SIZE: 
+14pt"><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: 
+center"><span style="FONT-SIZE: 14pt">To <A 
+href="mailto:remove@thai-poly.com?subject=remove">remove</A><o:p></o:p></span></p><p 
+class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal 
+align=center style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; FONT-FAMILY: 
+'Angsana New'; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New 
+Roman'">อีกหนึ่งบริการจาก</span><span style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; 
+COLOR: red; FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; 
+mso-hansi-font-family: 'Times New Roman'">บริษัท โพลีกราฟ เซ็นเตอร์(ไทยแลนด์) จำกัด</span><span 
+style="FONT-SIZE: 16pt; COLOR: red"><o:p></o:p></span></p><p class=MsoNormal align=center 
+style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; FONT-FAMILY: 'Angsana New'; 
+mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New 
+Roman'">แบบทดสอบจริยธรรม ออนไลน์</span><span style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; 
+FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 
+'Times New Roman'">โปรแกรมนี้เหมาะที่สุดสำหรับการตรวจสอบก่อนการว่าจ้างงาน 
+สามารถมีขึ้นตามความสะดวกของท่าน</span><span style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; 
+FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 
+'Times New Roman'">เพียงแค่ให้ผู้สมัครงาน เข้าทำแบบทดสอบโดยใช้เวลาประมาณ </span><span 
+style="FONT-SIZE: 16pt; FONT-FAMILY: 'Angsana New'">12<span lang=TH>นาที และคุณจะได้รับผลอีก 
+</span>5</span><span style="FONT-SIZE: 16pt"> </span><span lang=TH style="FONT-SIZE: 16pt; 
+FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 
+'Times New Roman'">นาทีถัดมา</span><span style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; 
+FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 
+'Times New Roman'">สำหรับผู้ที่ผ่านคุณสมบัติตามที่ท่านต้องการท่านสามารถที่จะส่งบุคคลนั้นๆ 
+มาเข้ารับตรวจสอบโพลีกราฟต่อไป</span><span style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p 
+class=MsoNormal align=center style="TEXT-ALIGN: center; tab-stops: 381.75pt"><span lang=TH style  
+  ="FONT-SIZE: 16pt; FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; 
+mso-hansi-font-family: 'Times New 
+Roman'">วิธีนี้จะช่วยลดค่าใช้จ่ายโดยท่านไม่ต้องส่งผู้สมัครงานทุกคน 
+เข้าตรวจสอบโพลีกราฟ</span><span style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p class=MsoNormal 
+align=center style="TEXT-ALIGN: center"><span lang=TH style    ="FONT-SIZE: 16pt; FONT-FAMILY: 
+'Angsana New'; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New 
+Roman'">โปรแกรมการทดสอบนี้ ราคาเริ่มต้นอยู่ที่</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 
+'Angsana New'">250</span><span style="FONT-SIZE: 16pt"> </span><span lang=TH style="FONT-SIZE: 
+16pt; FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New Roman'; 
+mso-hansi-font-family: 'Times New Roman'">บาทต่อครั้ง 
+ทั้งนี้ราคาเปลี่ยนแปลงได้ขึ้นอยู่กับปริมาณครั้งต่อเดือน</span><span style="FONT-SIZE: 
+16pt"><o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: center"><span 
+lang=TH style    ="FONT-SIZE: 16pt; FONT-FAMILY: 'Angsana New'; mso-ascii-font-family: 'Times New 
+Roman'; mso-hansi-font-family: 'Times New 
+Roman'">ขอเชิญท่านล๊อคอินเข้ามาในเว็บไซด์ของเราเพื่อทดลองเมนูการสาธิต</span><span 
+style="FONT-SIZE: 16pt"><o:p></o:p></span></p><p class=MsoNormal align=center style="TEXT-ALIGN: 
+center"><span lang=TH style    ="FONT-SIZE: 16pt; FONT-FAMILY: 'Angsana New'; 
+mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New 
+Roman'">และหากท่านสนใจเชิญติดต่อเราได้ที่</span><span style="FONT-SIZE: 
+16pt"><o:p></o:p></span></p></div></body></html>
+
+
+
+
+------_=_NextPart_000_00009590.02FC3180--

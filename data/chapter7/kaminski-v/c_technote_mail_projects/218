@@ -1,0 +1,36 @@
+Message-ID: <24867081.1075856591756.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 02:30:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vasant.shanbhogue@enron.com
+Subject: enron's new weather system, courtesy the research dept.
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Clayton Vernon
+X-To: Vasant Shanbhogue
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+V
+
+Last night, I tested our new system for real-time surveillance and messaging 
+of the weather, and it delivers the data to desktops throughout the building 
+more than 6 1/2 minutes before the National Weather Service updates their 
+webpages. Our current technology was web-scraping these pages via ftp, then 
+parsing into a database. The impact of these 6 1/2 minutes for the hourly 
+power traders is enormous- the weather stations upload their data around 53 
+minutes after the hour, and we can now receive them within 2 minutes later. 
+We can now re-estimate our nonlinear stack model before the top of the hour, 
+when hourly power trading begins. Otherwise, we would not have model results 
+until around 15 minutes after the hour. Notably, hourly power trading is, for 
+all intents and purposes, concluded by then (they trade for 10-15 minutes and 
+manage the scheduling for the next 30 or so miutes). So, effectively, we may 
+now be one *hour* ahead of where we were just a few days ago, in terms of 
+information. People are very excited up here, from the CTO on down- thanks 
+for letting it happen.
+
+C

@@ -1,0 +1,42 @@
+Message-ID: <31471199.1075844096359.JavaMail.evans@thyme>
+Date: Mon, 9 Oct 2000 08:01:00 -0700 (PDT)
+From: sap.hotline@enron.com
+To: isc.groups@enron.com, enron.users@enron.com, enron.list@enron.com
+Subject: SAP SYSTEM OUTAGE NOTIFICATIONS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: SAP COE Hotline
+X-To: ISC ORG ALL GROUPS, ENRON COE PRODUCTION SAP USERS, Enron COE SAP London Production Users List
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The following servers will be coming down, please click on the icon for more 
+details and scheduled times :
+
+
+-------------------------------------------------------------
+
+          SYSTEM OUTAGE NOTIFICATION      
+
+-------------------------------------------------------------
+
+FOR:  PR4 - Apollo B2B Production (SPR4DB00)
+
+
+Outage Start: (CST) 10/9/2000 at 08:00:00 PM
+
+Outage End: (CST) 10/9/2000 at 08:30:00 PM
+
+Outage Abstract:  The Production B2B system will be shut down and restarted 
+at 8pm to resolve errors relating to dropped sessions.
+
+Outage Description: The Production B2B system will be shut down and restarted 
+at 8pm to resolve errors relating to dropped sessions.
+
+Outage Implication: Production B2B activities will not be possible during the 
+outage.
+
+Contact Name:Paul Calvino   #:  800-383-3929

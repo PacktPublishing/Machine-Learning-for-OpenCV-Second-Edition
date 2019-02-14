@@ -1,0 +1,54 @@
+Return-Path: <WestonAtkinson@zionsbank.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 15138 invoked from network); 3 Oct 2004 18:30:32 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 03 Oct 2004 18:30:32 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 Oct 2004 18:30:32 -0000
+Received: (qmail 360 invoked from network); 3 Oct 2004 18:30:30 -0000
+Received: from 69.5.6.152 (unknown [217.145.11.189])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 03 Oct 2004 18:30:18 -0000
+X-Message-Info: sc97QD31n950ZQ3HCgrvURE96dYP1rVyRLM197I0
+Received: (from miocene@217.145.11.189)
+	by whatnot4.64.224.154.220 (5.10.0/2.54.6) id up673VKgR9;
+	Sun, 03 Oct 2004 18:23:16 -0100
+Message-ID: <614452.898006.Nbvsgj.1757vf@frankiecarll.com>
+Delivery-Date: Sun, 03 Oct 2004 18:30:16 -0100
+Keywords: carmine 
+Comments: goleta 
+Reply-To: "Kent Brewer" <Stacey.Hobbs@frankiecarll.com>
+From: "Kent Brewer" <Stacey.Hobbs@frankiecarll.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Goods News. Application was accepted
+Date: Sun, 03 Oct 2004 14:25:16 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8639423853654198689"
+Content-Length: 601
+Lines: 22
+
+----8639423853654198689
+Content-Type: text/html;
+	charset="iso-0466-6"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible to receive $400,000 with a 2.1% rate.
+<p>
+Please verify your information here:<br>
+ <a href="http://bsch.moneyintelligent.info/a1/e7.php?l4d=55">http://bsch.moneyintelligent.info/a1/e7.php?l4d=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<p>
+
+Kent Brewer, Client Account Manager<br>
+Madison Financial Association<br>
+458 East Main Street<br>
+Chicago, IL 60679
+</html>
+
+----8639423853654198689--

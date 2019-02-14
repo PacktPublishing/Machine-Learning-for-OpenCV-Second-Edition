@@ -1,0 +1,25 @@
+Message-ID: <26291200.1075863307710.JavaMail.evans@thyme>
+Date: Thu, 26 Jul 2001 16:31:07 -0700 (PDT)
+From: lisa.gang@enron.com
+To: shift.dl-portland@enron.com
+Subject: EPE ELECTRIC TAGS
+Cc: stacy.runswick@enron.com, susie.wilson@enron.com, cara.semperger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stacy.runswick@enron.com, susie.wilson@enron.com, cara.semperger@enron.com
+X-From: Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LGANG>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Srunswic>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson7>, Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csemper>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+I received a call from Charlie at EPE.  If possible, when you create a tag for EPE, please use a slash instead of a semicolon in the "Info Section" in the Transaction Path.  Apparently they are having problems uploading the tags into their system when semicolons are present.  They are trying to fix this problem as soon as they can. See below for more clarification:
+
+
+For example, instead of G;FS;PV and L;FS use G/FS/PV and L/FS.    
+
+
+
+Lisa

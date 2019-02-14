@@ -1,0 +1,68 @@
+Message-ID: <29015343.1075856642559.JavaMail.evans@thyme>
+Date: Fri, 28 Jul 2000 13:21:00 -0700 (PDT)
+From: kirstee.hewitt@enron.com
+To: vince.kaminski@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kirstee Hewitt
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Again , I should have also sent the following mail yesterday.
+...I guess now I should also apologise for filling up your mail box!
+Have a good weekend, 
+Kirstee
+---------------------- Forwarded by Kirstee Hewitt/LON/ECT on 28/07/2000 
+20:22 ---------------------------
+   
+
+
+	Enron Europe
+	
+	From:  Kirstee Hewitt                           27/07/2000 18:10
+	
+
+To: Cantekin Dincerler/HOU/ECT@ECT
+cc: Grant Masson/HOU/ECT@ECT 
+
+Subject: 
+
+Hi - I have run the model for the 26th and have the following results :
+
+
+
+I have also updated the correlations to include silver and the gold.
+The TC delta (treatment charges) are positions only for copper conentrate and 
+do not 
+contain any positions due to zinc or lead.
+Could you take a look at the figues as this is the first time I have done a 
+full run and 
+would like to make sure that I have done things correctly.
+I will definitely call to discuss the prices for gold and cocoa beans - the 
+TC price curve is 
+another issue however, at the moment we do not have anything other than a 
+spot price and 
+a 1 year price so I think we will probably have to set it as a constant.
+I have to talk to Andreas soon as he is awaiting my comments on point (2) of 
+his email that 
+I forwarded in my last mail. 
+Also, you will can see that I have subtracted any positions that are from R 
+Wolf in the Mercur download - 
+this was point (1) of his note.
+As a quick question?
+Do you think it is worth including Zinc concentrate (18400 dmt) and lead 
+concentrate (920 dmt) ?
+I think we may need to check the TC price for these and the conversion for 
+the one given in the model for copper as 
+I think that the original historical price file (TChistory) is quoted in c/lb 
+- I guess this is cents/pound? rather 
+than $/dmt which is the units that position is quoted in .
+ 
+Speak to you soon
+Kirstee
+ 

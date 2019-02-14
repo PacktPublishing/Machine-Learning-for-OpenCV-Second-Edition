@@ -1,0 +1,42 @@
+Message-ID: <19614710.1075857036430.JavaMail.evans@thyme>
+Date: Mon, 10 Jan 2000 07:35:00 -0800 (PST)
+From: vincent.tang@enron.com
+To: grant.masson@enron.com
+Subject: Vega V@R, Credit Reserve Model update
+Cc: vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, tanya.tamarchenko@enron.com
+X-From: Vincent Tang
+X-To: Grant Masson
+X-cc: Vince J Kaminski, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Attached is a draft of the Vega VaR implement documentation.  We will discuss 
+this issue tomorrow.
+
+Index VaR and the Vega VaR status:
+Because any modification of the VaR model has to be coded into the new 
+version by IT,  the Index VaR model and the Vega VaR model are on the waiting 
+list to get into  IT group's door.  Currently, they are struggling with the 
+Credit Model.  Accord to Jonathan Le, they will implement the "Prudency" 
+model after the "Credit" and before anything else.  So, it's uncertain when 
+they can begin these two projects.
+
+Credit Reserve Model status:
+New version developed by IT is still in the debugging stage.  Two major 
+difference exist between the new and old versions:
+1)  Old version uses delta-gammar methodology, new version uses full 
+evaluation.  IT group is not comfortable with their implementation of the 
+"Spread option" and "Swaption" evaluation.  I am working with them on it.
+2) Insurance projects are new to the new version.  IT also wants our help too.
+
+Only after the IT finishes the debugging process, could we start testing the 
+new version with the current one.
+
+Thanks.
+
+Vincent

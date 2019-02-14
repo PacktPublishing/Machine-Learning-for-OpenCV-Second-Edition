@@ -1,0 +1,137 @@
+Message-ID: <32757882.1075856602445.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 04:31:00 -0800 (PST)
+From: mark.ruane@enron.com
+To: michael.tribolet@enron.com, william.bradford@enron.com, 
+	david.gorte@enron.com, vince.kaminski@enron.com
+Subject: Re: Default rates
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mark Ruane
+X-To: Michael Tribolet, William S Bradford, David Gorte, Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Per our discussion, see attached for impact of assumed recovery rates:  
+
+
+
+
+Michael Tribolet@ENRON
+12/11/2000 08:09 AM
+To: William S Bradford/HOU/ECT@ECT, David Gorte/HOU/ECT@ECT, Vince J 
+Kaminski/HOU/ECT@ECT, Mark Ruane/HOU/ECT@ECT
+cc:  
+Subject: Default rates
+
+
+Please see below for my note to Jeremy at the bottom and his reponse.   I 
+have placed Mark Ruane's yields against a mid November default frequency 
+table.   Note there may be a slight shearing in dates, but the concept is 
+more important:
+
+
+Market implied cumulative default rates (%):
+
+                 1 year     5 year     10 year
+AAA         0.51           5.74         14.54           
+AA            0.67           6.39          16.61
+A               0.98           8.98          21.03
+BBB         1.17           9.88          22.39
+BB             3.27        18.62          37.51
+B                4.65         24.21         46.27
+
+
+
+S&P Historical default rates (%):
+
+                 1 year     5 year     10 year
+AAA         0.00           0.13          0.67           
+AA            0.01           0.33          0.90
+A               0.04           0.47          1.48
+BBB         0.21           1.81           3.63
+BB             0.91          8.82          14.42
+B                5.16         20.95         27.13
+
+
+In looking at the One-Year transition rates as a very rough proxy for how 
+many more defaults occur in a recession (1991) versus average (1981-1999)  
+historical default rates (%):
+
+
+                             Investment grade                Non-Investment 
+grade
+Avg. 1981-99            0.07                                             4.21
+1991                            
+0.12                                           10.40
+Multiple                      1.7x                                            
+2.5x
+
+
+Looking at where the market implied default rates divided by the historicals 
+default rates to obtain a "multiple" (how much more severe than historical):
+
+
+                 1 year     5 year     10 year
+AAA         infinite      44.2x       21.7x
+AA            67.0x        19.4x       18.5x
+A               24.5x         19.1x      14.2x
+BBB           5.6x           5.5x        6.2x
+BB             3.6x           2.1x         2.6x 
+B                 1.1x           1.2x        1.7x
+
+
+On the 10 year historical figures,  we need to be careful as the S&P static 
+pool figures show a definite seasoning (lower defaults in late years probably 
+due to prepayment) versus our contracts.  Secondly, the S&P figures have 
+Withdrawn ratings, which usually mean they are stale, but loosing some 
+information content.   
+
+I will ask Emy to set up a meeting to discuss further.
+
+
+
+
+
+
+
+---------------------- Forwarded by Michael Tribolet/Corp/Enron on 12/11/2000 
+07:06 AM ---------------------------
+From: Jeremy Blachman@EES on 12/10/2000 07:21 AM
+To: Michael Tribolet/Corp/Enron@Enron
+cc:  
+
+Subject: Default rates
+
+Thanks. I would STRONGLY  suggest an offsite sooner than later with a handful 
+of the right people so that we can step back and design the right 
+architecture for looking at credit in our deals. It is broken, not clear, 
+killing our velocity and true capabilities. We also need to look at staffing, 
+skills sets, the credit reserve model etc. Perhaps you should take a crack at 
+an agenda.
+---------------------- Forwarded by Jeremy Blachman/HOU/EES on 12/10/2000 
+07:08 AM ---------------------------
+
+
+Michael Tribolet@ENRON
+12/09/2000 03:51 PM
+To: Jeremy Blachman/HOU/EES@EES
+cc:  
+Subject: Default rates
+
+I visited with Vince Kaminski for about 20 minutes today regarding the market 
+implied defaults rates  and the disconnect in investment grade land.  He is 
+seeing the same anomaly and agreed that we as a company need to revisit the 
+methodology employed in calculating the implied figures.     I will follow 
+through and report back.
+
+
+
+
+
+
+
+
+

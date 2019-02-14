@@ -1,0 +1,47 @@
+Return-Path: <wjibswstqbqagHRmxc@dkjv.net>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 31862 invoked from network); 09 Jul 2005 15:41:06 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 09 Jul 2005 15:41:06 -0000
+Received: (qmail 28404 invoked from network); 9 Jul 2005 15:41:06 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx08.futurequest.net ([69.5.6.180])
+  with QMQP via TCP; 09 Jul 2005 15:41:06 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 31856 invoked from network); 09 Jul 2005 15:41:06 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 09 Jul 2005 15:41:06 -0000
+Received: (qmail 28396 invoked from network); 9 Jul 2005 15:41:06 -0000
+Received: from 201008253115.user.veloxzone.com.br (201008253115.user.veloxzone.com.br [201.8.253.115])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 09 Jul 2005 15:41:03 -0000
+Received: from Wyatt.astringent.org (HELO Wyatt.cl [Wyatt.com])
+        by ethelred.inscribe.Wyatt.cl (Mostfix) with XSMTP id 9D22D87E05 
+        for <awjibswstqbqagHRmxc@dkjv.net>; Sat, 09 Jul 2005 10:31:53 -0600
+Message-ID: <Wyatt.GA13691Gerald22Holcomb@citizensfsb.com>
+Date: Sat, 09 Jul 2005 13:35:53 -0300
+From: "Toni Tipton" <Gerald22Holcomb@citizensfsb.com>
+To: webmaster@ezmlm.org
+Subject: Payment confirmation P48539 cale
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+Thank you for your loan request, which we recieved on 6/21/05.<br>
+We would like to inform you that we are accepting your application with a low rate of 3.05%.<p>
+
+Please visit the confirmation link below and fill-out our short 30 second form.<p>
+
+<a href="http://www.yourvalueloan.com/i/LzEvaW5kZXgvamVlenkvNHhhb3lyNXJmaTlzODJl">http://www.yourvalueloan.com/i/LzEvaW5kZXgvamVlenkvNHhhb3lyNXJmaTlzODJl</a><p>
+---------------------------------<br>
+Please visit www.yourvalueloan.com/rem.php for email removal<br>
+
+Please allow up to one week for complete email removal.</html>
+
+
+
+

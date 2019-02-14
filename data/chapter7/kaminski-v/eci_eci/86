@@ -1,0 +1,152 @@
+Message-ID: <22887796.1075857042907.JavaMail.evans@thyme>
+Date: Tue, 14 Mar 2000 21:54:00 -0800 (PST)
+From: storage@bdcimail.com
+To: vkamins@enron.com
+Subject: The lure of the SAN
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "NW on Storage in the Enterprise" <Storage@bdcimail.com>
+X-To: <vkamins@enron.com>
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+NETWORK WORLD FUSION FOCUS: AMY LARSEN DeCARLO
+on STORAGE IN THE ENTERPRISE
+Today's Focus: The lure of the SAN
+03/14/00
+
+Dear Wincenty Kaminski,
+
+Today's Focus: The lure of the SAN
+---------------------------------------------------------------
+By Amy Larsen DeCarlo
+
+E-business is changing how businesses value information. Information
+has become a strategic asset that gives companies an edge over their
+market rivals. Companies use intelligence to identify new markets and
+make contact with prospective customers. In this media-saturated era,
+information itself is packaged and sold as a product. This makes the
+ability to supply users with fast access to stored information on a
+continuous basis absolutely crucial.
+
+Companies are clearly coming to a crossroads in their storage
+implementations.  With estimates for Internet storage capacity needs
+doubling every three months, IT professionals are hungry for a scalable
+solution to help them consolidate control of stored information. They
+often look to storage-area networks (SAN) as a better option to manage
+their information storage systems than distributed models.
+
+Today, most organizations rely on a distributed storage model that uses
+file servers to process I/O requests from end users and other
+application servers. In this model, all requests for data go through
+the file server that owns the attached storage disks, and only one file
+server can tap data on a particular disk via a SCSI bus.
+
+This model has several shortcomings.  First, the amount of data a
+server can access is restricted to the number of disks supported by the
+bus, which limits the capacity of a single file server.  Second, because
+the server processes each I/O request, it risks becoming a bottleneck.
+Third, this server model carries some daunting availability limitations,
+because only one file server is allowed to access a set of disks.  If
+that file server or any of its SCSI connections fails, then users and
+other application servers lose access to the stored files.
+
+This model carries other major disadvantages.  Distributed file servers
+rely on the data transport network to run backup and recovery operations
+which can eat up bandwidth and slow normal network transmissions to a
+crawl.  Finally, this decentralized setup is difficult to manage from
+both a logical and a physical perspective.  File server based storage
+systems are distributed throughout the enterprise, so it is often
+difficult to assess current and future capacity needs.  And because
+these servers use a parallel cabling scheme to link the file server to
+the disk array, they can also be cumbersome to set up and manage.
+
+SANs promise to mitigate the problems that plague conventional file
+servers, largely through consolidation of control.  These specialized
+storage networks claim higher availability, faster performance,
+centralized management, and by their architecture, the capability to
+remove bandwidth-intensive data backup and recovery operations from the
+LAN. This frees up the LAN for normal data communications and ensures
+smoother back-up operations.
+
+Using high-speed transports like Fibre Channel, SANs offer a high-
+performance network optimized for moving storage data. SANs also make
+way for new storage implementations like LAN-free backup. And, because
+Fibre Channel can support distances of up to 10 kilometers, SAN devices
+can be widely distributed, but also centrally managed as one network.
+
+Yet, as was the case with LANs in their younger years, SANs are still
+developing. Vendors are still working out major product interoperability
+issues, while companies deploying SAN technology struggle with how to
+merge the very different worlds of storage and networks and manage both
+together. Ultimately the hope is that, like LANs, SANs will develop into
+a mature and highly manageable solution that supplies substantial
+benefits at lower costs.
+
+Given that storage deployment and ongoing support costs can total 10
+times the acquisition price for the equipment, the consolidated
+management capabilities of a SAN may deliver the biggest benefit to
+business.
+
+To contact Amy Larsen DeCarlo:
+------------------------------
+Amy Larsen DeCarlo is an analyst with Enterprise Management Associates
+in Boulder, Colo., (http://www.enterprisemanagement.com), a leading
+analyst and market research firm focusing exclusively on all aspects of
+enterprise management. She focuses on storage management, application
+management, and security. In her position, she oversees market research
+and contributes to custom project work in her focal coverage areas.
+Prior to joining EMA, Amy spent five years covering enterprise
+management for industry trade magazines, including InformationWeek and
+Data Communications. She can be reached at
+mailto:decarlo@enterprisemanagement.com
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FOR RELATED LINKS -- Click here for Network World's home page:
+http://www.nwfusion.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Storage Networking Industry Association (SNIA):
+http://www.snia.org
+
+Fibre Channel Industry Association (FCIA):
+http://www.fibrechannel.com
+
+SCSI Trade Association (STA)
+http://www.scsita.org
+
+
+Other storage-related articles from Network World:
+
+Legato primes storage resource mgmt, Network World, 03/13/00
+http://www.nwfusion.com/archive/2000/89776_03-13-2000.html
+
+*********************************************************
+Subscription Services
+
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+http://www.nwwsubscribe.com/news/scripts/notprinteditnews.asp
+
+To change your email address, go to:
+http://www.nwwsubscribe.com/news/scripts/changeemail.asp
+
+Subscription questions? Contact Customer Service by replying to this
+message.
+
+Other Questions/Comments
+
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+mailto:jcaruso@nww.com
+
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+http://www.idg.com
+
+Copyright Network World, Inc., 2000

@@ -1,0 +1,40 @@
+Return-Path: <north@cronbir.biz>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 20190 invoked by uid 115); 14 May 2005 07:44:35 -0000
+Received: from north@cronbir.biz by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(62.110.190.151):. 
+ Processed in 0.114313 secs); 14 May 2005 07:44:35 -0000
+Received: from host151-190.pool62110.interbusiness.it (62.110.190.151)
+  by churchill.factcomp.com with SMTP; 14 May 2005 07:44:33 -0000
+Received: from .striker.cl ([57.153.160.69] helo=mail.ucc.org)
+	by smtp8.esmp.cl with esmtp 
+	id 4ATR0f-2551aJ-00; Sat, 14 May 2005 13:52:20 -0700
+Message-Id: <1852212141.AA04184@atlas.chemistry.uakron.edu>
+Date: Sat, 14 May 2005 21:57:20 +0100
+From: "Lenders Compete" <north@cronbir.biz>
+To: lv@em.ca
+Subject:  pr?
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<HTML>
+<HEAD>
+<TITLE>Monday</TITLE>
+</HEAD>
+<BODY>
+<DIV>Hi, 
+<P>Lowest Mortgage Any where!</P>
+<P>~ No Fees ~<BR>~ No Obligations ~<BR>~ No Commitments ~<BR><BR>How does 2.5% 
+sound to you?</P>
+<P><A 
+href="http://www.mort-vivahome.com/homes.asp">http://www.mort-vivahome.com/homes.asp</A><BR></P>
+<P class=MsoNormal style="MARGIN: 0in 0in 0pt">Now&nbsp;fill this short 
+application&nbsp;in order to let 6000 lenders <BR>study your request, and we 
+will get back to you within <BR>next 24 hours with quotations that meets your 
+requirements.</P>
+<P><BR>-[Page may take 25 seconds to load, Kindly Wait until fully loaded]-</P>
+</BODY>
+</HTML>
+

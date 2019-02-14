@@ -1,0 +1,20 @@
+Message-ID: <24895774.1075840824718.JavaMail.evans@thyme>
+Date: Thu, 25 Oct 2001 11:11:10 -0700 (PDT)
+From: jay.webb@enron.com
+To: louise.kitchen@enron.com, andy.zipper@enron.com
+Subject: positions spreadsheet -update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JWEBB>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Azipper>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+I've expanded the counterparty list to all those that typically do more than 50 trades per day.  Additionally, liquid power products have been added in.  One final note:  on the previous spreadsheet, the position under a particular column indicated the starting position for that day rather than the ending position for that day.  In this version, each number represents the end-of-day position for the given date.  Effectively, all the numbers slide over 1 column.
+
+--jay
+
+ 

@@ -1,0 +1,30 @@
+Message-ID: <26952334.1075863308862.JavaMail.evans@thyme>
+Date: Mon, 23 Jul 2001 15:13:49 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+We have entered into another lending agreement with El Paso for Tuesday, 7/24. I've entered deals to show this in our system as a purchase from El Paso at $4 (fee for lending - to be changed if we end up actually purchasing from El Paso) and a sale to STSW. This is a 25 mw on peak schedule (tag entered by Lisa Gang) to be delivered at Palo Verde. We need to send 25 mws (zero price) to EPE real-time at PV to fulfil our part of the agreement. Following are the terms of these deals:
+
+697528 - STWBOM buys EPE
+	 HLH @ PV
+	 25 mw @ $4
+	 (This price represents El Paso's fee for lending)
+
+697536 - STWBOM sells STSW
+	 HLH @ PV
+	 25 mw @ $68
+
+Let me know if you have any questions.
+
+Thanks,
+Kate

@@ -1,0 +1,81 @@
+Message-ID: <2013909.1075856607840.JavaMail.evans@thyme>
+Date: Mon, 23 Oct 2000 10:06:00 -0700 (PDT)
+From: leslie.abreo@kalotay.com
+To: roger.g.leworthy@enron.com, ron.baker@enron.com
+Subject: Hedge Effectiveness Test for Fair Value Hedges
+Cc: vkamins@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkamins@enron.com
+X-From: "Leslie Abreo" <leslie.abreo@kalotay.com>
+X-To: "Roger Leworthy" <roger.g.leworthy@enron.com>, "Ron Baker" <ron.baker@enron.com>
+X-cc: "Vincent Kaminski" <vkamins@enron.com>
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Gentlemen:
+
+We have had favorable responses regarding the use of our Volatility
+Reduction Method (Roger, I've attached a copy of our article in case you
+hadn't seen it).  However, there continued to be a quibble about how to
+create the set of data points that would be inputs into the testing process.
+
+Last week the consulting arm of a "Big Five" accounting firm indicated that
+the following method proposed by us would be acceptable.  We believe this
+method overcomes the statistical problems that arise from using interest
+rate differences from overlapping ("rolling") quarters.
+
+Method:
+
+1)Calculate daily yield curve changes expressed as ratios, using historical
+rates from the most recent, say, two years. (Note: no overlap).  This
+results in a set of around 494 vectors of ratios (approximately 247 trading
+days per
+year).
+
+Example:
+If the first three yield curves in the historical set look like this:
+19980801   6.5  6.6  6.7  .........  7.2
+19980802   6.3  6.3  6.6  .........  6.9
+19980803   6.6  6.8  6.9  .........  7.1
+
+Then the change from 8/1/98 to 8/2/98 is:
+6.3/6.5   6.3/6.6   6.6/6.7 .......... 6.9/7.1
+
+And the change from 8/2/98 to 8/3/98 is:
+6.6/6.3  6.8/6.3  6.9/6.6  ......... 7.1/6.9
+
+2)Randomly select 62 of these "ratio" vectors (approx. 62 trading days in a
+quarter).
+
+3)Multiply these ratio vectors together to get a single vector (ie, the 62
+6mo ratios are multiplied together, the 62 1yr ratios are multiplied
+togeter, etc.).  The result represents a single quarterly yield curve
+transformation.  Apply it to "today's" yield curve.  The resulting yield
+curve represents one simulated quarterly change in interest rates
+
+4)Repeat steps 2 and 3 until an adequate number of yield curves are
+generated, say 100.
+
+5) Proceed with testing process.
+
+
+I would be interested in your comments.
+
+
+Leslie Abreo
+Andrew Kalotay Associates, Inc.
+61 Broadway, Ste 3025
+New York NY 10006
+Phone: (212) 482 0900
+Fax: (212) 482 0529
+email: leslie.abreo@kalotay.com
+
+Visit AKA's website at http://www.kalotay.com
+
+
+
+
+ - FAS133 article.pdf

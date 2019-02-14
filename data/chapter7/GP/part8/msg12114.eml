@@ -1,0 +1,164 @@
+From: "Mail Delivery Subsystem" <MAILER-DAEMON>
+To: <paliourg@iit.demokritos.gr>
+Subject: Warning: could not send message for past 4 hours
+Date: Tue, 12 Apr 2005 15:03:28 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_3113_01C5B2FD.551867E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_3113_01C5B2FD.551867E0
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-7">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7036.0">
+<TITLE>Warning: could not send message for past 4 hours</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>&nbsp;&nbsp;&nbsp; =
+**********************************************<BR>
+&nbsp;&nbsp;&nbsp; **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THIS IS A WARNING =
+MESSAGE ONLY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<BR>
+&nbsp;&nbsp;&nbsp; **&nbsp; YOU DO NOT NEED TO RESEND YOUR MESSAGE&nbsp; =
+**<BR>
+&nbsp;&nbsp;&nbsp; **********************************************<BR>
+<BR>
+The original message was received at Tue, 12 Apr 2005 10:54:50 +0300 =
+(EEST)<BR>
+from skel-users.iit.demokritos.gr [143.233.227.207]<BR>
+<BR>
+&nbsp;&nbsp; ----- The following addresses had transient non-fatal =
+errors -----<BR>
+&lt;yasu@bio.keio.ac.jp&gt;<BR>
+<BR>
+&nbsp;&nbsp; ----- Transcript of session follows -----<BR>
+451 bio.keio.ac.jp: Name server timeout<BR>
+Warning: message still undelivered after 4 hours<BR>
+Will keep trying until message is 5 days old<BR>
+</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_000_3113_01C5B2FD.551867E0
+Content-Type: text/plain;
+	name="details.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="details.txt"
+
+Reporting-MTA: dns; iit.demokritos.gr
+Arrival-Date: Tue, 12 Apr 2005 10:54:50 +0300 (EEST)
+
+Final-Recipient: RFC822; yasu@bio.keio.ac.jp
+Action: delayed
+Status: 4.4.3
+Last-Attempt-Date: Tue, 12 Apr 2005 15:03:28 +0300 (EEST)
+Will-Retry-Until: Sun, 17 Apr 2005 10:54:50 +0300 (EEST)
+
+------=_NextPart_000_3113_01C5B2FD.551867E0
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment
+
+From: "George Paliouras" <paliourg@iit.demokritos.gr>
+To: "Yasubumi Sakakibara" <yasu@bio.keio.ac.jp>
+Cc: "Me" <paliourg@iit.demokritos.gr>
+Subject: Re: [Fwd: Re: Special issue in the machine learning journal]
+Date: Tue, 12 Apr 2005 11:14:31 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7036.0">
+<TITLE>Re: [Fwd: Re: Special issue in the machine learning =
+journal]</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Dear Yasu,<BR>
+<BR>
+It's not as bad as it sounded in your previous email.<BR>
+Could you please send a reminder to everyone who has not replied?<BR>
+<BR>
+Best wishes,<BR>
+<BR>
+George<BR>
+<BR>
+Yasubumi Sakakibara wrote:<BR>
+<BR>
+&gt; Dear George,<BR>
+&gt;<BR>
+&gt;<BR>
+&gt;&gt;Before I do that, I would like your opinion on whether there is =
+indeed a<BR>
+&gt;&gt;connection between the two papers. If we are talking about two =
+completely<BR>
+&gt;&gt;disconnected pieces of work, the question does not make =
+sense.<BR>
+&gt;<BR>
+&gt;<BR>
+&gt; For this question, I will answer tomorrow after re-reading the =
+proceedings.<BR>
+&gt;<BR>
+&gt;<BR>
+&gt;&gt;Could you produce a list of the replies that we are missing and =
+the ones that<BR>
+&gt;&gt;have a problem (mentioning also what the problem is)?<BR>
+&gt;<BR>
+&gt;<BR>
+&gt; Here is the list of current status:<BR>
+&gt;<BR>
+&gt; Hendrik Blockeel : conditionally accept (tree automata?)<BR>
+&gt; Vasant Honavar : accept<BR>
+&gt; C. Lee Giles : NO REPLY<BR>
+&gt; Stan Matwin : REJECT<BR>
+&gt; Michele Sebag : accept<BR>
+&gt;<BR>
+&gt; Henning Fernau : accept<BR>
+&gt; Menno van Zaanen : NO REPLY<BR>
+&gt; Laurent Miclet : NO REPLY<BR>
+&gt; Tim Oates : accept<BR>
+&gt; Jose Oncina Carratala : accept<BR>
+&gt; Rajesh Parekh : NO REPLY<BR>
+&gt; Lenny Pitt : NO REPLY<BR>
+&gt; Arun Sharma : NO REPLY<BR>
+&gt; Etsuji Tomita : NO REPLY<BR>
+&gt; Takashi Yokomori : NO REPLY<BR>
+&gt;<BR>
+&gt;<BR>
+&gt; Yasu<BR>
+&gt;<BR>
+&gt;<BR>
+&gt;<BR>
+<BR>
+</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_000_3113_01C5B2FD.551867E0--

@@ -1,0 +1,54 @@
+Message-ID: <27150117.1075840784840.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 08:46:00 -0700 (PDT)
+From: mike.roberts@enron.com
+To: vince.kaminski@enron.com
+Subject: London Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mike A Roberts <Mike A Roberts/HOU/ECT@ECT>
+X-To: Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+	
+
+Vince,
+
+more fuel for our discussion with John Sheriff today,
+
+Mike
+---------------------- Forwarded by Mike A Roberts/HOU/ECT on 04/25/2001 05:44 AM ---------------------------
+   
+
+	Enron North America Corp.  From:  Stephen Bennett @ ENRON                           04/25/2001 04:05 AM	
+		
+
+
+To:	Jose Marquez/Corp/Enron@ENRON, Mike A Roberts/HOU/ECT
+cc:	Tony Hamilton/EU/Enron@Enron 
+Subject:	Softs (Ag) Support
+
+Hi Guys,
+
+I thought I would quickly update you on a few meetings we've had with the ag folks here over the past 2 days.  They are extremely interested in weather support and appear to be our most enthusiastic customer group to date.  A summary:
+
+1) They are interested in Cocoa, Coffee and Sugar.  Specifically:
+	Brazil:  Londrina, Bauru, Lavras   (All WMOs available in Accuweather)
+	Vietnam:  Kentum, Dalat (No data immediately evident)
+	Ivory Coast:  Man, Gagnoa (WMOs in Accuwx)
+	Indonesia:  Sumatra-Kotubumi, Sulawesi-Dolo (No data immediately evident)
+
+2) They are specifically interested in event spikes - extreme temperature, precipitation or wind.  They are also interested in any trend information we can devise.  Links between ENSO or other large scale oscillations that could have long range effects.  Tony has already given their group a 101 course on ENSO and its impacts on these areas.
+
+3) They would eventually like daily AM briefings - along with a daily product related to their market (ie precip/temp graphs etc)
+
+4) They do not begin actually trading for another 6 to 8 weeks - so we have some time to experiment with the type of support that fits them best.
+
+Tony and I agree that we would like to brainstorm this a bit with you guys to see what exactly can be produced daily - as efficiently as possible.  We should be able to add any lat/long points we want to the list of international cities streaming through from the MRF/AVN/ECMWF from EarthSat.  The problems here would be the models' problems handling tropical weather along with specific local effects - especially in Indonesia.
+
+Let's talk about this at some point and get our thoughts together.
+
+Steve

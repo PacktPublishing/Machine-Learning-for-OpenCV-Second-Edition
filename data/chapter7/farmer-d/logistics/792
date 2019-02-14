@@ -1,0 +1,118 @@
+Message-ID: <27303925.1075854123995.JavaMail.evans@thyme>
+Date: Mon, 14 Feb 2000 10:51:00 -0800 (PST)
+From: charlotte.hawkins@enron.com
+To: daren.farmer@enron.com
+Subject: Re: Sale to Shoreline
+Cc: stella.morris@enron.com, pat.clynes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stella.morris@enron.com, pat.clynes@enron.com
+X-From: Charlotte Hawkins
+X-To: Daren J Farmer
+X-cc: Stella L Morris, Pat Clynes
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Daren you are correct in that this was only in MOPS for the 26th.  It was 
+edi'd over to POPS from the 25th through the 31st populating all days with 
+the 16,700 nom.  The nom was never -0- out in POPS therefore the change 
+notification process in POPS did not pick up a change at this meter.  This 
+meter is pathed by Kim and confirmed by me - it is extremely odd that this 
+was missed in MOPS.  The record would have been out of balance and someone, 
+if not several people, normally would make a comment on this.   Also  -  all 
+of my records indicate that the 16,700 was good through the 31st except the 
+MOPS entry.  My confirmations with Koch didn't reflect the -0- ;  the last 
+report I have from Koch indicated the 16,700 stayed on, there was no record 
+of a phone call indicating anything other than 16,700.  It is very odd for 
+this many checks and balances to fail.  Also, the volumes were being sent 
+back to MOPS which no one caught.   
+
+I have spoken with Koch today and they agree that the 16,700 should have gone 
+to -0- therefore I have removed the nom from POPS confirmed volumes and 
+re-allocated the meter.  The OBA has taken the hit and I am working off the 
+imbalance now.
+
+Daren, I am sorry that you had to look into this when you feel this is my 
+responsibility.  Stella was trying to help me out in clearing up errors 
+because I was buried in current activity, thus the e-mail to you asking for 
+your help.  
+
+If this doesn't answer all the questions, just give me a call.
+
+Thanks,
+
+Charlotte
+
+
+
+
+
+Daren J Farmer
+02/14/2000 12:50 PM
+To: Stella L Morris/HOU/ECT@ECT, Charlotte Hawkins/HOU/ECT@ECT
+cc: Pat Clynes/Corp/Enron@ENRON 
+Subject: Re: Sale to Shoreline  
+
+Stella and Charlotte, 
+
+I looked into this deal.  We sold this gas for one day only.  In MOPS, the 
+path was nominated for 1/26 only.  However, in POPS the path was nominated 
+and confirmed for 1/26-1/31.  This should have been showing up as a 
+bridgeback error during the month.  Also, someone should have identified that 
+the path/nom in MOPS wasn't the same as the nom in POPS.  This discrepancy 
+should have been found before we closed out January.
+
+I researched this problem by reviewing both systems (looking at the path id 
+in POPS, finding it in MOPS, and checking the audit on the path in MOPS).  
+This type of issue should be researched and solved by the logistics group, 
+who has all the necessary tools to find the problem.  The resolution, not the 
+problem, should have been presented to myself or the marketer, with an 
+explanation of what happened.  Some one still needs to find out how the gas 
+was confirmed for the 27th-31st.
+
+Since the gas apparently flowed, we will have to apply the overflow to the 
+OBA.  Unless you can find a missing transport contract.
+
+D
+
+
+   
+	
+	
+	From:  Stella L Morris                           02/10/2000 02:26 PM
+	
+
+To: Daren J Farmer/HOU/ECT@ECT
+cc: Charlotte Hawkins/HOU/ECT@ECT 
+Subject: Sale to Shoreline
+
+FYI
+---------------------- Forwarded by Stella L Morris/HOU/ECT on 02/10/2000 
+02:25 PM ---------------------------
+   
+	
+	
+	From:  Sherlyn Schumack                           02/10/2000 02:21 PM
+	
+
+To: Joanie H Ngo/HOU/ECT@ECT, Katherine Herrera/Corp/Enron@ENRON
+cc: Stella L Morris/HOU/ECT@ECT 
+Subject: Sale to Shoreline
+
+Joanie,
+
+Logistics is waiting to hear from Daren on this issue.  He will either need 
+to extend the deal or maybe there should be another deal in place.   This 
+deal 155118 is valid on 1/26/00 only, but the rest of the volume you are 
+looking for is scheduled on days 1/27 - 1/31.    I am sure there is no 
+pricing on those days.  
+
+I will let you know as soon as I hear from them.
+
+
+
+
+
+

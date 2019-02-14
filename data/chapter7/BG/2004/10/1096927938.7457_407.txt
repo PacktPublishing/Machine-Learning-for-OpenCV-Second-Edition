@@ -1,0 +1,46 @@
+Return-Path: <cecil_haley_cl@optinet.de>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 14244 invoked by uid 115); 1 Oct 2004 18:25:33 -0000
+Received: from cecil_haley_cl@optinet.de by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(221.234.48.47):. 
+ Processed in 1.097389 secs); 01 Oct 2004 18:25:33 -0000
+Received: from unknown (HELO ccsg.tau.ac.il) (221.234.48.47)
+  by churchill.factcomp.com with SMTP; 1 Oct 2004 18:25:31 -0000
+MIME-Version: 1.0
+Date: Fri, 01 Oct 2004 18:20:38 +0000
+Message-ID: <415D9FF6.2C2F57F5@optinet.de>
+Subject: =?ISO-8859-1?b?TmVlZCBoZWxwIHBheWluZyB5b3VyIG1vcnRnKWFnZT8=?=
+User-Agent: Mozilla/5.001 (windows; U; NT4.0; en-us) Gecko/25250101
+From: "Cecil Haley" <cecil_haley_cl@optinet.de>
+To: bruceg@em.ca
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+<div align="center">
+  <center><!--jbexhDJckl2HFT7-->
+    <table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="256">
+        <a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+	<img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c1.gif" width="256" height="82" border="0"></a></td>
+        <td width="125"><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c2.gif" width="166" height="82" border="0"></a></td>
+        <td width="219" rowspan="2"><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r1_c3.gif" width="178" height="283" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c1.gif" width="256" height="201" border="0"></a></td>
+        <td><a href="http://www.infostead.biz/green/index.php?affiliateid=m8">
+        <img src="http://images.peevol89.us/images/lowrefinancerates_new_r2_c2.gif" width="166" height="201" border="0"></a></td>
+      </tr>
+      <tr bgcolor="#990000">
+        <td colspan="3"></td>
+      </tr>
+    </table>
+</body>
+</html>
+

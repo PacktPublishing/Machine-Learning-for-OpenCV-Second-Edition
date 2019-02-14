@@ -1,0 +1,218 @@
+Return-Path: <info@smallcompanies.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 22694 invoked by uid 115); 13 Oct 2004 06:01:46 -0000
+Received: from info@smallcompanies.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.155.127.63):. 
+ Processed in 0.062991 secs); 13 Oct 2004 06:01:46 -0000
+Received: from via-smtp3.imconline.net (66.155.127.63)
+  by churchill.factcomp.com with SMTP; 13 Oct 2004 06:01:45 -0000
+Received: from ded-174.customer.vdshosting.net ([66.155.120.128]) by via-smtp3.imconline.net with Microsoft SMTPSVC(5.0.2195.6713);
+	 Wed, 13 Oct 2004 01:53:31 -0400
+From: "Smallcompanies.com" <info@smallcompanies.com>
+To: bruceg@em.ca
+Reply-To: info@smallcompanies.com
+Subject: Cecil County Networking Lunch
+Date: Wed, 13 Oct 2004 01:57:42 -0400
+MIME-Version: 1.0
+Content-Type: text/html
+Return-Path: info@smallcompanies.com
+Message-ID: <VIA-SMTP3Q0Mn9IIPBS0002b4e6@via-smtp3.imconline.net>
+X-OriginalArrivalTime: 13 Oct 2004 05:53:31.0114 (UTC) FILETIME=[F7E5A4A0:01C4B0E8]
+
+<html><body><IMG SRC="http://www.smallcompanies.com/mailbody/logo.jpg"> <BR> <html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="cecil%20fax_files/filelist.xml">
+<title>     Networking Lunch</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="time"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Jay Updike</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Jay Updike</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>20</o:TotalTime>
+  <o:LastPrinted>2004-09-16T02:56:00Z</o:LastPrinted>
+  <o:Created>2004-10-08T11:52:00Z</o:Created>
+  <o:LastSaved>2004-10-08T11:52:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>116</o:Words>
+  <o:Characters>662</o:Characters>
+  <o:Company>SmallCompanies.com, Inc.</o:Company>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>777</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:SimSun;
+	mso-fareast-language:ZH-CN;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:36.0pt'><span style='mso-spacerun:yes'>   </span><span
+style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'>  </span>Networking Lunch<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:36.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><span style='mso-spacerun:yes'>  </span></span></b><st1:place><b
+ style='mso-bidi-font-weight:normal'><span style='font-size:22.0pt'>Chesapeake
+ Bay</span></b></st1:place><b style='mso-bidi-font-weight:normal'><span
+style='font-size:22.0pt'> Golf Club in North East<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><span style='mso-spacerun:yes'>   </span><span
+style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'>        </span>Wednesday, October 20<sup>th</sup> <o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><span style='mso-spacerun:yes'>                   
+</span><span style='mso-spacerun:yes'>  </span><span
+style='mso-spacerun:yes'>    </span></span></b><st1:time Minute="15" Hour="11"><b
+ style='mso-bidi-font-weight:normal'><span style='font-size:24.0pt'>11:15 am</span></b></st1:time><b
+style='mso-bidi-font-weight:normal'><span style='font-size:24.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:24.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt'>SmallCompanies.com in conjunction with Michael Garrity
+of College Funding Services will be hosting a Networking Lunch on Wednesday,
+October 20<sup>th</sup> at </span></b><st1:time Hour="11" Minute="15"><b
+ style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'>11:15 am</span></b></st1:time><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'> at The </span></b><st1:place><b
+ style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'>Chesapeake
+ Bay</span></b></st1:place><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt'> Golf Club in North East. This lunch is for anyone
+doing business in </span></b><st1:place><st1:PlaceName><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:14.0pt'>Cecil</span></b></st1:PlaceName><b
+ style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'> </span></b><st1:PlaceName><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'>County</span></b></st1:PlaceName></st1:place><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt'> and the
+surrounding area. Please feel free to invite friends. These lunches are held
+monthly and we offer anyone looking to network in the area a chance to
+co-sponsor these lunches. <span style='mso-spacerun:yes'> </span>These are FREE
+to anyone participating. Please email us to confirm your reservation at this
+month's lunch at <a href="mailto:CecilLunch@smallcompanies.com">CecilLunch@smallcompanies.com</a>.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>
+<br><font size=2><center>SmallCompanies.com will advertise our marketing opportunities and event schedule via email.<br>If you are not interested in receiving these emails, you are able to opt-out of our mailing list by simply clicking on the unsubscribe link <a href="http://www.smallcompanies.com/html/unsubscribe.asp">click here</a><br><br>If the above link is not live in your email, please copy and paste the following url onto your browser address textbox to unsubscribe - http://www.smallcompanies.com/html/unsubscribe.asp.<br><br>Smallcompanies.com<br>P.O. Box 901<br>Columbia, MD 21044<br>Phone: 410-638-5083<br>Fax: 410-638-5084<br></center></font></body></html>

@@ -1,0 +1,43 @@
+Message-ID: <10331964.1075863302566.JavaMail.evans@thyme>
+Date: Fri, 10 Aug 2001 12:37:36 -0700 (PDT)
+From: gford@caiso.com
+To: tswg@caiso.com, adsprojectii@caiso.com
+Subject: ADS Issue:  separation of OOM and OOS
+Cc: rahman@enron.com, brahman@caiso.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rahman@enron.com, brahman@caiso.com
+X-From: Ford, Greg <GFord@caiso.com>
+X-To: TSWG <TSWG@caiso.com>, ADS-Project II <ADSProjectII@caiso.com>
+X-cc: Rahman, Brian <BRahman@caiso.com>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+ADS users:
+
+I have received numerous comments from TSWG regarding concerns about the
+planned implementation of the same service type for OOS and OOM type
+dispatches in ADS phase II .   Market Operations' current position is that
+the Market Participants have all the information they need to decode OOS and
+OOM, such as what has been bid, what has been dispatched, what proxy bids
+have been created based on available capacity, etc.  However, we will
+consider a change to separate the OOS and OOM dispatches.  In order to fully
+weigh the ramifications of this decision, I want to solicit
+examples/scenarios where Market Participant systems would not be able to
+correctly settle against a combined OOS/OOM dispatch through ADS.
+
+If you are interested in this issue, please strengthen your case by sending
+me an email with comments by 8/16/01.  I would especially like to see
+comments regarding how must-offer fits in, including issues with proxy bids
+and whether OOM will apply to must offer units.
+
+Thanks,
+
+Greg Ford
+California ISO
+Market Operations
+(916) 351-2344
+gford@caiso.com
+

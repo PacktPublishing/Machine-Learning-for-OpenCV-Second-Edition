@@ -1,0 +1,25 @@
+Message-ID: <16862777.1075844098733.JavaMail.evans@thyme>
+Date: Thu, 20 Jul 2000 09:02:00 -0700 (PDT)
+From: richard.abramowicz@enron.com
+To: toby.kuehl@enron.com, christine.stokes@enron.com, 
+	lorraine.lindberg@enron.com, jeffery.fawcett@enron.com, 
+	michelle.lokay@enron.com, tk.lohman@enron.com, 
+	steven.harris@enron.com, kevin.hyatt@enron.com, 
+	girish.kaimal@enron.com, lisa.sawyer@enron.com, 
+	julia.white@enron.com, sheila.nacey@enron.com, steve.hotte@enron.com
+Subject: Updated: Interactive Open Season Ready For Testing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Richard Abramowicz
+X-To: Toby Kuehl, Christine Stokes, Lorraine Lindberg, Jeffery Fawcett, Michelle Lokay, TK Lohman, Steven Harris, Kevin Hyatt, Girish Kaimal, Lisa Sawyer, Julia White, Sheila Nacey, Steve Hotte
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+We have moved another change into production where any bid equal to over the 
+max rate will be valued using a 0% throughput commitment.  This way, any one 
+part and two part bid over max rate will be evaluated in the same manner.  
+This also means that when a user checks the max rate button, a 0% throughput 
+commitment will be assumed.

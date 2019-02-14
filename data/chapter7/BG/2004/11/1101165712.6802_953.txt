@@ -1,0 +1,53 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-malactic@em.ca
+Received: (qmail 16942 invoked by uid 115); 20 Nov 2004 11:40:18 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(213.13.230.10):. 
+ Processed in 0.31306 secs); 20 Nov 2004 11:40:18 -0000
+Received: from unknown (HELO heartandsoul.pt) (213.13.230.10)
+  by churchill.factcomp.com with SMTP; 20 Nov 2004 11:40:13 -0000
+Date: Fri, 19 Nov 2004 19:17:50 +0000 (Hora padrão de GMT)
+From: [news] Heart & Soul <news@heartandsoul.pt>
+To: bait-malactic@em.ca
+Message-ID: 38310.804039351853_23479405925160
+Subject: 30th November TONY HUMPHRIES @ HIT Club
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Untitled Document</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<STYLE type=text/css>
+<!--
+body,td,th {
+	color: #FFFFFF;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+-->
+</STYLE>
+
+<META content="MSHTML 6.00.2900.2523" name=GENERATOR></HEAD>
+<BODY><B>
+<DIV align=center><A href="http://www.hitclub.pt/toni.htm"><IMG 
+src="http://www.hitclub.pt/tony_blinds.jpg" border=0></A></DIV></BODY></HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

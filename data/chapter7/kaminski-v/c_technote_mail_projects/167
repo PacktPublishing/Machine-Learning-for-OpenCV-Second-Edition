@@ -1,0 +1,27 @@
+Message-ID: <14625950.1075856590337.JavaMail.evans@thyme>
+Date: Thu, 28 Dec 2000 03:42:00 -0800 (PST)
+From: stinson.gibner@enron.com
+To: ted.murphy@enron.com
+Subject: WTI - New EOL Product
+Cc: rick.buy@enron.com, vince.kaminski@enron.com, rudi.zipter@enron.com, 
+	david.port@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rick.buy@enron.com, vince.kaminski@enron.com, rudi.zipter@enron.com, 
+	david.port@enron.com
+X-From: Stinson Gibner
+X-To: Ted Murphy
+X-cc: Rick Buy, Vince J Kaminski, Rudi Zipter, David Port
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Ted,
+
+Enclosed is a corrected version of the historical simulation of WTI 
+trading.    The earlier results were double counting the spread profit on 
+trades closed intra-day.   The spread was counted on each trade rather than 
+per round-trip transaction, so the new results show lower profitability.  
+
+--Stinson

@@ -1,0 +1,74 @@
+Received: from mail.propertyminder.com (66.206.163.83)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:54 -0000
+Received: from localhost (localhost)
+	by mail.propertyminder.com (8.12.8/8.12.8) id j6JAvrQE005062;
+	Tue, 19 Jul 2005 03:57:53 -0700
+Date: Tue, 19 Jul 2005 03:57:53 -0700
+From: Mail Delivery Subsystem <MAILER-DAEMON@mail.propertyminder.com>
+Message-Id: <200507191057.j6JAvrQE005062@mail.propertyminder.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAvrQE005062.1121770673/mail.propertyminder.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAvrQE005062.1121770673/mail.propertyminder.com
+
+The original message was received at Tue, 19 Jul 2005 03:57:51 -0700
+from [222.217.202.51]
+
+   ----- The following addresses had permanent fatal errors -----
+<info@mrrealestateman.com>
+    (reason: 550-Mailbox unknown.  Either there is no mailbox associated with this)
+
+   ----- Transcript of session follows -----
+... while talking to localhost:
+>>> DATA
+<<< 550-Mailbox unknown.  Either there is no mailbox associated with this
+<<< 550-name or you do not have authorization to see it.
+<<< 550 5.1.1 User unknown
+550 5.1.1 <info@mrrealestateman.com>... User unknown
+<<< 503 5.5.1 No recipients
+
+--j6JAvrQE005062.1121770673/mail.propertyminder.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.propertyminder.com
+Received-From-MTA: DNS; [222.217.202.51]
+Arrival-Date: Tue, 19 Jul 2005 03:57:51 -0700
+
+Final-Recipient: RFC822; info@mrrealestateman.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: SMTP; 550-Mailbox unknown.  Either there is no mailbox associated with this
+Last-Attempt-Date: Tue, 19 Jul 2005 03:57:53 -0700
+
+--j6JAvrQE005062.1121770673/mail.propertyminder.com
+Content-Type: text/rfc822-headers
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([222.217.202.51])
+	by mail.propertyminder.com (8.12.8/8.12.8) with SMTP id j6JAvkQE005039
+	for <info@mrrealestateman.com>; Tue, 19 Jul 2005 03:57:51 -0700
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815542;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@mrrealestateman.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+--j6JAvrQE005062.1121770673/mail.propertyminder.com--
+

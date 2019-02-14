@@ -1,0 +1,33 @@
+Return-Path: <finagrieco@intercable.net.ve>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26756 invoked by uid 115); 15 Jun 2005 14:06:50 -0000
+Received: from finagrieco@intercable.net.ve by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(200.82.134.5):. 
+ Processed in 0.079913 secs); 15 Jun 2005 14:06:50 -0000
+Received: from mailccs.intercable.net.ve (HELO mailccs.icnet.com.ve) (200.82.134.5)
+  by churchill.factcomp.com with SMTP; 15 Jun 2005 14:06:48 -0000
+Received: from [200.82.220.252] (HELO LUIS)
+  by mailccs.icnet.com.ve (CommuniGate Pro SMTP 4.1.8)
+  with SMTP id 71661184 for bruceg@em.ca; Wed, 15 Jun 2005 10:08:40 -0400
+From: "Fina Grieco & Luis Eduardo García" <finagrieco@intercable.net.ve>
+To: bruceg@em.ca
+Subject: Saludos desde Caracas
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+Reply-To: finagrieco@intercable.net.ve
+Date: Wed, 15 Jun 2005 07:08:33 -0700
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Message-ID: <auto-000071661184@mailccs.icnet.com.ve>
+
+
+Saludos,
+Nuestra compania abrió un proceso de búsqueda para personas que deseen
+aumentar en al menos $1000 sus ingresos trabajando a tiempo parcial, o en
+su tiempo libre, si conoce a alguien que: Necesita trabajo, desea ganar mas o
+simplemente quiere mejorar su calidad de vida por favor, envíele nuestra
+pagina, www.ingresoya.com en ella encontrará toda la informacion requerida
+Gracias de antemano ,
+Luis Eduardo Garcia & Fina Grieco
+H.B.L International,
+www.ingresoya.com
+

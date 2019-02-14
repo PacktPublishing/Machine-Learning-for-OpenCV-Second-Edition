@@ -1,0 +1,92 @@
+Return-Path: <Muir@kanemackay.com>
+Delivered-To: em-ca-bruceg-spam@em.ca
+Received: (qmail 11772 invoked by uid 700); 4 Mar 2005 06:04:09 -0000
+Delivered-To: em-ca-em-ca-bruceg@em.ca
+Received: (qmail 11722 invoked by uid 115); 4 Mar 2005 06:04:08 -0000
+Received: from Muir@kanemackay.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(203.220.113.82):. 
+ Processed in 1.281196 secs); 04 Mar 2005 06:04:08 -0000
+Received: from dialup-82.113.220.203.acc01-john-stp.comindico.com.au (HELO kanemackay.com) (203.220.113.82)
+  by churchill.factcomp.com with SMTP; 4 Mar 2005 06:03:57 -0000
+From: "Sweeney Matos" <Muir@kanemackay.com>
+To: "Vitalija Cardwell" <em-ca-bruceg@em.ca>
+Subject: LWG 24-Pharrmmacy
+Date: Fri, 4 Mar 2005 09:08:42 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_004D_01C51E97.42287A2D"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Unsent: 1
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Qmail-Scanner-Message-ID: <110991624767211664@churchill>
+Content-Length: 2710
+Lines: 68
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_004D_01C51E97.42287A2D
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, 
+
+Have a nice day.
+------=_NextPart_000_004D_01C51E97.42287A2D
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<META content=3D"MSHTML 6.00.2800.1106" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D4><FONT face=3DArial =
+size=3D3></FONT></FONT>&nbsp;</DIV>
+<DIV><FONT><FONT face=3DArial size=3D4>Hello, </FONT><A=20
+href=3D"http://www.yu.xl.com.medalod.com/"><FONT =
+face=3DArial size=3D4>Visit Our PharmMail=20
+SH0P</FONT></A><FONT face=3DArial size=3D4>.</FONT></FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV>
+<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY>
+  <TR vAlign=3Dbottom>
+    <TD rowSpan=3D2><FONT face=3DArial size=3D4>SP</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial size=3D4>&nbsp;OF</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial size=3D4>&nbsp;Vi</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial=20
+size=3D4>ra&nbsp;$200(120p.)&nbsp;Ci</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial=20
+    size=3D4>is&nbsp;$300(150p.)&nbsp;Lev</FONT></TD>
+    <TD><FONT face=3DArial size=3D4></FONT></TD>
+    <TD rowSpan=3D2><FONT face=3DArial =
+size=3D4>ra&nbsp;$300(50p.)</FONT></TD></TR>
+  <TR vAlign=3Dbottom>
+    <TD><FONT face=3DArial size=3D4>ECIAL</FONT></TD>
+    <TD><FONT face=3DArial size=3D4>FER:</FONT></TD>
+    <TD><FONT face=3DArial size=3D4>ag</FONT></TD>
+    <TD><FONT face=3DArial size=3D4>al</FONT></TD>
+    <TD><FONT face=3DArial =
+size=3D4>it</FONT></TD></TD></TR></TBODY></TABLE></DIV>
+<DIV><FONT face=3DArial size=3D4>And Many Other!</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D3>With each purchase you =
+get:</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>Home delivery</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>Total confidentiality</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>FDAApproved</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3><LI>Highest Quality</FONT></DIV>
+<DIV><FONT face=3DArial size=3D3></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D3>Have a nice =
+day.</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_004D_01C51E97.42287A2D--

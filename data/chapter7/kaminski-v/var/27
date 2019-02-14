@@ -1,0 +1,77 @@
+Message-ID: <30353837.1075856641270.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 03:07:00 -0700 (PDT)
+From: winston.jia@enron.com
+To: tanya.tamarchenko@enron.com, jaesoo.lew@enron.com
+Subject: RE: clustering for power
+Cc: vladimir.gorny@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vladimir.gorny@enron.com, vince.kaminski@enron.com
+X-From: Winston Jia
+X-To: Tanya Tamarchenko, Jaesoo Lew
+X-cc: Vladimir Gorny, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+
+As we discussed in the last meeting, to simulate secondary power curve we 
+need correlated jump sizes. This is totally different from the current 
+secondary price curve simulation which assume the perfect correlation and 
+also totally different from the secondary GAS basis curve simulation which is 
+based on the hedging ratio.
+
+There are two more issues on my side I need to resolve:
+1. I want resolve the power basis curve issue.  Currently all power position 
+on these basis curve are actually price positions.  We are hard coding this: 
+if power basis we add basis to corresponding region curve.  I am trying to 
+remove this hard coding by asking loading the price curve for all these basis 
+locations.
+
+2. Same is true for all those Power F curves.  These curves looks similar to 
+those basis curves.  Currently we just directly map these F curves to the 
+corresponding region curves.  I would also prefer to load the price curves 
+instead of the price differences.
+
+From research, I need those jump size correlations.
+
+Clearly, all these involve many new development, unless we want to use 
+simpler way to simulate secondary power curves.
+
+Regards,
+
+Winston
+
+
+
+
+ -----Original Message-----
+From:  Tamarchenko, Tanya  
+Sent: Monday, April 16, 2001 9:17 AM
+To: Lew, Jaesoo
+Cc: Gorny, Vladimir; Jia, Winston; Kaminski, Vince
+Subject: Re: clustering for power
+
+Jaesoo,
+as we discussed last week on Wednesday meeting can you, please,
+implement clustering for power curves by geographical region. This involves 
+the following:
+
+1. Deciding together with Risk Control how many geographical regions we want 
+to use
+and which Enron's curves belong to each region.
+2. Deciding together with Risk Control how to choose core curves for each 
+region. This decision can 
+be maid based on the a) position size; b) statistical analysis. There might 
+be other considerations.
+3. Doing regression analysis for each curve versus the corresponding core 
+curve.
+
+Winston,
+can is it possible to run VAR for the clustering results obtained by Jaesoo 
+with clustering done by SAS?
+Should we wait for the stage re-fresh and what is the status on this? 
+
+Tanya.

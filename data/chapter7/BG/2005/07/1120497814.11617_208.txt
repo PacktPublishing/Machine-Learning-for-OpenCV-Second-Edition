@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-fishworm@em.ca
+Received: (qmail 22067 invoked by uid 115); 4 Jul 2005 15:28:25 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(82.155.144.54):. 
+ Processed in 0.736725 secs); 04 Jul 2005 15:28:25 -0000
+Received: from unknown (HELO gmail.com) (82.155.144.54)
+  by churchill.factcomp.com with SMTP; 4 Jul 2005 15:28:19 -0000
+Date: Mon, 04 Jul 2005 01:06:10 +0000 (Hora padrão de GMT)
+From: Peter G <peterg.management@gmail.com>
+To: bait-fishworm@em.ca
+Message-ID: 38537.045949074076_1286029477556
+Subject: Peter G [tour dates]
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Peter G - Bookings</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+<!--
+body {
+	background-image:  url(http://p001.no.sapo.pt/peterg/bg.gif);
+	background-repeat: repeat-y;
+	background-position: center top;
+}
+hr {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	margin: 2px;
+	padding: 2px;
+}
+-->
+</style>
+</head>
+
+<body text="#000000" link="#FF0000" vlink="#FF0000" alink="#FF0000">
+<table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#F8F8F8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="http://p001.no.sapo.pt/peterg/peterg_header.gif" width="406" height="122" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#F8F8F8">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><img src="http://p001.no.sapo.pt/peterg/peterg.jpg" width="450" height="500" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="100%"  border="0" cellspacing="0" cellpadding="20">
+      <tr>
+        <td><h2><font face="Arial, Helvetica, sans-serif">Tour Dates</font></h2>
+          <hr width="100%" size="1" />
+          <p><font face="Arial, Helvetica, sans-serif">          </font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Friday 8th</strong> - Regua Open Air <br />
+                <strong>Saturday 9th</strong> - Super Club<br />
+              <br />
+            </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Friday 15th</strong> - Hot Rio Club <br />
+              <strong>Saturday 16th</strong> - Forever<br />
+              <br />
+            </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Friday 22nd</strong> - Swing<br />
+              <strong>Saturday 23rd</strong> - Sub Solo<br />
+              <br />
+            </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Friday 29th</strong> - Buddha Club<br />
+          <strong>Saturday 30th</strong> - <font color="#000099"><em>**FREE FOR BOOKING**</em></font></font></p></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000"><div align="left"></div>      <div align="center">
+      <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+        <tr>
+          <td><div align="center"><font color="#CCCCCC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Contact for booking</strong><br />
+            <a href="mailto:peterg.management@gmail.com">peterg.management@gmail.com</a></font></div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+</table>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

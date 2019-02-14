@@ -1,0 +1,76 @@
+Message-ID: <28073747.1075839977596.JavaMail.evans@thyme>
+Date: Tue, 1 Jan 2002 13:37:49 -0800 (PST)
+From: pete.davis@enron.com
+To: pete.davis@enron.com
+Subject: Start Date: 1/1/02; HourAhead hour: 12;
+Cc: albert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	geir.solberg@enron.com, john.anderson@enron.com, 
+	mark.guzman@enron.com, michael.mier@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: albert.meyers@enron.com, bill.williams@enron.com, craig.dean@enron.com, 
+	geir.solberg@enron.com, john.anderson@enron.com, 
+	mark.guzman@enron.com, michael.mier@enron.com, pete.davis@enron.com, 
+	ryan.slinger@enron.com
+X-From: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-To: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-cc: Meyers, Albert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BMEYERS>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Dean, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CDEAN2>, Solberg, Geir </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GSOLBER>, Anderson, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JANDERS3>, Guzman, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MGUZMAN3>, Mier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MMIER>, Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>, Slinger, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSLINGER>
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+
+Start Date: 1/1/02; HourAhead hour: 12;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002010112.txt
+###Cannot locate a Preferred or Revised_Preferred Schedule that matches the FINAL Individual Interchange Schedule.  Unable to assign deal number.
+!!!General SQL error.
+Couldn't update; currently locked.
+Table
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+
+---- Energy Import/Export Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstSW
+  MKT_TYPE: 2
+  TRANS_DATE: 1/1/02
+  TIE_POINT: PVERDE_5_NG-PLV
+  INTERCHG_ID: EPMI_CISO_SW
+  ENGY_TYPE: FIRM
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  SC_ID: ECTstSW
+  MKT_TYPE: 2
+  TRANS_DATE: 1/1/02
+  TIE_POINT: MEAD_2_WALC
+  INTERCHG_ID: ENRJ_CISO_8001
+  ENGY_TYPE: FIRM
+
+
+
+---- Load Schedule ----
+*** Final schedule not found for preferred schedule.
+     Details:
+
+  TRANS_TYPE: FINAL
+  LOAD_ID: SDG1
+  MKT_TYPE: 2
+  TRANS_DATE: 1/1/02
+  SC_ID: ENRJ
+

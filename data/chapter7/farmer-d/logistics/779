@@ -1,0 +1,56 @@
+Message-ID: <31100559.1075854123704.JavaMail.evans@thyme>
+Date: Wed, 9 Feb 2000 08:44:00 -0800 (PST)
+From: robert.lloyd@enron.com
+To: mandy.mackinnon@enron.com, george.grant@enron.com, aimee.lannou@enron.com, 
+	jackie.young@enron.com, susan.trevino@enron.com, 
+	stella.morris@enron.com, kimberly.vaughn@enron.com, 
+	charlotte.hawkins@enron.com, carlos.rodriguez@enron.com, 
+	tom.acton@enron.com
+Subject: Pathing Procedures for Buybacks
+Cc: pat.clynes@enron.com, rita.wynne@enron.com, daren.farmer@enron.com, 
+	howard.camp@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pat.clynes@enron.com, rita.wynne@enron.com, daren.farmer@enron.com, 
+	howard.camp@enron.com
+X-From: Robert E Lloyd
+X-To: Mandy MacKinnon, George Grant, Aimee Lannou, Jackie Young, Susan D Trevino, Stella L Morris, Kimberly Vaughn, Charlotte Hawkins, Carlos J Rodriguez, Tom Acton
+X-cc: Pat Clynes, Rita Wynne, Daren J Farmer, Howard B Camp
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+ To path a buyback {MOP; Supply List}  with an existing Market Deal 
+{typically baseload} please follow these steps:
+  
+ Theory # 1:   Example; Supply Deal = 5.0/d  & Market Deal = 5.0/d
+ 
+  1.) Attach the Supply Deal with the Market Deal to establish a "buy/sell"  
+path list contract  oppose to a transport contract.
+
+  2.) Path the transaction on the "buy/sell" { or broker the deal}  contract.
+ 
+  3.) This process is applicable only if the Supply Deal and the Market Deal 
+are the same quantity.
+ 
+  4.) This example will yield a net zero activity in POP.
+  
+ Theory # 2:  Example ;   Supply Deal = 7.0/d  &  Market Deal = 10.0/d
+ 
+  1)  Follow  steps 1 & 2 in Theory # 1.
+ 
+  2.) Additionally, create a service transportation contract {i.e. K-215}  in 
+the path list.
+ 
+  2.) Path 7.0 on the "buy/sell" path list contract and  10.0  on the 
+transport {i.e. K-215} contract.
+  
+ This procedure will eliminate  an out-of-balance in MOP for both the "Supply 
+Deal and the Market Deal"  and send 3.0  to POP via x-port K-215.
+ 
+ Note:  Never path a buyback {Supply Deal}  using a receipt transport contact 
+and the{ Market Deal}  using  a  delivery transport contract.
+  
+  POP's should only  reflect  the "net" on these two transactions {buyback 
+and baseload deal}.   

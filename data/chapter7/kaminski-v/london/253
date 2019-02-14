@@ -1,0 +1,48 @@
+Message-ID: <18729881.1075857050415.JavaMail.evans@thyme>
+Date: Fri, 31 Mar 2000 05:43:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: vince.kaminski@enron.com, maureen.raymond@enron.com
+Subject: UK PPI Curve Generator with Smoothing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zimin Lu
+X-To: Vince J Kaminski, Maureen Raymond
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+---------------------- Forwarded by Zimin Lu/HOU/ECT on 03/31/2000 01:43 PM 
+---------------------------
+
+
+Anjam Ahmad
+03/28/2000 02:08 PM
+To: Martina Angelova/LON/ECT@ECT, Trena McFarland/LON/ECT@ECT
+cc: Dale Surbey/LON/ECT@ECT, Mary Thambiah/LON/ECT@ECT, Zimin Lu/HOU/ECT@ECT, 
+Stinson Gibner/HOU/ECT@ECT, Vince J Kaminski/HOU/ECT@ECT 
+Subject: UK PPI Curve Generator with Smoothing
+
+Hi Martina & Trena,
+
+I think this is a reasonable smoothing method between the short and long-term 
+models - let me know if you need me to explain it.  I also included the 
+short-term models so this is now a self-standing spreadsheet, but probably 
+still needs cleaning up a bit.
+
+ZIMIN & STINSON:
+
+We agreed on short-term and long-term models for DZCV and PLLU PPI indices in 
+a meeting with Dale and Trena and a simple smoothing is employed to give the 
+results as follows.  Blue and red curves are the proposed DZCV and PLLU PPI 
+index forward curves whilst RPI is the market-derived black curve.
+
+
+
+Regards,
+
+Anjam
+x35383
+
+

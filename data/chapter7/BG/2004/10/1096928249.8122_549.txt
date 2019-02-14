@@ -1,0 +1,36 @@
+Return-Path: <Correa@cashette.com>
+Delivered-To: em-ca-bait-baseline@em.ca
+Received: (qmail 17076 invoked by uid 115); 3 Oct 2004 02:11:34 -0000
+Received: from Correa@cashette.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.59.148.199):. 
+ Processed in 2.140509 secs); 03 Oct 2004 02:11:34 -0000
+Received: from sw59-148-199.adsl.seed.net.tw (61.59.148.199)
+  by churchill.factcomp.com with SMTP; 3 Oct 2004 02:11:31 -0000
+Received: from 64.240.50.161 by 61.59.148.199; Sat, 02 Oct 2004 21:00:04 -0600
+Message-ID: <surreyliferufousmuskrat@snail-mail.net>
+From: "May Arellano" <Correa@cashette.com>
+Reply-To: "May Arellano" <Correa@cashette.com>
+To: bait-baseline@em.ca
+Subject: To Bonilla's Shop Customers!
+Date: Sat, 02 Oct 2004 20:02:04 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; charset=iso-8859-1;
+	boundary="--32346608989010797449"
+
+----32346608989010797449
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+
+Dear customer!
+
+We updated our software catalogue and added new
+popular products! Now you can get any software item
+at 90% discount rate! For more information visit us here:
+http://www.jokeroem.info/?scruple
+
+With best regards,
+Product Manager
+May Arellano
+
+----32346608989010797449--
+

@@ -1,0 +1,64 @@
+Received: from smtp02.ya.com (HELO smtp.ya.com) (62.151.11.161)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:13 -0000
+Received: from [192.168.1.213] (helo=mx03.yacom.srv)
+	by smtp.ya.com with esmtp id 1Duppc-0005we-00
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 13:00:12 +0200
+Received: from apis by mx03.yacom.srv with local id 1Duppc-0002qY-00
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 13:00:12 +0200
+X-Failed-Recipients: antonionuezc@jazzfree.com
+From: Mail Delivery System <Mailer-Daemon@mx03.yacom.srv>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed
+  : returning message to sender
+Message-Id: <E1Duppc-0002qY-00@mx03.yacom.srv>
+Date: Tue, 19 Jul 2005 13:00:12 +0200
+
+This message was created automatically by mail delivery software.
+A message that you sent could not be delivered to all of its recipients.
+The following address(es) failed:
+
+Este mensaje fue creado automaticamente por el gestor de correo
+no pudo ser entregado a uno o varios de los destinatarios.
+La(s) siguiente(s) direccion(es) fueron rechazadas:
+
+  antonionuezc@jazzfree.com
+    mailbox is full (MTA-imposed quota exceeded while writing to file tmp/1121770810.10929.mx03.yacom.srv):
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+------ A continuacion adjuntamos copia del mensaje, incluyendo las cabeceras. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [192.168.1.50] (helo=mx.ya.com)
+	by mx03.yacom.srv with esmtp id 1Duppa-0002qD-00
+	for antonionuezc@jazzfree.com; Tue, 19 Jul 2005 13:00:10 +0200
+Received: from [218.14.74.146] (helo=mailwisconsin.com)
+	by mx.ya.com with smtp id 1DuppY-0006Sp-00
+	for antonionuezc@jazzfree.com; Tue, 19 Jul 2005 13:00:09 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030519726;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonionuezc@jazzfree.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+EXTRALDAP: mailID=antonionuezc@jazzfree.com mailHost=jazzfree.com mailQuota=5120000 mailServices=0000000000001110 mailMessageStore=/opt/data/mail/mailvol01/a7/e9d/a65/91095c88/antonionuezc@jazzfree.com/
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86971053">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>

@@ -1,0 +1,25 @@
+Return-Path: <program@haas.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 25125 invoked by uid 115); 25 May 2005 09:03:30 -0000
+Received: from program@haas.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(83.27.72.217):. 
+ Processed in 0.077185 secs); 25 May 2005 09:03:30 -0000
+Received: from awm217.neoplus.adsl.tpnet.pl (83.27.72.217)
+  by churchill.factcomp.com with SMTP; 25 May 2005 09:03:29 -0000
+Received: from [179.169.117.115] (port=4481 helo=[Belgian])
+    by awm217.neoplus.adsl.tpnet.pl with esmtp 
+    id 12866978491subprogram35467
+    for bait@em.ca; Wed, 25 May 2005 11:18:54 +0200
+Mime-Version: 1.0 (News mailer)
+Content-Transfer-Encoding: 7bit
+Message-Id: <117431113740.1120234367@awm217.neoplus.adsl.tpnet.pl>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+To: bait@em.ca
+From: Erasmus <program@haas.net>
+Subject: Looking for cheap high-quality software? 
+Date: Wed, 25 May 2005 11:18:53 +0200
+X-Mailer: News mailer 3.9
+Content-Length: 46
+Lines: 3
+
+Adobe+macromedia+OS etc all in CD under $99

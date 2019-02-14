@@ -1,0 +1,59 @@
+Message-ID: <2114502.1075857042226.JavaMail.evans@thyme>
+Date: Tue, 4 Apr 2000 08:36:00 -0700 (PDT)
+From: martina.angelova@enron.com
+To: zimin.lu@enron.com
+Subject: UK RPI model
+Cc: vince.kaminski@enron.com, anjam.ahmad@enron.com, trena.mcfarland@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, anjam.ahmad@enron.com, trena.mcfarland@enron.com
+X-From: Martina Angelova
+X-To: Zimin Lu
+X-cc: Vince J Kaminski, Anjam Ahmad, Trena McFarland
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Zimin!
+
+Please find attached for your  review the UK RPI model, derived by 
+bootstrapping RPI swaps. 
+
+It's a very simple model and here are its specifics:
+
+SWAP STRUCTURE
+
+Payment: semi/semi Act/365F
+>
+> YOYUKRPI = (UKRPI(p-2)/UKRPI(p-14) - 1)/2
+> p = payment month
+>
+
+The first payment is the latest known historical RPI, February 2000, 2.32%. 
+
+ASSUMPTIONS
+
+* Constant cashflows between the quoted years (as opposed to interpolating 
+swaps which distorts the curve a lot). This explains the atrocious look of 
+the "raw" curve. It is then smoothed with a macro, which Anjam wrote.
+
+* Mid point of the swaps is used for deriving the curve;
+
+* Discount rate is LIBOR and I solve for the coupon rate, which is the RPI 
+YOY rate;
+
+
+
+* The above is solved separately for each quoted period (e.g. 2 yrs, 5 yrs) 
+and RPI rates are determined for the incremental portion.
+
+By forecasting RPI in the above method we are able to lock in and deliver the 
+forecasted levels.
+
+Looking forward to your comments and seeing you in London!
+
+Best regards,
+
+Martina
+x34327

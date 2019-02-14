@@ -1,0 +1,287 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-silicone@em.ca
+Received: (qmail 5882 invoked by uid 115); 14 Oct 2004 08:53:22 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(213.13.224.34):. 
+ Processed in 11.773744 secs); 14 Oct 2004 08:53:22 -0000
+Received: from unknown (HELO yahoo.co.uk) (213.13.224.34)
+  by churchill.factcomp.com with SMTP; 14 Oct 2004 08:53:09 -0000
+Date: Wed, 13 Oct 2004 19:32:01 +0000 (Hora padrão de GMT)
+From: FEMALE djs <femaledjs@yahoo.co.uk>
+To: bait-silicone@em.ca
+Message-ID: 38273.813900462963_2807137497568
+Subject: DJ DIVA open dates
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="DJ%20DIVA%20web%20versao%202_ficheiros/filelist.xml">
+<link rel=Edit-Time-Data
+href="DJ%20DIVA%20web%20versao%202_ficheiros/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Untitled Document</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PersonName" downloadurl="http://www.microsoft.com"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>antonio pereira</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>antonio pereira</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>17</o:TotalTime>
+  <o:Created>2004-10-13T17:45:00Z</o:Created>
+  <o:LastSaved>2004-10-13T17:45:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>121</o:Words>
+  <o:Characters>694</o:Characters>
+  <o:Company>Heart &amp; Soul</o:Company>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>814</o:CharactersWithSpaces>
+  <o:Version>11.6360</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.style1, li.style1, div.style1
+	{mso-style-name:style1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:27.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+p.style2, li.style2, div.style2
+	{mso-style-name:style2;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.style7, li.style7, div.style7
+	{mso-style-name:style7;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:7.5pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.style10, li.style10, div.style10
+	{mso-style-name:style10;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:7.5pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.style11, li.style11, div.style11
+	{mso-style-name:style11;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:7.5pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.style2style11, li.style2style11, div.style2style11
+	{mso-style-name:"style2 style11";
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.style111
+	{mso-style-name:style111;
+	mso-ansi-font-size:7.5pt;
+	mso-bidi-font-size:7.5pt;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabela normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#FF99CC" lang=EN-GB link=blue vlink=blue style='tab-interval:
+36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:100.0pt;font-family:"Trebuchet MS"'>DJ DIVA<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:16.0pt;font-family:"Trebuchet MS"'>open dates<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:16.0pt;font-family:"Trebuchet MS"'>December (NYE inc),
+January, February, March<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=829
+ style='width:621.75pt;mso-cellspacing:0cm;mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span style='color:black'><a
+  href="http://www.hitclub.pt/image001.jpg"><span style='color:black;
+  text-decoration:none;text-underline:none'><img border=0 width=204 height=308
+  id="_x0000_i1027" src="http://www.hitclub.pt/image001.jpg"></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span style='color:black'><a
+  href="http://www.hitclub.pt/image002.jpg"><span style='color:black;
+  text-decoration:none;text-underline:none'><img border=0 width=421 height=308
+  id="_x0000_i1025" src="http://www.hitclub.pt/image002.jpg"></span></a><o:p></o:p></span></p>
+  </td>
+  <td style='padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal><span style='color:black'><a
+  href="http://www.hitclub.pt/image003.jpg"><span style='color:black;
+  text-decoration:none;text-underline:none'><img border=0 width=204 height=308
+  id="_x0000_i1026" src="http://www.hitclub.pt/image003.jpg"></span></a><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:"Trebuchet MS"'>DJ DIVA appears in the house scene after 10
+years of night work, serving drinks <st1:PersonName ProductID="as a topless"
+w:st="on">as a topless</st1:PersonName> waitress and lap dancer in the best
+dutch establishments. At one of the clubs she gets the chance to try her skills
+on the decks and there she became the first female topless dj.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:"Trebuchet MS"'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:14.0pt;font-family:"Trebuchet MS"'>bookings<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-family:"Trebuchet MS";color:blue'><a
+href="mailto:femaledjs@yahoo.co.uk">femaledjs@yahoo.co.uk</a></span></b><span
+style='font-family:"Trebuchet MS";color:blue'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

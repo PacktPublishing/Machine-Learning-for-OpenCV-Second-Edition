@@ -1,0 +1,66 @@
+Message-ID: <6167845.1075857060870.JavaMail.evans@thyme>
+Date: Fri, 7 Apr 2000 12:35:00 -0700 (PDT)
+From: pjmcustomerrelationsandtraining@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: EES Implementation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: PJMCustomerRelationsandTraining@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+Valued Customer:
+
+EES Production Cut-Over
+
+The production EES application will be made available to the registered users 
+on
+Monday April 17, 2000 for day-ahead scheduling.  The production system will be
+preloaded with all schedules submitted through the current scheduling process 
+to
+that point (PJM identifiers for these pre-loaded schedules will be provided
+through the usual scheduling practices).   Hourly schedules may be entered
+beginning April 18, 2000.
+
+The Sandbox will be made unavailable at the time of production implementation.
+Prior to April 17, the https://eestest.pjm.com URL will be reserved for the
+Sandbox.  Beginning April 17, the https://ees.pjm.com URL will point to the
+production EES application.
+
+
+Registration
+
+Users with accounts on the Sandbox will automatically have accounts on the
+production system.  If you have not registered, please complete the
+authorization and registration forms located at
+http://www.pjm.com/ees/ees_index.html.  The contact designated on the EES
+authorization form will be faxed a list of user id's and passwords upon
+completion of the registration process.
+
+
+EES Support
+
+PJM is enthusiastic about providing the responsive support you and your
+technical staff require.  Please contact our customer hotlines with your
+functional and technical inquiries.
+
+* Functional Support: (610) 666 - 8980
+* Technical Support: (610) 666 - 8886
+* Email: eeshelp@pjm.com
+
+
+
+
+Questions may be directed to PJM Customer Service at (610) 666-8980.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info

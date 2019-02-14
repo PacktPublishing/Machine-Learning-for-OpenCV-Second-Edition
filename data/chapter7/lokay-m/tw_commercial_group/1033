@@ -1,0 +1,80 @@
+Message-ID: <16335900.1075855008916.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 08:14:18 -0700 (PDT)
+From: ramona.betancourt@enron.com
+To: lindy.donoho@enron.com, michelle.lokay@enron.com, 
+	lorraine.lindberg@enron.com, tk.lohman@enron.com
+Subject: RE: Allocation Order
+Cc: terry.kowalke@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: terry.kowalke@enron.com
+X-From: Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RBETANC>
+X-To: Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldonoho>, Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llindbe>, Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>
+X-cc: Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+Lindy,
+
+	This is missing the pool cuts. The system will cut in the following order:
+	
+	Cut IT by price 1st (Overrun & IT)
+	Cut pro-rata Outside the path transactions next in this order:
+	1.	Alt. Receipt to Alt. Delivery(outside the path)
+	2.	Alt. Receipt to Primary Delivery (Outside the Path)
+	3.	Primary Pool Receipt to Alt. Delivery (Outside the Path)
+	4.	Primary Physical Receipt to Alt. Delivery (Outside the Path)
+	Cut pro-rata Inside the path transactions next in this order:
+	1.	Alt. Receipt to Alt. Delivery(Inside the path)
+	2.	Alt. Receipt to Primary Delivery (Inside the Path)
+	3.	Primary Pool Receipt to Alt. Delivery (Inside the Path)
+	4.	Primary Physical Receipt to Alt. Delivery (Inside the Path)
+	Cut Pro-rata any primary to primary transactions next in this order:
+	1.	Primary Pool Receipt to Primary Delivery
+	2.	Primary Physical Receipt to Primary Delivery
+
+Keep in mind some of the other factors when scheduling like evening & I/D 1 cycles are bump cycles.
+Once Alt. is scheduled in a cycle . it can not be bumped by primary firm, Incremental gas is cut before flowing gas, TW's FTS3 & EFHB are scheduled in a separate transmission and point allocation process, & LFT is scheduled to zero during the rollover and balance process if we have called No LFT available, otherwise, LFT is scheduled like Firm. 
+
+
+ 
+Thanks Ramona
+
+	
+
+ -----Original Message-----
+From: 	Donoho, Lindy  
+Sent:	Friday, July 06, 2001 9:07 AM
+To:	Lokay, Michelle; Lindberg, Lorraine; Betancourt, Ramona ; Lohman, TK
+Subject:	RE: Allocation Order
+
+I think this is correct.  Ramona, could you confirm?
+
+ -----Original Message-----
+From: 	Lokay, Michelle  
+Sent:	Friday, July 06, 2001 8:00 AM
+To:	Lindberg, Lorraine; Donoho, Lindy; Rivers, Cynthia
+Subject:	FW: Allocation Order
+
+FYI...this is not what I'd heard previously!
+
+ -----Original Message-----
+From: 	Kowalke, Terry  
+Sent:	Friday, July 06, 2001 6:42 AM
+To:	Lokay, Michelle
+Subject:	Allocation Order
+
+Michelle,
+
+To answer your question on the allocation order is;
+
+1st     Primary to Primary
+2nd    Primary to Alternate (Inside)
+3rd     Alternate to Primary (Inside)
+4th    Alternate to Alternate (Inside)
+5th    Primary to Alternate  (Outside)
+6th    Alternate to Primary  (Outside)
+7th    Alternate to Alternate (Outside)
+8th    OverRun / Interuptible                     

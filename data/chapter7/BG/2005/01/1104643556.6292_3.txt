@@ -1,0 +1,954 @@
+Return-Path: <star01@max-po.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8650 invoked by uid 115); 1 Jan 2005 21:32:07 -0000
+Received: from star01@max-po.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.18.82.123):. 
+ Processed in 3.283312 secs); 01 Jan 2005 21:32:07 -0000
+Received: from cm61-18-82-123.hkcable.com.hk (HELO max-po.com) (61.18.82.123)
+  by churchill.factcomp.com with SMTP; 1 Jan 2005 21:32:03 -0000
+Message-ID: <20050102053705.554D5810420E80EA@max-po.com>
+From: star01@max-po.com
+To: bruceg@em.ca
+Subject: Sportswear & Promotional Clothing
+Date: 02 Jan 2005 05:37:06 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:st1=3D"urn:schemas-microsoft-com:office:smarttags"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 10">
+<meta name=3DOriginator content=3D"Microsoft Word 10">
+<link rel=3DFile-List href=3D"http://www.hunting-po.com/image/http://www.hun=
+ting-po.com/image/functional.files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"http://www.hunting-po.com/image/http://ww=
+w.hunting-po.com/image/functional.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title> </title>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"City"/>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"Street"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Christopher</o:LastAuthor>
+  <o:Revision>10</o:Revision>
+  <o:TotalTime>1045</o:TotalTime>
+  <o:LastPrinted>2004-04-24T11:54:00Z</o:LastPrinted>
+  <o:Created>2004-07-12T06:58:00Z</o:Created>
+  <o:LastSaved>2004-12-28T05:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>377</o:Words>
+  <o:Characters>2153</o:Characters>
+  <o:Company>Texwin</o:Company>
+  <o:Lines>17</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2525</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid=3D"clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=3Dieooui></object=
+>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	panose-1:2 2 3 0 0 0 0 0 0 0;
+	mso-font-alt:PMingLiU;
+	mso-font-charset:136;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 137232384 22 0 1048577 0;}
+@font-face
+	{font-family:"Bremen Bd BT";
+	panose-1:4 4 8 7 6 13 2 2 7 4;
+	mso-font-charset:0;
+	mso-generic-font-family:decorative;
+	mso-font-pitch:variable;
+	mso-font-signature:135 0 0 0 27 0;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 5 6 2 2 2 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Monotype Corsiva";
+	panose-1:3 1 1 1 1 2 1 1 1 1;
+	mso-font-charset:0;
+	mso-generic-font-family:script;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"\@=B7s=B2=D3=A9=FA=C5=E9";
+	panose-1:2 2 3 0 0 0 0 0 0 0;
+	mso-font-charset:136;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 137232384 22 0 1048577 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:=B7s=B2=D3=A9=FA=C5=E9;}
+h1
+	{mso-style-link:"=BC=D0=C3D 1 =A6r=A4=B8";
+	mso-style-next:=A4=BA=A4=E5;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Monotype Corsiva";
+	mso-bidi-font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h2
+	{mso-style-next:=A4=BA=A4=E5;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial Narrow";
+	mso-bidi-font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h3
+	{mso-style-next:=A4=BA=A4=E5;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:11.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial Narrow";
+	mso-bidi-font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h4
+	{mso-style-next:=A4=BA=A4=E5;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:18.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Bremen Bd BT";
+	mso-bidi-font-family:"Courier New";
+	font-weight:bold;}
+h5
+	{mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:16.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	color:red;
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap
+	{mso-style-noshow:yes;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:navy;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	mso-bidi-font-family:"Times New Roman";}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.1
+	{mso-style-name:"=BC=D0=C3D 1 =A6r=A4=B8";
+	mso-style-link:"=BC=D0=C3D 1";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Monotype Corsiva";
+	mso-ascii-font-family:"Monotype Corsiva";
+	mso-fareast-font-family:=B7s=B2=D3=A9=FA=C5=E9;
+	mso-hansi-font-family:"Monotype Corsiva";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:ZH-TW;
+	mso-bidi-language:AR-SA;
+	text-decoration:underline;
+	text-underline:single;}
+p.Normal, li.Normal, div.Normal
+	{mso-style-name:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:=B7s=B2=D3=A9=FA=C5=E9;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:19.85pt 89.85pt 62.1pt 42.55pt;
+	mso-header-margin:35.45pt;
+	mso-footer-margin:35.45pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:568150629;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1702228938 67698689 67698703 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=84h;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:=AA=ED=AE=E6=A4=BA=A4=E5;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"4098"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DZH-TW link=3Dblue vlink=3Dpurple style=3D'tab-interval:36.0pt'>=
+
+
+<div class=3DSection1>
+
+<h2><span lang=3DEN-US style=3D'font-size:10.0pt;font-family:Arial;color:#33=
+33FF;
+mso-bidi-font-weight:bold;text-decoration:none;text-underline:none'><!--[if =
+gte vml 1]><v:shapetype
+ id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelative=
+=3D"t"
+ path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" stroked=3D"f">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:formulas>
+  <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn=3D"sum @0 1 0"/>
+  <v:f eqn=3D"sum 0 0 @1"/>
+  <v:f eqn=3D"prod @2 1 2"/>
+  <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+  <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @0 0 1"/>
+  <v:f eqn=3D"prod @6 1 2"/>
+  <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+  <v:f eqn=3D"sum @8 21600 0"/>
+  <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+ <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+</v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" style=3D'wid=
+th:450pt;
+ height:60pt'>
+ <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/image0=
+01.jpg" o:title=3D"image001"/>
+</v:shape><![endif]--><![if !vml]><img width=3D600 height=3D80
+src=3D"http://www.hunting-po.com/image/functional.files/image001.jpg" v:shap=
+es=3D"_x0000_i1025"><![endif]></span><span
+lang=3DEN-US style=3D'text-decoration:none;text-underline:none'><o:p></o:p><=
+/span></h2>
+
+<p class=3DMsoNormal><span lang=3DEN-US>&nbsp;</span><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><b><span
+lang=3DEN-US style=3D'font-family:Arial'>Dear Sir/Madam,<o:p></o:p></span></=
+b></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><b><span
+lang=3DEN-US style=3D'font-family:Arial'>&nbsp;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><b><span
+lang=3DEN-US style=3D'font-family:Arial'>We are a Manufacturer of</span></b>=
+<b><span
+lang=3DEN-US style=3D'font-size:16.0pt;font-family:Arial'> Promotional &amp;=
+
+Functional Sportswears.</span></b><b><span lang=3DEN-US style=3D'font-family=
+:Arial'><o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><b><span
+lang=3DEN-US style=3D'font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoBodyText style=3D'layout-grid-mode:char;mso-layout-grid-align:=
+none'><span
+lang=3DEN-US>We would like to establish business cooperation with
+your&nbsp;company.</span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><b><span
+lang=3DEN-US style=3D'font-family:Arial'>Hereby we introduce some of our pro=
+ducts
+for your consideration.<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><b><span
+lang=3DEN-US style=3D'font-family:Arial;color:#3333FF'>&nbsp;<o:p></o:p></sp=
+an></b></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><!--[if gte vml 1]><v:shape
+ id=3D"_x0000_s1032" type=3D"#_x0000_t75" style=3D'position:absolute;margin-=
+left:18pt;
+ margin-top:1.95pt;width:150pt;height:39pt;z-index:-2'>
+ <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/image0=
+02.gif" o:title=3D"coolmax_logo"/>
+</v:shape><![endif]--><![if !vml]><span style=3D'mso-ignore:vglayout;positio=
+n:
+absolute;z-index:-2;margin-left:24px;margin-top:3px;width:200px;height:52px'=
+><img
+width=3D200 height=3D52 src=3D"http://www.hunting-po.com/image/functional.fi=
+les/image002.gif" v:shapes=3D"_x0000_s1032"></span><![endif]><b><span
+lang=3DEN-US style=3D'font-family:Arial;color:#3333FF'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-size:16.0pt;mso-bid=
+i-font-size:
+12.0pt;font-family:Arial'>1.<span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span>T-shirts &amp; Polo shirts<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-family:Arial;color:=
+red'><o:p>&nbsp;</o:p></span></b></p>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;border:none;mso-border-alt:solid windowte=
+xt .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh=
+:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=3D207 valign=3Dtop style=3D'width:155.2pt;border:none;padding:0c=
+m 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-family:Arial;colo=
+r:red'><!--[if gte vml 1]><v:shape
+   id=3D"_x0000_i1026" type=3D"#_x0000_t75" style=3D'width:149.25pt;height:1=
+13.25pt'>
+   <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/imag=
+e003.jpg" o:title=3D"DSC05285as"/>
+  </v:shape><![endif]--><![if !vml]><img width=3D199 height=3D151
+  src=3D"http://www.hunting-po.com/image/functional.files/image004.jpg" v:sh=
+apes=3D"_x0000_i1026"><![endif]><o:p></o:p></span></b></p>
+  </td>
+  <td width=3D207 valign=3Dtop style=3D'width:155.25pt;border:none;padding:0=
+cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-family:Arial;colo=
+r:red'><!--[if gte vml 1]><v:shape
+   id=3D"_x0000_i1027" type=3D"#_x0000_t75" style=3D'width:150.75pt;height:1=
+13.25pt'>
+   <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/imag=
+e005.jpg" o:title=3D"DSC05258s"/>
+  </v:shape><![endif]--><![if !vml]><img width=3D201 height=3D151
+  src=3D"http://www.hunting-po.com/image/functional.files/image006.jpg" v:sh=
+apes=3D"_x0000_i1027"><![endif]><o:p></o:p></span></b></p>
+  </td>
+  <td width=3D207 valign=3Dtop style=3D'width:155.25pt;border:none;padding:0=
+cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-family:Arial;colo=
+r:red'><!--[if gte vml 1]><v:shape
+   id=3D"_x0000_i1028" type=3D"#_x0000_t75" style=3D'width:149.25pt;height:1=
+13.25pt'>
+   <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/imag=
+e007.jpg" o:title=3D"DSC05089"/>
+  </v:shape><![endif]--><![if !vml]><img width=3D199 height=3D151
+  src=3D"http://www.hunting-po.com/image/functional.files/image008.jpg" v:sh=
+apes=3D"_x0000_i1028"><![endif]><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-family:Arial;color:=
+red'>&nbsp;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'>Quality: =
+<span
+style=3D'color:red'>100% Polyester with Coolmax treatment<o:p></o:p></span><=
+/span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'>This soft=
+,
+lightweight, quick-dry and breathable fabric gives clothes a natural feel, w=
+ith
+an added touch of performance that keeps them comfortable.<o:p></o:p></span>=
+</p>
+
+<p class=3DMsoNormal align=3Dright style=3D'text-align:right;layout-grid-mod=
+e:char;
+mso-layout-grid-align:none'><span lang=3DEN-GB style=3D'font-size:8.0pt;mso-=
+bidi-font-size:
+10.5pt;font-family:Arial;color:#333333;mso-ansi-language:EN-GB'>(Coolmax&reg=
+; is a
+registered trademark of INVISTA)</span><span lang=3DEN-US style=3D'font-size=
+:8.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-weight:bold'><o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'>No. of Av=
+ailable
+Colours: 7<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><!--[if g=
+te vml 1]><v:shape
+ id=3D"_x0000_i1029" type=3D"#_x0000_t75" style=3D'width:462.75pt;height:77.=
+25pt'>
+ <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/image0=
+09.jpg" o:title=3D"colmax c"/>
+</v:shape><![endif]--><![if !vml]><img width=3D617 height=3D103
+src=3D"http://www.hunting-po.com/image/functional.files/image009.jpg" v:shap=
+es=3D"_x0000_i1029"><![endif]><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><!--[if gte vml 1]><v:shape
+ id=3D"_x0000_s1035" type=3D"#_x0000_t75" style=3D'position:absolute;margin-=
+left:18pt;
+ margin-top:4.9pt;width:51pt;height:51pt;z-index:-1'>
+ <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/image0=
+10.png" o:title=3D"teflon_org"/>
+</v:shape><![endif]--><![if !vml]><span style=3D'mso-ignore:vglayout;positio=
+n:
+absolute;z-index:-1;margin-left:24px;margin-top:7px;width:68px;height:68px'>=
+<img
+width=3D68 height=3D68 src=3D"http://www.hunting-po.com/image/functional.fil=
+es/image011.jpg" v:shapes=3D"_x0000_s1035"></span><![endif]><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p></o:=
+p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<h5><span lang=3DEN-US style=3D'color:windowtext'>2.<span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;
+</span>Waterproof Jackets<o:p></o:p></span></h5>
+
+<p class=3DMsoNormal><span lang=3DEN-US><o:p>&nbsp;</o:p></span></p>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;border:none;mso-border-alt:solid windowte=
+xt .5pt;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width=3D310 valign=3Dtop style=3D'width:232.85pt;border:none;padding:0=
+cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center;tab-stops:9=
+0.0pt'><b><span
+  lang=3DEN-US style=3D'font-family:Arial;color:red'><!--[if gte vml 1]><v:s=
+hape
+   id=3D"_x0000_i1030" type=3D"#_x0000_t75" style=3D'width:189pt;height:141.=
+75pt'>
+   <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/imag=
+e012.jpg" o:title=3D"NO303(a)"/>
+  </v:shape><![endif]--><![if !vml]><img width=3D252 height=3D189
+  src=3D"http://www.hunting-po.com/image/functional.files/image013.jpg" v:sh=
+apes=3D"_x0000_i1030"><![endif]><o:p></o:p></span></b></p>
+  </td>
+  <td width=3D310 valign=3Dtop style=3D'width:232.85pt;border:none;padding:0=
+cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b><span
+  lang=3DEN-US style=3D'font-family:Arial;color:red'><!--[if gte vml 1]><v:s=
+hape
+   id=3D"_x0000_i1031" type=3D"#_x0000_t75" style=3D'width:189pt;height:141.=
+75pt'>
+   <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/imag=
+e014.jpg" o:title=3D"FM0441a"/>
+  </v:shape><![endif]--><![if !vml]><img width=3D252 height=3D189
+  src=3D"http://www.hunting-po.com/image/functional.files/image015.jpg" v:sh=
+apes=3D"_x0000_i1031"><![endif]><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><b><span lang=3DEN-US style=3D'font-family:Arial;color:=
+red'>&nbsp;<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'>Quality: <span style=3D'color:red'>100% Nylon Taffeta with PU Coating =
+and
+Teflon treatment<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;color:red=
+;
+mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'>Teflon provides maximum water and stain repellent and does not affect =
+the
+feel, colour and breathability of the fabric. It is durable to washing and
+dry-cleaning.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal align=3Dright style=3D'text-align:right;layout-grid-mod=
+e:char;
+mso-layout-grid-align:none'><span lang=3DEN-GB style=3D'font-size:8.0pt;mso-=
+bidi-font-size:
+10.5pt;font-family:Arial;color:#333333;mso-ansi-language:EN-GB'>(Teflon&reg;=
+ is a
+registered trademark of INVISTA)</span><span lang=3DEN-US style=3D'font-size=
+:8.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial;mso-bidi-font-weight:bold'><o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'>No. of Av=
+ailable
+Colours: 12<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><!--[if g=
+te vml 1]><v:shape
+ id=3D"_x0000_i1032" type=3D"#_x0000_t75" style=3D'width:333.75pt;height:147=
+pt'>
+ <v:imagedata src=3D"http://www.hunting-po.com/image/functional.files/image0=
+16.gif" o:title=3D"image010"/>
+</v:shape><![endif]--><![if !vml]><img width=3D445 height=3D196
+src=3D"http://www.hunting-po.com/image/functional.files/image016.gif" v:shap=
+es=3D"_x0000_i1032"><![endif]><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'>We have t=
+he
+following commitments for our products:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18.0pt;text-indent:-18.0pt;mso-lis=
+t:l0 level2 lfo2;
+tab-stops:list 18.0pt 72.0pt;layout-grid-mode:char;mso-layout-grid-align:non=
+e'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Arial;mso-fareast-font-family:Arial;color:=
+blue;
+mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignore'>1.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></span></span><![endif]><span
+lang=3DEN-US style=3D'font-family:Arial;color:blue;mso-bidi-font-weight:bold=
+'>Our
+products are qualified to the ISO Standards.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18.0pt;text-indent:-18.0pt;mso-lis=
+t:l0 level2 lfo2;
+tab-stops:list 18.0pt 72.0pt;layout-grid-mode:char;mso-layout-grid-align:non=
+e'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Arial;mso-fareast-font-family:Arial;color:=
+blue;
+mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignore'>2.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></span></span><![endif]><span
+lang=3DEN-US style=3D'font-family:Arial;color:blue;mso-bidi-font-weight:bold=
+'>Our
+price level is most competitive and realistic.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18.0pt;text-indent:-18.0pt;mso-lis=
+t:l0 level2 lfo2;
+tab-stops:list 18.0pt 72.0pt;layout-grid-mode:char;mso-layout-grid-align:non=
+e'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Arial;mso-fareast-font-family:Arial;color:=
+blue;
+mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignore'>3.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></span></span><![endif]><span
+lang=3DEN-US style=3D'font-family:Arial;color:blue;mso-bidi-font-weight:bold=
+'>Our
+production quantity could be flexible from 100 pcs per colour per style.<o:p=
+></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18.0pt;text-indent:-18.0pt;mso-lis=
+t:l0 level2 lfo2;
+tab-stops:list 18.0pt 72.0pt;layout-grid-mode:char;mso-layout-grid-align:non=
+e'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Arial;mso-fareast-font-family:Arial;color:=
+blue;
+mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignore'>4.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></span></span><![endif]><span
+lang=3DEN-US style=3D'font-family:Arial;color:blue;mso-bidi-font-weight:bold=
+'>Our
+products can be with your own labels, printings and embroideries.<o:p></o:p>=
+</span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:18.0pt;text-indent:-18.0pt;mso-lis=
+t:l0 level2 lfo2;
+tab-stops:list 18.0pt 72.0pt;layout-grid-mode:char;mso-layout-grid-align:non=
+e'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Arial;mso-fareast-font-family:Arial;color:=
+blue;
+mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignore'>5.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></span></span><![endif]><span
+lang=3DEN-US style=3D'font-family:Arial;color:blue;mso-bidi-font-weight:bold=
+'>Our
+delivery date could be with 10 =A1V 20 days.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'><o:p>&nbs=
+p;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'layout-grid-mode:char;mso-layout-grid-align:no=
+ne'><span
+lang=3DEN-US style=3D'font-family:Arial;mso-bidi-font-weight:bold'>If you ha=
+ve any
+inquiry of new designs, you are most welcome to contact us by <a
+href=3D"mailto:texwinco@netvigator.com">texwinco@netvigator.com</a> for quot=
+ation
+and counter sample making.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'>For more information about our products &amp; ourselves, please visit =
+our
+website at <a href=3D"http://www.tex-win.com/">http://www.tex-win.com</a>.<o=
+:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'>We are looking forward to developing our business in near future.<o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'>Thanks for your kind attention.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-family:Arial;mso-bidi-=
+font-weight:
+bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span class=3DGramE><span class=3D1><b style=3D'mso-bid=
+i-font-weight:
+normal'><i style=3D'mso-bidi-font-style:normal'><span lang=3DEN-US
+style=3D'font-size:10.0pt;font-family:Arial'>CONTACT :</span></i></b></span>=
+</span><u><span
+lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family=
+:Arial'><o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'><o=
+:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><u><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bid=
+i-font-size:
+12.0pt;font-family:Arial'>Exhibition &amp; Marketing Office:</span></u><span=
+
+lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family=
+:Arial'>&nbsp;<b
+style=3D'mso-bidi-font-weight:normal'>TEXWIN PACIFIC LIMITED</b></span><span=
+
+lang=3DEN-US style=3D'mso-bidi-font-family:Arial'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span lang=3DEN-US style=3D'font-s=
+ize:10.0pt;
+font-family:Arial'>Rm</span></span><span lang=3DEN-US style=3D'font-size:10.=
+0pt;
+font-family:Arial'> 1201, 12/F, <span class=3DSpellE>Goodluck</span> Industr=
+ial
+Centre, </span><st1:Street><span lang=3DEN-US style=3D'font-size:10.0pt;font=
+-family:
+ Arial'>808 Lai Chi <span class=3DSpellE>Kok</span> Road</span></st1:Street>=
+<span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:Arial'>, </span><st1:City=
+><span
+ class=3DSpellE><span lang=3DEN-US style=3D'font-size:10.0pt;font-family:Ari=
+al'>Kowloon</span></span></st1:City><span
+lang=3DEN-US style=3D'font-size:10.0pt;font-family:Arial'>, Hong Kong</span>=
+<span
+lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family=
+:Arial'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-f=
+ont-size:
+12.0pt;font-family:Arial'>Tel: (852) 3187 7039<span class=3DGramE>&nbsp; Fax=
+</span>:
+(852) 2742 6161<span style=3D'mso-spacerun:yes'>&nbsp; </span>Email: <a
+href=3D"mailto:texwinco@netvigator.com">texwinco@netvigator.com</a><br
+style=3D'mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-brea=
+k'>
+<![endif]></span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'><o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal><u><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bid=
+i-font-size:
+12.0pt;font-family:Arial'>Garments Production Factory:</span></u><span
+lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family=
+:Arial'>
+<b style=3D'mso-bidi-font-weight:normal'>Texwin Garments Factory<o:p></o:p><=
+/b></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-f=
+ont-size:
+12.0pt;font-family:Arial'>Tel: (86) 758 8651529<span class=3DGramE>&nbsp; Fa=
+x</span>:
+(86) 758 865 1342<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-f=
+ont-size:
+12.0pt;font-family:Arial'>Website:<span style=3D'color:#999999'> <a
+href=3D"http://www.tex-win.com/">http://www.tex-win.com</a><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></span>Email: <a
+href=3D"mailto:info@max-po.com">info@max-po.com</a><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-f=
+ont-size:
+12.0pt;font-family:Arial;color:#999999'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><u><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bid=
+i-font-size:
+12.0pt;font-family:Arial'>Fabrics &amp; Textile Accessories Factory:</span><=
+/u><span
+lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family=
+:Arial'>
+<span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>Texco</b></spa=
+n><b
+style=3D'mso-bidi-font-weight:normal'> Textile Factory<o:p></o:p></b></span>=
+</p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-f=
+ont-size:
+12.0pt;font-family:Arial'>Website:<span style=3D'color:#999999'> <a
+href=3D"http://www.texcotextile.com/">http://www.texcotextile.com</a><span
+style=3D'mso-spacerun:yes'>&nbsp; </span></span>Email: <a
+href=3D"mailto:sales@texcotextile.com">sales@texcotextile.com</a><span
+style=3D'color:#999999'><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3DE=
+N-US
+style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Conta=
+ct
+person: <o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3DE=
+N-US
+style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Mr.
+Christopher Ho (Mob: (852) 9345 <span class=3DGramE>5790<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Email</span>: <a
+href=3D"mailto:texwinco@netvigator.com">texwinco@netvigator.com</a>)<o:p></o=
+:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3DE=
+N-US
+style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Mr. E=
+ric
+Chen (Email: <a href=3D"mailto:info@max-po.com">info@max-po.com</a>)<o:p></o=
+:p></span></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3DE=
+N-US
+style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Ms. A=
+my
+Zhu (Email: <a href=3D"mailto:info@max-po.com">info@max-po.com</a>)</span></=
+b><span
+lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family=
+:Arial;
+color:#999999'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;mso-bidi-f=
+ont-size:
+12.0pt;font-family:Arial;color:#999999'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+

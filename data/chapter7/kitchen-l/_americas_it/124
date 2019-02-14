@@ -1,0 +1,121 @@
+Message-ID: <28930285.1075840862662.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 22:08:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+The design members will get a room for some of tonight and the entire day tomorrow and work through to get it down on paper, but it will be a best estimate by the time they finish and not completely definative, as that can only really happen at the end of an elaboration/design phase....there is no way that they could commit to a design decision for these big-ticket items in such a short space of time without compromising the quality of those decisions.
+
+I believe you can get a draft on you desk by the end of tomorrow, but can't guarantee that it can be reviewed in that time and signed, unless we acknowledge that this is an Inception Document and not an Elaboration document.  (An Inception document states intent to kick off the project, while an Elaboration document fleshes out the details and a design is produced).
+
+The team are trying hard to accomodate this request and I hope you will understand if they don't quite make it by EOB Friday.
+
+regards
+
+Steve
+
+PS: I'll be out of the office tomorrow at the hospital, but I can be reached on 713-598-0732  or by e-mail : steve@thestockfamily.com
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Thursday, April 19, 2001 5:54 PM
+To:	Stock, Stephen
+Subject:	RE: GTV weekly status update
+
+I am expecting a signed document -  the Phase II document was not worthwhile.  Geof listed out the information/areas that he wanted to see included in it, so I asked for them to be included.  It sounds as though Geof and your guys need to sit down and work through it today or tomorrow.
+
+
+
+From:	Stephen Stock/ENRON@enronXgate on 04/19/2001 03:47 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	 
+
+Subject:	RE: GTV weekly status update
+
+Hi Louise,
+
+I tried to call a moment ago, but unfortunately you were engaged in a meeting.
+
+I wanted to let you know that the message from you below has caused some concern with my team, as they are struggling to see how they can accomplish this to your satisfaction by end of this week, and Geoff Storey himself was wondering how we could even get to Transport Valuation in ERMS in that time frame.
+
+They are heading for a draft by the end of the week, but feel extremely uncomfortable about committing to timing and full scope untill they have had more time to work through  it.
+
+Could you please let me know if you are expecting a signed document at the end of this week?......or can I let them issue a draft to be firmed up next week instead?
+
+best regards
+
+Steve
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, April 17, 2001 1:50 PM
+To:	Wei, Zhiyong; Storey, Geoff
+Cc:	Bibi, Philippe A.; Perlman, Beth; Stock, Stephen
+Subject:	Re: GTV weekly status update
+
+I'm a bit confused - I think that the current document distributed for circulation is too small.  I would suggest this be abandonned and a next draft produced which includes the following.
+
+Single Deal entry revisions
+Options reports
+Transport Valuation in ERMS
+EOL reporting tools (possible)
+
+I would like to see Phase II include the items above and an Inception document re-issued this week.
+
+Thanks
+
+Louise
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ << File: GTV2 4-16-01.mpp >> 
+Thanks
+
+Zhiyong
+
+
+
+

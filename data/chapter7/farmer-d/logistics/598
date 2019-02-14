@@ -1,0 +1,76 @@
+Message-ID: <24803663.1075854119598.JavaMail.evans@thyme>
+Date: Mon, 20 Dec 1999 00:24:00 -0800 (PST)
+From: brenda.herod@enron.com
+To: daren.farmer@enron.com, mary.smith@enron.com, pat.clynes@enron.com
+Subject: Re: purge of old Contract_Event_Status
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Daren J Farmer, Mary M Smith, Pat Clynes
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+FYI - what do you all think?
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 12/20/99 08:19 
+AM ---------------------------
+From: Dave Nommensen on 12/17/99 05:29 PM
+To: Scotty Gilbert/HOU/ECT@ECT
+cc: George Smith/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Katherine L 
+Kelly/HOU/ECT@ECT, Bryce Baxter/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, 
+Brenda F Herod/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT 
+Subject: Re: purge of old Contract_Event_Status  
+
+Just to clarify, its not the relative age of the production date, but the age 
+of the event itself.
+
+d.n.
+
+
+To: George Smith, Edward Terry/HOU/ECT@ECT, Katherine L Kelly/HOU/ECT@ECT, 
+Bryce Baxter/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Brenda F 
+Herod/HOU/ECT@ECT
+cc: Richard Pinion/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT 
+Subject: Re: purge of old Contract_Event_Status  
+
+Do any of you see a problem with limiting this to the current month or 
+current month +1
+Need to know soon
+
+Scotty
+
+
+   
+	
+	
+	From:  Dave Nommensen                           12/17/99 03:25 PM
+	
+
+To: Scotty Gilbert/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT
+cc: Trisha Luong/HOU/ECT@ECT, Benedicta Tung/HOU/ECT@ECT, Diane E 
+Niestrath/HOU/ECT@ECT, Dave McMullan/HOU/ECT@ECT 
+Subject: purge of old Contract_Event_Status
+
+Scotty/Richard,
+
+Our DBAs would like to see what we can do to reduce the qty of rows in 
+Contract_Event_Status.  We have over 1 Gig of data in that table.  I would 
+like to suggest we have a nightly or weekly or monthly process to delete any 
+row with a Last_Mod_Date over a month (or two) old.  So if someone balances 
+February 1999 this month, we will keep it around for a month (or two).
+
+Does any one else have a desire to keep this data for a shorter/longer period 
+of time?
+
+This is not an audit table.  This is just a "log" every nom/track/balance/EDI 
+send/Fax send/sched qty/quick response since the beginning of time.
+
+d.n.
+
+
+
+
+
+

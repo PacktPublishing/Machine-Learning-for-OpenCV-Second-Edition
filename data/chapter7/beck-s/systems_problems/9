@@ -1,0 +1,100 @@
+Message-ID: <23822514.1075855929393.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 04:30:00 -0700 (PDT)
+From: kristin.albrecht@enron.com
+To: beth.perlman@enron.com, randy.matson@enron.com, jarod.jenson@enron.com, 
+	christine.nguyen@enron.com, zhiyong.wei@enron.com, 
+	ravi.ramachandran@enron.com, stacey.white@enron.com, 
+	jenny.latham@enron.com, jenny.rub@enron.com
+Subject: Power Port Calc Issues
+Cc: sally.beck@enron.com, kevin.presto@enron.com, tim.belden@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, kevin.presto@enron.com, tim.belden@enron.com
+X-From: Kristin Albrecht
+X-To: Beth Perlman, Randy Matson, Jarod Jenson, Christine Nguyen, Zhiyong Wei, Ravi Ramachandran, Stacey W White, Jenny Latham, Jenny Rub
+X-cc: Sally Beck, Kevin M Presto, Tim Belden
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The Power risk group continues to experience severe instability with the 
+power port calc.  The same memory allocation issue which I discussed in the 
+message below is not resolved (we have had this problem for about four months 
+now).  Due to business reasons, we calculated the east power books on Monday 
+(Enron holiday).  We received all of the required data to calc by 9:30 AM and 
+should have been completely done by 11:30.  However, the calc crashed six 
+times and finally completed on the seventh try.  We were able to leave by 
+4:00.  The point I am trying to make is that I feel that we are at such a 
+state that there is risk that we could not provide positions to the traders 
+by the start of the next business day.  This could have a financial impact on 
+our company.  Once again, I am urgently and desperately asking for resolution 
+of this problem.
+Furthermore, it came to my attention on Friday that EES is now using EnPower 
+and the power port calc and they too are using the same server that we are.  
+I question this decision since we cannot seem to support the existing 
+business that is using that server.  Per discussion with Kevin Presto, the 
+agreement made regarding EES's use of EnPower was there would be no expense 
+or degradation to ENA's business process.  I think they need to move to 
+another server.
+Please call to discuss when this will be resolved.  Thank You.
+Kristin Albrecht
+3-4763
+
+
+---------------------- Forwarded by Kristin Albrecht/HOU/ECT on 07/05/2000 
+09:35 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Kristin Albrecht                           05/15/2000 09:48 AM
+	
+
+To: Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod 
+Jenson/HOU/ECT@ECT, Christine Nguyen/HOU/ECT@ECT, Zhiyong Wei/HOU/ECT@ECT, 
+Ravi Ramachandran/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, Jenny 
+Latham/HOU/ECT@ECT
+cc:  
+Subject: athena vs quark
+
+With regards to the message below, we must have athena (server) to run our 
+nightly risk books for the power group.  We run one of our three east power 
+calcs on this machine (the second largest one).  Since an acceptable solution 
+for the big power calc has not been provided to us, athena CANNOT be taken 
+away from us.  The east power calc crashed 3 out of 5 days last week.  We 
+usually start calcing at about 4:00.  The calc time is now running at 1.5 
+hours and we have about 1.5 hours' worth of work after the calc's successful 
+completion.  So you do the math on what time my group leaves the building 
+when the calc crashes at 4:30.
+Furthermore, the West power calc has crashed 3 out of 5 nights weekly for the 
+last 3 weeks.  This is not acceptable.
+We are about to enter the busiest and most volatile time of the year and our 
+system is not stable.  I feel like we have been very patient at the expense 
+of many late nights.  I am going to speak to Kevin Presto and Tim Belden 
+today about these problems. 
+I think we need to meet immediately about this problem and I am exhausted 
+with the finger pointing between different IT groups.
+Thanks.
+Kristin Albrecht
+---------------------- Forwarded by Kristin Albrecht/HOU/ECT on 05/15/2000 
+09:27 AM ---------------------------
+   
+
+
+Christine Nguyen
+05/12/2000 01:01 PM
+To: Ravi Ramachandran/HOU/ECT@ECT
+cc: Randy Matson/Corp/Enron@ENRON 
+Subject: athena vs quark
+
+Ravi,
+       Please advise your users that athena will be completely unavailable 
+starting
+Wednesday17May2000.  The production server is quark (12gb RAMx18procs).
+quark is configured to our standard for your use.
+Thanks,
+-Christine
+
+
+
+

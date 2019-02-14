@@ -1,0 +1,51 @@
+Return-Path: <ss_sahy@yahoo.com>
+Received: (fqmail 22882 invoked from network); 07 Dec 2004 11:27:27 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 07 Dec 2004 11:27:27 -0000
+Received: (qmail 11559 invoked from network); 7 Dec 2004 11:27:26 -0000
+Received: from paz-b8c6fe9018b. (212.199.149.238.forward.012.net.il [212.199.149.238])
+  by mx02.futurequest.net ([69.5.6.172])
+  with SMTP via TCP; 07 Dec 2004 11:27:26 -0000
+x-esmtp: 0 0 1
+Message-ID: <2244592-220041227202436828@paz-b8c6fe9018b>
+From: "dani" <ss_sahy@yahoo.com>
+To: webmaster@ezmlm.org
+Subject: i need programmer know to ues asp or php 
+Date: Tue, 7 Dec 2004 12:24:36 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_NextPart_000_01BC2B74.89D1CCC0"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_01BC2B74.89D1CCC0
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+1=2E=EC=F2=F1=F7 =F9=F2=E5=F1=F7 =E1=FA=E7=E5=ED =E4=F4=F8=F1=E5=ED =E3=F8=
+=E5=F9=E9=ED =F2=E5=E1=E3=E9=ED =E1=E5=F0=E4 =E0=FA=F8=E9=ED =E7=E5=E1=E4 =
+=F0=F1=E9=E5=EF
+(php, asp, html, =F2=E9=F6=E5=E1 =E2=F8=F4=E9=F7=E4 =E5=E1=E9=F6=E5=F2 =E0=
+=F4=F7=E8=E9=ED , =E5=F4=EC=E0=F9=E9=ED)
+2=2E=E5=E3=F8=E5=F9=E9=ED =E0=F0=F9=E9 =FA=EE=E9=EB=E4  =EC=EE=F2=F8=EB=FA=
+ =E4=F4=F2=EC=E4  =EC=E9=F0=E5=F7=F1, =EB=E3=E9 =EC=FA=EE=E5=EA =E5=EC=E4=F2=
+=EC=E5=FA =E0=FA =E4=E0=FA=F8=E9=ED =20
+ =E5=E0=F0=F0=F9=E9 web master =20
+=EC=F9=E9 ss_sahy@yahoo=2Ecom =20
+=EC=F6=F8=F3 =F7=E5=F8=E5=FA =E7=E9=E9=ED, 052-851111
+
+
+------=_NextPart_000_01BC2B74.89D1CCC0
+Content-Type: text/plain; name="i need programmer know to ues asp or php .txt"
+Content-Transfer-Encoding: base64
+Content-Description: i need programmer know to ues asp or php .txt
+Content-Disposition: attachment; filename="i need programmer know to ues asp or php .txt"
+
+MS7s8vH3IPny5fH3IOH65+XtIOT0+PHl7SDj+OX56e0g8uXh4+ntIOHl8OQg4Pr46e0g5+Xh5CDw
+8enl7w0KKHBocCwgYXNwLCBodG1sLCDy6fbl4SDi+PTp9+Qg5eHp9uXyIOD09+jp7SAsIOX07OD5
+6e0pDQoyLuXj+OX56e0g4PD56SD67unr5CAg7O7y+Ov6IOT08uzkICDs6fDl9/EsIOvj6SDs+u7l
+6iDl7OTy7OX6IOD6IOTg+vjp7SAgDQog5eDw8PnpIHdlYiBtYXN0ZXIgIA0K7PnpIHNzX3NhaHlA
+eWFob28uY29tICANCuz2+PMg9+X45fog5+np7SwgMDUyLTg1MTExMQ0K
+------=_NextPart_000_01BC2B74.89D1CCC0--
+

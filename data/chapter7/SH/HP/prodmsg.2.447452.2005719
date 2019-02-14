@@ -1,0 +1,84 @@
+Received: from ricotta.interq.or.jp (HELO mxforward02.ms.interq.net) (210.172.129.246)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:38 -0000
+Received: from localhost (localhost)
+	by mxforward02.ms.interq.net (8.12.9+Sun/8.12.9) id j6JAvVOG021921;
+	Tue, 19 Jul 2005 19:57:31 +0900 (JST)
+Date: Tue, 19 Jul 2005 19:57:31 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON@mxforward02.ms.interq.net>
+Message-Id: <200507191057.j6JAvVOG021921@mxforward02.ms.interq.net>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAvVOG021921.1121770651/mxforward02.ms.interq.net"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAvVOG021921.1121770651/mxforward02.ms.interq.net
+
+The original message was received at Tue, 19 Jul 2005 19:57:29 +0900 (JST)
+from YahooBB220035108243.bbtec.net [220.35.108.243]
+
+   ----- The following addresses had permanent fatal errors -----
+takashige0324@r2.dion.ne.jp
+    (reason: 550 user unknown)
+    (expanded from: <info@motor-stage.com>)
+
+   ----- Transcript of session follows -----
+... while talking to mail.r2.dion.ne.jp.:
+>>> RCPT To:<takashige0324@r2.dion.ne.jp>
+<<< 550 user unknown
+550 5.1.1 takashige0324@r2.dion.ne.jp... User unknown
+
+--j6JAvVOG021921.1121770651/mxforward02.ms.interq.net
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mxforward02.ms.interq.net
+Received-From-MTA: DNS; YahooBB220035108243.bbtec.net
+Arrival-Date: Tue, 19 Jul 2005 19:57:29 +0900 (JST)
+
+Final-Recipient: RFC822; info@motor-stage.com
+X-Actual-Recipient: RFC822; takashige0324@r2.dion.ne.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mail.r2.dion.ne.jp
+Diagnostic-Code: SMTP; 550 user unknown
+Last-Attempt-Date: Tue, 19 Jul 2005 19:57:30 +0900 (JST)
+
+--j6JAvVOG021921.1121770651/mxforward02.ms.interq.net
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (YahooBB220035108243.bbtec.net [220.35.108.243])
+	by mxforward02.ms.interq.net (8.12.9+Sun/8.12.9) with SMTP id j6JAvSOG021915
+	for <info@motor-stage.com>; Tue, 19 Jul 2005 19:57:29 +0900 (JST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816222;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@motor-stage.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273555">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JAvVOG021921.1121770651/mxforward02.ms.interq.net--
+

@@ -1,0 +1,60 @@
+Message-ID: <25442342.1075854183850.JavaMail.evans@thyme>
+Date: Tue, 28 Mar 2000 12:57:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: edward.terry@enron.com, katherine.kelly@enron.com, tricia.bowen@enron.com, 
+	chris.germany@enron.com, maria.garza@enron.com, 
+	george.smith@enron.com, randall.gay@enron.com, 
+	daren.farmer@enron.com, carlos.rodriguez@enron.com, 
+	pat.clynes@enron.com, kimberly.olinger@enron.com
+Subject: Procedure for adding new Capacity tickets for multi-desk Service
+ utilization
+Cc: tommy.yanowski@enron.com, scott.mills@enron.com, thomas.engel@enron.com, 
+	robert.superty@enron.com, inja.chun@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tommy.yanowski@enron.com, scott.mills@enron.com, thomas.engel@enron.com, 
+	robert.superty@enron.com, inja.chun@enron.com
+X-From: Dave Nommensen
+X-To: Edward Terry, Katherine L Kelly, Tricia Bowen, Chris Germany, Maria Garza, George Smith, Randall L Gay, Daren J Farmer, Carlos J Rodriguez, Pat Clynes, Kimberly S Olinger
+X-cc: Tommy J Yanowski, Scott Mills, Thomas Engel, Robert Superty, Inja Chun
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+In order to provide the ability to track transport expense by Desk, Sitara 
+was modified to allow multiple Transport Capacity tickets for the same 
+Service Contract provided that they are for different desks and only one is 
+tagged as "Primary".  Here is the procedure for setting up new Capacity 
+tickets to reflect the "other" desks:
+
+a.  You will probably first notice this via a warning/error message in Path 
+Manager when building a new path.  The message will read something like   
+"Source/Destination 123456 for desk IMCT does not match Service contract 3434 
+and will be removed."
+b.  Make note of the deal number in the Service List of the Service contract 
+that you were using in the new path.
+c.  Open that Transport Capacity deal in Sitara.  Then hit Copy.
+d.  On the new deal:
+ Change the Buyer from the old desk to the new desk that matches the Supply 
+or Market deal that you are pathing with.  If it a contract for which we are 
+  agent, then don't change the Buyer but instead change the Agent to the new 
+desk.  The "primary" deal will carry the actual Agent.
+ Changing the Buyer causes the Contract field to get blanked out.  Re-select 
+the contract.
+ Just above the various exchange line items is a Primary Deal check box.  
+Un-check it.
+ On each exchange line item, change the MDQ to zero and for any Negotiated 
+rates, uncheck them as well.  The "primary" deal will carry the MDQ and
+  any negotiated Demand, Commodity or fuel.
+ Hit Release.
+e.  You may need to re-retrieve Path Manager.  You should see the Deal number 
+in the Service list now read "Multiple".  Right-click/Service Deals will list 
+the  specific deals.
+f.  Re-build the path as you originally desired.  The warning/error message 
+should not appear again.
+
+This could occur for any combination of Desk and Service Contract.
+Please file this in your "Call Dave If I Can't Find This" folder.
+
+Thanks, d.n.

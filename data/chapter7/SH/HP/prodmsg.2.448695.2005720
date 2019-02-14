@@ -1,0 +1,44 @@
+Received: from www.smsmag.be (HELO smsmag03) (62.213.199.12)
+  by projecthoneypotmailserver with SMTP; 20 Jul 2005 14:36:01 -0000
+Received: from smsmag03 ([127.0.0.1]) by smsmag03 with Microsoft SMTPSVC(5.0.2195.6713);
+	 Wed, 20 Jul 2005 16:37:53 +0200
+Message-ID: <29697336.1121870273125.JavaMail.SYSTEM@smsmag03>
+Date: Wed, 20 Jul 2005 16:37:53 +0200 (CEST)
+From: smile@10seconds.tv
+To: projecthoneypot@projecthoneypot.org
+Subject: Een avontuurtje is oke,
+Mime-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: ColdFusion MX Application Server
+Return-Path: smile@10seconds.tv
+X-OriginalArrivalTime: 20 Jul 2005 14:37:53.0125 (UTC) FILETIME=[9C618950:01C58D38]
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-color: CCCCCC;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+-->
+</style>
+</head>
+
+<body>
+<div align="center">
+  <p align="center" class="style1">Als je dit bericht niet kan lezen, <a href="http://www.kdotv.com/home.cfm?lang=nl&amp;ontmoetingen&amp;liefde" target="_blank" class="style1">klik hier.</a></p>
+  <p><a href="http://www.kdotv.com/home.cfm?lang=nl&amp;ontmoetingen&amp;liefde" target="_blank" class="style1"><img src="http://www.kdotv.com/mailing/stucknl.jpg" border="0"></a></p>
+  <p align="center" class="style1">Je hebt dit bericht ontvangen omdat je in de DB SMSMAG / KDOTV bent. Om uit te schrijven, <a href="http://www.kdotv.com/mailing/unsubscribe.cfm?email=projecthoneypot@projecthoneypot.org&amp;lang=1" target="_blank" class="style1">klik hier.</a> </p>
+</div>
+</body>
+</html>
+

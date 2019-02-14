@@ -1,0 +1,53 @@
+Return-Path: <qcdzmflio@hush.ai>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 25807 invoked by uid 115); 17 Jul 2005 04:23:05 -0000
+Received: from qcdzmflio@hush.ai by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(219.137.66.137):. 
+ Processed in 0.347424 secs); 17 Jul 2005 04:23:05 -0000
+Received: from unknown (HELO 209.5.178.248) (219.137.66.137)
+  by churchill.factcomp.com with SMTP; 17 Jul 2005 04:23:03 -0000
+X-Message-Info: QO+ntd/9+rn/CFV+9/4106856138708
+Received: from smtp-chew.bonaparte.qcdzmflio@hush.ai ([219.137.66.137]) by ds4-ff57.qcdzmflio@hush.ai with Microsoft SMTPSVC(5.0.0116.5473);
+	 Sun, 17 Jul 2005 07:19:54 +0200
+Received: from extinguish14.precautionary.qcdzmflio@hush.ai (petrel91.qcdzmflio@hush.ai [219.137.66.137])
+	by smtp-bland.imaginate.qcdzmflio@hush.ai (Postfix) with SMTP id 844ZS6O79VAO
+	for <bait@em.ca>; Sun, 17 Jul 2005 10:15:54 +0500
+X-Message-Info: UBYO+%ND_LC_CHAR[1-3]21+cvg+D+13/7024647813703
+Received: (qmail 74080 invoked by uid 6); Sun, 17 Jul 2005 11:14:54 +0600
+Date: Sat, 16 Jul 2005 22:21:54 -0700
+Message-Id: <652521718122.07779@qcdzmflio@hush.ai>
+From: Kurtis  <qcdzmflio@hush.ai>
+To: Bait <bait@em.ca>
+Subject: TurboNet Pro
+MIME-Version: 1.0 (produced by jonathanbubble 3.7)
+Content-Type: multipart/alternative;
+	boundary="--5303165352188938"
+
+----5303165352188938
+Content-Type: text/plain;
+	charset="iso-4600-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: camille carve universe
+
+Hi, 
+
+Make your ordinary 56k modem go speeds of upto 250k+!
+(Average increased speeds of 195 - 200K!) 
+
+Download music/programs in seconds, not minutes! 
+
+This hardware is compatible with EVERY Dialup ISP! 
+
+Check it out: 
+
+http://look4net.info
+
+Don't forget to save our site URL!
+(If its not up, try again later!) 
+
+Goodbye,
+http://look4net.info/r/
+Cary=20
+
+
+----5303165352188938--

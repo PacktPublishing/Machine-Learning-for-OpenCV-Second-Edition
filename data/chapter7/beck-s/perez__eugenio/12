@@ -1,0 +1,105 @@
+Message-ID: <16122884.1075855890091.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 10:21:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: naveen.andrews@enron.com
+Subject: Re: Risk Metrics
+Cc: ted.murphy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com
+X-From: Eugenio Perez
+X-To: Naveen Andrews
+X-cc: Ted Murphy
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I completely agree with you.
+
+Nevertheless, I am sorry if I did not make myself clear when we talked about 
+this last Tuesday: I am not advocating penalizing business units because of 
+their 1week ROVARs or Sharpes.  I would certainly not set traders' bonuses 
+based on these numbers (nor do I think anyone at Enron would consider doing 
+that). 
+
+Enron focuses on long term profit and risk.  However, the long term is made 
+up of many short terms, and catastrophes can occur if a company's management 
+does not pay close attention to the latter.  Indeed, Enron management is very 
+interested in short term profitability (they want to be notified of very 
+large 1 and 5 day losses) and short term risk (we report daily VaR limit 
+violations).  In this spirit, I am simply offering 1 and 4 week ROVARs and 
+Sharpes as something interesting and useful that we can now produce from the 
+DPR database, and I will let upper management use or ignore them as they see 
+fit.
+
+Regards,
+
+
+
+Eugenio
+
+
+
+
+
+
+
+
+Naveen Andrews@ENRON
+09/08/2000 11:13 AM
+To: Eugenio Perez/HOU/ECT@ECT
+cc: Ted Murphy/HOU/ECT@ECT 
+Subject: Risk Metrics
+
+Eugenio,
+        In regard to your recent e-mail concerning RoVar, Sharpe and other 
+risk metrics, and our meeting on Tuesday, it is imperative to understand that
+
+(1) While P&L is a number one can aggregate on a daily basis, VaR numbers on 
+1-week or 4-week basis, and consequently RoVaR numbers, are not meaningful 
+operationally (ie, trading activity and senior management decision-making) 
+and statistically.  RoVaR and Sharpe were designed to measure business unit 
+performance over extended time periods (preferably a year).  Specifically, 
+you cannot penalize, or make  reasonable business decisions about  a  unit , 
+because of their 1-week RoVar or Sharpe.
+
+(2) Significant trading activity at ENE is composed of long-term strategic 
+trades (seasonal plays with durations of over 6 months, perhaps), wherein 
+desk heads and  senior management have an intuitive feeling for their RoVaR 
+(OVER 6 MONTHS).   A 1-week or  4-week "interim" number  in this case is not 
+useful.   Traders might purposefully want to make  a certain 1-week or 4-week 
+RoVaR LOW in their trading activity if they believe their 6-month number can 
+be HIGH.  In such a case, a 1-week number might send dangerous messages to 
+senior management.
+
+
+(3) Conceptually,  P&L and VaR, in isolation, are numbers which are sound and 
+rigourously calculated.  The Ratio, however,  one has to be careful about.  
+The numerator (cumulative P&L over a certain period) can be aggregated by 
+simple arithmetic summation, no problems.  However, the denominator (average 
+daily VaR over a certain period) relies on the underlying assumption that 
+each point in your time series is independent and correlationless.  To get a 
+sufficient statistic for the denominator, one would have to take a large 
+sample in your series (6 months or more), for a DAILY AVERAGE VaR number to 
+be meaningful, statistically.
+
+(4) The RAC group has instituted similar metrics which have been in usage  
+for over two years.  The numbers are shown to the B.O.D with the express 
+intent of comaring business unit performance on a 6-month or yearly tenor.  
+Please contact Matthew Adams (RAC) or myself  to make sure that we are on the 
+same footing regarding the actual calculation of such metrics.  Also, in the 
+future, just to be consistent and on-the-same-page, please contact me or Mr. 
+Adams if any risk-related numbers are to be showcased in a public forum.
+
+(5) Finally, as you can probably corroborate, senior management might  not 
+be  fully versed on the nuances of VaR, let alone 1-week VaR ratios.  
+Therefore, one has to be wary of the misuse of ratios and risk metrics.
+
+I liked your presentation of your database on Tuesday.  I think it is a nice 
+step in aggregating and dissecting  P&L from disparate sources.
+
+Best Regards
+Naveen
+
+

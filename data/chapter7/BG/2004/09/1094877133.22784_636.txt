@@ -1,0 +1,46 @@
+Return-Path: <supremum.century@citytv.com>
+Received: (fqmail 23088 invoked from network); 11 Sep 2004 03:31:37 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 11 Sep 2004 03:31:37 -0000
+Received: (qmail 21649 invoked from network); 11 Sep 2004 03:31:34 -0000
+Received: from 69.5.6.175 ([219.241.152.213])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 11 Sep 2004 03:31:34 -0000
+X-Message-Info: y454PN29196D97UiwhDATrrM971sgY5wfnZUUexDE31Y6
+Received: from mail pickup service by 219.241.152.213 with Microsoft SMTPSVC;
+	 Fri, 10 Sep 2004 23:22:10 -0400
+Content-Class: urn:content-classes:message
+Language: English
+X-MIME-Autoconverted: Yes
+Approved: Yes (bouquet@galaxy7.net)
+Reply-To: "Clint*Welch" <Wendi06529Hart@galaxy7.net>
+From: "Clint*Welch" <Wendi06529Hart@galaxy7.net>
+To: webmaster@ezmlm.org
+Cc: bugs@ezmlm.org
+Subject: Your form was accepted. Welcome Aboard
+Date: Fri, 10 Sep 2004 22:24:10 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--690011620122311"
+
+----690011620122311
+Content-Type: text/html;
+	charset="iso-6740-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible for a 2.3% rate and a $400,000 loan.
+<p>
+Please verify your information here:<br>
+ <a href="http://lomb.bargainloan.info/s5/li.php?l4d=55">http://lomb.bargainloan.info/s5/li.php?l4d=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<br>
+Clint*Welch<br>
+Senior Account Manager<br>
+Webber Financial Association
+</html>
+
+----690011620122311--

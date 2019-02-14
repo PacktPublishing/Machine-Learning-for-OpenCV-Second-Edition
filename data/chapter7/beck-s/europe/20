@@ -1,0 +1,98 @@
+Message-ID: <502704.1075849852836.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 09:18:00 -0800 (PST)
+From: mike.jordan@enron.com
+To: louis.colarusso@enron.com
+Subject: Re: SAP Implementation
+Cc: fernley.dyson@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: fernley.dyson@enron.com, sally.beck@enron.com
+X-From: Mike Jordan
+X-To: Louis Colarusso
+X-cc: Fernley Dyson, Sally Beck
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Thanks for this note Lou  - I will making a special effort to recommunicate 
+this to the wider Metals group in London
+
+
+
+
+Louis Colarusso@MGUSA
+15/02/2001 16:28
+To: Craig Brown/SAP Systems/LON/ECT@ECT, Rayees Moizuddin/LON/ECT@ECT, 
+Charlotte McKinty/Corp/Enron@ENRON, Sean Connor/LON/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT, Andrew Cornfield/LON/ECT@ECT, Marcelo 
+Parra/NYC/MGUSA@MGUSA
+cc:  
+
+Subject: SAP Implementation
+
+After a successful period 1 close by 1041 and 1123 I wanted to summarize the 
+positives and negatives of the project in order to improve the process for 
+the London Metals implementation.
+
+Positives:
+
+Seamless consolidation process with Enron worldwide
+
+Common design allows users in North America to access key financial data to 
+help control London Metals business
+ accounts receivable
+ accounts payable
+
+Aging of accounts receivable for proper control monitoring
+
+Profit Center report functionality for controlling of business by business 
+group
+
+Timing of close process in conjunction with Enron worldwide
+
+Cost center control by category link by design to corresponding profit center
+
+Cash control procedures utilizing the Treasury Work Station of Enron Corp.
+
+Direct posting of intercompany accounts to reduce duplicate entries
+
+Production of the Daily Profit Report direct from SAP utilizing the 
+consolidation ledger
+
+SAP trail balance controlled by the ledger owner agrees with the DPR by 
+profit center
+
+Negatives:
+
+FIT 3 testing should be expanded in order to identify all types of business 
+flows and to evaluate how they are being treated in SAP.  NY did a two day 
+roll forward of equity which proved useful.  This type of testing could be 
+expanded for the London companies.
+
+Poor links of information between GCP system and TWS created many manual 
+payments.
+ This problem is being sorted out by a process outside the SAP implementation 
+team.
+
+Strict intercompany common design rules around intercompany relationships 
+have created a difficult control environment.
+ SAP intercompany meetings are being conducted to create a system that 
+adheres to the common design   however allows better intercompany control 
+features between broker and physical company.
+
+A special thanks goes out to the SAP team who's continued dedication on this 
+project has made it a success:
+ 
+Charlotte McKinty
+Craig Brown
+Rayees Moizuddin
+Sean Connor
+
+
+Regards,
+
+Louis Colarusso
+Enron Metals & Commodity Corp
+E-Mail: louis.colarusso@enron.com
+

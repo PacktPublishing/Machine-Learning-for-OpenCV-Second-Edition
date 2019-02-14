@@ -1,0 +1,35 @@
+Message-ID: <816433.1075856595799.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 07:54:00 -0800 (PST)
+From: tanya.tamarchenko@enron.com
+To: wenyao.jia@enron.com
+Subject: Re: implementation of smothing algorithm for forward forward
+ volatilities calculation
+Cc: rabi.de@enron.com, jaesoo.lew@enron.com, naveen.andrews@enron.com, 
+	vince.kaminski@enron.com, vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rabi.de@enron.com, jaesoo.lew@enron.com, naveen.andrews@enron.com, 
+	vince.kaminski@enron.com, vladimir.gorny@enron.com
+X-From: Tanya Tamarchenko
+X-To: Wenyao Jia
+X-cc: Rabi De, Jaesoo Lew, Naveen Andrews, Vince J Kaminski, Vladimir Gorny
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Winston, 
+I am sending you the documentation on the new methodology for creating ffvols
+from implied vols. This methodology requires some minimization procedure
+to fit the given vol curve with a smoothing function. I am sending you the
+code I wrote that performs minimization with simulated annealing method from 
+Numerical Recipes.
+
+We might need to discuss some details. Please, let me know if you have 
+questions.
+
+Tanya.
+
+
+
+

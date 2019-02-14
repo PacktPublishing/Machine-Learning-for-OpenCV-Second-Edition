@@ -1,0 +1,50 @@
+Message-ID: <11451487.1075863304033.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 13:04:16 -0700 (PDT)
+From: kate.symes@enron.com
+To: shift.dl-portland@enron.com
+Subject: EPE Lending/Day-Ahead Short Positions for 8/8
+Cc: lisa.gang@enron.com, holden.salisbury@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.gang@enron.com, holden.salisbury@enron.com
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: DL-Portland Real Time Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandRealTimeShift>
+X-cc: Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>, Salisbury, Holden </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hsalisbu>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Here are the short positions our desk is taking for Wednesday, Aug. 8 -
+
+1. EPE Lending: We're short under the STWBOM	book, 25 mw on peak @ PV. Price is $72. Reduce purchase price to $4 after procuring energy elsewhere and sell back to EPE @ $0. Deals are....
+
+721708 - STWBOM buys EPE
+	 25 mw @ $72
+
+721729 - STWBOM sells STSW
+	 25 mw @ $72
+
+721734 - STSW buys EPE
+	 25 mw @ $72
+
+2. Day-Ahead Short: We're short a total of 50 mw @ SP15 in the day-ahead market - 
+	25 mw has been sold for $67.72 at SP15 by the STCA desk
+	25 mw has been sold for $72 at PV by the STSW desk. 
+Make Real Time purchases to fill the short and sell back to the Imbalance @ $0. Deals are....
+
+721547 - STWBOM buys Cal-Imbalance
+	 SP15/On Peak
+	 50 mw @ $0 
+
+721584 - STWBOM buys EPMI-CAL-POOL
+	 SP15 to PV/On Peak
+	 25 mw @ $0
+
+722024 - STWBOM sells STSW
+	 PV/On Peak
+	 25 mw @ $72
+
+Deal # TBA - STWBOM sells STCA
+	       SP15/On Peak
+	       25 mw @ $67.72

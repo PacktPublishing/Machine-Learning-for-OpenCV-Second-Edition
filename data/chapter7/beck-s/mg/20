@@ -1,0 +1,89 @@
+Message-ID: <9645032.1075855880531.JavaMail.evans@thyme>
+Date: Tue, 25 Jul 2000 03:25:00 -0700 (PDT)
+From: phil.redman@enron.com
+To: mike.jordan@enron.com
+Subject: Re: MG Middle Office Integration Issues and timetable
+Cc: tim.poullain-patterson@enron.com, richard.sage@enron.com, 
+	fernley.dyson@enron.com, andrew.cornfield@enron.com, 
+	alex.holland@enron.com, ralph.jaeger@enron.com, 
+	naomi.connell@enron.com, shona.wilson@enron.com, 
+	brent.price@enron.com, sally.beck@enron.com, krhodes@mgltd.com, 
+	beth.apollo@enron.com, stephen.wood@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tim.poullain-patterson@enron.com, richard.sage@enron.com, 
+	fernley.dyson@enron.com, andrew.cornfield@enron.com, 
+	alex.holland@enron.com, ralph.jaeger@enron.com, 
+	naomi.connell@enron.com, shona.wilson@enron.com, 
+	brent.price@enron.com, sally.beck@enron.com, krhodes@mgltd.com, 
+	beth.apollo@enron.com, stephen.wood@enron.com
+X-From: Phil Redman
+X-To: Mike Jordan
+X-cc: Tim Poullain-Patterson, Richard Sage, Fernley Dyson, Andrew Cornfield, Alex Holland, Ralph Jaeger, Naomi Connell, Shona Wilson, Brent A Price, Sally Beck, "Kevin Rhodes" <krhodes@mgltd.com> @ ENRON, Beth Apollo, Stephen Wood
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Good summary. Tim, does your draft plan now require a new iteration?
+
+
+
+
+Mike Jordan
+24/07/2000 10:38
+To: Tim Poullain-Patterson/LON/ECT@ECT, Richard Sage/LON/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT, Phil Redman/LON/ECT@ECT, Andrew Cornfield/LON/ECT@ECT, 
+Alex Holland/LON/ECT@ECT, Ralph Jaeger/FRA/ECT@ECT, Naomi 
+Connell/LON/ECT@ECT, Shona Wilson/NA/Enron@Enron, Brent A Price/HOU/ECT@ECT, 
+Sally Beck/HOU/ECT@ECT, "Kevin Rhodes" <krhodes@mgltd.com> @ ENRON, Beth 
+Apollo/LON/ECT@ECT, Stephen Wood/LON/ECT@ECT
+cc:  
+
+Subject: MG Middle Office Integration Issues and timetable
+
+To all
+
+Tim has delivered the initial microsoft project plan for the MO integration - 
+this is available to all via the integration project 'office' - i.e. Richard 
+and Phil.
+
+I summarise the key themes as :-
+
+summary operational risk assessment across all MG entities and functional 
+groups ( as defined within the DPR )
+defining MO organisational structure and fit with Enron's control model - 
+particularly logistics and co-ordination
+interaction with Fin Ops processes
+month end consolidation process
+SAP implementation
+working capital and revenue forecasting
+interaction with RAC re VAR / trading limits ( market and credit )
+awaiting notice of trading limits
+credit counterparty review and set up within GCP
+VAR methodology implementation
+interaction with IT re systems development/maintenance
+AS 400 development timetable and roll out to NY for WANG replacement
+MITS/EOL migration
+Use of Enlighten in application architecture
+defined IT resource requirement
+interaction with Legal re Enron Metals name change and related documentation 
+issues
+MO integration planning for settlements and trade accounting
+
+The focus and objectives relating to the above for this week are as follows :-
+
+review of London processes and define boundaries for segregation of duties 
+implementation ( Action TPP ) - also discuss extension to NY ( SWilson )
+review of Wolff activities in Germany ( Action KR/AC )
+continuing review of new recycling yards ( project Cook ) in Germany ( Action 
+AH/RJ )
+review interdependencies between MO/Fin Ops/RAC/Systems integration plans ( 
+Action MJ/RS )
+document current assessment of operational risk with particular emphasis on 
+Wolff and Recycling businesses ( Action MJ with KR/AC/AH/RJ/TPP/SW )
+Brainstorm month end accounting close and potential earnings election for 
+consolidation ( Action  TPP/MJ/BA/SWood )
+
+Mike
+

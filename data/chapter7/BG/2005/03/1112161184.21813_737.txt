@@ -1,0 +1,959 @@
+Return-Path: <leah@jrdtw.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16249 invoked by uid 115); 30 Mar 2005 05:27:38 -0000
+Received: from leah@jrdtw.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.75.182.115):. 
+ Processed in 23.792621 secs); 30 Mar 2005 05:27:38 -0000
+Received: from unknown (HELO jitu-home) (211.75.182.115)
+  by churchill.factcomp.com with SMTP; 30 Mar 2005 05:27:13 -0000
+x-esmtp: 0 0 1
+Message-ID: <746864-22005322972342142@jitu-home>
+Organization: JRD Co., Ltd.
+From: "Leah Hsu" <leah@jrdtw.com>
+To: bruceg@em.ca
+Subject: Replacement Notebook Battery Packs
+Date: Tue, 29 Mar 2005 15:23:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_746813545029193572342142"
+Content-Length: 29009
+
+------=_NextPart_746813545029193572342142
+Content-type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+
+
+JRD Co=2E, Ltd=2E
+6F-1, No=2E 262, Fude 1st Road, Hsi-Chih Hsien,
+Taipei, Taiwan R=2EO=2EC=2E
+Tel: 886-2-26931350 Ext=2E 21
+Fax: 886-2-26931523
+E-Mail: leah@jrdtw=2Ecom
+http://www=2Ejrdtw=2Ecom
+
+This email is intended for Electronics & Computer System Builders, Compute=
+r Parts Importers, Wholesalers, Resellers & Dealers only=2E If you have so=
+mehow received this mail in errors or for any reason would like to be remo=
+ved, please reply with "REMOVE" or "UNSUBSCRIBE" in the subject line of th=
+is mail=2E We will remove your email address from our mailing list within =
+7 working days=2E We apologize for any inconvenience caused=2E
+------=_NextPart_746813545029193572342142
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://w=
+ww=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">=0A<html xmlns=3D"h=
+ttp://www=2Ew3=2Eorg/1999/xhtml">=0A<head>=0A<title>Products - Notebook Ba=
+ttery</title>=0A<META name=3D"description" content=3D"Taiwan Manufacturer =
+for Replacement Notebook Battery Pack, Replacement Laptop Battery Pack Man=
+ufacturer in Taiwan Taipei">=0A<META name=3D"keywords" content=3D"Replacem=
+ent Notebook Battery Pack, Replacement Laptop Battery Pack, Taiwan, Taiwan=
+ Manufacturer, Notebook Battery, Battery Pack, Laptop Battery, Notebook Ba=
+ttery Manufacturer, Notebook Battery Supplier, Replacement Battery Pack">=0A=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1" />=0A<link href=3D"=2E=2E/=2E=2E/stylesheets/mainstyle=2Ecss" rel=3D"s=
+tylesheet" type=3D"text/css" />=0A<script language=3D"JavaScript" type=3D"=
+text/JavaScript">=0A<!--=0Afunction MM=5FswapImgRestore() { //v3=2E0=0A  v=
+ar i,x,a=3Ddocument=2EMM=5Fsr; for(i=3D0;a&&i<a=2Elength&&(x=3Da[i])&&x=2E=
+oSrc;i++) x=2Esrc=3Dx=2EoSrc;=0A}=0A=0Afunction MM=5FpreloadImages() { //v=
+3=2E0=0A  var d=3Ddocument; if(d=2Eimages){ if(!d=2EMM=5Fp) d=2EMM=5Fp=3Dn=
+ew Array();=0A    var i,j=3Dd=2EMM=5Fp=2Elength,a=3DMM=5FpreloadImages=2Ea=
+rguments; for(i=3D0; i<a=2Elength; i++)=0A    if (a[i]=2EindexOf("#")!=3D0=
+){ d=2EMM=5Fp[j]=3Dnew Image; d=2EMM=5Fp[j++]=2Esrc=3Da[i];}}=0A}=0A=0Afun=
+ction MM=5FfindObj(n, d) { //v4=2E01=0A  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn=2EindexOf("=3F"))>0&&parent=2Eframes=2Elength) {=0A    d=3Dparen=
+t=2Eframes[n=2Esubstring(p+1)]=2Edocument; n=3Dn=2Esubstring(0,p);}=0A  if=
+(!(x=3Dd[n])&&d=2Eall) x=3Dd=2Eall[n]; for (i=3D0;!x&&i<d=2Eforms=2Elength=
+;i++) x=3Dd=2Eforms[i][n];=0A  for(i=3D0;!x&&d=2Elayers&&i<d=2Elayers=2Ele=
+ngth;i++) x=3DMM=5FfindObj(n,d=2Elayers[i]=2Edocument);=0A  if(!x && d=2Eg=
+etElementById) x=3Dd=2EgetElementById(n); return x;=0A}=0A=0Afunction MM=5F=
+swapImage() { //v3=2E0=0A  var i,j=3D0,x,a=3DMM=5FswapImage=2Earguments; d=
+ocument=2EMM=5Fsr=3Dnew Array; for(i=3D0;i<(a=2Elength-2);i+=3D3)=0A   if =
+((x=3DMM=5FfindObj(a[i]))!=3Dnull){document=2EMM=5Fsr[j++]=3Dx; if(!x=2EoS=
+rc) x=2EoSrc=3Dx=2Esrc; x=2Esrc=3Da[i+2];}=0A}=0A//-->=0A</script>=0A</hea=
+d>=0A=0A<body onload=3D"MM=5FpreloadImages('=2E=2E/=2E=2E/images/main/tmen=
+u=5F02=5Fon=2Egif','=2E=2E/=2E=2E/images/main/tmenu=5F03=5Fon=2Egif','=2E=2E=
+/=2E=2E/images/main/tmenu=5F04=5Fon=2Egif','=2E=2E/=2E=2E/images/main/tmen=
+u=5F05=5Fon=2Egif','=2E=2E/=2E=2E/images/main/tmenu=5F01=5Fon=2Egif')">
+<P>
+<TABLE id=3DtableBatterylistmain>
+ =20
+  <TR>
+    <TD>
+      <P class=3Dtextstyle1>Notebook Replacement Battery Pack List</P></TD=
+></TR>
+  <TR>
+    <TD>Please select the manufacturer of your notebook computer from the =
+list=20
+      below=2E</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>|| <A href=3D"#A">A</A> <A href=3D"#B">B</A> <A href=3D"#C">C</A> =
+<A=20
+      href=3D"#D">D</A> <A href=3D"#E">E</A> <A href=3D"#F">F</A> <A href=3D=
+"#G">G</A>=20
+      <A href=3D"#H">H</A> <A href=3D"#I">I</A> <A href=3D"#J">J</A> <A=20=
+
+      href=3D"#K">K</A> <A href=3D"#L">L</A> <A href=3D"#M">M</A> <A href=3D=
+"#N">N</A>=20
+      <A href=3D"#O">O</A> <A href=3D"#P">P</A> <A href=3D"#Q">Q</A> <A=20=
+
+      href=3D"#R">R</A> <A href=3D"#S">S</A> <A href=3D"#T">T</A> <A href=3D=
+"#U">U</A>=20
+      <A href=3D"#V">V</A> <A href=3D"#W">W</A> <A href=3D"#X">X</A> <A=20=
+
+      href=3D"#Y">Y</A> <A href=3D"#Z">Z</A> || </TD></TR>
+  <TR>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>A<A id=3DA name=3DA></A></TH></TR>
+        <TR>
+          <TD><A href=3D"a/abacus/models/abacus0001=2Ehtm">ABACUS</A></TD>=
+
+          <TD><A href=3D"a/abc/index=2Ehtm">ABC</A></TD>
+          <TD>ABS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ACCEL</TD>
+          <TD>ACCUTRON</TD>
+          <TD><A href=3D"a/acer/index=2Ehtm">ACER</A></TD></TR>
+        <TR>
+          <TD>ACMA</TD>
+          <TD>ACOM</TD>
+          <TD>ACRO</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ACROBAT</TD>
+          <TD>ACROS</TD>
+          <TD>ACT</TD></TR>
+        <TR>
+          <TD>ACTEBIS</TD>
+          <TD><A href=3D"a/actina/index=2Ehtm">ACTINA</A></TD>
+          <TD>ADS</TD></TR>
+        <TR class=3DevenRow>
+          <TD><A href=3D"a/advent/index=2Ehtm">ADVENT</A></TD>
+          <TD>AEC OLYMPIA</TD>
+          <TD>AGI</TD></TR>
+        <TR>
+          <TD><A href=3D"a/ajp/index=2Ehtm">AJP</A></TD>
+          <TD>ALCAM</TD>
+          <TD>ALIENWARE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ALLUR</TD>
+          <TD>ALPHATOP</TD>
+          <TD>ALR</TD></TR>
+        <TR>
+          <TD>ALTEC</TD>
+          <TD>ALTEZ</TD>
+          <TD>ALTIMA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>AMAX</TD>
+          <TD>AMBRA</TD>
+          <TD>AMPTRON</TD></TR>
+        <TR>
+          <TD>AMREL</TD>
+          <TD>AMS</TD>
+          <TD>AMSTRAD</TD></TR>
+        <TR class=3DevenRow>
+          <TD><A href=3D"a/aopen/index=2Ehtm">AOPEN</A></TD>
+          <TD>APPLE</TD>
+          <TD>ARC</TD></TR>
+        <TR>
+          <TD>ARCHE TECH</TD>
+          <TD><A href=3D"a/aries/index=2Ehtm">ARIES</A></TD>
+          <TD>ARIMA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ARM COMPUTER</TD>
+          <TD>ARTDEX</TD>
+          <TD>ARTIST</TD></TR>
+        <TR>
+          <TD>ASA COMPUTER</TD>
+          <TD>ASHTON DIGITAL</TD>
+          <TD>ASI NOTEBOOK</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ASPEN</TD>
+          <TD>AST</TD>
+          <TD>ASUS</TD></TR>
+        <TR>
+          <TD>AT&T</TD>
+          <TD>ATARI</TD>
+          <TD>ATEBIS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ATTACHE</TD>
+          <TD>AURUM COMPUTER</TD>
+          <TD>AUSTIN</TD></TR>
+        <TR>
+          <TD>AUVA</TD>
+          <TD>AVANT TECHNOLOGIES</TD>
+          <TD><A=20
+    href=3D"a/averatec/index=2Ehtm">AVERATEC</A></TD></TR></TABLE></TD></T=
+R>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>B<A id=3DB name=3DB></A></TH></TR>
+        <TR>
+          <TD><A href=3D"b/baycom/index=2Ehtm">BAYCOM</A></TD>
+          <TD>BCC</TD>
+          <TD>BIT</TD></TR>
+        <TR class=3DevenRow>
+          <TD>BLACKSHIP</TD>
+          <TD>BLISS</TD>
+          <TD>BOLDATA</TD></TR>
+        <TR>
+          <TD>BONA</TD>
+          <TD>BONDWELL</TD>
+          <TD>BRICK COMPUTER</TD></TR>
+        <TR class=3DevenRow>
+          <TD>BROTHER</TD>
+          <TD>BSI</TD>
+          <TD>BSR</TD></TR>
+        <TR>
+          <TD><A href=3D"b/bullman/index=2Ehtm">BULLMAN</A></TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>C<A id=3DC name=3DC></A></TH></TR>
+        <TR>
+          <TD>CA TECHNOLOGIES</TD>
+          <TD>CAF</TD>
+          <TD>CANON</TD></TR>
+        <TR class=3DevenRow>
+          <TD>CASIO</TD>
+          <TD>CAT</TD>
+          <TD><A href=3D"c/centerprise/index=2Ehtm">CENTERPRISE</A></TD></=
+TR>
+        <TR>
+          <TD>CHAPLET</TD>
+          <TD><A href=3D"c/chem=5Fusa/index=2Ehtm">CHEM USA</A></TD>
+          <TD>CHEMRAD</TD></TR>
+        <TR class=3DevenRow>
+          <TD>CHICONY</TD>
+          <TD>CHILIGREEN</TD>
+          <TD>CITIZEN</TD></TR>
+        <TR>
+          <TD>CLEVO</TD>
+          <TD>CLIMAX</TD>
+          <TD>CMS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>COMMAX</TD>
+          <TD>COMMODORE</TD>
+          <TD>COMPAL</TD></TR>
+        <TR>
+          <TD><A href=3D"c/compaq/index=2Ehtm">COMPAQ</A></TD>
+          <TD>COMPOWER</TD>
+          <TD>COMPUADD</TD></TR>
+        <TR class=3DevenRow>
+          <TD>COMPUDEX</TD>
+          <TD>COMPUDYNE</TD>
+          <TD>COMTECH</TD></TR>
+        <TR>
+          <TD>COPAM</TD>
+          <TD>CORE PACIFIC</TD>
+          <TD>CTX</TD></TR>
+        <TR class=3DevenRow>
+          <TD>CUMULUS</TD>
+          <TD>CYBER POWER</TD>
+          <TD>CYBERCOM</TD></TR>
+        <TR>
+          <TD>CYBERMAX</TD>
+          <TD>CYCLONE</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>D<A id=3DD name=3DD></A></TH></TR>
+        <TR>
+          <TD>DAEWOO</TD>
+          <TD>DANANOTE</TD>
+          <TD>DATA BOX</TD></TR>
+        <TR class=3DevenRow>
+          <TD>DATA GENERAL</TD>
+          <TD>DATA POINT</TD>
+          <TD>DATAJETS</TD></TR>
+        <TR>
+          <TD>DATATRAIN</TD>
+          <TD>DATAVUE</TD>
+          <TD>DATAWORLD</TD></TR>
+        <TR class=3DevenRow>
+          <TD>DAUPHIN</TD>
+          <TD>DEC</TD>
+          <TD>DECISION</TD></TR>
+        <TR>
+          <TD><A href=3D"d/dell/index=2Ehtm">DELL</A></TD>
+          <TD>DENNOW</TD>
+          <TD>DETEL</TD></TR>
+        <TR class=3DevenRow>
+          <TD>DFI</TD>
+          <TD>DGI</TD>
+          <TD>DIABLO</TD></TR>
+        <TR>
+          <TD>DIGIMAC</TD>
+          <TD>DIGITAL</TD>
+          <TD>DIGITAL STAR</TD></TR>
+        <TR class=3DevenRow>
+          <TD>DISCOURCE TECH</TD>
+          <TD>DPS</TD>
+          <TD>DTK</TD></TR>
+        <TR>
+          <TD>DUAL</TD>
+          <TD>DUNN</TD>
+          <TD>DYNABOOK</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>E<A id=3DE name=3DE></A></TH></TR>
+        <TR>
+          <TD>E-MAX</TD>
+          <TD>EASY DATA</TD>
+          <TD>EAVS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ECS</TD>
+          <TD>ELASCO</TD>
+          <TD>ELONEX</TD></TR>
+        <TR>
+          <TD>eMACHINES</TD>
+          <TD>EMAG</TD>
+          <TD>ENFACE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>ENPOWER</TD>
+          <TD>EPS</TD>
+          <TD>EPSON</TD></TR>
+        <TR>
+          <TD>ERGO</TD>
+          <TD>ESP</TD>
+          <TD>ETC EUROTECH</TD></TR>
+        <TR class=3DevenRow>
+          <TD>EUROCOM</TD>
+          <TD>EVEREX</TD>
+          <TD>EXCLUSIVE</TD></TR>
+        <TR>
+          <TD>EXPOTECH</TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>F<A id=3DF name=3DF></A></TH></TR>
+        <TR>
+          <TD>F=2EI=2EC=2E</TD>
+          <TD>FEATRON</TD>
+          <TD>FORA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>FORTUNE</TD>
+          <TD>FOSA</TD>
+          <TD>FREEDOM</TD></TR>
+        <TR>
+          <TD><A href=3D"f/fujitsu/index=2Ehtm">FUJITSU</A></TD>
+          <TD>FUNKENSTORTNACK</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>G<A id=3DG name=3DG></A></TH></TR>
+        <TR>
+          <TD>GATEWAY 2000</TD>
+          <TD>GCC</TD>
+          <TD>GEM</TD></TR>
+        <TR class=3DevenRow>
+          <TD>GENERAL COMPUTER</TD>
+          <TD>GEO MICROSYSTEMS</TD>
+          <TD><A href=3D"g/gericom/index=2Ehtm">GERICOM</A></TD></TR>
+        <TR>
+          <TD>GOLDEN IMAGE</TD>
+          <TD>GOLDSTAR</TD>
+          <TD>GOTCHA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>GREENNOTE</TD>
+          <TD>GRID</TD>
+          <TD>GVS COMPUTERS</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>H<A id=3DH name=3DH></A></TH></TR>
+        <TR>
+          <TD>H@KERS</TD>
+          <TD>HALIKAN</TD>
+          <TD>HANDOK</TD></TR>
+        <TR class=3DevenRow>
+          <TD>HERTZ</TD>
+          <TD><A href=3D"h/hp/index=2Ehtm">HP</A></TD>
+          <TD><A href=3D"h/highlander/index=2Ehtm">HIGHLANDER</A></TD></TR=
+>
+        <TR>
+          <TD>HITACHI</TD>
+          <TD>HITRON</TD>
+          <TD>HONEYWELL BULL</TD></TR>
+        <TR class=3DevenRow>
+          <TD>HUNDYX</TD>
+          <TD>HYPERDATA</TD>
+          <TD>HYUNDAI</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>I<A id=3DI name=3DI></A></TH></TR>
+        <TR>
+          <TD>IBM</TD>
+          <TD>ICL</TD>
+          <TD>IDENTITY SYSTEMS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>IDP</TD>
+          <TD>IME</TD>
+          <TD>IMPERIAL</TD></TR>
+        <TR>
+          <TD>IMPULSE SYSTEMS</TD>
+          <TD>INEX</TD>
+          <TD>INFOTEL</TD></TR>
+        <TR class=3DevenRow>
+          <TD>INSI</TD>
+          <TD>INSIGHT</TD>
+          <TD>INTEGRATED TECH=2E</TD></TR>
+        <TR>
+          <TD>INTEL</TD>
+          <TD>INTELEC</TD>
+          <TD>INTEVA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>INTRA</TD>
+          <TD>INTREX</TD>
+          <TD>IPC</TD></TR>
+        <TR>
+          <TD><A href=3D"i/issam/index=2Ehtm">ISSAM</A></TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>J<A id=3DJ name=3DJ></A></TH></TR>
+        <TR>
+          <TD>JDR</TD>
+          <TD>JET</TD>
+          <TD>JETTA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>JEWEL</TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>K<A id=3DK name=3DK></A></TH></TR>
+        <TR>
+          <TD>KAPOK</TD>
+          <TD>KAYPRO</TD>
+          <TD>KCS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>KDS</TD>
+          <TD>KEITH SYSTEMS</TD>
+          <TD>KENITECH</TD></TR>
+        <TR>
+          <TD>KEYDATA</TD>
+          <TD>KEYNOTE</TD>
+          <TD>KINGSTON</TD></TR>
+        <TR class=3DevenRow>
+          <TD>KINGTECH</TD>
+          <TD>KIWI</TD>
+          <TD>KLH</TD></TR>
+        <TR>
+          <TD>KODAK</TD>
+          <TD>KRIS</TD>
+          <TD>KSSE</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>L<A id=3DL name=3DL></A></TH></TR>
+        <TR>
+          <TD>LAM SYSTEMS</TD>
+          <TD>LAP PAQ</TD>
+          <TD>LASER</TD></TR>
+        <TR class=3DevenRow>
+          <TD>LEADING EDGE</TD>
+          <TD>LEADING TECH=2E</TD>
+          <TD>LEO</TD></TR>
+        <TR>
+          <TD>LEXMARK</TD>
+          <TD>LIBERTY TECH=2E</TD>
+          <TD>LIBREX</TD></TR>
+        <TR class=3DevenRow>
+          <TD>LIFETEC</TD>
+          <TD>LION</TD>
+          <TD>LITTLEBIT</TD></TR>
+        <TR>
+          <TD>LOGIX</TD>
+          <TD>LOOP</TD>
+          <TD>LSE WORLDWIDE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>LUCKEY BRIDGE</TD>
+          <TD>LUNAR</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>M<A id=3DM name=3DM></A></TH></TR>
+        <TR>
+          <TD>MAG PORTABLES</TD>
+          <TD>MAGICBOOK</TD>
+          <TD>MAGITRONIC</TD></TR>
+        <TR class=3DevenRow>
+          <TD>MAGNAVOX</TD>
+          <TD>MARUDA</TD>
+          <TD>MATSUSHITA</TD></TR>
+        <TR>
+          <TD>MAX COMPUTER</TD>
+          <TD>MAX STATION</TD>
+          <TD><A href=3D"m/maxdata/index=2Ehtm">MAXDATA</A></TD></TR>
+        <TR class=3DevenRow>
+          <TD>MAXIMUS COMPUTER</TD>
+          <TD>MAXSPEED</TD>
+          <TD>MAXTECH</TD></TR>
+        <TR>
+          <TD>MECER</TD>
+          <TD>MEDIA MAGIC</TD>
+          <TD><A href=3D"m/mediabook/index=2Ehtm">MEDIABOOK</A></TD></TR>
+        <TR class=3DevenRow>
+          <TD><A href=3D"m/medion/index=2Ehtm">MEDION</A></TD>
+          <TD>MEGAIMAGE</TD>
+          <TD>MEMOREX</TD></TR>
+        <TR>
+          <TD>MICRO ELECTRONICS</TD>
+          <TD>MICRO EXPRESS</TD>
+          <TD>MICRO FLEX TECH</TD></TR>
+        <TR class=3DevenRow>
+          <TD>MICRO GATE</TD>
+          <TD>MICRO INTL=2E</TD>
+          <TD>MICRO Q</TD></TR>
+        <TR>
+          <TD>MICRO QUEST</TD>
+          <TD>MICRO TELESIS</TD>
+          <TD>MICROBOOK</TD></TR>
+        <TR class=3DevenRow>
+          <TD>MICRON</TD>
+          <TD>MICROPOINT</TD>
+          <TD>MICROPRO</TD></TR>
+        <TR>
+          <TD>MICROSMART</TD>
+          <TD>MICROSTAR</TD>
+          <TD>MIDWEST MICRO</TD></TR>
+        <TR class=3DevenRow>
+          <TD>MINT</TD>
+          <TD><A href=3D"m/mitac/index=2Ehtm">MITAC</A></TD>
+          <TD>MITSUBA</TD></TR>
+        <TR>
+          <TD>MITSUBISHI</TD>
+          <TD>MOTIVA</TD>
+          <TD>MPC TECH=2E</TD></TR>
+        <TR class=3DevenRow>
+          <TD>MRI</TD>
+          <TD>MTECH</TD>
+          <TD>MTI</TD></TR>
+        <TR>
+          <TD>MULTI-MEDIA</TD>
+          <TD>MURDA</TD>
+          <TD>MUSTEK</TD></TR>
+        <TR class=3DevenRow>
+          <TD>MWAVE</TD>
+          <TD>MYBOOK</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>N<A id=3DN name=3DN></A></TH></TR>
+        <TR>
+          <TD>NAN TAN</TD>
+          <TD>NAT COMP</TD>
+          <TD>NATCOMP</TD></TR>
+        <TR class=3DevenRow>
+          <TD>NBCC</TD>
+          <TD>NCR</TD>
+          <TD><A href=3D"n/nec/index=2Ehtm">NEC</A></TD></TR>
+        <TR>
+          <TD>NETLUX</TD>
+          <TD><A href=3D"n/network/index=2Ehtm">NETWORK</A></TD>
+          <TD>NEUTRON COMPUTERS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>NEW MMI-CMO</TD>
+          <TD>NEW WORLD TECH</TD>
+          <TD>NIMATICS</TD></TR>
+        <TR>
+          <TD>NORTHGATE</TD>
+          <TD>NORTHSTAR</TD>
+          <TD>NOTEABLE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>NOTEBOOK COMP=2E</TD>
+          <TD>NOTEBOOKY</TD>
+          <TD>NOTESTAR</TD></TR>
+        <TR>
+          <TD>NOVACOM</TD>
+          <TD>NTK</TD>
+          <TD>NX20</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>O<A id=3DO name=3DO></A></TH></TR>
+        <TR>
+          <TD>OBODEX</TD>
+          <TD>OGIVAR</TD>
+          <TD>OLIVETTI</TD></TR>
+        <TR class=3DevenRow>
+          <TD>OLYMPIA</TD>
+          <TD>OPTIMA</TD>
+          <TD>ORDI</TD></TR>
+        <TR>
+          <TD>ORTHO</TD>
+          <TD>OTTARA COMPUTER</TD>
+          <TD>OUTBOUND</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>P<A id=3DP name=3DP></A></TH></TR>
+        <TR>
+          <TD>P3 PROJECT</TD>
+          <TD><A href=3D"p/packard=5Fbell/index=2Ehtm">PACKARD BELL</A></T=
+D>
+          <TD>PALM</TD></TR>
+        <TR class=3DevenRow>
+          <TD>PANASONIC</TD>
+          <TD>PARS</TD>
+          <TD>PATRIOT SYSTEMS</TD></TR>
+        <TR>
+          <TD>PC BRAND</TD>
+          <TD>PC C RESEARCH</TD>
+          <TD>PC CLUB</TD></TR>
+        <TR class=3DevenRow>
+          <TD>PEACOCK</TD>
+          <TD>PEARL</TD>
+          <TD>PHILIPS</TD></TR>
+        <TR>
+          <TD>PIONEER</TD>
+          <TD>PIONEX</TD>
+          <TD>POWERBASE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>PREMIER</TD>
+          <TD>PREMIO PC</TD>
+          <TD>PRESTIGE</TD></TR>
+        <TR>
+          <TD>PRESTIGIO</TD>
+          <TD>PRISMA BOOK</TD>
+          <TD>PROFEX</TD></TR>
+        <TR class=3DevenRow>
+          <TD><A href=3D"p/promedion/index=2Ehtm">PROMEDION</A></TD>
+          <TD>PROSTAR</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>Q<A id=3DQ name=3DQ></A></TH></TR>
+        <TR>
+          <TD>QUANTEX</TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>R<A id=3DR name=3DR></A></TH></TR>
+        <TR>
+          <TD>RADIAN</TD>
+          <TD>RAINBOW</TD>
+          <TD>RAVEN</TD></TR>
+        <TR class=3DevenRow>
+          <TD>RBG</TD>
+          <TD>RICOH</TD>
+          <TD>ROAD RUNNER</TD></TR>
+        <TR>
+          <TD><A href=3D"r/roverbook/index=2Ehtm">ROVERBOOK</A></TD>
+          <TD>ROYAL</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>S<A id=3DS name=3DS></A></TH></TR>
+        <TR>
+          <TD>S=2EB=2EI</TD>
+          <TD>SACA TECHNOLOGIES</TD>
+          <TD>SAGER</TD></TR>
+        <TR class=3DevenRow>
+          <TD>SAMPO</TD>
+          <TD>SAMSUNG</TD>
+          <TD>SANYO</TD></TR>
+        <TR>
+          <TD>SCEPTRE TECH=2E</TD>
+          <TD>SEANIX</TD>
+          <TD>SENAO</TD></TR>
+        <TR class=3DevenRow>
+          <TD>SHARP</TD>
+          <TD>SHEA PC</TD>
+          <TD>SIEMENS</TD></TR>
+        <TR>
+          <TD>SMARPER</TD>
+          <TD>SMART-TEC</TD>
+          <TD>SMARTBOOK</TD></TR>
+        <TR class=3DevenRow>
+          <TD>SMILE</TD>
+          <TD>SOLIS</TD>
+          <TD><A href=3D"s/sony/index=2Ehtm">SONY</A></TD></TR>
+        <TR>
+          <TD><A href=3D"s/sotec/index=2Ehtm">SOTEC</A></TD>
+          <TD><A href=3D"s/spectec/index=2Ehtm">SPECTEC</A></TD>
+          <TD>SPRING CIRCLE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>STAMP</TD>
+          <TD>STANDARD</TD>
+          <TD>STAR MICRONICS</TD></TR>
+        <TR>
+          <TD>STARNOTE</TD>
+          <TD>STEALTH</TD>
+          <TD>SUNRACE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>SUNREX</TD>
+          <TD>SUNSHINE TECH=2E</TD>
+          <TD>SUPER TALENT</TD></TR>
+        <TR>
+          <TD>SWAN</TD>
+          <TD>SYNERJET</TD>
+          <TD>SYS-TECH</TD></TR>
+        <TR class=3DevenRow>
+          <TD>SYSLINK</TD>
+          <TD>SYSTEMAX</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>T<A id=3DT name=3DT></A></TH></TR>
+        <TR>
+          <TD>TANDON</TD>
+          <TD>TANDY</TD>
+          <TD>TANGENT</TD></TR>
+        <TR class=3DevenRow>
+          <TD>TARGA</TD>
+          <TD>TATUNG</TD>
+          <TD>TECHMEDIA</TD></TR>
+        <TR>
+          <TD>TELTRON</TD>
+          <TD>TERRA</TD>
+          <TD>TEXAS INSTRUMENTS</TD></TR>
+        <TR class=3DevenRow>
+          <TD>TIGER</TD>
+          <TD>TJ TECHNOLOGIES</TD>
+          <TD>TOPCAT</TD></TR>
+        <TR>
+          <TD>TOPLINE</TD>
+          <TD>TOPNOTE</TD>
+          <TD>TOPPCs</TD></TR>
+        <TR class=3DevenRow>
+          <TD><A href=3D"t/toshiba/index=2Ehtm">TOSHIBA</A></TD>
+          <TD>TOUCH MOBILE</TD>
+          <TD>TRAC</TD></TR>
+        <TR>
+          <TD>TRACER</TD>
+          <TD>TRACKNOTE</TD>
+          <TD>TRANSMODE</TD></TR>
+        <TR class=3DevenRow>
+          <TD>TRIGEM</TD>
+          <TD>TROGON</TD>
+          <TD>TRONIC 5</TD></TR>
+        <TR>
+          <TD>TTX</TD>
+          <TD>TULIP</TD>
+          <TD>TWINHEAD</TD></TR>
+        <TR class=3DevenRow>
+          <TD>TWIX</TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>U<A id=3DU name=3DU></A></TH></TR>
+        <TR>
+          <TD>UBM COMPUTER</TD>
+          <TD>ULTIMA</TD>
+          <TD>ULTRA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>UMAX</TD>
+          <TD>UNISYS</TD>
+          <TD>UNITED MICRO</TD></TR>
+        <TR>
+          <TD><A href=3D"u/uniwill/index=2Ehtm">UNIWILL</A></TD>
+          <TD>US COM</TD>
+          <TD>US LOGIC</TD></TR>
+        <TR class=3DevenRow>
+          <TD>US SYSTEMS</TD>
+          <TD>USA FLEX</TD>
+          <TD>USER EASY</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>V<A id=3DV name=3DV></A></TH></TR>
+        <TR>
+          <TD>V-MARC</TD>
+          <TD>VEGA</TD>
+          <TD>VERIDATA</TD></TR>
+        <TR class=3DevenRow>
+          <TD>VICTOR</TD>
+          <TD>VIDEOSEVEN (V7)</TD>
+          <TD>VISAGE</TD></TR>
+        <TR>
+          <TD><A href=3D"v/vobis/index=2Ehtm">VOBIS</A></TD>
+          <TD>VORTEC</TD>
+          <TD>VORTEX</TD></TR>
+        <TR class=3DevenRow>
+          <TD>VPR MATRIX</TD>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>W<A id=3DW name=3DW></A></TH></TR>
+        <TR>
+          <TD>WANG</TD>
+          <TD>WAVELIGHT</TD>
+          <TD>WEBTECH</TD></TR>
+        <TR class=3DevenRow>
+          <TD>WEDGE TECH</TD>
+          <TD>WETECH</TD>
+          <TD>WINBEST</TD></TR>
+        <TR>
+          <TD>WINBOOK COMPUTER</TD>
+          <TD>WONG INT'L</TD>
+          <TD>WORKEY</TD></TR>
+        <TR class=3DevenRow>
+          <TD>WORKSTATION</TD>
+          <TD>WORTMANN</TD>
+          <TD>WYSE</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>X<A id=3DX name=3DX></A></TH></TR>
+        <TR>
+          <TD>XENON</TD>
+          <TD>XERON</TD>
+          <TD>XTERASYS</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>Y<A id=3DY name=3DY></A></TH></TR>
+        <TR>
+          <TD>YAKUMO</TD>
+          <TD>YAMSAN</TD>
+          <TD>&nbsp;</TD></TR></TABLE></TD></TR>
+  <TR>
+    <TD align=3Dright><A href=3D"#top"></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3Dtablestyle1>
+       =20
+        <TR>
+          <TH scope=3Dcol colSpan=3D3>Z<A id=3DZ name=3DZ></A></TH></TR>
+        <TR>
+          <TD>ZENITH</TD>
+          <TD>ZEOS</TD>
+          <TD>ZITECH</TD></TR></TABLE></TD></TR></TABLE></P>
+</body>=0A</html>=0A<!-- text below generated by server=2E PLEASE REMOVE -=
+-><!-- Counter/Statistics data collection code --><script language=3D"Java=
+Script" src=3D"http://hostingprod=2Ecom/js=5Fsource/geov2=2Ejs"></script><=
+script language=3D"javascript">geovisit();</script><noscript><img src=3D"h=
+ttp://visit=2Ewebhosting=2Eyahoo=2Ecom/visit=2Egif=3Fus1112078824" alt=3D"=
+setstats" border=3D"0" width=3D"1" height=3D"1"></noscript>
+<IMG SRC=3D"http://geo=2Eyahoo=2Ecom/serv=3Fs=3D76001524&t=3D1112078824" A=
+LT=3D1 WIDTH=3D1 HEIGHT=3D1>
+
+------=_NextPart_746813545029193572342142--

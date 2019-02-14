@@ -1,0 +1,50 @@
+Return-Path: <wenbin71beitris@purofirst.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 7565 invoked from network); 20 Feb 2005 11:14:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 20 Feb 2005 11:14:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 20 Feb 2005 11:14:20 -0000
+Received: (qmail 3664 invoked from network); 20 Feb 2005 11:14:19 -0000
+Received: from 69.5.6.152 (unknown [211.218.191.213])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 20 Feb 2005 11:14:18 -0000
+Received: from host46.tothailand.com (211.218.191.213)
+          by 211.218.191.213 (iPlanet Messaging Server 4.6 HotFix 6.7) with SMTP
+          id <6VSU363K21>; Sun, 20 Feb 2005 09:08:39 -0200
+Message-ID: <FRX7945_JD_0929t@tothailand.com>
+X-Originating-IP: [211.218.191.213]
+Alternate-recipient: Allowed
+Reply-To: "aloise wruck" <ev.shapiro@tothailand.com>
+From: "aloise wruck" <ev.shapiro@tothailand.com>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Your application was accepted
+Date: Sun, 20 Feb 2005 04:09:39 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--8837863_62582830.HtC512"
+Content-Length: 461
+Lines: 20
+
+----8837863_62582830.HtC512
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+Hello Account #6990306,
+
+Your application was approved. You are eligible for $400,000 with a 3.7 % rate.
+
+Please confirm your information here: http://seaquote.com/?name=rm2342
+
+We look forward to hearing from you.
+
+Regards,
+aloise wruck, Senior Account Manager
+KYH Financial Group
+
+r m v. -> http://seaquote.com/st.html
+
+----8837863_62582830.HtC512--

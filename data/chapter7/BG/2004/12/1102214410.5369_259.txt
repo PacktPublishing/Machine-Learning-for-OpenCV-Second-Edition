@@ -1,0 +1,239 @@
+Return-Path: <Hernandez@filepro.com.ar>
+Received: (fqmail 28902 invoked from network); 05 Dec 2004 00:32:09 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 05 Dec 2004 00:32:09 -0000
+Received: (qmail 15799 invoked from network); 5 Dec 2004 00:32:09 -0000
+Received: from 192.168.0.111 (customer160-121.iplannetworks.net [200.68.95.121])
+  by mx02.futurequest.net ([69.5.6.172])
+  with SMTP via TCP; 05 Dec 2004 00:32:08 -0000
+Received: from 96.144.212.169 by ; Sun, 05 Dec 2004 02:30:11 +0200
+Message-ID: <WSKMBBNTXJMIJKVGGTEGLL@200.32.3.8 by losandes.com.ar >
+From: "Diego Perez" <Hernandez@filepro.com.ar>
+Reply-To: "Diego Perez" <Hernandez@filepro.com.ar>
+To: webmaster@ezmlm.org
+Subject: To: webmaster@ezmlm.org esto es lo que estabas buscando !
+Date: Sat, 04 Dec 2004 17:24:11 -0700
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--482128345581870"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+----482128345581870
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=iso-8859-1">
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Curso Profesional de Reparación PC</title>
+</head>
+
+<body bgcolor="#990033">
+
+<div align="center">
+  <center>
+  <table border="0" width="66%" cellspacing="0" cellpadding="0" style="border: 2 solid #FFCC00">
+    <tr>
+      <td width="100%" colspan="2" bgcolor="#FFCC66">
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="41%">
+              <p align="center"><img border="0" src="http://www.enviarmail.com.ar/curso/pc.jpg" width="250" height="162"></td>
+            <td width="59%">
+              <p class="MsoNormal" align="center" style="margin-top: 10; margin-bottom: 10"><b><em style="FONT-STYLE: normal"><font face="Arial Narrow" color="#990033" size="6">Curso
+              Profesional<br>
+              de Reparación de PC</font></em></b></p>
+              <p class="MsoNormal" align="center" style="margin-top: 10; margin-bottom: 10"><font size="2" face="Verdana">No
+              siempre es necesario llamar a un técnico.<br>
+              Aprenda todo lo que puede hacer para reparar y mantener su PC
+              saludable....</font></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td width="12%" bgcolor="#FFFFFF">&nbsp;</td>
+    </center>
+    <td width="88%" bgcolor="#FFFFFF">
+      <p class="MsoNormal" align="left" style="margin-right: 20; margin-top: 20"><font size="2" face="Verdana"><b>Algunos
+      de los temas que componen este excelente CD....</b></font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><b><font face="Verdana" size="1"><font color="#990033">RECONOCIMIENTO
+      DE COMPONENTES DENTRO DEL GABINETE<br>
+      </font><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><br>
+      Desarme del CPU / Presentación y reconocimiento de los elementos de
+      hardware / Motherboards / Microprocesadores / Memorias / Discos Rígidos /
+      Fuentes.<br>
+      Modem-Fax / Placas de Video / Placas de sonido / Salidas Serie y Paralelo
+      / Dispositivos SCSI. Incluye Fotos ilustrativas, de manera que el alumno
+      pueda entender el material&nbsp;de lectura.</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font color="#990033" face="Verdana">MICROPROCESADORES<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font size="1"><font face="Verdana"><b><font color="#990033"><br>
+      </font></b>Información clasificada de las companias más importantes que
+      fabrican microprocesadores.<br>
+      Evolución. 286, 386, 486, 586, K5, Pentium, K6, K7, Pentium MMX, Celeron,
+      PII, PIII y P4, Atlhon y Duron.<br>
+      Características / Instalación / Jumpeo / Setup.</font></font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font face="Verdana" color="#990033">DISCOS
+      RÍGIDOS</font></b><font color="#ff0000" face="Verdana"><br>
+      </font></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"></font><font size="1"><font face="Verdana"><b><font color="#990033"><br>
+      </font></b></font><font face="Verdana">Forma de conexión / Componentes
+      que lo integran / Configuración del disco rígido Particiones y Formateo
+      del disco. (FDISK, FORMAT,&nbsp; PARTITION MAGIC).<br>
+      / Conexión de uno o mas discos. (Master/Slave).</font></font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font color="#990033" face="Verdana">FUENTES
+      DE ALIMENTACIÓN<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>Descripción y reconocimiento de sus componentes: resistencias /
+      capacitores<br>
+      transformadores / inductores / diodos / transistores / circuitos
+      integrados / Uso del tester / Verificación y reemplazo de componentes.</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font color="#990033" face="Verdana">MÓDEM
+      ? FAX<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>Descripción / Como funciona /</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font face="Verdana" color="#990033">Instalación
+      del software / Utilidades<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"></font><font size="1"><font face="Verdana"><b><font color="#990033"><br>
+      </font></b>Fax, Correo Electrónico e Internet.</font></font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><b><font color="#990033" face="Verdana" size="1">IMPRESORAS<br>
+      </font><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>Distintos tipos de impresoras (Matriz, Chorro de tinta y Láser).
+      Descripción de su funcionamiento / Fuente y placa lógica / Fallas más
+      comunes y su reparación. Mantenimiento / Limpieza / Instalación.<br>
+      BUSES<br>
+      Tipos: ISA, VESA LOCAL BUS, PCI, AGP. Características / Seteo / El
+      interfaz<br>
+      SCSI</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font color="#990033" face="Verdana">SETUP<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font size="1"><font face="Verdana"><span><br>
+      </span>Setup Standard / Setup Avanzado / Chipset / Autodetect / Optimización
+      del Setup.</font></font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><font color="#990033"><b><font face="Verdana">MEMORIAS<br>
+      </font></b></font></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><br>
+      RAM y ROM / Distintos tipos de memoria RAM. SIMM, DIMM, RIMM y DDRAM /
+      Colocación en el motherboard / Memoria Cache / Shadow / Extendida /
+      Expandida / Como expandir la memoria.</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font color="#990033" face="Verdana">MULTIMEDIA<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>CD Rom / Placa de Sonido / DVD / Grabadora de CD-ROM / Cámara
+      Digital / Instalación en D.O.S. / Windows95/98/ME/XP.<br>
+      Optimización del equipo / Localización de fallas bajo el sistema
+      operativo.</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font face="Verdana"><font color="#990033">DISQUETERAS.
+      ZIP DRIVE (Interno y Externo)<br>
+      </font></font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>Instalación / Conocimientos básicos de su funcionamiento /
+      Limpieza y reparación / Distintos tipos de ZIP / Capacidades / Su
+      Instalación.</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font face="Verdana"><font color="#990033">MONITORES<br>
+      </font></font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>Tipos de monitores / Elementos que lo componen / Fuente, Cañón,
+      etc.<br>
+      Horizontal, Vertical, Brillo y Contraste. Hercules, EGA, VGA, SVGA.</font></p>
+      <p class="MsoNormal" align="left" style="margin-right: 15"><font size="1"><b><font color="#990033" face="Verdana">CURSO
+      SOBRE VIRUS<br>
+      </font></b></font><b><font face="Verdana" size="1"><font color="#FFCC00">______________________________________________________________________</font></font></b><font face="Verdana" size="1"><span><br>
+      </span>Descripción de los más comunes / Como actúan / Forma de
+      reproducción y propagación / Detección y eliminación de los mismos /
+      Programas antivirus existentes en el mercado.</font></p>
+      <p class="MsoNormal" align="center"><font size="2" face="Verdana"><b>Y
+      MUCHO MÁS...</b></font></p>
+      <table border="0" width="89%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="20%" bgcolor="#FFCC00" align="center">
+            <p style="margin-top: 5; margin-bottom: 5"><font color="#990033" size="1" face="Verdana">DRIVERS</font></td>
+          <td width="80%" bgcolor="#E9E9E9">
+            <p class="MsoNormal" align="left" style="margin-left: 5; margin-top: 5; margin-bottom: 5"><font color="#000000" size="1" face="Verdana">Últimas
+            actualizaciones (VGA, SOUND,) MODEM (actualización V.90), Genius, Motorola,
+            usRobotics, PCtel, etc.</font></td>
+        </tr>
+        <tr>
+          <td width="20%" bgcolor="#FFCC66" align="center">
+            <p style="margin-top: 5; margin-bottom: 5"><font color="#990033" size="1" face="Verdana">TRUCOS</font></td>
+          <td width="80%">
+            <p style="margin-left: 5; margin-top: 5; margin-bottom: 5"><font color="#000000" size="1" face="Verdana">-
+            Cambiar el Disco C sin tener que reinstalar todo el soft<br>
+            - Cómo probar fuentes de alimentación ATX<br>
+            - Optimizar un Zip Drive. Y MUCHO MÁS?</font></td>
+        </tr>
+        <tr>
+          <td width="20%" bgcolor="#FFCC00" align="center">
+            <p style="margin-top: 5; margin-bottom: 5"><font color="#990033" size="1" face="Verdana">SOFTWARE
+            NECESARIO</font></td>
+          <td width="80%" bgcolor="#E9E9E9">
+            <p style="margin-left: 5; margin-top: 5; margin-bottom: 5"><font color="#000000" size="1" face="Verdana">Los
+            mejores programas, para reparación, testeo, comprobación y
+            restauración de la PC. Los mas utilizados por los técnicos.</font></td>
+        </tr>
+        <tr>
+          <td width="20%" bgcolor="#FFCC66" align="center">
+            <p style="margin-top: 5; margin-bottom: 5"><font color="#990033" size="1" face="Verdana">MANUALES</font></td>
+          <td width="80%">
+            <p style="margin-left: 5; margin-top: 5; margin-bottom: 5"><font color="#000000" size="1" face="Verdana">-
+            Conexión a Internet<br>
+            - Curso sobre Virus<br>
+            - Glosario. Y mucho más?</font></td>
+        </tr>
+        <tr>
+          <td width="20%" bgcolor="#FFCC00" align="center">
+            <p style="margin-top: 5; margin-bottom: 5"><font color="#990033" size="1" face="Verdana">REDES</font></td>
+          <td width="80%" bgcolor="#E9E9E9">
+            <p style="margin-left: 5; margin-top: 5; margin-bottom: 5"><font color="#000000" size="1" face="Verdana">Red
+            de área local, conexiones, comunicación de datos, redes inalámbrica,
+            ADSL.</font></td>
+        </tr>
+      </table>
+      <p class="MsoNormal" align="center"><b><font size="2" face="Verdana" color="#FFFFFF">.</font></b><center></td>
+    </tr>
+    <tr>
+      <td width="100%" bgcolor="#FFCC00" colspan="2">
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="100%" bgcolor="#FFCC66" colspan="3">
+              <p style="margin-top: 20; margin-bottom: 10" align="center"><b><font size="3" face="Arial"><span style="background-repeat: repeat; background-attachment: scroll; background-position: 0%">TODO
+              ESTE VALIOSO MATERIAL EN UN SOLO CD!... Y A SOLO </span></font></b><span style="background-repeat: repeat; background-attachment: scroll; background-position: 0%"><font face="Arial Narrow" size="5">$40</font><b><font size="3" face="Arial">!!</font></b></span></td>
+          </tr>
+          <tr>
+            <td width="33%" bgcolor="#FFCC66">&nbsp;</td>
+            <td width="33%" bgcolor="#990033" style="border: 2 outset #FF0000">
+              <p align="center" style="margin-top: 3; margin-bottom: 3"><b><font size="3" face="Arial" color="#FFCC66"><a href="http://www.gueb.de/curtiu">PÍDALO 
+                AQUÍ</a></font></b></td>
+            <td width="34%" bgcolor="#FFCC66">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="100%" bgcolor="#FFCC66" colspan="3">
+              <p align="center" style="margin-top: 10; margin-bottom: 20"><b><font face="Arial" size="3">y
+              recíbalo en su domicilio sin cargo!</font></b></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p align="center"><font size="1" face="Arial" color="#E9E9E9">Si este mensaje no
+resulta de su interés, puede removerse aquí. Muchas Gracias.</font></p>
+
+</body>
+
+</html>
+
+
+
+
+
+
+----482128345581870--
+

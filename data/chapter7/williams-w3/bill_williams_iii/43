@@ -1,0 +1,63 @@
+Message-ID: <22175533.1075863296101.JavaMail.evans@thyme>
+Date: Wed, 5 Sep 2001 12:33:54 -0700 (PDT)
+From: cara.semperger@enron.com
+To: asem.atta@enron.com, corry.bentley@enron.com, david.poston@enron.com, 
+	will.smith@enron.com, vishwanatha.venkataswami@enron.com
+Subject: Testing the PSW and Path Confirm Report
+Cc: bill.williams@enron.com, mark.guzman@enron.com, kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com, mark.guzman@enron.com, kate.symes@enron.com
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Atta, Asem </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aatta>, Bentley, Corry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbentle>, Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dposton2>, Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith>, Venkataswami, Vishwanatha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vvenkata>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Guzman, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mguzman3>, Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksymes>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Morning/Afternoon/Evening;
+
+I started working in June 22 to test path cut capabilities.  I was able to save a cut path.  
+
+Please make sure that Bill Williams III and Whomever he designates has access to Enpower TestP so that I can walk them through the app when it is ready. Right now it looks like Mark Guzman and Kate Symes will be the voice of West Real time.
+
+A Real Time Question:
+When Enpower is taken down for maintenance, as it sometimes is at night, will this application still function?  If not, we need to find a way for the real time crew to be able to access this information when Enpower is being maintained.
+
+
+Re-Running June 20th as a completely new day: This entire test was done in local Enpower
+
+PreSchedule Workspace:
+
+Running Build Route Report:
+	Criteria Selection-unable to select criteria for build route, got "List index out of bounds (4)" error *needs fix
+	
+Error Checking - took 1:29, produced a line by line error sheet that is printable, *accepted
+	BUT routing errors for lines 19-223 in the COB sheet produced a routing error that just states "ERROR:" no reason.  We need to know why an error is shown(was 	run after all routes were deleted) *needs fix
+
+Uploading to the Path Confirm Area:*accepted Mid C-1:53   Rockies-0:22    Palo 1:11  COB 0:49 (Row 69 Generated a General SQL error message)
+
+Daily Summary Function
+
+Routing:*accepted Mid C-13:27   Rockies-2:23   Palo 7:56  COB 5:12
+
+
+
+Path Confirmation:
+
+Speed is very much an issue here,  I had Mark Guzman sit with me while I cut a path and when I confirmed a group of paths. The confirmation of 5 paths as a group took 70 seconds from the time I entered the name and hit the "ok" button until the confriming was completed. This is too long, we need this to be 20-30 seconds max. Currently, this process takes about 10 seconds in lotus.
+
+Cutting a path went fast enough until I closed the screen to go back to the confirmation report. This also took over a minute.  This is another 10 second process in lotus.
+
+One little housekeeping thing,  can we move the delete button away from the confrim button?  Perhaps on the other side of the exit button?  This will save us mucho headaches later. OR make the dialog box look more like a warning that a record has been selected for deletion?
+
+
+Real Time Discussion:
+
+Where are we on this?  I heard initial rumblings, but nothing lately.
+
+
+
+
+

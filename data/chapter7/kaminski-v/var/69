@@ -1,0 +1,187 @@
+Message-ID: <26798233.1075856642269.JavaMail.evans@thyme>
+Date: Thu, 21 Sep 2000 06:30:00 -0700 (PDT)
+From: wenyao.jia@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: Primary curves missing from Factor Loading
+Cc: vince.kaminski@enron.com, kirstee.hewitt@enron.com, rodrigo.lamas@enron.com, 
+	xochitl.figueroa@enron.com, manfred.roenz@enron.com, 
+	christian.lebroc@enron.com, bjorn.hagelmann@enron.com, 
+	homan.amiry@enron.com, naveen.andrews@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, kirstee.hewitt@enron.com, rodrigo.lamas@enron.com, 
+	xochitl.figueroa@enron.com, manfred.roenz@enron.com, 
+	christian.lebroc@enron.com, bjorn.hagelmann@enron.com, 
+	homan.amiry@enron.com, naveen.andrews@enron.com
+X-From: Wenyao Jia
+X-To: Tanya Tamarchenko
+X-cc: Vince J Kaminski, Kirstee Hewitt, Rodrigo Lamas, Xochitl Figueroa, Manfred Roenz, Christian LeBroc, Bjorn Hagelmann, Homan Amiry, Naveen Andrews
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+
+We are very close to generating factors for all primary curves.  Jin almost 
+get it done.
+
+But we are still waiting on the expiration dates for those London curves.  If 
+anyone can help, please help.
+
+Also, we have some curves that don't have Futures.  How to decide these 
+curves's expiration dates?
+
+Matthew Adams helped us deciding many curves expiration rules.  But there are 
+still many primary curves that don't have expiration dates.
+
+If no expiration dates, then there will be no factor loadings.  Whoever wants 
+to generate factor loadings then give us the expiration dates first! :)
+
+
+
+Winston
+
+
+
+
+
+Tanya Tamarchenko
+09/21/2000 09:00 AM
+To: Bjorn Hagelmann/HOU/ECT@ECT, Wenyao Jia/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, Rodrigo 
+Lamas/LON/ECT@ECT, Xochitl Figueroa/NA/Enron@Enron, Manfred 
+Roenz/Corp/Enron@Enron, Christian LeBroc/Corp/Enron@ENRON, Bjorn 
+Hagelmann/HOU/ECT@ECT, Homan Amiry/LON/ECT@ECT, Naveen 
+Andrews/Corp/Enron@ENRON 
+Subject: Re: Primary curves missing from Factor Loading  
+
+Bjorn,
+you are absolutely right that we should run the factors for every primary 
+curve.
+IT has been working  for a while on this.
+The problem is data, as always (missing price curves, zero prices, not 
+changing prices, etc.)
+Most of these problems come from London curves, so Winston and Jin Yu are 
+debugging the code,
+fixing the problems for every curve.
+
+Winston,
+do you think we are ready to calculate factors for US curves? (while continue 
+working on the rest).
+
+Tanya
+
+
+
+   
+
+
+From:  Bjorn Hagelmann                                                        
+     09/20/2000 10:06 PM	
+	
+	
+	                           
+	
+
+To: Tanya Tamarchenko/HOU/ECT@ECT, Naveen Andrews/Corp/Enron@ENRON
+cc: Vince J Kaminski/HOU/ECT@ECT, Kirstee Hewitt/LON/ECT@ECT, Rodrigo 
+Lamas/LON/ECT@ECT, Xochitl Figueroa/NA/Enron, Manfred Roenz/Corp/Enron, 
+Christian LeBroc/Corp/Enron, Bjorn Hagelmann/HOU/ECT@ECT, Homan 
+Amiry/LON/ECT@ECT 
+Subject: Re: Primary curves missing from Factor Loading
+
+Tanya, Naveen:
+
+I am confused, I thought that when we identified primary curves they would 
+then have factors run against them. Does this not distort what we are trying 
+to do with the primary and VAR?
+
+Regards
+
+Bjorn H.
+---------------------- Forwarded by Bjorn Hagelmann/HOU/ECT on 20/09/2000 
+21:57 ---------------------------
+
+
+Xochitl Figueroa@ENRON
+20/09/2000 18:16
+To: Manfred Roenz/Corp/Enron@Enron, Christian LeBroc/Corp/Enron@ENRON, Homan 
+Amiry/LON/ECT@ECT
+cc: Bjorn Hagelmann/HOU/ECT@ECT 
+Subject: Re: Primary curves missing from Factor Loading  
+
+I am in the same situation as Manfred.  I have one primary curve for Southern 
+Cone Gas and one for Southern Cone Power and I am not getting factors for 
+either.   For my power curves I am getting WTI factors and for Gas I am 
+getting NG factors.  
+
+But I do agree with you Manfred, I think all the primary curves should have 
+their own factor loadings.  
+Xochitl
+
+
+
+
+Manfred Roenz
+09/20/2000 05:33 PM
+To: Christian LeBroc/Corp/Enron@ENRON, Xochitl Figueroa/NA/Enron@Enron, Homan 
+Amiry/LON/ECT@ECT
+cc: Bjorn Hagelmann/HOU/ECT@ECT 
+
+Subject: Re: Primary curves missing from Factor Loading  
+
+Christian,
+at least you have 2 curves that you get factors for.  I get none.  I have 
+four primary curves for coal but factors from NBSK are used.  In emissions I 
+have one primary curve but WTI factors are used.  I think all the primary 
+curves should have their own factor loadings.  Xochitl, what factors are used 
+for your primary curves?
+Manfred
+
+
+   
+	
+	
+	From:  Christian LeBroc                           09/20/2000 11:28 AM
+	
+
+To: Homan Amiry/LON/ECT@ECT, Manfred Roenz/Corp/Enron@Enron, Xochitl 
+Figueroa/NA/Enron@Enron
+cc: Bjorn Hagelmann/HOU/ECT@ECT 
+
+Subject: Primary curves missing from Factor Loading
+
+I was in the process of setting up Sunil's template for calculating 
+co-variance on all Liquids primary curves using the "factor loading" data.  
+Unfortunately, I did not get very far, because I noticed that the factor 
+loading table contains only 2 (WTI & HU) out of 13 liquids primary curves.  I 
+am concern that Liquids VaR could conceivably be over or understated due to 
+the absence of 11 other curves which are listed below.  Please verify your 
+perspective commodity desk on this issue.
+
+61NY
+BRENT
+C2GC
+C3GC
+C5XT
+CONDENSATE
+DUBAICRUDE
+IC4
+MTBE
+NC4
+NXHO    
+
+Christian
+
+
+
+
+
+
+
+
+
+
+
+

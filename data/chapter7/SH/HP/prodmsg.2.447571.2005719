@@ -1,0 +1,77 @@
+Received: from dsl-202-72-142-232.wa.westnet.com.au (HELO gryphon.com.au) (202.72.142.232)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:05 -0000
+From: postmaster@gryphon.com.au
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 19:01:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C58352F0A982C800000F36gryphon.com.au"
+X-DSNContext: 335a7efd - 4446 - 00000001 - 80040546
+Message-ID: <mtU1FhOfC00000239@gryphon.com.au>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C58352F0A982C800000F36gryphon.com.au
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       roger@gryphon.com.au
+
+
+
+
+--9B095B5ADSN=_01C58352F0A982C800000F36gryphon.com.au
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;gryphon.com.au
+Received-From-MTA: dns;longneck.westnet.com.au
+Arrival-Date: Tue, 19 Jul 2005 19:01:52 +0800
+
+Final-Recipient: rfc822;roger@gryphon.com.au
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C58352F0A982C800000F36gryphon.com.au
+Content-Type: message/rfc822
+
+Received: from longneck.westnet.com.au ([202.72.191.201]) by gryphon.com.au with Microsoft SMTPSVC(6.0.3790.0);
+	 Tue, 19 Jul 2005 19:01:52 +0800
+Received: from mailwisconsin.com (unknown [211.186.63.111])
+	by longneck.westnet.com.au (Postfix) with SMTP id CB04A2521D8
+	for <roger@gryphon.com.au>; Tue, 19 Jul 2005 18:59:45 +0800 (WST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360538;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: roger@gryphon.com.au
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Path: projecthoneypot@projecthoneypot.org
+X-OriginalArrivalTime: 19 Jul 2005 11:01:52.0635 (UTC) FILETIME=[44E9F4B0:01C58C51]
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836982">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+
+--9B095B5ADSN=_01C58352F0A982C800000F36gryphon.com.au--

@@ -1,0 +1,49 @@
+Return-Path: <suresemeh@hsuchi.net>
+Delivered-To: em-ca-bruceg-spam@em.ca
+Received: (qmail 4542 invoked by uid 700); 14 Mar 2005 05:55:35 -0000
+Delivered-To: em-ca-em-ca-bruceg@em.ca
+Received: (qmail 4533 invoked by uid 115); 14 Mar 2005 05:55:35 -0000
+Received: from suresemeh@hsuchi.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(222.208.209.117):. 
+ Processed in 0.732836 secs); 14 Mar 2005 05:55:35 -0000
+Received: from unknown (HELO ?222.208.209.117?) (222.208.209.117)
+  by churchill.factcomp.com with SMTP; 14 Mar 2005 05:55:33 -0000
+Received: from hsuchi.net (hsuchi-net.mr.outblaze.com [205.158.62.181])
+        by [222.208.209.117] (Postfix) with ESMTP id 9NZ5LCV7HA
+        for <em-ca-bruceg@em.ca>; Mon, 14 Mar 2005 21:58:45 +0000
+Date: Mon, 14 Mar 2005 21:58:45 +0000
+From: Gino Mayer <suresemeh@hsuchi.net>
+X-Mailer: The Bat! (v3.0.0.14) UNREG / 5EHUY7NUVO7FPDD
+Reply-To: Gino Mayer <suresemeh@hsuchi.net>
+X-Priority: 3 (Normal)
+Message-ID: <916976146659.03247287396551@[222.208.209.117]>
+To: em-ca-bruceg@em.ca
+Subject: A custom Logo that expresses your company! (30884561)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=Windows-1252
+Content-Transfer-Encoding: 8bit
+Content-Length: 645
+Lines: 22
+
+Our art team creates a custom logo for you, based on your needs.  
+
+Years of experience have taught us how to create a logo that makes a statement that is unique to you. 
+
+
+ In a professional manner we learn about your image and how you would like the world to perceive you and your company.
+With this informa tion we then create a logo that is not only unique but reflects the purpose of you and your company. 
+ 
+For value and a logo that reflects your image, take a few minutes and visit Try Logos!
+http://www.trylogos-design.com/
+
+
+ 
+Sincerel y          
+Logo Design Team 
+
+
+
+
+-----
+Stop this mailings:
+http://www.trylogos-design.com/uns.php

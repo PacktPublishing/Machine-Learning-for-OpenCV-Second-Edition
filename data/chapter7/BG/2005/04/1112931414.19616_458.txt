@@ -1,0 +1,66 @@
+Return-Path: <alert5@rockwelldatagroup.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 16167 invoked by uid 115); 6 Apr 2005 00:41:29 -0000
+Received: from alert5@rockwelldatagroup.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(213.0.197.244):. 
+ Processed in 0.139254 secs); 06 Apr 2005 00:41:29 -0000
+Received: from 213-0-197-244.dialup.nuria.telefonica-data.net (HELO pcc1) (213.0.197.244)
+  by churchill.factcomp.com with SMTP; 6 Apr 2005 00:41:28 -0000
+From: "ALERT! Search Engine Status" <alert5@rockwelldatagroup.com>
+To: "Bruceg" <bruceg@em.ca>
+Subject: Your web site has DROPPED in the Search Engines Listings!
+Date: Tue, 5 Apr 2005 17:51:24 -0700
+Reply-To: "ALERT! Search Engine Status" <alert5@rockwelldatagroup.com>
+Message-ID: <98631086.20050405175124@rockwelldatagroup.com>
+MIME-Version: 1.0
+X-Priority: 1 (High)
+Importance: High
+Organization: Rockwell Data
+X-Mailer: EM: 4.52.0.790
+Content-Type: multipart/alternative;  boundary="----_PartID_529923606819919"
+
+This is a multi-part message in MIME format.
+
+------_PartID_529923606819919
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,
+Take a look at this photo.
+  The RockwelliDataiGroup  
+
+Regards David Harris
+
+
+------_PartID_529923606819919
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1252">
+<title>New Page 1</title>
+</head>
+
+<BODY>
+<P align=3Dleft><FONT color=3D#ffffff size=3D1>Dear John,</FONT></P>
+<P align=3Dleft><FONT color=3D#ffffff size=3D1>Take a look at this photo.</FONT></P>
+<P align=3Dleft><FONT color=3D#0000a0 size=3D7>&nbsp;&nbsp;The Rockwell<FONT 
+color=3D#ffffff>i</FONT>Data<FONT color=3D#ffffff>i</FONT>Group</FONT><FONT 
+color=3D#0000a0 size=3D7>&nbsp; </FONT><IMG style=3D"WIDTH: 323px; HEIGHT: 46px" 
+height=3D70 src=3D"http://www.rockwelldatagroup.com/rockwell_right_title.jpg" 
+width=3D360 border=3D0></P>
+<P align=3Dcenter><A 
+href=3D"http://www.rockwelldatagroup.com/rockwelldatagroup"><IMG height=3D768 
+src=3D"http://www.rockwelldatagroup.com/imagey.gif" width=3D1024 border=3D0></A></P>
+<P align=3Dleft><FONT color=3D#0080c0><FONT color=3D#ffffff>Regards David 
+Harris</FONT></FONT></P>
+<P align=3Dleft><FONT size=3D4><FONT 
+color=3D#000000><STRONG></STRONG></FONT></FONT>&nbsp;</P>
+
+</BODY>
+
+</html>
+
+
+------_PartID_529923606819919--
+

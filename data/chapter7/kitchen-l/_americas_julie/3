@@ -1,0 +1,71 @@
+Message-ID: <22158612.1075840863441.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 10:10:13 -0700 (PDT)
+From: a..gomez@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: Mapping websites...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gomez, Julie A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOMEZ>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise - 
+
+Here are the links to some of the maps put together by Keith and his group.  Please call if you have any questions...
+
+Julie  :-)
+
+
+ -----Original Message-----
+From: 	Fraley, Keith  
+Sent:	Thursday, October 04, 2001 12:05 PM
+To:	Gomez, Julie A.
+Subject:	FW: Mapping websites...
+
+
+
+ -----Original Message-----
+From: 	Fraley, Keith  
+Sent:	Monday, October 01, 2001 10:59 AM
+To:	Ollerenshaw, Carey; Matthews, Chris
+Cc:	Hoyt, Peter
+Subject:	Mapping websites...
+
+Gentleman, 
+
+The following list details some of the websites that we have developed to aid our traders and originators with mapping support.  All the maps have basic GIS functionality and have the exact same interfaces.  The ability to zoom in and zoom out, identify, query, find.  In the event that you have any questions what-so-ever feel free to call me, Keith Fraley (713.853.0529)
+
+
+"Proposed Generation WebMap"
+
+This site was developed to support our in-house research of proposed gas-fired generation in North America.  It has been met with great delight and is used heavily by our gas and power originators.  Basic fields in the proposed database include (Company Name, Pipeline, Size, Merchant Capacity, Comments, City, County, State, On-line year, month...).  
+http://nahou-wwmap01p/website/proposed
+
+"Pseudo Real-time Available Pipeline Capacity Map"
+
+This site was developed as a prototype, we basically took a pipe in the Pacific Northwest 'PGT' and have linked to it available pipeline capacity for points along the pipeline.  We have further plans to provide this for all the delivery/receipt point in the US.  It has been a big hit and the traders are looking forward to having access to the entire system.  Fields in the database include (pipe name, point name, Total Capacity, utilized capacity, available capacity)  The points are displayed by size according to the amount of available capacity that point holds.  This one may take a minute to pull up.
+http://nahou-wwmap01p/website/PGT
+
+Real-time Container Available Map"
+
+This site was developed to support our freight capacity traders in "Enron Global Markets"  It reads freight capacity off of an external website and then displays that information on our website.  Again, the point's size is determined by the amount of Capacity available at the point.  If you identify the point you will see that the records are actually broken down by capacity type, the sum of these equals the total capacity of the points.  
+http://nahou-wwmap01p/website/rez1
+
+"Diesel Price Map"
+
+This site was developed for the EGS fundamentals group that study volatility of diesel prices in the U.S. The point colors represent the price/gallon of diesel at different locations in the U.S.  The webmap is designed to read very similar to a weather map, with the cool colors representing lower prices and so-on and so-forth.  The site also includes a delta price (+ or - number in blue) this delta number is the change is diesel prices since the most recent Monday.  This allows the traders to analyze relative volatility of prices.  I have also included a .pdf file that basically represents the same information.
+http://nahou-wwmap01p/website/diesel
+
+
+Again, these are just some of the sites that we currently have up and running, we are currently developing a prototype for you to look at that has UK based energy related data, look for it in a couple of days.  We have several other sites that we can show you at a later date if you are interested in them.
+
+Cheers and we look forward to hearing from you...
+
+Keith Fraley
+713.853.0529
+
+  

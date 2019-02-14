@@ -1,0 +1,91 @@
+Message-ID: <5629279.1075839945736.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 20:42:43 -0700 (PDT)
+From: gjcarter@bpa.gov
+To: pgsd-5.johnson@enron.com, pgsd-5.smith@enron.com, tms-ditt1.donald@enron.com, 
+	tms-ditt1.kitali@enron.com, pg-5.coe@enron.com, 
+	pgsc-5.humphrey@enron.com, tms-ditt2.holden-baker@enron.com, 
+	e-mail <.isas@enron.com>, e-mail <.al@enron.com>, 
+	e-mail <.bert@enron.com>, e-mail <.bill@enron.com>, 
+	bill.williams@enron.com, e-mail <.bob@enron.com>, 
+	e-mail <.brett@enron.com>, e-mail <.brett@enron.com>, 
+	e-mail <.carmine@enron.com>, e-mail <.casey@enron.com>, 
+	e-mail <.christopher@enron.com>, e-mail <.clarke@enron.com>, 
+	e-mail <.cline@enron.com>, e-mail <.cobb@enron.com>, 
+	e-mail <.dan@enron.com>, e-mail <.dana@enron.com>, 
+	e-mail <.dave@enron.com>, e-mail <.doug@enron.com>, 
+	e-mail <.eaton@enron.com>, e-mail <.ed@enron.com>, 
+	e-mail <.eric@enron.com>, e-mail <.esfahan@enron.com>, 
+	e-mail <.falco@enron.com>, e-mail <.fotiou@enron.com>, 
+	e-mail <.frank@enron.com>, e-mail <.fred@enron.com>, 
+	e-mail <.gary@enron.com>, e-mail <.gem@enron.com>, 
+	e-mail <.gray@enron.com>, e-mail <.green@enron.com>, 
+	e-mail <.grow@enron.com>, e-mail <.hackney@enron.com>, 
+	e-mail <.hahn@enron.com>, e-mail <.hank@enron.com>, 
+	e-mail <.harshbarger@enron.com>, e-mail <.hilary@enron.com>, 
+	e-mail <.hincks@enron.com>, e-mail <.hughes@enron.com>, 
+	e-mail <.jeff@enron.com>, e-mail <.jennella@enron.com>, 
+	e-mail <.jennifer@enron.com>, e-mail <.jerry@enron.com>, 
+	jesse.bryson@enron.com, e-mail <.john@enron.com>, 
+	e-mail <.kathy@enron.com>, e-mail <.kevin@enron.com>, 
+	e-mail <.kim@enron.com>, e-mail <.lacen@enron.com>, 
+	e-mail <.lee@enron.com>, e-mail <.magnuson@enron.com>, 
+	e-mail <.martell@enron.com>, e-mail <.megan@enron.com>, 
+	e-mail <.miles@enron.com>, e-mail <.mons@enron.com>, 
+	e-mail <.nick@enron.com>, e-mail <.paul@enron.com>, 
+	e-mail <.paul@enron.com>, e-mail <.paul@enron.com>, 
+	e-mail <.peck@enron.com>, e-mail <.pete@enron.com>, 
+	e-mail <.phil@enron.com>, e-mail <.randall@enron.com>, 
+	e-mail <.raphael@enron.com>, e-mail <.rawlings@enron.com>, 
+	e-mail <.ray@enron.com>, e-mail <.realtime@enron.com>, 
+	e-mail <.rice@enron.com>, e-mail <.robert@enron.com>, 
+	e-mail <.roholt@enron.com>, e-mail <.romero@enron.com>, 
+	e-mail <.ryan@enron.com>, e-mail <.scates@enron.com>, 
+	e-mail <.schwermann@enron.com>, e-mail <.scott@enron.com>, 
+	e-mail <.selwyn@enron.com>, e-mail <.sheik@enron.com>, 
+	e-mail <.sherri@enron.com>, e-mail <.shimizu@enron.com>, 
+	e-mail <.sinowitz@enron.com>, e-mail <.spear@enron.com>, 
+	e-mail <.staples@enron.com>, e-mail <.steve@enron.com>, 
+	e-mail <.steve@enron.com>, e-mail <.sullivan@enron.com>, 
+	e-mail <.sundet@enron.com>, e-mail <.taffe@enron.com>, 
+	e-mail <.torrey@enron.com>, e-mail <.walth@enron.com>, 
+	e-mail <.weldon@enron.com>, e-mail <.wiley@enron.com>, 
+	e-mail <.wright@enron.com>
+Subject: THE DRAFT DOCUMENT OF REAL-TIME ETAGGING PROBLEMS & SOLUTIONS
+Cc: realtime-tms@bpasite1.bpa.gov, mcneil-keister@enron.com, 
+	jmcneilkeister@bpa.gov, hoffman@enron.com, lshoffman@bpa.gov, 
+	ellingwood@enron.com, rgellingwood@bpa.gov, haines@enron.com, 
+	rlhaines@bpa.gov, buchanan@enron.com, scbuchanan@bpa.gov, 
+	oliver@enron.com, lloliver@bpa.gov, arnold@enron.com, 
+	pfarnold@bpa.gov, mackay@enron.com, bemackay@bpa.gov
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: realtime-tms@bpasite1.bpa.gov, mcneil-keister@enron.com, 
+	jmcneilkeister@bpa.gov, hoffman@enron.com, lshoffman@bpa.gov, 
+	ellingwood@enron.com, rgellingwood@bpa.gov, haines@enron.com, 
+	rlhaines@bpa.gov, buchanan@enron.com, scbuchanan@bpa.gov, 
+	oliver@enron.com, lloliver@bpa.gov, arnold@enron.com, 
+	pfarnold@bpa.gov, mackay@enron.com, bemackay@bpa.gov
+X-From: "Carter, Gloria J - TMS-DITT1" <gjcarter@bpa.gov>@ENRON <IMCEANOTES-+22Carter+2C+20Gloria+20J+20-+20TMS-DITT1+22+20+3Cgjcarter+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: Johnson, Kevin M - PGSD-5 <kmjohnson@bpa.gov>, Smith, Sandra K - PGSD-5 <sksmith@bpa.gov>, Donald, Mary - TMS-DITT1 <medonald@bpa.gov>, Kitali, Salah H - TMS-DITT1 <shkitali@bpa.gov>, Coe, Scott A - PG-5 <sacoe@bpa.gov>, Humphrey, Kristy J - PGSC-5 <kjhumphrey@bpa.gov>, Holden-Baker, Susan - TMS-DITT2 <smholden@bpa.gov>, ISAS Correspondents (E-mail) <isascor@wscc.com>, Al Padron (E-mail) <apadron@calpine.com>, Bert Gumm (E-mail) <rgumm@idahopower.com>, Bill Kirby (E-mail) <bill_kirby@pgn.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Bob Winn (E-mail) <rwinn@pnm.com>, Bob_Babcock@transalta. com (E-mail) <Bob_Babcock@transalta.com>, Brett Hallborg (E-mail) <brett.hallborg@bchydro.com>, Brett Fisher (E-mail) <bfisher@wapa.gov>, Carmine Tilghman (E-mail) <ctilghman@tucsonelectric.com>, Casey Bill (E-mail) <bill_casey@pgn.com>, Christopher M Turner (E-mail) <chris.m.turner@mirant.com>, Clarke John (E-mail) <jmclarke@snopud.com>, Cline Donnie (E-mail) <dcline@idahopower.com>, Cobb Steven (E-mail) <sccobb@srpnet.com>, Dan Harney (E-mail) <dan.harney@powerex.com>, Dana Rozelle (E-mail) <drozelle@avistaenergy.com>, Dave Olander (E-mail) <deolande@srpnet.com>, Doug Reese (E-mail) <dreese@idahopower.com>, Eaton Lester (E-mail) <lbeaton@srpnet.com>, Ed Groce (E-mail) <egroce@avistacorp.com>, Eric Langhorst (E-mail) <ejlanghorst@duke-energy.com>, Esfahan Hamid (E-mail) <hesfahani@mwd.dst.ca.us>, Falco Kmu (E-mail) <fkmu@dynegy.com>, Fotiou Demetrios (E-mail) <demetrios.fotiou@bchydro.bc.ca>, Frank Afranji (E-mail) <frank_afranji@pgn.com>, Fred Young (E-mail) <fred@ncpa.com>, Gary Eldridge (E-mail) <gary.eldridge@pacificorp.com>, Gem Cox (E-mail) <gemcox@tucsonelectric.com>, Gray Susan (E-mail) <sgray@tucsonelectric.com>, Green Mike (E-mail) <mike@chelanpud.org>, Grow Lisa (E-mail) <lgrow@idahopower.com>, Hackney Mark W. (E-mail) <mhackney@apsc.com>, Hahn Frank (E-mail) <fhahn@idahopower.com>, Hank Harris (E-mail) <hharris@coral-energy.com>, Harshbarger Bob (E-mail) <bharsh@puget.com>, Hilary Bell (E-mail) <hdbell@snopud.com>, Hincks Doug (E-mail) <doug.hincks@powerpool.ab.ca>, Hughes John (E-mail) <jhughes@sppc.com>, Jeff Charlton (E-mail) <jeff_charlton@transalta.com>, JENNELLA BATTLES (E-mail) <battles@nevp.com>, Jennifer Johnson (E-mail) <jjjo@dynegy.com>, Jerry Dempsey (E-mail) <dempsey@wapa.gov>, Bryson, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBRYSON>, John Coffey (E-mail) <jfcoffey@snpd.com>, Kathy Hara (E-mail) <khara@avistaenergy.com>, Kevin Holland (E-mail) <kholland@avistaenergy.com>, Kim Mattern (E-mail) <Kim.Mattern@avistacorp.com>, Lacen Don (E-mail) <dlacen@pnm.com>, Lee Susan (E-mail) <slee@mieco.com>, Magnuson David (E-mail) <damagn@puget.com>, Martell Peggy (E-mail) <pjmartel@srpnet.com>, Megan Carson (E-mail) <megan.carson@powerex.com>, Miles Anna (E-mail) <amiles@puget.com>, Mons Ellingson (E-mail) <mons@apsc.com>, Nick Snowden (E-mail) <nick.snowden@bchydro.com>, Paul Gordy (E-mail) <pgordy@pnm.com>, Paul Kroger (E-mail) <paul.kroger@pacificorp.com>, Paul Spitzer (E-mail) <paul.spitzer@powerex.com>, Peck Kimberly (E-mail) <kmpe@dynegy.com>, Pete Garris (E-mail) <pgarris@water.ca.gov>, Phil O'Donnell (E-mail) <podonnell@caiso.com>, Randall Dost (E-mail) <realtime@enmax.com>, Raphael Grinberg (E-mail) <raphael.grinberg@pinnaclewest.com>, Rawlings Gordon (E-mail) <gordon.rawlings@bchydro.bc.ca>, Ray Matt (E-mail) <mattr@mid.org>, RealTime Desk (E-mail) <realtime@enmax.com>, Rice Paul (E-mail) <Paul.Rice@pacificorp.com>, Robert (Bob) Goodson (E-mail) <rgoods@ladwp.com>, Roholt Brent (E-mail) <brent.roholt@pacificorp.com>, Romero Ana (E-mail) <aromer@dwp.ci.la.ca.us>, Ryan Miller (E-mail) <ryan.miller@mirant.com>, Scates Andy (E-mail) <ascates@mieco.com>, Schwermann Bob (E-mail) <bschwer@smud.org>, Scott Adair (E-mail) <scott.adair@powerex.com>, Selwyn Thomas (E-mail) <sthomas@caiso.com>, Sheik Nathan (E-mail) <nsheik@softsmiths.com>, Sherri Lemon (E-mail) <slemon@avistacorp.com>, Shimizu Ron (E-mail) <rshimizu@mieco.com>, Sinowitz Mike (E-mail) <mike.sinowitz@ci.seattle.wa.us>, Spear Rose (E-mail) <rspear@pplmt.com>, Staples Max (E-mail) <mstapl@puget.com>, Steve Mounts (E-mail) <steve_mounts@pgn.com>, Steve Thompson (E-mail) <sthompson@nevp.com>, Sullivan Bob (E-mail) <rsullivan@caiso.com>, Sundet Steve (E-mail) <steve_sundet@pgn.com>, Taffe Joe (E-mail) <Jtaffe@ci.tacoma.wa.us>, Torrey Sheryl (E-mail) <torrey@nevp.com>, Walth Lee (E-mail) <lwalth@avistacorp.com>, Weldon Perkins (E-mail) <weldon.perkins@xemkt.com>, Wiley Zimmerman (E-mail) <wiley_zimmerman@transalta.com>, Wright Willie (E-mail) <wright@anv.net>
+X-cc: Real Time - TMS <RealTime-TMS@BPASite1.bpa.gov>, McNeil-Keister, Jean - TMS <jmcneilkeister@bpa.gov>, Hoffman, Lorie S - TMS-DITT1 <lshoffman@bpa.gov>, Ellingwood, Robert G - TMS <rgellingwood@bpa.gov>, Haines, Richard - TM-DITT2 <rlhaines@bpa.gov>, Buchanan, Shepard - TMS-DITT1 <scbuchanan@bpa.gov>, Oliver, Laura L - TMS-DITT1 <lloliver@bpa.gov>, Arnold, Paul F - TO -DITT2 <pfarnold@bpa.gov>, MacKay, Bruce E - PGS <bemackay@bpa.gov>
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+HELLO,
+	PLEASE FIND ATTACHED A DRAFT R/T ETAGGING PROBLEMS & SOLUTIONS
+DOCUMENT:
+1) I HAVE PROMISED MARK HACKNEY & THE ISAS SUBCOMMITTE A COMPLETED DOCUMENT
+BY COB 5/31/01.   SO, PLEASE RESPOND BY NOON ON 5/31/01.
+
+2) IT IS MOST IMPORTANT THAT YOU TAKE THE TIME TO ADD NEW AND/OR MISSED
+ETAGGING PROBLEMS.  IT IS CRITICAL THAT YOU SPECIFY THE DETAILS TO THE
+PROBLEMS AND EVEN MORE DETAILS TO THE PROPOSED SOLUTIONS.
+
+THANK YOU,
+I SINCERELY APPRECIATE YOU WORKING WITH US!
+SMILE - GLORIA
+ <<RTSOLUTIONS.doc>>
+
+ - RTSOLUTIONS.doc 

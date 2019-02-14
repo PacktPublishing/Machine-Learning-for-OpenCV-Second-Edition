@@ -1,0 +1,46 @@
+Message-ID: <16253384.1075855008507.JavaMail.evans@thyme>
+Date: Mon, 23 Jul 2001 08:17:28 -0700 (PDT)
+From: darrell.schoolcraft@enron.com
+To: controllers.dl-ets@enron.com, laura.giambrone@enron.com, 
+	bert.hernandez@enron.com, christine.mcevoy@enron.com, 
+	beverly.miller@enron.com, tracy.minter@enron.com, 
+	amy.mulligan@enron.com, linda.ward@enron.com
+Subject: Citizens contract for Griffith operation
+Cc: david.roensch@enron.com, rich.jolly@enron.com, donna.scott@enron.com, 
+	michelle.lokay@enron.com, lynn.blair@enron.com, 
+	terry.kowalke@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.roensch@enron.com, rich.jolly@enron.com, donna.scott@enron.com, 
+	michelle.lokay@enron.com, lynn.blair@enron.com, 
+	terry.kowalke@enron.com
+X-From: Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSCHOOL>
+X-To: DL-ETS Gas Controllers </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-ETSGasControllers>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, McEvoy, Christine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmcevoy>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>
+X-cc: Roensch, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=68f10420-593507c0-86256744-5ee2d3>, Jolly, Rich </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=55eee558-76f46491-86256743-7d2b01>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>, Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+Citizens is going to sign the agency and operating agreement today.  TW will be taking over the operations
+and monitoring the Griffith plant on Citizens behalf.  We will be monitoring the alarms at the plant and you have
+a call out sheet for Citizens personnel.  We also will be responsible for the operations at the plant.  Currently
+in Scada we have Griffith Power Plant El Paso and Griffith Power Plant TW.  Please get familiar with the points
+and how set points will need to be sent.  To change El Paso, the set point will be at 1.  TW will be at 2.
+When you send flow set points of 140,000 that will automatically convert to pressure control.  Set points less than
+140,000 will stay on flow control.  We will have to experiment with set points when we have orders on TW and 
+El Paso.  Currently we have orders just off of TW.
+
+1.  Currently El Paso is set on 140,000 flow which will control on pressure and TW flow set point is at 120,000.
+     this is on flow control.  
+2.  When we have a flow order from El Paso we may want to set them on flow control and TW on pressure.   We
+     will just have to experiment with the best operation. 
+3.  Remember the above mentioned is at the plant and not at the TW Mainline I/C.  We are working with Citizens 
+     to be able to see El Paso Mainline I/C.(El Paso will be responsible for the Mainline I/C and setpoints.) 
+
+I put a copy of the agreement in everyone's inbox for your review.  
+If you have questions we can get with Craig Lipke with Citizens and ask for their help.  Last conversation with him
+was we would just have to operate and see which scenario best fits the situation.  In other words they really don't
+know which is the best way to operate.
+
+Thanks DS

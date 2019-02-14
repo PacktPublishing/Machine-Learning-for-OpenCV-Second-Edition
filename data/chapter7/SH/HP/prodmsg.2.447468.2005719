@@ -1,0 +1,111 @@
+Received: from vms055pub.verizon.net (206.46.252.55)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:52 -0000
+Received: from process-daemon.vms055.mailsrvcs.net by vms055.mailsrvcs.net
+ (Sun Java System Messaging Server 6.2-2.05 (built Apr 28 2005))
+ id <0IJV00I01FQ4ZT00@vms055.mailsrvcs.net> for projecthoneypot@projecthoneypot.org; Tue,
+ 19 Jul 2005 05:57:34 -0500 (CDT)
+Received: from vms055.mailsrvcs.net
+ (Sun Java System Messaging Server 6.2-2.05 (built Apr 28 2005))
+ id <0IJV00I3IFRYZU00@vms055.mailsrvcs.net>; Tue,
+ 19 Jul 2005 05:57:34 -0500 (CDT)
+Date: Tue, 19 Jul 2005 05:57:34 -0500 (CDT)
+From: Verizon Managed Mail Postmaster <postmaster@managedmail.com>
+Subject: Delivery Notification: Delivery has failed
+To: projecthoneypot@projecthoneypot.org
+Message-id: <0IJV00I3KFRYZU00@vms055.mailsrvcs.net>
+MIME-version: 1.0
+Content-type: multipart/report;
+ boundary="Boundary_(ID_1+8GM4HwGA93JTjoAiI00Q)"; report-type=delivery-status
+
+
+--Boundary_(ID_1+8GM4HwGA93JTjoAiI00Q)
+Content-type: text/plain; charset=us-ascii
+Content-language: en-US
+
+This report relates to a message you sent with the following header fields:
+
+  Message-id: <ccrtOX.squirrel@205.214.42.66>
+  Date: Tue, 19 Jul 2005 10:57:46 +0000
+  From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+  To: info@pettymadden.com
+  Subject: Just to her...
+
+Your message cannot be delivered to the following recipients:
+
+  Recipient address: bynumpetty@aol.com
+  Original address: info@pettymadden.com
+  Reason: SMTP transmission failure has occurred
+  Diagnostic code: smtp;554-:  (HVU:B1) http://postmaster.info.aol.com/errors/554hvub1.html TRANSACTION FAILED
+  Remote system: dns;mailin-02.mx.aol.com (TCP|206.46.252.55|49939|64.12.138.89|25) (rly-xl01.mx.aol.com ESMTP mail_relay_in-xl1.3; Tue, 19 Jul 2005 06:57:34 -0400)
+  Recipient address: dnldgrms@aol.com
+  Original address: info@pettymadden.com
+  Reason: SMTP transmission failure has occurred
+  Diagnostic code: smtp;554-:  (HVU:B1) http://postmaster.info.aol.com/errors/554hvub1.html TRANSACTION FAILED
+  Remote system: dns;mailin-02.mx.aol.com (TCP|206.46.252.55|49939|64.12.138.89|25) (rly-xl01.mx.aol.com ESMTP mail_relay_in-xl1.3; Tue, 19 Jul 2005 06:57:34 -0400)
+
+
+--Boundary_(ID_1+8GM4HwGA93JTjoAiI00Q)
+Content-type: message/delivery-status
+
+Reporting-MTA: dns;vms055.mailsrvcs.net (tcp-daemon)
+
+Original-recipient: rfc822;info@pettymadden.com
+Final-recipient: rfc822;bynumpetty@aol.com
+Action: failed
+Status: 5.0.0 (SMTP transmission failure has occurred)
+Remote-MTA: dns;mailin-02.mx.aol.com (TCP|206.46.252.55|49939|64.12.138.89|25)
+ (rly-xl01.mx.aol.com ESMTP mail_relay_in-xl1.3; Tue, 19 Jul 2005 06:57:34
+ -0400)
+Diagnostic-code: smtp;554-:  (HVU:B1)
+ http://postmaster.info.aol.com/errors/554hvub1.html TRANSACTION FAILED
+
+Original-recipient: rfc822;info@pettymadden.com
+Final-recipient: rfc822;dnldgrms@aol.com
+Action: failed
+Status: 5.0.0 (SMTP transmission failure has occurred)
+Remote-MTA: dns;mailin-02.mx.aol.com (TCP|206.46.252.55|49939|64.12.138.89|25)
+ (rly-xl01.mx.aol.com ESMTP mail_relay_in-xl1.3; Tue, 19 Jul 2005 06:57:34
+ -0400)
+Diagnostic-code: smtp;554-:  (HVU:B1)
+ http://postmaster.info.aol.com/errors/554hvub1.html TRANSACTION FAILED
+
+--Boundary_(ID_1+8GM4HwGA93JTjoAiI00Q)
+Content-type: message/rfc822
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from tcp-daemon.vms055.mailsrvcs.net by vms055.mailsrvcs.net
+ (Sun Java System Messaging Server 6.2-2.05 (built Apr 28 2005))
+ id <0IJV00I3IFRYZU00@vms055.mailsrvcs.net>; Tue,
+ 19 Jul 2005 05:57:34 -0500 (CDT)
+Received: from mailwisconsin.com ([61.136.107.237])
+ by vms055.mailsrvcs.net (Sun Java System Messaging Server 6.2-2.05 (built Apr
+ 28 2005)) with SMTP id <0IJV00ICVFRPEJ40@vms055.mailsrvcs.net>
+ (ORCPT info@pettymadden.com); Tue, 19 Jul 2005 05:57:30 -0500 (CDT)
+Received: from 205.214.42.66
+ (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org)
+ ; by mailwisconsin.com with HTTP id J87Gz024815955; Tue,
+ 19 Jul 2005 10:57:46 +0000
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+Subject: Just to her...
+To: info@pettymadden.com
+Message-id: <ccrtOX.squirrel@205.214.42.66>
+MIME-version: 1.0
+X-Mailer: SquirrelMail/1.4.3a
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: 8bit
+Importance: Normal
+X-Priority: 3 (Normal)
+User-Agent: SquirrelMail/1.4.3a
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279199">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--Boundary_(ID_1+8GM4HwGA93JTjoAiI00Q)--

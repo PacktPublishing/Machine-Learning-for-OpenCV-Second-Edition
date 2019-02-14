@@ -1,0 +1,107 @@
+Message-ID: <4085142.1075855931572.JavaMail.evans@thyme>
+Date: Mon, 21 Aug 2000 04:26:00 -0700 (PDT)
+From: shona.wilson@enron.com
+To: david.port@enron.com
+Subject: Re: Trading v Origination Offices
+Cc: richard.sage@enron.com, sally.beck@enron.com, brent.price@enron.com, 
+	fernley.dyson@enron.com, mike.jordan@enron.com, ted.murphy@enron.com, 
+	naomi.connell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.sage@enron.com, sally.beck@enron.com, brent.price@enron.com, 
+	fernley.dyson@enron.com, mike.jordan@enron.com, ted.murphy@enron.com, 
+	naomi.connell@enron.com
+X-From: Shona Wilson
+X-To: David Port
+X-cc: Richard Sage, Sally Beck, Brent A Price, Fernley Dyson, Mike Jordan, Ted Murphy, Naomi Connell
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I agree with the exception of point 3 below.  I plan for them to be one of 
+several authorisers of bills (in no case however, the only authorisers).  
+Also, I spoke to Sally about the "agency" office and she agrees that in the 
+short term, the agency plan is what we need to implement.  However, a 
+mentioned by both Ted and Sally, we need to discuss what the ultimate goal is 
+for these offices (will they continue to exist?).  Let's call what we plan to 
+implement now "Phase I".
+
+Best regards
+
+
+
+
+To: Richard Sage/LON/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT, Mike Jordan/LON/ECT@ECT, Shona Wilson/NA/Enron@Enron, Ted 
+Murphy/HOU/ECT@ECT, Naomi Connell/LON/ECT@ECT 
+
+Subject: Re: Trading v Origination Offices  
+
+Thanks - I think this is a good start as far as roles go, but as I outlined 
+to Shona last week, we should apply some basic rules to the process, (forgive 
+me if obvious) for example:
+
+Rule 1: No confirmations issued, chased or matched by remote offices
+
+This should be done centrally and further all the customers of the remote 
+office should be given contact numbers (e.g. fax) at the operations hub. That 
+way any incoming confirmations etc go to the independent ops group.
+
+Rule 2: No cash payments or receipts in respect of transactions approved or 
+reconciled by remote offices
+
+Operations hubs should reconcile cash movements to changes in position.
+
+Rule 3: No physical settlements or receipts in respect of transactions 
+approved or reconciled by remote offices
+
+This splits the logistics process somewhat, but is essentially as with cash 
+in that every movement of physical product should be approved (where 
+necessary) and reconciled to movements in the position at operations hubs. 
+The "initiation/optimisation" aspect of logistics could remain remote, since 
+arguably it involves pseudo - trading.
+
+Not exhaustive but helpful I hope.
+DP
+
+
+
+
+
+Richard Sage@ECT
+08/21/2000 03:40 AM
+To: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT
+cc: Fernley Dyson/LON/ECT@ECT, Mike Jordan/LON/ECT@ECT, Shona 
+Wilson/NA/Enron@Enron, Ted Murphy/HOU/ECT@ECT, David Port/Market 
+Risk/Corp/Enron@ENRON, Naomi Connell/LON/ECT@ECT 
+
+Subject: Trading v Origination Offices
+
+Sally, Brent,
+There are three MG offices in North America outside New York which, previous 
+to the acquisition by Enron, acted much as trading offices.
+Shona and Naomi have worked with the people in New York to put in place extra 
+controls so that they are not trading offices, for example having a trader in 
+New York or London own each book and sign off on profit daily.
+This process has highlighted the fact that our non-trading offices are not 
+all the same, and cannot reasonably all be the same.
+Some offices organise logistics things to happen on the ground, some 
+originate, and some execute for Trading Offices.
+
+is a suggestion for how we can make this division explicit.
+All the cc above are bought in to this approach.
+What do you require to be comfortable so that we can put it up to Causey and 
+Buy?
+
+It is worth noting that this approach would have caught Helsinki, except for 
+the Contract-in-a-bottom-drawer, but no system of control can reliably catch 
+that, as was evidenced by EOTT.
+
+Thanks,
+Richard
+
+
+
+

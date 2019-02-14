@@ -1,0 +1,76 @@
+Received: from 342937.ds.nac.net (HELO nac-f9roglw9obz.ereksononline.com) (66.246.218.18)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:57 -0000
+From: postmaster@ereksononline.com
+To: projecthoneypot@projecthoneypot.org
+Date: Tue, 19 Jul 2005 06:59:55 -0400
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01C588EE56FFC988000000ABnac?f9roglw9obz."
+X-DSNContext: 335a7efd - 4523 - 00000001 - 80040546
+Message-ID: <BJzs9hhRw00000010@nac-f9roglw9obz.ereksononline.com>
+Subject: Delivery Status Notification (Failure)
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01C588EE56FFC988000000ABnac?f9roglw9obz.
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       info@ereksononline.com
+
+
+
+
+--9B095B5ADSN=_01C588EE56FFC988000000ABnac?f9roglw9obz.
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;nac-f9roglw9obz.ereksononline.com
+Received-From-MTA: dns;mailwisconsin.com
+Arrival-Date: Tue, 19 Jul 2005 06:59:51 -0400
+
+Final-Recipient: rfc822;info@ereksononline.com
+Action: failed
+Status: 5.1.1
+
+--9B095B5ADSN=_01C588EE56FFC988000000ABnac?f9roglw9obz.
+Content-Type: message/rfc822
+
+thread-index: AcWMUP7+1RjnvrAkRRm+y9/FBQ1bWQ==
+Thread-Topic: Spam:Just to her...
+Received: from mailwisconsin.com ([211.94.99.130]) by nac-f9roglw9obz.ereksononline.com with Microsoft SMTPSVC(6.0.3790.1830); Tue, 19 Jul 2005 06:59:51 -0400
+Received: from 205.214.42.66        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);        by mailwisconsin.com with HTTP id J87Gz024815635;        Tue, 19 Jul 2005 10:57:46 +0000
+Message-ID: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Spam:Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: <info@ereksononline.com>
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Importance: Normal
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Content-Class: urn:content-classes:message
+X-OriginalArrivalTime: 19 Jul 2005 10:59:53.0625 (UTC) FILETIME=[FDFA7890:01C58C50]
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279389">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+
+--9B095B5ADSN=_01C588EE56FFC988000000ABnac?f9roglw9obz.--

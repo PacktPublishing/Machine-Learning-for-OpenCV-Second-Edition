@@ -1,0 +1,91 @@
+Received: from smtp.fenwick-linde.fr (HELO smhln003.sqy.fenwick-linde.fra) (195.101.35.242)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:58 -0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: DELIVERY FAILURE: Destinataire non unique. Le Carnet d'adresses contient
+ plusieurs
+ =?ISO-8859-1?Q?entr=E9es_correspondant_=E0_laurent_=28laurent=40bastide?=
+ =?ISO-8859-1?Q?=29=2E?=
+From: Postmaster@noreply.fenwick-linde.fr
+To: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MIMETrack: Itemize by SMTP Server on FL_SQY_SMTP/FENWICK LINDE/FR(Release 6.5.2|June
+ 01, 2004) at 07/19/2005 12:50:52 PM,
+	Serialize by Router on FL_SQY_SMTP/FENWICK LINDE/FR(Release 6.5.2|June 01, 2004) at
+ 07/19/2005 12:51:02 PM,
+	Serialize complete at 07/19/2005 12:51:02 PM
+Content-Type: multipart/report; report-type=delivery-status; boundary="==IFJRGLKFGIR7054UHRUHIHD"
+
+--==IFJRGLKFGIR7054UHRUHIHD
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+  Subject: Just to her...
+
+was not delivered to:
+
+  bastide.laurent@bastide.info
+
+because:
+
+  Destinataire non unique. Le Carnet d'adresses contient plusieurs entr=E9e=
+s correspondant =E0 laurent (laurent@bastide).
+
+
+--==IFJRGLKFGIR7054UHRUHIHD
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;bastide-manut.bastide.nt
+
+Final-Recipient: rfc822;laurent.alaux@bastide.info
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Notes; Destinataire non unique. Le Carnet d'adresses contient plusieurs entr‚es correspondant … laurent (laurent@bastide).
+
+--==IFJRGLKFGIR7054UHRUHIHD
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com ([211.219.29.147])
+          by smhln003.sqy.fenwick-linde.fra (Lotus Domino Release 6.5.2)
+          with SMTP id 2005071912505202-2219 ;
+          Tue, 19 Jul 2005 12:50:52 +0200 
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360336;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: laurent.bastide@bastide.info
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MIMETrack: Itemize by SMTP Server on FL_SQY_SMTP/FENWICK LINDE/FR(Release 6.5.2|June
+ 01, 2004) at 07/19/2005 12:50:52 PM,
+	Serialize by Router on FL_SQY_SMTP/FENWICK LINDE/FR(Release 6.5.2|June 01, 2004) at
+ 07/19/2005 12:51:02 PM
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body alink=3D"blue" bgcolor=3D"white" link=3D"blue" text=3D"black" vlink=
+=3D"blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color=3D"#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href=3D"http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836883"=
+>Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--==IFJRGLKFGIR7054UHRUHIHD--

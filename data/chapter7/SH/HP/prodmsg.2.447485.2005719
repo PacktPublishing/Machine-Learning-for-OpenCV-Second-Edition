@@ -1,0 +1,64 @@
+Received: from cpanel30.gzo.com (69.93.1.114)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:06 -0000
+Received: from mailnull by cpanel30.gzo.com with local (Exim 4.43)
+	id 1Dupna-0001Ng-HZ
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 05:58:06 -0500
+X-Failed-Recipients: woksal@eunet.yu
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@cpanel30.gzo.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupna-0001Ng-HZ@cpanel30.gzo.com>
+Date: Tue, 19 Jul 2005 05:58:06 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cpanel30.gzo.com
+X-AntiAbuse: Original Domain - mail.scoaway.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  woksal@eunet.yu
+    (generated from info@woksal.com)
+    SMTP error from remote mailer after end of data:
+    host relay.eunet.yu [194.247.192.179]: 554 5.6.1 We do not accept spam
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [62.21.124.244] (helo=mailwisconsin.com)
+	by cpanel30.gzo.com with smtp (Exim 4.43)
+	id 1DupnR-0001MX-Kg
+	for info@woksal.com; Tue, 19 Jul 2005 05:57:58 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815602;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@woksal.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279365">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

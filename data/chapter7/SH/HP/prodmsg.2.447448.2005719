@@ -1,0 +1,98 @@
+Received: from lml101.siteprotect.com (66.113.136.249)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:34 -0000
+Received: from localhost (localhost)
+	by lml101.siteprotect.com (8.9.3/8.9.3) with internal id FAA14150;
+	Tue, 19 Jul 2005 05:57:33 -0500
+Date: Tue, 19 Jul 2005 05:57:33 -0500
+From: Mail Delivery Subsystem <MAILER-DAEMON@lml101.siteprotect.com>
+Message-Id: <200507191057.FAA14150@lml101.siteprotect.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="FAA14150.1121770653/lml101.siteprotect.com"
+Subject: Returned mail: Can't create output
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--FAA14150.1121770653/lml101.siteprotect.com
+
+The original message was received at Tue, 19 Jul 2005 05:57:28 -0500
+from [221.3.33.27]
+
+   ----- The following addresses had permanent fatal errors -----
+jodyanddavid.herring@verizon.net
+    (expanded from: <info@bowguns.com>)
+bowguns
+    (expanded from: <info@bowguns.com>)
+
+   ----- Transcript of session follows -----
+... while talking to relay.verizon.net.:
+>>> RCPT To:<jodyanddavid.herring@verizon.net>
+<<< 550 5.1.1 unknown or illegal alias: jodyanddavid.herring@verizon.net
+550 jodyanddavid.herring@verizon.net... User unknown
+procmail: Quota exceeded while writing "/var/spool/mail/bowguns"
+550 bowguns... Can't create output
+
+--FAA14150.1121770653/lml101.siteprotect.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; lml101.siteprotect.com
+Received-From-MTA: DNS; [221.3.33.27]
+Arrival-Date: Tue, 19 Jul 2005 05:57:28 -0500
+
+Final-Recipient: RFC822; <info@bowguns.com>
+Action: expanded (to multi-recipient alias)
+Status: 2.0.0
+Last-Attempt-Date: Tue, 19 Jul 2005 05:57:33 -0500
+
+Final-Recipient: RFC822; <info@bowguns.com>
+X-Actual-Recipient: RFC822; jodyanddavid.herring@verizon.net
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; relay.verizon.net
+Diagnostic-Code: SMTP; 550 5.1.1 unknown or illegal alias: jodyanddavid.herring@verizon.net
+Last-Attempt-Date: Tue, 19 Jul 2005 05:57:33 -0500
+
+Final-Recipient: RFC822; <info@bowguns.com>
+X-Actual-Recipient: RFC822; bowguns@lml101.siteprotect.com
+Action: failed
+Status: 5.3.0
+Last-Attempt-Date: Tue, 19 Jul 2005 05:57:33 -0500
+
+--FAA14150.1121770653/lml101.siteprotect.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com ([221.3.33.27])
+	by lml101.siteprotect.com (8.9.3/8.9.3) with SMTP id FAA14140
+	for <info@bowguns.com>; Tue, 19 Jul 2005 05:57:28 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816333;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@bowguns.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273888">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--FAA14150.1121770653/lml101.siteprotect.com--
+

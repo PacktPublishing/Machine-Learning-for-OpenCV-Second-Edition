@@ -1,0 +1,25 @@
+Return-Path: <jfound@prtcmail.prtc.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 22348 invoked by uid 115); 15 May 2005 17:28:40 -0000
+Received: from jfound@prtcmail.prtc.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(66.231.229.69):. 
+ Processed in 0.102176 secs); 15 May 2005 17:28:40 -0000
+Received: from monitor.bivapr.net (HELO jtwrifg.net) (66.231.229.69)
+  by churchill.factcomp.com with SMTP; 15 May 2005 17:28:39 -0000
+From: jfound@prtcmail.prtc.net
+To: mail@em.ca
+Date: Sun, 15 May 2005 17:41:07 UTC
+Subject: Auf Streife durch den Berliner Wedding
+Importance: Normal
+X-Priority: 3 (Normal)
+MIME-Version: 1.0
+Message-ID: <6b49a6.3e9ccb4ab0b@prtcmail.prtc.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+Content-Length: 128
+Lines: 3
+
+Lese selbst:
+http://www.zdf.de/ZDFde/inhalt/7/0,1872,2222503,00.html
+
+http://www.libasoli.de/2004/ethnoclans%20spiegel50_04.html

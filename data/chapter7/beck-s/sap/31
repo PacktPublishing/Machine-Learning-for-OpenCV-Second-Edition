@@ -1,0 +1,44 @@
+Message-ID: <14156668.1075855896426.JavaMail.evans@thyme>
+Date: Tue, 11 Apr 2000 01:55:00 -0700 (PDT)
+From: stephen.schwarz@enron.com
+To: cynthia.morrow@enron.com
+Subject: SAP Business Unit Sign-off
+Cc: melissa.white@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: melissa.white@enron.com, sally.beck@enron.com
+X-From: Stephen P Schwarz
+X-To: Cynthia Morrow
+X-cc: Melissa White, Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Cindy,
+
+At this time, Energy Operations is not prepared to sign off that SAP 
+development for Energy Operations has been completed and that based on what 
+was seen at user reviews all requirements have been met.  Having been in your 
+position on other projects, I understand your need for this sign-off.  In an 
+effort to focus both our teams on resolving and remaining outstanding issues, 
+we can provide the following list of known items which remain unclear to us.
+
+Mapping profit centers/books
+Inability to unit test the power interface due to lack of profit center 
+definition for power
+AR reporting by product/coordinator/counterparty
+Reversal of prepay accruals for Financial Settlements
+Netting control point for AP
+Reporting Entities (Co 842)
+Report Requirements
+Cash forecasting tools
+Netting intercompany offsetting 3rd party (FX)
+Monetizations
+Controls on writeoffs
+Flex file upload
+
+Call Melissa at X35704 for detailed explanations.  I'm available as always at 
+X33179.
+
+Stephen

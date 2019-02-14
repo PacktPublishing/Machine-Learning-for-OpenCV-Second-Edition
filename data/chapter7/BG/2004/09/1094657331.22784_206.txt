@@ -1,0 +1,152 @@
+Return-Path: <cameras-falsas@camerascftv.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 20471 invoked from network); 08 Sep 2004 15:22:32 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 08 Sep 2004 15:22:32 -0000
+Received: (qmail 16122 invoked from network); 8 Sep 2004 15:22:32 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx06.futurequest.net ([69.5.6.177])
+  with QMQP via TCP; 08 Sep 2004 15:22:32 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 20360 invoked from network); 08 Sep 2004 15:22:29 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 08 Sep 2004 15:22:29 -0000
+Received: (qmail 25510 invoked from network); 8 Sep 2004 15:22:22 -0000
+Received: from 10.0.1.134 ([200.178.241.135])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 08 Sep 2004 15:22:22 -0000
+From: "Cameras CFTV" <cameras-falsas@camerascftv.com>
+To: <webmaster@ezmlm.org>
+Subject: 
+Sender: "Cameras CFTV" <cameras-falsas@camerascftv.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 0908041222"
+Date: Wed, 8 Sep 2004 12:22:21 -0300
+Content-Length: 5474
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 0908041222
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Câmera Segurança Sim. CFTV
+R$ 39.90 com FRETE GRÁTIS para TODO Brasil
+Ótimos resultados contra pixações.
+Placas Grátis.
+Preços especiais para revenda!
+
+CLIQUE AQUI e faça seu pedido agora!
+- moldada em aço com pintura Epox
+- suporte com ajuste horizontal e vertical
+- LED (luzinha vermelha) para simulação de gravação (bivolt 110/220V)
+- réplica perfeita das câmeras de vigilância verdadeiras
+- cabo coaxial, conector cabo e parafusos para fixação inclusos
+
+Caso não queira mais receber esta mensagem clique aqui 
+Esta mensagem é enviada com a complacência da nova legislação sobre correio eletrônico, Seção 301, Parágrafo (a) (2) (c) Decreto S.1618,Título Terceiro aprovado pelo "105 Congresso Base das Normativas Internacionais sobre o SPAM".
+Este E-mail não poderá ser considerado SPAM quando inclua uma forma de ser removido.
+
+--= Multipart Boundary 0908041222
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Cameras Falsas</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<SCRIPT language=JavaScript type=text/JavaScript>
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</SCRIPT>
+
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY text=#ffffff vLink=#ff0000 aLink=#ff0000 link=#ff0000 bgColor=#000000>
+<TABLE width="66%" align=center border=0>
+  <TBODY>
+  <TR>
+    <TD width="17%" rowSpan=5><IMG height=65 
+      src="http://geocities.yahoo.com.br/cds_imagens/placa-cam_prop.jpg" 
+      width=100></TD>
+    <TD width="79%" bgColor=#000000>
+      <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+      color=#ffffff><STRONG>Câmera Segurança Sim. CFTV</STRONG></FONT></DIV></TD>
+    <TD width="4%" rowSpan=5><FONT size=2><STRONG><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif" color=#ffffff 
+      size=3></FONT></STRONG></FONT><IMG height=87 
+      src="http://geocities.yahoo.com.br/cds_imagens/foto_cam_prop.jpg" 
+      width=100></STRONG></FONT></TD></TR>
+  <TR>
+    <TD bgColor=#000000 height=21>
+      <DIV align=center><FONT face="Arial, Helvetica, sans-serif" 
+      color=#ffff00><STRONG>R$ 39.90 com FRETE GRÁTIS para TODO 
+      Brasil</STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT face="Arial, Helvetica, sans-serif" color=#6699ff 
+      size=2><STRONG><FONT color=#000000>Ótimos resultados contra</FONT><FONT 
+      color=#000000> pixações.</FONT></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif" color=#ffffff size=3>Placas 
+      Grátis.</FONT></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT face="Arial, Helvetica, sans-serif" color=#000000 
+      size=2><STRONG><FONT face="Arial, Helvetica, sans-serif" color=#ffff00 
+      size=3>Preços especiais para 
+  revenda!</FONT></STRONG></FONT></DIV></TD></TR></TBODY></TABLE>
+<P align=center><FONT size=2><STRONG><FONT face="Arial, Helvetica, sans-serif" 
+color=#ffffff size=3><A href="http://www.camerasfalsas.com.br" 
+target=_blank>CLIQUE AQUI</A> e faça seu pedido 
+agora!</FONT></STRONG></FONT></P>
+<TABLE width="61%" align=center border=0>
+  <TBODY>
+  <TR>
+    <TD width="91%" height=18>
+      <DIV align=center><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif">- moldada em aço com pintura 
+      Epox</FONT></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif">- suporte com ajuste horizontal e 
+      vertical</FONT></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif">- LED (luzinha vermelha) para 
+      simulação de gravação (bivolt 110/220V)</FONT></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif">- réplica perfeita das câmeras de 
+      vigilância verdadeiras</FONT></STRONG></FONT></DIV></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=center><FONT size=2><STRONG><FONT 
+      face="Arial, Helvetica, sans-serif">- cabo coaxial, conector cabo e 
+      parafusos para fixação 
+inclusos</FONT></STRONG></FONT></DIV></TD></TR></TBODY></TABLE>
+<P><FONT face="Arial, Helvetica, sans-serif" size=1>Caso não queira mais receber 
+esta mensagem <A href="http://www.camerasfalsas.com.br/remover_cameras.htm" 
+target=_blank>clique aqui</A> </FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" size=1>Esta mensagem é enviada com 
+a complacência da nova legislação sobre correio eletrônico, Seção 301, Parágrafo 
+(a) (2) (c) Decreto S.1618,Título Terceiro aprovado pelo "105 Congresso Base das 
+Normativas Internacionais sobre o SPAM".<BR>Este E-mail não poderá ser 
+considerado SPAM quando inclua uma forma de ser 
+removido.</FONT></P></BODY></HTML>
+
+--= Multipart Boundary 0908041222--

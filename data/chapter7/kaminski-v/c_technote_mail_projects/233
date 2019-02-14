@@ -1,0 +1,82 @@
+Message-ID: <14106183.1075856592092.JavaMail.evans@thyme>
+Date: Thu, 12 Oct 2000 09:52:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: jeffery.fawcett@enron.com
+Subject: Re: Options model
+Cc: stinson.gibner@enron.com, pinnamaneni.krishnarao@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, pinnamaneni.krishnarao@enron.com
+X-From: Zimin Lu
+X-To: Jeffery Fawcett
+X-cc: Stinson Gibner, Pinnamaneni Krishnarao
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Jeff,
+
+I got 20 cents for the swith option per Dth. My assumptions are as follows:
+
+price curve assumption:
+Waha   --- IF-WAHA
+La Plata Pool  and TW(Ignacio)   -- IF-EPSO/SJ
+California Border -- NGI-SOCAL
+
+Correlation assumption:
+
+Waha- SJ  95%
+Socal-  SJ  90%
+
+See the attached spreadsheet for more info.  Call me for questions.
+
+Zimin
+
+
+
+
+
+
+
+
+
+Jeffery Fawcett@ENRON
+10/11/2000 02:56 PM
+To: Zimin Lu/HOU/ECT@ECT
+cc:  
+Subject: Options model
+
+Zimin,
+We're trying to price out a "live" options deal.  Here are the parameters:
+
+Volume: 32,000 Dth/d
+Term:  Jan. 1, 2002 through Oct. 31, 2006 (58 mos.)
+Price:  One part rate, $0.2175/Dth, plus applicable fuel 
+Primary Receipt/Delivery Points: (East - to -East Transport)
+ Receipt: La Plata Pool (use San Juan, Blanco price equivalent)
+ Delivery: Waha area 
+
+Option:
+ Alternate Delivery Pnt.:  California Border (East - to- West Transport)
+ Price:
+ Floor-  $0.2175/Dth, plus 4.75% pipeline fuel, plus 50% of the difference 
+between the California Border index
+  price and the San Juan Basin index price.  Specifically, we'll use:
+      (SoCalGas large pkgs. minus TW (Ignacio, pts. south))
+
+An important things to consider:
+This option is only for Alternate Firm deliveries.  Alternate firm is really 
+just a glorified version of interruptible.
+
+Can you run the option model and tell me what is the dollar value of this 
+rather "unpure" option?
+
+I appreciate it.  Give me a call at 3-1521 if you have any questions.  Also, 
+can you get us an answer by Friday, 10/13/00?  We're looking to get the 
+proposal out to the customer by the end of the week if possible.  Thanks.
+
+
+
+
+

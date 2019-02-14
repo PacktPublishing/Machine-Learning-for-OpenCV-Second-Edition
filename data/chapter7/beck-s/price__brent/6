@@ -1,0 +1,66 @@
+Message-ID: <17671180.1075855892637.JavaMail.evans@thyme>
+Date: Tue, 13 Jun 2000 03:28:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: Benchmark
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI...according to Jeff, by the end of today the only position that will 
+require manual adjustment is an IM Canada position (60 K's) that will be 
+fixed next Monday when Kam Keiser goes back to Calgary.  Everything else is 
+now automatically feeding to the GRMS system (and VAR calculations) without 
+human intervention.
+ 
+---------------------- Forwarded by Brent A Price/HOU/ECT on 06/13/2000 10:20 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Jeffrey C Gossett                           06/13/2000 04:01 PM
+	
+
+To: Steve Jackson/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT 
+Subject: Benchmark
+
+Steve - Mike asked  me to send him a list of what we had done to improve the 
+top-level adjustments on the Benchmark.  Here are the things which we 
+discussed earlier.
+
+Mike - Let me know if you need anything else.
+
+We have lowered the number of top-level adjustments substantially this week.  
+We have taken several steps in order to achieve this.
+
+1.  We had to adjust formatting in all text files which go into GRMS.  
+2.  We are using a flip-out book for all Canadian deals done with the U.S. 
+office so that Canadian positions are pulling in correctly.
+3.  We had to adjust many book names in order that GRMS would pull the books 
+into the system.  
+4.  We had to change region codes in the system so that GRMS would pull in 
+more than one book per region.
+
+Issues remaining:
+
+Intra-Month Canada
+Chicago
+Storage and Intra-East
+
+Intra-month Canada - We have a risk person from the U.S. office going to 
+Canada on Monday to fix their problems.
+Chicago -  will be fixed by the end of the day.  System is looking for the 
+wrong portfolio code.
+Storage and Intra-East - Also will be fixed by the end of the day.  Overide 
+books need to be set up.
+
+Thanks
+
+JG

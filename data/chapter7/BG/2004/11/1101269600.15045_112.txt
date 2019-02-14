@@ -1,0 +1,40 @@
+Return-Path: <derrickbarnes_yu@goodtech.no>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 12971 invoked from network); 23 Nov 2004 23:17:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 23 Nov 2004 23:17:18 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 23 Nov 2004 23:17:18 -0000
+Received: (qmail 604 invoked from network); 23 Nov 2004 23:17:16 -0000
+Received: from brd.de (unknown [213.216.230.82])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 23 Nov 2004 23:17:14 -0000
+Received: from 39.47.205.138 by smtp.goodtech.no;
+	Tue, 23 Nov 2004 23:16:27 +0000
+Message-ID: <b58101c4d1b2$17e48985$f18e1b99@brd.de>
+From: "Derrick Barnes" <derrickbarnes_yu@goodtech.no>
+To: cvs@bruce-guenter.dyndns.org
+Subject: Application is pre approved
+Date: Tue, 23 Nov 2004 16:15:59 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Content-Length: 395
+Lines: 16
+
+Dear Sir or Madam,
+
+Would you REFINANCE if you knew you'd SAVE TH0USANDS? 
+
+We'll get you lnterest as low as 1.92%. 
+Don't believe me? Fill out our small online questionaire and we'll show you how. 
+
+Get the house/home and/or car you always wanted, it only takes 10 seconds of your time:
+http://www.your-financial.com/
+
+Best Regards,
+Andrew Banks
+
+No thanks: http://www.your-financial.com/r1/

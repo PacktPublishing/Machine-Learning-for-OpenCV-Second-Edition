@@ -1,0 +1,58 @@
+Return-Path: <Douglas.Lindsey@bolt.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 29432 invoked by uid 115); 26 Apr 2005 05:52:14 -0000
+Received: from Douglas.Lindsey@bolt.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.131.78.130):. 
+ Processed in 0.110061 secs); 26 Apr 2005 05:52:14 -0000
+Received: from ofsfa-04p7-130.ppp11.odn.ad.jp (211.131.78.130)
+  by churchill.factcomp.com with SMTP; 26 Apr 2005 05:52:12 -0000
+Return-Path: <G_Lindsayecc@mypersonalemail.com >
+X-Original-To: bait@em.ca
+Delivered-To: bait@em.ca
+Received: from server1.doneasy.com  (mail.doneasy.com  [207.106.112.133])
+	by fep2.mypersonalemail.com  (Postfix) with ESMTP id A025C0567
+	for <bait@em.ca>; Tue, 26 Apr 2005 10:58:58 +0400 (EDT)
+Received: from nobody by mypersonalemail.com  with local (Exim 4.17)
+	id 6C1rjW-5992oD-My
+	for <bait@em.ca>; Tue, 26 Apr 2005 10:57:58 +0400
+To: bait@em.ca
+Subject: Confirmation Email: Link Code inside
+From: "Hannah Dewitt" <G_Lindsayecc@mypersonalemail.com >
+Message-ID: <697219594725.7eb1e8487501@mypersonalemail.com >
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Tue, 26 Apr 2005 08:03:58 +0100
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.mypersonalemail.com 
+X-AntiAbuse: Original Domain - sacmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [49 67] / [33 12]
+X-AntiAbuse: Sender Address Domain - mypersonalemail.com 
+
+
+Finance News Update:
+
+Did you know if you have an existing M0rtgage or
+own your own home, you can ref1nance and have 
+access to M0ney whenever you please?
+
+Our company specializes in getting our clients
+the lowest rates, and we can work around poor_credit.
+
+*Negotiable Amount(s): $92,884 to $246, 447
+*Rate(s): 3.88% - 5.43%
+
+Real-Time Quotes:
+http://bestrates.just1ce.com/formupdate.asp
+
+Best Regards,
+
+Hannah Dewitt
+Account Manager
+
+
+
+
+Real-Time Deletion:
+http://realtimeremove.just1ce.com/deletion.asp

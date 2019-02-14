@@ -1,0 +1,84 @@
+Received: from smtp3.tiki.ne.jp (218.40.30.74)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:27 -0000
+Received: from localhost (localhost)
+	by smtp3.tiki.ne.jp (8.13.1/8.13.1) id j6JAxP6M071390;
+	Tue, 19 Jul 2005 19:59:25 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Tue, 19 Jul 2005 19:59:25 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON@smtp3.tiki.ne.jp>
+Message-Id: <200507191059.j6JAxP6M071390@smtp3.tiki.ne.jp>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAxP6M071390.1121770765/smtp3.tiki.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAxP6M071390.1121770765/smtp3.tiki.ne.jp
+
+The original message was received at Tue, 19 Jul 2005 19:59:24 +0900 (JST)
+from YahooBB219017052037.bbtec.net [219.17.52.37]
+
+   ----- The following addresses had permanent fatal errors -----
+<musasabi@mx52.tiki.ne.jp>
+    (reason: 550 <musasabi@mx52.tiki.ne.jp>... User unknown)
+
+   ----- Transcript of session follows -----
+... while talking to [218.40.30.150]:
+>>> RCPT To:<musasabi@mx52.tiki.ne.jp>
+<<< 550 <musasabi@mx52.tiki.ne.jp>... User unknown
+550 5.1.1 <musasabi@mx52.tiki.ne.jp>... User unknown
+
+--j6JAxP6M071390.1121770765/smtp3.tiki.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; smtp3.tiki.ne.jp
+Received-From-MTA: DNS; YahooBB219017052037.bbtec.net
+Arrival-Date: Tue, 19 Jul 2005 19:59:24 +0900 (JST)
+
+Final-Recipient: RFC822; musasabi@mx52.tiki.ne.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; [218.40.30.150]
+Diagnostic-Code: SMTP; 550 <musasabi@mx52.tiki.ne.jp>... User unknown
+Last-Attempt-Date: Tue, 19 Jul 2005 19:59:25 +0900 (JST)
+
+--j6JAxP6M071390.1121770765/smtp3.tiki.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mailwisconsin.com (YahooBB219017052037.bbtec.net [219.17.52.37])
+	by smtp3.tiki.ne.jp (8.13.1/8.13.1) with SMTP id j6JAxF6M071298
+	for <musasabi@mx52.tiki.ne.jp>; Tue, 19 Jul 2005 19:59:24 +0900 (JST)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009359892;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: musasabi@mx52.tiki.ne.jp
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1891215">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--j6JAxP6M071390.1121770765/smtp3.tiki.ne.jp--
+

@@ -1,0 +1,53 @@
+Message-ID: <15087340.1075857027604.JavaMail.evans@thyme>
+Date: Fri, 19 May 2000 04:50:00 -0700 (PDT)
+From: pinnamaneni.krishnarao@enron.com
+To: samer.takriti@enron.com
+Subject: RE: CPLEX floating license
+Cc: chonawee.supatgiat@enron.com, stinson.gibner@enron.com, 
+	tom.halliburton@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chonawee.supatgiat@enron.com, stinson.gibner@enron.com, 
+	tom.halliburton@enron.com, vince.kaminski@enron.com
+X-From: Pinnamaneni Krishnarao
+X-To: Samer Takriti
+X-cc: Chonawee Supatgiat, Stinson Gibner, Tom Halliburton, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Samer's suggestion makes a lot of sense. We can start with something like one 
+floating dev. license + 2 OPL licenses and buy more later based on actual 
+usage. On the pricing agreement, it probably makes sense to get a guarantee 
+on the discounts  for additional licenses for one year (or till Dec.). I am 
+definitely interested and can provide the share of funding necessary from my 
+clients. 
+
+Thanks,
+Krishna.
+
+
+From: Samer Takriti@ENRON COMMUNICATIONS on 05/19/2000 11:14 AM
+To: Ravi Thuraisingham/Enron Communications@Enron Communications
+cc: Chonawee Supatgiat/Corp/Enron@ENRON, Pinnamaneni 
+Krishnarao/HOU/ECT@ECT@ENRON, samer_takriti@enron.net, Stinson 
+Gibner/HOU/ECT@ECT@ENRON, Tom Halliburton/Corp/Enron@Enron, Vince J 
+Kaminski/HOU/ECT@ECT 
+Subject: RE: CPLEX floating license  
+
+Chonawee and I just had a phone conversation with Cplex. There are other 
+alternatives (products) that may help in saving time and cost. Chonawee and I 
+feel that one floating develoment license, and one or two OPL (a package on 
+sale that provides modeling and optimization features) licenses will do. In 
+addition, we need floating deployment licenses. For the development licenses, 
+the charges should be split "equally" between the different groups that may 
+ask for optimization help (although it is hard to predict who may ask for 
+future help). We are suggesting equally since these licenses are used to 
+develop the needed solution but are not (in general) used to run the 
+software. The deployment licenses can be charged on per-use basis for 
+different groups.
+Cplex is going to send us a new quote. We'll make the decision soon after 
+that.
+-Samer
+

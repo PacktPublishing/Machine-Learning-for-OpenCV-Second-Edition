@@ -1,0 +1,84 @@
+Return-Path: <support@citibank.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 9426 invoked by uid 115); 26 Oct 2004 00:47:05 -0000
+Received: from support@citibank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(83.113.184.185):. 
+ Processed in 2.961402 secs); 26 Oct 2004 00:47:05 -0000
+Received: from atoulon-152-1-18-185.w83-113.abo.wanadoo.fr (83.113.184.185)
+  by churchill.factcomp.com with SMTP; 26 Oct 2004 00:47:01 -0000
+X-Message-Info: M/fo+9+kkn/KD+88/81560422295627
+Received: from smtp-maya.kilo.support@citibank.com ([83.113.184.185]) by w40-rt9.support@citibank.com with Microsoft SMTPSVC(5.0.1503.2467);
+	 Mon, 25 Oct 2004 14:46:44 -0500
+Received: from taunt379.play.support@citibank.com (gargantuan082.support@citibank.com [83.113.184.185])
+	by smtp-chungking.disaccharide.support@citibank.com (Postfix) with SMTP id 565UQT133FQ58H
+	for <bruceg@em.ca>; Mon, 25 Oct 2004 18:41:44 -0100
+Received: from smtp-devon.median.support@citibank.com ([83.113.184.185]) by nh91-k58.support@citibank.com with Microsoft SMTPSVC(5.0.9607.6437);
+	 Mon, 25 Oct 2004 23:47:44 +0400
+X-Message-Info: PJLS+%ND_LC_CHAR[1-3]8+kl+HP+102/490406835998388
+Received: (qmail 43719 invoked by uid 17); Mon, 25 Oct 2004 23:42:44 +0400
+Date: Mon, 25 Oct 2004 17:42:44 -0200
+Message-Id: <12738736486.79957@support@citibank.com>
+From: Citibank <support@citibank.com>
+To: Bruceg <bruceg@em.ca>
+Subject: Please confirm Your account
+MIME-Version: 1.0 (produced by douglasterbium 3.5)
+Content-Type: multipart/alternative;
+	boundary="--80718582525464550656"
+
+----80718582525464550656
+Content-Type: text/html;
+	charset="iso-0276-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: aggressor clergymen homo
+
+<html>
+<body>
+<img src=3D"http://221.4.199.8/signin/citifi/scripts/login2/header.gif" wi=
+dth=3D"750" height=3D"84">
+<br><br>
+<P align=3D"left"><font face=3D"Trebuchet MS">
+Dear valued Citibank member, 
+<br><br>
+Due to concerns, for the safety and integrity of the online banking commun=
+ity we have issued the following warning message.
+<br><br>
+It has come to our attention that your account information needs to be con=
+firmed due to inactive customers, fraud and spoof reports. If you could pl=
+ease take 5-10 minutes out of your online experience and renew your record=
+s you will not run into any future problems with the online service. Howev=
+er, failure to confirm your records may result in your account suspension.=
+
+<br><br>
+Once you have confirmed your account records your internet banking service=
+ will not be interrupted and will continue as normal.
+<br>
+&nbsp;</font><P align=3D"left"><font face=3D"Trebuchet MS">Please <a href=3D=
+"http://221.4.199.8/signin/citifi/scripts/login2/verify.html
+" target=3D"_blank">click here</a> to confirm your bank account records.
+<br><br><br>
+Thank you for your time,
+<br>
+Citibank Billing Department.<br></font><hr><font face=3D"Trebuchet MS"> 
+
+<table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100%" border=3D"0">
+  <tr>
+    <td vAlign=3D"top" align=3D"left" width=3D"30">
+	<img src=3D"http://221.4.199.8/signin/citifi/scripts/login2/citi_lsm.gif"=
+ width=3D"21" height=3D"13"><br>
+    <a class=3D"footer" href=3D"http://www.citibank.com" target=3D"_blank"=
+>Citibank.com</a></td>
+    <td class=3D"footer" vAlign=3D"top" align=3D"right">
+	<img src=3D"http://221.4.199.8/signin/citifi/scripts/login2/mem_citi.gif"=
+ width=3D"107" height=3D"13"><br>
+	<a class=3D"footer" href=3D"http://www.citibank.com/privacy/promise.htm" =
+target=3D"_blank">Citigroup Privacy Promise</a><br>
+	<a class=3D"footer" href=3D"http://www.citibank.com/citibank/disclaim.htm=
+" target=3D"_blank">Terms, conditions, caveats and small print</a><br>Copy=
+right =A9 2004, Citicorp<br><br>&nbsp;
+	</td>
+  </tr>
+</table>
+</body>
+</html>
+
+----80718582525464550656--

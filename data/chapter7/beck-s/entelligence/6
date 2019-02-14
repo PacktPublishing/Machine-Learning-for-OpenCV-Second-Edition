@@ -1,0 +1,145 @@
+Message-ID: <28269296.1075855870205.JavaMail.evans@thyme>
+Date: Sat, 6 May 2000 08:14:00 -0700 (PDT)
+From: bryan.seyfried@enron.com
+To: mary.solmonson@enron.com
+Subject: Re: Dun & Bradstreet Info for Credit Trading
+Cc: john.sherriff@enron.com, philippe.bibi@enron.com, sally.beck@enron.com, 
+	stuart.ffoulkes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.sherriff@enron.com, philippe.bibi@enron.com, sally.beck@enron.com, 
+	stuart.ffoulkes@enron.com
+X-From: Bryan Seyfried
+X-To: Mary Solmonson
+X-cc: John Sherriff, Philippe A Bibi, Sally Beck, Stuart Ffoulkes
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Thank you for keeping us in the loop on this.  D&B data will become one of 
+our most important sources.  As you suggest, the intent is to use this data 
+along with other available date to generate a price for credit.  The price 
+will be published externally (likely for a fee and as a free service) via the 
+web or via automated processes.  
+
+Option 3 appears to be the best solution for us given our desire for as up to 
+date data as possible.  Stuart is working with the credit team to define 
+additional data elements but the credit score and financial score are likely 
+what we are looking for.  Alternatively, if it is possible to obtain the 
+actual data that is used to generate the score that would allow us to 
+generate our own score in addition to D&B's.  We will need the Global Failure 
+Score as well.  Currently we are active in Europe as well as the US and 
+expect to move towards Asia and Austrailia over time.  Hopefully, this data 
+is available via D&B Connect.
+
+Another consideration is the term of contract.  We would likely prefer a 
+longer term contract so that if they decide they don't like what we are doing 
+with the data, we cannot be cut off.  Does it make sense from your 
+perspective to approach D&B to be our long term, strategic providor of 
+customer data.  This would likely make their deal maker look good in his 
+boss's eyes, give you lot's of negotiating ability and give a us the long 
+term preferential contract that we are looking for.
+
+Let's discuss further.
+
+bryan
+
+
+
+
+
+Mary Solmonson
+05/05/2000 19:25
+To: John Sherriff/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT
+cc: Philippe A Bibi/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Stuart 
+Ffoulkes/LON/ECT@ECT 
+
+Subject: Dun & Bradstreet Info for Credit Trading
+
+I have received preliminary information from D&B.  I think several 
+issues/questions have been raised that if explored, could result in a better 
+solution for the money.  
+
+Option 1
+The update frequency for our current file can be improved from quarterly to 
+monthly for a cost of $87,000 (USD) through March, 2001.
+
+Option 2
+I wasn't sure what specific data in the file you might be interested in.  If 
+you are particularly interested in the Financial Stress Score and Credit 
+Score, for example, there are multiple alternatives :
+ 
+ 2a) Keep quartlery refresh of base data (party name, etc) and refresh scores 
+that are added/changed on a monthly basis.  Cost - $1.17(USD) per 
+record.          Note that there are 575,000 records in the file currently 
+with financial and credit scores, making this potentially a very expensive 
+alternative 
+        (575,000 X 1.17=$ 672,750).
+
+ 2b) Batch or FTP updates of the financial and stress scores can only be 
+provided monthly.  D&B is working on a solution that would provide a 
+weekly         update to their customers in a batch or FTP manner, but has 
+not committed to when this will be ready.  Therefore, if more timely updates 
+than monthly                          are desired, it is also possible to 
+transactionally access records one at a time using D&B's software.  The cost 
+for this is extremely high at $10.52         (USD) per score. 
+
+Option 3
+D&B Connect Product.
+ D&B Connect is a tool set of matching software, an externally validated 
+reference file, credit and marketing information, and D&B services that 
+enables the  most effective integration of customer information and 
+third-party information with D&B information.  Only this type of process and 
+information integration  capability can facilitate and ensure accurate 
+identification, linkage and maintenance of your customer's complete 
+relationship.   In addition, D&B Connect  assures organizations of 
+referential integrity by providing an automated and electronic link to D&B so 
+that the most recent D&B information is always  transmitted to your 
+organization and updated within your local D&B Connect Reference File.  D&B 
+Connect is scalable.  
+
+ Cost Typically ranging from
+ * Customer Access Module (CAM) Batch- - $25,000
+ * CAM Online - $50,000
+ * Full Information Integrator - $350,000 + data
+
+With more specifics as to your needs, this option should perhaps be pursued.
+
+
+Questions/Issues
+
+1) D&B had questions regarding the use of their data and whether Enron 
+customers would be offered this information for a fee or free.  I explained 
+that I  did not feel the data would be offered directly to Enron customers, 
+but that it would be used to support analysis that would be available 
+externally via web  site, etc.  All pricing above is based upon this 
+understanding.  If I have not portrayed the usage correctly, it will be 
+imperative to get a better understanding  before final pricing can be 
+negotiated.
+
+2)  Are there specific data elements that you are interested in ?  
+Alternatives may vary by data element.  Financial Stress Score and Credit 
+Score reference  above were explored as an example.
+
+3)  What is timeframe for needing a solution ?
+
+4)  Financial Stress Score and Credit Score are only available on U.S. 
+companies.  A comparable measure - Global Failure Score (the liklihood of 
+default or  bankruptcy)  is available for international companies.  This 
+rating score however, is NOT currently available via a batch or FTP manner.  
+This could result  in additional cost if we wish to pursue obtaining this 
+score in a batch manner.
+
+5)  Pricing also varies whether the information is to be used for credit 
+analysis or risk management decisions versus for marketing purposes.  This is 
+probably  negotiable as the data is the same.  The thought process is that if 
+the repository is used for credit or risk decisions, D&B will see decreased 
+usage and  revenue on a transactional basis by the credit departments.
+
+ If you would like me to follow up further, please give me a call at 
+713-853-6079.
+
+
+
+

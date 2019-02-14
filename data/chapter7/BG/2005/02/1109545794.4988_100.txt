@@ -1,0 +1,96 @@
+Return-Path: <ylmfvubxi@verizon.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 32651 invoked by uid 115); 26 Feb 2005 12:43:16 -0000
+Received: from ylmfvubxi@verizon.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(221.146.68.27):. 
+ Processed in 0.139481 secs); 26 Feb 2005 12:43:16 -0000
+Received: from unknown (HELO 209.5.178.248) (221.146.68.27)
+  by churchill.factcomp.com with SMTP; 26 Feb 2005 12:43:14 -0000
+Received: from aft.unknown (HELO dlollingws) (55.44.244.76)
+  by softdnserror with SMTP;  Sun, 27 Feb 2005 07:34:37 +0300
+Message-Id: <228304271814.7114237@oscsunb.osc.edu>
+Date: Sun, 27 Feb 2005 08:36:37 +0400
+From: "Alden Tracy" <ylmfvubxi@verizon.com>
+To: bob.smith@em.ca
+Subject:  Don't let ED depress you...
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+<html>
+<body>
+<div style="width:100%;height:400px;">
+	<table style="position:relative;z-index:0;" width="100%" height="100%"  border="0" cellpadding="20" cellspacing="0">
+	  <tr>
+	    <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+	      <tr>
+	        <td width="64"><table width="64" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+	          <tr>
+	            <td>&nbsp;</td>
+	            <td bgcolor="#FF0000">&nbsp;</td>
+	            <td>&nbsp;</td>
+	          </tr>
+	          <tr bgcolor="#FF0000">
+	            <td>&nbsp;</td>
+	            <td>&nbsp;</td>
+	            <td>&nbsp;</td>
+	          </tr>
+	          <tr>
+	            <td>&nbsp;</td>
+	            <td bgcolor="#FF0000">&nbsp;</td>
+	            <td>&nbsp;</td>
+	          </tr>
+	        </table></td>
+	        <td width="10">&nbsp;</td>
+	        <td width="90%" align="left"><span style="font-weight:bold;font-size:30px;font-family:Arial,Helvetica,sans-serif;">&Omicron;&Nu;Ll&Nu;E R&Chi;</span></td>
+	      </tr>
+	      <tr>
+	        <td colspan="3">&nbsp;</td>
+          </tr>
+	      <tr>
+	        <td colspan="3"><table width="100%" border="0">
+	          <tr>
+	            <td><table width="60%" border="0" cellpadding="5" cellspacing="0">
+                  <tr>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;">\/l&Alpha;GR&Alpha;</span></td>
+                    <td bgcolor="#B5DEF5">&nbsp;</td>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;">I5&nbsp;&times;&nbsp;IOOmg</span></td>
+                    <td bgcolor="#B5DEF5">&nbsp;</td>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:#000099;">0nIy&nbsp;&#36;65</span></td>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:#000099;"><u>0rder</u></span></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="#8CCBEF"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;">\/&Alpha;LlU&Mu;</span></td>
+                    <td bgcolor="#8CCBEF">&nbsp;</td>
+                    <td bgcolor="#8CCBEF"><span style="font-family:Arial,Helvetica,sans-serif;">6O&nbsp;&times;&nbsp;IOmg</span></td>
+                    <td bgcolor="#8CCBEF">&nbsp;</td>
+                    <td bgcolor="#8CCBEF"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:#000099;">0nIy&nbsp;&#36;18O</span></td>
+                    <td bgcolor="#8CCBEF"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:#000099;"><u>0rder</u></span></td>
+                  </tr>
+                  <tr>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;">Cl&Alpha;LlS</span></td>
+                    <td bgcolor="#B5DEF5">&nbsp;</td>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;">I5&nbsp;&times;&nbsp;2Omg</span></td>
+                    <td bgcolor="#B5DEF5">&nbsp;</td>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:#000099;">0nIy&nbsp;&#36;13O</span></td>
+                    <td bgcolor="#B5DEF5"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;color:#000099;"><u>0rder</u></span></td>
+                  </tr>
+                </table></td>
+	            </tr>
+	          <tr>
+	            <td>&nbsp;</td>
+	            </tr>
+	          <tr>
+	            <td width=60%"><span style="font-family:Arial,Helvetica,sans-serif;font-weight:bold;"><strong><u>\/iew &Omicron;nline CataIog</u></strong></span></td>
+	          </tr>
+	        </table></td>
+	      </tr>
+	    </table></td>
+	  </tr>
+	</table>
+	<a href="http://fastdelivs.com/sale/?wid=100012">
+    <img style="position:absolute;top:-30;left:0;border:medium none;" width="104%" height="150%" alt="" /></a>
+  </div>
+</body>
+</html>

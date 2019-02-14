@@ -1,0 +1,66 @@
+Return-Path: <hypothalamus@gx.fambz.com>
+Delivered-To: em-ca-bait-esoteric@em.ca
+Received: (qmail 29985 invoked by uid 115); 7 Mar 2005 16:28:14 -0000
+Received: from hypothalamus@gx.fambz.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.202.250.65):. 
+ Processed in 2.525675 secs); 07 Mar 2005 16:28:14 -0000
+Received: from unknown (HELO harryreems.com) (211.202.250.65)
+  by churchill.factcomp.com with SMTP; 7 Mar 2005 16:28:10 -0000
+Received: from gx.fambz.com (iris2.directnic.com [204.251.10.82])
+	by harryreems.com with esmtp
+	id FD9877E8CC for <bait-esoteric@em.ca>; Mon, 07 Mar 2005 08:34:07 -0800
+Message-ID: <000001c52333$5d85be13$457f00a3@gx.fambz.com>
+From: "Daybreak S. Digital" <hypothalamus@gx.fambz.com>
+To: Bait <bait-esoteric@em.ca>
+Subject: Hello, stranger! :)
+Date: Mon, 07 Mar 2005 08:34:07 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0015_27E3A281.282CBC62"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-AntiVirus: scanned for viruses by AMaViS 0.2.1 (http://amavis.org/)
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0015_27E3A281.282CBC62
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+Salut!
+
+Qosh
+
+------=_NextPart_000_0015_27E3A281.282CBC62
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<META HTTP-EQUIV=3d"Content-Type" CONTENT=3d"text/html;charset=3diso-8859=
+-1">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2e0 Transitional//EN">
+<HTML><HEAD>
+<META HTTP-EQUIV=3d"Content-Type" CONTENT=3d"text/html; charset=3dus-asci=
+i">
+<META content=3d"MSHTML 6=2e00=2e2800=2e1437" name=3dGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3d#ffffff>
+<DIV>
+Wakey wakey!
+<BR><IMG
+src=3d"http://nmbernhardnb=2enet/eaa15083e6365aa191a899327/BAMHJ0MCFA0SBx=
+w6DScCD0gBDw=3d=3d=2ejpg" alt=3d"sweater"  border=3d"0">
+
+
+
+<br>E noho ra
+
+
+
+</DIV></BODY></HTML>
+
+------=_NextPart_000_0015_27E3A281.282CBC62--
+
+

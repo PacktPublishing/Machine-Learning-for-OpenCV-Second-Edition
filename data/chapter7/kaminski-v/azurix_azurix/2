@@ -1,0 +1,33 @@
+Message-ID: <30547881.1075856567123.JavaMail.evans@thyme>
+Date: Mon, 2 Oct 2000 13:42:00 -0700 (PDT)
+From: michael.anderson@enron.com
+To: bob.lee@enron.com
+Subject: Re: Joint Probabilities
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+X-From: Michael Anderson
+X-To: Bob Lee
+X-cc: Stinson Gibner, Vince J Kaminski, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bob -
+
+I've edited our numbers a bit on the Azurix analysis and would like you to 
+re-run the joint probabilities tables.
+
+Please note that I've got 2 cases in the model now - an optimistic case and a 
+pessimistic case.  I hope you can run both cases.  (you will need to toggle 
+for case 1 or 2 - real complicated stuff!!)
+
+Please keep everything else the same (ie, the currency probabilities, RAB 
+probabilities, etc.)
+
+Thanks for your help.
+
+Michael Anderson
+646-9666

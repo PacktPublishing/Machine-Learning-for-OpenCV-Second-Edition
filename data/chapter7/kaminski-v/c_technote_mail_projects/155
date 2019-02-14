@@ -1,0 +1,81 @@
+Message-ID: <24411284.1075856589772.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 01:46:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: amitava.dhar@enron.com
+Subject: Re: CreditDotCom Projects
+Cc: vasant.shanbhogue@enron.com, vince.kaminski@enron.com, ben.parsons@enron.com, 
+	tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vasant.shanbhogue@enron.com, vince.kaminski@enron.com, ben.parsons@enron.com, 
+	tanya.tamarchenko@enron.com
+X-From: Vince J Kaminski
+X-To: Amitava Dhar
+X-cc: Vasant Shanbhogue, Vince J Kaminski, Ben Parsons, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Amitava,
+
+Can you schedule a brainstorming session with Vasant, Tanya, Rakesh, myself
+and Ben (if possible)? 
+
+What about the trip on Monday. Has it been scheduled?
+
+
+Vince
+
+
+
+
+
+Amitava Dhar@ENRON
+01/03/2001 08:30 AM
+To: Vince J Kaminski/HOU/ECT@ECT, Ben Parsons/LON/ECT@ECT
+cc: Vasant Shanbhogue/HOU/ECT@ECT 
+Subject: CreditDotCom Projects
+
+The following is a good summary from Vasant about the projects and what is 
+ahead of us.
+Ben, please let me know when things are ready; I can plan my trip accordingly.
+Thanks, 
+Amitava
+
+
+
+EnronCredit.com is working on 3 main models --- the FMC model, the Placement 
+model, and the Movement model.
+FMC Model : provides credit default swap price curves for 16 ratings with 33 
+industry offsets.  Each day, this model takes the previous day's trader 
+curves and adjusts them for the movement in Bloomberg yields and observed 
+swap prices.
+Placement Model : uses linear regression to credit default swap prices using 
+dummified ranges for Market Capitalization, Liquidity, KMV Score, etc.  One 
+main issue here is that the dataset is biased towards investment grade 
+names.  Alternate approaches looked at developing separate models for 
+separate sunsets of names.
+Movement Model : provides an alert system for news.  This is under 
+development.
+
+Current involvement of Houston Research Group members is in the 
+development/modifications of the Placement Model, especially in thinking 
+through the various single vs multi model approaches.  We can help in the 
+brainstorming for better models for subsets.  One main project right now is 
+to get a separate model for subsidiaries, and to exclude subsidiary names 
+from the main regression.
+
+Value-at-risk is based on historical variance-covariance approach.
+
+The portfolio model is under development.
+
+Agenda for Houston Research Group members : 
+
+Once sufficient data is collected, start reviewing for potential analytic 
+relationships.
+Get weekly updates from London, and provide feedback.
+Plan on a trip if the work warrants it, once the agenda is fairly well drawn 
+out, and data is available for analysis.
+
+

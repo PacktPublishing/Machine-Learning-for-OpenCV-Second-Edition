@@ -1,0 +1,49 @@
+Return-Path: <info@eurovine.de>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13975 invoked by uid 115); 30 Oct 2004 23:19:40 -0000
+Received: from info@eurovine.de by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(212.227.126.188):. 
+ Processed in 0.073421 secs); 30 Oct 2004 23:19:40 -0000
+Received: from moutng.kundenserver.de (212.227.126.188)
+  by churchill.factcomp.com with SMTP; 30 Oct 2004 23:19:39 -0000
+Received: from [212.227.126.206] (helo=mrelayng.kundenserver.de)
+	by moutng.kundenserver.de with esmtp (Exim 3.35 #1)
+	id 1CNwvW-0004Sq-00
+	for bruceg@em.ca; Sat, 30 Oct 2004 19:22:06 +0200
+Received: from [217.85.251.125] (helo=MailOut)
+	by mrelayng.kundenserver.de with asmtp (Exim 3.35 #1)
+	id 1CNwuW-0007Ix-01
+	for bruceg@em.ca; Sat, 30 Oct 2004 19:21:04 +0200
+From: Eurovine<info@eurovine.de>
+To: bruceg@em.ca
+CC: 
+Subject: Fehler bei unserem Newsletter Versand
+X-Mailer: MailOut: registriert
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Message-Id: <E1CNwuW-0007Ix-01@mrelayng.kundenserver.de>
+Date: Sat, 30 Oct 2004 19:21:04 +0200
+X-Provags-ID: kundenserver.de abuse@kundenserver.de auth:f2ce02d8ce823e7147384b88f9ccb0de
+
+Sehr geehrte Damen und Herren,
+
+leider ist uns bei unserem Newsletterversand ein schwerer Fehler unterlaufen.
+
+Sie hätten unseren Newsletter nie bekommen sollen, da Sie ihn nicht aboniert haben.
+Hier wurden leider E-mails worunter auch Ihre fällt mit unseren in der Datenbank 
+vermischt, was eindeutig unser Fehler war.
+
+Wir haben Sie weder in unseren Verteiler noch in unsere Maillingliste aufgenommen.
+Leider ist dies gerade erst aufgefallen.
+
+Bitte entschuldigen Sie, falls wir Sie dadurch belästig haben sollten.
+
+Wir versichern Ihnen, falls Sie nicht zu unseren Abonnenten gehören,  werden Sie keine weiteren 
+E-mails mehr von  uns erhalten.
+
+Vielen Dank für Ihr Verständnis.
+
+Mit freundlichen Grüssen
+
+Gordon Kindler
+

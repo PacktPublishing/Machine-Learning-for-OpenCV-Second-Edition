@@ -1,0 +1,41 @@
+Return-Path: <internet@internhetboston013.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 7286 invoked by uid 115); 14 Jul 2005 10:18:05 -0000
+Received: from internet@internhetboston013.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(58.8.248.146):. 
+ Processed in 0.128539 secs); 14 Jul 2005 10:18:05 -0000
+Received: from ppp-58.8.248.146.revip2.asianet.co.th (HELO tiger) (58.8.248.146)
+  by churchill.factcomp.com with SMTP; 14 Jul 2005 10:18:03 -0000
+From: "Boston Network" <internet@internhetboston013.com>
+To: <bruceg@em.ca>
+Subject: "Internet for Knowledge Worker Productivity Workshop" and "Customer Complaint Management Workshop" Seminar
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 14 Jul 2005 17:18:14
+X-Qmail-Scanner-Message-ID: <11213362856727279@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font color="#666666" size="2"> <font size="1">หากรายละเอียดด้านล่างไม่แสดง สามารถดูรายละเอียดได้ที่</font></font><font size="1" color="#666666"> 
+<a href="http://www.roomthai.com/boston/internet.html"> http://www.roomthai.com/boston/internet.html 
+</a></font><br>
+<iframe src="http://www.roomthai.com/boston/b1/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> <img src="http://www.roomthai.com/boston/internet.gif" width="700" height="2878" usemap="#Map" border="0"> 
+<map name="Map"> 
+  <area shape="rect" coords="321,2671,584,2697" href="http://www.bostonnetwork.com/" target="_blank">
+  <area shape="rect" coords="23,2477,458,2488" href="http://www.bostonnetwork.com/ad_html/16005-3CrossFunctional.pdf" target="_blank">
+  <area shape="rect" coords="2,231,696,364" href="http://www.bostonnetwork.com/ad_html/16805-1_InternetProductivity.pdf" target="_blank">
+  <area shape="rect" coords="7,1404,694,1518" href="http://www.bostonnetwork.com/ad_html/14805-3CustomerComplaint.pdf" target="_blank">
+  <area shape="rect" coords="24,2494,285,2508" href="http://www.bostonnetwork.com/ad_html/11005-3The6Habits.pdf" target="_blank">
+  <area shape="rect" coords="24,2515,228,2527" href="http://www.bostonnetwork.com/ad_html/14505-2Excelling.pdf" target="_blank">
+  <area shape="rect" coords="23,2535,209,2546" href="http://www.bostonnetwork.com/ad_html/13805-2Successfully.pdf" target="_blank">
+</map>
+<br>
+<br>
+<font color="#666666" size="1"> </font>
+<hr>
+<font color="#333366" size="2">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a> 
+</font> 
+</body>
+</html>

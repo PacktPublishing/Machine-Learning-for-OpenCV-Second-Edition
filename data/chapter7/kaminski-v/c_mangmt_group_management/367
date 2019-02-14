@@ -1,0 +1,40 @@
+Message-ID: <1892611.1075856581085.JavaMail.evans@thyme>
+Date: Fri, 28 Jul 2000 09:34:00 -0700 (PDT)
+From: vasant.shanbhogue@enron.com
+To: vince.kaminski@enron.com
+Subject: Requirements for Clayton
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Vasant Shanbhogue
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince,
+
+ I have communicated the following requirements to Clayton.  Please give me 
+your thoughts on  additions/modifications.
+
+For EOL Model,
+
+1.  Working program, with easily usable interface
+
+2.  User docs, for new user to easily start using system
+      plus includes details about program structure and modules
+
+3.  Reports for tabulation of data by commodity, counterparty, period, etc.  
+Should be easy to run daily.
+
+4.  Time series description, including graphs, plus some time series analysis 
+(say, relationship of volume to time of day, day of week)
+
+5.  Cross commodity trading relationships (identify potential arbitrage)
+
+For Gas Model,
+
+1.  Calibrate model
+
+2.  User docs, with complete description of data

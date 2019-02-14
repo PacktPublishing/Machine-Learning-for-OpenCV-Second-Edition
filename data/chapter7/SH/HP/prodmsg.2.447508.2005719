@@ -1,0 +1,106 @@
+Received: from relay2.zappmobile.ro (80.97.176.5)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:58:38 -0000
+Received: from mail.zappmobile.ro (unknown [172.31.254.14])
+	by relay2.zappmobile.ro (Zapp-SMTP) with ESMTP id 5A7835F55F2
+	for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 13:58:37 +0300 (EEST)
+Received: by mail.zappmobile.ro (Zapp-SMTP)
+	id 26F1C78F8A; Tue, 19 Jul 2005 13:58:37 +0300 (EEST)
+Date: Tue, 19 Jul 2005 13:58:37 +0300 (EEST)
+From: MAILER-DAEMON@zappmobile.ro (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="5D24D62395.1121770717/mail.zappmobile.ro"
+Message-Id: <20050719105837.26F1C78F8A@mail.zappmobile.ro>
+
+This is a MIME-encapsulated message.
+
+--5D24D62395.1121770717/mail.zappmobile.ro
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Zapp-SMTP program at host mail.zappmobile.ro.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Zapp-SMTP program
+
+<distins@zappmobile.ro>: host /var/imap/socket/lmtp[/var/imap/socket/lmtp]
+    said: 552 5.2.2 Over quota (in reply to RCPT TO command)
+
+--5D24D62395.1121770717/mail.zappmobile.ro
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.zappmobile.ro
+Arrival-Date: Tue, 19 Jul 2005 13:58:36 +0300 (EEST)
+
+Final-Recipient: rfc822; distins@zappmobile.ro
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Zapp-SMTP; host /var/imap/socket/lmtp[/var/imap/socket/lmtp]
+    said: 552 5.2.2 Over quota (in reply to RCPT TO command)
+
+--5D24D62395.1121770717/mail.zappmobile.ro
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from smtp.zappmobile.ro (smtp.zappmobile.ro [172.16.253.240])
+	by mail.zappmobile.ro (Zapp-SMTP) with ESMTP id 5D24D62395
+	for <distins@zappmobile.ro>; Tue, 19 Jul 2005 13:58:36 +0300 (EEST)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.zappmobile.ro (Zapp-SMTP) with ESMTP id 4A7CD6ED8E
+	for <distins@zappmobile.ro>; Tue, 19 Jul 2005 13:58:36 +0300 (EEST)
+Received: from zapp-av.zappmobile.ro ([127.0.0.1])
+ by localhost (smtp [127.0.0.1]) (zapp-av, port 10014) with SMTP id 10807-06
+ for <distins@zappmobile.ro>; Tue, 19 Jul 2005 13:58:35 +0300 (EEST)
+Received: from smtp.zappmobile.ro ([127.0.0.1])
+	by smtp.zappmobile.ro ([172.16.253.240])
+	with SMTP (gateway) id A02A89CBD27; Tue, 19 Jul 2005 13:58:35 +0300
+Received: from relay1.zappmobile.ro (relay1.zappmobile.ro [172.31.254.4])
+	by smtp.zappmobile.ro (Zapp-SMTP) with ESMTP id BD0B56EC25
+	for <distins@zappmobile.ro>; Tue, 19 Jul 2005 13:58:35 +0300 (EEST)
+Received: from mailwisconsin.com (unknown [222.214.172.185])
+	by relay1.zappmobile.ro (Zapp-SMTP) with SMTP id 3129C35A8A
+	for <distins@zappmobile.ro>; Tue, 19 Jul 2005 13:58:22 +0300 (EEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190951;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distins@zappmobile.ro
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+X-Priority: 3 (Normal)
+Importance: Normal
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, hits=4.0 tagged_above=1.0 required=6.3
+ tests=DRUGS_ERECTILE, HTML_50_60, HTML_FONTCOLOR_RED, HTML_MESSAGE,
+ MIME_HTML_ONLY, RATWR20_MESSID, SARE_SXLIFE
+X-Spam-Level: ****
+
+<html>
+<body alink=3D"blue" bgcolor=3D"white" link=3D"blue" text=3D"black" vlink=
+=3D"blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color=3D"#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href=3D"http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?827161=
+97">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--5D24D62395.1121770717/mail.zappmobile.ro--

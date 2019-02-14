@@ -1,0 +1,52 @@
+Message-ID: <7956041.1075856591104.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 06:44:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: john.lavorato@enron.com
+Subject: WTI maket maker simulation model
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com
+X-From: Zimin Lu
+X-To: John J Lavorato
+X-cc: Stinson Gibner, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+John,
+
+We finished the Version 2 of the simulation model which deals with the
+open-close trading versus the continuous trading in the previous version.
+
+I added the cummulative P/L as an output.   There are a few apparent trading
+strategies from this model:
+
+1) Higher bid/offer spread, more profit
+2) More Daily # of trades, more profit
+3) Smaller net open positions allowed, more profit
+
+1) and 2) are obvious, but 3) is more interesting.  It means that we are 
+better off
+if we do not allowed net open positions at end of the day.  In a trending 
+market,
+this makes an intuitive sense, for example, in the case of bull market we are 
+short as a market maker and we can avoid the loss at the higher openning price
+by keeping zero or small net short positions.
+
+I have attached the model with this mail, and I'll  be happy to discuss the 
+model
+in more details with you.
+
+
+Zimin
+
+
+
+
+
+
+
+
+

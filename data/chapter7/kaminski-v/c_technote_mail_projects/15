@@ -1,0 +1,106 @@
+Message-ID: <31313774.1075840778031.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 12:12:00 -0700 (PDT)
+From: nelson.neale@enron.com
+To: vince.kaminski@enron.com
+Subject: RE: Petrochemical Forward Curves
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Nelson Neale <Nelson Neale/NA/Enron@ENRON>
+X-To: Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Vince,
+
+You will find the most recent email exchanges below.  Per our discussion, I did sit down with Christian last week to talk about a fundamental/econometric approach to forward curve construction as was done for the agricultural efforts.  Let me know how you, Vasant, and Stinson would like to proceed on this matter.
+
+Nelson
+    
+
+
+
+
+---------------------- Forwarded by Nelson Neale/NA/Enron on 04/18/2001 08:55 AM ---------------------------
+From:	Christian LeBroc/ENRON@enronXgate on 04/17/2001 04:41 PM
+To:	Nelson Neale/NA/Enron@Enron
+cc:	 
+
+Subject:	RE: Petrochemical Forward Curves
+
+  
+Please review the "Curve Model2K" file which was built by research a few years back for Plastics trading group.  I would like to work with you or someone in research as far as building the same model for all Petrochemical products.
+
+The "Benz_Curve" file is what I have done so far but it is very primitive compare to the other model.  Let me know what I need to do going forward.       
+
+Christian
+ -----Original Message-----
+From: 	Neale, Nelson  
+Sent:	Friday, April 13, 2001 11:28 AM
+To:	LeBroc, Christian
+Subject:	RE: Petrochemical Forward Curves
+
+What kind of crude price volatility are you proposing to use (NYMEX)?  As I recall, we did find some relationship between the time series price variable and one of the S&D terms that you had placed in the excel worksheet.  There was no relationship with lagged price either?  If you don't mind, please forward the data to me so that I can take a quick look at it.      
+
+Nelson
+
+ 
+
+
+From:	Christian LeBroc/ENRON@enronXgate on 04/12/2001 05:44 PM
+To:	Nelson Neale/NA/Enron@Enron
+cc:	 
+
+Subject:	RE: Petrochemical Forward Curves
+
+For GBM, I was thinking about using crude volatility.  Unfortunately, supply and demand is not a good indicator of predicting prices because of the economic complexity of processing aromatics.  Statistically, there is no relationship between utilization, supply, demand and price.  Inserting time lag does not make the number any better either. 
+
+Christian    
+ 
+
+ -----Original Message-----
+From: 	Neale, Nelson  
+Sent:	Thursday, April 12, 2001 5:23 PM
+To:	LeBroc, Christian
+Subject:	Re: Petrochemical Forward Curves
+
+Hi Christian,
+
+Both mean reversion and GBM models assume that all information related to a future price may be found in the historical price.  The approach employed in the ag curves suggests that there may be some fundamental information related to supply and demand that impacts also drives future price.  A portion of the mean reversion process is actually captured with inclusion of lagged prices  (autoregressive component).  A GBM process requires some information on price volatility.  Since there is presumably no forward/future curve for the commodity of interest, it is difficult to come up with historical volatility values.  Hope it helps.
+
+Nelson
+
+
+  
+
+
+From:	Christian LeBroc/ENRON@enronXgate on 04/12/2001 11:46 AM
+To:	Nelson Neale/NA/Enron@Enron
+cc:	 
+
+Subject:	Petrochemical Forward Curves
+
+Neslon,
+
+I would like to insert "mean reversion" and "geometric brownian motion" in the linear forward curve equation you put together for me earlier this week.  Please inform me on how to assemble the above request.  
+
+Thanks
+Christian  
+
+
+
+ -----Original Message-----
+From: 	LeBroc, Christian  
+Sent:	Tuesday, April 10, 2001 2:29 PM
+To:	Neale, Nelson
+Subject:	Petchem Data
+
+ << File: Benzene Supply and Demand1.xls >>  << File: wti_hu_btx_curves.xls >> 
+
+
+
+
+
+

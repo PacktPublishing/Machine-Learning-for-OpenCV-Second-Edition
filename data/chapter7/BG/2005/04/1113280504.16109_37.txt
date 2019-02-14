@@ -1,0 +1,53 @@
+Return-Path: <success@bostonnetwork04.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 17836 invoked from network); 11 Apr 2005 20:48:55 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 11 Apr 2005 20:48:55 -0000
+Received: (qmail 11989 invoked from network); 11 Apr 2005 20:48:55 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx02.futurequest.net ([69.5.6.172])
+  with QMQP via TCP; 11 Apr 2005 20:48:55 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 17830 invoked from network); 11 Apr 2005 20:48:55 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 11 Apr 2005 20:48:55 -0000
+Received: (qmail 13440 invoked from network); 11 Apr 2005 20:48:55 -0000
+Received: from tiger-woods (ppp-58.8.246.187.revip2.asianet.co.th [58.8.246.187])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 11 Apr 2005 20:48:54 -0000
+From: "Boston Network" <success@bostonnetwork04.com>
+To: <webmaster@ezmlm.org>
+Subject: หลักสูตร "พัฒนาตัวคุณสู่การบริหารคนอย่างผู้บริหารมือโปร" Successfully Managing People
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 12 Apr 2005 03:48:54
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font color="#666666" size="2"> <font size="1">หากรายละเอียดด้านล่างไม่แสดงกรุณา 
+<a href="http://www.ohgos.com/boston/success.html">คลิกที่นี่</a> </font></font> 
+<font size="1" color="#666666"> หรือ http://www.ohgos.com/boston/success.html 
+</font><br>
+<iframe src="http://www.ohgos.com/boston/b3/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> <img src="http://www.ohgos.com/boston/success1.gif" width="700" height="1446" usemap="#Map" border="0"> 
+<map name="Map"> 
+  <area shape="rect" coords="477,521,696,546" href="http://www.bostonnetwork.com/ad_html/160_Cross%20Functional%20Communication.pdf" target="_blank">
+  <area shape="rect" coords="478,484,692,507" href="http://www.bostonnetwork.com/ad_html/110_The%206%20Habits.pdf" target="_blank">
+  <area shape="rect" coords="478,466,695,478" href="http://www.bostonnetwork.com/ad_html/163_Buzz%20Marketing.pdf" target="_blank">
+  <area shape="rect" coords="478,430,692,458" href="http://www.bostonnetwork.com/ad_html/148_Customer%20Complaint.pdf" target="_blank">
+  <area shape="rect" coords="321,1251,562,1266" href="http://bostonnetwork.com/" target="_blank">
+  <area shape="rect" coords="476,397,684,425" href="http://www.bostonnetwork.com/ad_html/118_Accelerated%20finance%20and%20accounting%20for%20Non-finance%20executive.pdf" target="_blank">
+  <area shape="rect" coords="5,231,692,348" href="http://www.bostonnetwork.com/ad_html/138_Successfully%20managing%20people.pdf" target="_blank">
+  <area shape="rect" coords="477,553,691,568" href="http://www.bostonnetwork.com/ad_html/162_KeyAccount.pdf" target="_blank">
+</map>
+<br>
+<br>
+<font color="#666666" size="1"> </font>
+<hr>
+<font color="#666666" size="1">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a></font><font color="#666666" size="1"> 
+</font> 
+</body>
+</html>

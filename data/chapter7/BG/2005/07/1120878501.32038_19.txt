@@ -1,0 +1,123 @@
+Return-Path: <info@century-dragon.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 15973 invoked from network); 08 Jul 2005 21:48:23 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 08 Jul 2005 21:48:23 -0000
+Received: (qmail 17937 invoked from network); 8 Jul 2005 21:48:23 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx05.futurequest.net ([69.5.6.176])
+  with QMQP via TCP; 08 Jul 2005 21:48:23 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 15967 invoked from network); 08 Jul 2005 21:48:23 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 08 Jul 2005 21:48:23 -0000
+Received: (qmail 9763 invoked from network); 8 Jul 2005 21:48:23 -0000
+Received: from mail.century-dragon.com ([210.82.89.78])
+  by mx03.futurequest.net ([69.5.6.174])
+  with ESMTP via TCP; 08 Jul 2005 21:48:22 -0000
+Received: from qsxd [210.82.89.78] by mail.century-dragon.com with ESMTP
+  (SMTPD32-8.05) id A66969E03E0; Sat, 09 Jul 2005 05:55:53 +0800
+Subject: =?gb2312?Q?Want_to_establish_a_company_in_China=3F?=
+Sender: "=?gb2312?Q?Century_Dragon?=" <info@century-dragon.com>
+From: "=?gb2312?Q?Century_Dragon?=" <info@century-dragon.com>
+Date: Sat, 9 Jul 2005 05:55:53 +0800
+To: "=?gb2312?Q?webmaster@ezmlm=2Eorg?=" <webmaster@ezmlm.org>
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Transfer-Encoding: Quoted-Printable
+MIME-Version: 1.0
+X-USER_IP: 210.82.89.78
+X-Mailer: JMail 4.3.0 Free Version by Dimac
+Content-Type: text/html
+Message-Id: <20050709055593.SM01320@qsxd>
+
+<html=3E
+<head=3E
+<title=3EWant to establish a company in China=3F</title=3E
+<META http-equiv=3D'Content-Type' content=3D'text/html; charset=3Diso-8859-1=
+'=3E
+<style type=3D'text/css'=3E
+=2Eblack=5F12=5Fnormal {  font-family: 'Arial'; font-size: 12px; color: #000=
+000; text-decoration: none LINE-HEIGHT:100%}
+=2Elink=5Fblackblue=5Fnoline:link {  font-family: 'Arial'; font-size: 12px; =
+font-weight: normal; color: #000066; text-decoration: none}
+=2Elink=5Fblackblue=5Fnoline:visited {  font-family: 'Arial'; font-size: 12p=
+x; font-weight: normal; color: #000066; text-decoration: none}
+=2Elink=5Fblackblue=5Fnoline:hover {  font-family: 'Arial'; font-size: 12px;=
+ font-weight: normal; color: #1d1d1d; text-decoration: none}
+=2Elink=5Fblue=5Fred=5Fnoline:link {  font-family: 'Arial'; font-size: 12px;=
+ font-weight: normal; color: #5b5a84; text-decoration: none}
+=2Elink=5Fblue=5Fred=5Fnoline:visited {  font-family: 'Arial'; font-size: 12=
+px; font-weight: normal; color: #5b5a84; text-decoration: none}
+=2Elink=5Fblue=5Fred=5Fnoline:hover {  font-family: 'Arial'; font-size: 12px=
+; font-weight: normal; color: #000066; text-decoration: none}
+</style=3E
+</head=3E
+<body background=3D'http://www=2Ecentury-dragon=2Ecom/admin/email=5Fhandle/i=
+mg/back=2Ejpg' topmargin=3D'15' bottommargin=3D'15'=3E
+<table width=3D'600' border=3D'0' align=3D'center' cellpadding=3D'0' cellspa=
+cing=3D'1' bgcolor=3D'336699'=3E
+<tr=3E
+<td bgcolor=3D'#FFFFFF'=3E
+<table width=3D'600' border=3D'0' cellpadding=3D'0' cellspacing=3D'0'=3E
+<tr=3E
+<td=3E<img src=3D'http://www=2Ecentury-dragon=2Ecom/admin/email=5Fhandle/img=
+/top=2Ejpg' width=3D'600' height=3D'117' border=3D'0' usemap=3D'#Map'=3E</td=
+=3E
+</tr=3E
+<tr=3E
+<td height=3D'300' align=3D'center' valign=3D'top'=3E
+<table width=3D'580' border=3D'0' cellspacing=3D'0' cellpadding=3D'0' class=3D=
+'black=5F12=5Fnormal'=3E
+<tr=3E
+<td height=3D'30'=3E&nbsp;</td=3E
+</tr=3E
+<tr=3E
+<td style=3D'LINE-HEIGHT: 150%'=3E
+Setting up a company in China can be very difficult if you are not familiar =
+with the Chinese legislation and requirements of different authorities=2E <b=
+r=3E<br=3EAs a professional consulting company in China, Century Dragon help=
+s foreign companies to set up company in China in the most cost effective wa=
+y=2E<br=3E<br=3E- Starting from USD1,500 you will get your China representat=
+ive office registered=2E The package includes office and tax registration, b=
+ank account opening and tax consulting service for the first one month=2E<br=
+=3E<br=3E- Starting from USD3,000 you will get your wholly foreign owned ent=
+erprise (WFOE) registered=2E The package includes all official fee and our s=
+ervice fee=2E<br=3E<br=3EBesides, Century Dragon provides one-station servic=
+es to foreign companies that want to start business in China=2ECheck out our=
+ website for more information=2E <br=3E<br=3EPlease register your inquiry on=
+line or contact us at info@century-dragon=2Ecom , one of our representatives=
+ will contact with you shortly=2E<br=3E<br=3EChoose Century dragon as your p=
+artner in China, we will lead you to the brilliant and spirited great China =
+market!<br=3E<br=3ETo get removed from our mailing list, please return the e=
+mail with the title unsubscribe=2E  <br=3E  <br=3E
+</td=3E
+</tr=3E
+<tr=3E
+<td height=3D'30'=3E&nbsp;</td=3E
+</tr=3E
+</table=3E
+</td=3E
+</tr=3E
+<tr=3E
+<td=3E<img src=3D'http://www=2Ecentury-dragon=2Ecom/admin/email=5Fhandle/img=
+/bottom=2Ejpg' width=3D'600' height=3D'46'=3E</td=3E
+</tr=3E
+</table=3E
+</td=3E
+</tr=3E
+</table=3E
+<map name=3D'Map'=3E
+<area shape=3D'rect' coords=3D'6,25,61,46' href=3D'http://www=2Ecentury-drag=
+on=2Ecom/about=5Fus/about=5Fus=2Easp' target=3D'=5Fblank'=3E
+<area shape=3D'rect' coords=3D'83,25,152,46' href=3D'http://www=2Ecentury-dr=
+agon=2Ecom/contact=5Fus/contact=5Fus=2Easp' target=3D'=5Fblank'=3E
+<area shape=3D'rect' coords=3D'511,2,594,25' href=3D'http://www=2Ecentury-dr=
+agon=2Ecom' target=3D'=5Fblank'=3E
+</map=3E
+</body=3E
+</html=3E
+
+

@@ -1,0 +1,47 @@
+Return-Path: <iihwgflynmbsu@adelphia.net>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 6345 invoked from network); 21 Dec 2004 00:12:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 21 Dec 2004 00:12:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 21 Dec 2004 00:12:55 -0000
+Received: (qmail 25670 invoked from network); 21 Dec 2004 00:12:55 -0000
+Received: from 69-167-51-172.stmnca.adelphia.net (unknown [69.167.51.172])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 21 Dec 2004 00:12:52 -0000
+Received: from mx.adelphia.net by 69-167-51-172.stmnca.adelphia.net with khgxg; Mon, 20 Dec 2004 16:57:57 -0600
+Received: from 130.100.180.81 by mx.adelphia.net with SMTP; Mon, 20 Dec 2004 16:57:44 -0600
+Content-Type: text/html;
+	charset="iso-8859-5";
+From: "Sylvester C. Greenwood" <iihwgflynmbsu@adelphia.net>
+Subject: always says when he
+MIME-Version: 1.0
+Date: Mon, 20 Dec 2004 23:53:57 +0100
+Content-Transfer-Encoding: 7bit
+Message-ID: <90258464-26699805860165507@69.167.51.172>
+To: lists-bikini@bruce-guenter.dyndns.org
+
+<html>
+<body>
+Christmas time is around the corner and we are offering<BR>
+the program of the year.<BR>
+<BR>
+We will  &nbsp;  r  e f inance &nbsp;  your current &nbsp;  m o rtgage<BR>
+at 3%  and get you  &nbsp; c a sh &nbsp;  for holidays in just 3 days.<BR>
+<BR>
+You will &nbsp;  s a ve &nbsp;  money on your payment and get<BR>
+cash that you can spend on your family.  Buy your kids<BR>
+gifts or get your wife or your husband some<BR>
+thing nice this year.<BR>
+<BR>
+<A HREF="http://www.cvvus.com/">mkwmicfn</A><BR>
+<BR>
+But hurry this offer only lasts until New year.<BR>
+<BR>
+Happy Holidays<BR>
+Sylvester C. Greenwood<BR>
+</body>
+</html>
+
+

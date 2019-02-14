@@ -1,0 +1,95 @@
+Received: from a.mx.sylon.net (195.134.158.3)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:11 -0000
+Received: from localhost (localhost [127.0.0.1])
+  (ftp://ftp.isi.edu/in-notes/rfc1894.txt)
+  by a.mx.sylon.net with dsn; Tue, 19 Jul 2005 13:00:10 +0200
+From: "Courier mail server at a.mx.sylon.net" <@>
+To: projecthoneypot@projecthoneypot.org
+Subject: NOTICE: mail delivery status.
+Mime-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+    boundary="=_courier_0"
+Content-Transfer-Encoding: 7bit
+Message-ID: <courier.42DCDD3A.000017E5@a.mx.sylon.net>
+Date: Tue, 19 Jul 2005 13:00:10 +0200
+
+This is a MIME-formatted message.  If you see this text it means that your
+E-mail software does not support MIME-formatted messages.
+
+--=_courier_0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+
+
+This is a delivery status notification from a.mx.sylon.net,
+running the Courier mail server, version 0.45.2.
+
+The original message was received on Tue, 19 Jul 2005 13:00:08 +0200
+from mailwisconsin.com ([220.195.168.184])
+
+---------------------------------------------------------------------------
+
+                           UNDELIVERABLE MAIL
+
+Your message to the following recipients cannot be delivered:
+
+<g.mickel@mkb.net>:
+<<< configuration error: mail loops back to myself (MX problem).
+
+---------------------------------------------------------------------------
+
+If your message was also sent to additional recipients, their delivery
+status is not included in this report.  You may or may not receive
+other delivery status notifications for additional recipients.
+
+The original message follows as a separate attachment.
+
+
+--=_courier_0
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 7bit
+
+Reporting-MTA: dns; a.mx.sylon.net
+Arrival-Date: Tue, 19 Jul 2005 13:00:08 +0200
+Received-From-MTA: dns; mailwisconsin.com ([220.195.168.184])
+
+Final-Recipient: rfc822; g.mickel@mkb.net
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: unknown; configuration error: mail loops back to myself (MX problem).
+
+--=_courier_0
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Received: from mailwisconsin.com ([220.195.168.184])
+  by a.mx.sylon.net with esmtp; Tue, 19 Jul 2005 12:59:58 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360626;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: g.mickel@mkb.net
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+Mime-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Mime-Autoconverted: from 8bit to 7bit by courier 0.45
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836353">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--=_courier_0--

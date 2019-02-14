@@ -1,0 +1,73 @@
+Return-Path: <webmaster@entertainment-resources.com>
+Delivered-To: inquiries@untroubled.org
+Received: (fqmail 21051 invoked from network); 02 Jun 2005 23:35:46 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 02 Jun 2005 23:35:46 -0000
+Received: (qmail 21554 invoked from network); 2 Jun 2005 23:35:46 -0000
+Received: from mail.e-construct.net ([194.102.56.190])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 02 Jun 2005 23:35:46 -0000
+from: "Louis Ferrara" <webmaster@e-construct.net>
+To: <inquiries@untroubled.org>
+Subject: Regarding untroubled.org
+Reply-To: webmaster@e-construct.net
+Return-Path: webmaster@e-construct.net
+MIME-Version: 1.0
+Content-type: multipart/mixed; boundary="------------MDJK4565634590"
+Content-Length: 1977
+
+This is a multipart message in MIME format
+--------------MDJK4565634590
+Content-type: multipart/alternative; boundary="------------GPEN645246777234-1"
+
+--------------GPEN645246777234-1
+Content-type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello,
+We are creating an Construction Directory at http://www.e-construct.net and we would like to include 
+your website http://untroubled.org/ to our Software category - http://www.e-construct.net/Software/.
+Please submit your site's information here: http://www.e-construct.net/Software/form.html.
+
+A reciprocal link from your site would be appreciated. This is our linking code :
+<a href="http://www.e-construct.net/Software/">Software resources</a> - 
+directory of Software related websites.
+
+Thank you,
+Louis Ferrara,
+webmaster@e-construct.net.
+::text version::
+
+--------------GPEN645246777234-1
+Content-type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head></head>
+<body>
+<p>Hello,<br><br>
+We are creating an Construction Directory - 
+<a href="http://www.e-construct.net/">http://www.e-construct.net/</a> - 
+and we would like to include your website <a href="http://untroubled.org/">http://untroubled.org/</a> 
+to our Software category - 
+<a href="http://www.e-construct.net/Software/">
+http://www.e-construct.net/Software/</a>.<br>
+<br>
+Please submit your site's information here:<br>
+<a href="http://www.e-construct.net/Software/form.html">
+http://www.e-construct.net/Software/form.html</a>.<br>
+<br>
+A reciprocal link from your site would be appreciated. 
+This is our linking code :<br>
+&lt;a href=&quot;http://www.e-construct.net/Software/&quot;&gt;Software resources&lt;/a&gt;
+ - directory of Software related websites.&lt;br&gt;<br>
+<br>
+Thank you,<br>
+Louis Ferrara,<br>
+<a href="mailto:webmaster@e-construct.net">
+webmaster@e-construct.net</a>.
+
+--------------GPEN645246777234-1--
+
+--------------MDJK4565634590--

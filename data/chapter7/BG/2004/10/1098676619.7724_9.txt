@@ -1,0 +1,248 @@
+Return-Path: <rentabilidad@rentabilidad.org>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24876 invoked by uid 115); 24 Oct 2004 07:52:17 -0000
+Received: from rentabilidad@rentabilidad.org by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(217.127.228.87):. 
+ Processed in 0.768284 secs); 24 Oct 2004 07:52:17 -0000
+Received: from 87.red-217-127-228.pooles.rima-tde.net (HELO psanchez) (217.127.228.87)
+  by churchill.factcomp.com with SMTP; 24 Oct 2004 07:52:15 -0000
+From: "El Rentabilidad" <rentabilidad@rentabilidad.org>
+To: bruceg@em.ca
+Subject: Nuevo concepto de periódico digital
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 24 Oct 2004 03:53:48
+X-Qmail-Scanner-Message-ID: <109860433667224869@churchill>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Provisional</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="none, default">
+</head>
+
+<body>
+<table class="MsoTableGrid" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse" cellSpacing="0" cellPadding="0" border="1">
+  <tr style="HEIGHT: 403.7pt" height="538">
+    <td style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 1pt solid; WIDTH: 590.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid;
+    <table class="MsoNormalTable" style="WIDTH: 581.3pt; BORDER-COLLAPSE: collapse" cellSpacing="0" cellPadding="0" width="775" border="0">
+      <tr style="HEIGHT: 62.55pt" height="83">
+        <td style="PADDING-RIGHT: 0cm; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; WIDTH: 581.25pt; PADDING-TOP: 0cm; HEIGHT: 62.55pt" vAlign="top" width="775" colSpan="5" height="83">
+        <font face="Arial Black" color="maroon" size="6">
+        <span style="FONT-SIZE: 24pt; COLOR: maroon; FONT-FAMILY: 'Arial Black'">
+        El Rentabilidad&nbsp;&nbsp;&nbsp;</span></font><font face="Arial Black" color="maroon" size="7"><span style="FONT-SIZE: 36pt; COLOR: maroon; FONT-FAMILY: 'Arial Black'">&nbsp;&nbsp;
+        </span></font><font color="maroon" size="7">
+        <span style="FONT-SIZE: 36pt; COLOR: maroon">&nbsp;</span></font></td>
+      </tr>
+      <tr style="HEIGHT: 17.45pt" height="23">
+        <td style="width: 115.95pt; height: 17.45pt; padding: 0cm; background: #666666" vAlign="top" width="155" bgColor="#666666" height="23">
+        <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><b>
+        <font face="Arial" color="#d8b266" size="3">
+        <span style="FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #d8b266; FONT-FAMILY: Arial">
+        <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/diario_de_la_rentabilidad.htm">
+        <font color="silver"><span style="COLOR: silver">Home</span></font></a></span></font></b></td>
+        <td style="width: 115.95pt; height: 17.45pt; padding: 0cm; background: #666666" vAlign="top" width="155" bgColor="#666666" height="23">
+        <p style="TEXT-ALIGN: center" align="center">
+        <font face="Arial" color="white" size="3">
+        <span style="FONT-SIZE: 12pt; COLOR: white; FONT-FAMILY: Arial">
+        <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/contactar.htm">
+        <font color="silver"><span style="COLOR: silver">Contactar</span></font></a></span></font></td>
+        <td style="width: 116.45pt; height: 17.45pt; padding: 0cm; background: #666666" vAlign="top" width="155" bgColor="#666666" height="23">
+        <p style="TEXT-ALIGN: center" align="center">
+        <font face="Times New Roman" size="3"><span style="FONT-SIZE: 12pt">
+        <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/suscripcion.htm">
+        <font face="Arial" color="silver">
+        <span style="COLOR: silver; FONT-FAMILY: Arial">Suscripción</span></font></a></span></font></td>
+        <td style="width: 116.45pt; height: 17.45pt; padding: 0cm; background: #666666" vAlign="top" width="155" bgColor="#666666" height="23">
+        <p class="MsoNormal" style="TEXT-ALIGN: center" align="center">
+        <font face="Arial" color="white" size="3">
+        <span style="FONT-SIZE: 12pt; COLOR: white; FONT-FAMILY: Arial">
+        <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/colaboraciones.htm">
+        <font color="silver"><span style="COLOR: silver">Colaboraciones</span></font></a></span></font></td>
+        <td style="width: 116.5pt; height: 17.45pt; padding: 0cm; background: #666666" vAlign="top" width="155" bgColor="#666666" height="23">
+        <p class="MsoNormal" style="TEXT-ALIGN: center" align="center">
+        <font face="Times New Roman" size="3"><span style="FONT-SIZE: 12pt">
+        <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/mapa_del_sitio.htm">
+        <font face="Arial" color="silver">
+        <span style="COLOR: silver; FONT-FAMILY: Arial">Mapa del sitio</span></font></a></span></font></td>
+      </tr>
+    </table>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">
+    Estimado Sr/Sra.:</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Soy 
+    Luis Soler de la Puente, director del nuevo periódico</span></font></b><font face="Arial" size="2"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">
+    <b><font color="#993300"><span style="FONT-WEIGHT: bold; COLOR: #993300">
+    Rentabilidad.</span></font></b></span></font></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="#993300" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993300; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Nuestra aportación fundamental al panorama periodístico es que en </span>
+    </font><font face="Arial" color="maroon" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: maroon; FONT-FAMILY: Arial">
+    El Rentabilidad</span></font><font face="Arial" color="black" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial"> 
+    no hay anuncios publicitarios, sino ofertas concretas a nuestros lectores 
+    que le supongan un ahorro efectivo o un beneficio extra, </span></font>
+    <font face="Arial" color="maroon" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: maroon; FONT-FAMILY: Arial">
+    (“RENTABILIDAD”)</span></font><font face="Arial" color="black" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">, 
+    sobre las opciones que existan en el mercado.</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Por esta razón me dirijo a usted ofreciéndole la posibilidad de disfrutar de 
+    esta nueva opción o de publicar una oferta a nuestros subscriptores de forma
+    </span></font><font face="Arial" color="maroon" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: maroon; FONT-FAMILY: Arial">
+    absolutamente gratuita</span></font><font face="Arial" color="black" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">.
+    </span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    El costo que le supondría la publicidad de pago puede invertirlo en una 
+    oferta que realmente merezca la pena y de esta forma aumentar su presencia 
+    de marca, captar nuevos clientes, dar a conocer productos o artículos 
+    concretos y en definitiva invertir realmente en sus clientes.</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Si está usted interesado en esta nueva vía comercial o desea realizar alguna 
+    sugerencia,
+    <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/contactar.htm">
+    contacte con nosotros</a></span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    También puede colaborar con nosotros comunicándonos, para publicar en </span>
+    </font><font face="Arial" color="maroon" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: maroon; FONT-FAMILY: Arial">
+    El RENTABILIDAD,</span></font><font face="Arial" color="black" size="2"><span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial"> 
+    las novedades que se produzcan en su sector o enviándonos artículos sobre 
+    aspectos que considere interesantes y quiera aportar a los lectores.
+    <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.creaciondempresas.com/colaboraciones.shtm">
+    colaboraciones</a></span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Si considera que éste correo puede ser interesante para otra persona 
+    conocida por usted, puede enviarle esta información
+    <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.hbch.net/enviar_a_un_amigo.htm">
+    pulsando este enlace</a> o bien darnos a conocer a sus clientes 
+    reenviándoles este correo.</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Atentamente</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Luis Soler</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    Director</span></font></b></p>
+    <p class="MsoNormal" style="TEXT-ALIGN: justify"><b>
+    <font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    <a style="COLOR: blue; TEXT-DECORATION: underline" href="http://www.rentabilidad.org/">
+    http://www.rentabilidad.org</a></span></font></b></p>
+    <p class="MsoNormal"><b><font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal"><b><font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal"><b><font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal"><b><font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></p>
+    <p class="MsoNormal"><b><font face="Arial" color="black" size="2">
+    <span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+    &nbsp;</span></font></b></td>
+  </tr>
+  <tr style="HEIGHT: 17.45pt" height="23">
+    <td style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 1pt solid; WIDTH: 590.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; HEIGHT: 
+    <table class="MsoNormalTable" style="WIDTH: 581.25pt; BORDER-COLLAPSE: collapse" cellSpacing="0" cellPadding="0" width="775" border="0">
+      <tr style="HEIGHT: 17.45pt" height="23">
+        <td style="width: 204.05pt; height: 17.45pt; padding: 0cm; background: #333333" width="272" bgColor="#333333" height="23">
+        <p class="MsoNormal"><font face="Times New Roman" size="3">
+        <span style="FONT-SIZE: 12pt">&nbsp;</span></font></td>
+        <td style="width: 127.6pt; height: 17.45pt; padding: 0cm; background: #333333" width="170" bgColor="#333333" height="23">
+        <p class="MsoNormal" style="TEXT-ALIGN: center" align="center">
+        <font face="Times New Roman" size="3"><span style="FONT-SIZE: 12pt">&nbsp;</span></font></td>
+        <td style="width: 127.75pt; height: 17.45pt; padding: 0cm; background: #333333" width="170" bgColor="#333333" height="23">
+        <p class="MsoNormal" style="TEXT-ALIGN: center" align="center">
+        <font face="Times New Roman" color="#cc99ff" size="3">
+        <span style="FONT-SIZE: 12pt; COLOR: #cc99ff">&nbsp;</span></font></td>
+        <td style="width: 121.85pt; height: 17.45pt; padding: 0cm; background: #333333" width="162" bgColor="#333333" height="23">
+        <p class="MsoNormal" style="TEXT-ALIGN: center" align="center">
+        <font face="Times New Roman" size="3"><span style="FONT-SIZE: 12pt">&nbsp;</span></font></td>
+      </tr>
+      <tr style="HEIGHT: 17.45pt" height="23">
+        <td style="width: 581.25pt; height: 17.45pt; padding: 0cm; background: #ffffff" width="775" bgColor="#333333" colSpan="4" height="23">
+        <p class="MsoNormal"><font face="Courier New" size="2">
+        <span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&nbsp;</span></font></p>
+        <p class="MsoNormal"><font face="Courier New" size="2">
+        <span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">
+        ----------------------------------------------------------------</span></font></p>
+        <p class="MsoNormal"><font face="Courier New" size="2">
+        <span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">Este mensaje 
+        no es spam. Ha rellenado el formulario de nuestra web o de nuestros 
+        patrocinadores&nbsp; o bien su correo ha sido obtenido de directorios 
+        públicos impresos o de páginas web localizadas a través de búsquedas muy 
+        acotadas temáticamente en Yahoo, Google, etc y nuestra intención es 
+        hacerle llegar noticias que pueden ser de su interés e información de 
+        nuestros servicios. Si no desea volver a recibir mensajes, solo tiene 
+        que comunicarlo a
+        <a style="COLOR: blue; TEXT-DECORATION: underline" href="mailto:excluir@rentabilidad.org">
+        excluir@rentabilidad.com</a> Gracias.</span></font></p>
+        <p class="MsoNormal"><font face="Courier New" size="2">
+        <span style="FONT-SIZE: 10pt; FONT-FAMILY: 'Courier New'">&nbsp;</span></font></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal"><b><font face="Arial" color="black" size="2">
+<span style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">
+&nbsp;</span></font></b></p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+Message-ID: <17610955.1075857033360.JavaMail.evans@thyme>
+Date: Fri, 4 Feb 2000 08:45:00 -0800 (PST)
+From: zimin.lu@enron.com
+To: shelley.corman@enron.com, chris.gaskill@enron.com
+Subject: update - ROFR
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Zimin Lu
+X-To: Shelley Corman, Chris Gaskill
+X-cc: Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Per our meeting,  I added a switch so that the pipeline can accept or reject 
+the best bid
+if the best bid is not the cap rate.
+
+
+Zimin
+

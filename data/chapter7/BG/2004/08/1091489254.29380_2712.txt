@@ -1,0 +1,51 @@
+Return-Path: <kaptan@kiraliktekne.com>
+Received: (fqmail 32074 invoked from network); 02 Aug 2004 23:25:50 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Aug 2004 23:25:50 -0000
+Received: (qmail 620 invoked from network); 2 Aug 2004 23:25:49 -0000
+Received: from mjjgtv.superonline.com ([81.213.119.177])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 02 Aug 2004 23:25:49 -0000
+Message-ID: <semprwuiqkipc.@mjjgtv.superonline.com>
+Reply-To:  kaptan@kiraliktekne.com
+Date: Tue, 03 Aug 2004 02:25:49 -0-200
+Subject: www.kiraliktekne.com
+From: kaptan@kiraliktekne.com
+To: TEKNECILER@ezmlm.org
+Content-Type: text/html; charset=ISO-8859-1
+
+</font>
+
+<head>
+<meta http-equiv="Content-Language" content="tr">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<title>www</title>
+</head>
+
+<body>
+
+<p align="center"><u><b><font size="6" face="Verdana" color="#0000FF">
+<a target="_blank" href="http://www.kiraliktekne.com/">www.kiraliktekne.com</a></font></b></u></p>
+<p align="center">&nbsp;</p>
+<p align="center"><img border="0" src="http://www.kiraliktekne.com/images/süreyya3_800_600.jpg" width="516" height="339"></p>
+<p align="center">&nbsp;</p>
+<p align="center"><b><font size="6" face="Verdana">Ýstanbul'un en kapsamlý</font></b></p>
+<p align="center"><b><font size="6" face="Verdana">Tekne Kiralama</font></b></p>
+<p align="center"><b><font size="6" face="Verdana">Organizasyon Sitesi</font></b></p>
+<p align="center">&nbsp;</p>
+<p align="center"><b>
+<font face="Verdana" style="font-size: 16pt" color="#000080">TEL : 212 2388800 
+FAX :&nbsp; 212 2389171</font></b></p>
+<p align="center"><b>
+<font face="Verdana" style="font-size: 14pt" color="#000080">EMAIL : <u>
+<a href="mailto:info@kiraliktekne.com">info@kiraliktekne.com</a></u></font></b></p>
+<p align="center">&nbsp;</p>
+
+</body>
+
+<font face="Courier, MS Sans Serif">
+<br>
+<br>

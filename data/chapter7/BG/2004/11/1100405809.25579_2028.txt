@@ -1,0 +1,100 @@
+Return-Path: <aqa@turipotyjo.cl>
+Received: (fqmail 6347 invoked from network); 14 Nov 2004 00:07:57 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 14 Nov 2004 00:07:57 -0000
+Received: (qmail 1874 invoked from network); 14 Nov 2004 00:07:57 -0000
+Received: from Oscar. (cm-lcon5-182-115.cm.vtr.net [200.83.182.115])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 14 Nov 2004 00:07:54 -0000
+x-esmtp: 0 0 1
+Message-ID: <16936112-22004116130750125@Oscar>
+To: "super" <aqa@turipotyjo.cl>
+From: "AQA BANK" <aqa@turipotyjo.cl>
+Subject: AGUA FRIA Y CALIENTE GRATIS !!!!
+Date: Fri, 12 Nov 2004 21:07:50 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2E0 Transitional//EN">
+<!-- saved from url=3D(0045)http://www=2Esupermedios=2Ecom/admin/mailing/a=
+qa/ -->
+<HTML><HEAD><TITLE>aqa</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1=
+">
+<META content=3D"MSHTML 6=2E00=2E2800=2E1400" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#336699 leftMargin=3D0 topMargin=3D0 marginheight=3D"0" ma=
+rginwidth=3D"0">
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D480 align=3Dcenter bgColor=3D=
+#ffffff=20
+border=3D0>
+  <TBODY>
+  <TR>
+    <TD><IMG height=3D623 src=3D"http://www=2Esupermedios=2Ecom/admin/mail=
+ing/aqa/imagenes/index_01=2Ejpg" width=3D560></TD>
+  </TR>
+  <TR>
+    <TD>
+      <DIV align=3Dcenter><IMG height=3D24 src=3D"http://www=2Esupermedios=
+=2Ecom/admin/mailing/aqa/imagenes/index_02=2Ejpg"=20
+      width=3D480></DIV></TD></TR>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D350 align=3Dcenter bo=
+rder=3D0>
+        <FORM id=3Dformulario name=3Dformulario=20
+        action=3Dhttp://www=2Esupermedios=2Ecom/admin/mailing/aqa/index=2E=
+php=20
+        method=3Dpost>
+        <TBODY>
+        <TR>
+          <TD width=3D49 height=3D26>&nbsp;</TD>
+          <TD class=3Dtexto1 width=3D54><STRONG><FONT=20
+            color=3D#003366>nombre</FONT></STRONG></TD>
+          <TD width=3D167><INPUT class=3Dtextoform id=3Dnombre size=3D30 n=
+ame=3Dnombre>=20
+          </TD>
+          <TD width=3D80>&nbsp;</TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD class=3Dtexto1><STRONG><FONT color=3D#003366>mail</FONT></ST=
+RONG></TD>
+          <TD><INPUT class=3Dtextoform id=3Dmail size=3D30 name=3Dmail> </=
+TD>
+          <TD>&nbsp;</TD></TR>
+        <TR>
+          <TD height=3D24>&nbsp;</TD>
+          <TD class=3Dtexto1><STRONG><FONT=20
+          color=3D#003366>telefono</FONT></STRONG></TD>
+          <TD><INPUT class=3Dtextoform id=3Dtelefono size=3D30 name=3Dtele=
+fono> </TD>
+          <TD>&nbsp;&nbsp;&nbsp;&nbsp; </TD></TR>
+        <TR>
+          <TD>&nbsp;</TD>
+          <TD>&nbsp;</TD>
+          <TD>
+            <DIV align=3Dcenter><INPUT id=3DEtapa type=3Dsubmit value=3DEn=
+viar name=3DEtapa>=20
+            </DIV></TD>
+          <TD>&nbsp;</TD></TR></FORM></TBODY></TABLE></TD></TR></TBODY></T=
+ABLE></BODY></HTML>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+

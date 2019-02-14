@@ -1,0 +1,30 @@
+Return-Path: <QCVNR@yahoo.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 6140 invoked from network); 18 Nov 2004 06:32:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Nov 2004 06:32:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Nov 2004 06:32:55 -0000
+Received: (qmail 25019 invoked from network); 18 Nov 2004 06:32:54 -0000
+Received: from commons10k2.mo24.107.96.30.charter-stl.com (unknown [24.107.96.30])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 18 Nov 2004 06:32:53 -0000
+Language: English
+Disposition-Notification-Options: No
+Prevent-NonDelivery-Report: No
+Approved: Yes (127.0.0.1)
+Reply-To: "Delores Dawson" <QCVNR@yahoo.com>
+From: "Delores Dawson" <QCVNR@yahoo.com>
+To: rait@bruce-guenter.dyndns.org
+Subject: Looking for cheap high-quality software? Hx0 
+Date: Thu, 18 Nov 2004 03:32:13 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--383696180964379544"
+Content-Length: 67
+Lines: 3
+
+----383696180964379544
+Content-Type: text/plain;
+	charset="iso-9[4

@@ -1,0 +1,263 @@
+Message-ID: <10994071.1075863692932.JavaMail.evans@thyme>
+Date: Mon, 12 Jun 2000 06:35:00 -0700 (PDT)
+From: david.port@enron.com
+To: fernley.dyson@enron.com
+Subject: Re: UK Gas late deal input and deal booking errors - o1.1m hit
+Cc: steve.young@enron.com, ted.murphy@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.young@enron.com, ted.murphy@enron.com, sally.beck@enron.com
+X-From: David Port
+X-To: Fernley Dyson
+X-cc: Steve W Young, Ted Murphy, Sally Beck
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sorry to hear about this one. 
+
+I have some observations to make from my reading (and re-reading) of the 
+account:
+
+1 It looks like the old "undue influence" problem again. It seems some 
+attempts were made by operations to follow up, but nothing happened. 
+
+We tell our operations staff they have an obligation to dissent but we don't 
+have any way to protect them if they do - there is still the fear that if 
+they upset a trader they can get fired or held back in their career. And that 
+is because twice a year, at the PRC, that can happen. This incident shows 
+some of these attributes.
+
+For the operations process to be effective there has to be (and be seen to 
+be) little significant influence from Commercial Groups over the ranking of 
+the operations staff. 
+
+2 Whoever signed off the new deal lists in the DPR should be asked to confirm 
+the basis on which they signed it.
+
+3 Why wait for the traders to approve payments to brokers ? Brokerage is in 
+the P&L and if operations are satisfied the trades are accurate and brokerage 
+is at the agreed rate, they should simply pay the brokerage.
+
+4 Two weeks to check telephone tapes is unacceptable - it should be done same 
+day. I would not have waited for the traders to do it, but I would want to 
+know why it took them so long.
+
+5 Given that these (short) trades were absent from the portfolio during a 
+highly volatile period of rising prices, I would wonder about motivation in 
+addressing the position during this time. Essentially, if it had been correct 
+we would have been reporting losses bigger than the ones we did.
+
+I would pursue explanations to points 2, 4 and 5. 
+
+DP
+
+
+
+
+
+Fernley Dyson@ECT
+06/12/2000 02:41 AM
+To: James New/LON/ECT@ECT
+cc: Richard Lewis/LON/ECT@ECT, Mike Jordan/LON/ECT@ECT, Robert 
+Yeo/LON/ECT@ECT, Gail Hill/LON/ECT@ECT, Ian Sloman/LON/ECT@ECT, Steve W 
+Young/LON/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON, Brent A 
+Price/HOU/ECT@ECT 
+
+Subject: Re: UK Gas late deal input and deal booking errors - o1.1m hit  
+
+James,
+
+Thanks for the note. As described, this is an intolerable situation. I agree 
+your action points, but we need timelines and quantitative measures of 
+compliance/improvement - please could you provide a weekly update on this 
+area specifically and until we are satisfied that things are as they should 
+be.
+
+On a more general note - let's ensure that the 'Global Standards' address the 
+lapses in timely action/follow-up identified here so that we can monitor 
+performance across the business.
+
+Fernley
+
+
+
+James New
+09/06/2000 10:03
+To: Richard Lewis/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT
+cc: Robert Yeo/LON/ECT@ECT, Gail Hill/LON/ECT@ECT, Ian Sloman/LON/ECT@ECT 
+
+Subject: UK Gas late deal input and deal booking errors - o1.1m hit
+
+
+On the 7th of June Gas Risk Management became aware that two'late' trades had 
+been entered into the gas trader's 'Blue book' which were both being booked 
+significantly late and had a material negative P&L impact (negative o1.1m). 
+The 'late' deals were done on the 3rd of February (Marcello Romano) and the 
+30th of March (Haakon Olafson) and were both forward starting sells for 
+periods in 2003-2004.
+
+Background
+
+1) Input errors
+
+For some considerable time we have been concerned with the number of deal 
+input errors that have been occurring in the Gas area with the most 
+significant number coming form the UK Gas traders. Numerous errors have been 
+found by documentation and risk management over the accuracy and timeliness 
+of entering deals into the 'blue book' (the Gas traders are currently the 
+only traders in Europe who do not enter their own trades into the valuation 
+system - there is currently a big push to change this which has the support 
+of John Sherriff with a deadline date of 31 July).
+
+In the past documentation and gas risk management have repeatedly highlighted 
+booking errors to the gas traders but the error rate has not fallen. A log of 
+all deal input errors has been formally maintained since the beginning of May 
+which highlights an error rate of 12%-15% of non EOL trades. This has been 
+discussed with Richard Lewis and corrective action is expected.
+
+2) Deal booking and reconciliation process (Non EOL trades)
+
+Deals are initially written into the 'blue book' by the gas traders when the 
+deal is done. This book is photocopied several times a day and the deals are 
+the manually input into GasDesk by documentation on the same day.
+
+Faxed broker statements are received (usually) by documentation the next day 
+and these are reconciled to GasDesk with errors and amendments made by 
+documentation liasing with the traders as necessary. At this time brokers 
+were faxing one statement per trade (relevant later).
+
+3) New Deal sign off
+
+As part of the daily DPR process a separate new deal sheet is prepared and is 
+signed off by the traders to formally agree the new deals done on the day and 
+the implied origination P&L. For the 3rd of February Marcello signed off the 
+new deals sheet and for the 30th of March Jonathan Whitehead signed off.
+
+4) Documentation convention
+
+In the gas market the convention is that the seller sends deal documentation. 
+(relevant later). Documentation aim to get this out within one the day after 
+trade booking.
+
+5) Brokerage invoices
+
+Brokerage invoices are usually received monthly by settlements who then 
+reconcile the trades on the invoice to the valuation system to ensure the 
+deal is valid before passing the reconciled invoice to the traders to 
+authorise for payment. Any deals which cannot be found are raised with 
+documentation who then investigate and follow up with the traders.
+
+
+Specific details of these 'late' trades
+
+1) Summary
+
+For both these trades no evidence can be found of receiving, or can it be 
+established that we did not receive, a broker statement which is a primary 
+control in agreeing the existence and accuracy of new OTC deals. 
+
+As Enron was the seller in both cases no documentation was received from 
+either counterparty which would have alerted us to the trade.
+
+The reconciliation of the brokerage invoices was carried out by settlements 
+in April and was completed by the 20th with the invoices falling due for 
+payment on the 27th. The work practice at that time was that brokerage 
+invoices (including those with non reconciling trade queries) were batched 
+together and passed to the traders. This would have taken place on the 27th 
+of April. Details on exactly what was said and done in the 3 weeks between 
+passing these invoices to the traders for approval (although there are claims 
+that verbal follow up were made on a number of occasions) and when a mailed 
+follow up was made on the 22nd of May are hazy. What is clear is that on the 
+22nd of May Morgan Stanley contacted Enron to try to confirm their position 
+which was when it was realised that an error could well have occurred.
+
+Over the next two weeks tapes were then checked by the traders with the deals 
+being booked on the 6th of June.
+
+2) Deal specifics
+
+EES Broker - Morgan Stanley trade on 3 Feb 2000
+Trader Marcello
+EES Invoice date 1 March; Invoice received before 15 March as settlements 
+started checking it. (Keren Perrott - settlements started on 13 March)
+Discrepancies sent to documentation on 23 May (Chris Ware to Emma Thomson)
+Traders contacted  on 24 May after copy of broker confirm was sent on 22 May 
+as requested by documentation to prove deal.
+Deal entered 6 June after traders checked the tapes.
+
+
+IEB Broker - NP trade on 30 Mar 2000
+Trader Haakon
+IEB invoice date 6 April; Invoice received before 27 April as settlements 
+started checking it. (Keren Perrott)
+Discrepancies sent to documentation on 23 May (Chris Ware to Robert Vaughn)
+Traders contacted on 24 May after copy of broker confirm was requested.
+Deal entered 6 June after traders checked the tapes.
+
+
+
+ Who was at fault and where did the control break down ?
+
+I do not feel it is constructive to try to attach blame for what happened but 
+there are lessons to be learned and general observations and conclusions that 
+can be made and drawn.
+
+Firstly there are major concerns over the Gas trader's accuracy and 
+prioritisation of booking trades. Despite numerous conversations on the 
+subject very little improvement has been seen. It has now got to the stage 
+where documentation are formally recording all errors including what the 
+error was and who made it. This is now being communicated to Richard Lewis 
+every two weeks with the aim being not only to reduce the amount of time 
+trade support spend correcting errors and re running DPRs but also to try to 
+avoid the incidence of errors such as this. The current error rate is 12% - 
+15% of non EOL trades. Documentation currently estimate that in 9 times out 
+of 10 the broker or counterparty are correct.
+
+Secondly around a month ago we contacted brokers and asked for them to 
+provide us with one statement per day rather than one per deal which will 
+eliminate any lost statements or missed deals as it will be immediately 
+obvious when a statement from a broker has not arrived. Most brokers have now 
+changed but one or two still send one statement per trade. Reconciliation's 
+of these daily statements to GasDesk are evidenced.
+
+Thirdly it has been impressed on both documentation and settlements to follow 
+up more vigorously (and by mail) errors and omissions on a more timely basis. 
+There is however a backlog or broker invoices which have have been checked by 
+settlements but have nto been checked or approved by the traders. This is 
+causing concern at the brokers who are chasing payment.
+
+Action Points
+
+Trading
+
+Traders to input their own deals directly into GasDesk
+
+Traders to improve their accuracy of deal booking
+
+Traders to approve invoices on a more timely basis
+
+Trade Support
+
+Settlements to clear backlog of broker invoices
+
+Documentation to chase brokers to send daily deal statements not individual 
+deal statements
+
+All follow ups to be evidenced with mails used as appropriate
+
+Documentation to check all trades since the beginning of the year versus the 
+broker records
+
+Documentation to perform a reconciliation with all counterparties to agree 
+our forward position from July 2000 to September 2006 (the traded part of the 
+curve)
+
+
+
+
+
+
+

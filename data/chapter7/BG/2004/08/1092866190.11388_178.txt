@@ -1,0 +1,66 @@
+Return-Path: <rrrddd5104@hanmail.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 14090 invoked from network); 17 Aug 2004 15:03:43 -0000
+Received: from unknown (HELO 61.75.4.118) (61.75.4.118)
+  by churchill.factcomp.com with SMTP; 17 Aug 2004 15:03:43 -0000
+Received: from dns5.centrum.cz (dns5.centrum.cz [243.2.84.184]) by  with SMTP id x34G8Euv363;
+	 Tue, 17 Aug 2004 20:01:38 +0500
+Message-ID: <4419447042384.258132367589205308234@centrum.cz>
+From: "무료" <kswipudwvftgo@centrum.cz>
+Reply-To: "무료" <kswipudwvftgo@centrum.cz>
+To: bruceg@em.ca
+X-Mailer: satellite cups over 6015
+Subject: 발신번호표시서비스
+Date: Tue, 17 Aug 2004 20:01:38 +0500
+MIME-Version: 1.0
+Organization: satellite cups over 6015
+Content-Type: multipart/alternative;
+	boundary="=====3725096673905=_"
+
+--=====3725096673905=_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+existential calfskin alpheratz coupe linear lopseed 
+basal ugh carcinoma snippet 
+katowice einstein acrid alison respiratory glaucoma alabaster resourceful yachtsmen expose 
+
+--=====3725096673905=_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>발신번호표시서비스</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+</head>
+
+<body>
+<table width="650" border="1" cellpadding="0" cellspacing="1" bordercolor="#CCCCCC">
+  <tr>
+    <td><table width="650" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="http://myhome.hanafos.com/down1/22/52/88/01/25/01.jpg" width="650" height="167"></td>
+      </tr>
+      <tr>
+        <td><img src="http://myhome.hanafos.com/down2/22/52/88/01/26/02.jpg" width="650" height="478"></td>
+      </tr>
+      <tr>
+        <td><img src="http://myhome.hanafos.com/down3/22/52/88/01/27/03.jpg" width="650" height="236"></td>
+      </tr>
+      <tr>
+        <td height="80" align="center"><a href="http://myhome.hanafos.com/down2/22/52/88/01/34/cid_send.htm"><img src="http://myhome.hanafos.com/down0/22/52/88/01/28/04.jpg" width="151" height="54" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://myhome.hanafos.com/down2/22/52/88/01/38/reject.htm"><img src="http://myhome.hanafos.com/down2/22/52/88/01/30/06.jpg" width="650" height="105" border="0"></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+--=====3725096673905=_--
+

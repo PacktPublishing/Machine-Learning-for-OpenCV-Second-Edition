@@ -1,0 +1,48 @@
+Message-ID: <21937329.1075856585445.JavaMail.evans@thyme>
+Date: Thu, 2 Nov 2000 05:22:00 -0800 (PST)
+From: rodrigo.lamas@enron.com
+To: ted.murphy@enron.com, david.port@enron.com, bjorn.hagelmann@enron.com
+Subject: London Exotica Library Migration
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	sharad.agnihotri@enron.com, steven.leppard@enron.com, 
+	naveen.andrews@enron.com, oliver.gaylard@enron.com, 
+	lloyd.fleming@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com, 
+	sharad.agnihotri@enron.com, steven.leppard@enron.com, 
+	naveen.andrews@enron.com, oliver.gaylard@enron.com, 
+	lloyd.fleming@enron.com
+X-From: Rodrigo Lamas
+X-To: Ted Murphy, David Port, Bjorn Hagelmann
+X-cc: Vince J Kaminski, Stinson Gibner, Sharad Agnihotri, Steven Leppard, Naveen Andrews, Oliver Gaylard, Lloyd Fleming
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+FYI
+
+- Exotic Library :
+ 
+Issue :  The London version is different from the Houston version.
+  The problem is that some bugs in the London version were found.
+
+Temporary solution: Bugs were immediately fixed at a local level.
+
+Permanent Solution:  The London Exotic Version will be replaced by the 
+Houston Exotic Version.
+   The Houston Version is expected to be robust. 
+   Sharad (London Research) is spending this coming week in Houston. 
+   When Sharad is back to London, the Houston version will replace the London 
+version.
+
+Approach:  Steven Leppard is designing a regression testing procedure that 
+will involve IT to fully test the similarity of the two versions.
+  The procedure is expected to take at least one month from commencement.
+  Hopefully, no discrepancies will be found.
+  In the adverse case it happens, it will be necessary to conduct an analysis 
+to decide what is wrong.
+  If necessary  further testing and development has to take place.
+
+Rodrigo

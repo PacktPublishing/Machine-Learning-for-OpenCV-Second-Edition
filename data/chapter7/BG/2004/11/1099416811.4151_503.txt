@@ -1,0 +1,30 @@
+Return-Path: <fujitsu@e-documentforum.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18189 invoked by uid 115); 31 Oct 2004 13:38:48 -0000
+Received: from fujitsu@e-documentforum.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(203.209.117.218):. 
+ Processed in 0.091425 secs); 31 Oct 2004 13:38:48 -0000
+Received: from unknown (HELO tiger) (203.209.117.218)
+  by churchill.factcomp.com with SMTP; 31 Oct 2004 13:38:47 -0000
+From: "นิตยสาร Business.com" <fujitsu@e-documentforum.net>
+To: <bruceg@em.ca>
+Subject: ฟรีสัมนา! การปรับวิสัยทัศน์องค์กรสู่ยุค Digital Document
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 1 Jul 2002 14:39:09
+X-Qmail-Scanner-Message-ID: <109922992867218178@churchill>
+
+<html>
+<body>
+<iframe src="http://www.jobsay.com/e03/default.asp"  frameborder="no" width="1" height="1" scrolling="no" ></iframe> 
+<img src="http://www.pongrapee.com/mm/fujitsu/fujitsu6.gif" width="600" height="1817" usemap="#Map" border="0"> 
+<br>
+กรณีข้อมูลด้านบนไม่แสดง <a href="http://www.pongrapee.com/mm/fujitsu/fu2.html">คลิกที่นี่</a> 
+<map name="Map"> 
+  <area shape="rect" coords="376,977,425,1000" href="http://www.businessthai.co.th/bcom/seminar/registration.php?sid=7&rcode=1" target="_blank">
+  <area shape="rect" coords="234,917,357,941" href="http://www.pongrapee.com/seminar/registration.php4?sid=7&rcode=4" target="_blank">
+  <area shape="rect" coords="486,1067,586,1100" href="http://www.pongrapee.com/map/scbmap.htm" target="_blank">
+</map>
+
+</body>
+</html>

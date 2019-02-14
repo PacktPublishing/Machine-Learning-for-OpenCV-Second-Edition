@@ -1,0 +1,52 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-esoteric@em.ca
+Received: (qmail 26783 invoked by uid 115); 18 Apr 2005 17:23:03 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.144.230):. 
+ Processed in 0.193115 secs); 18 Apr 2005 17:23:03 -0000
+Received: from bl6-144-230.dsl.telepac.pt (HELO sapo.pt) (82.155.144.230)
+  by churchill.factcomp.com with SMTP; 18 Apr 2005 17:22:58 -0000
+Date: Mon, 18 Apr 2005 18:17:12 +0000 (Hora padrão de GMT)
+From: EVENTOS info <info.eventos@sapo.pt>
+To: bait-esoteric@em.ca
+Message-ID: 38460.761944444443_18242260122472
+Subject: ANGEL MORAES in Portugal [april 22, 23 and 24]
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Angel Moraes</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#A7CFFF" text="#003399">
+<div align="center"><img src="http://p001.no.sapo.pt/angelmoraes/am_eflyer.jpg" width="500" height="723" />
+  <br />
+  <table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td> <div align="center">
+        <p><font color="#666666" size="1" face="Arial, Helvetica, sans-serif">O seu email foi registado na base de dados da Heart &amp; Soul.<br />
+          Se desejar ser removido desta base de dados, envie um email para remove@heartandsoul.pt</font></p>
+      </div></td>
+    </tr>
+  </table>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

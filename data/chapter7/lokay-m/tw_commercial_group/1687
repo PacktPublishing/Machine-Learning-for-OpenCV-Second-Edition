@@ -1,0 +1,31 @@
+Message-ID: <19478135.1075860979087.JavaMail.evans@thyme>
+Date: Wed, 2 Jan 2002 12:55:56 -0800 (PST)
+From: bert.hernandez@enron.com
+To: michelle.lokay@enron.com, laura.giambrone@enron.com
+Subject: VIRGINIA POWER PNR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AHERNAN>
+X-To: Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>
+X-cc: 
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: mlokay (Non-Privileged).pst
+
+Michelle,
+
+From our earlier conversation, this is what probably happened to Virginia's intended injection of 4,793 at the Panhandle Pool PNR point for 12/14/01 on PNR contract 27719:
+
+Virginia had already discussed this type of transaction, meter bounce at NNG-Gray with Burlington, since Amy Mulligan and Chris Miller worked with Greg and Hillary to inject gas back into the park n ride point for 12/11 after their initial withdrawal on 12/10.  Amy informed the customer on how to nominate transaction type 31 to create a "bounce" on the TW side of the station.  They miscalculated the fuel usage and had to do a second bounce on 12/12 to balance their contract at that date.
+Virginia again withdrew gas on their park n ride on 12/13 with the intention to inject the gas on 12/14.  The problem appears to be that Burlington did their nomination for the Timely cycle, but Virginia did not get their information into our system until 3:00 pm which tagged it as an Evening cycle nom.
+Chris Miller confirmed Burlington down to zero for the Timely cycle since Virginia's contract did not appear on this cycle.  I do not know how Chris knew about this particular gas day's transaction.
+The TW late shift person did not know (or forgot) about the meter bounce so the two transactions did not get confirmed on the Evening cycle.
+The scheduling system will not display any meter bounce information unless you specifically request the point AND the meter bounce filter.  
+Our usual procedure to review unconfirmed nominations is to select a blank/null point and the "shipper nom" filter.  It appears that meter bounces will not appear under this scenario.  Our system will also not show meter bounces by selecting a blank/null point and the "meter bounce" filter.  Our system does not have an "all noms" filter.  Since meter bounces are relatively rare in our system, shippers are strongly encouraged to contact us when they submit a meter bounce nomination; otherwise, we do not look for them in the system.
+I am working with Terry Kowalke to make meter bounces more visible to us, but no one here is aware of any conversations with either Burlington or Virginia Power regarding the meter bounce for 12/14 or any later date.
+
+Please let me know if I can supply any further information.
+
+
+Thanks,  Bert

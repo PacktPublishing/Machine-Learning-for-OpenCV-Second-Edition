@@ -1,0 +1,23 @@
+Return-Path: <clayton_middleton_pt@arcada.fi>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 27072 invoked by uid 115); 28 Sep 2004 20:58:29 -0000
+Received: from clayton_middleton_pt@arcada.fi by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(222.53.14.133):. 
+ Processed in 0.462195 secs); 28 Sep 2004 20:58:29 -0000
+Received: from unknown (HELO toile.qc.ca) (222.53.14.133)
+  by churchill.factcomp.com with SMTP; 28 Sep 2004 20:58:29 -0000
+Subject: =?ISO-8859-1?B?V2h5IHBheSBtb3JlIHdoZW4geW91IGNhbiBQYXkgTGVzcyE=?=
+X-Mailer: Windows Eudora Pro Version 2.2 (32)
+MIME-Version: 1.0
+From: "Clayton Middleton" <clayton_middleton_pt@arcada.fi>
+To: bait@em.ca
+Date: Wed, 29 Sep 2004 11:54:30 +0000
+Message-ID: <2.2.32.20040929115430003c7d05@arcada.fi>
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<center><a href="http://thethingsonlines.com"><img src="http://www.thethingsdirect.com/5jr1uzr12tkVboA.gif" border=0></a></center>
+</body></html>
+

@@ -1,0 +1,64 @@
+Message-ID: <22894940.1075840778055.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 19:33:00 -0700 (PDT)
+From: alex.huang@enron.com
+To: michelle.cisneros@enron.com
+Subject: Re: Generation Earnings Model
+Cc: helen.zhang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: helen.zhang@enron.com
+X-From: Alex Huang <Alex Huang/Corp/Enron@ENRON>
+X-To: Michelle D Cisneros <Michelle D Cisneros/HOU/ECT@ECT>
+X-cc: Helen Zhang <Helen Zhang/NA/Enron@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Michelle,
+I agree with you that we need to run AT LEAST 500 iterations.  But I did not
+realize that it took 16 hours to run 100 iterations. Helen and I talked earlier about
+using parallel computing technique to split the algorithm into smaller parts and
+run the parts separately on different processors, then aggregate the results.
+This procedure makes better use of computer power and saves time. Looks like
+we have to do it this way now.  Buying a more powerful computer helps but 
+does not solve the problem. 
+
+In addition, we might want to re-consider if writing the code in VB is optimal.
+I was assured at the very beginning that VB runs as fast (if not faster) as C,
+but some re-assurance from IT group on this issue is helpful.
+
+Best,
+Alex
+
+
+   
+	  From:  Michelle D Cisneros @ ECT                           04/09/2001 02:52 PM	
+		
+
+
+To:	Alex Huang/Corp/Enron@ENRON
+cc:	Gary Hickerson, Danielle Romain 
+
+Subject:	Generation Earnings Model
+
+Hi Alex-
+
+Danielle and I were talking to David M. today regarding running the model for purposes of back testing the results. Last week we ran Calpine using 46 days of historical forward price data at 10 and 100 iterations. The 100 iteration run took 16 hours to run. To run all 20 companies with the 46 days worth of data and at 100 iterations is estimated to take about 28 days. We are concerned that 100 iterations will not be sufficient and will need to be increased to at least 500 iterations. 
+
+We are thinking that we need to use a server or something much more powerful than the test computer we have been using. Do you have any suggestions as to how we can improve the process?
+
+Thanks,
+Michelle
+X35435
+
+
+Hi Alex-
+
+Danielle and I were talking to David M. today regarding running the model for purposes of back testing the results. Last week we ran Calpine using 46 days of historical forward price data at 10 and 100 iterations. The 100 iteration run took 16 hours to run. To run all 20 companies with the 46 days worth of data and at 100 iterations is estimated to take about 28 days. We are concerned that 100 iterations will not be sufficient and will need to be increased to at least 500 iterations. 
+
+We are thinking that we need to use a server or something much more powerful than the test computer we have been using. Do you have any suggestions as to how we can improve the process?
+
+Thanks,
+Michelle
+X35435

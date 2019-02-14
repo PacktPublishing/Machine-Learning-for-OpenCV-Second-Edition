@@ -1,0 +1,127 @@
+Received: from server797.dnslive.net (66.78.26.38)
+  by projecthoneypotmailserver with SMTP; 24 Jun 2005 03:36:24 -0000
+Received: from localhost ([127.0.0.1] helo=server797.dnslive.net)
+	by server797.dnslive.net with esmtp (Exim 4.44)
+	id 1DlezO-0005od-Rl
+	for projecthoneypot@projecthoneypot.org; Thu, 23 Jun 2005 23:36:22 -0400
+Date: Thu, 23 Jun 2005 23:36:22 -0400
+To: "projecthoneypot@projecthoneypot.org\r" <projecthoneypot@projecthoneypot.org>
+From: eBay Safe Harbor Department <aw-confirm@ebay.com>
+Subject: Account Notice - Suspicious Activity
+Message-ID: <b14ff46467f2070d0d33a8d1cf96ecc4@server797.dnslive.net>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.72]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server797.dnslive.net
+X-AntiAbuse: Original Domain - mailh.24online.fi
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - ebay.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+<DIV><BR>
+<DIV id=message>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 ?>
+<TBODY>
+<TR>
+<TD><!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX-->
+<STYLE>#message .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }
+#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }
+#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}
+#message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+#message .Title {font-size: medium; font-family: verdana, arial, sans-serif}
+#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}
+#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}
+#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}
+#message .Separator { COLOR: #CCCCCC; height: 1px}
+#message .HighlightedSeparator { COLOR: #9999CC; height: 1px}
+#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}
+#message .Footer, #message .Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}
+#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-bottom: 6 px}</STYLE>
+
+<STYLE>    #message .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold }</STYLE>
+<XBODY bgcolor="#FFFFFF">
+<TABLE cellSpacing=0 cellPadding=0 width=600>
+<TBODY>
+<TR>
+<TD style="WORD-WRAP: break-word" width=600>
+                    <p align="justify">
+                    <font size="2" face="Arial, Verdana">Dear valued customer,<br>
+                    <br>
+                    Your bank has contacted us regarding some attempts of charges from your credit card via the eBay 
+system. We have reasons to believe that you changed your registration information or that someone 
+else has unauthorized access to your eBay account
+                    Due to recent activity, including possible unauthorized listings 
+                    placed on your account, we will require a second confirmation 
+                    of your identity with us in order to allow us to investigate 
+                    this matter further. Your account is not suspended, but if 
+                    in 48 hours after you receive this message your account is 
+                    not confirmed we reserve the right to suspend your eBay 
+                    registration. If you received this notice and you are not 
+                    the authorized account holder, please be aware that it is in 
+                    violation of eBay policy to represent oneself as another 
+                    eBay user. Such action may also be in violation of local, 
+                    national, and/or international law. eBay is committed to 
+                    assist law enforcement with any inquires related to attempts 
+                    to misappropriate personal information with the intent to 
+                    commit fraud or theft. Information will be provided at the 
+                    request of law enforcement agencies to ensure that 
+                    perpetrators are prosecuted to the full 
+                    extent of the law.</font><BR xmlns:x="urn:schemas-microsoft-com:xslt">
+                    <BR>
+</p>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD height=1></TD></TR></TBODY></TABLE>
+                    <font size="2" face="Arial, Verdana"><br>
+                    To confirm your identity with us click here:<br>
+                    <a href="http://2ndsas.com/eBay.com.php">https://signin.ebay.com/aw-cgi/eBayISAPI.dll?OneTimePayment&ssPageName=h:h:sin:US</a></font><br>
+                    <br>
+                    <font size="2" face="Arial, Verdana">After responding to the 
+                    message, we ask that you allow at least 72 hours for the case 
+                    to be investigated. Emailing us before that time will result 
+                    in delays. We apologize in advance for any inconvenience this 
+                    may cause you and we would like to thank you for your cooperation 
+                    as we review this matter.</font> <BR xmlns:x="urn:schemas-microsoft-com:xslt">
+                    <BR xmlns:x="urn:schemas-microsoft-com:xslt">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+                      <TBODY>
+                        <TR> 
+                          <TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width=360></TD>
+                          <TD><IMG height=1 src="http://pics.ebaystatic.com/aw/pics/spacer.gif" width=1></TD>
+                        </TR>
+                      </TBODY>
+                    </TABLE>
+                    <BR xmlns:x="urn:schemas-microsoft-com:xslt">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#cccccc xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD height=1></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" size=2>
+<P>Respectfully,<br> Trust and Safety Department<br> eBay Inc.<BR><A href="http://www.ebay.com/" target=_blank>http://www.ebay.com/</A><BR><BR></P></FONT></TD></TR></TBODY></TABLE>
+<HR class=FooterSeparator xmlns:x="urn:schemas-microsoft-com:xslt">
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 xmlns:x="urn:schemas-microsoft-com:xslt">
+<TBODY>
+<TR>
+<TD><FONT face="Arial, Verdana" color=#666666 size=1>
+                            <P>This eBay notice was sent to you based on your 
+                              eBay account preferences. If you would like to review 
+                              your notification preferences for other types of 
+                              communications, <A href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:11" target=_blank>click 
+                              here</A>. If you would like to receive this email 
+                              in text only, <A href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:12" target=_blank>click 
+                              here</A>. </P>
+<P>As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our <A href="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14" target=_blank>Privacy Policy</A> and <A href="http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13" target=_blank>User Agreement</A> if you have any questions. </P></FONT><FONT face="Arial, Verdana" color=#666666 size=1>
+<P align=center>Copyright © 2005 eBay Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners. </P>
+<P align=center>eBay and the eBay logo are trademarks of eBay Inc. </P></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV>
+
+

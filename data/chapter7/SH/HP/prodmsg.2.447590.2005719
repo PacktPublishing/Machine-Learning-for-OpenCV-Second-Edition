@@ -1,0 +1,118 @@
+Received: from mta1.sa.th.hotchilli.net (62.89.140.101)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:31 -0000
+Received: by mta1.sa.th.hotchilli.net (Postfix)
+	id 15EAC23EE79; Tue, 19 Jul 2005 09:56:19 +0100 (BST)
+Date: Tue, 19 Jul 2005 09:56:19 +0100 (BST)
+From: MAILER-DAEMON@mta1.sa.th.hotchilli.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="93DCB23EE74.1121763379/mta1.sa.th.hotchilli.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719085619.15EAC23EE79@mta1.sa.th.hotchilli.net>
+
+This is a MIME-encapsulated message.
+
+--93DCB23EE74.1121763379/mta1.sa.th.hotchilli.net
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host mta1.sa.th.hotchilli.net.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Postfix program
+
+<paulblakey@onet.co.uk>: host relay-1.th.hotchilli.net[62.89.140.17] said: 452
+    4.2.2 Message would exceed quota for <paulblakey@onet.co.uk> (in reply to
+    RCPT TO command)
+
+--93DCB23EE74.1121763379/mta1.sa.th.hotchilli.net
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mta1.sa.th.hotchilli.net
+Arrival-Date: Tue, 19 Jul 2005 09:56:18 +0100 (BST)
+
+Final-Recipient: rfc822; paulblakey@onet.co.uk
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host relay-1.th.hotchilli.net[62.89.140.17] said:
+    452 4.2.2 Message would exceed quota for <paulblakey@onet.co.uk> (in reply
+    to RCPT TO command)
+
+--93DCB23EE74.1121763379/mta1.sa.th.hotchilli.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: by mta1.sa.th.hotchilli.net (Postfix, from userid 99)
+	id 93DCB23EE74; Tue, 19 Jul 2005 09:56:18 +0100 (BST)
+Received: from mta1.th.hotchilli.net (mta1.th.hotchilli.net [62.89.140.51])
+	by mta1.sa.th.hotchilli.net (Postfix) with ESMTP id C171D23EE79
+	for <paulblakey@onet.co.uk>; Tue, 19 Jul 2005 09:56:13 +0100 (BST)
+Received: from mailwisconsin.com (59-171-61-171.rev.home.ne.jp [59.171.61.171])
+	by mta1.th.hotchilli.net (Postfix) with SMTP id 0472A244130
+	for <paulblakey@onet.co.uk>; Tue, 19 Jul 2005 12:00:17 +0100 (BST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360609;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: paulblakey@onet.co.uk
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.0.4 (2005-06-05) on 
+	mta1.sa.th.hotchilli.net
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.4 required=4.0 tests=DCC_CHECK,DRUGS_ERECTILE,
+	DRUG_DOSAGE,FORGED_RCVD_HELO,HTML_50_60,HTML_MESSAGE,INFO_TLD,
+	MIME_HTML_ONLY,URIBL_AB_SURBL,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=disabled version=3.0.4
+X-Spam-Report: 
+	*  0.1 FORGED_RCVD_HELO Received: contains a forged HELO
+	*  0.6 DRUG_DOSAGE BODY: Talks about price per dose
+	*  0.5 INFO_TLD URI: Contains an URL in the INFO top-level domain
+	*  0.1 HTML_50_60 BODY: Message is 50% to 60% HTML
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.2 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.4 DCC_CHECK Listed in DCC (http://rhyolite.com/anti-spam/dcc/)
+	*  0.6 URIBL_SBL Contains an URL listed in the SBL blocklist
+	*      [URIs: extra-m.info]
+	*  2.0 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  1.5 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  0.5 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  3.9 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: extra-m.info]
+	*  1.0 DRUGS_ERECTILE Refers to an erectile drug
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836361">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--93DCB23EE74.1121763379/mta1.sa.th.hotchilli.net--

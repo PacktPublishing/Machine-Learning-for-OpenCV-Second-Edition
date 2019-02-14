@@ -1,0 +1,82 @@
+Return-Path: <downs@i-mailweb.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 11348 invoked from network); 5 Aug 2004 12:07:00 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 05 Aug 2004 12:07:00 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 05 Aug 2004 12:07:00 -0000
+Received: (qmail 7957 invoked from network); 5 Aug 2004 12:07:00 -0000
+Received: from hkgjlcv-33z0qx9 (unknown [69.6.66.14])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 05 Aug 2004 12:07:00 -0000
+From: "Downs Financial" <downs@i-mailweb.com>
+Subject: Seven Day Cruise for Two with Any Closed Loan!
+To: cvs@bruce-guenter.dyndns.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: downs@i-mailweb.com
+Date: Thu, 5 Aug 2004 07:06:23 -0500
+Content-Length: 3320
+Lines: 58
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="5a5b39" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="81" rowspan="2"><img src="http://www.a1info.net/images2/downsinc/images/logo.gif" width="81" height="81"></td>
+    <td width="679"><img src="http://www.a1info.net/images2/downsinc/images/Headerright.gif" width="679" height="60"></td>
+  </tr>
+  <tr>
+    <td height="19"><img src="http://www.a1info.net/images2/downsinc/images/template_03.gif" width="679" height="21"></td>
+  </tr>
+  <tr>
+    <td height="11" colspan="2"><img src="http://www.a1info.net/images2/downsinc/images/template_04.jpg" width="760" height="11"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="760" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="261" rowspan="2"><img src="http://www.a1info.net/images2/downsinc/images/main_r1_c1.gif" width="261" height="231"></td>
+        <td width="499"><img src="http://www.a1info.net/images2/downsinc/images/main_r1_c2.gif" width="499" height="192"></td>
+      </tr>
+      <tr>
+        <td><a href='http://www.a1info.net/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E4340424B4A0E410E400E4345434041470E08.aspx'><img src="http://www.a1info.net/images2/downsinc/images/main_r2_c2.gif" width="499" height="39" border="0"></a></td>
+      </tr>
+      <tr bgcolor="#FFFFFF">
+        <td colspan="2"><img src="http://www.a1info.net/images2/downsinc/images/template_04.jpg" width="760" height="11" border="0"></td>
+        </tr>
+      <tr bgcolor="#FFFFFF">
+        <td colspan="2" bgcolor="#FFFFFF"><a href='http://www.a1info.net/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E4340424B4A0E410E400E4345434041470E08.aspx'><img src="http://www.a1info.net/images2/downsinc/images/bottom.jpg" width="760" height="98" border="0"></a></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="http://www.a1info.net/images2/downsinc/images/template_13.gif" width="760" height="48"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="http://www.a1info.net/images2/downsinc/images/template_14.gif" width="760" height="27"></td>
+  </tr>
+</table>
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.a1info.net/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E4340424B4A0E410E08.aspx'><img src='http://www.a1info.net/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.a1info.net/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E4340424B4A0E410E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">Downs Financial Inc. &#183; 88 Steele Street, Suite 400 &#183; Denver, CO 80206</font></p></td></tr></table></body>
+</html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

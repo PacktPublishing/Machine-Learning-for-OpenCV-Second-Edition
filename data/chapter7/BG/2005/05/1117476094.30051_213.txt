@@ -1,0 +1,25 @@
+Return-Path: <ventas@extremapublicidad.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 18072 invoked by uid 115); 30 May 2005 05:06:45 -0000
+Received: from ventas@extremapublicidad.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(200.6.221.187):. 
+ Processed in 0.108009 secs); 30 May 2005 05:06:45 -0000
+Received: from 187.221.6.200.intelnet.net.gt (HELO CARLOS) (200.6.221.187)
+  by churchill.factcomp.com with SMTP; 30 May 2005 05:06:44 -0000
+From: "ventas@extremapublicidad.com " <ventas@extremapublicidad.com >
+To: bait@em.ca
+Subject: Expostands!! NUEVOS prductos rotativos (Guatemala) !!! 
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 29 May 2005 22:24:14
+X-Qmail-Scanner-Message-ID: <111742960567218059@churchill>
+
+<html>
+<head>
+<title>EXTREMA PUBLICIDAD</TITLE>
+</HEAD>
+<BODY>
+<a href="mailto:ventas@extremapublicidad.com"><img src="http://www.extremapublicidad.com/mayo.jpg" border=0></a><br>
+<font face=arial size=1>si no desea recibir esta publicidad favor haga click <a href="mailto:nolista@extremapublicidad.com">aqui</a>
+</body>
+</html>

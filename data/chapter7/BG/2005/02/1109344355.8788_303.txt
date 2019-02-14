@@ -1,0 +1,187 @@
+Return-Path: <eventoss@iconenet.com.br>
+Received: (fqmail 18403 invoked from network); 25 Feb 2005 09:19:04 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt03.futurequest.net ([69.5.6.179])
+  with FQDP via TCP; 25 Feb 2005 09:19:04 -0000
+Received: (qmail 5483 invoked from network); 25 Feb 2005 09:19:04 -0000
+Received: from Comercial01 (200141219168.user.veloxzone.com.br [200.141.219.168])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 25 Feb 2005 09:17:55 -0000
+From: "Cursos Icone" <eventoss@iconenet.com.br>
+To: <webmaster@ezmlm.org>
+Subject: Curso Análise & Modelagem de Processos de Negócios Prático
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Fri, 25 Feb 2005 06:17:58
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>II &Iacute;cone II</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<table width="750" border="1" align="center" bordercolor="#FFFFFF" height="1474">
+  <tr> 
+    <td colspan="2" height="99">&nbsp;<img src="http://www.iconenet.com.br/imgs/topo.jpg" width="750" height="80"></td>
+  </tr>
+  <tr bgcolor="#009966"> 
+    <td height="73" colspan="2"> <div align="center"> 
+        <p><font color="#FFFFFF" size="5" face="Arial, Helvetica, sans-serif">An&aacute;lise 
+          e Modelagem de Processos de Neg&oacute;cios Pr&aacute;tico</font></p>
+        <p><font color="#FFFFFF" size="5" face="Arial, Helvetica, sans-serif">Dia 
+          30 e 31 de Mar&ccedil;o - Rio de Janeiro</font></p>
+      </div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+    <td height="1" colspan="2"></td>
+  </tr>
+  <tr> 
+    <td width="73%" height="20" bgcolor="#009966"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>::Objetivo</strong></font></td>
+    <td width="26%" rowspan="12" bgcolor="#CCCCCC" height="585"><p><font size="2" face="Arial, Helvetica, sans-serif"><strong>Carga 
+        Hor&aacute;ria</strong>:16 Horas -2</font><font size="2" face="Arial, Helvetica, sans-serif"> 
+        dias</font> </p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Hor&aacute;rio</strong>: 
+        8:30 &agrave;s 18:00 horas &#8211; 8:30 &agrave;s 9:00 &eacute; reservado 
+        para retirada do material e crach&aacute; de identifica&ccedil;&atilde;o.</font></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Valor:</strong> 
+        Curso realizado no Rio de Janeiro - R$ 620,00</font></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"> Desconto 
+        de 5% para a segunda ou mais pessoas da mesma empresa caso efetue o pagamento 
+        at&eacute; 10 dias antes da realiza&ccedil;&atilde;o do curso.</font></p>
+      <p class="style5"><strong><font size="2" face="Arial, Helvetica, sans-serif">OBS: 
+        </font></strong><font size="2" face="Arial, Helvetica, sans-serif">Dever&aacute; 
+        ser realizado o pagamento at&eacute; 5 dias &uacute;teis antes da data 
+        do curso</font></p>
+      <p class="style5"><font size="2" face="Arial, Helvetica, sans-serif"> <strong>O 
+        candidato dever&aacute; enviar a ficha de inscri&ccedil;&atilde;o a &Iacute;cone.</strong> 
+        <a href="http://www.iconenet.com.br/cursos/inscricao.doc" target="_blank" class="style7">Clique 
+        aqui </a></font></p>
+      <font face="Arial, Helvetica, sans-serif">&nbsp;</font><font face="Arial, Helvetica, sans-serif">&nbsp;</font> 
+      <p align="center"><font face="Arial, Helvetica, sans-serif"><strong><font size="2">Informa&ccedil;&otilde;es 
+        complementares </font></strong><font size="2"> 21-2285-6437 ou 2285-6562 
+        <a href="mailto:eventos@iconenet.com.br" target="_blank">eventos@iconenet.com.br</a></font></font></p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center"><font size="4" face="Arial, Helvetica, sans-serif"><a href="http://www.iconenet.com.br" target="_blank">www.iconenet.com.br</a></font></p>
+      <p><font face="Arial, Helvetica, sans-serif">&nbsp;</font><font face="Arial, Helvetica, sans-serif">&nbsp;</font><font face="Arial, Helvetica, sans-serif">&nbsp;</font> 
+      </p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <div align="center"> 
+        <h6><font size="4" face="Arial, Helvetica, sans-serif">
+        <a target="_blank" href="http://www.iconenet.com.br/cursos/inscricao.doc">Inscreva 
+          - se aqui</a></font></h6>
+      </div>
+      <p><font face="Arial, Helvetica, sans-serif">&nbsp;</font></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      </td>
+  </tr>
+  <tr> 
+    <td height="1" bgcolor="#CCCCCC"><font size="2" face="Arial, Helvetica, sans-serif">Curso 
+      voltado a equipes interessadas na pr&aacute;tica de an&aacute;lise e modelagem 
+      de processos de neg&oacute;cios, totalmente voltado ao uso de formul&aacute;rios 
+      e exerc&iacute;cios pr&oacute;prios ao levantamento.</font> <p>&Eacute; 
+        poss&iacute;vel atrav&eacute;s de literatura entender como &eacute; importante 
+        montar uma estrutura de gest&atilde;o de processos e a percepa&ccedil;&atilde;o 
+        de valor que isto representa para a empresa.</p>
+      <p>Mas como realmente posso de maneira consistente mapear um processos e 
+        ter os procedimentos e instru&ccedil;&otilde;es de maneira intelig&iacute;vel 
+        a todos da empresa/institui&ccedil;&atilde;o?</p>
+      <p>Este &eacute; o prop&oacute;sito deste treinamento: tornar a equipe apta 
+        a compreender como fazer uma an&aacute;lise e modelagem de um processo, 
+        na pr&aacute;tica, com exerc&iacute;cios direcionados e modelos reais 
+        de implanta&ccedil;&atilde;o.</p>
+      <p>Voc&ecirc; receber&aacute; a documenta&ccedil;&atilde;o em formato eletr&ocirc;nico 
+        para usar na sua empresa e testar o resultado do treinamento</p></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#009966" height="20"> <p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>::P&uacute;blico-Alvo 
+        </strong></font></p></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CCCCCC" height="68">Diretores, gerentes, supervisores, profissionais em 
+      desenvolvimento, profissionais da &aacute;rea de processos, profissionais 
+      da &aacute;rea de tecnologia da informa&ccedil;&atilde;o.<br>
+      Fortemente recomendado para profissionais das &aacute;reas de GED, O&amp;M 
+      e &aacute;reas correlatas.</td>
+  </tr>
+  <tr> 
+    <td bgcolor="#009966" height="20"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>::Local</strong></font></td>
+  </tr>
+  <tr> 
+    <td height="24" bgcolor="#CCCCCC"><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.hoteis-othon.com.br/port/palace/rio/open.htm" target="_blank">Hotel 
+      Rio Othon Palace</a> - Av Atl&acirc;ntica, 3264, Copacabana - RJ</font></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#009966" height="20"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>::Programa</strong></font></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CCCCCC" height="124">- Introdução à análise e modelagem de 
+    processos 
+      <p>- Metodologias aplicáveis </p>
+      <p>- Captura de atividades (Método Atividades) </p>
+      <p>- Exercício (1a parte - mapas de processo) </p>
+      <p>- Exercício (2a parte - Organizar o exercício de acordo a técnica 
+      indicada) </p>
+      <p>- Documentação do procedimento de acordo com ISO 9000:2000 
+      </p>
+      <p>- Exercício - Documentar os Procedimento desenvolvidos </p>
+      <p>- Documentação de Instrução </p>
+      <p>- Exercício - Documentar as instruções desenvolvidas 
+      </p>
+      <p>- Exemplo de ferramenta de automatização de processos </p>
+      <p>- Exercício - Gerar o fluxo de trabalho correspondente </p>
+      <p>- Exercício - Configurando um processo na prática </p></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#009966" height="19"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>::Material 
+      Did&aacute;tico e Metodologia</strong></font></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CCCCCC" height="19"><font size="2" face="Arial, Helvetica, sans-serif">
+    Apostila com os slides apresentados, material de apoio, coffe-break, certificado 
+      de conclus&atilde;o.</font></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#009966" height="19"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>::Op&ccedil;&atilde;o 
+      de treinamento dentro da empresa </strong></font></td>
+  </tr>
+  <tr> 
+    <td height="264" bgcolor="#CCCCCC"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif">Este 
+      treinamento poder&aacute; ser efetuado dentro de sua empresa e direcionado 
+      &agrave;s suas necessidades. Entre em contato com a &Iacute;cone para informa&ccedil;&otilde;es 
+      adicionais.</font> 
+      <p>Local do treinamento: a empresa dever&aacute; providenciar 
+        espa&ccedil;o f&iacute;sico para o treinamento, com os seguintes itens: 
+        Cadeiras com apoio para anota&ccedil;&otilde;es, um projetor de multim&iacute;dia, 
+        um computador com CD-ROM e Power Point 2000 instalado, quadro com pinc&eacute;is 
+        coloridos, coffe break (se assim o desejar). </p>
+      <p>Altera&ccedil;&atilde;o do programa para adapta&ccedil;&atilde;o &agrave;s 
+        necessidades da Empresa </p>
+      <p>A proposta de treinamento apresentada poder&aacute; ser alterada e adaptada 
+        &agrave;s necessidades de sua empresa ou institui&ccedil;&atilde;o </p>
+      <p>Tanto a carga hor&aacute;ria quanto conte&uacute;do poder&atilde;o ser 
+        alterados e adaptados.<font size="2" face="Arial, Helvetica, sans-serif"> 
+        </font></p></td>
+  </tr>
+  <tr> 
+    <td colspan="2" bgcolor="#009966" height="1"><font size="2" face="Arial, Helvetica, sans-serif"><span class="style14">Se 
+      desejar retirar seu email de nosso cadastro de mala direta por favor <strong><a href="mailto:eventos@iconenet.com.br?subject=Remove" target="_blank" class="style7">clique 
+      aqui</a></strong> ou responda para <font color="#FFFFFF">eventos@iconenet.com.br</font> 
+      com o seguinte assunto: <strong><font color="#FFFFFF">REMOVE.</font></strong></span></font></td>
+  </tr>
+</table>
+</body>
+</html>

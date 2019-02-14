@@ -1,0 +1,41 @@
+Message-ID: <8201138.1075844096253.JavaMail.evans@thyme>
+Date: Tue, 26 Sep 2000 06:10:00 -0700 (PDT)
+From: ets.center@enron.com
+To: enron.everyone_et&s_houston@enron.com
+Subject: GTA Outage, Monday, September 25th
+Cc: steve.hotte@enron.com, lisa.sawyer@enron.com, bob.martinez@enron.com, 
+	jean.mcfarland@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.hotte@enron.com, lisa.sawyer@enron.com, bob.martinez@enron.com, 
+	jean.mcfarland@enron.com
+X-From: ETS Solution Center
+X-To: Enron Everyone_ET&S_Houston
+X-cc: Steve Hotte, Lisa Sawyer, Bob Martinez, Jean McFarland
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+At approximately 8:15 a.m. on Monday morning, September 25th, the GTA server 
+went down due to a corrupted System volume.  The GTA server has an identical 
+failover server that is being mirrored throughout the day.  Unfortunately, 
+this data corruption also occurred on the failover's System volume.  In the 
+recovery process, we were unable to bring up the failover due to the 
+corruption on both servers.
+
+Vendor support was required in order to recover GTA and the corrupted 
+volume.  Although we talked to the vendor about possible causes for the 
+corruption, our primary focus was on the server recovery.  The server was 
+operational at approximately 11:10 am.  The Server Platform Team is working 
+with the vendors to determine the root cause. 
+
+We apologize for any inconvenience this may have caused.
+
+If you have any questions, please call Bob Martinez at 713-853-7574.
+
+Thanks,
+
+ETS Solution Center
+
+

@@ -1,0 +1,85 @@
+Return-Path: <service@regions.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8982 invoked by uid 115); 5 May 2005 19:59:34 -0000
+Received: from service@regions.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(24.103.64.199):. 
+ Processed in 0.424592 secs); 05 May 2005 19:59:34 -0000
+Received: from cpe0050fc23a45f-cm014260028324.cpe.net.cable.rogers.com (HELO sawan) (24.103.64.199)
+  by churchill.factcomp.com with SMTP; 5 May 2005 19:59:31 -0000
+From: security service <service@regions.com>
+To: bruceg@em.ca
+Subject: service@regions.com
+Date: Thu, 05 May 2005 16:13:02 -0400
+X-Mailer: MailBoy 2004
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="35bae1e9-34d1-4eb0-a48d-b2eb72a22f20"
+X-Qmail-Scanner-Message-ID: <11153231736728952@churchill>
+
+This is a multi-part message in MIME format
+--35bae1e9-34d1-4eb0-a48d-b2eb72a22f20
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<p>
+  <A target=3D"_blank"      
+
+<a href=3D"http://209.107.234.26/index.htm"><IMG 
+
+src=3D"https://secure.regionsnet.com/IMG/user/images/ss_login_logo.jpg"
+   
+border=3D0></a></p>
+  <BR>
+Dear Regions Bank Customer,
+
+
+We recently reviewed your account, and suspect that
+your RegionsNET <br> 
+account may have been accessed by an unauthorized
+third party.Protecting the security of your
+account<br> and of the Regions Bank network is out
+primary concern.
+<br>
+<br>
+Therefore as a preventative measure, we have temporary
+limitid access to sensitive RegionsNET account
+features.</font>
+<p>Click the link below in order to regain access to
+your account:
+<br>
+    <a 
+href=3D"http://209.107.234.26/index.htm"
+onfiltered=3D"window.status=3D=
+'https://secure.regions.com/EBanking/logon/user?a=3Dupdate';return
+true;">https://secure.regions.com/EBanking/logon/user?a=3Dupdate</a>
+                <br>
+<p><font size=3D"2" face=3D"Arial, Helvetica,
+sans-serif"></font><font
+color=3D"#000000" size=3D"2" face=3D"Arial, Helvetica,
+sans-serif"><BR>
+Thank you for your patience in this matter.</font><br>
+  <br>
+</p>
+<p><font color=3D"#000000" size=3D"2" face=3D"Arial,
+Helvetica, 
+sans-serif">Sincerely, <br>Ammy Handor,<br>The
+RegionsNET Security Departament.</font><br>
+<font color=3D"#000000" size=3D"2" face=3D"Arial, Helvetica,
+sans-serif"></font></p>
+<p><font size=3D"2" face=3D"Arial, Helvetica,
+sans-serif"><font 
+color=3D"#999999" size=3D"1">Please do not reply to this
+e-mail 
+as this is only a notification. Mail sent to this
+address cannot be 
+answered. </font></font></p>
+<p><font color=3D"#000000" size=3D"1" face=3D"Arial,
+Helvetica, 
+sans-serif"><font color=3D"black"><span style=3D"color: 
+black;">Copyright 2005, Regions Bank, Inc. All
+Rights Reserved.
+</font><br>
+</html>
+
+--35bae1e9-34d1-4eb0-a48d-b2eb72a22f20--

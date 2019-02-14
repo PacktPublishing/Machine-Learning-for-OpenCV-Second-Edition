@@ -1,0 +1,58 @@
+Return-Path: <hsmrkrb@212.com,>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 25008 invoked from network); 5 Dec 2004 04:40:32 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 05 Dec 2004 04:40:32 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 05 Dec 2004 04:40:32 -0000
+Received: (qmail 5219 invoked from network); 5 Dec 2004 04:40:32 -0000
+Received: from c-67-174-117-61.client.comcast.net (unknown [67.174.117.61])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 05 Dec 2004 04:40:22 -0000
+X-Message-Info: H/ku+43+k/AC+392/69252208734324
+Received: from smtp-classroom.cowman.hsmrkrb@212.com, ([67.174.117.61]) by t14-sig1.hsmrkrb@212.com, with Microsoft SMTPSVC(5.0.9875.3057);
+	 Sat, 04 Dec 2004 23:29:35 -0500
+Received: from lolly058.anyplace.hsmrkrb@212.com, (beguile020.hsmrkrb@212.com, [67.174.117.61])
+	by smtp-intemperance.fedora.hsmrkrb@212.com, (Postfix) with SMTP id 6OFS5A56IVD
+	for <rait@bruce-guenter.dyndns.org>; Sun, 05 Dec 2004 09:27:35 +0500
+Received: from smtp-relict.diphtheria.hsmrkrb@212.com, ([67.174.117.61]) by le21-q66.hsmrkrb@212.com, with Microsoft SMTPSVC(5.0.8845.9981);
+	 Sun, 05 Dec 2004 05:27:35 +0100
+X-Message-Info: ZOOM+%ND_LC_CHAR[1-3]9+k+OHX+281/526993673423
+Received: from slocum.hsmrkrb@212.com, ([6.121.109.145]) by doctorate.hsmrkrb@212.com, with MailEnable ESMTP; Sun, 05 Dec 2004 09:31:35 +0500
+Date: Sun, 05 Dec 2004 07:33:35 +0300
+Message-Id: <6770954466891.83192@hsmrkrb@212.com,>
+From: Darryl Driscoll <hsmrkrb@212.com,>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: Get a free mortgage-quote
+MIME-Version: 1.0 (produced by sarcasmdutiable 2.2)
+Content-Type: multipart/alternative;
+	boundary="--4330631597502754426"
+Content-Length: 470
+Lines: 25
+
+----4330631597502754426
+Content-Type: text/plain;
+	charset="iso-6941-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: gnome shred cox
+
+November Update: 
+
+Further drop! Rates starting at 3.25%
+
+Fixed Your mortgage process is pre-approved
+
+Please use our secure site to fill-out your application. 
+
+Visit us at: http://www.perfectvgr.com/x/loan.php?id=3Dsas
+
+Thank you, 
+
+Darryl Driscoll
+
+http://www.moretgauge.com/st.html
+ 
+
+
+----4330631597502754426--

@@ -1,0 +1,74 @@
+Message-ID: <13297468.1075856641598.JavaMail.evans@thyme>
+Date: Wed, 10 Jan 2001 03:15:00 -0800 (PST)
+From: naveen.andrews@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: UK portfolios and books setup in RisktRac
+Cc: vince.kaminski@enron.com, david.port@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, david.port@enron.com
+X-From: Naveen Andrews
+X-To: Tanya Tamarchenko
+X-cc: Vince J Kaminski, David Port
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tanya,
+          We have checked the RiskTrac system and
+(1) The spreadoption, and other,  mappings in Risktrac are correct.  ie, 
+E1S1B has both power(PPP) and gas(NBP) and the deltas/gammas tie out.  The 
+LOLP and SMP mappings all tie out.
+(2) However, the UK power in Risktrac has 25TWH more of Power.  This has 
+something to do with the Enpower-Risktrac communication.
+(3) UK-Gas positions tie out in aggregate (off by a single BcF)
+
+For VaR discrepancies, other than positions, the following will contrbute
+(1) In Risktrac power is mapped to R4 (Cinergy) while in the spreadsheet it 
+is US-NG.
+(2) Gas-Power and EFA-EFA correlations are different.
+
+Matthew is coordinating with Oliver and London IT to resolve the position 
+issues.
+
+Naveen 
+
+
+
+
+Tanya Tamarchenko@ECT
+01/03/2001 02:09 PM
+To: Naveen Andrews/Corp/Enron@ENRON, Matthew Adams/Corp/Enron@ENRON
+cc: Rabi De/NA/Enron@ENRON, Jaesoo Lew/NA/Enron@ENRON, Vince J 
+Kaminski/HOU/ECT@ECT 
+
+Subject: Re: UK portfolios and books setup in RisktRac  
+
+Naveen and Matthew,
+I started looking systematically through UK positions and corresponding VAR 
+numbers in the RisckRac.
+I found a few inconsistencies so far.
+
+1. The portfolio E1SB1-NBP has a book E1SB1 under it.  The sum of delta 
+positions for this book is 
+239,021,655, the sum of gamma positions is -211,031,450. VAR for the 
+portfolio E1SB1-NBP is zero.
+
+The same refers to a few other portfolios, for example E1SB2-NBP, E1SB3-NBP, 
+E2XX1-NBP.
+
+2. The portfolio E1SBP1-PPP also has the book E1SB1 under it. This book 
+contains the positions on PPPWD1
+through PPPWD6 and PPPWE1 through PPPWE4. 
+
+The same refers to the other books, for example E1SB2.
+
+This looks messy.  Can someone in RAC go over all the portfolios, all the 
+corresponding books and curves
+in RisktRac and make sure they are set up properly?
+
+Thank you,
+
+Tanya.
+

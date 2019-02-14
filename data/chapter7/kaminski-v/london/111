@@ -1,0 +1,35 @@
+Message-ID: <30216229.1075856610785.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 08:22:00 -0700 (PDT)
+From: lloyd.fleming@enron.com
+To: tanya.tamarchenko@enron.com, vince.kaminski@enron.com
+Subject: Enron Metals
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lloyd Fleming
+X-To: Tanya Tamarchenko, Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Tanya
+
+Thanks for your time last week - I've been travelling a bit but I'm now back 
+in London at MG to commence obtaining information for you.
+
+I'm not really sure where to start on this, so initially I propose to get:
+
+a complete data set (i.e. all live trades from all entities) which includes 
+prices and volatilities
+a separate file of options 
+any written valuation methodologies used by the core systems
+
+There is a project to obtain a data feed from an MG system called Mercur.  
+This is their risk management system but we are proposing to use it along the 
+lines of a data warehouse, not a risk system.  I'd be happy to talk you 
+through any other current issues.
+
+Let me know if there's anything else you need at present.
+
+Regards

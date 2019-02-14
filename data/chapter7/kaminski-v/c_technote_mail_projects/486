@@ -1,0 +1,46 @@
+Message-ID: <10864119.1075857032917.JavaMail.evans@thyme>
+Date: Fri, 17 Mar 2000 07:56:00 -0800 (PST)
+From: stinson.gibner@enron.com
+To: tracy.geaccone@enron.com
+Subject: Re: EOTT Options
+Cc: vince.kaminski@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, zimin.lu@enron.com
+X-From: Stinson Gibner
+X-To: Tracy Geaccone
+X-cc: Vince J Kaminski, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Tracy,
+
+Attached is a spreadsheet model which contains both Black-Scholes and 
+American option valuation models.   These are the generally accepted methods 
+for valuation of options on equity.   The "European" option prices assume 
+that the option holder can exercise his options only at maturity, while the 
+"American" style options can be exercised at any time during their life.   
+
+I have assumed in the examples that the underlying equity units have a market 
+value of $13.00 and that the options are struck at this level.   The 
+volatility input is the other main assumption.   EOTT has been trading 
+recently with a volatility ranging between 30% to 40% although looking 
+further back, the range is much wider.
+
+To run the model, you must be linked with the options library.   I am not 
+sure what lan you are connected with, but you can coordinate with Zimin Lu 
+(x36388) for help with loading the option library add-in module.   On the ENA 
+lan it is located under  O:\research\exotica\xll\exotica.xll.    This is 
+loaded in excel using the Tools/Add-Ins and Browse to reach the add-in 
+location.
+
+--Stinson
+x34748
+
+
+
+P.S.   I will mail you a hard-copy of a plot showing recent EOTT volatility 
+as well.   If you would like us to help you in running specific examples, 
+please let me, Vince, or Zimin know.

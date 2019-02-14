@@ -1,0 +1,84 @@
+Return-Path: <GHSIABA@antares.de>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 8060 invoked from network); 5 Oct 2004 14:23:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 05 Oct 2004 14:23:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 05 Oct 2004 14:23:55 -0000
+Received: (qmail 29342 invoked from network); 5 Oct 2004 14:23:54 -0000
+Received: from 69.5.6.152 (unknown [203.118.51.47])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 05 Oct 2004 14:23:52 -0000
+Received: from 254.244.66.62 by 203.118.51.47; Tue, 05 Oct 2004 21:16:55 +0600
+Message-ID: <RMTNKPDWTJUBZDYTLXAMQBK@fesb.hr>
+From: "Numbers Shipley" <GHSIABA@antares.de>
+Reply-To: "Numbers Shipley" <GHSIABA@antares.de>
+To: cvs@bruce-guenter.dyndns.org
+Subject: Database covers all countries in north and South America including Canada.
+Date: Tue, 05 Oct 2004 14:14:55 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--BFE189821A977D83AB"
+X-Webmail-Time: Tue, 05 Oct 2004 16:23:55 +0100
+Content-Length: 1781
+Lines: 59
+
+----BFE189821A977D83AB
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body>
+The United States Healthcare Database<br>
+<br>
+includes comprehensive information on more than <br>
+40,000 hospitals, 25,000 nursing homes and 400,000 <br>
+doctors not to mention HMOs and Group Medical <br>
+Practices.
+<p>Information includes senior managers at each facility <br>
+  (including purchasing, IT, nursing, etc.) along with <br>
+  mailing address, direct-dial phone numbers and fax <br>
+  numbers. It also includes updated information on <br>
+  hospital ownership, beds, employees, admissions, <br>
+  discharges and specialized services.</p>
+<p>For the past 14 years, MedCom has maintained the most <br>
+  comprehensive lists of hospitals. Our lists are 100% <br>
+  telephone verified and updated every quarter. MedCom <br>
+  continues to hold the nation's most extensive and <br>
+  reliable mailing lists and databases of key decision-<br>
+  makers in the health care market.<br>
+  <br>
+  Available exclusively on CD-Rom, the data can be used <br>
+  on an unlimited basis. It is easily exportable to other <br>
+  programs for mailing or faxing purposes.</p>
+<p>To order, please print this e-mail, complete the <br>
+  information below and <br>
+  fax it to 416-765-0029<br>
+  (tel: 416-765-0028)</p>
+<p>NAME:</p>
+<p>TITLE:</p>
+<p>ORGANIZATION:</p>
+<p>ADDRESS:</p>
+<p>CITY:</p>
+<p>POSTAL:</p>
+<p>TEL:</p>
+<p>FAX:</p>
+<p>E-MAIL</p>
+<p>MedCom<br>
+  4410 Massachusettes Ave. NW, #201<br>
+  Washington, DC<br>
+  20016</p>
+<p></p>
+</body>
+</html>
+
+
+----BFE189821A977D83AB--

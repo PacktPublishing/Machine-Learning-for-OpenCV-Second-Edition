@@ -1,0 +1,50 @@
+Message-ID: <19646329.1075863311134.JavaMail.evans@thyme>
+Date: Thu, 12 Jul 2001 12:59:02 -0700 (PDT)
+From: stanley.cocke@enron.com
+To: shift.portland@enron.com
+Subject: Buy-Back Strategy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cocke Jr., Stanley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCOCKE>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Group,
+
+This is an email I sent to our generators regarding decing and buy-back strategies.  Please read so you know what's going, and can take the lead on implementing these strategies.  We'll let you know when all the generators on board.
+
+Thanks,
+Stan
+
+-------------------------------------------------------------------------------------------
+
+
+Due to the relatively weak real-time market during morning hours, we wanted to communicate a strategy for dec. bidding or buying-back generation that you've sold forward.  We want to stress that this is a relatively short-term strategy.  As the weather turns cold during the late-Autumn and Winter months, the morning hours actually trade at a premium on the real-time market.
+
+Lately, HE1-10 have been very weak real-time, ranging between $25 and $40.  We have two strategies that we would like to suggest:
+
+1.  Decremental Supplemental Bids
+We can submit dec. bids to the ISO at a price below your cost to generate.  Basically, we would be letting the ISO know that we're willing to reduce generation and actually buy the mw's from the ISO to cover the prescheduled quantity.  You are still paid the day-ahead price for the day-ahead quantity, but instead of generating it, you would be buying it from the ISO.  For example, if your cost to generate is $40, and you sell day-ahead for $50, you make $10/MWh.  If the ISO takes the decremental bid, and the price is $30, then you make $20/MWh.   
+
+Advantages - A relatively large upside, the price the ISO charges could actually go negative, as large as negative $91.87.  Also, you would actually be buying from the ISO, as opposed to selling to the ISO and being subject to credit risk.
+
+Disadvantages - Ten minute dispatch.  When we submit decremental bids, the ISO has the option to either reduce or increase output of the unit every 10 minutes.  In addition to the physical problems this might create, the settlements statement you receive might be relatively elaborate and possibly difficult to follow.
+
+2.  Buying-Back Blocks in the Bi-Lateral Market:
+This strategy calls for our real-time traders to buy blocks of energy in the bi-lateral market for below your cost to generate.  This would call for you to reduce your generation, and the energy we buy-back in the real-time market would be used to fill your prescheduled quantity.  Once again, you are still paid the day-ahead price for the day-ahead quantity, but instead of generating it, you would be buying it at the price paid to buy-back the energy.   As in the previous example, if your cost to generate is $40, and you sell day-ahead for $50, you make $10/MWh.  If we can buy-back the energy for a price of $30, then you make $20/MWh.   Additionally, if we do buy-back the energy, we will need to simultaneously submit incremental supplemental bids to the ISO to remain compliant with the FERC order.  Then, if the ISO takes the incremental bid, you can generate the power and sell for additional profit. 
+
+Advantages - No 10 minute dispatch (unless a supplemental bid is accepted).  You would know exactly when and for how long the unit would be down or reduced.  Also, the settlements statements would be relatively easy to manage.
+
+Disadvantage - Not as large of an up-side as decremental bidding.
+
+At this point in time we would encourage you to start with the strategy #2, buying-back blocks of energy in the bi-lateral market.  Once you and our real-time traders get comfortable with the operations of the strategy, then we should move forward and start submitting decremental supplemental bids to the ISO.  We propose a 50/50 profit split, above your day-ahead profit, earned from either of these two strategies.
+
+If you have any questions or comments please call myself or Chris Foster.
+
+Stan Cocke
+The Services Desk
+503-464-3829

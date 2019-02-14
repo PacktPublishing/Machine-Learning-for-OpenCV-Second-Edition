@@ -1,0 +1,61 @@
+Return-Path: <qgirpxn@email.cz>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23924 invoked by uid 115); 9 Aug 2004 19:34:00 -0000
+Received: from qgirpxn@email.cz by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(211.193.37.101):. 
+ Processed in 0.101898 secs); 09 Aug 2004 19:34:00 -0000
+Received: from unknown (HELO 211.193.37.101) (211.193.37.101)
+  by churchill.factcomp.com with SMTP; 9 Aug 2004 19:33:58 -0000
+Received: from zk57.centrum.cz (zk57.centrum.cz [225.212.19.230]) by  with Microsoft SMTPSVC(5.0.2195.6824);
+	 Tue, 10 Aug 2004 01:29:34 +0600
+Message-ID: <vInMFKLrGf@centrum.cz>
+From: "영어공부" <lmqaisg@centrum.cz>
+Reply-To: "영어공부" <lmqaisg@centrum.cz>
+To: bruceg@em.ca
+X-Mailer: senator 7 girls
+Subject: 영어 공부 정말 100일이면 된다. 샘플 CD로 미리 경험하세요.
+Date: Mon, 09 Aug 2004 21:33:34 +0200
+MIME-Version: 1.0
+Organization: senator 7 girls
+Content-Type: multipart/alternative;
+	boundary="=_tDbmSxKhvL"
+
+--=_tDbmSxKhvL
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7Bit
+
+galapagos deducible proprioception sunrise 
+amarillo plague czerniak c aloha gale aspirant pap eugenic 
+assemblage bluebook ear kuwait plunge appraise arteriolosclerosis upstate docile 
+
+--=_tDbmSxKhvL
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7Bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+</head>
+
+<body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
+<table width="650" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="http://myhome.hanafos.com/down1/96/98/90/01/1/01.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="http://myhome.hanafos.com/down2/96/98/90/01/2/02.jpg"></td>
+  </tr>
+  <tr>
+    <td><a href="http://myhome.hanafos.com/down2/96/98/90/01/6/s.htm"><img src="http://myhome.hanafos.com/down3/96/98/90/01/7/03.jpg" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://myhome.hanafos.com/down3/36/31/91/01/11/reject.htm"><img src="http://myhome.hanafos.com/down0/96/98/90/01/4/04.jpg"  border="0"></a></td>
+  </tr>
+</table>
+</body>
+</html>
+
+--=_tDbmSxKhvL--
+

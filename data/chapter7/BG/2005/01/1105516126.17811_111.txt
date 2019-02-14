@@ -1,0 +1,50 @@
+Return-Path: <omnmdizjovkv@yahoo.com>
+Delivered-To: em-ca-bruceg-spam@em.ca
+Received: (qmail 5763 invoked by uid 700); 8 Jan 2005 11:58:01 -0000
+Delivered-To: em-ca-em-ca-bruceg@em.ca
+Received: (qmail 5745 invoked by uid 115); 8 Jan 2005 11:58:01 -0000
+Received: from omnmdizjovkv@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.232.207.183):. 
+ Processed in 0.134786 secs); 08 Jan 2005 11:58:01 -0000
+Received: from 200-232-207-183.dsl.telesp.net.br (200.232.207.183)
+  by churchill.factcomp.com with SMTP; 8 Jan 2005 11:57:59 -0000
+Message-ID: <71476853410049.82307.qmail@web72646.mail.yahoo.com>
+Received: from [200.210.66.130] by web72646.mail.yahoo.com via HTTP; Sat, 08 Jan 2005 03:56:15 -0800
+Date: Sat, 08 Jan 2005 03:56:15 -0800
+From: "Nigel Abernathy" <omnmdizjovkv@yahoo.com>
+Subject: Re:
+To: djinn@em.ca
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-9540846829-8317196431=:76411"
+Content-Length: 1258
+Lines: 29
+
+--0-9540846829-8317196431=:76411
+Content-Type: text/plain; charset=us-ascii
+
+<a href="http://getitnowtoday.com/?wid=100049">
+Welcome to OffshorePharm, your offshore, online solution for quality generic medications at affordable 
+
+prices! We offer nothing but the finest medications from government approved pharmaceutical suppliers. You 
+
+will find your entire experience with us pleasant, honest, and rewarding. From our super low prices to our 
+
+world class customer support, your health and satisfaction is our business.
+</a>
+<br><br><br><br><br><br>
+<a href="http://getitnowtoday.com/nomore.html">rem0ve</a>
+--0-9540846829-8317196431=:76411
+Content-Type: text/html; charset=us-ascii
+
+<a href="http://getitnowtoday.com/?wid=100049">
+Welcome to OffshorePharm, your offshore, online solution for quality generic medications at affordable 
+
+prices! We offer nothing but the finest medications from government approved pharmaceutical suppliers. You 
+
+will find your entire experience with us pleasant, honest, and rewarding. From our super low prices to our 
+
+world class customer support, your health and satisfaction is our business.
+</a>
+<br><br><br><br><br><br>
+<a href="http://getitnowtoday.com/nomore.html">rem0ve</a>
+--0-9540846829-8317196431=:76411--

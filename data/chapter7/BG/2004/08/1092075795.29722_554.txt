@@ -1,0 +1,38 @@
+Return-Path: <mailuser-70-186508@smoke.savquest.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 26322 invoked by uid 115); 9 Aug 2004 00:39:17 -0000
+Received: from mailuser-70-186508@smoke.savquest.com by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(209.97.207.206):. 
+ Processed in 0.090321 secs); 09 Aug 2004 00:39:17 -0000
+Received: from unknown (HELO www.savquest.com) (209.97.207.206)
+  by churchill.factcomp.com with SMTP; 9 Aug 2004 00:39:16 -0000
+Received: (qmail 20193 invoked by uid 1009); 9 Aug 2004 00:38:45 -0000
+Date: 9 Aug 2004 00:38:45 -0000
+From: "Cheap Smokes" <carton@smoke.savquest.com>
+To: "bait@em.ca" <bait@em.ca>
+Subject: Smokes under 15 bucks a cart
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_7D9139CD.925827F1"
+Message-ID: <msgid-70-186508@smoke.savquest.com>
+
+------=_NextPart_000_0001_7D9139CD.925827F1
+Content-Type: text/html;
+        charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title></title><style type="text/css">
+img { border: 0px; display: block; }
+div { text-align: center; }
+</style></head><body><div><a
+href="http://smoke.savquest.com/Q/page/0/-/70/186508/bait@em.ca.xml">
+<img src="http://smoke.savquest.com/smk/1.jpg"></a></div><br><br><div>
+<img usemap="#g"
+src="http://smoke.savquest.com/Q/page/1/-/70/186508/bait@em.ca.gif">
+</div><map name="g">
+<area shape="rectangle" coords="130,25,270,50"
+href="http://smoke.savquest.com/Q/page/2/-/70/186508/bait@em.ca.xml">
+</map></body></html>
+
+------=_NextPart_000_0001_7D9139CD.925827F1--

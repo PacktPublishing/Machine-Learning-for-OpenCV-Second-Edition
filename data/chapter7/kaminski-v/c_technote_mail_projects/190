@@ -1,0 +1,55 @@
+Message-ID: <2780133.1075856591126.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 00:00:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: stinson.gibner@enron.com
+Subject: Re: Compound Model for Reedy Creek
+Cc: vince.kaminski@enron.com, alex.huang@enron.com, vasant.shanbhogue@enron.com, 
+	berney.aucoin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, alex.huang@enron.com, vasant.shanbhogue@enron.com, 
+	berney.aucoin@enron.com
+X-From: Vince J Kaminski
+X-To: Stinson Gibner
+X-cc: Vince J Kaminski, Alex Huang, Vasant Shanbhogue, Berney C Aucoin
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson,
+
+I think the gamma will flow into V@R.
+
+Vince
+
+
+
+
+
+Stinson Gibner
+11/30/2000 06:14 PM
+To: Alex Huang/Corp/Enron@ENRON
+cc: Vince J Kaminski/HOU/ECT@ECT, Vasant Shanbhogue/HOU/ECT@ECT 
+Subject: Compound Model for Reedy Creek
+
+Alex,
+
+Paulo and I have continued to look at the model and have come up with a 
+couple of additional changes.
+
+1.   The cash flow calculations need to include the overlying option strike 
+payment.   Also, Paulo is trying to clarify if the cashflows should be 
+discounted to the valuation date or reported as notional future values.
+2.  I would suggest trying changing the option valuation from a binomial tree 
+approach to a one-dimensional integration, perhaps using a quadrature 
+method.  This may allow us to minimize the size of the delta discontinuities.
+3.  Edith is supposed to check and see if the theoretical gamma is used for 
+anything.   If it is, we will probably need to revisit the gamma calculation 
+since we are not currently including any cross terms for gamma.
+
+Thanks,
+
+Stinson
+
+

@@ -1,0 +1,64 @@
+Message-ID: <24540654.1075863313548.JavaMail.evans@thyme>
+Date: Tue, 3 Jul 2001 13:58:56 -0700 (PDT)
+From: fran.chang@enron.com
+To: bill.williams@enron.com
+Subject: RE: PMA's
+Cc: virginia.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: virginia.thompson@enron.com
+X-From: Chang, Fran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FCHANG>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: Thompson, Virginia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vthompso>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good point Bill.  Now that we are sure what happened to #549162.1 is correct, I am following up with Settlements group in Houston regarding the other side of the deal, i.e. #549160.  Somehow that latter deal was not captured during their processes of creating the prior month adjusments details.  I will get back to you as soon as I hear from them, but at least we know now the loss you got was not due to change of counterparty.
+
+-Fran
+
+ -----Original Message-----
+From: 	Williams III, Bill  
+Sent:	Tuesday, July 03, 2001 10:43 AM
+To:	Chang, Fran
+Cc:	Thompson, Virginia
+Subject:	RE: PMA's
+
+Fran,
+If this deal was zeroed out (and it has been after the fact), then we should also have received a credit for no longer buying from MPC (the other side of the deal, 
+deal #549160). We should only lose $40 (the net difference). Any ideas?
+
+Thanks,
+Bill
+
+From: 	Chang, Fran  
+Sent:	Tuesday, July 03, 2001 10:05 AM
+To:	Williams III, Bill; Thompson, Virginia
+Subject:	RE: PMA's
+
+Virgina and Bill:
+
+During our month-end processes I have researched deal #549162.1.  The counterparty did change as Bill pointed out, but what makes you suffer a loss in the prior month adjustments was due to the volume being zeroed out for HE 3.  Originally the deal liquidated with HE3 (40MWh*$135), HE4(15MWh *$135), and HE5 (20MWh*$135), but on 4/19/2001 the volume for HE3 was zeroed out in scheduling, which means originally you were given too much $ for the sale and therefore we are now taking that revenue you made in HE3 back.
+
+Thanks,
+Fran
+x7973
+
+ -----Original Message-----
+From: 	Williams III, Bill  
+Sent:	Tuesday, July 03, 2001 6:31 AM
+To:	Thompson, Virginia
+Cc:	Dunton, Heather; Chang, Fran
+Subject:	PMA's
+
+Virginia,
+
+I have one question on this month's PMA and some questions from last month.  First, for deal #549162, this deal was originally put in incorrectly as counterparty TacomaSupp.  This counterparty was then changed to Tacomapubuit.  Why does a change in counterparty result in a loss of revenue?  Are we being charged for each counterparty again (like EES and ST-Cali last month), if so, we need to fix this flawed tool. 
+
+Second, for last month, we determined that the WBOM book needs a $108,000 PMA for change in price.  The appropriate price is in Enpower, but the revenue has never appeared (Deal #590753). Remember, this deal was originally input as a buy at $320 and a sell at $30 and liquidated at these prices. The deal is now at $320 and $300.  What do we need to do to get this trued up?
+Please come see me with questions.
+
+Thank you for your help.
+Bill

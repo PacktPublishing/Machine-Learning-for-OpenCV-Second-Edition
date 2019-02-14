@@ -1,0 +1,37 @@
+Return-Path: <mailuser-77-173408@games.savquest.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 10314 invoked by uid 115); 14 Aug 2004 11:37:57 -0000
+Received: from mailuser-77-173408@games.savquest.com by oldchurchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(209.97.207.206):. 
+ Processed in 0.093471 secs); 14 Aug 2004 11:37:57 -0000
+Received: from unknown (HELO www.savquest.com) (209.97.207.206)
+  by churchill.factcomp.com with SMTP; 14 Aug 2004 11:37:56 -0000
+Received: (qmail 69360 invoked by uid 1009); 14 Aug 2004 11:36:40 -0000
+Date: 14 Aug 2004 11:36:40 -0000
+From: "Top Gamer" <gamer@games.savquest.com>
+To: "bait@em.ca" <bait@em.ca>
+Subject: No Cost Xbox
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_3D912B17.DBB1012B"
+Message-ID: <msgid-77-173408@games.savquest.com>
+
+------=_NextPart_000_0001_3D912B17.DBB1012B
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset="iso-8859-1"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title></title><style type="text/css">
+img { border: 0px; display: block; }
+div { text-align: center; margin-bottom: 20px; }
+</style></head><body><div><a
+href="http://games.savquest.com/Q/page/0/-/77/173408/bait@em.ca.xml">
+<img src="http://games.savquest.com/xb/1.jpg"></a></div><br><br>
+<div><img usemap="#m"
+src="http://games.savquest.com/Q/page/1/-/77/173408/bait@em.ca.gif">
+</div><map name="m"><area shape="rectangle" coords="130,25,270,50"
+href="http://games.savquest.com/Q/page/2/-/77/173408/bait@em.ca.xml">
+</map></body></html>
+
+------=_NextPart_000_0001_3D912B17.DBB1012B--

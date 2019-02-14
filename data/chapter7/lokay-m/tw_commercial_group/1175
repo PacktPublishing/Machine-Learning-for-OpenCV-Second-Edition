@@ -1,0 +1,50 @@
+Message-ID: <19286375.1075855012419.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 15:21:51 -0800 (PST)
+From: eric.faucheaux@enron.com
+To: steven.harris@enron.com, jo.williams@enron.com, kevin.hyatt@enron.com, 
+	g..stage@enron.com
+Subject: P-2 Recycle & Cooling Issue
+Cc: john.keller@enron.com, morgan.gottsponer@enron.com, ben.asante@enron.com, 
+	mansoor.abdmoulaie@enron.com, earl.jerry@enron.com, 
+	rich.jolly@enron.com, tony.teakell@enron.com, ricky.brown@enron.com, 
+	perry.frazier@enron.com, lindy.donoho@enron.com, 
+	michelle.lokay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.keller@enron.com, morgan.gottsponer@enron.com, ben.asante@enron.com, 
+	mansoor.abdmoulaie@enron.com, earl.jerry@enron.com, 
+	rich.jolly@enron.com, tony.teakell@enron.com, ricky.brown@enron.com, 
+	perry.frazier@enron.com, lindy.donoho@enron.com, 
+	michelle.lokay@enron.com
+X-From: Faucheaux, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3F938E41-7B726B5-86256895-769151>
+X-To: Harris, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=65B627BC-84E5435E-862566DE-1137EE>, Williams, Jo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B42B8E2C-D0244C42-862566C0-6872D7>, Hyatt, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHYATT>, Stage, Michael G. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTAGE>
+X-cc: Keller, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A01A00E-739E51F9-862568C7-63AA41>, Gottsponer, Morgan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MGOTTSP>, Asante, Ben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A82648A9-66B21A-862566DE-573362>, Abdmoulaie, Mansoor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=41680A35-823F91BA-862566E1-503199>, Jerry D Martin/ENRON_DEVELOPMENT@ENRON, Chanley, Earl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8522F986-401B8E61-862566DA-5BF007>, Jolly, Rich </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=55EEE558-76F46491-86256743-7D2B01>, Teakell, Tony </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=261A2656-D4803C52-8625690E-56B3C9>, Brown, Ricky </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=AFD5DE23-217502BD-8625675A-6AEF40>, Frazier, Perry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FD15A8C-51523267-862566DA-55532E>, Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LDONOHO>, Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MLOKAY>
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: MLOKAY (Non-Privileged).pst
+
+Upon further review of previous recommendations to install recycle and cooling at CS P-2 to provide greater turndown, it has been determined that the P-2 turbine has too much horsepower and has single stage wheeling that would not allow turndown less than its current minimum capacity of about 125 MMcfd.  Previous attempts by Operations to turndown the P-2 unit using the surge valve for recycle allowed approximately 100 MMcfd before reaching high discharge temperature, but high suction pressures were available from P-1 compression in a north flow scenario.
+
+Volume analysis over the past year to date indicated volumes through P-3 of 100 MMcfd; thus, with 150 MMcfd proposed to be scheduled through the NNG Gray I/C, a balance of 50 MMcfd would have to flow south to P-2.  Throughput analyses were based upon needing to have P-2 turned down to a volume of at least 50 MMcfd.  Additionally, P-2 throughput analyses considered available pressures that would be available on NNG's KB line.  KB line pressures can be expected to get as low as 600 psig; therefore, pressure drop from the NNG Gray I/C to P-2 suction would yield P-2 suction pressures between 570 to 550 psig for low volumes of 50 to 80 MMcfd, respectively.  Required discharge pressures at these volumes would be 850 to 885 psig.  The P-2 single wheel stage will not handle a differential pressure of 270 to 335 psig.  P-2 is designed to handle differential pressures of 180-190 psig.
+
+Re-wheeling the P-2 unit (3 stage) is not a viable option due to the operational flexibility that would be required to maintain Panhandle Lateral certificate capacity of 250 MMcfd.
+
+Due to the pressure spreads that would be required to meet low flow demands, consideration was given to add additional reciprocating horsepower at P-2 to handle low flow demands without P-1 online.  50 MMcfd throughput at P-2 would require 1200 HP and 80 MMcfd would require 2100 HP at pressure differentials of 270 and 335 psig, respectively.  The cost of adding horsepower and piping modifications at P-2 is not a feasible option for accommodating NNG-Gray volumes.  Also new air emissions permitting and regulatory filing would be a greater concern compared to installing a new line as follows.
+
+The most viable option would be to install a new tap on the KB Line closer to P-3, install approximately 1.75 miles of 16" from tap to P-3, and modify station yard piping for various control configurations.  The existing NNG-Gray measurement and control facilities would be relocated to the end of the new lateral and located inside P-3 plant boundaries.   This new tap, lateral and meter relocation option would provide the following benefits: 
+1.	Receipt of 150-175 MMcfd
+2.	Greater operational flexibility utilizing NNG/TW synergies
+3.	Long-term operational reliability
+4.	Greater horsepower utilization at single location
+5.	Guarantee of receipt capacity from NNG regardless of low KB line pressure
+6.	Possibility of free-flow capacity from NNG not requiring P-3 compression during winter times with NNG Pampa on-line, which could be possible at high or 	low flow conditions depending on TW pressures at Roswell (Sta. 9)
+7.	Fractional increase of O&M expenses at P-3 compared to higher O&M expenses of adding horsepower at P-2
+
+A level "A" cost estimate for installing a new tap on the KB Line closer to P-3, installing approximately 1.75 miles of 16" from tap to P-3, and modifying station yard piping for various control configurations would be $1,300,000.  Due to the complexity of configurations that P-3 is already capable of and introducing a new stream with various flow paths that may become possible, a field visit to the proposed construction sites would be recommended prior to submitting a Level "B" or "C" release.  See attached sketch for general route information proposed.
+
+Moreover, the relocation of the NNG interconnect and installing the new lateral should create the opportunity for greater receipt volumes from NNG considering larger pipe and expanded I/C facilities because P-3 has plenty of available horsepower to utilize.  Actual conditions were provided by Operations from dates in the past where P-3 was actually compressing 370 MMcfd w/ units 3,4 & 5, Ps-599psig/Pd-874psig; also 265 MMcfd w/ units 2 & 5, Ps-540 psig/Pd-844 psig.  Depending on NNG conditions greater volumes than 150 MMcfd may be realized into TW having 250 MMcfd flowing south and additional volumes available to flow to Red Deer, Lefors and Cactus Laterals if needed.
+
+I will be attending an offsite ETS Planning & Power Services department conference on Wednesday and Thursday.  Perhaps on Friday or early next week we should convene for further discussions via conference call with all interested parties call for direction of this proposal.  I will be checking my voice mail periodically for any comments and will call back during breaks if possible.  You may also send a text message to my pager at 8777270018@skytel.com.  EF 713/853-3395
+
+Special thanks to Mansoor, Earl and Tony for your help with this matter! 

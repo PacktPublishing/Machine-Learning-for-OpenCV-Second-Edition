@@ -1,0 +1,393 @@
+Return-Path: <m53253.p4952643-errors@shadow.agava.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 27070 invoked by uid 115); 30 Jun 2005 02:41:42 -0000
+Received: from m53253.p4952643-errors@shadow.agava.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(81.176.65.204):. 
+ Processed in 0.402498 secs); 30 Jun 2005 02:41:42 -0000
+Received: from shadow31.agava.net (81.176.65.204)
+  by churchill.factcomp.com with SMTP; 30 Jun 2005 02:41:40 -0000
+Received: from localhost.localdomain (robert.agava.net [81.176.65.204])
+	by shadow31.agava.net (Postfix) with ESMTP id 559A82283E
+	for <bait@em.ca>; Wed, 29 Jun 2005 20:38:47 -0500 (EST)
+MIME-Version: 1.0
+Subject: (OTC: EGTY ) another Energy play for this week
+Content-Type: text/html; charset=iso-8859-1
+X-Mailer: MIME-tools 5.411 (Entity 5.404)
+Content-Transfer-Encoding: binary
+Sender: "Zinester.com" <response@zinester.com>
+Date: Wed, 29 Jun 2005 18:31:46 -0500
+X-MailList-Message-ID: 53253
+List-Subscribe: <http://www.zinester.com/mpb/ml_fs.cgi?Action=fs&topic=21556>
+Errors-To: m53253.p4952643-errors@shadow.agava.net
+List-Unsubscribe: <http://www.zinester.com/mpb/unsub.cgi?21556&4952643&011m0Mt8Q85oVa7rbXVn4A>
+List-Help: <http://www.zinester.com>
+List-Id: Zinester.com <21556.zinester.com>
+List-Post: NO
+List-Owner: <mailto:otcprir@aol.com>
+X-Zinester-PID: 4952643
+From: Company Spotlight <response@zinester.com>
+To: bait@em.ca
+Reply-To: Company Spotlight <response@zinester.com>
+Message-Id: <20050630013847.559A82283E@shadow31.agava.net>
+
+<HTML>
+<TITLE></TITLE>
+<BODY >
+
+
+
+<div align="left">
+  <table borderColor="black" cellSpacing="1" cellPadding="5" width="700" border="0">
+    <tr>
+      <td vAlign="top" width="250">
+      <table cellSpacing="0" cellPadding="3" width="235" border="0">
+        <tr>
+          <td align="middle" bgColor="#415778">
+          <font class="title" face="Verdana" color="#ffffcc" size="2"><strong>
+          CORPORATE HEADQUARTERS</strong></font></td>
+        </tr>
+        <tr>
+          <td>
+          <p align="center"><font face="Verdana"><strong>Energy and Asset 
+          Technology<br>
+          </strong>OTC: <strong>EGTY<br>
+          </strong></font><br>
+          <font face="Verdana"><strong>Address:</strong> <br>
+          115 E Boca Raton Rd. Ste D<br>
+          Boca Raton, FL 33432<br>
+          <strong>Phone:</strong>&nbsp;561-620-4949&nbsp;<br>
+          <strong>Email:</strong><br>
+          <u><font color="#0000ff"><a href="mailto:info@fastforestsinc.com">
+          info@fastforestsinc.com</a></font></u></font></td>
+        </tr>
+      </table>
+      <p><br>
+&nbsp;</p>
+      <table cellSpacing="0" cellPadding="3" width="235" border="0">
+        <tr>
+          <td align="middle" bgColor="#415778">
+          <font class="title" face="Verdana" color="#ffffcc" size="2"><strong>
+          QUICK FACTS</strong></font></td>
+        </tr>
+        <tr>
+          <td><font face="Verdana">Ticker Symbol: <strong>EGTY</strong></font>
+          <div align="center">
+            <table cellSpacing="1" cellPadding="0" width="220" border="0">
+              <tr>
+                <td bgColor="#cccc99" colSpan="2"><strong><font face="Verdana">&nbsp;<table class="clsQuote" cellSpacing="0" borderColorDark="#ffffff" cellPadding="1" rules="rows" frame="below">
+                  <tr>
+                    <td class="clsQuoteHeader" align="left" colSpan="2">EGTY.PK<span class="clsQuoteChartLink">Chart:
+                    <a class="clsQuoteChartLink" href="http://www.zinester.com/lr/205165/4952643" target="_new">
+                    1 yr </a>-
+                    <a class="clsQuoteChartLink" href="http://www.zinester.com/lr/205162/4952643" target="_new">
+                    3 mo </a>-
+                    <a class="clsQuoteChartLink" href="http://www.zinester.com/lr/205161/4952643" target="_new">
+                    5 dy </a></span></td>
+                  </tr>
+                  <tr class="clsQuoteRow">
+                    <td class="clsQuoteTitle">Last</td>
+                    <td class="clsQuoteData">0.25</td>
+                  </tr>
+                  <tr class="clsQuoteRow">
+                    <td class="clsQuoteTitle">Change</td>
+                    <td class="clsQuoteData">-0.01</td>
+                  </tr>
+                  <tr class="clsQuoteRow">
+                    <td class="clsQuoteTitle">Open</td>
+                    <td class="clsQuoteData">0.25</td>
+                  </tr>
+                  <tr class="clsQuoteRow">
+                    <td class="clsQuoteTitle">Day High</td>
+                    <td class="clsQuoteData">0.25</td>
+                  </tr>
+                  <tr class="clsQuoteRow">
+                    <td class="clsQuoteTitle">Day Low</td>
+                    <td class="clsQuoteData">0.22</td>
+                  </tr>
+                  <tr class="clsQuoteRow">
+                    <td class="clsQuoteTitle">Vol</td>
+                    <td class="clsQuoteData">2400 </td>
+                  </tr>
+                  <tr>
+                    <td class="clsQuoteFooter" align="middle" colSpan="2">Last 
+                    updated 6/24/2005 at 3:58pm<br>
+                    Data Delayed 15 minutes </td>
+                  </tr>
+                </table>
+                </font></strong>
+                <p>&nbsp;</td>
+              </tr>
+              <tr>
+                <td vAlign="center" width="130">&nbsp;</td>
+              </tr>
+            </table>
+          </div>
+          </td>
+        </tr>
+      </table>
+      <p><br>
+&nbsp;</p>
+      <table cellSpacing="0" cellPadding="3" width="235" border="0">
+        <tr>
+          <td align="middle" bgColor="#415778">
+          <font class="title" face="Verdana" color="#ffffcc" size="2"><strong>
+          SENIOR MANAGEMENT</strong></font></td>
+        </tr>
+        <tr>
+          <td>&nbsp;<div align="center">
+            <font face="Verdana"><br>
+            George McMillan, Pres.<br>
+            <br>
+            <br>
+&nbsp;</font></div>
+          </td>
+        </tr>
+      </table>
+      <font face="Verdana" size="2"><hr color="black" noshade>
+      <p><q><font color="blue" size="1">Disclaimer:</font></q></font><font face="Verdana" size="1">
+      </font></p>
+      <div align="justify">
+        <font face="Verdana" size="1">This release may contain statements that 
+        constitute forward-looking statements within the meaning of Section 27A 
+        of the Securities Act of 1933, as amended, and Section 21E the 
+        Securities Exchange Act of 1934, as amended. The words &quot;may,&quot; &quot;would,&quot; 
+        &quot;will,&quot; &quot;expect,&quot; &quot;estimate,&quot; &quot;anticipate,&quot; &quot;believe,&quot; &quot;intend,&quot; and 
+        similar expressions and variations thereof are intended to identify 
+        forward-looking statements. Investors are cautioned that any such 
+        forward-looking statements are not guarantees of future performance and 
+        involve risks and uncertainties, many of which are beyond the Company's 
+        ability to control, and that actual results may differ materially from 
+        those projected in the forward-looking statements as a result of various 
+        factors. The information contained in an OTC Live profile is provided as 
+        an information service only. OTC Live has been compensated eight 
+        thousand dollars by a third party for services rendered.&nbsp; The accuracy 
+        or completeness of the information is not warranted and is only as 
+        reliable as the sources from which it was obtained. </font><br>
+        <font face="Verdana" size="1"><br>
+        <br>
+&nbsp;<table style="width: 240px; height: 52px" cellSpacing="0" cellPadding="0" background border="0">
+          <tr>
+            <td>
+            <p align="center"><font size="1">Created by OTC Live, Inc. 2005<br>
+            New York, NY<br>
+            <a href="http://www.zinester.com/lr/205169/4952643">www.otclive.com</a> </font></td>
+          </tr>
+        </table>
+        <p><br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+&nbsp;</font></div>
+      </td>
+      <td vAlign="top" width="450">
+      <table cellSpacing="0" cellPadding="3" border="0">
+        <tr>
+          <td align="middle" bgColor="#415778">
+          <font class="title" face="Verdana" color="#ffffcc" size="2"><strong>
+          COMPANY DESCRIPTION</strong></font></td>
+        </tr>
+        <tr>
+          <td>
+          <div align="justify">
+            <font face="Verdana"><strong>Energy and Asset Technology, Inc.</strong> 
+            (OTC: EGTY) is a&nbsp;venture capital group&nbsp;with an overarching vision to 
+            combine environmentally responsible business practices and products 
+            with exciting and profitable ventures in order to both increase 
+            shareholder value and to be responsible citizens of the global 
+            business community. The company's interests currently include timber 
+            forests assets, furniture production, and development funds.&nbsp;
+            <font color="#cc0000"><font color="#000000">The company is already 
+            on strong financial footing. </font><strong>Based on current 
+            resources and agreements, EGTY projects revenues of $140 Million 
+            with an approximate profit margin of 40% for each 9-year cycle!
+            </strong></font></font>
+          </div>
+          </td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+      <table cellSpacing="0" cellPadding="3" border="0">
+        <tr>
+          <td align="middle" bgColor="#415778">
+          <font class="title" face="Verdana" color="#ffffcc" size="2"><strong>
+          MARKET OPPORTUNITY &amp; INVESTMENT HIGHLIGHTS</strong></font></td>
+        </tr>
+        <tr>
+          <td>
+          <ul>
+            <div align="justify">
+              <li><font face="Verdana"><strong>Global Cedar:</strong> On June 1, 
+              Energy and Asset Technology announced the acquisition of Tumlit 
+              Pine Furniture along with plans to continue to operate their new 
+              subsidiary under the name Global Cedar. They currently manufacture 
+              over 110 furniture products. First year revenues are expected to 
+              total approximately $6 million, and&nbsp;the company is convinced that
+              <strong><font color="#cc0000">it is possible for the annual 
+              revenues to exceed $60 million in the next three to four years.</font></strong>
+              </font></li>
+              <li><font face="Verdana"><strong>Panpacific Development Funds. 
+              Ltd.:</strong> Energy and Asset Technology presently owns a 
+              controlling interest in Panpacific Development Funds, Ltd., a 
+              registered Pooled Development Fund&nbsp;(PDF). PDFs offer a number of 
+              significant tax concessions to investors as dividends are exempt 
+              from income tax and dividend withholding tax, and capital gains 
+              are also exempt from capital gains tax. <strong>
+              <font color="#cc0000">During the four years culminating in 2003, 
+              PDFs had returned an investment gain of $95 million on an initial 
+              investment of $107 million!!!</font></strong></font></li>
+              <li><font face="Verdana"><strong>FluxStar: </strong>Under an 
+              exclusive agreement, EGTY plans to manufacture and market a simple 
+              magnetic device that enhances the efficiency of AC and DC motors. 
+              It is anticipated that the FluxStar Magnetic Source of Power will 
+              provide an alternative source of energy and power for homes around 
+              the world. <strong><font color="#cc0000">The objective of this 
+              technology is to eventually eliminate utility bills for the end 
+              user.</font></strong></font></li>
+              <li><font face="Verdana"><strong>Global Cedar:</strong> in 
+              addition to manufacturing furniture, the company intends to sell 
+              and distribute its proprietary product, the Global Cedar Tree, in 
+              order to foster the growth of plantations that provide timber for 
+              construction, furniture building, wood pulp, and other products. 
+              The tree grows well in a variety of climactic conditions, and the 
+              plantlets contain no contaminants and are subject to no known 
+              import/export restrictions. Therefore, the marketability of&nbsp;this 
+              product is extremely high.</font></li>
+              <li><font face="Verdana">The Global Cedar Tree&nbsp;is the result of 14 
+              years of research and genetic technology development.&nbsp;<strong><font color="#cc0000">It 
+              is the fastest growing hardwood tree on the planet, capable of 
+              achieving growth levels of 30-35 feet in its first year alone!</font></strong> 
+              After just the first year, the tree can be harvested and will 
+              re-grow from the stump, providing multiple harvests for years. The 
+              timber produced is excellent for fine furniture and other uses for 
+              which the wood of fast growing soft woods is unsuitable. The 
+              potential benefits of the tree are legion, from positive effects 
+              on the ozone and a buffer against rainforest depletion, as world 
+              demand for wood products continues to outpace world supply. </font>
+              </li>
+            </div>
+          </ul>
+          </td>
+        </tr>
+      </table>
+      <table cellSpacing="0" cellPadding="3" border="0">
+        <tr>
+          <td align="middle" bgColor="#415778">
+          <font class="title" face="Verdana" color="#ffffcc" size="2"><strong>
+          RECENT NEWS &amp; EVENTS</strong></font></td>
+        </tr>
+        <tr>
+          <td>
+          <ul>
+            <li>
+            <div align="left">
+              <strong><font face="Verdana" size="2"><font color="#0000cc">6/9/05 
+              -</font> <a href="http://www.zinester.com/lr/205168/4952643">
+              Energy and Asset Technology Inc. Aims to Preserve Earth's 
+              Resources </a><br>
+&nbsp;</div>
+            </li>
+          </ul>
+          </font>
+          <div align="left">
+            <ul>
+              <li>
+              <div align="left">
+                <font face="Verdana" size="2"><font color="#0000cc">6/7/05 -</font>
+                <a href="http://www.zinester.com/lr/205167/4952643" target="_blank">
+                Energy and Asset Technology, Inc. Dramatically Increases 
+                Revenues by Accelerating Forest Timber Growth
+              </div>
+              </li>
+            </ul>
+          </div>
+          </a></font>
+          <div align="left">
+            <ul>
+              <li>
+              <div align="left">
+                <font face="Verdana" size="2"><font color="#0000cc">6/1/05 -</font>
+                <a href="http://www.zinester.com/lr/205166/4952643" target="_blank">
+                New Million-Dollar Revenues Push Growth of Energy and Asset 
+                Technology, Inc.</div>
+              </li>
+            </ul>
+          </div>
+          </a></font>
+          <div align="left">
+            <ul>
+              <li>
+              <div align="left">
+                <font face="Verdana" size="2"><font color="#0000cc">5/18/05 -</font>
+                <a href="http://www.zinester.com/lr/205163/4952643" target="_blank">
+                Persistent Profit Machine: Timber. Energy and Asset Technology, 
+                Inc.
+              </div>
+              </li>
+            </ul>
+          </div>
+          </a></font>
+          <div align="left">
+            <ul>
+              <li>
+              <div align="left">
+                <font face="Verdana" size="2"><font color="#0000ff">5/16/05 -</font>
+                <a href="http://www.zinester.com/lr/205164/4952643" target="_blank">
+                The Amazing Pooled Development Fund: Energy and Asset 
+                Technology, Inc.
+              </div>
+              </li>
+            </ul>
+          </div>
+          </a></font>
+          <table style="width: 434px; height: 40px" cellSpacing="0" cellPadding="0" background border="0">
+            <tr>
+              <td>
+              <p align="center"><strong><font size="2"></font></strong></td>
+            </tr>
+          </table>
+          </strong></td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Constellation Version 2.22 -->
+<div style="display: none">
+  <!--category:2441 clientid:109-->
+</div>
+
+<img width=0 height=0 src=""><br><br><hr width="200">
+<table width="80%" cellpadding="3" cellspacing="0" border="0" align="center">
+  <tr>
+    <td align="center">
+
+<p align="center">
+<font face="Arial" size="2">
+
+<table>
+<tr>
+<td><a href="http://zinester.com/mpb/ml_fs.cgi?topic=21556">Subscribe</a></td>
+<td>|</td>
+<td><a href="http://www.zinester.com/cgi/l.cgi?bait@em.ca&011m0Mt8Q85oVa7rbXVn4A">Update&nbsp;Profile</a></td>
+<td>|</td>
+<td><a href="http://zinester.com/mpb/unsub.cgi?21556&4952643&011m0Mt8Q85oVa7rbXVn4A">Unsubscribe</a></td>
+</tr>  
+</table>
+
+
+</font>
+</p>
+
+
+    </td>
+  </tr>
+</table>
+
+
+</BODY>
+</HTML>

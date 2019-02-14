@@ -1,0 +1,34 @@
+Message-ID: <19146206.1075854127089.JavaMail.evans@thyme>
+Date: Tue, 21 Mar 2000 01:04:00 -0800 (PST)
+From: lauri.allen@enron.com
+To: robert.lloyd@enron.com, tom.acton@enron.com, charlotte.hawkins@enron.com
+Subject: PG&E Texoma Volumes
+Cc: daren.farmer@enron.com, pat.clynes@enron.com, bryan.hull@enron.com, 
+	gary.hanks@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: daren.farmer@enron.com, pat.clynes@enron.com, bryan.hull@enron.com, 
+	gary.hanks@enron.com
+X-From: Lauri A Allen
+X-To: Robert E Lloyd, Tom Acton, Charlotte Hawkins
+X-cc: Daren J Farmer, Pat Clynes, Bryan Hull, Gary A Hanks
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+In reviewing some of the imbalance numbers, I discovered that Valero Texoma 
+(#71) BAV volumes have not fed into POPS since 3/14 causing an out of balance 
+at the meter in excess of 500,000mm month to date.  The more critical part of 
+this problem, however, is that POPS has fed 0 volumes back to Sitara on some 
+of the HPLC deals.  This means that these purchase volumes (expenses) have 
+not been picked up in Tom's P&L and are, instead, sitting in UA4.  To the 
+extent that the purchase prices vary from the UA4 value, the P&L may take a 
+hit when these actual volumes flow through.
+
+I realize that Kim is out and that you guys are stretched thin, however, a 
+problem of this magnitude needs to be addressed as soon as it's discovered.  
+Someone needs to be overriding the 0 volumes so that Sitara is receiving 
+correct information and the P&L is kept as accurate as possible.
+
+Please give me a call if you have any questions.

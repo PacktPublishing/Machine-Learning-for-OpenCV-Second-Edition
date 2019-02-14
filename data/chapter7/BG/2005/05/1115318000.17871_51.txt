@@ -1,0 +1,51 @@
+Return-Path: <Kimberly.Haas@didamail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 611 invoked by uid 115); 5 May 2005 02:08:33 -0000
+Received: from Kimberly.Haas@didamail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(220.171.126.193):. 
+ Processed in 0.36287 secs); 05 May 2005 02:08:33 -0000
+Received: from unknown (HELO 01-DAD586D8367E) (220.171.126.193)
+  by churchill.factcomp.com with SMTP; 5 May 2005 02:08:32 -0000
+Return-Path: <AndreaGlenn_Administration@evacaville.com>
+X-Original-To: bruceg@em.ca
+Delivered-To: bruceg@em.ca
+Received: from server1.postmaster.co.uk  (mail.postmaster.co.uk  [212.57.34.15])
+	by fep2.evacaville.com (Postfix) with ESMTP id A025C4767
+	for <bruceg@em.ca>; Thu, 05 May 2005 07:18:16 +0400 (EDT)
+Received: from nobody by evacaville.com with local (Exim 4.06)
+	id 4C1rjW-8715oD-My
+	for <bruceg@em.ca>; Thu, 05 May 2005 06:14:16 +0300
+To: bruceg@em.ca
+Subject: Please Confirm: Link Code
+From: "Andrea Glenn" <AndreaGlenn_Administration@evacaville.com>
+Message-ID: <913999072382.7eb1e7384329@evacaville.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Wed, 04 May 2005 20:21:16 -0700
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.evacaville.com
+X-AntiAbuse: Original Domain - bitsmart.com
+X-AntiAbuse: Originator/Caller UID/GID - [11 50] / [57 12]
+X-AntiAbuse: Sender Address Domain - evacaville.com
+
+
+Client Update:
+
+Several Companies have been competing for your mortgage
+refinance application over the past 2 weeks.  
+
+The company that offered the lowest rate, and largest
+loan quantity has requested your information be verified.
+
+http://sjfo.dr3amy.net/formupdate.asp
+
+
+Thanks,
+Andrea Glenn,
+Administration
+
+
+Database Deletion:
+http://xsswb.dr3amy.net/deletion.asp

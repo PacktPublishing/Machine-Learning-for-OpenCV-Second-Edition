@@ -1,0 +1,47 @@
+Return-Path: <mantissa_stacy7570@rgid.net>
+Received: (fqmail 15216 invoked from network); 31 Aug 2004 04:03:25 -0000
+Received: from mx05.futurequest.net (mx05.futurequest.net [69.5.6.176])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 31 Aug 2004 04:03:25 -0000
+Received: (qmail 19328 invoked from network); 31 Aug 2004 04:03:23 -0000
+Received: from 69.5.6.176 ([220.170.37.176])
+  by mx05.futurequest.net ([69.5.6.176])
+  with SMTP via TCP; 31 Aug 2004 04:03:23 -0000
+Received: from posit4rotorannum (92.54.513.34) by mail6772.220.170.37.176 (gnarlsome QR 1.1.290)
+        id 022BJ15FV86WB3015 for bugs@ezmlm.org; Tue, 31 Aug 2004 03:01:03 -0100
+X-MIME-Autoconverted: Yes
+Disclose-Recipients: No
+Discarded-X400-MTS-Extensions: Yes
+Alternate-Recipient: Allowed
+X-No-Archive: Yes
+Reply-To: "Parker Lilly" <mantissa_stacy7570@rgid.net>
+From: "Parker Lilly" <mantissa_stacy7570@rgid.net>
+To: bugs@ezmlm.org
+Cc: webmaster@ezmlm.org
+Subject: Important Information about your house
+Date: Tue, 31 Aug 2004 08:07:03 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--329051828546341"
+
+----329051828546341
+Content-Type: text/html;
+	charset="iso-3388-4"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Your [m]ortgage application was received yesterday and approved.<br>
+You are eligible for a $700,000 loan and a 2.6% fixed rate. <p>
+
+Please complete the form to process your application:<br>
+<a href="http://lendingfor.com/?partid=aaks9">http://lendingfor.com/?partid=aaks9</a><p>
+Regards,<br>
+Mollison Networks<p> 
+<br>
+<br>
+<br>
+<a Href="http://lendingfor.com/st.html">not interested</a>
+
+</html>
+
+----329051828546341--

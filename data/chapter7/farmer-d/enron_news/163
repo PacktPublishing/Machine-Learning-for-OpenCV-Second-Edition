@@ -1,0 +1,54 @@
+Message-ID: <17572864.1075854301067.JavaMail.evans@thyme>
+Date: Fri, 12 Jan 2001 12:07:00 -0800 (PST)
+From: david.forster@enron.com
+To: eol.traders@enron.com, eol.traders@enron.com
+Subject: New Stack Manager
+Cc: product.london@enron.com, product.houston@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: product.london@enron.com, product.houston@enron.com
+X-From: David Forster
+X-To: EOL North America Traders, EOL Non North America Traders
+X-cc: Product Control - London, Product Control - Houston
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+There is a new version of Stack Manager which is being released this evening, 
+for use on Monday morning.
+
+Changes
+
+1) "Inactivate Suspended Children" - New menu item available by 
+right-clicking on a Parent Product. It will change all Child Products of the 
+highlighted parent from "Suspended" to "Inactive". Note that this will be 
+applied only to the product which you highlight. It will also show available 
+when highlighting Products which are not Parents, but it will have no effect.
+
+2) The transaction list has been amended to correctly display only those 
+transactions completed on the calendar day (problem has affected Australia 
+and Singapore).
+
+3) A Constant Spread which is changed from the front page of the Stack 
+Manager will stay as changed for that Product. The spread will persist even 
+if transactions occur.
+
+
+Background
+
+Suspended Child Products continue to have their prices updated as the price 
+of the Parent changes. Inactive Child Products do not have their prices 
+updated. The price update process slows down EnronOnline processing and Stack 
+Manager response, so it is advantageous to ensure all non-active Products are 
+in an Inactive state. 
+
+If you have any questions on the above, please contact the EnronOnline call 
+center at:
+
+North America: 713 853 4357 (HELP)
+Asia and Australia: +61 2 9229 2300
+Europe and Other Regions: +44 (0) 20 7783 7783
+
+
+Dave

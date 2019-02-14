@@ -1,0 +1,34 @@
+Message-ID: <18133999.1075856594373.JavaMail.evans@thyme>
+Date: Fri, 6 Apr 2001 09:37:00 -0700 (PDT)
+From: alex.huang@enron.com
+To: vince.kaminski@enron.com, tom.halliburton@enron.com
+Subject: Free Latex
+Cc: vkaminski@aol.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkaminski@aol.com
+X-From: Alex Huang
+X-To: Vince J Kaminski, Tom Halliburton
+X-cc: vkaminski@aol.com
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Go to http://www.winedt.com/, select downloads, and download  WinEdt5 to your 
+C drive. 
+On bottom of  the same page (download),  click on MiKTeX's Home Page,
+click on MiKTeX 2.0, and download all the highlighted zip files.  You may also
+want to download miktex-2.0-manual.pdf.
+You can then unzip all the files and follow the steps outlined in 
+miktex-2.0-manual.pdf to 
+install WinEdt and MiKTex.  However, the procedure to "Add MikTex bin 
+directory to PATH"
+may not work. It's best to manually add the following to your path:
+C:\texmf\miktex\bin;
+
+This software is quite easy to use and very versatile. You can even include
+colored picture in your tex document. 
+
+Best,
+Alex

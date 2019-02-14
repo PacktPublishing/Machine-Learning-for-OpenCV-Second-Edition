@@ -1,0 +1,85 @@
+Message-ID: <32213604.1075856602689.JavaMail.evans@thyme>
+Date: Mon, 2 Apr 2001 03:47:00 -0700 (PDT)
+From: jay.hawthorn@enron.com
+To: jim.fallon@enron.com, paul.racicot@enron.com, greg.woulfe@enron.com
+Subject: MIT Research on Bandwidth Pricing
+Cc: vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Jay Hawthorn
+X-To: Jim Fallon, Paul Racicot, Greg Woulfe
+X-cc: Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Gentlemen:
+
+Amit is a former MIT Sloan student whose research was sponsored by a program 
+set up by Tom Gros to learn more about bandwidth pricing and market effects.  
+We worked with him quite a bit for a while, as did Vince Kaminski and Stinson 
+Gibner, on this project.  Well, he has finally graduated and is in the 
+process of having his thesis published.  He has offered to come down to 
+present his findings to anyone interested, so I am inquiring as to your level 
+of interest in order to schedule a meeting, if appropriate.
+
+Below is a short description of his work.  Please let me know your thoughts 
+and if you have any questions.
+
+Thanks, Jay.
+--
+James F. Hawthorn
+Enron Broadband Services
+Global Bandwidth Risk Management
++1 713 853 7606 Telephone
++1 713 646 8795 Facsimile
+<mailto:jay_hawthorn@enron.net>
+
+----- Forwarded by Jay Hawthorn/Enron Communications on 03/29/01 09:15 AM 
+-----
+
+	adhadwal@mit.edu
+	03/20/01 03:50 PM
+		 
+		 To: Jay Hawthorn/Enron Communications@Enron Communications, adhadwal@mit.edu
+		 cc: 
+		 Subject: 
+
+
+
+Hi Jay,
+
+As per our discussion this morning, will be terrific to come on down to talk 
+about the results of my Thesis related to pricing & risk management of 
+forward contracts on bandwidths.  Thanks to the support from Enron for this 
+work !
+
+
+Here's a brief description.
+
+
+We addressed the problem of pricing and risk managment of forward contracts 
+on bandwidth under uncertain future available supply.  This exposes the 
+seller to both the risk of perishability as well as the risk of 
+overcommitments.  We consider a variety of selling strategies to map 
+commitment risk, and show how forward pricing varies over time under these 
+strategies. The managerial insights into dynamic forward pricing are neat !  
+Have several graphs from simulations, and several math proofs.
+
+There are two technical pricing papers from this thesis, now submitted for 
+publication.  It will be great to share this knowledge with Enron, thanks to 
+your support for the work, and also discuss how the results may be mapped 
+with real-life, possible modifications, and finally how they may be 
+programmed and used.
+
+Let me know your thoughts and interest level - maybe someone from Vince's 
+group as well ?  I can make the talk as technical as you want, depending on 
+the audience. At its core, it is Math-heavy, but the insights can easily be 
+translated to a high-managerial level view, a more detailed trader-level 
+view, or a super-detailed research level view.
+
+Cheers,
+
+-Amit

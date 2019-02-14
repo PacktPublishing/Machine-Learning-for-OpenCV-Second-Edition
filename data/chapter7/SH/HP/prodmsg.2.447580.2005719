@@ -1,0 +1,22 @@
+Received: from mailhost.sud-containers.fr (HELO mailhost) (81.80.89.5)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:13 -0000
+From: Mail Delivery Subsystem <postmaster@mailhost>
+To: <projecthoneypot@projecthoneypot.org>
+Date: Tue, 19 Jul 2005 13:00:11 +0200
+Subject: Mail message detected as spam
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+
+This is an informative message sent by Kerio MailServer 6.0.6 at mailhost.
+
+Your mail message did not pass the server spam filter.
+
+The message headers follow:
+
+  From: <projecthoneypot@projecthoneypot.org>
+  To: <philippe@sud-info.net>
+  Subject: Just to her...
+  Date: Tue, 19 Jul 2005 10:57:46 +0000
+
+

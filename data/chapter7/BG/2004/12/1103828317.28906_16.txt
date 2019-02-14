@@ -1,0 +1,22 @@
+Return-Path: <jamesbs@rr.com>
+Delivered-To: em-ca-bruceg-spam@em.ca
+Received: (qmail 11140 invoked by uid 700); 23 Dec 2004 15:59:54 -0000
+Delivered-To: em-ca-em-ca-bruceg@em.ca
+Received: (qmail 11135 invoked by uid 115); 23 Dec 2004 15:59:54 -0000
+Received: from jamesbs@rr.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(222.38.143.199):. 
+ Processed in 1.081035 secs); 23 Dec 2004 15:59:54 -0000
+Received: from unknown (HELO rr.com) (222.38.143.199)
+  by churchill.factcomp.com with SMTP; 23 Dec 2004 15:59:51 -0000
+From: "James" <jameszr@rr.com>
+To: <em-ca-bruceg@em.ca>
+Subject: 
+Date: Thu, 23 Dec 2004 11:03:14 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Qmail-Scanner-Message-ID: <110381759367211128@churchill>
+Content-Length: 36
+Lines: 3
+
+Want a Watch?
+http://taa.nepel.com

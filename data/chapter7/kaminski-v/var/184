@@ -1,0 +1,63 @@
+Message-ID: <3584545.1075857080228.JavaMail.evans@thyme>
+Date: Thu, 1 Jun 2000 03:21:00 -0700 (PDT)
+From: john.arnold@enron.com
+To: vince.kaminski@enron.com
+Subject: Re: VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Arnold
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Let's meet at 4:00.
+
+
+
+
+Vince J Kaminski
+06/01/2000 09:19 AM
+To: John Arnold/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Tanya Tamarchenko/HOU/ECT@ECT, Jim 
+Schwieger/HOU/ECT@ECT, Jeffrey A Shankman/HOU/ECT@ECT 
+Subject: VaR
+
+John,
+
+We have  been working for the last few days on VaR related issues.
+The focus is on Jim Schwieger's  storage book as of 5/25 and 5/26
+where we had some counterintuitive results. This book is a good
+candidate for a systematic review of the VaR process.
+
+It seems that the problem arises from forward - forward vols used by the VaR 
+system. You can see in the attached spreadsheet that the VaR, on a cumulative 
+basis,
+jumps on Jan 04, when an abnormal FF vol hits a relatively large position.
+This FF vol is also much different from the previous day number producing a 
+big
+jump in VaR.
+This row (Jan 04) is in magenta font in the attached spreadsheet. Please, look
+at column D.
+
+The abnormal FF vol may result from one of the two factors:
+
+ a. a bug in the code. We are working with the person in IT who wrote the
+                     code to review it.
+
+ b. a poorly conditioned forward vol curve ( a kink or discontinuity in
+                    the fwd vol curve will do it). One solution I can 
+propose, is to develop for
+                    the traders a fwd-fwd vol generator  allowing them to 
+review the fwd vol curve
+                    before it is posted. If it produces a weird fwd-fwd vol,  
+it can be smoothed.
+
+Can you meet at 4 p.m. to review our findings?
+
+
+Vince
+
+

@@ -1,0 +1,90 @@
+Return-Path: <slgllz@hotmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17444 invoked by uid 115); 10 Aug 2004 01:09:21 -0000
+Received: from slgllz@hotmail.com by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(203.162.121.29):. 
+ Processed in 18.124223 secs); 10 Aug 2004 01:09:21 -0000
+Received: from unknown (HELO 209.5.178.248) (203.162.121.29)
+  by churchill.factcomp.com with SMTP; 10 Aug 2004 01:09:02 -0000
+X-Message-Info: IBGSrVB64sEHpDz535w2+BEUYy4vPZKD
+Received: from mail800.nmh.optusnet.com.au ([129.208.217.145]) by eu73-s0.hotmail.com with Microsoft SMTPSVC(5.0.2195.6824);
+	 Tue, 10 Aug 2004 05:01:26 +0300
+Received: from RJWT86 (y23.159.150.60.dxlrd4.fmn.optusnet.com.au [3.194.29.170])
+	by mail696.lyh.optusnet.com.au (39.59.1o0/4.79.1) with SMTP id g7N14Jr33800;
+	Mon, 09 Aug 2004 21:00:26 -0500
+Message-ID: <51a245s1yb5c$rx0o10l4$hb1809x5@VEXM34>
+From: "Doyle Berger" <slgllz@hotmail.com>
+To: "Bob.smith" <bob.smith@em.ca>
+References: <Law5-Z48HvmdUeqeC7I168536j6@hotmail.com>
+Subject: 3.jpg
+Date: Tue, 10 Aug 2004 01:01:26 -0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--030698262698561"
+
+----030698262698561
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Joke of the day</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#000000">
+<div align=3D"center"><a href=3D"http://damngreatwebsites1.com/98615/full.=
+html"><img src=3D"http://damngreatwebsites1.com/98615/2.jpg" width=3D"400"=
+ height=3D"331" border=3D"0"></a><br>
+  <font color=3D"#FFFFFF"><br>
+  <br>
+  <br>
+  <font face=3D"Geneva, Arial, Helvetica, sans-serif"><br>
+  <strong><br>
+  Joke Of The Day </strong><br>
+  A blonde went to the appliance store sale and found a bargain. &quot;I w=
+ould 
+  like to buy this TV,&quot; she told the salesman. &quot;Sorry, we don't =
+sell 
+  to blondes,&quot; he replied. <br>
+  She hurried home and dyed her hair, then came back and again told the sa=
+lesman, 
+  &quot;I would like to buy this TV.&quot; &quot;Sorry, we don't sell to b=
+londes,&quot; 
+  he replied. 
+  <p>&quot;Darn, he recognized me,&quot; she thought. She went for a compl=
+ete 
+    disguise this time; haircut and new color, new outfit, big sunglasses,=
+ then 
+    waited a few days before she again approached the salesman. &quot;I wo=
+uld 
+    like to buy this TV.&quot; </p>
+  <p>&quot;Sorry, we don't sell to blondes,&quot; he replied. Frustrated, =
+she 
+    exclaimed, &quot;How do you know I'm a blonde?&quot; &quot;Because tha=
+t's 
+    a microwave,&quot; he replied. <br>
+  </p>
+  </font></font> 
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p><font color=3D"#FFFFFF"><a href=3D"http://damngreatwebsites1.com/9861=
+5/remove.php">TAKE 
+    ME DOWN</a><br>
+    </font> </p>
+</div>
+</body>
+</html>
+
+
+----030698262698561--
+

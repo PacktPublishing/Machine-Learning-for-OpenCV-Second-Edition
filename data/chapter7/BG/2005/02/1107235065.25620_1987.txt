@@ -1,0 +1,42 @@
+Return-Path: <vzhwn@yahoo.com>
+Delivered-To: em-ca-bait-proverbs@em.ca
+Received: (qmail 9152 invoked by uid 115); 31 Jan 2005 05:46:24 -0000
+Received: from vzhwn@yahoo.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(200.61.188.138):. 
+ Processed in 0.118738 secs); 31 Jan 2005 05:46:24 -0000
+Received: from customer200-138.iplannetworks.net (200.61.188.138)
+  by churchill.factcomp.com with SMTP; 31 Jan 2005 05:46:22 -0000
+Received: from yahoo.com ([%LIST_IP]) by %ONE_DNS_NAME
+          (InterMail vK.4.04.00.00 284-335-664 license %LICENSE)
+          with ESMTP id <14093480115797.WDSY156.@yahoo.com>
+          for <bait-baseline@em.ca>; Mon, 31 Jan 2005 08:44:49 +0300
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 31 Jan 2005 09:37:49 +0400
+Received: from %LIST_IP by ..hotmail.msn.com with HTTP;
+	Mon, 31 Jan 2005 06:42:49 +0100 GMT
+X-Originating-IP: [%LIST_IP]
+X-Originating-Email: [@yahoo.com]
+From: "Taylor Buckley" <vzhwn@yahoo.com>
+To: bait-baseline@em.ca
+Bcc: 
+Subject: Message subject
+Date: Mon, 31 Jan 2005 06:40:49 +0100
+Mime-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <%MESSAGEID_1@hotmail.com>
+X-OriginalArrivalTime: Mon, 31 Jan 2005 06:42:49 +0100 (UTC) FILETIME=[6Y7WLL00:02B33468]
+
+<CENTER><A HREF=3D"http://.caymanwalls.com/575r.html"><img src=3D"http://.=
+caymanwalls.com/image/9.jpg"></A></CENTER>
+<BR><BR><BR><BR>
+<CENTER><A HREF=3D"http://.caymanwalls.com/nothanks.php">Goodbye</A></CENT=
+ER>
+<BR><BR><BR><BR>
+
+=20=20=20  
+=20=20=20  
+=20=20=20  
+=20=20=20  
+=20

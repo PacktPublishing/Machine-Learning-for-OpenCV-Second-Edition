@@ -1,0 +1,67 @@
+Message-ID: <731460.1075854135586.JavaMail.evans@thyme>
+Date: Tue, 18 Jul 2000 06:56:00 -0700 (PDT)
+From: thomas.engel@enron.com
+To: stacey.neuweiler@enron.com
+Subject: PARKING
+Cc: kimberly.olinger@enron.com, daren.farmer@enron.com, david.baumbach@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kimberly.olinger@enron.com, daren.farmer@enron.com, david.baumbach@enron.com
+X-From: Thomas Engel
+X-To: Stacey Neuweiler
+X-cc: Kimberly S Olinger, Daren J Farmer, David Baumbach
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+For prior periods - I am not sure if you need to handle this using the 
+instructions below - or if for prior months ONLY - if  you would be allowed 
+to create a 
+cashout ticket to clear out any prior period imbalances.   Your controller 
+and volume management (Kathy Kelly) should make this call.
+
+Kim and David can brain check me on this - but I think this is how parking 
+should be done; however,
+please verify with West or East desk economics to ensure accuracy/consistency.
+
+PARKING PROCEDURES
+
+Create a Storage deal in SITARA - Service Type: Parking  
+Use this service deal to path to a storage account in UNIFY - this way you 
+have accounted for the gas in UNIFY
+Inject into storage account
+Withdrawal from storage account
+
+(When you do the opposite of parking - withdrawal first - it is called a 
+"loan") 
+
+Create two economic deals in SITARA - Exchange deal
+Create an internal buy and sell of physical gas for economics and position 
+purposes - (no invoices - fake 3rd party) 
+Exchange deal - 
+Sell to CPR Pipeline Exchange (parking gas)
+Buy from CPR Pipeline Exchange (getting gas back)
+
+Within the month parking - no money exchanges hands - except any service fees 
+which can be recorded on the Storage deal.
+Sell to CPR Pipeline Exchange (parking gas) -   Price = $0
+Buy from CPR Pipeline Exchange (getting gas back) Price = $0
+
+When the deal crosses a month - if you keep the risk within the desk - in the 
+short term you record a big loss - sell at $0 - and the 
+next month you record a big gain - buy at $0.   To manage this - usually the 
+cash desk swaps out the time risk to a storage financial book - who will pick 
+up the time 
+spread loss and offsetting gain - as this book captures forward value.     
+When you are adjusting your physical injections (parking) within the month - 
+you will need to
+adjust your swaps too - which will adjust the P&L for the time spread 
+accordingly - otherwise you will have liquidation problems.
+
+Period 1 - Sell to CPR Pipeline Exchange (parking gas) -   Price = $0   Swap 
+to firm book for Index + mid
+Period 2 - Buy from CPR Pipeline Exchange (getting gas back) Price = $0   
+Swap to firm book for Index + mid 
+
+

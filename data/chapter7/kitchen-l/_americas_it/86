@@ -1,0 +1,69 @@
+Message-ID: <20890905.1075840861727.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 09:34:04 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, mark.pickering@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV weekly project status report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Pickering, Mark </O=ENRON/OU=EU/cn=Recipients/cn=mpicker>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the weekly project status update of GTV and the attached file for the updated project timeline. Changes were underlined.
+
+GTV status meeting attendees:  Zhiyong Wei, Jeremy Wong, Nayan Dattani, Bill Fortney, Karima Husain, Chuck Ames, Geoff Storey, Jay Krish, Jeff Gossett, Russ Severson.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes for the view aggregation have been completed.
+o	Expandable Total in Cash Position has been completed.
+?	Single point of deal entry for term deals:
+o	Released to production.
+?	Gas Daily deals:
+o	Released to production.
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production.
+?	Saving different views in TDS:
+o	Completed.
+?	Capability for desk roll-ups on an ad hoc basis (phase 2, on hold since 7/9/01):
+o	New process for roll-up aggregators has been completed.
+?	Option Grid (phase 2):
+o	Released to production.
+?	Gas Daily options (phase 2):
+o	Released to production.
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options has been completed in TAGG.
+o	Development of loading correlation curves has been completed.
+o	Changes to the Translator have been completed.
+?	Transport Deal Capture & Valuation (phase 2):
+o	Creation of new deal entry type & database changes has been completed.
+o	Changes to the Translator have been completed.
+
+Plans for the week ending 7/27/01:
+?	Continue IT development of Phase I items.
+o	User acceptance test of physical deal positions in TDS.
+?	Continue IT development of Phase II issues.
+o	Change PortCalc to value spread options.
+o	Option reports (PL reports).
+?	New flexible deal viewer.
+o	Database schema design.
+o	GUI development.
+?	Add more information to the drill-down deal details.
+o	Continue development.
+
+Issues:
+None
+
+Notes
+?	The Calgary office is not able to use the new GDI calc for their Gas Daily books due to their current curve structure. New indexes were suggested for the GDI calc for Canadian Gas Daily books.
+
+ 
+
+Thanks
+
+Zhiyong

@@ -1,0 +1,88 @@
+Message-ID: <27407278.1075863310011.JavaMail.evans@thyme>
+Date: Tue, 17 Jul 2001 16:22:40 -0700 (PDT)
+From: cara.semperger@enron.com
+To: corry.bentley@enron.com, david.poston@enron.com, will.smith@enron.com, 
+	vishwanatha.venkataswami@enron.com
+Subject: Preschedule Workspace Testing-June 21 target date
+Cc: bill.williams@enron.com, diane.cutsforth@enron.com, lisa.gang@enron.com, 
+	donald.robinson@enron.com, stacy.runswick@enron.com, 
+	susie.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.williams@enron.com, diane.cutsforth@enron.com, lisa.gang@enron.com, 
+	donald.robinson@enron.com, stacy.runswick@enron.com, 
+	susie.wilson@enron.com
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Bentley, Corry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbentle>, Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dposton2>, Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith>, Venkataswami, Vishwanatha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vvenkata>
+X-cc: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Cutsforth, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcutsfor>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Drobins>, Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Srunswic>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson7>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Afternoon:
+
+I have created PSW documents for all 4 of my regions for June 21, here are my findings today:
+
+In PreSchedule Workspace:
+
+What worked:
+I was still able to successfully copy and paste large amounts of excel data into the PSW.
+I was able to query build route successfully for each delivery point I needed.
+I was able to change the color of text and fonts at will.
+When running the Confirm function:
+I was able to print the error log, which was helpful when I had to fix a few counterparty errors.
+The routing speed was still very good.
+
+What needs improvement:
+The run time for the Confirm function is still far too slow to be useful in production. The rockies sheet alone took 2 hours to upload, the Mid C sheet took over two hours. I have not been able to populate the full data set because of this speed issue. I will continue uploading today, and try tomorrow to look at the full data set in confirm. I could not import the Palo Verde sheet in to confirm. I got this error message :ERROR:Access violation at address 004ED7E3 in module 'PreSchedWS.exe'. Read of address 00000000.
+We need the ability to check for errors before running the sheet, I used another half hour fixing the errors and re-running the sheet.
+A spot check of routing shows that the routes are still not showing the appropriate flag for physical vs non-physical. Everything shows non-physical.
+Routing still did not happen on the Northwest Delivered deals that were moved in scheduling to multiple delivery points.
+
+Question: Will the sheet support the capability of our transmission legs showing up where the E is now?  the weakness with having the path show from transmission 1, 2, etc, is it does not give the POR/POD or the firmness of the transmission.  
+( The way a path should look is like this: SRP@PV-E-APS(T)PV/WW O#23305 F-WALC(T)WW/MEAD O#464521 MNF-EPMI-NEVP,  the way this same path would show if put in to the sheet as it is now will be :  SRP@PV-E-APS(23305)-WALC(464521)-NEVP.  This is incomplete information.)
+
+OR, would it be possible to modify the sheet to accept the following information in the Trans and Oasis number cells? Instead of APS,  put APS(T)PV/WW and in the OASIS cell put 23305 F.
+
+
+In Path Confirmation:
+
+What worked:
+I was able to choose and reset colors that help me read the information better.
+The speed to pull up an individual path is MUCH BETTER.
+I was able to select a group of paths in the line view and attempt to confirm them. The save takes too long, but it worked.
+
+
+What still needs work:
+I still cannot sort by Global ID or Tag number. Would a different tag logic work, instead of "PWX Tag 123"  show "123 (PWX TAG)?" Some marketers use letters for tags.
+The cell with the path in the expanded view must auto-size to contain all of the path.
+The program needs to insert a dash in the path when each cell boundary is passed.Upstream-Supply-E-Trans-Trans-Trans-Market-Downstream.Right now some run together. 
+The path cut needs work, it is cumbersome, unclear on some entry requirements, and does not seem to recognize any number I put in it. This app seems like guess-work.
+
+New path needs work as well.  
+	The POR and POD needs to be a type and complete field( like in build route selection) not a first letter drop down list.
+	The Counterparty list is just too confusing and cumbersome to be practical. It should mimic the deal entry list.
+	The new record should be three tiered.  Supply first, then market,(both mandatory entry), then transmission as an optional third. To allow a Supply without a Market 	record is going to create many problems.
+	How are these new records going to be routed?
+	Also, our original intent was that the new path and path cut would drive deal entry, not deal entry being done and then numbers populated into Path Cut.
+
+
+
+
+I will continue testing tomorrow, the hotspots I see now are the upload speed to Path confirmation, and a close look at how we need the Path Cut and New Path to work.
+
+
+We are getting there, I am very encouraged!
+
+Cara 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+Return-Path: <B1234555@freemail.soim.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 32547 invoked by uid 115); 14 Mar 2005 19:53:34 -0000
+Received: from B1234555@freemail.soim.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.6.23.197):. 
+ Processed in 1.489523 secs); 14 Mar 2005 19:53:34 -0000
+Received: from unknown (HELO freemail.soim.com) (218.6.23.197)
+  by churchill.factcomp.com with SMTP; 14 Mar 2005 19:53:31 -0000
+From: "Lisa" <B1234555@freemail.soim.com>
+To: <bruceg@em.ca>
+Subject: Marketing for you
+Sender: "Lisa" <B1234555@freemail.soim.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Date: Tue, 15 Mar 2005 04:00:23 +0800
+Reply-To: "Lisa" <Sales@30600.com>
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <111083001367232530@churchill>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><br>
+Stable offshore resources to&nbsp;promote your services/products:</span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><b>
+-&nbsp; E-mail list </b></span></font><b><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"> according to your
+order<br>
+-&nbsp;
+Send emailing according to your
+order<br>
+</span></font></b><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+<br>
+<b>-&nbsp; Direct Mail Server (Cheap!)<br>
+-&nbsp; Offshore web Hosting</b></span></font></p>
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><a href="http://www.cometomarketing.com">More 
+Information</a></span></font></p>
+
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span style="font-family: Arial; font-size: 10pt">Waiting for your prompt confirmation.</span></font></p>
+
+<p style="MARGIN-LEFT: 0.5in">Please kindly reply to&nbsp;<font face="Arial" size="2"><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt"><a href="mailto:marketingtoyou@126.com;marketingtoyou@tom.com"><br>
+Marketingtoyou@126.com<br>
+</a><br>
+<br>
+Lisa<br>
+Sales Dept<a href="mailto:marketingtoyou@126.com;marketingtoyou@tom.com"><br>
+</a><a href="mailto:marketingtoyour@126.com;marketingtoyou@tom.com"><br>
+</a><br>
+****************************************************************************************<br>
+No Again:<a href="mailto:La@yahoo.com?subject=take-off">La@Hotmail.com?subject=bruceg@em.ca</a><br>
+****************************************************************************************</span></font></p>
+
+</body>
+
+</html>

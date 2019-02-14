@@ -1,0 +1,63 @@
+Message-ID: <13983715.1075855929570.JavaMail.evans@thyme>
+Date: Wed, 2 Aug 2000 07:45:00 -0700 (PDT)
+From: tommy.yanowski@enron.com
+To: brenda.herod@enron.com, edward.gottlob@enron.com, brent.price@enron.com, 
+	sally.beck@enron.com
+Subject: Unify Performance Issues are Priority Number One
+Cc: brian.redmond@enron.com, beth.perlman@enron.com, jeff.johnson@enron.com, 
+	heather.johnson@enron.com, john.lavorato@enron.com, 
+	philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brian.redmond@enron.com, beth.perlman@enron.com, jeff.johnson@enron.com, 
+	heather.johnson@enron.com, john.lavorato@enron.com, 
+	philippe.bibi@enron.com
+X-From: Tommy J Yanowski
+X-To: Brenda Herod, Edward D Gottlob, Brent A Price, Sally Beck
+X-cc: Brian Redmond, Beth Perlman, Jeff Johnson, Heather A Johnson, John J Lavorato, Philippe Bibi
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Most of you are aware that Unify experienced some major performance issues as 
+we tried to close out the month of July.  Not to go into any details but 
+there seemed to be a lot of smaller issues which when combined caused the 
+issues we saw on Monday and to a lesser degree on Tuesday.  Almost all of the 
+issues relate to the quirkiness of the current version of Sybase which is 
+used for Unify's database.  Jeff Johnson and his team are putting together a 
+plan that will address most of these issues and hopefully result in 
+acceptable performance as we go through next bidweek and try to close for 
+August.  The short term tactical plans include the following:
+
+Enhancing certain programs which seem to have become resource hogs as the 
+amount of data grows.
+Test and hopefully migrate to the latest version of Sybase which will address 
+some of the issues.  This may also require some hardware changes as to where 
+we store certain data.  We will also need some user help in stress testing 
+prior to moving to production.
+Addressing with the users billing transactions that have never been finaled.  
+I have been told that we still have transactions going back to Jan of 99 that 
+have not been finaled or closed out.  This puts quite a load on the PMA and 
+accrual process since it has to go back to those open transactions to see 
+what if any action should be taken with these transactions.
+
+Once these changes have been implemented and hopefully bought us a little 
+time to absorb the tremendous growth we've been seeing via EOL  then we will 
+focus on delivering more intermediate and longer term solutions.  These 
+include the following:
+
+Rewriting most of the code and moving to a 3 tier environment which will be 
+much more scalable.
+Moving off of Sybase and on to Microsoft SQL Server or Oracle.  It will be 
+easier to move Microsoft SQL Server but we have to be sure it is the right 
+solution in the long term.
+
+Jeff will be following up with some of you to go over a much more detailed 
+plan.  Needless to say that this is his groups highest priority and his best 
+people are working on these efforts.  This will slow down major enhancement 
+efforts such as enhancing the gas applications to handle hourly trades and 
+nominations.  We will keep you informed as we start to roll out the tactical 
+solutions.  In the mean time feel free to contact me at x-36858 or Jeff at 
+x-39694 if you have any questions or require additional detail.  Thanks!  -  
+Tommy

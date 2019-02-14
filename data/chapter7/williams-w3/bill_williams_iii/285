@@ -1,0 +1,35 @@
+Message-ID: <31105254.1075863301855.JavaMail.evans@thyme>
+Date: Tue, 14 Aug 2001 11:13:22 -0700 (PDT)
+From: kate.symes@enron.com
+To: bill.williams@enron.com
+Subject: A few reminders....
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSYMES>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Bill - does this sound reasonable? Do you have anything to add?
+
+
+Please make a note of the following. I know we have several new traders, and details often get overlooked in the midst of the learning process. But this is not only information for the new guys a reminder for the old that attention to detail is an important part of the job. Thanks.
+
+1. Purchases made under one book must be sold under the same book. Pay attention when extending deals. If you don't purchase the energy in a particular book, you don't have energy to sell from that book.
+
+2. Specify EPEC as the group when entering deals for El Paso.
+
+3. El Paso model must tie out with CARP when trading day is done. Check spreadsheet formulas. 
+
+4. El Paso totals should be logged in the reconciliation model (m://electric/epe/epe01/aug01/epe reconciliation model) and all variances explained.
+
+5. Bloomberg deals need to be assigned a $15 FLAT broker fee per trade. If you begin a deal with Bloomberg trades, enter a per-megawatt fee, and extend the deal later with bilateral trades, you're effectively charging yourself extra brokerage because THAT FEE WILL BE ASSIGNED TO EVERY MW IN YOUR DEAL. Can someone come up with a compelling reason why we wouldn't simply multiply $15 times the number of Bloomberg trades done? Please let me know.
+
+6. Most importantly, if you are unsure, call someone who is.
+
+Thanks again for your attention to these matters.
+
+Kate

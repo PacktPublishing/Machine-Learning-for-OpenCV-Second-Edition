@@ -1,0 +1,36 @@
+Message-ID: <7234318.1075856592805.JavaMail.evans@thyme>
+Date: Wed, 23 Aug 2000 02:54:00 -0700 (PDT)
+From: stinson.gibner@enron.com
+To: allan.severude@enron.com
+Subject: Improving option valuation precision in ERMS
+Cc: vince.kaminski@enron.com, paulo.issler@enron.com, eric.moon@enron.com, 
+	ed.mcmichael@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, paulo.issler@enron.com, eric.moon@enron.com, 
+	ed.mcmichael@enron.com, zimin.lu@enron.com
+X-From: Stinson Gibner
+X-To: Allan Severude
+X-cc: Vince J Kaminski, Paulo Issler, Eric Moon, Ed McMichael, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Allan,
+
+Paulo Issler in our group, working with Eric Moon in structuring, recently 
+tracked down the reason for a slight mis-match in option pricing in ERMS vs. 
+the structuring spreadsheets.  It is due to the fact that the option 
+valuation functions in ERMS use a slightly less accurate approximation for 
+the cumulative normal distribution.  We would be happy to work with the right 
+person to update the ERMS code in order to close this discrepancy.   Please 
+let me know how you would like to proceed.
+
+If you are not the correct person to address the mainenance of ERMS, please 
+let me know who to contact.
+
+Thank you,
+
+Stinson Gibner
+x34748

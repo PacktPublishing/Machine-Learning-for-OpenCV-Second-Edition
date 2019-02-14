@@ -1,0 +1,50 @@
+Message-ID: <31630873.1075856642718.JavaMail.evans@thyme>
+Date: Wed, 26 Jul 2000 10:34:00 -0700 (PDT)
+From: anjam.ahmad@enron.com
+To: vince.kaminski@enron.com
+Subject: Update on MG VaR Model
+Cc: grant.masson@enron.com, kirstee.hewitt@enron.com, 
+	cantekin.dincerler@enron.com, dale.surbey@enron.com, 
+	andreas.barschkis@mgusa.com, tanya.tamarchenko@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: grant.masson@enron.com, kirstee.hewitt@enron.com, 
+	cantekin.dincerler@enron.com, dale.surbey@enron.com, 
+	andreas.barschkis@mgusa.com, tanya.tamarchenko@enron.com
+X-From: Anjam Ahmad
+X-To: Vince J Kaminski
+X-cc: Grant Masson, Kirstee Hewitt, Cantekin Dincerler, Dale Surbey, Andreas.Barschkis@mgusa.com @ ENRON, Tanya Tamarchenko
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Vince,
+
+Thanks for the e-mail.  We have included live links to price curves through 
+Reuters quotes via Telerate Bridge but we still have static curves for gold 
+and cocoa.  Kirstee is talking to Andreas in NY to obtain position files on a 
+daily basis, addressing point 2) in your e-mail, as well as looking into 
+longer term integration issues.  Cantekin and I have agreed the correct 
+correlations for the metals between us, but Cantekin is currently checking 
+the correlations for silver and gold.  Preliminary results based on positions 
+as of 19th July are as follows:
+
+
+
+We noticed that position mapping at the front months can change VaR 
+significantly.
+
+As you stated, Kirstee Hewitt will now be assuming responsibility for further 
+modifications to the model on the London side and to this end I have ensured 
+that Kirstee is put in touch with key personnel like Andreas (Andreas will be 
+in the London office next week) and has access to all the information she 
+needs.
+
+Regards,
+
+Anjam Ahmad
+Research
+x35383
+
+SPREADSHEET:

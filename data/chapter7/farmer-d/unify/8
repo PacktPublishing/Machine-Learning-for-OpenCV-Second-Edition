@@ -1,0 +1,146 @@
+Message-ID: <24808259.1075840440689.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 14:56:18 -0700 (PDT)
+From: lisa.kinsey@enron.com
+To: richard.pinion@enron.com, matt.pena@enron.com
+Subject: RE: Path Manager Rewrite / Optimization project
+Cc: john.warner@enron.com, brian.ripley@enron.com, romeo.d'souza@enron.com, 
+	ramesh.rao@enron.com, victor.lamadrid@enron.com, 
+	mary.sullivan@enron.com, patti.sullivan@enron.com, 
+	kevin.heal@enron.com, theresa.staab@enron.com, j..farmer@enron.com, 
+	tammy.jaquet@enron.com, robert.superty@enron.com, 
+	kathryn.bussell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: john.warner@enron.com, brian.ripley@enron.com, romeo.d'souza@enron.com, 
+	ramesh.rao@enron.com, victor.lamadrid@enron.com, 
+	mary.sullivan@enron.com, patti.sullivan@enron.com, 
+	kevin.heal@enron.com, theresa.staab@enron.com, j..farmer@enron.com, 
+	tammy.jaquet@enron.com, robert.superty@enron.com, 
+	kathryn.bussell@enron.com
+X-From: Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LKINSEY>
+X-To: Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>
+X-cc: Warner, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Ripley, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bripley>, D'Souza, Romeo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdsouza>, Rao, Ramesh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rrao>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Sullivan, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=191a6ff2-e84592c0-86256604-648eec>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbussel>
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+My comments are in fuschia.
+Lisa
+
+ -----Original Message-----
+From: =09Pinion, Richard =20
+Sent:=09Wednesday, October 10, 2001 2:35 PM
+To:=09Pena, Matt
+Cc:=09Warner, John; Ripley, Brian; D'Souza, Romeo; Rao, Ramesh; Kinsey, Lis=
+a; Lamadrid, Victor; Sullivan, Mary; Sullivan, Patti; Heal, Kevin; Staab, T=
+heresa; Farmer, Daren J.; Jaquet, Tammy; Superty, Robert; Bussell l, Kathry=
+n
+Subject:=09RE: Path Manager Rewrite / Optimization project
+
+Following are my comments.  The managers cc'd might have some additional th=
+oughts.
+
+ -----Original Message-----
+From: =09Pena, Matt =20
+Sent:=09Monday, October 08, 2001 4:26 PM
+To:=09Pinion, Richard; Jaquet, Tammy; Superty, Robert; Pena, Matt
+Cc:=09Warner  , John ; Ripley, Brian; D'Souza, Romeo; Rao, Ramesh
+Subject:=09Path Manager Rewrite / Optimization project
+Importance:=09High
+
+All:
+
+We're currently identifying processes that are inefficient and could possib=
+ly benefit from being rewritten or not even performed.  Going foward, I wou=
+ld like Bob to appoint a lead business person to whom we could ask question=
+s and or suggest ideas to so that they could in turn validate this informat=
+ion with the desk managers/schedulers.  We had this approach with Nomlogic =
+and having Clarissa work the issues worked quite nicely.  Who ever you choo=
+se, we would need about 15% of their time for now.  Later on, with coordina=
+tion efforts and testing, it may go up to 75%.  I don't see that happening =
+for a while though.
+
+The sooner we get someone to devote to this, the better off we will be.  I =
+expect these changes that we'll be looking into should improve performance =
+quite a bit. =20
+
+That being said, we've identified three items that would speed up processin=
+g the retrieval of Path Manager. =20
+
+1)  Currently, the Path Manager attempts to reuse Path Ids.  I can't think =
+of any reason why we need to perform this extra step?    It runs through th=
+is processing on the application and generally doesn't find a match.  I kno=
+w Patti has mentioned this several times and I can't think of a valid reaso=
+n for performing this work.  I talked with Dave Nommensen, and according to=
+ him, what used to happen is that sometimes schedulers would get duplicate =
+paths out there which is why they put this code in place???  From a schedul=
+ing perspective, my understanding of what your main concern is to just main=
+tain your position and be able to change it.  If you were overpathed, you'd=
+ see it in the Path Manager either way. [Pinion, Richard]    To restate the=
+ question for clarity, in path manager a scheduler pulls down a supply, mar=
+ket and a service, adds any up/downstream contract information and/or Duns =
+or DRN override and then saves it.  Unify looks for an old path with those =
+exact variables and if it finds it re-uses it and if it does not find an ex=
+act match creates a new path and path id.  I had been told that to do away =
+with this function would create an unacceptably high amount of paths since =
+any path once nominated on could not be deleted.  Has this changed???  At o=
+ne time there were some schedulers that looked for the same path / activity=
+ number match for nominations.  Texas Eastern was the only pipeline that ne=
+eded the old activity numbers no matter how long it had been since they wer=
+e used.  I spoke with Chris Ordway and the new LINK system no longer needs =
+this to occur.  Transco uses activity numbers but uses the Activity number =
+cross reference table to that function and therefore should not be affected=
+.  Therefore, if it does not create a space or memory problem for Unify, I =
+don't think that this constant old path look up is needed.   [Kinsey, Lisa]=
+   Get rid of this. =20
+
+2)  The scheduling position window:  does anyone use this?  If not, we'll r=
+emove the code logic that populates this window.  I have never seen a sched=
+uler use this.  Please verify. [Pinion, Richard]   Originally such a window=
+ was in use by everyone in the legacy system "Autonoms" so it was duplicate=
+d in Unify by request.  It is not used in Unify now because of the other so=
+phisticated tools Unify provides which obviate it's use.  The only value wo=
+uld be notification of bridge errors or contract imbalances but there are o=
+ther ways to determine those problems.  As voted on in a previous meeting o=
+f the managers - Lose it!  [Kinsey, Lisa]  Why is this still here?=09=20
+
+3)  On the inventory pool list, does anyone need to see the Contarct Refere=
+nces List?  Again, this code is called every retrieval time and doesn't app=
+ear to be used from my observations.   If they do need this information, we=
+ could provide it, but if not, I'd prefer to remove the functionality. [Pin=
+ion, Richard]    This function is still very much in use by those with poin=
+t based pipelines that must use the imbalance pool to facilitate balancing =
+nomination volumes where multiple pipeline external pools exist and are pat=
+hed through the same contract imbalance pool.  Keep it!  [Kinsey, Lisa]  Ye=
+s.  We use this functionality a lot when pathing pools.=09=20
+
+4)  When pathing a one to many or many to one set of paths, what's the aver=
+age number of paths they create at one time?  What about updates?  I know t=
+hat ANR and NIGAS are big users of this feature since they have small packa=
+ges of gas that they are limited in size to.  Does the system seem faster w=
+hen you update one record at a time or chunks of records?  My real question=
+ is how often they do this and for what number of paths on both Updates and=
+ Inserts.  By update, I mean, going to the path list and changing an upstre=
+am / downstream contract or a PSNA which in turn forces a new path to be cr=
+eated. [Pinion, Richard]    This one to many or many to one pathing goes on=
+ every day on every pipeline.  There is no 'average'.  They typically updat=
+e a path with up/downstream meters or duns or dnb numbers one at a time how=
+ever.  I hope this answers your question.  I see no change to this process =
+at this time  [Kinsey, Lisa]  On some pipes this function is used more than=
+ others.  When it is used we try and do as many paths as possible.  At this=
+ time I do not see a need to change this process. =09=20
+
+5)  On brokered paths, do you want to utilize the same logic we have for Se=
+rvice?  In other words, when updating Brokered arrangements, we don't incor=
+porate the same logic for zeroing out the path and recreating a new arrangm=
+ent link and hence sending it to be renominated?  Why do we do this for ser=
+vice?  Is it because we have to renominate it?  I assume that's what it's f=
+or since we don't send brokered paths to the pipe.  Anyway, with the Nomlog=
+ic implmentation (two way interface), we were planning on having it behave =
+the same way as service.  We need this verified. [Pinion, Richard]    We do=
+n't perform the same logic for Brokered paths because these are not nominat=
+ed to the pipeline and hence do not need a zero path to be resent to the pi=
+peline when a significant change is made to the already nominated path.  I =
+don't see a need to change the way Brokered paths are behaving at this time=
+. [Kinsey, Lisa]  Agree with Richard.=09=20

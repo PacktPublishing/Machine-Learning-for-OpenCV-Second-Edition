@@ -1,0 +1,58 @@
+Message-ID: <22423352.1075856641803.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 17:16:00 -0800 (PST)
+From: jin.yu@enron.com
+To: tanya.tamarchenko@enron.com
+Subject: Re: UK: reconciling the spreadsheet and RisktRac VAR numbers
+Cc: debbie.brackett@enron.com, vince.kaminski@enron.com, rabi.de@enron.com, 
+	jin.yu@enron.com, wenyao.jia@enron.com, ganapathy.ramesh@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debbie.brackett@enron.com, vince.kaminski@enron.com, rabi.de@enron.com, 
+	jin.yu@enron.com, wenyao.jia@enron.com, ganapathy.ramesh@enron.com
+X-From: Jin Yu
+X-To: Tanya Tamarchenko
+X-cc: Debbie R Brackett, Vince J Kaminski, Rabi De, Jin Yu, Wenyao Jia, Ganapathy Ramesh
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi, Tanya:
+
+ The factor loading results for the eff_dt = '12-dec-2000' are available on 
+the RMS_STAGE database.
+  The parameters being used:
+  effective_date = '12-dec-2000'
+      start_date = '12-sep-2000'
+                 end_date='12-dec-2000'
+
+                Please check the result in the database with:
+ factor_def_id = 1510
+                basis_map_id = 1562
+                corr_def_id = 1280
+                
+Notice: This is only a testing result!
+
+Jin
+
+
+
+
+
+Tanya Tamarchenko
+12/15/2000 05:20 PM
+To: Debbie R Brackett/HOU/ECT@ECT
+cc: Vince J Kaminski/HOU/ECT@ECT, Rabi De/NA/Enron@ENRON, Jin Yu/HOU/ECT@ECT, 
+Wenyao Jia/HOU/ECT@ECT, Ganapathy Ramesh/HOU/ECT@ECT 
+Subject: Re: UK: reconciling the spreadsheet and RisktRac VAR numbers  
+
+Debbie, 
+we asked DBA to refresh stage this Monday.
+It was refreshed on Thursday. Jin is running vatrfacs today (Friday) to 
+create correlations and factors .
+Then, according to our plan, we will ask Ramesh to run VAR on these inputs.
+We will send the inputs to you to run VAR in the spreadsheet and reconcile 
+the results for UK.
+
+Tanya.
+

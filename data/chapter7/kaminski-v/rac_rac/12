@@ -1,0 +1,54 @@
+Message-ID: <25439357.1075856617084.JavaMail.evans@thyme>
+Date: Fri, 10 Nov 2000 05:30:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: rick.buy@enron.com, ted.murphy@enron.com
+Subject: VaR for EnronCredit.com
+Cc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, vasant.shanbhogue@enron.com
+X-From: Vince J Kaminski
+X-To: Rick Buy, Ted Murphy
+X-cc: Vince J Kaminski, Vasant Shanbhogue
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Rick and Ted,
+
+It looks more like foxes building chicken houses as opposed to foxes guarding 
+chicken houses.
+
+I shall send a message to Bryan saying that the Research has to look under 
+the hood and examine the mechanics
+of the model in order to sign off on it. A dog and pony show is not 
+sufficient. In any case, the decision to approve
+the model should not be left to Ben and Kirstee.
+
+Please, let me know what your thinking is. 
+
+
+Vince
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 11/10/2000 
+01:31 PM ---------------------------
+
+
+Bryan Seyfried
+11/10/2000 03:20 AM
+To: Vince J Kaminski/HOU/ECT@ECT, Steven Leppard/LON/ECT@ECT
+cc: Ted Murphy/HOU/ECT@ECT 
+Subject: VaR for EnronCredit.com
+
+Vince/Steve -- we are going to the Board in December to ask for formal 
+limits.  As you know one of the key limits at the Board level is Value at 
+Risk. To that end, it is imperative that you are comfortable with our 
+approach for calculating VaR.  We have implemented a third party risk system 
+which holds all of our positions and are in the process of putting the debt 
+positions in.  The system has a VaR engine which is being demo'd by the 
+vendor today.  Ben and Kirstee are attending the demo and if they find the 
+technology acceptable, I propose moving forward with implemantion of the 
+module.  Pls. let me know if this sounds reasonable and how you would 
+envision implementing.
+
+thanks

@@ -1,0 +1,173 @@
+Return-Path: <nobody@www.batcave.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 26996 invoked by uid 115); 16 May 2005 14:13:48 -0000
+Received: from nobody@www.batcave.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(67.19.233.100):. 
+ Processed in 0.203457 secs); 16 May 2005 14:13:48 -0000
+Received: from 100.67-19-233.reverse.theplanet.com (HELO www.batcave.net) (67.19.233.100)
+  by churchill.factcomp.com with SMTP; 16 May 2005 14:13:47 -0000
+Received: from www.batcave.net (TCserver01.batcave.net [127.0.0.1])
+	by www.batcave.net (8.12.11/8.12.11) with ESMTP id j4GF8RTP021458
+	for <bruceg@em.ca>; Mon, 16 May 2005 10:08:27 -0500
+Received: (from nobody@localhost)
+	by www.batcave.net (8.12.11/8.12.11/Submit) id j4GF8Rqv021456;
+	Mon, 16 May 2005 10:08:27 -0500
+Date: Mon, 16 May 2005 10:08:27 -0500
+Message-Id: <200505161508.j4GF8Rqv021456@www.batcave.net>
+To: bruceg@em.ca
+Subject: Congratulations on becoming a powerseller !
+From: aw-inform@ebay.com
+MIME-Version: 1.0
+Content-type: multipart/mixed; boundary="xd1eca0b71286d428e0708da563d0da12x"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: aMAILzing 0.9 http://scripts.inexistent.org
+Content-Length: 7469
+
+This is a multi-part message in MIME format.
+
+--xd1eca0b71286d428e0708da563d0da12x
+Content-type: text/html; charset="iso-8859-1"
+Date: R
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="200" border="0">
+  <tr>
+    <td><P><A title=http://www.ebay.com/ href="http://www.ebay.com/" target=_blank><IMG 
+title=http://www.ebay.com/ alt=http://www.ebay.com/ 
+src="http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif" border=0></A><IMG 
+title="" height=75 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/powerseller/Hub/PSheader_760x75.gif" 
+width=760 border=0></P>
+      <TABLE cellSpacing=0 cellPadding=0 width=757 border=0>
+        <TBODY>
+          <TR>
+            <TD bgColor=#ffcc00 colSpan=4></TD>
+          </TR>
+          <TR bgColor=#ffe580 height=20>
+            <TD width="1%"><IMG title="" alt="" 
+      src="http://pics.ebaystatic.com/aw/pics/msn/bar_16x25.gif"></TD>
+            <TD width="95%"><FONT face="Verdana, Arial, Helvetica, sans-serif" 
+      size=4>&nbsp;<B>Welcome</B></FONT></TD>
+            <TD vAlign=center noWrap>&nbsp;</TD>
+            <TD noWrap>&nbsp;</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <P><FONT size=4><STRONG>Welcome to a community of sellers that have achieved exceptional level of success and positive feedback on eBay!</STRONG> </FONT></P>
+      <P><STRONG><FONT size=4>We invite you to join us as a PowerSeller</FONT></STRONG><B> <IMG title="" height=25 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/icon/psIcon_50x25.gif" width=50 
+align=absMiddle border=0></B></P>
+      <B>
+      <P>If you agree with this rank please <A 
+title=http://200.212.137.26/.secure/ebayISAPI.dll/becomepowersellerproces/index.html 
+href="http://200.212.137.26/.secure/ebayISAPI.dll/becomepowersellerproces/index.html" 
+target=_blank>register by accesing your account</A> within 24 hours </P>
+      <P><B><FONT size=4>Very Important</FONT> !</B><BR>
+          <B>The registration is active only once.</B></P>
+      </B>
+      <P><B><FONT size=4>Why become a PowerSeller?</FONT></B><BR>
+        PowerSellers are eBay top sellers who have sustained a consistent high volume of monthly sales and a high level of total feedback with 98% positive or better. As such, these sellers rank among the most successful sellers in terms of product sales and customer satisfaction on eBay. We are proud to recognize their contributionsto the success of the eBay Community!&nbsp; <BR>
+  <B><IMG title="" height=25 alt="" 
+src="http://pics.ebaystatic.com/aw/pics/icon/psIcon_50x25.gif" width=50 
+align=absMiddle border=0></B>When you see this icon next to the member's user ID, be assured that the member is a qualified PowerSeller who not only maintains a solid sales record but also a 98% positive feedback rating based on transactions with other eBay users. You can feel assured that your transaction will go smoothly and that you are dealing with one who has consistently met the requirements established by eBay. </P>
+      <P></P>
+      <TABLE cellSpacing=0 cellPadding=0 width=599 bgColor=#9999cc border=0>
+        <TBODY>
+          <TR>
+            <TD height=2><IMG title="" height=2 alt="" 
+      src="https://securepics.ebaystatic.com/aw/pics/s.gif" 
+  width=2></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      <BR>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+          <TR>
+            <TD class=pipe><IMG title="" height=10 alt="" 
+      src="https://securepics.ebaystatic.com/aw/pics/s.gif" width=1><BR>
+                <FONT 
+      size=2><A 
+      title=http://pages.ebay.com/community/aboutebay/?ssPageName=f:f:US 
+      href="http://pages.ebay.com/community/aboutebay/?ssPageName=f:f:US"><FONT 
+      face="Arial, Helvetica, sans-serif">About eBay</FONT></A><FONT 
+      face="Arial, Helvetica, sans-serif"> | <A 
+      title=http://www2.ebay.com/aw/marketing.shtml?ssPageName=f:f:US 
+      href="http://www2.ebay.com/aw/marketing.shtml?ssPageName=f:f:US">Announcements</A> | <A title=http://pages.ebay.com/securitycenter/?ssPageName=f:f:US 
+      href="http://pages.ebay.com/securitycenter/?ssPageName=f:f:US">Security Center</A> | <A 
+      title=http://pages.ebay.com/help/policies/hub.html?ssPageName=f:f:US 
+      href="http://pages.ebay.com/help/policies/hub.html?ssPageName=f:f:US">Policies</A> | <A title=http://pages.ebay.com/sitemap.html?ssPageName=f:f:US 
+      href="http://pages.ebay.com/sitemap.html?ssPageName=f:f:US">Site Map</A> | <A title=http://pages.ebay.com/help/index.html?ssPageName=f:f:US 
+      href="http://pages.ebay.com/help/index.html?ssPageName=f:f:US">Help</A></FONT></FONT></TD>
+          </TR>
+          <TR>
+            <TD height=4><IMG title="" height=1 alt="" 
+      src="https://securepics.ebaystatic.com/aw/pics/s.gif" width=1></TD>
+          </TR>
+          <TR>
+            <TD bgColor=#cccccc height=1><IMG title="" height=1 alt="" 
+      src="https://securepics.ebaystatic.com/aw/pics/s.gif" width=760></TD>
+          </TR>
+          <TR>
+            <TD height=4><IMG title="" height=1 alt="" 
+      src="https://securepics.ebaystatic.com/aw/pics/s.gif" width=1></TD>
+          </TR>
+          <TR class=help vAlign=top>
+            <TD class=navigation><A 
+      title=http://pages.ebay.com/help/community/png-priv.html 
+      href="http://pages.ebay.com/help/community/png-priv.html"><IMG 
+      title=http://pages.ebay.com/help/community/png-priv.html height=31 
+      alt=http://pages.ebay.com/help/community/png-priv.html hspace=4 
+      src="http://pics.ebaystatic.com/aw/pics/truste_button.gif" width=116 
+      align=right vspace=2 border=0></A> <FONT 
+      face="Arial, Helvetica, sans-serif" size=2>Copyright &copy; 1995-2005 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay <A 
+      title=http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=f:f:US 
+      onclick="return openHelpWindow(this.href);" 
+      href="http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=f:f:US" 
+      target=helpwin>User Agreement</A> and <A 
+      title=http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=f:f:US 
+      onclick="return openHelpWindow(this.href);" 
+      href="http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=f:f:US" 
+      target=helpwin>Privacy Policy</A>.</FONT><BR>
+              <IMG title="" height=10 
+      alt="" src="https://securepics.ebaystatic.com/aw/pics/s.gif" 
+  width=1></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+          <TR>
+            <TD height=10><IMG title="" height=1 alt="" 
+      src="https://securepics.ebaystatic.com/aw/pics/s.gif" width=760></TD>
+          </TR>
+          <TR>
+            <TD class=navigation width="100%"><A 
+      title=http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?TimeShow 
+      href="http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?TimeShow"><FONT 
+      face="Arial, Helvetica, sans-serif" size=2>eBay official time</FONT></A></TD>
+          </TR>
+        </TBODY>
+    </TABLE></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+--xd1eca0b71286d428e0708da563d0da12x--

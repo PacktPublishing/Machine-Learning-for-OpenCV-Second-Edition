@@ -1,0 +1,95 @@
+Message-ID: <33495824.1075860979732.JavaMail.evans@thyme>
+Date: Wed, 16 Jan 2002 14:19:01 -0800 (PST)
+From: elizabeth.brown@enron.com
+To: dennis.lee@enron.com, nancy.bastida@enron.com, karen.brostad@enron.com, 
+	zuela.carter@enron.com, dale.eldridge@enron.com, 
+	linda.trevino@enron.com, tk.lohman@enron.com, 
+	lorraine.lindberg@enron.com, lindy.donoho@enron.com, 
+	kimberly.watson@enron.com, paul.y'barbo@enron.com, 
+	mark.mcconnell@enron.com, michelle.lokay@enron.com, 
+	perry.frazier@enron.com, ron.matthews@enron.com, 
+	darrell.schoolcraft@enron.com, terry.kowalke@enron.com, 
+	john.buchanan@enron.com, ramona.betancourt@enron.com
+Subject: RE: TW Contract Template Clean-up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brown, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EBROWN1>
+X-To: Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Bastida, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nbastid>, Brostad, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrosta>, Carter, Zuela </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zcarter>, Eldridge, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Deldrid2>, Trevino, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ltrevino>, Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llindbe>, Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldonoho>, Watson, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwatson>, Y'barbo, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pybarbo>, McConnell, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MMcConne>, Lokay, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlokay>, Frazier, Perry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfrazier>, Matthews, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmatthe>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbetanc>
+X-cc: 
+X-bcc: 
+X-Origin: Lokay-M
+X-FileName: mlokay (Non-Privileged).pst
+
+Here's what I noticed in researching the points listed below:
+
+Point #	Point Name				Template 				Comment	
+
+6828	NGPL Gray County 			Panhandle Receipts Delivery 		Already exists under PHDEL template
+8143	TW/Seven M Gas Sherman CO. I/C	Panhandle ReceiptsDelivery		Already exists under PHDEL template
+9028	Delhi Cheyenne				Panhandle Receipts			Point has term date of 11/18/98
+9278	TW/NNG Hutchinson Cactus Lateral	Panhandle Receipts/Delivery		Already exists under PHDEL and PHREC template (as bi-directional pt)
+12354	Dominion Gas/Tule Lake I/C		CE9Receipts				Already exists under CE9REC template
+13855	Getty Fed "24" #1			West Texas Receipts			Point has term date of 11/18/98
+15409	Jones Trust #44-565 CMP		Panhandle Receipts			Point has term date of 11/18/98
+56943	Valero Ward				West Texas ReceiptsDelivery		Already exists under WTDEL template
+57096	Northwest Bloomfield			San Juan Receipts			Is this point valid any longer?
+58710	PNM Thompson				CE9ReceiptsDelivery			Already exists under CE9DEL template
+500517	Delhi Ward I/C				West Texas ReceiptsDelivery		Already exists under WTDEL template
+500540	El Paso Blanco I/C			San Juan 2 ReceiptsDelivery		Should not be added to a template since they were set up 
+												as alt pt on each contract (until we move to new system)
+
+3531	TW/NNG Beaver				Panhandle Deliveries			Already exists under PHDEL template
+500176	Dale Ferguson Tap			Panhandle Deliveries			Needs to be added to PHDEL template
+500203	Continental Follette			Panhandle Deliveries			Needs to be added to PHDEL template
+500390	Sum WTG Delivery Pt 			Panhandle Deliveries			Already exists under PHDEL template
+
+Lindy - Could you verify if POI #57096 is still valid for any reason?
+
+Ramona - It appears that some of these points are available for displacement.  In the new system, Linda indicated that a separate group has been set up for any points you have identified as valid.  I will assume then that these should not be added to the paired template (ie, if a delivery point allows displacement, then they will only be added to the related basin delivery template.  Nominating this point as a receipt would depend on the displacement grouping defined in the new system for pools and interruptibles.).
+
+
+Thanks,
+Elizabeth
+
+
+ -----Original Message-----
+From: 	Lee, Dennis  
+Sent:	Monday, January 14, 2002 1:48 PM
+To:	Bastida, Nancy; Brostad, Karen; Brown, Elizabeth; Carter, Zuela; Eldridge, Dale; Lee, Dennis; Trevino, Linda; Lohman, TK; Lindberg, Lorraine; Donoho, Lindy; Watson, Kimberly; Y'barbo, Paul; McConnell, Mark; Lokay, Michelle; Frazier, Perry; Matthews, Ron; Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John; Betancourt, Ramona 
+Subject:	TW Contract Template Clean-up
+
+In cleaning up some template information, the following points were found to be on no templates. 
+
+	1. Do they belong on a template?
+	2. Is the template listed the correct one?
+
+Unless I hear differently, I will go ahead and update the templates accordingly.
+
+
+Point #	Point Name				Template 
+
+6828	NGPL Gray County 			Panhandle Receipts
+8143	TW/Seven M Gas Sherman CO. I/C	Panhandle Receipts
+9028	Delhi Cheyenne				Panhandle Receipts
+9278	TW/NNG Hutchinson Cactus Lateral	Panhandle Receipts
+12354	Dominion Gas/Tule Lake I/C		CE9Receipts
+13855	Getty Fed "24" #1			West Texas Receipts
+15409	Jones Trust #44-565 CMP		Panhandle Receipts
+56943	Valero Ward				West Texas Receipts
+57096	Northwest Bloomfield			San Juan Receipts
+58710	PNM Thompson				CE9Receipts
+500517	Delhi Ward I/C				West Texas Receipts
+500540	El Paso Blanco I/C			San Juan 2 Receipts
+
+3531	TW/NNG Beaver				Panhandle Deliveries
+500176	Dale Ferguson Tap			Panhandle Deliveries
+500203	Continental Follette			Panhandle Deliveries
+500390	Sum WTG Delivery Pt 			Panhandle Deliveries
+
+
+Dennis P. Lee
+ETS
+Gas Logistics
+(713) 853-1715
+dennis.lee@enron.com

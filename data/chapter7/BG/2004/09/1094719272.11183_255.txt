@@ -1,0 +1,56 @@
+Return-Path: <Dusty710459695@t-dialin.net>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 18480 invoked from network); 9 Sep 2004 06:06:10 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 09 Sep 2004 06:06:10 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Sep 2004 06:06:10 -0000
+Received: (qmail 7005 invoked from network); 9 Sep 2004 06:06:09 -0000
+Received: from qn-82-217-252-184.quicknet.nl (unknown [82.217.252.184])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 09 Sep 2004 06:06:09 -0000
+Received: from zxl72.m.Dusty710459695@t-dialin.net ([82.217.252.184]) by bz169714-tptn.82.217.252.184 with Microsoft SMTPSVC(5.0.03721.1379);
+	 Thu, 09 Sep 2004 02:08:03 -0400
+Received: from Dusty710459695@t-dialin.net (48.36.224.18)
+  by tog13603.vmzvt.pDusty710459695@t-dialin.net with QMQP; Thu, 09 Sep 2004 10:09:03 +0400
+X-MIME-Autoconverted: Yes
+Discarded-X400-MTS-Extensions: Yes
+Alternate-Recipient: Allowed
+Xref: kwbuycqfisadqrjsoklf
+Reply-To: "Jeremiah Guthrie" <Dusty710459695@t-dialin.net>
+From: "Jeremiah Guthrie" <Dusty710459695@t-dialin.net>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: The Final Application
+Date: Thu, 09 Sep 2004 08:04:03 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--541752286898071144"
+Content-Length: 682
+Lines: 24
+
+----541752286898071144
+Content-Type: text/html;
+	charset="iso-3276-4"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Hello,<p>
+We received your application yesterday and we're happy to let you know<br>
+that it has been approved at a 3% rate.  That will qualify you with a <br>
+loan up to $826,000. <p>
+
+Please fill out the final details we need to complete the process: <br>
+<a href="http://ccomp.discountloan.info/h7/o0o.php?h8x=63">http://ccomp.discountloan.info/h7/o0o.php?h8x=63</a><p>
+We look forward to hearing from you.<p>
+Regards,<br>
+Jeremiah Guthrie<br>
+ERI Inc<p>
+<br>
+<br>
+<p>
+<a Href="http://stargate.dealloan.info/r1/">not interested</a><p>
+</html>
+
+----541752286898071144--

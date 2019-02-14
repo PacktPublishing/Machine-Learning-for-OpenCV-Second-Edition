@@ -1,0 +1,49 @@
+Message-ID: <7482324.1075863303634.JavaMail.evans@thyme>
+Date: Wed, 8 Aug 2001 09:45:24 -0700 (PDT)
+From: david.poston@enron.com
+To: cara.semperger@enron.com, bill.williams@enron.com, chris.mallory@enron.com, 
+	sean.crandall@enron.com, phillip.platter@enron.com, 
+	holden.salisbury@enron.com, mark.fisher@enron.com, 
+	tom.alonso@enron.com, lester.rawson@enron.com, kysa.alport@enron.com, 
+	kate.symes@enron.com, lisa.gang@enron.com, stacy.runswick@enron.com, 
+	donald.robinson@enron.com, susie.wilson@enron.com, 
+	stanley.cocke@enron.com, diana.scholtes@enron.com, 
+	serena.bishop@enron.com, diane.cutsforth@enron.com
+Subject: New Enpower Position Manager ****DEMO DAYS**** TOMORROW
+Cc: steve.nat@enron.com, duong.luu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.nat@enron.com, duong.luu@enron.com
+X-From: Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPOSTON2>
+X-To: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csemper>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmallor>, Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scranda>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pplatte>, Salisbury, Holden </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hsalisbu>, Fisher, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=be89ed9d-41d8378d-862569d8-80d1ca>, Alonso, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Talonso>, Rawson, Lester </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrawson>, Alport, Kysa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kalport>, Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksymes>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>, Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Srunswic>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Drobins>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson7>, Cocke Jr., Stanley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scocke>, Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>, Bishop, Serena </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbishop3>, Cutsforth, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcutsfor>
+X-cc: Nat, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snat>, Luu, Duong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dluu>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Good Morning,
+
+We have a new Enpower Position Manager ready for DEMO.  The new Position Manager has the capability to build a custom volumetric real-time position based on the data in Enpower.  I think it could replace the Forward Obligations Report, current Real Time Position manager, and the Day Ahead Hourly Position Manager if you guys like it.  I will be conducting the demonstration tomorrow, Thursday, August 9th, in Mount Hood starting at 11:00am.  Please stop by if you can and let me know your thoughts.
+
+Thanks,  David Poston
+
+DEMO Schedule
+11:00 - 11:20 Group Demonstration & walk-through
+11:20 - 2:00pm Available for ad-hoc demonstrations, questions, or if you can't make it at 11:00
+
+
+Features included in the new Consolidated Position Manager
+
+Three different ways of creating desired criteria Wizard/Intermediate/Advanced
+Ability to save created criteria as a favorite for reuse
+Import and Export one or all favorites
+Changing colors for the different views
+Custom refresh intervals
+Automatic fail over to the database when server is down for full fault tolerance
+Full Help integration
+Real-time data through caching server
+Highly customizable views through grouping and sorting
+Able to quickly drill down on views Daily -> Hourly -> Detail
+Exporting data into excel
+Printing data 

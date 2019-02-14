@@ -1,0 +1,51 @@
+Return-Path: <qtimzxf@doneasy.com>
+Delivered-To: rait@bruce-guenter.dyndns.org
+Received: (qmail 24189 invoked from network); 8 Nov 2004 19:26:45 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 08 Nov 2004 19:26:45 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Nov 2004 19:26:45 -0000
+Received: (qmail 17867 invoked from network); 8 Nov 2004 19:26:45 -0000
+Received: from 69.5.6.152 (unknown [200.233.67.25])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 08 Nov 2004 19:26:43 -0000
+X-Message-Info: HZ/wi+643+na/D+0/468642460359181
+Received: from smtp-freethink.tilt.qtimzxf@doneasy.com ([200.233.67.25]) by q38-xy6.qtimzxf@doneasy.com with Microsoft SMTPSVC(5.0.3135.5544);
+	 Tue, 09 Nov 2004 01:14:53 +0600
+Received: from smtp-barnacle.nimbus.qtimzxf@doneasy.com ([200.233.67.25]) by qk2-ts06.qtimzxf@doneasy.com with Microsoft SMTPSVC(5.0.6847.6718);
+	 Mon, 08 Nov 2004 15:13:53 -0400
+X-Message-Info: QPFB+%ND_LC_CHAR[1-3]534+qaz+NV+686/4942680828800
+Received: (qmail 16492 invoked by uid 92); Mon, 08 Nov 2004 20:21:53 +0100
+Date: Mon, 08 Nov 2004 13:13:53 -0600
+Message-Id: <78632579337.57078@qtimzxf@doneasy.com>
+From: Desmond Taylor <qtimzxf@doneasy.com>
+To: Rait <rait@bruce-guenter.dyndns.org>
+Subject: 
+MIME-Version: 1.0 (produced by floridasudanese 1.6)
+Content-Type: multipart/alternative;
+	boundary="--753280044040977607"
+Content-Length: 642
+Lines: 21
+
+----753280044040977607
+Content-Type: text/html;
+	charset="iso-2020-6"
+Content-Transfer-Encoding: quoted-printable
+Content-Description: razor buzzer fasten
+
+<HTML><HEAD>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+Your mortgage process is pre-approved, for rates starting at 3.25=
+% Fixed.<br>
+Please use our secure site to fill-out your application.<br>
+Thank you,<br><br>
+
+visit us at: <a href=3D"http://perfectvgr.com/x/loan2.php?id=3Dsf">http://=
+perfectvgr.com/x/loan2.php?id=3Dsf</a><br>
+<p align=3D"center">&nbsp; </p>
+<a href=3D"http://perfectvgr.com/x/st.html">
+R e m o v e&nbsp;&nbsp;H e r e </a></p></BODY></HTML>=20
+
+----753280044040977607--

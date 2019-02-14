@@ -1,0 +1,125 @@
+Return-Path: <management@conus.co.il>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 22613 invoked from network); 21 Jun 2005 18:56:43 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 21 Jun 2005 18:56:43 -0000
+Received: (qmail 11681 invoked from network); 21 Jun 2005 18:56:43 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx03.futurequest.net ([69.5.6.174])
+  with QMQP via TCP; 21 Jun 2005 18:56:43 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 22607 invoked from network); 21 Jun 2005 18:56:43 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 21 Jun 2005 18:56:43 -0000
+Received: (qmail 890 invoked from network); 21 Jun 2005 18:56:43 -0000
+Received: from 192.168.0.84 (odap-62-0-82-216.bb.netvision.net.il [62.0.82.216])
+  by mx01.futurequest.net ([69.5.6.171])
+  with SMTP via TCP; 21 Jun 2005 18:56:41 -0000
+From: "conus" <management@conus.co.il>
+To: <webmaster@ezmlm.org>
+Subject: מחפשים עובדים?
+Sender: "conus" <management@conus.co.il>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="= Multipart Boundary 0621052156"
+Date: Tue, 21 Jun 2005 21:56:45 +0200
+Reply-To: "conus" <management@conus.co.il>
+Content-Length: 3780
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 0621052156
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary _EXTRA_0621052156"
+
+--= Multipart Boundary _EXTRA_0621052156
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+מחפשים עובדים?
+אנא בדקו את הקובץ המצורף.
+
+סליחה על ההפרעה, 
+תודה על תשומת הלב, 
+צוות
+C.V.POOL
+03-6851111
+
+--= Multipart Boundary _EXTRA_0621052156
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=windows-1255">
+<META content="MSHTML 6.00.2900.2668" name=GENERATOR>
+<STYLE>BODY {
+	FONT-FAMILY: arial
+}
+</STYLE>
+</HEAD>
+<BODY>
+<DIV><FONT size=5>מחפשים עובדים?</FONT></DIV>
+<DIV><FONT size=5>אנא בדקו את הקובץ המצורף.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>סליחה על ההפרעה, </DIV>
+<DIV>תודה על תשומת הלב, </DIV>
+<DIV><FONT size=5>צוות</FONT></DIV>
+<DIV><FONT color=#800000 size=5>C.V.POOL</FONT></DIV>
+<DIV><FONT color=#800000 size=5>03-6851111</FONT></DIV></BODY></HTML>
+
+--= Multipart Boundary _EXTRA_0621052156--
+
+--= Multipart Boundary 0621052156
+Content-Type: application/octet-stream;
+	name="cvpool_mail.htm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="cvpool_mail.htm"
+
+PEhUTUw+DQo8SEVBRD4NCjxUSVRMRT7u5/T5IPLl4ePp7TwvVElUTEU+DQo8
+TUVUQSBIVFRQLUVRVUlWPSJDb250ZW50LVR5cGUiIENPTlRFTlQ9InRleHQv
+aHRtbDsgY2hhcnNldD13aW5kb3dzLTEyNTUiPg0KPHNjcmlwdCBsYW5ndWFn
+ZT0iSmF2YVNjcmlwdCIgdHlwZT0idGV4dC9KYXZhU2NyaXB0Ij4NCjwhLS0N
+Cg0KDQoNCmZ1bmN0aW9uIE1NX3ByZWxvYWRJbWFnZXMoKSB7IC8vdjMuMA0K
+ICB2YXIgZD1kb2N1bWVudDsgaWYoZC5pbWFnZXMpeyBpZighZC5NTV9wKSBk
+Lk1NX3A9bmV3IEFycmF5KCk7DQogICAgdmFyIGksaj1kLk1NX3AubGVuZ3Ro
+LGE9TU1fcHJlbG9hZEltYWdlcy5hcmd1bWVudHM7IGZvcihpPTA7IGk8YS5s
+ZW5ndGg7IGkrKykNCiAgICBpZiAoYVtpXS5pbmRleE9mKCIjIikhPTApeyBk
+Lk1NX3Bbal09bmV3IEltYWdlOyBkLk1NX3BbaisrXS5zcmM9YVtpXTt9fQ0K
+fQ0KLy8tLT4NCjwvc2NyaXB0Pg0KPC9IRUFEPg0KPEJPRFkgQkdDT0xPUj0j
+RkZGRkZGIGxpbms9IiM5OTAwMDAiIHZsaW5rPSIjOTkzMzAwIiBhbGluaz0i
+I0NDMDAwMCIgTEVGVE1BUkdJTj0wIFRPUE1BUkdJTj0wIE1BUkdJTldJRFRI
+PTAgTUFSR0lOSEVJR0hUPTAgb25Mb2FkPSJNTV9wcmVsb2FkSW1hZ2VzKCdp
+bWFnZXMvbWFpbF9idXRvbm4xYi5qcGcnKSI+DQo8YnI+DQo8dGFibGUgd2lk
+dGg9IjMwMCIgYm9yZGVyPSIxIiBhbGlnbj0iY2VudGVyIiBjZWxscGFkZGlu
+Zz0iMCIgY2VsbHNwYWNpbmc9IjAiIGJvcmRlcmNvbG9yPSIjOTkwMDMzIj4N
+CiAgPHRyPg0KICAgIDx0ZD48VEFCTEUgV0lEVEg9NDI1IEJPUkRFUj0wIGFs
+aWduPSJjZW50ZXIiIENFTExQQURESU5HPTAgQ0VMTFNQQUNJTkc9MD4NCiAg
+ICAgICAgPFRSPiANCiAgICAgICAgICA8VEQgd2lkdGg9IjQyNSI+PGZvbnQg
+c2l6ZT0iMiIgZmFjZT0iQXJpYWwiPjxzdHJvbmc+PGltZyBzcmM9Imh0dHA6
+Ly93d3cuYmx1ZWJ0LmNvbS9jdnBvb2wvZW1haWwvY3Zwb29sX21haWwyXzAx
+LmpwZyIgd2lkdGg9IjQyNSIgaGVpZ2h0PSI0NDYiPjwvc3Ryb25nPjwvZm9u
+dD4gDQogICAgICAgICAgPC9URD4NCiAgICAgICAgPC9UUj4NCiAgICAgICAg
+PFRSIGFsaWduPSJjZW50ZXIiPiANCiAgICAgICAgICA8VEQgdmFsaWduPSJ0
+b3AiPjxmb250IHNpemU9IjIiIGZhY2U9IkFyaWFsIj48YnI+DQogICAgICAg
+ICAgICA8YSBocmVmPSJodHRwOi8vd3d3LmJsdWVidC5jb20vY3Zwb29sL2Zp
+bmFsL2N2cG9vbF9mb3JtLmh0bSI+PGltZyBzcmM9Imh0dHA6Ly93d3cuYmx1
+ZWJ0LmNvbS9jdnBvb2wvZW1haWwvbWFpbF9idXRvbm4xLmpwZyIgbmFtZT0i
+SW1hZ2UxMSIgd2lkdGg9IjE4NyIgaGVpZ2h0PSIzNSIgYm9yZGVyPSIwIiBp
+ZD0iSW1hZ2UxIj48L2E+IA0KICAgICAgICAgICAgPGJyPg0KICAgICAgICAg
+ICAgPC9mb250Pjxicj4NCiAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwOi8v
+d3d3LmJsdWVidC5jb20vY3Zwb29sL2VtYWlsL2N2cG9vbF9tYWlsMl8wMy5q
+cGciIHdpZHRoPSI0MjUiIGhlaWdodD0iNDYiPiANCiAgICAgICAgICA8L1RE
+Pg0KICAgICAgICA8L1RSPg0KICAgICAgPC9UQUJMRT48L3RkPg0KICA8L3Ry
+Pg0KPC90YWJsZT4NCjx0YWJsZSB3aWR0aD0iNDI1IiBib3JkZXI9IjAiIGFs
+aWduPSJjZW50ZXIiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+
+DQogIDx0cj4NCiAgICA8dGQgYWxpZ249InJpZ2h0IiB2YWxpZ249InRvcCI+
+Jm5ic3A7PC90ZD4NCiAgPC90cj4NCjwvdGFibGU+DQo8YnI+DQo8L0JPRFk+
+DQo8L0hUTUw+
+
+--= Multipart Boundary 0621052156--

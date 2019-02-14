@@ -1,0 +1,80 @@
+Message-ID: <22037339.1075855874017.JavaMail.evans@thyme>
+Date: Thu, 12 Oct 2000 04:41:00 -0700 (PDT)
+From: mike.jordan@enron.com
+To: sally.beck@enron.com, ted.murphy@enron.com
+Subject: RAC issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mike Jordan
+X-To: Sally Beck, Ted Murphy
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I would welcome the opportunity to discuss this with you both ( probably 
+separately given our diaries ). I am keen to understand whether we have the 
+same perceptions of the control process and of the timetable for moving 
+forward to our shared vision !
+
+I will try to call later today
+
+Mike
+---------------------- Forwarded by Mike Jordan/LON/ECT on 12/10/2000 11:38 
+---------------------------
+
+
+Mike Jordan
+12/10/2000 11:16
+To: Fernley Dyson/LON/ECT@ECT
+cc: Steve W Young/LON/ECT@ECT, James New/LON/ECT@ECT, David Hardy/LON/ECT@ECT 
+
+Subject: RAC issues
+
+Fernley
+
+Output from a meeting with David and James on the specific issues :-
+
+David's view is that a detailed factual list of issues is as yet not 
+available but the summary is as follows :-
+
+At present Europe is substantially hitting the two key deadlines of 
+'officialisation' of the books by Risk management by 6 am Houston time and 
+Summary DPR received in Houston by Noon ( indeed have internal deadlines 1 
+hour before that for contingency )
+However, there are some IT problems in that the feeds to Houston post 
+officialisation are currently taking a number of hours - and IT are currently 
+looking to rewriting feeds and purchasing a dedicated server for feeding to 
+Risktrac.
+Additionally, because of the time difference between the two targets and the 
+fact that Risk Managament do not obtain MTM information until completion of 
+the overnight batch ( ie start working first thing in morning UK time ) there 
+has been scope for continuing to work on the raw MTM data. Consequently,
+there is potential for Risk Management 'top siding' for corrections such that 
+the summary DPR will be 'different' from the risktrac information - We do 
+topsides because it is impossible, given current systems, to rerun the 
+overnight batch and extract the data from the valuation systems - our p&l 
+explain processes are themselves spreadsheet based.
+The majority of topsides are caused by inaccurate data capture at the deal 
+entry stage - itself a symptom of underinvestment in the data validation 
+process of risk systems
+Whilst the topside adjustment is communicated to Houston  - Risktrac requires 
+a fully automated process
+Whilst we should consider the materiality of the topside - RAC rightly are 
+trying to implement zero tolerance - to help flag all the issues
+Within the last fortnight we once received the incorrect curves on UK Power 
+such that the full database was incorrectly valued - there was insufficient 
+time ( for reason stated above ) to rerun and reextract and indeed today the 
+batch failed because the UK Power server ran out of processing diskspace.
+
+We are doing a reasonably good job given the significant systems inadequacies 
+we face ( and that have been flagged on a continuous basis - they are on the 
+long list for development ).
+
+The recent daily taskforce meetings will provide more structured reporting of 
+the root causes that will allow better escalation of systemic issues - and we 
+should seek to discuss these in the context of the goal of corporate policy 
+compliance ( we should recommunicate the policy internally within Europe )
+
+

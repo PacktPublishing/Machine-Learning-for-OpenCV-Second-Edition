@@ -1,0 +1,27 @@
+Message-ID: <32169742.1075863307297.JavaMail.evans@thyme>
+Date: Fri, 27 Jul 2001 14:21:14 -0700 (PDT)
+From: heather.dunton@enron.com
+To: chris.mallory@enron.com, sean.crandall@enron.com, diana.scholtes@enron.com, 
+	tom.alonso@enron.com, mark.fisher@enron.com, 
+	holden.salisbury@enron.com, bill.williams@enron.com
+Subject: Bloomberg Broker Fee
+Cc: samantha.law@enron.com, fran.chang@enron.com, john.postlethwaite@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: samantha.law@enron.com, fran.chang@enron.com, john.postlethwaite@enron.com
+X-From: Dunton, Heather </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HDUNTON>
+X-To: Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmallor>, Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scranda>, Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>, Alonso, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Talonso>, Fisher, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=be89ed9d-41d8378d-862569d8-80d1ca>, Salisbury, Holden </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hsalisbu>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: Law, Samantha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slaw>, Chang, Fran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fchang>, Postlethwaite, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JPOSTLE>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+I changed the following deal entry errors for the $15 flat Bloomberg Broker Fee.
+These deals were entered as $15/mw instead of flat.
+
+Desk	REG_CD	DEAL_ID	FEE	TOTAL	RATE	
+EPMI-ST-CA	R10	683207	-6000	400	15	
+EPMI-ST-SW	R7	683421	-12000	800	15	
+EPMI-ST-WHOURLY	R10	692805	-2625	175	15	
+EPMI-ST-WHOURLY	R11	697919	-1800	120	15	

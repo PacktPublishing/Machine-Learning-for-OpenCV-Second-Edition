@@ -1,0 +1,27 @@
+Message-ID: <17424887.1075856567102.JavaMail.evans@thyme>
+Date: Tue, 3 Oct 2000 04:44:00 -0700 (PDT)
+From: bob.lee@enron.com
+To: michael.anderson@enron.com
+Subject: Re: Joint Probabilities
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+X-From: Bob Lee
+X-To: Michael Anderson
+X-cc: Stinson Gibner, Vince J Kaminski, Zimin Lu
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Michael
+
+The updated probabilities are attached.  The probability of reaching any Fx 
+times RAB multiple are the same as the original analysis.  The probabilities 
+of reaching a given stock price are lower than the original analysis in both 
+the optimistic and pessimistic cases because the debt levels are higher, and 
+hence the stock value is lower for any Fx-RAB value.
+
+Bob Lee
+x35163

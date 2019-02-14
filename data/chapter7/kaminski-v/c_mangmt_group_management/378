@@ -1,0 +1,105 @@
+Message-ID: <13198949.1075856581339.JavaMail.evans@thyme>
+Date: Thu, 20 Jul 2000 08:12:00 -0700 (PDT)
+From: clayton.vernon@enron.com
+To: vasant.shanbhogue@enron.com
+Subject: status
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Clayton Vernon
+X-To: Vasant Shanbhogue
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vasant-
+
+I hope you had a wonderful vacation back home, and are rested and recovered 
+from the long flight back.
+
+I wanted to give you an update of the EOL project, the Gas Model, and of my 
+intentions here at Enron.
+
+Software (in compiled C on the Unix platform) has been developed and debugged 
+to listen to the EOL trades, process them, book them, and file them away. In 
+addition, software has been developed and debugged to mark these to market on 
+a continual basis, and to store the entirety of open positions on EOL in a 
+dynamic matrix facilitating analysis. IT has yet to get back with me on how 
+the software can be informed of those trades ultimately rejected for credit 
+purposes.
+
+These data files are stored in a format for reading by Excel or by SAS, for 
+which I have written the data step program and basic tabulation routines 
+elucidating the structure of the data.
+
+I am in the process of documenting all of this for you.
+
+With regards the Gas Model and its slow performance on the Compaq, Dell has 
+agreed to loan me one of their competing machines to the Compaq, to see if 
+the performance issue of the LP is related to the Compaq. I have been 
+researching this issue with IT here and with Compaq and Dell. The new machine 
+will be here any day now (no financial obligation to anyone), and I will be 
+able to immediately ascertain whether the problem the model is having is 
+Compaq-specific.
+
+I am also in the process of documenting the Gas Model for you.
+
+I've tried to do my best for you, Vasant, but I have been frustrated by not 
+only the death of my mother but some internal systems in IT here. Just the 
+other day, SAS could not open a full query of the EOL database because there 
+wasn't enough free space on the server's hard drive for the workfiles. In 
+discussing some of these issues with some good friends of mine in power 
+trading, people whom I have known for over 10 years, they indicated they were 
+ubiquitous here. The power traders have similar PC's to my new one, and they 
+have complained from Day 1 that theirs are slower than their old ones.  Also, 
+there remains a large frustration with the development of data warehouses; 
+during my brief tenure here IT has gone through two differing proposals as to 
+how to address this. When I have been told of tools available for real-time 
+data harvesting, my requests for such have typically been met with "well, we 
+have it, but we haven't really tested it yet." An example is the weather: we 
+still do not record to disk the hourly NWS observations from the GOES 
+satellite.
+
+My interests here are to help Enron to do well, because I will do well only 
+if Enron does well. These aren't empty words- my IRA is 100% invested in the 
+Enron stock fund. I believe my best contributions to Enron will be in the 
+areas of systems as well as modeling, and the difficulty working in the 
+Research Group, in terms of systems development, is that, frankly, few people 
+at Enron seem to care what a researcher thinks about our systems. We aren't 
+directly generating revenues for Enron, and we aren't really their customers, 
+except in our relatively small deparrtmental infrastructure expenses.
+
+As it happens, Power Trading posted an opening for a Modeling and Forecasting 
+person, and I spoke with them and they asked me to take the job, reporting to 
+George Hopley. It is a wonderful opportunity for me, Vasant, as they are 
+interested in large system modelng of power grids as well as improving their 
+traders' access to real-time fundamentals data. I was completely candid with 
+Kevin Presto regarding my shortcomings here in Research- I told him you were 
+disgusted with me because I repeatedly failed to meet time deadlines. They 
+also understand I have yet to be at Enron for 1 year, and thus may only bid 
+on a job with your permission. We agree the move is good for Enron; we all 
+work for Enron, and your acquiescence to the move does not endorse it but 
+merely permit it. They are comfortable with me- they have known me for years 
+as a hard worker, honest and unpretensive. They have already ordered a 
+state-of-the-art Unix workstation and server for me, and they have told me 
+they will commit whatever resources are necessary for me to be successful, 
+including hiring an Analyst to work for me. And, I have already been able to 
+teach their analysts improved techniques for data harvesting and analysis I 
+have learned here.
+
+So, I am requesting your permission to bid for this job opening. It would be 
+a lateral move in position and salary, and I would commit to you to help you 
+in any way possible in the future with regards the Gas Model or the EOL 
+database. I will continue to work on their improvement, and complete their 
+documentation.
+
+As it happens, I am away on Enron business in Portland Monday and Tuesday, 
+and will be back Wednesday. I had wanted to talk face-to-face instead of by 
+email, but Enron business supercedes- I am on a team designing the data 
+warehouse for floor trader support.
+
+Clayton.
+

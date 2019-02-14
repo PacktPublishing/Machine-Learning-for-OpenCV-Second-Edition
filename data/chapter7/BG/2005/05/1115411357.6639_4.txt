@@ -1,0 +1,547 @@
+Return-Path: <>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 20817 invoked by uid 115); 6 May 2005 18:58:21 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(207.115.57.56):. 
+ Processed in 0.385811 secs); 06 May 2005 18:58:21 -0000
+Received: from ylpvm25-ext.prodigy.net (HELO ylpvm25.prodigy.net) (207.115.57.56)
+  by churchill.factcomp.com with SMTP; 6 May 2005 18:58:20 -0000
+Received: from Dell8200 (adsl-67-66-60-198.dsl.hstntx.swbell.net [67.66.60.198])
+	(authenticated bits=0)
+	by ylpvm25.prodigy.net (8.12.10 auth mps linux/8.12.10) with ESMTP id j46JCXvN025165
+	for <bruceg@em.ca>; Fri, 6 May 2005 15:12:45 -0400
+Message-Id: <200505061912.j46JCXvN025165@ylpvm25.prodigy.net>
+From: "Brian Snodgrass - Pres/CEO PTSI" <>
+Subject: Re: Write Procedures Automatically
+To: bruceg@em.ca
+Content-Type: text/html;iso-8859-1
+Date: Fri, 6 May 2005 14:12:31 -0500
+X-Priority: 3
+X-Library: Indy 8.0.25
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><HEAD><TITLE>
+PTSI | ProcessWriter | Info</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8858-1">
+
+<link rel="File-List" href="PW_E-mail_files/filelist.xml">
+
+<!--[if !mso]>
+<style>
+v\:*         { behavior: url(#default#VML) }
+o\:*         { behavior: url(#default#VML) }
+.shape       { behavior: url(#default#VML) }
+</style>
+<![endif]--><!--[if gte mso 8]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]-->
+
+<!--[if gte mso 9]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]-->
+
+<BODY leftMargin=0 topMargin=0 
+marginwidth="0" marginheight="0" bgproperties="fixed" background="http://www.pro-techsolutions.com/home_files/blue_stripe2.GIF">
+
+<script language="JavaScript1.2">dqm__codebase = "script/" //script folder location</script>
+<script language="JavaScript1.2" src="sample2_data.js"></script>
+<script language="JavaScript1.2" src="script/dqm_loader.js"></script>
+
+<!-- Top Row, Main Logo -->
+<TABLE cellSpacing=0 cellPadding=0 width=720 border=0 height="87" style="border-collapse: collapse" bordercolor="#111111">
+  <TBODY>
+  <TR>
+    <TD width="718" height="18" colspan="3">
+    <a name="ptsi_home"></a></TD>
+    </TR>
+  <TR>
+    <TD width="171" height="107">
+    <a href="http://www.pro-techsolutions.com/index.htm">
+    <img border="0" src="http://www.pro-techsolutions.com/images/ptsi.logo.main1.png" width="171" height="106"></a></TD>
+    <TD width="387" height="54">
+    <p align="center">
+          <span style="position: absolute; left: 15; top: 334; z-index: 1">
+          <img border="0" src="http://www.pro-techsolutions.com/images/Animation2.gif" width="171" height="85"></span><img border="0" src="http://www.pro-techsolutions.com/images/trg.source6.png" width="351" height="27" loop="0" start="mouseover"></TD>
+    <TD width="155" height="54" align="center" bgcolor="#2D78D3">
+    <p align="left"><!--[if gte vml 1]><v:shapetype id="_x0000_m1038"
+ coordsize="21600,21600" o:spt="100" o:preferrelative="t" adj="0,,0" path="m@4@5l@4@11@8@11@8@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1025" type="#_x0000_m1038"
+ href="http://www.pro-techsolutions.com/presentations/ProcessWriter_web_overview_v2.htm"
+ style='position:absolute;left:430.5pt;top:127.5pt;width:88.5pt;height:54pt;
+ z-index:0;mso-position-vertical-relative:page' o:preferrelative="t"
+ o:allowincell="f">
+ <v:imagedata src="" o:title="PW-Splash8_small"/>
+</v:shape><![endif]--><p dir="ltr">
+      <img border="0" src="http://www.pro-techsolutions.com/images/dove11.gif" width="58" height="51"></TD></TR>
+  <TR>
+    <TD width="171" height="24" bgcolor="#2D78D3">
+    <p align="center">
+    &nbsp;</TD>
+    <TD width="387" height="24" bordercolorlight="#2D78D3">
+
+<!-- Menu -->
+            <TABLE cellSpacing=0 cellPadding=0 width=384 bgColor=black 
+              border=0>
+              <TR>
+                <TD width="128" bgcolor="#FFFFFF" align="center">
+                <p align="center">&nbsp;<a href="http://www.pro-techsolutions.com/processwriter.htm"><font color="#0A50A1" face="Arial" style="font-size: 8pt; font-weight: 700">ProcessWriter</font></a></TD>
+                <TD width="128" bgcolor="#FFFFFF" bordercolor="#0A50A1" align="center">
+                &nbsp; <a href="http://www.pro-techsolutions.com/processwriter.htm">
+                <span style="font-weight: 700">
+                <font face="Arial" style="font-size: 8pt" color="#008080">
+                BuildTree</font></span></a></TD>
+                <TD width="126" bgcolor="#FFFFFF" align="center">
+                <a href="http://www.pro-techsolutions.com/processwriter.htm">
+                <span style="font-weight: 700">
+                <font face="Arial" style="font-size: 8pt" color="#FF0000">FindIt 
+                / PlaceIt</font></span></a></TD></TR></TABLE></TD>
+          
+    <TD width="155" height="24">
+    
+<!-- Search -->
+      <TABLE height=24 cellSpacing=0 cellPadding=0 width=155 align=left border=0>
+        <TBODY>
+        <TR>
+          <FORM name=search2 action=http://www.pro-techsolutions.com/search.asp method=post target=_top>
+          <TD align=center width="164" bgcolor="#2D78D3">
+          <img border="0" src="http://www.pro-techsolutions.com/images/in_compliance.PNG" width="147" height="24"></TD>
+          </FORM></TR></TBODY>
+      </TABLE></TD></TR>
+      
+<!-- Collage -->
+  </TBODY></TABLE>
+
+<!-- Bottom Section -->  
+<TABLE cellSpacing=0 cellPadding=0 width="713" 
+background="http://www.pro-techsolutions.com/home_files/shadow_bg.gif" border=0>
+  <TBODY>
+  <TR>
+    <TD width="661">
+      <TABLE cellSpacing=0 cellPadding=0 width=642 border=0 style="border-collapse: collapse" bordercolor="#111111" height="1">
+        <TBODY>
+        <TR>
+          <TD width="663" height="1" colspan="2"><p align="center" dir="ltr">
+          <p>&nbsp;</TD>
+          </TR>
+        <TR>
+          <TD vAlign=top width="387" height="528">
+            <TABLE cellSpacing=0 cellPadding=0 width="566" align=center 
+border=0 height="265">
+              <TBODY>
+              <tr>
+                <TD vAlign=top width="7" height="1">
+                </TD>
+                <TD vAlign=top width="548" colspan="5" height="1">
+                <img border="0" src="http://www.pro-techsolutions.com/example_images/check.gif" width="13" height="13"><a href="http://www.pro-techsolutions.com/processwriter.htm"> 
+   <font color="#0A50A1" face="Arial" style="font-size: 8pt; font-weight: 700">
+                Introducing ProcessWriter</font></a><font face="Arial" style="font-size: 8pt; font-weight: 700"><font color="#0A50A1">:
+      </font><font face="Arial" style="font-size: 8pt">Automatically builds 
+      procedure files and folders</font></font></TD>
+                <TD vAlign=top width="10" height="1">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=bottom width="7" height="28">
+                &nbsp;</TD>
+                <TD width="548" colspan="5" height="28">
+                <span style="font-weight: 700">
+                <font face="Arial" style="font-size: 8pt" color="#0A50A1">&nbsp;</font><font face="Arial" style="font-size: 8pt" color="#FF0000">No 
+                Need To Buy</font><font face="Arial" style="font-size: 8pt" color="#0A50A1"> 
+                - Let us run it for you - Request demonstration and scope</font></span></TD>
+                <TD vAlign=top width="10" height="28">
+                &nbsp;</TD>
+              </tr>
+              <tr>
+                <TD vAlign=bottom width="7" height="28">
+                &nbsp;</TD>
+                <TD width="548" colspan="5" height="28">
+                <!--[if gte vml 1]><v:line id="_x0000_s1037" alt=""
+ style='position:absolute;left:0;text-align:left;top:0;z-index:1' from="126.75pt,84.75pt"
+ to="423pt,84.75pt" strokecolor="#36c"/><![endif]--><![if !vml]><span
+style='mso-ignore:vglayout;position:absolute;z-index:1;left:168px;top:112px;
+width:397px;height:2px'><img width=397 height=2
+src="PW_E-mail_files/image001.gif" v:shapes="_x0000_s1037"></span><![endif]><span style="font-weight: 700"><font face="Arial" style="font-size: 8pt" color="#0A50A1">It 
+                is possible to</font></span><font color="#0A50A1" face="Arial"><span style="font-size: 8pt; font-weight: 700">:</span></TD>
+                <TD vAlign=top width="10" height="28">
+                &nbsp;</TD>
+              </tr>
+              <tr>
+                <TD width="7" height="24">
+                &nbsp;</TD>
+                <TD width="8" height="24">
+                <p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+                <span style="font-size: 8pt">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></span></TD>
+                <TD width="543" height="24" colspan="3"><font color="black" face="Arial">
+                  <p style="margin-left: 6; margin-top: 0; margin-bottom: 0; line-height:100%">
+                  <span style="font-size: 8pt">Quickly standardize your existing 
+                  procedures</span></TD>
+              </tr>
+              <tr>
+                <TD width="7" height="24">
+                &nbsp;</TD>
+                <TD width="8" height="24">
+                <p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+                <span style="font-size: 8pt">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></span></TD>
+                <TD width="543" height="24" colspan="3"><font color="black" face="Arial">
+                  <p style="margin-left: 6; margin-top: 0; margin-bottom: 0; line-height:100%">
+                  <span style="font-size: 8pt"> Build file folders for 
+                  procedures based on <b>YOUR</b> key processes</span></TD>
+              </tr>
+              <tr>
+                <TD width="7" height="24">
+                &nbsp;</TD>
+                <TD width="8" height="24"><font color="black" face="Arial">
+                <p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+                <span style="font-size: 8pt">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></span></TD>
+                <TD width="543" height="24" colspan="3"><font color="black" face="Arial">
+                  <p style="margin-left: 6; margin-top: 0; margin-bottom: 0; line-height:100%">
+                  <span style="font-size: 8pt"> Build procedures automatically 
+                  based on <b>YOUR</b> document templates</span></TD>
+              </tr>
+              <tr>
+                <TD width="7" height="24">
+                &nbsp;</TD>
+                <TD width="8" height="24">
+                <p style="margin-top: 0; margin-bottom: 0; line-height:100%">
+                <span style="font-size: 8pt">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></span></TD>
+                <TD width="543" height="24" colspan="3"><font color="black" face="Arial">
+                  <p style="margin-left: 6; margin-top: 0; margin-bottom: 0; line-height:100%">
+                  <span style="font-size: 8pt"> Build accurate content with <b>
+                  YOUR</b> standard phrases and data using mouse clicks, minimal 
+                  typing</span></TD>
+              </tr>
+              <TR>
+                <TD width="7" height="17">
+                  </TD>
+                <TD width="8" height="17">
+                  <p></p>
+                  <p></p>
+                  <p></p>
+                  <p>
+                  </TD>
+                <TD colSpan=2 width="141" height="17">
+                  </TD></TR>
+              <TR>
+                <TD width="7" height="17">
+                  </TD>
+                <TD width="8" height="17">
+                  <P style="margin-top: 1; margin-bottom: 1">
+                  </P></TD>
+                <TD width="185" height="17">
+                  </TD>
+                <TD colSpan=2 width="404" height="17">
+                  <font color="#0A50A1"><b><span style="font-size: 8pt">&nbsp;</span><font face="Arial" style="font-size: 8pt">
+                  </font></b></font>
+                  <font color="#0A50A1" style="font-size: 8pt" face="Arial"><B>
+                  For More Information:</B></font></TD></TR>
+              <tr>
+                <TD vAlign=top width="7" height="17">
+                </TD>
+                <TD vAlign=top width="8" height="17">
+                <p style="margin-top: 1; margin-bottom: 1">
+                </TD>
+                <TD width="118" height="17" align="right">
+                  </TD>
+                <TD width="24" height="17" align="right">
+                <span style="font-size: 8pt">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></span></TD>
+                <TD width="402" height="9"><font color="black" style="font-size: 9pt" face="Arial">
+                  <p style="margin-left: 6; margin-top: 1; margin-bottom: 1">
+                  <a href="http://www.pro-techsolutions.com/presentations/ProcessWriter_web_overview_v2.htm">
+                  <span style="font-size: 8pt">View the Presentation</span></a></TD>
+                <TD width="1" height="9"><font color="black" style="font-size: 9pt" face="Arial">
+                  </TD>
+              </tr>
+              <TR>
+                <TD vAlign=top width="7" height="17"><font color="black" style="font-size: 9pt" face="Arial">
+                </TD>
+                <TD vAlign=top width="8" height="17"><font color="black" style="font-size: 9pt" face="Arial">
+                <p style="margin-top: 1; margin-bottom: 1">
+                </TD>
+                <TD width="118" height="17" align="right"><font color="black" style="font-size: 9pt" face="Arial">
+                </TD>
+                <TD width="24" height="17" align="right">
+                <span style="font-size: 8pt">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></span></TD>
+                <TD width="402" height="9"><font color="black" style="font-size: 9pt" face="Arial">
+                  <p style="margin-left: 6; margin-top: 1; margin-bottom: 1">
+                  <a href="http://www.pro-techsolutions.com/presentations/ProcessWriter_web_overview_v2.htm">
+                  <span style="font-size: 8pt">Request 
+                  a CD or to be contacted</span></a><span style="font-size: 8pt"><span style="mso-spacerun:yes">&nbsp;</span>
+                  </span>
+                  </span>
+                </TD>
+                <TD width="1" height="17">
+                </TD></TR>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="8" height="8">
+                <font face="Arial, Helvetica, sans-serif">
+                <span style="font-size: 8pt">&nbsp;</span></font></TD>
+                <TD width="141" height="8" colspan="2">
+                  <font face="Arial, Helvetica, sans-serif">
+                  <span style="font-size: 8pt">&nbsp;</span></font></TD>
+                <TD width="402" height="8">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="57">
+                &nbsp;</TD>
+                <TD vAlign=top width="548" colspan="5" height="57">
+                <font style="font-size: 8pt" face="Arial, Helvetica, sans-serif">
+                <b>Quick Overview:&nbsp;&nbsp; </b>We have completed initial 
+                development of an automated procedure writing tool that 
+                we&nbsp;can&nbsp;now&nbsp;execute for you, or with you on your own projects, 
+                saving time and money.&nbsp;We are calling it '<b>ProcessWriter</b>', which 
+                is in two parts, and is written using Word and Excel. We are in 
+                Houston, and would love to provide more information at your 
+                convenience.</font></TD>
+                <TD vAlign=top width="10" height="57">
+                &nbsp;</TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="12">
+                </TD>
+                <TD vAlign=top width="548" height="12" colspan="5">
+                </TD>
+                <TD vAlign=top width="10" height="12">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="1">
+                </TD>
+                <TD vAlign=top width="548" colspan="5" height="1">
+                <font face="Arial, Helvetica, sans-serif">
+                <font style="font-size: 8pt"><b>BuildTree:&nbsp; </b>The first part of the ProcessWriter 
+                program is called '<b>BuildTree</b>'. It builds folder structures and 
+                procedure files from templates at run-time. All files and 
+                folders derive their individual naming conventions from the data 
+                set, which is in an Excel workbook. Folder and file names are 
+                created automatically. The file names in fact are acronyms that 
+                are automatically extracted from long unit and system names. 
+                Data from the process list is used to build sentences, headers, 
+                and footers on the fly. The tree and all files are built with a 
+                single button click.</font><span style="font-size: 8pt">&nbsp;</span></font></TD>
+                <TD vAlign=top width="10" height="1">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="548" height="8" colspan="5">
+                </TD>
+                <TD vAlign=top width="10" height="8">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="548" height="8" colspan="5">
+                <font face="Arial, Helvetica, sans-serif" style="font-size: 8pt">
+                <b>FindIt / PlaceIt: </b>&nbsp;With the procedures built, filed, 
+                and partially populated, the '<b>FindIt / PlaceIt</b>' part of the 
+                ProcessWriter program is used to add content. That content is 
+                also derived from the data set and is used to very quickly 
+                author procedure documents with minimal typing, no typographical 
+                errors and no document formatting errors. Equipment information 
+                from a process list and common phrases used to author the 
+                procedures come from the data set as well and are easily 
+                accessible via drop down lists. Where the PC clipboard allows 
+                for less than 20 clips, all of which disappear at PC shutdown, 
+                'FindIt/PlaceIt' can deliver from 1 to 500 common phrases from 
+                the data set. The phrases can be controlled by the writer or the 
+                Company and are easily amended.</font></TD>
+                <TD vAlign=top width="10" height="8">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="548" height="8" colspan="5">
+                </TD>
+                <TD vAlign=top width="10" height="8">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="548" height="8" colspan="5">
+                <font face="Arial">
+                <span style="font-size: 8pt">&nbsp;Written In <b>Word</b> and <b>
+                Excel</b>:
+          <img border="0" src="http://www.pro-techsolutions.com/images/Word.gif" align="middle" width="34" height="34"><img border="0" src="http://www.pro-techsolutions.com/images/Excel.gif" align="middle" width="34" height="34"></span></font></TD>
+                <TD vAlign=top width="10" height="8">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="548" height="8" colspan="5">
+                </TD>
+                <TD vAlign=top width="10" height="8">
+                </TD>
+              </tr>
+              <tr>
+                <TD width="7" height="8">
+                  </TD>
+                <TD colSpan=5 width="548" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                  <P style="margin-top: 1; margin-bottom: 1">
+                  <font color="#0A50A1" face="Arial"><B>Implementation Options:</B></font></P></TD>
+                <TD width="10" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                </TD>
+                <TD vAlign=top width="8" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                <p style="margin-top: 1; margin-bottom: 1">
+                <IMG 
+                  src="pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></TD>
+                <TD width="540" height="8" colspan="4"><font color="black" style="font-size: 8pt" face="Arial">
+                  <p style="margin-left: 6; margin-top: 1; margin-bottom: 1">
+                  We run ProcessWriter for you using your data (consulting time 
+                  only)</TD>
+                <TD width="10" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                </TD>
+                <TD vAlign=top width="8" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                <p style="margin-top: 1; margin-bottom: 1">
+                <IMG 
+                  src="pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></TD>
+                <TD width="540" height="17" colspan="4"><font color="black" style="font-size: 8pt" face="Arial">
+                  <p style="margin-left: 6; margin-top: 1; margin-bottom: 1">
+                  We help you amend&nbsp; ProcessWriter for use at your 
+                  facilities by your resources</TD>
+                <TD width="10" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="8" height="8">
+                <p style="margin-top: 1; margin-bottom: 1">
+                <IMG 
+                  src="pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></TD>
+                <TD width="540" height="17" colspan="4"><font color="black" style="font-size: 8pt" face="Arial">
+                  <p style="margin-left: 6; margin-top: 1; margin-bottom: 1">
+                  We sell you ProcessWriter with Code Key and train your 
+                  programmers and System Administrators in its' use</TD>
+                <TD width="10" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                </TD>
+                <TD vAlign=top width="8" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                <p style="margin-top: 1; margin-bottom: 1">
+                <IMG 
+                  src="http://www.pro-techsolutions.com/pipelines_files/bullet.gif" 
+                  vspace=2 width="8" height="10"></TD>
+                <TD width="540" height="8" colspan="4"><font color="black" style="font-size: 8pt" face="Arial">
+                  <p style="margin-left: 6; margin-top: 1; margin-bottom: 1">
+                  We partner with you to amend ProcessWriter for Business to 
+                  Business applications</TD>
+                <TD width="10" height="8"><font color="black" style="font-size: 8pt" face="Arial">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="8">
+                </TD>
+                <TD vAlign=top width="8" height="8">
+                </TD>
+                <TD width="540" height="17" colspan="4">
+                  </TD>
+                <TD width="10" height="8">
+                  </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="17">
+                </TD>
+                <TD vAlign=top width="548" height="17" colspan="5">
+                <FONT size=1 face="Arial">Copyright 2005 Pro-Tech Solutions, Inc.&nbsp; All 
+      rights reserved. <a href="http://www.pro-techsolutions.com/privacy.htm">Privacy 
+      Policy</a> | <a href="http://www.pro-techsolutions.com/legal.shtm">Legal Notice</a> |
+    <a href="mailto:webmaster@pro-techsolutions.com">Contact 
+  Webmaster</a></FONT></TD>
+                <TD vAlign=top width="10" height="17">
+                </TD>
+              </tr>
+              <tr>
+                <TD vAlign=top width="7" height="17">
+                </TD>
+                <TD vAlign=top width="548" height="17" colspan="5">
+                <font face="Arial" size="1">
+                <a href="mailto:webmaster@pro-techsolutions.com">Remove</a>: 
+                Place 'Remove in the Subject field</font></TD>
+                <TD vAlign=top width="10" height="17">
+                </TD>
+              </tr>
+              </TBODY></TABLE>
+              </TD>
+          <TD width="248" height="528" bgcolor="#2D78D3" align="center" valign="bottom">
+            <TABLE class=white cellSpacing=0 cellPadding=8 width=83 border=0 height="761">
+              <TBODY>
+              <TR vAlign=top>
+                <TD width="114" height="745" bgcolor="#2D78D3">
+                  <p align="left">
+                  <a href="http://www.pro-techsolutions.com/processwriter.htm">
+                  <img border="0" src="http://www.pro-techsolutions.com/processwriter_files/image001.png" width="137" height="73"></a><img border="0" src="http://www.pro-techsolutions.com/processwriter_files/image002.png" align="middle" width="137" height="521" vspace="3"></TD>
+                </TR></TBODY></TABLE>
+            <p>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<!-- Privacy and Legal -->
+  
+  
+  <script type="text/javascript">
+<!--
+	document.write('<img src="/cgi-bin/cgiwrap/brian12/axs/ax.pl?trans.gif&ref=');
+	document.write(document.referrer);
+	document.write('" height="1" width="1" alt="" />');
+// -->
+</script><noscript>
+	<img src="/cgi-bin/cgiwrap/brian12/axs/ax.pl?trans.gif" height="1" width="1" alt="" /></noscript>
+  
+  
+</BODY></HTML>

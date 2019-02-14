@@ -1,0 +1,59 @@
+Return-Path: <538bsnzmasako@mail.goo.ne.jp>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24786 invoked by uid 115); 9 May 2005 07:25:17 -0000
+Received: from 538bsnzmasako@mail.goo.ne.jp by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(221.214.194.246):. 
+ Processed in 0.174359 secs); 09 May 2005 07:25:17 -0000
+Received: from unknown (HELO g1nlihmgk) (221.214.194.246)
+  by churchill.factcomp.com with SMTP; 9 May 2005 07:25:16 -0000
+Subject: =?ISO-2202-JP?Q?=82=A8=92m=82=E7=82=B9?=
+Sender: "=?ISO-2202-JP?Q?=8F=E3=96=EC?=" <538bsnzmasako@mail.goo.ne.jp>
+From: "=?ISO-2202-JP?Q?=8F=E3=96=EC?=" <538bsnzmasako@mail.goo.ne.jp>
+Date: Mon, 9 May 2005 16:39:30 +0900
+To: "=?ISO-2202-JP?Q?bruceg?=" <bruceg@em.ca>
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Mailer: =?ISO-2202-JP?Q?rvvbijow2uxliywjrygbd7zwagdcc5aowby7?=
+Content-Type: text/plain;
+	charset="ISO-2202-JP"
+X-Qmail-Scanner-Message-ID: <111562351767224779@churchill>
+
+YnJ1Y2Vnl2wNCg0Kgs2CtoLfgtyCtYLEgUFFir+V+4LFgreBQg0KDQplir+V
++4LMlMyUhI+klWmCzY7lgsmSho2Rk8GXTILMi02PZIq/lfuW8oFFir+V+5C4
+l82N3It5gtGSho2RlryTwY5ZgsWCoILogUGDbINig2eSjZW2gsyMYILFkryQ
+2pP6lnuC4oNBg4GDioNKgsyCqItxl2yCyZdYkZeCtYLcgreBQpNdlISC8Ijq
+lNSPrYLIgq2Ct4LpgrGCxoLJguaCwYLEgUGNxY9JjuaI+JDmgsyXmIl2gvCC
+spXbj9iCtYLcgreBQg0KkVOVlILMlMyUhI+klWmCzYFBi1qPcJDqluWJxoLJ
+guaCwYLEjWyP2IKzguqBQZVpjr+C8IptlduCtYLcgreBQg0KDQqByyBodHRw
+Oi8vd3d3LmVrYW5wb3UuYml6DQoNCoGZgZmBmSCQVo+klWmQhJFFIIGZgZmB
+mQ0KDQqBmoNBg4GDioNKVmlnUniBmg0KgUCDeYNqg1iCyYLNglGCwoLMikOW
+yJHMlZSVqoKqgqCC6ILcgreBQou7lbGCtYLEgq2C6YLGlnWLToKqjm6C3ILo
+gUEglnWLTg0KgreC6ZFnkESRzILJjIyJdIKql6yC6o2egt2C3IK3gUKCsYLM
+lnWLTpFnkESC8IpnkeWCt4LpguaCpILJiciKd47ogskgikqUrQ0KgrOC6oK9
+gsyCqlZpZ1JYgsWCt4FCgrGCzJZ1i06RZ5BEgs2IyJFPguaC6JG9gq2CzIyM
+iXSC8Ircgt6CsYLGgqogj2+XiILpDQqC5oKkgsmCyILogtyCt4FCDQoNCoHL
+IGh0dHA6Ly9la2FucG91LmJpeg0KDQqBmoNHg0ODWYFpSElWgWqOqZHujJ+N
+uINMg2KDZ4GaDQqMn424g1qDk4NegVuCqYLngsyMi4nKgsyTnpKFgvCR0oLC
+lUuXdoLNgqCC6ILcgrmC8YFCDQqCu4LMj+qCxZGmjcCCyYyLicqC8JJtgumC
+sYLGgqqPb5eIgtyCt4FCDQqCWIJYgZOIyI/jgsyQs5Bml6aCxYK3gUINCoJn
+gmiCdYF8glCBQYJRgsyXvJX7gvCTr46egsmSVJJtgrWC3IK3gUINCoNHg0OD
+WZZvlsWDTIODg5ODeYFbg5OOwI57koaCxYK3gUkNCg0KgcsgaHR0cDovL3d3
+dy5la2FucG91LmJpeg0KDQqBmoNWg0GDioNYg4uBmg0Kg1aDQYOKg1iCzYFB
+lcSNkUVsaSBMaWxseY7QgsaVxI2RSUNPU47QgqqLpJOvj2+OkYK1gr1MaWxs
+eSBJQ09TjtCCqYLnlK2UhIKzguqCvZZ1i06Vc5FTjqGXw5bygsWCt4FCg1aD
+QYOKg1iCzI7lkKyVqoLFgqCC6YNeg1+DiYN0g0KDi4FpjG+M+1BERTWRaopR
+jdyBaoLMk62Cq4LJguaC6IyMl6yC8IqIlK2CyYK1gUGPXJWqgsiWdYtOl82C
+8JbxMjSOnorUguCCzIrUiNuOnYK3gumCsYLGgqqTwZKlgsWCt4FCg1aDQYOK
+g1iCzIjAkVOQq4LGjPiJyoLwim2CqYLfgumX1Y+wjsCMsYLJgqiCooLElvEx
+MTAwkGyC8JHOj9uCyY1zgu2C6oK9jIuJyoFBODGBk4LMkGyCqoNWg0GDioNY
+gsmC5oLBgsRFRIKqifyRUIKzguqCvYLGlfGNkIKzguqCxIKigtyCt4FCIA0K
+DQqByyBodHRwOi8vd3d3LmVrYW5wb3UuYml6DQoNCoGggaCBoIGggaCBoIGg
+gaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoA0KZYq/
+lfsgir+V+5byi8cNClVSTCA6IGh0dHA6Ly93d3cuZWthbnBvdS5iaXoNCoF5
+IIq/lfuW8iCBeoF5IIySjU6QSJVpIIF6gXkgg1+DQ4NHg2KDZ4F6gXkgkLiX
+zY3cIIF6DQqBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCB
+oIGggaCBoIGggaCBoIGggaANCg==
+
+

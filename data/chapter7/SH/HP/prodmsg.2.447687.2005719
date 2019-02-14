@@ -1,0 +1,62 @@
+Received: from mx26.web.de (217.72.192.218)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:56:44 -0000
+Received: from fmail by mx26.web.de with local (WEB.DE 4.105 #297)
+	id 1DuppL-0007hT-00
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:59:55 +0200
+X-Failed-Recipients: rmichael@fh-konstanz.de
+From: Mail Delivery System <Mailer-Daemon@web.de>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mailzustellung fehlgeschlagen / Mail delivery failed 
+Message-Id: <E1DuppL-0007hT-00@mx26.web.de>
+Date: Tue, 19 Jul 2005 12:59:55 +0200
+
+Diese Nachricht wurde von der Mail-Software automatisch erzeugt.
+This message was created automatically by mail delivery software.
+
+Eine Nachricht von Ihnen konnte nicht an alle Empfaenger zugestellt werden.
+A message that you sent could not be delivered to all of its recipients.
+
+Folgende Adressen schlugen fehl:
+The following address(es) failed:
+
+  rmichael@fh-konstanz.de
+    (generated from rainer.michael@web.de)
+    SMTP error from remote mailer after end of data:
+    host mail-vsr.belwue.de [129.143.2.36]: 554 5.7.1 Message rejected:
+    SPAM rating value exceeded (254/60).
+
+------ Dies ist eine Kopie der Nachricht, inklusive aller Kopfzeilen. ------
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [221.184.168.155] (helo=mailwisconsin.com)
+	by mx26.web.de with smtp (WEB.DE 4.105 #297)
+	id 1DuppG-0007eR-00
+	for rainer.michael@web.de; Tue, 19 Jul 2005 12:59:51 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360461;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: rainer.michael@web.de
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836437">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+

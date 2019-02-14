@@ -1,0 +1,106 @@
+Message-ID: <27562051.1075856643857.JavaMail.evans@thyme>
+Date: Tue, 8 Aug 2000 02:26:00 -0700 (PDT)
+From: vince.kaminski@enron.com
+To: joseph.hrgovcic@enron.com
+Subject: Re:
+Cc: mike.roberts@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mike.roberts@enron.com, vince.kaminski@enron.com
+X-From: Vince J Kaminski
+X-To: Joseph Hrgovcic
+X-cc: Mike A Roberts, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Joe,
+
+I have written to Pal Quilkey to invite Christian Werner to Houston
+for a week to discuss how much of his research we can use.
+
+Vince
+
+
+
+
+
+Joseph Hrgovcic
+08/01/2000 06:51 PM
+To: Vince J Kaminski/HOU/ECT@ECT, Mike A Roberts/HOU/ECT@ECT
+cc:  
+Subject: 
+
+Vince,
+
+ I have inquired into Christian's climate models. It seems to me like a long 
+term project. Chiristian says that his model might be able to do better than 
+the Australian Met given that they ignore some of the variables he uses and 
+that they are an "old boy's network"  resistant to new developments, but I 
+don't think the same can be said of most other weather services. As far as 
+the NWS goes, they run their model on a Cray, they have several very talented 
+PhD's working on it full-time,  and even then, they can only get a dozen or 
+so runs per night. In other words, it's a huge system. Replicating something 
+even close to that will not be an easy task. 
+
+ That being said, I think there are related applications that we could look 
+into.  Since I've already promised the RAC group and the weather desk's PJM 
+traders to put together a Vector AutoRegressive model of daily temperatures, 
+I think it makes sense to see if something better than a VAR model can be put 
+together, perhaps a very stripped down version of the kind of model Christian 
+has. What I have in mind is something  that would give us say, up to several 
+dozens of "possible" temperature forecasts every morning, which would be 
+calculated using actual climate models (as opposed to time series models). I 
+would not use this as a forecasting tool (the NWS model results would make a 
+far better  "best guess"), but our ensemble could still be used to provide a 
+distribution of temperature scenarios. This ensemble would have several uses:
+
+ 1) we could price the book for the ensemble of runs and thereby obtain a 
+more realistic daily V@R for the Weather Book (and eventually interface that 
+with the power desk's V@R calculations)
+
+ 2) we could use the ensemble of forecasts to relate temperature forecasts to 
+week-ahead CDD and HDD distributions (for use in our demand swaps)
+
+ 3)  if Freese-Notis were to give us one of their qualitative forecasts, 
+e.g., "expect the trough to recede" we could sort through the different Monte 
+Carlo scenarions, find one in which the trough in question is receding, and 
+use corresponding output statistics to download the actual temperatures 
+corresponding to that scenario. Up till now, we haven't found a good way of 
+getting a numerical fix on what different forecasts actually mean 
+temperature-wise
+
+ 4) we could use the associated visualization routines that come with such 
+models to get animations of the evolution of historical weather patterns. The 
+traders could use these in order to look for historical periods which roughly 
+match current weather conditions and get an idea of what could happen; 
+although these meteorological models would not be good for simulating 
+month-ahead or season-ahead weather (trust me on this) we could still use the 
+visualization technology to do to analogous seasonal animations.
+
+ Just today, I've spoken with Dr. Jacobsen of Stanford University, who has 
+written one of the more recent textbooks on climate forecasting , and who 
+worked with UCLA's general circulation model.  He says that getting a 
+simplified version of MM5 (which is itself a simplified, limited-area version 
+of the GCM models that NWS, COLA, and UCLA use) would take several months to 
+implement,  assuming the people involved are already well versed in the 
+technology. Also, I have contacted AER, a Massachusetts- based weather 
+consulting firm, and they tell me that they have a MM5 model running daily 
+(only one run per night), and also some smaller PC models up and running. 
+They are of course willing to work with us for a fee. Their MM5 version runs 
+on a $200,000 parallel processor.
+
+ I am open to your suggestions (or objections as the case may be). I'm not 
+sure how the costs would be apportioned given that this would benefit all of 
+Enron, and not just the weather desk.
+
+ I am scheduled to go to Boston next week anyway, and would like to use the 
+opportunity to visit with AER. I will of course coordinate any projects with 
+Christian (if we get something like this up and running it will be more 
+likely that he can get the computing power he needs to run his own Australian 
+model).
+
+Joe
+
+

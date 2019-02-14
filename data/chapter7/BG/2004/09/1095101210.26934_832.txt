@@ -1,0 +1,40 @@
+Return-Path: <Amado@linuxmail.org>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 7372 invoked from network); 4 Sep 2004 00:50:53 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 04 Sep 2004 00:50:53 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 04 Sep 2004 00:50:53 -0000
+Received: (qmail 16840 invoked from network); 4 Sep 2004 00:50:53 -0000
+Received: from d35.as0.athn.oh.core.com (unknown [209.239.154.36])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 04 Sep 2004 00:50:44 -0000
+Received: from 215.122.220.156 by 209.239.154.36; Sat, 04 Sep 2004 18:42:29 +0200
+Message-ID: <pressureconcisionlumpishdecca@numail.co.uk>
+From: "Robert Skinner" <Amado@linuxmail.org>
+Reply-To: "Robert Skinner" <Amado@linuxmail.org>
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: To Holland's Shop Customers!
+Date: Sat, 04 Sep 2004 20:51:29 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; charset=iso-8859-1;
+	boundary="--41488918645709597"
+
+----41488918645709597
+Content-Type: text/plain;
+Content-Transfer-Encoding: quoted-printable
+
+Dear customer!
+
+We updated our software catalogue and added new
+popular products! Now you can get any software item
+at 90% discount rate! For more information visit us here:
+http://motor.infostech.info/index.php?s=3D4241
+
+With best regards,
+Product Manager
+Robert Skinner
+
+----41488918645709597--
+

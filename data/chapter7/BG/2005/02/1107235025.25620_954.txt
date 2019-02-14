@@ -1,0 +1,37 @@
+Return-Path: <hqwrnk@o2.pl>
+Delivered-To: em-ca-bait-baseline@em.ca
+Received: (qmail 20843 invoked by uid 115); 29 Jan 2005 03:16:53 -0000
+Received: from hqwrnk@o2.pl by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(61.116.171.55):. 
+ Processed in 0.117401 secs); 29 Jan 2005 03:16:53 -0000
+Received: from hrdfa-01p3-55.ppp11.odn.ad.jp (61.116.171.55)
+  by churchill.factcomp.com with SMTP; 29 Jan 2005 03:16:51 -0000
+Received: from marvit (modem-2664.rns.tamu.edu [144.138.226.54])
+	by morpheus.tamu.edu (8.9.3 (MessagingDirect 1.3.4)/8.2.3) with SMTP id OA29222760
+	for <aynoway@em.ca>; Sat, 29 Jan 2005 02:08:58 -0100
+Date: Sat, 29 Jan 2005 04:07:58 +0100
+From: "Nadia Pope" <hqwrnk@o2.pl>
+Message-ID: <3D6AA7EB.9640564@island.net>
+To: aynoway@em.ca
+Subject: Re: 
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Ximian Evolution 1.4.3 (1.4.3-0)
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2800.1479" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<P>How have you been? I have very exciting news!</P>
+<P>We FINALLY were able to save an extra $450 a month</P>
+<P>We refinanced our mortgage with a 3.75% lower rate, and closing was fast!</P>
+<P>The application was free and we got several low rate quotes within days</P>
+<P>CIick on this link and check it out!</P><A 
+href="http://www.mortgages-4-you.com/?d37">Time to Save</A> 
+<P>Hope you do good with money over the coming year</P>
+<P>Nadia Pope</BODY></HTML>
+

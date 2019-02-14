@@ -1,0 +1,207 @@
+Return-Path: <master@heartandsoul.pt>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 7000 invoked from network); 14 Jul 2005 01:59:25 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 14 Jul 2005 01:59:25 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 14 Jul 2005 01:59:25 -0000
+Received: (qmail 4276 invoked from network); 14 Jul 2005 01:59:23 -0000
+Received: from sapo.pt (unknown [212.55.154.25])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 14 Jul 2005 01:59:22 -0000
+Received: (qmail 6417 invoked from network); 14 Jul 2005 01:59:20 -0000
+Received: from unknown (HELO sapo.pt) (10.134.35.155)
+  by relay5 with SMTP; 14 Jul 2005 01:59:20 -0000
+Received: (qmail 11123 invoked from network); 14 Jul 2005 01:59:11 -0000
+X-AntiVirus: PTMail-AV 0.3.85
+Received: from unknown (HELO sapo.pt) ([82.155.145.96])
+          (envelope-sender <master@heartandsoul.pt>)
+          by mta5 (qmail-ldap-1.03) with SMTP
+          for <cvs@bruce-guenter.dyndns.org>; 14 Jul 2005 01:59:11 -0000
+Reply-To: Newsletter Heart & Soul <as1529896@sapo.pt>
+Date: Thu, 14 Jul 2005 02:20:43 +0000 (Hora padrão de GMT)
+From: Newsletter Heart & Soul <as1529896@sapo.pt>
+To: cvs@bruce-guenter.dyndns.org
+Message-ID: 38547.097719907404_30912209344068
+Subject: Newsletter 001
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+Content-Length: 10852
+Lines: 176
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Heart&amp;Soul Newsletter n.001</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+<!--
+-->
+</style>
+</head>
+
+<body bgcolor="#E8E8E8" text="#000000" link="#FF6600" vlink="#FF6600" alink="#FF6600" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="505" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="http://www.heartandsoul.pt"><img src="http://www.heartandsoul.pt/nl/gfx/top.jpg" alt="Heart&Soul" width="504" height="120" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif"><div align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">          <strong><font color="#666666">Newsletter no.</font> 001</strong> | <em>12-07-2005</em>&nbsp;&nbsp;</font></div></td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif"><a href="http://www.heartandsoul.pt/index.php?s=2" target="_blank"><img src="http://www.heartandsoul.pt/nl/gfx/t_noticias.jpg" alt="Noticias" width="420" height="20" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif"><table width="494" border="0" align="center" cellpadding="2" cellspacing="3">
+      <tr>
+        <td width="50%" bgcolor="#EEEEEE"><strong><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">Atlantic Beats </font></strong></td>
+        </tr>
+      <tr>
+        <td valign="top"><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td valign="top" bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt/index.php?s=2&nid=5" target="_blank"><img src="http://www.heartandsoul.pt/images/news/atlanticbeats_150x150.jpg" alt="Atlantic Beats" width="50" height="50" hspace="6" border="1" align="left" /></a></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">E c&aacute; estamos a anunciar um dos eventos que h&aacute; muito estava no imagin&aacute;rio dos respons&aacute;veis pela Heart &amp; Soul, o ATLANTIC BEATS, que se vai realizar nas Piscinas de S. Pedro de Moel...<br />
+                        </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt/index.php?s=2&nid=5" target="_blank">Ler mais </a></font></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"><strong><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">Novo site, finalmente online!</font></strong></td>
+      </tr>
+      <tr>
+        <td valign="top"><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td valign="top" bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt/index.php?s=2&nid=4" target="_blank"><img src="http://www.heartandsoul.pt/images/news/dind_150x150.jpg" alt="Dance in Douro" width="50" height="50" hspace="6" border="1" align="left" /></a></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">A Heart &amp; Soul vai realizar a 27 de Agosto do corrente ano o Festival Internacional de M&uacute;sica Electr&oacute;nica e Multim&eacute;dia, DANCE IN DOURO 2005...<br />
+            </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt/index.php?s=2&nid=4" target="_blank">Ler mais </a></font></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"><strong><font color="#666666" size="1" face="Verdana, Arial, Helvetica, sans-serif">Novo site, finalmente online!</font></strong></td>
+      </tr>
+      <tr>
+        <td valign="top"><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td valign="top" bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt/index.php?s=2&amp;nid=1" target="_blank"><img src="http://www.heartandsoul.pt/images/news/site_23junho.jpg" alt="Novo Site" width="50" height="50" hspace="6" border="1" align="left" /></a></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Depois de um per&iacute;odo de reestrutura&ccedil;&atilde;o, finalmente podemos ter on-line todas as not&iacute;cias relacionadas com o core business da Heart &amp; Soul...<br />
+                        </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.heartandsoul.pt/index.php?s=2&amp;nid=1" target="_blank">Ler mais </a></font></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif"><a href="http://www.heartandsoul.pt/index.php?s=4" target="_blank"><img src="http://www.heartandsoul.pt/nl/gfx/t_eventos.jpg" alt="Eventos" width="420" height="20" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td valign="top" background="gfx/ctbg.gif"><table width="494" border="0" align="center" cellpadding="2" cellspacing="3">
+      <tr>
+        <td bgcolor="#E6E6E6"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">ATLANTIC BEATS</font></strong></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><em>17-08-2005 @ Piscinas de S&atilde;o Pedro de Moel</em></font></td>
+      </tr>
+      <tr>
+        <td><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td bgcolor="#F8F8F8"><div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> Agosto vai sentir as ondas sonoras mais quentes deste lado do Atl&acirc;ntico com a presen&ccedil;a de um alinhamento de djs de luxo. <a href="http://www.heartandsoul.pt/index.php?s=4&amp;eid=17">Ler mais </a></font></div></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E6E6E6"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">DANCE IN DOURO</font></strong></td>
+      </tr>
+      <tr>
+        <td bgcolor="#EEEEEE"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><em>27-08-2005 @ Piscinas da R&eacute;gua</em></font></td>
+      </tr>
+      <tr>
+        <td><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+            <tr>
+              <td bgcolor="#F8F8F8"><div align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> Mais uma vez, as piscinas da R&eacute;gua ser&atilde;o o local de elei&ccedil;&atilde;o para este j&aacute; m&iacute;tico evento anual. Quem assistir ao evento a 27 de Agosto ter&aacute; uma surpresa... <a href="http://www.heartandsoul.pt/index.php?s=4&amp;eid=19">Ler mais </a></font></div></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif"><a href="http://www.heartandsoul.pt/index.php?s=3" target="_blank"><img src="http://www.heartandsoul.pt/nl/gfx/t_agenda.jpg" alt="Agenda" width="420" height="20" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td valign="top" background="http://www.heartandsoul.pt/nl/gfx/ctbg.gif"><table width="494" border="0" align="center" cellpadding="2" cellspacing="3">
+      <tr>
+        <td bgcolor="#E6E6E6"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">15-07-2005</font></strong></td>
+      </tr>
+      <tr>
+        <td><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Crooklyn Clan</strong> [Hip Hop]<br />
+              &nbsp;&nbsp;@               <em>Super Club, Matosinhos</em></font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Satoshi Tomiie</strong> [House]<br />
+&nbsp;              @ <em>Hit Club, P&oacute;voa de Varzim</em> </font></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E6E6E6"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">16-07-2005</font></strong></td>
+      </tr>
+      <tr>
+        <td><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Celeda</strong> [House]<br />
+&nbsp; @ <em>Lagars, Amares</em> </font></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E6E6E6"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">20-07-2005</font></strong></td>
+      </tr>
+      <tr>
+        <td><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Frankie Knuckles</strong> [House]<br />
+&nbsp; @ <em>Vinyl Plaza, Figueira da Foz </em> </font></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E6E6E6"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">22-07-2005</font></strong></td>
+      </tr>
+      <tr>
+        <td><table width="100%"  border="0" cellspacing="2" cellpadding="1">
+          <tr>
+            <td bgcolor="#F8F8F8"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>David Morales </strong> [House]<br />
+&nbsp; @ <em>Hit Club, P&oacute;voa de Varzim</em> </font></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="http://www.heartandsoul.pt/nl/gfx/bot.jpg" width="504" height="20" /></td>
+  </tr>
+  <tr>
+    <td valign="top">      <div align="center"><font color="#999999" size="1" face="Arial, Helvetica, sans-serif">Recebeu este email porque o seu endere&ccedil;o de email est&aacute; inserido na mailing list Heart &amp; Soul.<br />
+    </font><font color="#999999" size="1" face="Arial, Helvetica, sans-serif">Se deseja ser removido da nossa lista, por favor envie um email em branco para remove@heartandsoul.pt</font></div></td>
+  </tr>
+</table>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--

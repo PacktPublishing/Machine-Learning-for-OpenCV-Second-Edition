@@ -1,0 +1,52 @@
+Return-Path: <lancamentos@martinscoml.com.br>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 19882 invoked by uid 115); 2 Aug 2004 05:17:26 -0000
+Received: from lancamentos@martinscoml.com.br by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(200.140.26.213):. 
+ Processed in 0.962168 secs); 02 Aug 2004 05:17:26 -0000
+Received: from 200-140-026-213.cpece7006.dsl.brasiltelecom.net.br (HELO martinscoml.com.br) (200.140.26.213)
+  by churchill.factcomp.com with SMTP; 2 Aug 2004 05:17:24 -0000
+From: "Martins Livraria" <lancamentos@martinscoml.com.br>
+To: <bruceg@em.ca>
+Subject: Saiba tudo sobre sua moto
+Sender: "Martins Livraria" <lancamentos@martinscoml.com.br>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Mon, 2 Aug 2004 01:20:48 -0300
+Content-Transfer-Encoding: 8bit
+X-Qmail-Scanner-Message-ID: <109142384667319876@churchill>
+
+Manual de Mecânica de Motos
+
+2 CD's repletos de informações sobre mecânica de Motos 
+ 
+Troca de óleo;  
+Troca de filtro de óleo e filtro de ar;  
+Serviços no sistema  
+elétrico (desde trocar uma simples lâmpada "biodo", até a instalar alarme; 
+Entenderá o que é um chicote); 
+Desmontagem e lubrificação do motor;  
+Embreagem;  
+Remover e limpar o carburador;  
+Sistema de ignição; 
+Como verificar a bateria (saber se está boa ao medir com um aparelho
+chamado voltímetro);  
+Troca de pastilhas de freio;  
+Ajuste de corrente;  
+Troca de transmissão (corrente, coroa e pião);  
+Trocar fluido de freio e sangramento;  
+Lubrificar cabos de freio e embreagem; 
+Como desmontar as rodas (dianteira e traseira), sem nenhum sacrifício e
+sem se sujar; 
+Desmontar o motor do jeito mais simples possível. 
+E Muito mais... 
+
+Confira em:
+
+http://www.mmotos.kit.net
+
+Para cancelar o recebimento desta mensagem acesse:
+
+http://www.mmotos.kit.net/remover.htm
+
+

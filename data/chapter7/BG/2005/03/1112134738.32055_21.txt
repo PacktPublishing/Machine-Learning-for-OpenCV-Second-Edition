@@ -1,0 +1,36 @@
+Return-Path: <mitchpagan_rp@emails.ru>
+Delivered-To: em-ca-bait-excelled@em.ca
+Received: (qmail 27719 invoked by uid 115); 29 Mar 2005 22:04:26 -0000
+Received: from mitchpagan_rp@emails.ru by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(24.37.226.228):. 
+ Processed in 0.288816 secs); 29 Mar 2005 22:04:26 -0000
+Received: from modemcable228.226-37-24.mc.videotron.ca (HELO stanwick.freeserve.co.uk) (24.37.226.228)
+  by churchill.factcomp.com with SMTP; 29 Mar 2005 22:04:23 -0000
+Message-ID: <cce501c534c4$673a352c$5164326a@stanwick.freeserve.co.uk>
+From: "Mitch Pagan" <mitchpagan_rp@emails.ru>
+To: bait-sneakily@em.ca, bait-excelled@em.ca
+Subject: 60 Digital Channels for $31.99 per month(qjr)
+Date: Wed, 30 Mar 2005 02:06:27 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<table width="520" border="0" cellspacing="0" cellpadding="0"><tr>
+<td bgcolor="#0066CC" style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:36px; color: #FFFFFF;"> Satellite TV <font size="4">Exclusive Time Sensitive Offer!</font></td>
+<td width="20" height="45" align="center" bgcolor="#0060BF">&nbsp;</td></tr>
+<tr bgcolor="#CCCCCC"><td height="1" colspan="2"></td></tr>
+<tr align="center" bgcolor="#FFFF66">
+<td height="20" colspan="2" style="font-family:arial; font-size:12px; color:#333333;"><b>See why thousands of people a day are just saying <u>NO</u> to cable!</b></td></tr><tr>
+<td colspan="2" style="padding: 10px; font-family: arial; font-size: 12px; color: #000033;"><p><strong> Cable rates got you down</strong>? Make your TV worth watching again with our premium packages for a fraction of the cost of normal cable television. With Satellite TV your options are open -- <strong>wide open</strong> -- you're able to enjoy the the quality only <strong>the leader in high definition television</strong> providers can deliver.<br><br>
+<u>Stop paying too much</u> for access to a provider that doesn't give you all your channels in high-definition! Satellite TV provides you with all channels in beautiful, crisp, clear full high-definition. </p>
+<p align="center" style="font-size: 16px; font-weight: bold;">Get over 60 all digital channels including local<br>channels for <u><font color="Red">only $31.99</font></u> </p>
+<ul><li>No Equipment to Buy</li><li>No Long Contract Commitments</li><li>No Additional Outlet Fees</li><li>Professional Installation on up to Four TVs</li><li>TV for the Whole House: 100% Digital Delivery, 100% of the Time</li>
+<li>Standard Equipment Warranty Included</li></ul>
+<div align="center" style="font-size: 36px; color: #0000CC;"><u><a href="http://jqyx.org/dnw/au.htm">MORE INF0</a></u> </div></td></tr>
+<tr bgcolor="#F3F3F3"><td colspan="2">&nbsp;</td>
+</tr><tr><td colspan="2">If you'd like to never hear from us again, then proceed to <a href="http://jqyx.org/r.php">this link</a>.</td>
+</tr></table>
+</body>
+</html>

@@ -1,0 +1,41 @@
+Message-ID: <4416322.1075855929635.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 09:58:00 -0700 (PDT)
+From: jefferson.sorenson@enron.com
+To: brent.price@enron.com, sally.beck@enron.com
+Subject: UNIFY TO SAP INTERFACES
+Cc: susan.harrison@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: susan.harrison@enron.com
+X-From: Jefferson D Sorenson
+X-To: Brent A Price, Sally Beck
+X-cc: Susan Harrison
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+07/05/2000 04:58 PM ---------------------------
+
+
+Bob Klein
+07/05/2000 04:57 PM
+To: Jefferson D Sorenson/HOU/ECT@ECT
+cc: Rebecca Ford/HOU/ECT@ECT 
+Subject: UNIFY TO SAP INTERFACES
+
+We interfaced UNIFY to SAP three times today. Interface number one (8:40 AM) 
+was error free. The second interface (Noon) created duplicate invoices for 
+those sent in our first interface. The problem that caused the duplication 
+was that the flag in UNIFY that prevents invoices from being sent to SAP 
+after they have already been interfaced did not work. The problem was 
+corrected before out third interface at 3:15 PM. In the 3:15 interface, one 
+error occurred --- a counterparty was set up in Global as intercompany that 
+should be third party. This error will be corrected before our next interface 
+on 7/6 AM.
+
+Overall, I was pleased at how well the interfaces worked today and how fast 
+the SAP and UNIFY teams responded to our issues.
+
+Bob

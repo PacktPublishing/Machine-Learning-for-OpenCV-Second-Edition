@@ -1,0 +1,214 @@
+Return-Path: <claudia@icqmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 27648 invoked by uid 115); 6 Jul 2005 09:07:15 -0000
+Received: from claudia@icqmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(200.57.40.231):. 
+ Processed in 0.177032 secs); 06 Jul 2005 09:07:15 -0000
+Received: from webs.graphics.net.mx (HELO dns2) (200.57.40.231)
+  by churchill.factcomp.com with SMTP; 6 Jul 2005 09:07:14 -0000
+Received: from dns2 ([10.10.15.231])
+	(authenticated user jdelangel@graphicsnetwork.net)
+	by dns2 (Kerio MailServer 6.0.10);
+	Wed, 6 Jul 2005 03:13:39 -0700
+Message-ID: <4119-22005736101339919@dns2>
+X-Priority: 1
+Reply-To: "Claudia" <claudia@graphics.net.mx>
+To: "mexico8" <claudia@graphics.net.mx>
+From: "Claudia" <claudia@icqmail.com>
+Subject: RE: Curso de flash mx
+Date: Wed, 6 Jul 2005 03:13:39 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+Sino visualizas este email haz clickaqui
+
+ Curso de VERANO - FLASH MX Julio - Agosto=20
+=20
+=20
+En las ciudades de: Monterrey - Canc&uacute;n - M&eacute;xico DF - Guadala=
+jara
+
+COSTO: $ 3500=2E00 15 Hrs=2E
+Incluye material impreso, cd con ejercicios, un paquete de hosting b&aacut=
+e;sico para publicar tu p&aacute;gina web=2E
+
+Pide informes en M&eacute;xico DF 8595=2E9353
+
+Del interior de la rep&uacute;blica 01=2E800=2E813=2E9322
+
+Mas informes en nuestra p&aacute;gina web
+http://www=2Egraphics=2Enet=2Emx           =20
+  =20
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Graphics</title>
+
+<style type=3D"text/css">
+<!--
+=2E=2Estyle1 {
+=09font-size: 14px;
+=09font-weight: bold;
+}
+=2E=2Estyle2 {font-size: 16px}
+-->
+</style>
+</head>
+<BODY>
+<style>
+A:link {
+=09COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A:visited {
+    COLOR: #FF9900; TEXT-DECORATION: none
+}
+A:hover {
+=09COLOR: #FF9900; TEXT-DECORATION: none
+}
+A:link {
+=09COLOR: #6378A9
+}
+A:visited {
+=09COLOR: #6378A9
+}
+A:hover {
+=09COLOR: A4ADC2
+}
+A=2Ewhite:visited {
+=09COLOR: #ffffff
+}
+=2E=2Esubhead {
+=09FONT-SIZE: 11px; COLOR: #414141
+}
+A=2Ewhite:link {
+=09COLOR: #fff
+}
+A=2Ewhite:hover {
+=09COLOR: 42619A
+}
+BODY {
+=09FONT-SIZE: 10px;
+=09FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+=09background-color:#E5E5E5;
+=09scrollbar-base-color: #42619A;
+=09scrollbar-arrow-color : #FFCC00;
+=09margin-left:0;
+=09margin-right:0;
+=09margin-bottom:0;
+=09margin-top:0
+}
+TD {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TH {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+BR {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TR {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+DIV {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+SPAN {
+=09FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+=2E=2Edefault {
+=09FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif
+}
+H6 {
+=09FONT-SIZE: 12px; COLOR: #313131; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif
+}
+H5 {
+=09FONT-SIZE: 12px; COLOR: #313131; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif
+}
+H4 {
+=09FONT-SIZE: 12px; COLOR: #313131; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif
+}
+=2E=2Ehead {
+=09FONT-SIZE: 12px; COLOR: #313131; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif
+}
+=2E=2Etitle {
+=09FONT-SIZE: 14px; COLOR: #313131; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif
+}
+=2E=2Ewhite {
+=09COLOR: #ffffff; TEXT-DECORATION: none
+}
+=2E=2Ered {
+=09COLOR: #FF0000; TEXT-DECORATION: none
+}
+=2E=2Etf {
+=09BORDER-RIGHT: #777777 1px solid; BORDER-TOP: #777777 1px solid; FONT-SI=
+ZE: 10px; BORDER-LEFT: #777777 1px solid; WIDTH: 100%; BORDER-BOTTOM: #777=
+777 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGRO=
+UND-COLOR: #f8f8f8
+}
+</style>
+<div align=3D"center"><font color=3D"#006699" size=3D"2" face=3D"Verdana, =
+Arial, Helvetica, sans-serif">Si
+  no visualizas este email haz <a href=3D"http://www=2Egraphics=2Enet=2Emx=
+/mailing/promo2005=2Ehtml" target=3D"_blank">click
+  aqui</a></font><br>
+</div>
+<div align=3Dcenter>
+<table width=3D450 border=3D0 align=3D"center" cellpadding=3D0 cellspacing=
+=3D0 bgcolor=3DE82917>
+  <tr bgcolor=3D#F5A407 align=3D"center">
+    <td bgcolor=3D"E82917">
+      <div align=3Dcenter><b><font face=3D"Verdana, Arial, Helvetica, sans=
+-serif" color=3D"#FFFFFF" size=3D"2">Curso de VERANO - FLASH MX Julio - Ag=
+osto </font></b></div></td>
+  </tr>
+  <tr>
+    <td>
+      <table cellspacing=3D2 cellpadding=3D0 width=3D100% border=3D0>
+        <tr bgcolor=3D#ffffff align=3D"center">
+          <td height=3D"200"><p><span class=3D"style1"><font color=3D"#000=
+000" face=3D"Verdana, Arial, Helvetica, sans-serif">En las ciudades de: Mo=
+nterrey - Canc&uacute;n - M&eacute;xico DF - Guadalajara</font></span></p>=
+
+          <p class=3D"style2"><font color=3D"#000000" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">COSTO: $ 3500=2E00 15 Hrs=2E<br>
+          Incluye material impreso, cd con ejercicios, un paquete de hosti=
+ng b&aacute;sico para publicar tu p&aacute;gina web=2E</font></p>
+          <p class=3D"style2"><font color=3D"#000000" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Pide informes en M&eacute;xico DF 8595=2E9353</=
+font></p>
+          <p class=3D"style2"><font color=3D"#000000" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Del interior de la rep&uacute;blica 01=2E800=2E=
+813=2E9322</font></p>
+          <p class=3D"style2"><font color=3D"#000000" face=3D"Verdana, Ari=
+al, Helvetica, sans-serif">Mas informes en nuestra p&aacute;gina web<br>
+              <a href=3D"http://www=2Egraphics=2Enet=2Emx" target=3D"_blan=
+k">http://www=2Egraphics=2Enet=2Emx</a>            </font></p></td>
+          <td><a href=3D"http://www=2Egraphics=2Enet=2Emx"><img src=3D"htt=
+p://www=2Egraphics=2Enet=2Emx/images/159x120_flash=2Egif" border=3D"0"></a=
+></td>
+        </tr>
+    </table></td>
+  </tr>
+</table> =20
+</body>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+
+

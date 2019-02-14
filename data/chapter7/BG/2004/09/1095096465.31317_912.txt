@@ -1,0 +1,30 @@
+Return-Path: <grad.admissions@fit.edu>
+Delivered-To: em-ca-bait-proverbs@em.ca
+Received: (qmail 8379 invoked by uid 115); 2 Sep 2004 09:22:02 -0000
+Received: from grad.admissions@fit.edu by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(62.33.168.18):. 
+ Processed in 0.526874 secs); 02 Sep 2004 09:22:02 -0000
+Received: from unknown (HELO em.ca) (62.33.168.18)
+  by churchill.factcomp.com with SMTP; 2 Sep 2004 09:22:02 -0000
+From: grad.admissions@fit.edu
+To: bait-proverbs@em.ca
+Subject: hi
+Date: Thu, 2 Sep 2004 20:25:41 +1100
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="61151662"
+X-Qmail-Scanner-Message-ID: <10941169226728372@churchill>
+
+--61151662
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+here
+
+--61151662
+Content-Type: application/x-zip-compressed; name="attachment.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.zip"
+
+
+--61151662--
+

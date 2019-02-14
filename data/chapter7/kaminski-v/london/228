@@ -1,0 +1,44 @@
+Message-ID: <4184526.1075857049806.JavaMail.evans@thyme>
+Date: Mon, 22 May 2000 02:11:00 -0700 (PDT)
+From: anjam.ahmad@enron.com
+To: dale.surbey@enron.com, vince.kaminski@enron.com
+Subject: PRC Review: List of Key Projects
+Cc: stinson.gibner@enron.com, richard.lewis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, richard.lewis@enron.com
+X-From: Anjam Ahmad
+X-To: Dale Surbey, Vince J Kaminski
+X-cc: Stinson Gibner, Richard Lewis
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi Dale & Vince,
+
+For your benefit I have compiled a shortlist of the main projects worked on 
+over the past five months:
+
+1) Inflation curve modelling (February and March)
+2) UK Power Monthly Vol Curve generator
+3) Nordic Power Monthly Vol Curve generator
+4) Energydesk.com models & support
+5) Compound options for UK Power desk (options to build power stations)
+6) Continental power non-generic options (using arbitrary trader-specified 
+distributions)
+7) Global products: non-generic options modelling and new commodity forward 
+curve construction (benzene fwd curve from naphtha)
+8) Exotic options library upgrade/model test/bug fixes (e.g. testing new/old 
+Asian models)
+9) Continental gas volatility curve construction
+
+The best summary for this is in the attached presentation that I gave to the 
+London and Oslo staff recently.
+
+Regards,
+
+Anjam
+x35383
+
+Presentation Attached:

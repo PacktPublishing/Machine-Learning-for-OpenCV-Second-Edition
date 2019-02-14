@@ -1,0 +1,97 @@
+Message-ID: <11072941.1075840860164.JavaMail.evans@thyme>
+Date: Mon, 22 Oct 2001 17:22:33 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, mark.pickering@enron.com, 
+	beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV weekly project status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Pickering, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MPICKER>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the weekly project status update of GTV and the attached file for the updated project timelines. Changes are underlined.
+
+GTV status meeting attendees: Nayan Dattani, Bill Fortney, Jeff Gossett, George Grant, Jay Krish, Russ Severson, Geoff Storey, Zhiyong Wei, Francis Lim, Brad Jones.
+
+Accomplishments:
+?	GTV2 Phase 1 items
+o	Released to production.
+?	Saving different views in TDS:
+o	Released to production.
+?	Capability for desk roll-ups on an ad hoc basis (phase 2, on hold since 7/9/01):
+o	New process for roll-up aggregators has been completed.
+?	Option Grid (phase 2):
+o	Released to production.
+?	Gas Daily options (phase 2):
+o	Released to production.
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options has been completed in TAGG.
+o	Development of loading correlation curves has been completed.
+o	Changes to the Translator have been completed.
+o	Development of Portcalc valuation of Basis Spread Options completed.
+?	Options reports
+o	Completed development of Vega P&L, Vega Sensitivity, and Delta Position reports.
+o	Completed development of Curve Shift report.
+?	Transport Deal Capture & Valuation (phase 2):
+o	Creation of new deal entry type & database changes has been completed.
+o	Changes to the Translator have been completed.
+o	Completed development of Portcalc to value Transport deals.
+?	Add more information to the drill-down deal details.
+o	Released to production.
+?	New Flexible Deal Viewer.
+o	Database schema design completed.
+o	Initial Load of active Deals from Sitara completed.
+o	TIBCO work completed.
+o	Units of Measure conversions completed.
+o	Update of active deals from Sitara completed.
+o	Development of Query Engine completed.
+o	Development of Delphi feed to Excel completed.
+o	Schema mapping completed.
+o	Initial loading of active deals from TAGG completed.
+o	3 new requests (from last Wednesday's demo) for Update Server completed.
+o	Completed Development of Excel VB.
+o	Completed remaining new request for Update Server (SIC codes).
+o	Completed development of update of active deals from TAGG.
+o	Completed development of requested enhancements of Flexible Deal Viewer and Sitara.
+?	Screening Volume Feedback in TDS Deal Ticker.
+o	Completed database changes in Stage and Parallel.
+o	Completed modifying CPR Reader to handle process flag.
+o	Completed modify database triggers.
+o	Completed make changes to CPR Bridge.
+o	Completed modify CPR Reader to handle process flag.
+o	Completed implement delete logic in CPR Reader to clean up old deals.
+o	Completed changing View Aggregation to resend deals when requested.
+o	Completed modifying View Aggregator to request sending deals.
+o	Completed modifying TDS Deal Ticker to show deal term changes.
+o	Completed User Acceptance Testing.
+?	Implementing TDS in Calgary office
+o	Discussed efforts needed for implementing TDS for Calgary office.
+?	Investigate ways of improving EOL bridging to Sitara and TAGG for term physical deals.
+o	Started discussion and needs further investigation.
+
+Plans for the week ending 10/26/01:
+?	Continue IT development of Phase II issues.
+o	Continue testing of Basis Options.
+o	Continue unit testing of Portcalc change to value Transport deals.
+?	New Flexible Deal Viewer.
+o	Continue user acceptance testing.
+?	Screening Volume Feedback in TDS Deal Ticker.
+o	Release to production on Tuesday, 10/23/01.
+
+Issues:
+?	None.
+
+Notes
+?	There was a performance issue of a query after the database server move to a different machine, which affected the testing of Flexible Deal Viewer.
+?    The team has been working on resolving the discrepancy shown in the test between system and spreadsheets.
+
+ 
+
+Thanks
+
+Zhiyong

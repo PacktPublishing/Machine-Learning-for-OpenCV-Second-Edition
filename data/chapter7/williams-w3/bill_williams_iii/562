@@ -1,0 +1,97 @@
+Message-ID: <12868843.1075863308461.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 18:24:42 -0700 (PDT)
+From: bwoertz@caiso.com
+To: 20participants@caiso.com
+Subject: CAISO Notice - Cash Allocation Policies
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Woertz, Byron" <BWoertz@caiso.com>@ENRON <IMCEANOTES-+22Woertz+2C+20Byron+22+20+3CBWoertz+40caiso+2Ecom+3E+40ENRON@ENRON.com>
+X-To: ISO Market Participants <IMCEAEX-_O=CAISO_OU=CORPORATE_CN=DISTRIBUTION+20LISTS_CN=ISO+20MARKET+20PARTICIPANTS@caiso.com>
+X-cc: 
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+ISO Market Participants:
+Since Trade Month November 2000 (which settled beginning in January 2001),
+payment defaults in the ISO markets have caused the ISO to pay less than the
+full amount due Scheduling Coordinators (SCs) in the monthly cash clearing
+process.  The purpose of this message is to describe the ISO's policies and
+procedures in settling the market when defaults occur.
+As set forth in Section SABP 6.7.4 of the ISO Tariff, when payment defaults
+occur from SCs that have obligations to the ISO's markets (Debtor SCs), the
+shortfall is to be prorated to SCs with net amounts due them (Creditor SCs)
+based on their outstanding balances. The principles that drive how amounts
+are settled and defaults are allocated to Creditor SCs are summarized below:
+Proportionate allocation of defaults - The total amount of market defaults
+is allocated to the Creditor SCs on a proportionate basis such that each
+Creditor SC receives the same percentage of their total net amount
+receivable for the month.  SCs are allowed to net the credits and debits on
+a monthly basis as described below.  The intent of the Tariff is to
+equitably distribute market shortfalls only to those SCs that have net
+market receivables for the period.
+Each month is treated as a whole period - Final and preliminary invoices are
+combined when possible (see exception conditions below) in allocating market
+defaults.  Cash payments from the market are received in two stages
+(preliminary and final).  At preliminary, market payments are distributed
+based on the preliminary amounts due to the Creditor SCs as set forth in the
+preliminary invoices. Final invoices serve essentially as true-ups to the
+preliminary invoices, and accordingly, payments received at final are
+redistributed to the extent possible to achieve true-up allocations for the
+whole month considering the combined amounts due the Creditor SCs from both
+the preliminary and final invoices.
+Each month is treated as a discrete period - Market defaults are generally
+allocated to the Creditor SCs that have amounts due for the month being
+settled.  The exceptions to this rule involve (1) SCs that are Creditor SCs
+in the current month but have default obligations relating to prior periods
+or (2) Debtor SCs that pay in the current month but have unpaid balances for
+prior months.  In the first instance, the Creditor SC would not be paid to
+the extent of default obligations from prior months.  Amounts due to the
+Creditor SC would be allocated back to the default period and such proceeds
+would be allocated based on remaining amounts still owed for that period. In
+the second instance the current month's payment is carried back and applied
+first to the oldest outstanding balance. The proceeds would be distributed
+to the Creditor SCs for that earlier period based on the Creditor SCs unpaid
+balances in that month.  With respect to the carry back of payments to the
+earliest period, Pre and Post bankruptcy debts are deemed to be from
+different SCs.
+GMC defaults are remedied as a first priority on market payments  - GMC is
+billed separately from market billings on both preliminary and final
+invoices each month.  In the event of payment default on any GMC invoices
+(at either preliminary or final), market funds are transferred to satisfy
+GMC obligations before any market distributions are made.  This first
+priority position for GMC revenues is set forth in Section SABP 6.3.1.3 of
+the ISO Tariff.  Therefore, when both GMC and market defaults occur (as has
+occurred in each of the past few months), the Creditor SCs have two
+reductions to the market clearing amounts ultimately paid - an allocated
+portion of the GMC default, and an allocated portion of the market default.
+RMR invoices and payments are not affected by market or GMC defaults - The
+RMR invoicing process involves amounts due from the PTO's to the RMR Owners
+as set forth in monthly invoices processed through the ISO's systems.
+However, such amounts are invoiced independent of the ISO's market and GMC
+billing processes, and accordingly, market and/or GMC defaults do not impact
+RMR related payments.
+There are a number of factors that complicate the monthly process of
+allocating cash to Creditor SCs when defaults occur.  Some of these factors
+include:
+*	amounts received after payment date deadlines - such amounts are
+typically included in the next distribution
+*	market payments due to Creditor SCs that default on GMC in the
+current month - such market allocations are reduced by the specific amount
+of the GMC default by the Creditor SC
+*	allocations to prior months - not made unless the amount exceeds
+0.5% of that months billed amounts
+*	small invoices under $5,000 are paid in full rather than the
+allocated percentage.
+For more information about these allocation issues or any other related
+matters, please contact Melodie Iverson (916) 351-2174 (e-mail
+mkiverson@caiso.com <mailto:miverson@caiso.com> ) or Mike Epstein (916)
+351-2314 (e-mail mepstein@caiso.com <mailto:mepstein@caiso.com> ) at the
+ISO.
+
+
+Byron B. Woertz, Jr.
+Director, Client Relations
+Phone:  (916) 608-7066
+Pager:   (800) 481-7037

@@ -1,0 +1,118 @@
+Message-ID: <26561468.1075854118807.JavaMail.evans@thyme>
+Date: Fri, 7 Apr 2000 07:25:00 -0700 (PDT)
+From: tina.valadez@enron.com
+To: daren.farmer@enron.com
+Subject: Re: Equistar Deal Tickets
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tina Valadez
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Here is the information you requested.
+---------------------- Forwarded by Tina Valadez/HOU/ECT on 04/07/2000 02:23 
+PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Kyle R Lilly                           04/07/2000 11:39 AM
+	
+
+To: Tina Valadez/HOU/ECT@ECT
+cc:  
+Subject: Re: Equistar Deal Tickets  
+
+It looks good to me.
+
+
+
+Tina Valadez
+04/07/2000 08:29 AM
+To: Kyle R Lilly/HOU/ECT@ECT
+cc:  
+Subject: Re: Equistar Deal Tickets
+
+I need to have these tickets set up so the excess volumes will be priced 
+correctly in Unify.  Currently Unify is adding all excess volume for each day 
+and pricing the first 10,000 at a certain price and anything over 10,000 at a 
+different price.  For example meter 1553 may have 5000 on the first, meter 
+1384 may have 5000, and meter 1552 may have 5000.  Unify currently prices the 
+first 10,000 at a certain price, and 5000 at a different price.  This is 
+incorrect because none of the meters exceeded 10,000, each meter should be 
+priced at the first tier level.  Robert needs to set up one additional sale 
+ticket and one additional buyback ticket, but he will not schedule gas to 
+these tickets.  Anita Luong will move the volumes to the correct ticket when 
+she allocates the volumes each month.  Equistar receives manual invoices each 
+month because they need to see the sale and the buyback on the same invoice, 
+and they also need to have each meter invoiced separately.  I need to have 
+these tickets set up to clean up my Unify draft invoices.
+
+Thanks,
+Tina Valadez
+---------------------- Forwarded by Tina Valadez/HOU/ECT on 04/07/2000 08:13 
+AM ---------------------------
+
+
+Tina Valadez
+04/06/2000 01:01 PM
+To: Julie Meyers/HOU/ECT@ECT
+cc: Daren J Farmer/HOU/ECT@ECT, Robert E Lloyd/HOU/ECT@ECT 
+Subject: Re: Equistar Deal Tickets
+
+Are you still available to assist Robert with entering the new deal tickets 
+for Equistar?  After talking with Bryan Hull and Anita Luong, Kyle and I 
+decided we only need 1 additional sale ticket and 1 additional buyback ticket 
+set up.
+---------------------- Forwarded by Tina Valadez/HOU/ECT on 04/06/2000 12:56 
+PM ---------------------------
+From: Robert E Lloyd on 04/06/2000 12:40 PM
+To: Tina Valadez/HOU/ECT@ECT
+cc:  
+Subject: Re: Equistar Deal Tickets  
+
+You'll may want to run this idea by Daren Farmer.  I don't normally add 
+tickets into Sitara.
+
+
+
+
+
+
+Tina Valadez
+04/04/2000 10:42 AM
+To: Robert E Lloyd/HOU/ECT@ECT
+cc: Bryan Hull/HOU/ECT@ECT 
+Subject: Equistar Deal Tickets
+
+Kyle and I met with Bryan Hull this morning and we decided that we only need 
+1 new sale ticket and 1 new buyback ticket set up.  The time period for both 
+tickets should be July 1999 - Forward.
+
+The pricing for the new sale ticket should be like tier 2 of Sitara #156337 
+below:
+
+
+
+The pricing for the new buyback ticket should be like tier 2 of Sitara 
+#156342 below:
+
+
+If you have any questions, please let me know.
+
+Thanks,
+Tina Valadez
+3-7548
+
+
+
+
+
+
+
+
+
+

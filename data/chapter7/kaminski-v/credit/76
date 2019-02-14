@@ -1,0 +1,65 @@
+Message-ID: <24907341.1075857041192.JavaMail.evans@thyme>
+Date: Fri, 3 Mar 2000 06:56:00 -0800 (PST)
+From: jonathan.le@enron.com
+To: debbie.brackett@enron.com, rudi.zipter@enron.com, wenyao.jia@enron.com, 
+	ganapathy.ramesh@enron.com, tanya.tamarchenko@enron.com, 
+	vincent.tang@enron.com, xiaojun.mei@enron.com
+Subject: The light at the end of tunnel!
+Cc: vince.kaminski@enron.com, ted.murphy@enron.com, william.bradford@enron.com, 
+	mike.fowler@enron.com, beth.perlman@enron.com, 
+	stephen.stock@enron.com, john.powell@enron.com, biral.raja@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, ted.murphy@enron.com, william.bradford@enron.com, 
+	mike.fowler@enron.com, beth.perlman@enron.com, 
+	stephen.stock@enron.com, john.powell@enron.com, biral.raja@enron.com
+X-From: Jonathan Le
+X-To: Debbie R Brackett, Rudi Zipter, Wenyao Jia, Ganapathy Ramesh, Tanya Tamarchenko, Vincent Tang, Xiaojun Mei
+X-cc: Vince J Kaminski, Ted Murphy, William S Bradford, Mike Fowler, Beth Perlman, Stephen Stock, John D Powell, Biral Raja
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi All,
+
+After all the hard work, we are at time of harvesting!  But as we all know 
+that there still a few more hurdles ahead of us in order to release credit 
+reserve model at end of March,  but on the bright side, Vince Kaminski has 
+promised us a big feast after we push the product out of door.  So let commit 
+our self to do one last dash to the finish line!
+
+Here I composed a list of task that we need to accomplish for the release,  
+Let hit the items on the list and get it over with
+
+Continue the comparison test between old and new model   Winston
+Testing of theoretical deals!  finish the comparison between the theoretical 
+value and model valuation!  Tanya T. Winston J.
+Making the default probability table a configurable component and runtime 
+parameter.  Winston J., Ramesh G.
+Simulation dimension change for different analysis requirement, default path 
+5000 max and price path 1000 max.  Winston
+Interface to run the credit reserve in GRMS system ( for now )   Ramesh
+Run time option, Applying stress scenario on input curves for any or all 
+curves (sensitivity analysis)   Winston
+Runtime option, Curve replacement for any or all curves ( attribution 
+analysis )    Winston
+Validation of different insurance plan       Tanya, Winston
+Intra-month position validation to see the impact of excluding of 
+intra-manoth position on credit reserve  Vicent Tang, Ramesh
+Exchange deals handling( are they using the highest e-rating ? )   Ramesh
+Saving credit reserve result, please grant Winston and Xiaojun the privilege 
+to save the result into production database,  Ramesh, Winston, XiaoJun
+credit reserve on legal id, based on the data clean up of all spreadsheets ( 
+not scheduled )!
+Deployment plan.  One credit instance at any time until we get out new 
+computing server ( probably in April time frame )
+
+
+This list may be an ever changing list and may also incomplete, please let me 
+know if I missed anything or any deletions and additions!  Please let me know 
+if anything I can clarify.
+
+Thanks!
+
+Jonathan

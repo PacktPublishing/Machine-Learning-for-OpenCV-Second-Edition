@@ -1,0 +1,81 @@
+Message-ID: <12296645.1075840884878.JavaMail.evans@thyme>
+Date: Fri, 1 Feb 2002 15:05:14 -0800 (PST)
+From: d..steffes@enron.com
+To: louise.kitchen@enron.com
+Subject: Description of UBS Deal
+Cc: l..nicolay@enron.com, david.forster@enron.com, elizabeth.sager@enron.com, 
+	e..haedicke@enron.com, e-mail <.nick@enron.com>, 
+	e-mail <.louis@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: l..nicolay@enron.com, david.forster@enron.com, elizabeth.sager@enron.com, 
+	e..haedicke@enron.com, e-mail <.nick@enron.com>, 
+	e-mail <.louis@enron.com>
+X-From: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Forster, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFORSTER>, Sager, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Esager>, Haedicke, Mark E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhaedic>, Nick Fels (E-mail) <nfels@cov.com>, Louis Eber (E-mail) <louis.eber@ubsw.com>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise --
+
+I need to understand exactly what data is and what data is not being transferred from Enron to UBS.  If any of the data is viewed by FERC as being jurisdictional assets, than Enron would need to inform FERC of that transfer before the transfer.  Clearly, customer specific data will create more issues than generic market information.  I need to check what happens if you have deleted the counterparty names but still show detailed trading data.
+ 
+Who can help me get a better handle on this on Monday?
+ 
+Also, I understand the "adoption" by UBS of Enron contracts.  Initially I was under the impression that this was simply a "review".  Again, any transfer of a jurisdictional asset would result in a 203 application by Enron.  I have seen one draft of the Interim Agreement, but assume that you would do this for EEI and other physical contracts.  Am I right?
+ 
+Thanks,
+ 
+Jim
+ 
+
+----Original Message-----
+From: Kitchen, Louise 
+Sent: Friday, February 01, 2002 3:49 PM
+To: Steffes, James D.; Forster, David
+Subject: RE: Description of UBS Deal
+
+
+Its non specific - the trades are there but with no counterparty names.
+
+-----Original Message-----
+From: Steffes, James D. 
+Sent: Tuesday, January 29, 2002 8:25 AM
+To: Kitchen, Louise; Forster, David
+Subject: RE: Description of UBS Deal
+
+
+The Master Agreement and License Agreement mention that you have "Customer Data".  Is this wrong?
+
+Jim
+
+-----Original Message-----
+From: Kitchen, Louise 
+Sent: Tuesday, January 29, 2002 6:46 AM
+To: Steffes, James D.; Forster, David
+Subject: RE: Description of UBS Deal
+
+
+Simply
+ 
+People, systems and floor space.
+ 
+Back to front applications with no specific counterparty data.  WE have historical pricing etc but no counterparty names.  You could get most of it from Reuters.
+
+-----Original Message----- 
+From: Steffes, James D. 
+Sent: Mon 1/28/2002 1:59 PM 
+To: Forster, David; Kitchen, Louise 
+Cc: 
+Subject: Description of UBS Deal
+
+
+
+How would you describe (in terms that a regulator would understand) what is transfered to UBS?  I am asking because I want to make sure that I have a good grasp of what is going to UBS before our FERC pre-meeting.
+
+My understanding is that we are providing software code to is used (a) for all backoffice applications and (b) for a trading platform.  Anything else?
+
+Jim 

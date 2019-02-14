@@ -1,0 +1,47 @@
+Return-Path: <today@hotmail.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24320 invoked by uid 115); 7 Nov 2004 10:59:54 -0000
+Received: from today@hotmail.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.196.250.185):. 
+ Processed in 0.231301 secs); 07 Nov 2004 10:59:54 -0000
+Received: from unknown (HELO hotmail147.com) (211.196.250.185)
+  by churchill.factcomp.com with SMTP; 7 Nov 2004 10:59:53 -0000
+From: =?iso-8859-1?q?=C1=A4=B8=AE=B6=F3_<today@hotmail.net>?=
+To: bruceg@em.ca
+Reply-To: today@hotmail.net
+Subject: =?iso-8859-1?q?<=B1=DD=C0=B6/=BD=C5=BF=EB>_=BE=EE=B6=B2_"=B4=EB=C3=E2"=C0=CC_=C7=CA=BF=E4=C7=CF=BD=CA=B4=CF=B1=EE=3F=3F=3F?=
+Date: Sun, 07 Nov 2004 20:00:03 +0900
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="28f1913e-af8e-4c6b-b6bf-42a3e57c4828"
+X-Qmail-Scanner-Message-ID: <109982519467224313@churchill>
+
+
+This is a multi-part message in MIME format
+--28f1913e-af8e-4c6b-b6bf-42a3e57c4828
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Deuc-kr">
+</head>
+
+<body bgcolor=3D"#FFFFFF" leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" =
+marginheight=3D"0">
+<table width=3D"520" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><a href=3D"http://218.38.12.200:18504/tod_12.asp"><img src=3D=
+"http://blogfiles.naver.net/data6/2004/11/5/106/tod_01-frog66.jpg" border=3D=
+0></a></td>
+  </tr>
+  <tr>
+    <td><a href=3D"http://218.38.12.200:18504/tod_nomail.asp"><img src=3D=
+"http://blogfiles.naver.net/data6/2004/11/5/77/tod_02-frog66.jpg" border=3D=
+0></a></td>
+  </tr>
+</table>
+</body>
+</html>  
+--28f1913e-af8e-4c6b-b6bf-42a3e57c4828--
+

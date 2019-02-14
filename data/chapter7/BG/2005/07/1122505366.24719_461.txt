@@ -1,0 +1,45 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1583 invoked by uid 115); 22 Jul 2005 01:03:27 -0000
+Received: from Tracy@yellowtab.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(210.168.217.218):. 
+ Processed in 0.196851 secs); 22 Jul 2005 01:03:27 -0000
+Received: from unknown (HELO 210.168.217.218) (210.168.217.218)
+  by churchill.factcomp.com with SMTP; 22 Jul 2005 01:03:25 -0000
+Received: from [27.124.71.109] (port=3456 helo=[Raymond])
+    by 210.168.217.218 with esmtp 
+    id 1639546234Landon9129
+    for bruceg@em.ca; Fri, 22 Jul 2005 10:14:35 +0900
+Mime-Version: 1.0 (Apple Message framework v728)
+Content-Transfer-Encoding: 7bit
+Message-Id: <5585315292.6143962200@210.168.217.218>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+To: bruceg@em.ca
+From: Ervin <Tracy@yellowtab.com>
+Subject: It hidden downloaded and installed on you computer.
+Date: Fri, 22 Jul 2005 10:14:34 +0900
+X-Mailer: Apple Mail (2.728)
+
+
+What is Spyware?
+
+Spyware, like a virus, is a malicious software planted on your PC by a third
+party in order to secretly monitor what you do online. 
+* Once your browsing habits are analyzed, you are flooded with endless Commercials, 
+  Popups and Spam from inside your PC! 
+* Spyware also dramatically slows down your computer and Internet connection speeds.
+* Spyware collects your private information and steals your identity, passwords, 
+  credit card details and other financial data. 
+* The presence of the infection is hidden, and is not revealed even by Anti Virus 
+  or Firewall programs. 
+
+Check if you are infected
+Find out right now with our FREE Spyware Scan.
+
+
+Try it for free!
+
+http://nospysoft.com/ho/
+
+
+
+

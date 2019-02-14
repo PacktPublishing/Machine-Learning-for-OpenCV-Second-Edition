@@ -1,0 +1,40 @@
+Return-Path: <Garza@address.com>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 21166 invoked from network); 3 Sep 2004 22:12:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 03 Sep 2004 22:12:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 Sep 2004 22:12:16 -0000
+Received: (qmail 13255 invoked from network); 3 Sep 2004 22:12:14 -0000
+Received: from bgp01056418bgs.stclar01.mi.comcast.net (unknown [68.43.116.98])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 03 Sep 2004 22:12:13 -0000
+Received: from 72.102.234.191 by 68.43.116.98; Sat, 04 Sep 2004 18:13:09 +0400
+Message-ID: <stenographycurfewcognacupside@incamail.com>
+From: "Bert Hare" <Garza@address.com>
+Reply-To: "Bert Hare" <Garza@address.com>
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: To Hogue's Shop Customers!
+Date: Sat, 04 Sep 2004 11:10:09 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; charset=iso-8859-1;
+	boundary="--982596432709912301"
+
+----982596432709912301
+Content-Type: text/plain;
+Content-Transfer-Encoding: quoted-printable
+
+Dear customer!
+
+We updated our software catalogue and added new
+popular products! Now you can get any software item
+at 90% discount rate! For more information visit us here:
+http://upbraid.infostech.info/index.php?s=3D4241
+
+With best regards,
+Product Manager
+Bert Hare
+
+----982596432709912301--
+

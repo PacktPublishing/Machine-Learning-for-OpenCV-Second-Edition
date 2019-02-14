@@ -1,0 +1,54 @@
+Return-Path: <boric.melodious@neo.rr.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 13579 invoked from network); 24 Aug 2004 06:48:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 24 Aug 2004 06:48:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 24 Aug 2004 06:48:17 -0000
+Received: (qmail 4764 invoked from network); 24 Aug 2004 06:48:16 -0000
+Received: from 69.5.6.152 (unknown [140.135.100.139])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 24 Aug 2004 06:48:15 -0000
+Received: from Ed.Pollock@btcentralplus.com (137.168.215.96)
+  by qbo6490.jhlen.btcentralplus.com with QMQP; Tue, 24 Aug 2004 03:43:12 -0400
+X-MIME-Autoconverted: Yes
+Alternate-Recipient: Allowed
+Auto-Forwarded: Yes
+Xref: kwaujfnplpezjk
+Reply-To: "Tyler Stewart" <Ed.Pollock@btcentralplus.com>
+From: "Tyler Stewart" <Ed.Pollock@btcentralplus.com>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: We have $80717 waiting for you
+Date: Tue, 24 Aug 2004 03:46:12 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--0068005779651301413"
+Content-Length: 663
+Lines: 24
+
+----0068005779651301413
+Content-Type: text/html;
+	charset="iso-6812-6"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Hello,<p>
+
+We were reviewing your m[ortgage] record and noticed that your interest<br>
+rate was over 6%. We can give you a guaranteed fixed rate of 3%. You<br>
+also qualify for a loan up to $601926<p>
+
+Please fill out the form at this webpage to complete the process:<br>
+<a href="http://realhomeowner.com/?partid=rm2342">http://realhomeowner.com/?partid=rm2342</a><p>
+
+We look forward to hearing from you.<p>
+
+Regards,<br>
+The Gallison Group, LLC
+<p><p>
+<a href="http://realhomeowner.com/st.html">not interested</a>
+</html>
+
+----0068005779651301413--

@@ -1,0 +1,65 @@
+Return-Path: <>
+Received: (fqmail 27927 invoked from network); 02 Dec 2004 02:00:45 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 02 Dec 2004 02:00:45 -0000
+Received: (qmail 9045 invoked from network); 2 Dec 2004 02:00:45 -0000
+Received: from sapo.pt ([213.13.227.153])
+  by mx04.futurequest.net ([69.5.6.175])
+  with SMTP via TCP; 02 Dec 2004 02:00:43 -0000
+Date: Thu, 02 Dec 2004 00:38:01 +0000 (Hora padr„o de GMT)
+From: Party Zone ANTENA 3 [booking] <djsbooking@sapo.pt>
+To: webmaster@ezmlm.org
+Message-ID: 38323.026400462964_31278365994808
+Subject: Leve a festa Party Zone ANTENA 3 ao seu espa√ßo...
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Antena3 - Party Zone</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#000066" text="#FFFFFF" link="#FF6633" vlink="#FF6633" alink="#FF6633">
+<table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="http://vidric.com/work/hs/pz/images/top.jpg" width="450" height="220"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#002B80"><table width="100%"  border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td><div align="right"><a href="http://vidric.com/work/hs/pz/index-en.html"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">English version</font> </a> </div>          <h4 align="center"><font face="Verdana, Arial, Helvetica, sans-serif">Em <font color="#FF6600">2005</font> tenha uma das festas <font color="#FF6600">PartyZone/Antena3</font>          no teu bar ou discoteca!</font></h4>          <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Envia-nos um email para <a href="mailto:djsbooking@sapo.pt">djsbooking@sapo.pt</a></strong>          </font> </p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A nova grelha da Antena 3 para 2004/2005 contempla aquela que &eacute; a vertente de festa dos nossos fins-de-semana.<br>
+    A m&uacute;sica que nos faz dan&ccedil;ar, mexer desenfreadamente e de n&atilde;o querermos parar!</font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&Eacute; com este espirito, que os DJs oficiais da RADIO NACIONAL ANTENA 3 - Dj The Fox, DJ Guga, Dj Nuno Miguel e Dj Nuno Reis - levam at&eacute; si as sonoridades implementadas em mais de 10 horas de emiss&atilde;o todas as semanas.A proposta &eacute; levar at&eacute; ao seu club a ANTENA 3 PARTY ZONE, com 2 destes 4 nomes j&aacute; consagrados. O apoio oficial da esta&ccedil;&atilde;o na divulga&ccedil;&atilde;o do evento com spots, leitura em est&uacute;dio, divulga&ccedil;&atilde;o cont&iacute;nua e oferta de merchandising na festa.</font></p>
+          <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Outra componente fant&aacute;stica &eacute; que parte dos sets realizados na cabine do seu club pelos DJs escolhidos podem ser gravados e posteriormente transmitidos na Antena 3 como tendo sido realizados no seu espa&ccedil;o.</font></p>
+          <p align="justify">&nbsp;</p></td>
+      </tr>
+    </table>      </td>
+  </tr>
+  <tr>
+    <td bgcolor="#000E4B"><div align="justify"><font color="#EEEEEE" size="1" face="Arial, Helvetica, sans-serif"><br>
+          <font color="#CCCCCC">Esta mensagem &eacute; enviada sob a nova legisla&ccedil;&atilde;o sobre correio Electr&oacute;nico, Sec&ccedil;&atilde;o 301, Par&aacute;grafo (a) (2) (c) Decreto S 1618, T&iacute;tulo Terceiro aprovado pelo 105&ordm; Congresso Base das Normativas Internacionais sobre o SPAM. "Um e-mail n&atilde;o poder&aacute; ser considerado SPAM quando inclui uma forma de ser removido". <br>
+          Para remover o seu e-mail, devolva-nos uma mensagem com a palavra "REMOVER" na linha de assunto. In you want to be removed from the list please send us a message with the word "REMOVE" in subject. </font></font></div></td>
+  </tr>
+</table>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

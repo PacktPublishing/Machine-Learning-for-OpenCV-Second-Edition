@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-budgerow@em.ca
+Received: (qmail 11854 invoked by uid 115); 24 Dec 2004 03:32:45 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(81.193.29.33):. 
+ Processed in 0.35613 secs); 24 Dec 2004 03:32:45 -0000
+Received: from adslsapo-b4-29-33.telepac.pt (HELO heartandsoul.pt) (81.193.29.33)
+  by churchill.factcomp.com with SMTP; 24 Dec 2004 03:32:40 -0000
+Date: Fri, 24 Dec 2004 03:19:26 +0000 (Hora padrão de GMT)
+From: Party Zone 2005 <news@heartandsoul.pt>
+To: bait-budgerow@em.ca
+Message-ID: 38345.138495370367_11502230732672
+Subject: Entra em www.heartandsoul.pt e ganha entradas PARTY ZONE 2005
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Heart&amp;Soul apresenta New Years Eve - Party Zone 2005</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#000000" text="#CCCCCC" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+<div align="center"><a href="http://www.heartandsoul.pt" target="_blank"><img src="http://p001.no.sapo.pt/nye/flyer.jpg" alt="Party Zone 2005" width="400" height="729" border="0" /></a>
+  <br />
+  <br />
+  <table width="400" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td> <div align="justify"><font color="#666666" size="1" face="Arial, Helvetica, sans-serif">Esta mensagem &eacute; enviada sob a nova legisla&ccedil;&atilde;o sobre correio Electr&oacute;nico, Sec&ccedil;&atilde;o 301, Par&aacute;grafo (a) (2) (c) Decreto S 1618, T&iacute;tulo Terceiro aprovado pelo 105&ordm; Congresso Base das Normativas Internacionais sobre o SPAM. "Um e-mail n&atilde;o poder&aacute; ser considerado SPAM quando inclui uma forma de ser removido". <br />
+      Para remover o seu e-mail, devolva-nos uma mensagem para unsubscribe@heartandsoul.pt com a palavra "REMOVER" na linha de assunto. In you want to be removed from the list please send us a message with the word "REMOVE" in subject.</font> </div></td>
+    </tr>
+  </table>
+</div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

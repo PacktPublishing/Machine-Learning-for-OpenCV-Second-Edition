@@ -1,0 +1,79 @@
+Received: from barracuda.ei8htlegs.net (64.184.24.35)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:20 -0000
+MIME-Version: 1.0
+From: MAILER-DAEMON <>
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Subject: **Message you sent blocked by our bulk email filter**
+Content-Type: multipart/report; report-type=delivery-status;
+    charset=utf-8;
+    boundary="----------=_1121770639-9534-73"
+To: <projecthoneypot@projecthoneypot.org>
+Date: Tue, 19 Jul 2005 05:57:19 -0500 (EST)
+
+This is a multi-part message in MIME format...
+
+------------=_1121770639-9534-73
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+WW91ciBtZXNzYWdlIHRvOiBwb25kZHJAbmFsdS5uZXQKd2FzIGJsb2NrZWQg
+Ynkgb3VyIFNwYW0gRmlyZXdhbGwuIFRoZSBlbWFpbCB5b3Ugc2VudCB3aXRo
+IHRoZSBmb2xsb3dpbmcgc3ViamVjdCBoYXMgTk9UIEJFRU4gREVMSVZFUkVE
+OgoKU3ViamVjdDogSnVzdCB0byBoZXIuLi4KCg==
+
+------------=_1121770639-9534-73
+Content-Type: message/delivery-status
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; barracuda.ei8htlegs.net
+Received-From-MTA: smtp; barracuda.ei8htlegs.net ([127.0.0.1])
+Arrival-Date: Tue, 19 Jul 2005 05:57:19 -0500 (EST)
+
+Final-Recipient: rfc822; ponddr@nalu.net
+Action: failed
+Status: 5.7.1
+Diagnostic-Code: smtp; 550 5.7.1 Message content rejected, UBE, id=09534-02-19
+Last-Attempt-Date: Tue, 19 Jul 2005 05:57:19 -0500 (EST)
+
+------------=_1121770639-9534-73
+Content-Type: text/rfc822-headers
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Undelivered-message headers
+
+Received: from tortuga.dnsrouter.com (tortuga.dnsrouter.com [69.50.215.33])
+	by barracuda.ei8htlegs.net (Spam Firewall) with ESMTP id 9A43E25255
+	for <ponddr@nalu.net>; Tue, 19 Jul 2005 05:57:18 -0500 (EST)
+Received: from [221.30.56.44] (helo=mailwisconsin.com)
+	by tortuga.dnsrouter.com with smtp (Exim 4.50)
+	id 1Dupmm-00088b-Ax
+	for info@theponddoctors.com; Tue, 19 Jul 2005 05:57:17 -0500
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024817145;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@theponddoctors.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - tortuga.dnsrouter.com
+X-AntiAbuse: Original Domain - theponddoctors.com
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - mail.scoaway.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+------------=_1121770639-9534-73--

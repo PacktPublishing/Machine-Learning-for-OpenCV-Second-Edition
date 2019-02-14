@@ -1,0 +1,107 @@
+Message-ID: <29261133.1075855877371.JavaMail.evans@thyme>
+Date: Thu, 27 Apr 2000 20:23:00 -0700 (PDT)
+From: d.hall@enron.com
+To: sally.beck@enron.com
+Subject: Re: Book-Split Update 4/27/2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: D Todd Hall
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+
+I wanted to forward the latest update for the Book-Split Project.  Although 
+you may not find the details of the update to be that exciting, I want you to 
+know that much work and time are being put into this effort.  Paul and Gregor 
+are the two Desk Directors for Continental Power who report to Joe Gold.  
+It's good to hear some feedback from them.
+
+As you know, Kristin has now shown some interest in the EBS job with Barry 
+now that Fallen is moving.  When Barry and I first spoke about the position 
+which I would fill, I told him the Fallen might want Kristin since he knows 
+her and has worked with her the last 2 years.  Although the job sounds 
+interesting (Barry's a good salesman), there is not room for both Kristin and 
+myself.  I'll keep you updated on my discussions with Barry.
+
+Thanks for being a sounding board,
+Todd
+
+
+---------------------- Forwarded by D Todd Hall/HOU/ECT on 04/28/2000 09:03 
+AM ---------------------------
+
+
+Paul Mead
+04/28/2000 02:20 AM
+To: D Todd Hall/HOU/ECT@ECT
+cc:  
+Subject: Re: Book-Split Update 4/27/2000  
+
+Thanks for the update.  Great job to date.
+
+Paul
+
+
+   
+	
+	
+	From:  D Todd Hall                           27/04/2000 18:38
+	
+
+To: Gregor Baumerich/LON/ECT@ECT, Paul Mead/LON/ECT@ECT, Joe Gold/LON/ECT@ECT
+cc: James New/LON/ECT@ECT, Neil Tarling/LON/ECT@ECT 
+
+Subject: Book-Split Update 4/27/2000
+
+
+Due to the announcement that the London office received pertaining to the May 
+Day problems which occurred last year, the Book-Split "Go Live" date will be 
+postponed until next Saturday, May 6.  Listed below are the updates since the 
+last memo:
+
+BOOK-SPLIT
+
+Completed
+Position report which presents peak/off-peak volumes by month, by desk was 
+delivered to Paul and Gregor
+Deal summaries which support the position report were also delivered
+All volumetric variances between the Production and Test environments have 
+been identified - the material differences were related to 2 counterparties 
+which were not set up in Test and steps have been taken to resolve this issue
+Discussed system changes relating to the Settlements invoicing system
+
+Uncompleted
+Test the PCS calc to ensure that it can report by desk
+Separate DPRs and associated reports for the Pool and Bilateral portfolios
+Testing of the Settlements invoicing system
+
+
+TRANSMISSION
+
+Talks have continued with the Houston IT team as to the Transmission deal 
+type testing that must be done.  The IT group moved floors yesterday and has 
+spent much of today recovering from the aftermath.  They are aware of the 
+sense of urgency and level of priority to give this issue and considerable 
+progress should be made during the next 2 weeks.
+
+
+OTHER
+
+Neil has been working with Miles in order to set up the necessary Cezch 
+border curves so that the CEZ deal may be properly booked in Enpower.  Once 
+this is complete, the Basis adjustment  (approx. 14M Eur) can be removed from 
+the DPR.  Also, the Financial Iberian positions have successfully been 
+intergrated into the current Continental Power DPR (leaving only the Spanish 
+physical deals being valued outside of Enpower).
+
+
+Please come by if you have any questions,
+Todd Hall
+
+
+

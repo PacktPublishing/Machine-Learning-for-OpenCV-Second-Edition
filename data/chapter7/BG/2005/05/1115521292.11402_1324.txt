@@ -1,0 +1,43 @@
+Return-Path: <xicsoxafzd@ibm.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4345 invoked by uid 115); 7 May 2005 21:49:05 -0000
+Received: from xicsoxafzd@ibm.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(155.239.125.9):. 
+ Processed in 7.085765 secs); 07 May 2005 21:49:05 -0000
+Received: from wbs-ip-nas-1-p265.telkom-ipnet.co.za (HELO ibm.com) (155.239.125.9)
+  by churchill.factcomp.com with SMTP; 7 May 2005 21:48:57 -0000
+From: bruceg@em.ca <businessnetwork@ananzi.co.za>
+To: bruceg <bruceg@em.ca>
+Subject: We have a whole lot of things in stall for you.
+X-Priority: 3
+X-MSMail-Priority: Normal
+Reply-To: bruceg@em.ca <businessnetwork@ananzi.co.za>
+mime-version: 1.0
+content-type: multipart/mixed;
+	boundary="qzsoft_directmail_seperator"
+X-Qmail-Scanner-Message-ID: <11155025426724334@churchill>
+Content-Length: 1324
+
+--qzsoft_directmail_seperator
+Content-Type: text/plain;
+	charset="DEFAULT"
+Content-Transfer-Encoding: base64
+
+SWYgeW91IGRvbid0IHdhbnQgYW55IG1vcmUgcmVtaW5kZXJzLCBzZW5kIG1lIGFuIGVtYWlsIGFu
+ZCBJJ2xsIHJlbW92ZSB5b3VyIGFkZHJlc3MgaW1tZWRpYXRlbHkhISEgSnVzdCBtZW50aW9uIHlv
+dXIgY29ycmVjdCBlbWFpbCBhZGRyZXNzISEhCgpJZiB5b3UgYXJlIGluIGJ1c2luZXNzLCBhbmQg
+eW91IHdhbnQgdG8gc2VsbCwgcGxlYXNlIGxldCBtZSBrbm93IGF0IGJ1c2luZXNzbmV0d29ya0Bh
+bmFuemkuY28uemEKCklmIHlvdSBhcmUgTk9UIGluIGJ1c2luZXNzLCBhbmQgeW91IHdvdWxkIGxp
+a2UgdG8gZ2V0IGluLCBwbGVhc2UgbGV0IG1lIGtub3cgYXQgYnVzaW5lc3NuZXR3b3JrQGFuYW56
+aS5jby56YQoKSWYgeW91IGFyZSBub3QgaW4gYnVzaW5lc3MsIGFuZCB5b3UgYXJlIG5vdCBzdXJl
+IGF0IHRoaXMgc3RhZ2UsIHBsZWFzZSBsZXQgbWUga25vdyBhdCBidXNpbmVzc25ldHdvcmtAYW5h
+bnppLmNvLnphCgpJZiB5b3UgYXJlIE5PVCBpbiBidXNpbmVzcywgYW5kIHlvdSBkZWZpbml0ZWx5
+IGFyZSBOT1QgaW50ZXJlc3RlZCwgcGxlYXNlIHBhc3MgdGhpcyBlbWFpbCBvbiB0byBzb21lYm9k
+eSB3aG8gSVMgaW50ZXJlc3RlZC4KCldlIGhhdmUgYSBuYXRpb253aWRlIGJ1c2luZXNzIGJyb2tl
+cmFnZSwgYW5kIHdlIHdvdWxkIGxpa2UgdG8gaW5jbHVkZSB5b3UgdG8gYmUgcGFydCBvZiB0aGUg
+c2VsZi1lbXBsb3llZCwgc3VjY2Vzc2Z1bCBwb3B1bGF0aW9uLgoKQ29uc3VsdCB1cyBmb3IgRnJh
+bmNoaXNpbmcgYW5kIEJsYWNrIEVtcG93ZXJtZW50LgoKSXQgaXMgdG8geW91ciBhZHZhbnRhZ2Ug
+dG8gam9pbiBvdXIgaW5mb3JtYXRpb24gbmV0d29yayAtIHNvIG11Y2ggdG8gbGVhcm4gYW5kIGVh
+cm4uCgpUaGFuayB5b3UKCg==
+
+--qzsoft_directmail_seperator--

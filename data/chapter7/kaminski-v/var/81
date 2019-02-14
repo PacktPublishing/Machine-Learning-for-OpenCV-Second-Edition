@@ -1,0 +1,48 @@
+Message-ID: <25266874.1075856642537.JavaMail.evans@thyme>
+Date: Mon, 31 Jul 2000 12:45:00 -0700 (PDT)
+From: kirstee.hewitt@enron.com
+To: cantekin.dincerler@enron.com, vince.kaminski@enron.com, 
+	grant.masson@enron.com, bjorn.hagelmann@enron.com
+Subject: VaR for COB 28th July 2000
+Cc: steven.leppard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.leppard@enron.com
+X-From: Kirstee Hewitt
+X-To: Cantekin Dincerler, Vince J Kaminski, Grant Masson, Bjorn Hagelmann
+X-cc: Steven Leppard
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Hi all,
+I have run the VaR model for the positions at close fo business 28th of July. 
+The model is attached below.
+
+
+As a summary the results are as follows :
+
+
+
+and as a comparison the previous days figures were :
+
+
+
+
+This shows some increase in VaR for Aluminium, Copper and Lead. The prices 
+for gold and cocoa beans have not been updated 
+as we still do not have a live feed to Bloomberg/Reuters. I will be working 
+on this with Cantekin and Andreas should also be able to 
+provide some more historical data. 
+Also, after having a discussion with Andreas here in London we should 
+probably reduce the vol we are using for TC - we are taking the Cu price 
+vol as a proxy which is a too high. However, assuming the the other 
+assumptions we have made around the TC ( ie simulating a parallel shift in 
+the curve and 
+including no term structure to the price curve) the vol estimate is a 
+conservative one.
+
+Cheers
+Kirstee
+

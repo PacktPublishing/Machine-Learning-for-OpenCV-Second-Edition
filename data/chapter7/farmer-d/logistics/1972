@@ -1,0 +1,223 @@
+Message-ID: <14509960.1075854316762.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 02:37:00 -0800 (PST)
+From: victor.lamadrid@enron.com
+To: rita.wynne@enron.com, sherlyn.schumack@enron.com
+Subject: Re: HPL discrepancy
+Cc: clem.cernosek@enron.com, jackie.young@enron.com, meredith.mitchell@enron.com, 
+	cynthia.franklin@enron.com, daren.farmer@enron.com, 
+	beverly.beaty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: clem.cernosek@enron.com, jackie.young@enron.com, meredith.mitchell@enron.com, 
+	cynthia.franklin@enron.com, daren.farmer@enron.com, 
+	beverly.beaty@enron.com
+X-From: Victor Lamadrid
+X-To: Rita Wynne, Sherlyn Schumack
+X-cc: Clem Cernosek, Jackie Young, Meredith Mitchell, Cynthia Franklin, Daren J Farmer, Beverly Beaty
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Rita, Please help me with this. I have some questions regarding Enerfin.
+Why are we re-allocating prior month volumes at Enerfin after we matched your 
+original numbers back in October? Can't this be fixed in the actualization 
+process?  
+The numbers for October between ENA-TETCO and HPL vary a good bit.  Are we 
+your only customer at that point and why do we show volumes on days ENA had 
+no transactions with HPL?  Can we simply put zero paths in UNIFY and extend 
+our existing deals in Sitara with zero volumes and have you guys actualize 
+these small volumes to handle this?  We go round and round at this point 
+changing volumes two, three or more times. Call me if you have questions..  
+Thanks Victor
+---------------------- Forwarded by Victor Lamadrid/HOU/ECT on 12/14/2000 
+08:50 AM ---------------------------
+From: Meredith Mitchell on 12/14/2000 09:28 AM
+To: Victor Lamadrid/HOU/ECT@ECT
+cc:  
+Subject: Re: HPL discrepancy  
+
+Victor,
+
+The sitara ticket that we were using for the month of October is #421415.  
+TETCO shows that the volumes that HPL was allocated on October 6th and 
+October 19th, were 9 dths and 44 dths, respectively.  Those volumes were 
+pulled off of our backhaul contract because there was no nomination in 
+place.  This is the same problem that we have had over and over with them.  
+Also, we just found out on Tuesday, that the OBA did not go into effect until 
+December 1, 2000.  We were originally told that they were putting the OBA in 
+effect retroactively to November of 1999.  In fact, I thought that HPL had 
+made a lot of retroactive changes in the system to adjust for the OBA, do you 
+remember that?  HPL told us that Ray Calles at TETCO is the one who decided 
+that the OBA would not be effective until December of 2000.  Nobody even 
+informed us of this change, I stumbled upon it when researching a November 
+issue for Alfonso Trabulsi and Brenda Fletcher.  In addition to all of this, 
+I received another email, which I will copy below, asking me to go in for the 
+month of October and adjust all of my estimated volumes in Unify to match 
+what HPL shows that we were allocated.  I had been going in all month long 
+and matching to their numbers, and we were clean for the deadline at the end 
+of the month.  I ran the allocation report from TETCO for the month of 
+October, and some of HPL's numbers were very different from TETCO's, 
+including the two days that I mentioned above.  I sent Jackie Young an email 
+back showing her TETCO's numbers and I haven't received a response.  I will 
+copy that email below as well, just to catch you up on what's been going on.
+
+
+
+Jackie Young
+12/12/2000 10:01 AM
+To: Cynthia Franklin/Corp/Enron@ENRON, Meredith Mitchell/HOU/ECT@ECT
+cc: Rita Wynne/HOU/ECT@ECT, Sherlyn Schumack/HOU/ECT@ECT 
+Subject: Estimated Volumes for meter 98-0439 for (10/2000)
+
+Cynthia/Meredith:
+
+Please find below the estimates for the above referenced meter for 10/2000.  
+Once you're done placing these estimates on TETCO's side, can you please 
+apprise me so that volume mgt. can conclude their business?
+
+Thanks
+-Jackie-
+3-9497
+
+DAY	VOLUMES
+1	39647
+2	40040
+3	39643
+4	39809
+5	39702
+6	18 dec. (str. gas)
+7	
+8	
+9	
+10	
+11	29162
+12	14689
+13	40400
+14	30599
+15	30523
+16	30394
+17	30369
+18	40547
+19	88 dec. (str. gas)
+20	10126
+21	20167
+22	20208
+23	20502
+24	40408
+25	45721
+26	30978
+27	43142
+28	9667
+29	9536
+30	10290
+31	
+
+
+
+
+   
+	
+	
+	From:  Meredith Mitchell                           12/12/2000 11:37 AM
+	
+	
+
+To: Jackie Young/HOU/ECT@ECT
+cc:  
+Subject: October Volumes
+
+Hi Jackie,
+
+I ran a report from TETCO's system to show the volumes that Enron was 
+allocated for the month of October, and some of the volumes are very 
+different from the volumes that you show.  I copied your numbers below and 
+copied TETCO's volumes below that (with the disrepancies in red).  I was 
+wondering if you could double check the 3rd, 4th, 11th, 12th, 25th, and 27th 
+to see if you had purchases on those days from a counterparty other than 
+Enron North America at that meter.  It looks like maybe the volumes that you 
+show are the total flow at that meter, but I think that only part of the gas 
+was actually allocated to us.  I don't mind putting the allocated volumes in 
+path manager, but I'd like to make sure that on the above days, I am only 
+putting in the amount that Enron was allocated.   
+
+Also, on the 6th and the 19th TETCO shows exactly half of what you show, 
+which I thought was kind of strange.  I am going to have to get TETCO's 
+permission to do a retroactive nomination for those two days at the volumes 
+you have requested, before I can put anything in Sitara or Unify.  My manager 
+is out of the office and will be back tomorrow, but I would like for him to 
+double check the deal that we will have to create in Sitara for those two 
+days, since we are dealing with a prior month issue. 
+
+ 
+
+DAY	VOLUMES
+1	39647
+2	40040
+3	39643
+4	39809
+5	39702
+6	18 dec. (str. gas)
+7	
+8	
+9	
+10	
+11	29162
+12	14689
+13	40400
+14	30599
+15	30523
+16	30394
+17	30369
+18	40547
+19	88 dec. (str. gas)
+20	10126
+21	20167
+22	20208
+23	20502
+24	40408
+25	45721
+26	30978
+27	43142
+28	9667
+29	9536
+30	10290
+31	
+
+
+
+DAY	VOLUMES
+1	39647
+2	40040
+3	29732
+4	24881
+5	39702
+6	9 dec. (str. gas)
+7	
+8	
+9	
+10	
+11	19441
+12	9793
+13	40400
+14	30599
+15	30523
+16	30394
+17	30369
+18	40547
+19	44 dec. (str. gas)
+20	10126
+21	20167
+22	20208
+23	20502
+24	40408
+25	25401
+26	30978
+27	30099
+28	9667
+29	9536
+30	10290
+31	
+
+
+

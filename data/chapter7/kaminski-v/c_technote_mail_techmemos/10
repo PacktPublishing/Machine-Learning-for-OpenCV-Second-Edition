@@ -1,0 +1,38 @@
+Message-ID: <3443372.1075840778398.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 17:30:00 -0700 (PDT)
+From: stinson.gibner@enron.com
+To: mark.fondren@enron.com
+Subject: P+ option valuation model
+Cc: scott.earnest@enron.com, vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scott.earnest@enron.com, vince.kaminski@enron.com
+X-From: Stinson Gibner <Stinson Gibner/HOU/ECT@ECT>
+X-To: Mark Fondren <Mark Fondren/Enron@EnronXGate>
+X-cc: Scott Earnest <Scott Earnest/Enron@EnronXGate>, Vince J Kaminski <Vince J Kaminski/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: KAMINSKI-V
+X-FileName: vincent kaminski 1-30-02.pst
+
+Mark,
+
+After recently reviewing the booking of the P+ options, it is my understanding that these options are being valued using a standard spread option model where the price evolution of the two legs of the spread are assumed to be correlated Geometric Brownian Motion processes  (i.e. the price process assumptions are consistent with standard Black-76 model assumptions extended to two commodities).  
+
+The payoff for a call option is:
+
+Payoff	= Max( 0,  A - B - K).
+
+Where:
+	A = NXWTI (delivery price for Nymex)
+	B = Posting Price = (WTI Swap) - (Posting Basis)
+	K= Posting Bonus (fixed).
+
+The only complication of this option as compared to most other spread options is that leg "B" of the spread is a combination of three prices,  the two futures prices which make up the WTI swap for the given month, and the average posting basis during the delivery month.   Combination of these prices is easily addressed by simply setting the volatility of leg "B" and the correlation to correctly account for the volatility of this basket of prices and its correlation with the NXWTI price.  I believe that this approach is more straightforward than the alternative, which would be to use a three or four-commodity model with its associated volatility and correlation matrices.
+
+In summary, I believe that this is an appropriate model for valuation of these types of options, assuming that the inputs are set correctly.
+
+Regards,
+
+Stinson Gibner
+V. P. Research

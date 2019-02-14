@@ -1,0 +1,32 @@
+Message-ID: <12670904.1075845067071.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 01:58:00 -0700 (PDT)
+From: kim.theriot@enron.com
+To: leslie.reeves@enron.com
+Subject: Update on ConfirmLogic
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Kim S Theriot <Kim S Theriot/HOU/ECT@ECT>
+X-To: Leslie Reeves <Leslie Reeves/HOU/ECT@ECT>
+X-cc: Sally Beck <Sally Beck/HOU/ECT@ECT>
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: Beck, Sally.pst
+
+I wanted to give you a quick update on ConfirmLogic....
+
+Testing was done last week on the ConfirmLogic module.  On Thursday, we discussed with Kathryn Cordes and the ConfirmLogic IT team the items that we had found that were "show stoppers" as far as releasing the product for Beta Testing.  Some of the major Items found were the inability to properly handle Basis Swaps for Gas and inability to display meaningful Index References for Power (they were pulling in a code rather than a description of the Index).  
+
+The team worked on the "fixes" and migrated the code last night.  Today during testing, they found that the new code had actually caused problems with the fixed price and volume information, which was working previously.  I talked to Kathryn and she said that the were rebuilding the code.  She said that someone had tested the fix last night and everything worked fine.  We plan more testing in the morning.
+
+They are doing a high-level demo this Thursday for Beta Customers just to introduce the module.  They were planning on having more extensive Beta demos for each client starting next week but realize that those may have to postponed further.
+
+We have told them that we would not sign off for Beta testing until we were comfortable that the items that we identified were working.  We need consistent, stable days of testing before I will feel comfortable.
+
+Overall, we like the "new" streamlined version of the screens and feel that it will be a good product if they can work out the data display issues.
+
+Call with any questions.
+
+Kim Theriot  

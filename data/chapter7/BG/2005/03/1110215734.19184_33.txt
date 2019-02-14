@@ -1,0 +1,40 @@
+Return-Path: <DNAZC@iiss.ee>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 8759 invoked from network); 7 Mar 2005 09:44:09 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 07 Mar 2005 09:44:09 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Mar 2005 09:44:09 -0000
+Received: (qmail 29718 invoked from network); 7 Mar 2005 09:44:08 -0000
+Received: from catv-50636b41.catv.broadband.hu (unknown [80.99.107.65])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 07 Mar 2005 09:44:07 -0000
+Received: from 8.1.155.206 by ip-0F4-8F7-78-36.e.DNAZC@iiss.ee (AppleMailServer FF.C.E.6) id A3091F7B2525875 via NDR; Mon, 07 Mar 2005 03:42:02 -0600
+Reply-To: "Lee D Dove" <DNAZC@iiss.ee>
+From: "Lee D Dove" <DNAZC@iiss.ee>
+To: "Cvs" <cvs@bruce-guenter.dyndns.org>
+Subject: get the piece of paper on the wall you've always wanted
+X-Identity-Key:architectonic-C19
+Date: Mon, 07 Mar 2005 11:41:02 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--B0C371A64FEA5D10918"
+Content-Length: 391
+Lines: 15
+
+----B0C371A64FEA5D10918
+Content-Type: text/plain;
+	charset="Windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+Instant Education available here
+
+http://emblem.affil9384.biz
+
+no future mailing=20 : HTTP://Stacie.AFfil9384.biz/re
+
+We will invest in our people, quality education, job opportunity, family, =
+neighborhood, and yes, a thing we call America.=20
+
+----B0C371A64FEA5D10918--

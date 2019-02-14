@@ -1,0 +1,66 @@
+Received: from srv1.axanti1.com (66.98.168.21)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:32 -0000
+Received: from mailnull by srv1.axanti1.com with local (Exim 4.43)
+	id 1Dupn0-0003Wg-Nh
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 06:57:30 -0400
+X-Failed-Recipients: chantellehawaii@turquoise.net
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@srv1.axanti1.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Dupn0-0003Wg-Nh@srv1.axanti1.com>
+Date: Tue, 19 Jul 2005 06:57:30 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - srv1.axanti1.com
+X-AntiAbuse: Original Domain - mail.scoaway.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  chantellehawaii@turquoise.net
+    (generated from info@chantelleart.com)
+    SMTP error from remote mailer after RCPT TO:<chantellehawaii@turquoise.net>:
+    host mail.turquoise.net [64.75.251.7]: 550 <chantellehawaii@turquoise.net>:
+    Recipient address rejected: User unknown in local recipient table
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from [221.200.170.147] (helo=mailwisconsin.com)
+	by srv1.axanti1.com with smtp (Exim 4.43)
+	id 1Dupmy-0003WZ-3x
+	for info@chantelleart.com; Tue, 19 Jul 2005 06:57:29 -0400
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024815886;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@chantelleart.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54279223">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>

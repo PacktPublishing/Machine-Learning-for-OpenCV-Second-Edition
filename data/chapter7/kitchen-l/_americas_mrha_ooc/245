@@ -1,0 +1,357 @@
+Message-ID: <23553538.1075840875879.JavaMail.evans@thyme>
+Date: Fri, 27 Apr 2001 13:52:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: louise.kitchen@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Louise Kitchen
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+=20
+=20
+
+FEATURES: INFORMATION SERVICES=20
+Physical benchmarksin an on-line world Startup on-line commodity exchanges =
+seem not to realize that there are several good reasons why benchmarks deri=
+ved from volumetric indices may not work--and may not be useful--for physic=
+al products, such as oil and petrochemicals. But there are other routes to =
+price discovery=20
+By Neil Fleming=20
+
+Apr. 1, 2001=20
+Global Energy Business=20
+Page 37=20
+Copyright 2001 McGraw-Hill, Inc.=20
+
+Somewhere near 500 Internet-based exchanges for energy, oil, petrochemicals=
+, and hydrocarbon shipping have been launched worldwide over the past two y=
+ears. But most have since folded or been acquired. It's interesting to note=
+ that virtually all of those exchanges--both the survivors and the deceased=
+--have two things in common. -- They were created from scratch by entrepren=
+eurs from the technology world, or from the industries their exchanges are =
+(or were) intended to serve. -- The businessmen and women behind them have =
+followed the same train of thought in concluding that on-line trading was a=
+ business they could succeed at.=20
+
+This train of thought can be broken down into four parts.
+
+Premise 1: On-line trading is ``more efficient'' and will save its particip=
+ants money.
+
+Premise 2: I can capture some of those savings as site revenue.
+
+Premise 3: My site will be the best site out there, so everyone will use it=
+.
+
+Premise 4: With all this liquidity, I can construct benchmarks. My benchmar=
+ks will be unimpeachably scientific and replace the existing, unscientific =
+benchmarks currently used by the industry. As a result, I will make even mo=
+re money, because I will become an information provider.
+
+This article will examine those premises and the limits of their inherent l=
+ogic, with a view to showing why very few--if any--of the 500 launched exch=
+anges will survive. In particular, it will show why the logic of Premise 4 =
+is not valid for markets in physical commodities, such as oil and petrochem=
+icals.
+
+Premise 1: On-line trading is more efficient
+
+Few would question that, in theory, electronic trading has the potential to=
+ make liquid markets much more efficient. The history of EnronOnline, proba=
+bly the most successful electronic energy trading system in the world today=
+, supports that view. According to Enron, EnronOnline has succeeded in rais=
+ing the number of transactions completed by each of its market makers from =
+an average 672 in 1999 to 3,084 last year, while lowering the marginal cost=
+ per transaction by 75% over the two-year period.
+
+However, the markets that EnronOnline predominantly serves are two of the m=
+ost liquid and homogeneous in the energy business: natural gas and electric=
+ity. Moreover, the exchange has achieved its efficiency gains using a model=
+ very different from any deployed by--or available to--most on-line exchang=
+es. Essentially, Enron has used on-line trading to extend and complement it=
+s existing, off-line trading business. Enron's focus remains the transactio=
+n, rather than the transaction system.
+
+By contrast, the majority of transaction platforms for physical commodities=
+ are interlopers. Their operators assume that commodities traders are willi=
+ng to depersonalize their business by having their complex transactions exe=
+cuted not by humans, but by an electronic system that can do deals faster a=
+nd more anonymously, and--at least in theory--with more players.
+
+This assumption is a risky one, largely because it is based on a buyer's pe=
+rception of how marketplaces should operate. It fails to take into account =
+the concerns of physical commodity sellers and--more importantly--producers=
+. Typically, producers wish to ensure that the uptake of their commodity is=
+ continuous, because that minimizes the volatility of the commodity's price=
+. Relationships become all-important under such conditions--but relationshi=
+ps are hardly enhanced by electronic dealing. To quote the November/Decembe=
+r 2000 issue of the Harvard Business Review, ``Few suppliers want to be ano=
+nymous contestants in ruthless bidding wars.''
+
+Premise 2: I can make money selling gains in efficiency
+
+The logic underlying Premise 2 is potentially seriously flawed. For while t=
+here is no doubt that market participants are prepared to pay for more effi=
+cient services, such as electronic trading, the nature of the forces drivin=
+g physical energy commodity markets casts doubt on whether a trading system=
+ can, in the long term, make a profit by charging per-transaction fees.
+
+Here's why: Although the era of competition is just beginning, it's clear t=
+hat pressure on transaction fees is already downward, and will remain in th=
+at direction even if the number of participants in an exchange shrinks to a=
+ handful. In the energy business, the potential for efficiency gains--as a =
+percentage of total industry cost--simply is not that great. For example, r=
+esearch done for Platts, a division of The McGraw-Hill Companies, New York,=
+ indicates that the total potential efficiency ``pool'' in the oil industry=
+ is only $150 million/year. Even if only 10 businesses were to try to carve=
+ a profitable enterprise out of such a pool, each would be hard-pressed to =
+do so.
+
+What's more, such businesses would have an even harder time turning a profi=
+t because some of their competitors wouldn't be using a per-trade revenue m=
+odel. In particular, sites operated by market participants, such as EnronOn=
+line, will tend to charge nothing per trade, because their business models =
+seek to profit not from commissions on transactions, but rather from the tr=
+ansactions themselves. By implication, it seems likely that an exchange wil=
+l be able to make money only if its owners sell something else: clearing fa=
+cilities, back-office integration, or information to decision-makers.
+
+Premise 3: My site will be the best, so it will capture all the market liqu=
+idity available
+
+This statement--which essentially says that given enough marketing support,=
+ a site can change the trading patterns of an industry to capture all of it=
+s liquidity--is a fallacy.
+
+The logical problem with the premise is clear. Because no one has yet devel=
+oped a trading software package that is clearly superior to others, what ``=
+best site'' really means is ``most liquid site.'' So the pre-condition for =
+capturing ``all'' the liquidity is that the site must already be the most l=
+iquid site.
+
+Some startup exchanges have attempted to solve this problem by insisting th=
+at their participants make volume guarantees. But volume guarantees conflic=
+t directly with traders' focus on profits. Trading businesses that tell the=
+ir traders to sacrifice profits for the sake of the common good are playing=
+ a risky game; if the common good means lower trading profits, the traders =
+will simply leave for greener pastures.
+
+To become the ``best'' site, then, a site must somehow find a way to bootst=
+rap its liquidity, perhaps by offering substantial, non-volume-related ince=
+ntives or efficiencies to users.
+
+However, the paradox is that most sites' revenue models depend almost exclu=
+sively on volume.
+
+Premise 4: Once I capture lots of liquidity, I can build benchmarks
+
+This premise is the most startling and--in some ways--the most flawed of th=
+e four. It raises many serious questions, the answers to any of which can i=
+nvalidate the model. Worse, these questions are all highly theoretical, mak=
+ing persuasive answers even harder to come by.
+
+Among the questions are: -- How much liquidity is enough? -- Do indexes (vo=
+lumetric averages) make good physical benchmarks? -- Can a trading site ben=
+chmark with the bid/offer range? -- Can a trading site generate a close? An=
+d, last but not least: What is a benchmark, anyway?
+
+Benchmarks and indices
+
+A benchmark is a price or series of prices that a market's participants agr=
+ee to use as the basis for determining other prices. Useful benchmarks are =
+good indicators of transactable value. A benchmark allows market participan=
+ts to determine at what price they should buy or sell the commodity.
+
+Benchmarks are typically used in complex markets with multi-dimensional var=
+iables for arbitrage. In oil, for example, benchmark pricing has grown up a=
+round the need to compute relative values for differing commodities across =
+time, geographical distance, commodity type, and the degree to which one co=
+mmodity may be substituted for another.
+
+It is a common error, however, to believe that markets should or do use the=
+ir most liquidly traded commodities as benchmarks. Although liquidity is a =
+major asset of benchmarks, many markets use illiquid benchmarks whose other=
+ characteristics outweigh the liquidity advantage. These include market tra=
+nsparency; the free and open availability of the commodity; the absence of =
+political or partisan control of the commodity; the absence of delivery res=
+trictions on it; and the size of the end-user market where the commodity wi=
+ll be consumed. For example, although the physical volume of Dubai crude oi=
+l actually produced is tiny, it nonetheless is used as a key benchmark for =
+all of Asia because--unlike its Persian Gulf competitors--it is the only cr=
+ude oil that has these characteristics.
+
+One way to compute a commodity's benchmark price is through strict indexati=
+on, the process of constructing a price marker from a volumetric average of=
+ concluded business. However, this process will have little chance of produ=
+cing a useful benchmark unless the contributing volumes are high. If it doe=
+sn't reflect a sufficient number of trades, an index has little or no stati=
+stical validity as an indication of transactable price.
+
+This represents a problem for benchmarking oil prices, whether for crude or=
+ products. Of the 77 million barrels of crude produced worldwide each day, =
+the vast majority are sold on the long-term contract market, leaving perhap=
+s as little as 10% to be traded ``spot.'' In reality, this figure is booste=
+d in multiple ways, primarily by transaction chaining--the repeated on-sell=
+ing of cargos--but, even assuming threefold transaction growth as a result =
+of electronic trading, is still perilously low to be used as a valid basis =
+for strict indexation, especially considering the great diversity of crude =
+oil specifications around the world. For many crude oils, the trading basis=
+ for establishing price can be just a few transactions per month. Even for =
+``liquid'' benchmark crudes, the basis is typically just a handful of trade=
+s per day. Oil markets, however, don't seem to care. For example, the settl=
+ement basis for the International Petroleum Exchange's Brent crude oil futu=
+res contract is an index based on a smattering of
+ physical trades taking place on the day of expiry. Acceptance of an indexa=
+tion mechanism such as this has difficult prerequisites. These include open=
+ participation in the mechanism, the perceived existence of a ``level playi=
+ng field,'' the existence of comparative historical data, and achieving ``b=
+uy in'' from the market's dominant players.
+
+The nature of today's on-line exchanges makes these conditions hard to meet=
+. Not everyone uses exchanges; they may be owned by industry players; they =
+typically have little or no historical data; their daily volume fluctuates =
+wildly; and major players' commitment to them is either fragmentary or comp=
+romised by volume commitments. In today's environment, the chance that an i=
+ndex will be able to gain market acceptance as a benchmark is extremely sli=
+m.
+
+Are strict volumetric indices useful? Another big question surrounding volu=
+metric indices is how useful they are as benchmarks for physical commoditie=
+s. Advocates of indexation argue that its statistical methodology helps eli=
+minate market distortions caused, for example, by market closes. In additio=
+n, they argue that the alternative approach--``market assessment,'' based o=
+n human judgements about transactable prices--is too subjective to be relie=
+d on to determine benchmark prices. Indexation, its proponents argue, ``eli=
+minates'' this subjectivity.
+
+In practice, however, this argument doesn't pass the ``so what?'' test. Eve=
+n if a system such as indexation succeeds in taking judgement out of the de=
+termination of market prices, it cannot prevent attempts to distort the ind=
+ex by exploiting the ``rules'' on which the system is based.
+
+In many markets, human judgement is the only effective defense against mark=
+et plays whose goal is profit, not price transparency. Even in highly liqui=
+d markets--such as, for example, the monthly natural gas market in the U.S.=
+--the indices generated by information companies like Platts are subject to=
+ human review and analysis. During their generation, Platts' market special=
+ists undertake a string of comparative tests to unearth potential distortio=
+ns in reported prices. Whenever such distortions become apparent, Platts' e=
+ditors investigate the market further and, where necessary, eliminate certa=
+in trades from the assessment picture. There are good reasons for their dil=
+igence. A volumetric index can be manipulated by volume plays, by a few pla=
+yers under the cloak of ``anonymous dealing,'' by selective trading, or by =
+hedging in one marketplace and trading in another.
+
+Figures 1 and 2 illustrate how players with exposure to a particular price =
+on the buy side might--and actually do--manipulate a volumetric index. By d=
+oing lots of business early in the day when the market is rising, they can =
+skew the volumetric average for the day lower (Figure 1). When the market i=
+s falling, they reverse the pattern and shift their transactions to late in=
+ the day, again pushing the market down (Figure 2). When players do this co=
+nsistently, the impact on an index can be considerable over time.
+
+There are other, potentially more serious problems with indices. Because an=
+ index is a theoretical construct, in a rapidly moving market it will manif=
+est lag--and become useless to market participants seeking the answer to th=
+e question, ``At what price should I buy or sell?'' Indeed, an index may ev=
+en actively mislead people asking this question. For example, in a fast ris=
+ing market, an index generated over the course of one day will be significa=
+ntly below the opening market price on the following day. This creates the =
+impression that prices have somehow moved overnight, whereas in fact they m=
+ay not have moved at all.
+
+But perhaps the biggest problem with indices relates to their use in heavil=
+y interlinked markets, where prices are constrained by a complex of spread =
+and arbitrage values. This description applies to most energy markets, and =
+is particularly apt for today's global, physical market for oil. In markets=
+ where spread relationships are as or more important than outright prices, =
+the process of generating averaged indices tends to generate sets of prices=
+ that cannot be reconciled with each other.
+
+Figure 3 depicts a dramatized version of this problem. Price 1 and Price 2 =
+are interdependent; here, there is always a 5 cents difference between them=
+. However, the volume pattern for the day's trade (shown in the lower part =
+of the figure) is such that while Price 1 has very high volume early in the=
+ day, Price 2 does not enjoy its volume boost until later. The result: Cont=
+rary to market reality, the volumetric averages for Price 1 and Price 2 say=
+ that they only differ by 1 cents.
+
+Other routes to price discovery
+
+So, if an on-line trading system cannot generate a reliable benchmark from =
+an index, are there other routes to price discovery? Yes, two. The first is=
+ to benchmark from a bid-offer range, and the second is to use a close of s=
+ome kind.
+
+Bid-offer ranges are widely used as market measurement tools by Platts and =
+others. However, the automated application of bid-offer ranges in pursuit o=
+f ``scientific'' benchmarks is fraught with difficulty. What happens when t=
+here is a bid, but no offer? An offer, but no bid? What rules can be writte=
+n to discriminate between an ``off-market'' bid and an ``on-market'' one? H=
+ow should a system decide when a bid or offer's timing is not representativ=
+e of the typical market? Most on-line exchanges have not even begun to answ=
+er these questions, and at best offer their users a ``last bid-last offer''=
+ price range that can accidentally distort their perception of the market, =
+if the two are not aligned in time, or if it turns out, for example, that t=
+he ``last bid'' was actually withdrawn in response to the ``last offer.''
+
+Some exchanges, implicitly acknowledging that creating useful benchmarks is=
+ difficult, have tried to incorporate their transactions and bid/offers int=
+o published benchmarks. Obviously, they hope that their system will attract=
+ more liquidity if it is tied to a traditional benchmark. But it's safe to =
+say that a publisher will be interested in incorporating an exchange's prop=
+rietary markers only if transaction bid/offers are open and transparent.
+
+Can an on-line site benchmark from a close? In theory, yes. But if human ha=
+nds and brains intervene, the process is no longer a mechanical one, but ra=
+ther an editorial/judgement effort. Here too, there are many obstacles. One=
+ of the biggest is that closing prices work best in two kinds of markets: c=
+ompletely ``open'' markets, in which assessments are derived by surveying a=
+ll participants; and ``sole-operator'' markets--like futures markets--where=
+ the traded instrument exists only on that exchange.
+
+Physical commodities, by contrast, are traded across a broad spectrum of in=
+struments and sub-markets. It would be virtually impossible for the owner o=
+f a single sub-market--or on-line exchange--to assert the superiority of it=
+s close over someone else's, or to build market acceptance for a price deri=
+ved from a trading pool that doesn't include all players.
+
+Even a system used by most players--for example, the oil industry's derivat=
+ives-trading Intercontinental Exchange--would have a hard time convincing a=
+nyone to rely exclusively on its closing prices. That's not only because ``=
+most'' is not the same as ``all,'' but also because liquidity is frequently=
+ too low to assure that there will in fact be a traded market to close ever=
+y day. What happens to the benchmark on days when no one comes out to play?
+
+In conclusion, it appears that price discovery may not necessarily be an em=
+ergent property of on-line trading systems. That may be the case because th=
+e creators of most on-line trading systems have confused its mechanism with=
+ its function. Trading systems are neither new markets nor new marketplaces=
+; they are simply new vehicles for participating in existing marketplaces. =
+A telephone is also a vehicle for participating in markets--but no one expe=
+cts their phone to be able to tell them the price of a commodity.=20
+
+GEB0111600001 =20
+
+
+   Related Topics:    =20
+   =20
+
+   Dow Jones Topics=20
+Publication: Global Energy Business=20
+=20
+
+News:=20
+ENGL=20
+  =20
+  =20
+
+
+    Copyright ? 2001 Dow Jones Reuters Business Interactive LLC. All Rights=
+ Reserved.

@@ -1,0 +1,52 @@
+Return-Path: <cobalt.760113lonidas@printspecial.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 18388 invoked from network); 16 Mar 2005 04:14:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 16 Mar 2005 04:14:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 Mar 2005 04:14:04 -0000
+Received: (qmail 8292 invoked from network); 16 Mar 2005 04:14:03 -0000
+Received: from 69.5.6.152 (unknown [210.106.247.177])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 16 Mar 2005 04:14:03 -0000
+Received: from terminalt3.rcowen.com (60.180.37.241)
+          by 60.180.37.241 (MediaMailer 04) with SMTP
+          id <06757Z4q>; Wed, 16 Mar 2005 02:10:07 -0200
+Reply-To: "clerkclaude abey" <savovbqailsun@rcowen.com>
+From: "clerkclaude abey" <savovbqailsun@rcowen.com>
+To: rait@bruce-guenter.dyndns.org
+Cc: cvs@bruce-guenter.dyndns.org
+Subject: Thank You For Applying
+Date: Wed, 16 Mar 2005 00:05:07 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--75597_628728.eAP59"
+Content-Length: 682
+Lines: 25
+
+----75597_628728.eAP59
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html>Dear Homeowner,
+<p>
+You have been pre-approved for a $400,000 Home Loan at a 3.35% Fixed Rate.<p>
+
+This offer is being extended to you unconditionally and your credit is in no way a factor.<p>
+
+To take Advantage of this Limited Time opportunity all<br>
+we ask is that you visit our Website and complete<br>
+the 1 minute post Approval Form.<p>
+
+<a href="http://nowratez.com/x/loan2.php?id=jrwriter">Enter Here</a><p>
+
+Sincerely,<p>
+
+clerkclaude abey<br>
+First One Associates
+<p><p>
+<a href="http://nowratez.com/x/st.html">no tha.n.ks</a><p></html>
+
+----75597_628728.eAP59--

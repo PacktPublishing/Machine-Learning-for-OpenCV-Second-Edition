@@ -1,0 +1,158 @@
+Return-Path: <Sendinglists@anhuinews.com>
+Received: (fqmail 30618 invoked from network); 01 Sep 2004 18:52:11 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 01 Sep 2004 18:52:11 -0000
+Received: (qmail 14647 invoked from network); 1 Sep 2004 18:52:10 -0000
+Received: from 69.5.6.177 ([218.6.8.115])
+  by mx06.futurequest.net ([69.5.6.177])
+  with SMTP via TCP; 01 Sep 2004 18:52:10 -0000
+Message-ID: <XPPTGAUJVZMAFTGLCLYWTKUFPSFCSN@69.5.6.177>
+From: "Rose" <Sendinglists@anhuinews.com>
+To: webmaster@ezmlm.org
+X-MS-CKX: DQAPLZDKQB
+Date: Thu, 02 Sep 04 02:51:50 中国标准时间
+X-Priority: 1
+X-MSMail-Priority: High
+Subject: Dedicated Server sJkxLVdVkF
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=WC_MAIL_PaRt_BoUnDaRy_05151998
+
+This is a multi-part message in MIME format.
+
+--WC_MAIL_PaRt_BoUnDaRy_05151998
+Content-Type: text/html
+Content-Transfer-Encoding: 7Bit
+
+<html><head><meta http-equiv="Content-Type" content="text/html;
+charset=iso-8859-1"><meta name="GENERATOR" content="Microsoft FrontPage 4.0"><meta
+name="ProgId" content="FrontPage.Editor.Document"><title>Server</title></head>
+
+<body>
+
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">We  
+offer Bullet-Proof dedicated servers:</span></font></p> 
+<table class="MsoNormalTable" style="BORDER-RIGHT: medium none; BORDER-TOP:
+medium none; MARGIN-LEFT: 0.5in; BORDER-LEFT: medium none; WIDTH: 343.5pt;
+BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse" height="23"
+cellSpacing="0" cellPadding="0" width="458" border="1"> 
+  <tbody> 
+    <tr style="HEIGHT: 88.5pt" height="118"> 
+      <td style="BORDER-RIGHT: #111111 1pt inset; PADDING-RIGHT: 0in;
+BORDER-TOP: #111111 1pt inset; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in;
+BORDER-LEFT: #111111 1pt inset; WIDTH: 114.35pt; PADDING-TOP: 0in; BORDER-BOTTOM:
+#111111 1pt inset; HEIGHT: 88.5pt" width="152" height="118"> 
+        <p class="MsoNormal"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Two   
+        IPs<br>  
+        512MB RAM DDR<br>  
+        PIIII<br>  
+        36 GB SCS<br>  
+ Dedicated 100 M fiber<br>   
+        Unlimited Data Transfer<br>  
+        Linux/Windows/FreeBSD<br>  
+        &nbsp;</span></font></p>  
+      </td>  
+      <td style="BORDER-RIGHT: #111111 1pt inset; PADDING-RIGHT: 0in;
+BORDER-TOP: #111111 1pt inset; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in;
+BORDER-LEFT: medium none; WIDTH: 114.3pt; PADDING-TOP: 0in; BORDER-BOTTOM: #111111 1pt
+inset; HEIGHT: 88.5pt" width="152" height="118">  
+        <p class="MsoNormal"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Three   
+        IPs<br>  
+        1024MB RAM DDR<br>  
+        PIIII / Two CPU<br>  
+        72 GB SCS<br>  
+ Dedicated 100 M fiber<br>   
+        Unlimited Data Transfer<br>  
+        Linux/Windows/FreeBSD<br>  
+        &nbsp;</span></font></p>  
+      </td>  
+      <td style="BORDER-RIGHT: #111111 1pt inset; PADDING-RIGHT: 0in;
+BORDER-TOP: #111111 1pt inset; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in;
+BORDER-LEFT: medium none; WIDTH: 114.85pt; PADDING-TOP: 0in; BORDER-BOTTOM: #111111 1pt
+inset; HEIGHT: 88.5pt" width="153" height="118">  
+        <p class="MsoNormal"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Dynamic   
+        IP<br>  
+        1024MB RAM DDR<br>  
+        PIIII / Two CPU<br>  
+        72 GB SCS<br>  
+ Dedicated 100 M fiber<br>   
+        Unlimited Data Transfer<br>  
+        Linux/Windows/FreeBSD<br>  
+        &nbsp;</span></font></p>  
+      </td>  
+    </tr>  
+    <tr style="HEIGHT: 28.5pt" height="38">  
+      <td style="BORDER-RIGHT: #111111 1pt inset; PADDING-RIGHT: 0in;
+BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; BORDER-LEFT:
+#111111 1pt inset; WIDTH: 114.35pt; PADDING-TOP: 0in; BORDER-BOTTOM: #111111 1pt
+inset; HEIGHT: 28.5pt" width="152" height="38">  
+        <p class="MsoNormal"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Price:   
+        No setup fee<br>  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US$
+599.00/month</span></font></p>  
+      </td>  
+      <td style="BORDER-RIGHT: #111111 1pt inset; PADDING-RIGHT: 0in;
+BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; BORDER-LEFT:
+medium none; WIDTH: 114.3pt; PADDING-TOP: 0in; BORDER-BOTTOM: #111111 1pt inset;
+HEIGHT: 28.5pt" width="152" height="38">  
+        <p class="MsoNormal"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Price:   
+        No setup fee<br>  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US$
+799.00/month</span></font></p>  
+      </td>  
+      <td style="BORDER-RIGHT: #111111 1pt inset; PADDING-RIGHT: 0in;
+BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; BORDER-LEFT:
+medium none; WIDTH: 114.85pt; PADDING-TOP: 0in; BORDER-BOTTOM: #111111 1pt inset;
+HEIGHT: 28.5pt" width="153" height="38">  
+        <p class="MsoNormal"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Price:   
+        No setup fee<br>  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US$
+999.00/month</span></font></p>  
+      </td>  
+    </tr>  
+  </tbody>  
+</table>  
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"><span
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><a
+href="http://www.daydns.com/Bullet-Proof.asp">More  
+Information</a><br> 
+<br> 
+We also supply Target Email services.<br>  
+<br>  
+It will be our pleasure to establish a business relation with
+you.</span></font></p> 
+ 
+<p style="MARGIN-LEFT: 0.5in"><font face="Arial" size="2"
+color="#000000">PS: 
+Please do not reply to this email.</font><span style="FONT-SIZE: 10pt;
+FONT-FAMILY: Arial"><font face="Arial" size="2" color="#000000"> Contact 
+us by:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a
+href="mailto:Support@bbzb.com;Support@tvjs.com">Support@9206.com   
+or Support@bbzb.com</a><br>  
+</font><font face="Arial" size="2">  
+<br>  
+Thanks!<br> 
+<br> 
+Rose<br> 
+Sales Support<br> 
+<br>
+****************************************************************************************<br> 
+Please click here to off:<a
+href="mailto:31@yahoo.com?subject=take">351@aol.com?subject=take</a><br>
+****************************************************************************************</font></span></p>
+
+</body>
+
+</html>
+LcAmdYRuNJzQmmD
+--WC_MAIL_PaRt_BoUnDaRy_05151998--
+

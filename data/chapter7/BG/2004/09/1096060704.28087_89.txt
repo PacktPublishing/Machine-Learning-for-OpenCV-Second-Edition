@@ -1,0 +1,114 @@
+Return-Path: <news@e-pepper.net>
+Delivered-To: em-ca-bait-dactylus@em.ca
+Received: (qmail 19538 invoked by uid 115); 24 Sep 2004 20:05:15 -0000
+Received: from news@e-pepper.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(217.70.72.9):. 
+ Processed in 3.376127 secs); 24 Sep 2004 20:05:15 -0000
+Received: from c-217-70-72-9.bragatel.pt (HELO 192.168.0.221) (217.70.72.9)
+  by churchill.factcomp.com with SMTP; 24 Sep 2004 20:05:11 -0000
+From: "e - pepper" <news@e-pepper.net>
+To: <bait-dactylus@em.ca>
+Subject: DANCE CLUB #90 - Out 04
+Sender: "e - pepper" <news@e-pepper.net>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="= Multipart Boundary 0924042102"
+Date: Fri, 24 Sep 2004 21:02:46 +0100
+Reply-To: "e - pepper" <news@e-pepper.net>
+X-Qmail-Scanner-Message-ID: <109605631367219501@churchill>
+
+This is a multipart MIME message.
+
+--= Multipart Boundary 0924042102
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+marketing electrónico _  E - Pepper 
+www.e-pepper.net
+
+Já nas Bancas !  
+www.danceclub.pt
+informações
+leitores@danceclub.pt
+
+se não desejar receber mais mensagens deste serviço envie um mail para
+remover@e-pepper.net
+com o assunto "remover"
+
+--= Multipart Boundary 0924042102
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Esta mensagem e enviada com a complacencia da nova legislacao sobre 
+correio Electronico</title>
+<style>
+<!--
+.style5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.style16 {font-family: Arial, Helvetica, sans-serif; font-size: xx-small; }
+.style10 {color: #FF0000}
+.style14 {color: #FFFFFF}
+.style11 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+-->
+</style>
+</head>
+
+<body link="#00FFFF" text="#FFFFFF" bgcolor="#000000" vlink="#FFFFFF" alink="#FFFFFF">
+
+<div align="center">
+  <div align="center">
+    <img src="http://www.e-pepper.net/salome/logo_pepper.gif" width="53" height="47"></div>
+  <div align="center">
+    <b><font face="Agency FB" color="#c0c0c0" size="2">marketing electrónico _&nbsp; E 
+    - Pepper </font></b>
+  </div>
+  <div align="center">
+    <b><font face="Agency FB" color="#c0c0c0" size="2">
+    <a href="http://www.e-pepper.net">www.e-pepper.net</a></font></b></div>
+</div>
+
+<p align="center">
+<img border="0" src="http://www.e-pepper.net/uploads/DC_Nesta_Edicao.gif" width="597" height="737"></p>
+
+<p align="center"><b><font size="6" face="Arial" color="#C0C0C0">
+Já nas Bancas !&nbsp; </font>
+</b>
+</p>
+
+<p align="center"><b><a href="http://www.danceclub.pt">
+<font size="4" face="Arial">www.danceclub.pt</font></a></b></p>
+
+<p align="center"><b><font face="Arial" color="#C0C0C0" size="4">informações</font></b></p>
+
+<p align="center"><a href="mailto:info@danceclub.pt"><b>
+<font face="Arial" size="4">leitores@</font></b></a><b><font face="Arial" size="4"><a href="mailto:leitores@danceclub.pt">danceclub.pt</a></font></b></p>
+
+<p align="center">&nbsp;</p>
+<p align="center" style="text-indent: -2"><b>
+<font face="Agency FB" color="#c0c0c0" size="2">se não desejar receber mais 
+mensagens deste serviço envie um mail para</font></b></p>
+<p align="center" style="text-indent: -2"><a href="mailto:e-pepper@bragatel.pt">
+<b><font face="Agency FB" size="2">remover</font></b></a><b><font face="Agency FB" color="#c0c0c0" size="2"><a href="mailto:remover@e-pepper.net">@e-pepper.net</a></font></b></p>
+<p align="center" style="text-indent: -2"><b>
+<font face="Agency FB" color="#c0c0c0" size="2">com o assunto &quot;remover&quot;</font></b></p>
+
+</body>
+
+</html>
+
+--= Multipart Boundary 0924042102--
+

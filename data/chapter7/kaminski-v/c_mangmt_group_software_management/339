@@ -1,0 +1,80 @@
+Message-ID: <31577596.1075857027531.JavaMail.evans@thyme>
+Date: Wed, 24 May 2000 07:14:00 -0700 (PDT)
+From: samer.takriti@enron.com
+To: pinnamaneni.krishnarao@enron.com
+Subject: Re: CPLEX
+Cc: chonawee.supatgiat@enron.com, grant.masson@enron.com, 
+	stinson.gibner@enron.com, tom.halliburton@enron.com, 
+	vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chonawee.supatgiat@enron.com, grant.masson@enron.com, 
+	stinson.gibner@enron.com, tom.halliburton@enron.com, 
+	vince.kaminski@enron.com
+X-From: Samer Takriti
+X-To: Pinnamaneni Krishnarao
+X-cc: Chonawee Supatgiat, Grant Masson, Stinson Gibner, Tom Halliburton, Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+I agree. I (or Chonawee) will go ahead and place the order for CPLEX. I think 
+that this will provide us with a great set of tools.
+-Samer
+
+
+
+
+	Pinnamaneni Krishnarao@ECT
+	05/24/00 01:34 PM
+		
+		 To: Samer Takriti/Enron Communications@ENRON COMMUNICATIONS@ENRON, Tom 
+Halliburton/Corp/Enron@ENRON
+		 cc: Grant Masson/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, Chonawee 
+Supatgiat/Corp/Enron@Enron, Vince J Kaminski/HOU/ECT@ECT
+		 Subject: Re: CPLEX
+
+I talked to Vince about the optimization software issue. Vince said that if 
+there are technical reasons for having two different packages and the 
+benefits outweigh the costs of maintaining two licenses, we can go ahead and 
+buy both. In my view, it is a great advantage to have both, as each has its 
+own strengths relative to the other. We have spent some time trying to come 
+up with one package that solves all of our problmes without success. There is 
+no point is wasting more time on this effort. Let's go ahead and purchase 
+both. 
+
+Krishna.
+
+
+
+From: Samer Takriti@ENRON COMMUNICATIONS on 05/24/2000 10:22 AM
+To: Tom Halliburton/Corp/Enron@ENRON
+cc: Grant Masson/HOU/ECT@ECT, Pinnamaneni Krishnarao/HOU/ECT@ECT, Stinson 
+Gibner/HOU/ECT@ECT, Chonawee Supatgiat/Corp/Enron@Enron 
+Subject: Re: CPLEX  
+
+Tom,
+Vince prefers to have one software package (if possible). It is my 
+understanding that special ordered sets are recognized automatically 
+(internally) by Cplex. This seems to be the case for both Cplex and OSL 
+according to AMPL's web page and other references (check 
+http://www.ampl.com/cm/cs/what/ampl/FAQ/index.html#HowcanIusethesolver'sspecia
+lorderedsetsfeature). As a result, the Cplex people feel that there is no 
+need to provide the user with the tools to represent special-ordered sets in 
+OPL. As a matter of fact, the incapability of Xpress to recognize them 
+automatically concerns me. 
+If you have special requirements, C code may be used to pass the information 
+to the solver (which is straight forward; all of Chonawee's testing was done 
+this way). Chonawee's benchmark shows a superior performance by Cplex (which 
+you indicated yourself in an earlier message).
+If you feel that Xpress is the only way to go, then feel free to purchase it 
+(the purchase order is on hold for the time being). However, we need to check 
+with Vince first. I strongly feel that we should have one solver in order to 
+minimize cost and contractual headaches.
+Let us try to get this issue resolved by this afternoon. Thanks.
+-Samer
+
+
+
+

@@ -1,0 +1,37 @@
+Message-ID: <26177786.1075854184256.JavaMail.evans@thyme>
+Date: Fri, 18 Aug 2000 05:18:00 -0700 (PDT)
+From: chris.schomer@enron.com
+To: unify.group@enron.com, unify.group@enron.com, unify.group@enron.com
+Subject: Unify passwords will be reset under Sybase 12.0
+Cc: dave.nommensen@enron.com, regan.smith@enron.com, kenneth.harmon@enron.com, 
+	matt.pena@enron.com, ramesh.rao@enron.com, regan.smith@enron.com, 
+	samuel.blaylock@enron.com, steve.neal@enron.com, 
+	cynthia.clark@enron.com, richard.brockhan@enron.com, 
+	jeff.zwiers@enron.com, mutaz.mallak@enron.com, hoong.foon@enron.com, 
+	michael.cuccia@enron.com, russ.whitton@enron.com, 
+	steve.roberts@enron.com, george.ji@enron.com, jeff.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dave.nommensen@enron.com, regan.smith@enron.com, kenneth.harmon@enron.com, 
+	matt.pena@enron.com, ramesh.rao@enron.com, regan.smith@enron.com, 
+	samuel.blaylock@enron.com, steve.neal@enron.com, 
+	cynthia.clark@enron.com, richard.brockhan@enron.com, 
+	jeff.zwiers@enron.com, mutaz.mallak@enron.com, hoong.foon@enron.com, 
+	michael.cuccia@enron.com, russ.whitton@enron.com, 
+	steve.roberts@enron.com, george.ji@enron.com, jeff.johnson@enron.com
+X-From: Chris Schomer
+X-To: Unify Financial User Group, Unify Gas User Group, Unify Power User Group
+X-cc: Dave Nommensen, Regan M Smith, Kenneth M Harmon, Matt Pena, Ramesh Rao, Regan M Smith, Samuel Blaylock, Steve Neal, Cynthia Clark, Richard Brockhan, Jeff Zwiers, Mutaz Mallak, Hoong P Foon, Michael Cuccia, Russ Whitton, Steve Roberts, George Ji, Jeff Johnson
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+All,
+
+When we convert Unify to Sybase 12.0, all passwords will get reset to 
+"houston".  Once you login to Unify you will have to change you password.  
+This is an unavoidable side affect of migrating to Sybase 12.0.
+
+Thanks,
+Chris 

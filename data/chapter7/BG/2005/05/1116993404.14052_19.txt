@@ -1,0 +1,59 @@
+Return-Path: <lv4mimi@nifty.net>
+Delivered-To: em-ca-bait-unshrine@em.ca
+Received: (qmail 28947 invoked by uid 115); 25 May 2005 01:19:05 -0000
+Received: from lv4mimi@nifty.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(221.214.196.117):. 
+ Processed in 1.347916 secs); 25 May 2005 01:19:05 -0000
+Received: from unknown (HELO s113kzc) (221.214.196.117)
+  by churchill.factcomp.com with SMTP; 25 May 2005 01:18:52 -0000
+Subject: =?ISO-2202-JP?Q?=82=A8=92m=82=E7=82=B9?=
+Sender: "=?ISO-2202-JP?Q?=8F=E3=96=EC?=" <lv4mimi@nifty.net>
+From: "=?ISO-2202-JP?Q?=8F=E3=96=EC?=" <lv4mimi@nifty.net>
+Date: Wed, 25 May 2005 10:35:55 +0900
+To: "=?ISO-2202-JP?Q?bait-unshrine?=" <bait-unshrine@em.ca>
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Mailer: =?ISO-2202-JP?Q?av60qfu0mymmsgsb?=
+Content-Type: text/plain;
+	charset="ISO-2202-JP"
+X-Qmail-Scanner-Message-ID: <111698394467228825@churchill>
+
+YmFpdC11bnNocmluZZdsDQoNCoLNgraC34LcgrWCxIFBRYq/lfuCxYK3gUIN
+Cg0KZYq/lfuCzJTMlISPpJVpgs2O5YLJkoaNkZPBl0yCzItNj2SKv5X7lvKB
+RYq/lfuQuJfNjdyLeYLRkoaNkZa8k8GOWYLFgqCC6IFBg2yDYoNnko2VtoLM
+jGCCxZK8kNqT+pZ7guKDQYOBg4qDSoLMgqiLcZdsgsmXWJGXgrWC3IK3gUKT
+XZSEgvCI6pTUj62CyIKtgreC6YKxgsaCyYLmgsGCxIFBjcWPSY7miPiQ5oLM
+l5iJdoLwgrKV24/YgrWC3IK3gUINCpFTlZSCzJTMlISPpJVpgs2BQYtaj3CQ
+6pblicaCyYLmgsGCxI1sj9iCs4LqgUGVaY6/gvCKbZXbgrWC3IK3gUINCg0K
+gcsgaHR0cDovL3d3dy5la2FucG91LmJpeg0KDQqBmYGZgZkgkFaPpJVpkISR
+RSCBmYGZgZkNCg0KgZqDQYOBg4qDSlZpZ1J4gZoNCoFAg3mDaoNYgsmCzYJR
+gsKCzIpDlsiRzJWUlaqCqoKgguiC3IK3gUKLu5WxgrWCxIKtgumCxpZ1i06C
+qo5ugtyC6IFBIJZ1i04NCoK3gumRZ5BEkcyCyYyMiXSCqpesguqNnoLdgtyC
+t4FCgrGCzJZ1i06RZ5BEgvCKZ5HlgreC6YLmgqSCyYnIineO6ILJIIpKlK0N
+CoKzguqCvYLMgqpWaWdSWILFgreBQoKxgsyWdYtOkWeQRILNiMiRT4LmguiR
+vYKtgsyMjIl0gvCK3ILegrGCxoKqII9vl4iC6Q0KguaCpILJgsiC6ILcgreB
+Qg0KDQqByyBodHRwOi8vZWthbnBvdS5iaXoNCg0KgZqDR4NDg1mBaUhJVoFq
+jqmR7oyfjbiDTINig2eBmg0KjJ+NuINag5ODXoFbgqmC54LMjIuJyoLMk56S
+hYLwkdKCwpVLl3aCzYKgguiC3IK5gvGBQg0KgruCzI/qgsWRpo3AgsmMi4nK
+gvCSbYLpgrGCxoKqj2+XiILcgreBQg0KgliCWIGTiMiP44LMkLOQZpemgsWC
+t4FCDQqCZ4JognWBfIJQgUGCUYLMl7yV+4Lwk6+OnoLJklSSbYK1gtyCt4FC
+DQqDR4NDg1mWb5bFg0yDg4OTg3mBW4OTjsCOe5KGgsWCt4FJDQoNCoHLIGh0
+dHA6Ly93d3cuZWthbnBvdS5iaXoNCg0KgZqDVoNBg4qDWIOLgZoNCoNWg0GD
+ioNYgs2BQZXEjZFFbGkgTGlsbHmO0ILGlcSNkUlDT1OO0IKqi6STr49vjpGC
+tYK9TGlsbHkgSUNPU47QgqmC55StlISCs4Lqgr2WdYtOlXORU46hl8OW8oLF
+greBQoNWg0GDioNYgsyO5ZCslaqCxYKggumDXoNfg4mDdINCg4uBaYxvjPtQ
+REU1kWqKUY3cgWqCzJOtgquCyYLmguiMjJesgvCKiJStgsmCtYFBj1yVqoLI
+lnWLTpfNgvCW8TI0jp6K1ILggsyK1Ijbjp2Ct4LpgrGCxoKqk8GSpYLFgreB
+QoNWg0GDioNYgsyIwJFTkKuCxoz4icqC8IptgqmC34Lpl9WPsI7AjLGCyYKo
+gqKCxJbxMTEwMJBsgvCRzo/bgsmNc4LtguqCvYyLicqBQTgxgZOCzJBsgqqD
+VoNBg4qDWILJguaCwYLERUSCqon8kVCCs4Lqgr2CxpXxjZCCs4LqgsSCooLc
+greBQiANCg0KgcsgaHR0cDovL3d3dy5la2FucG91LmJpeg0KDQqBoIGggaCB
+oIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGg
+gaANCmWKv5X7IIq/lfuW8ovHDQpVUkwgOiBodHRwOi8vd3d3LmVrYW5wb3Uu
+Yml6DQqBeSCKv5X7lvIggXqBeSCMko1OkEiVaSCBeoF5IINfg0ODR4Nig2eB
+eoF5IJC4l82N3CCBeg0KgaCBoIGggaCBoIGggaCBoIGggaCBoIGggaCBoIGg
+gaCBoIGggaCBoIGggaCBoIGggaCBoIGgDQo=
+
+

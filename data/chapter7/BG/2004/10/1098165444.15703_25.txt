@@ -1,0 +1,540 @@
+Return-Path: <istlearning@istlearning.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 703 invoked by uid 115); 16 Oct 2004 19:36:49 -0000
+Received: from istlearning@istlearning.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(207.13.99.80):. 
+ Processed in 0.505365 secs); 16 Oct 2004 19:36:49 -0000
+Received: from maila71.istlearning.com (207.13.99.80)
+  by churchill.factcomp.com with SMTP; 16 Oct 2004 19:36:48 -0000
+Received: (qmail 14046 invoked from network); 16 Oct 2004 19:23:57 -0000
+Received: from unknown (HELO istlearning.com) (10.200.57.10)
+  by kistlin02.istlearning.com with SMTP; 16 Oct 2004 19:23:57 -0000
+Message-ID: <20041016142356.A19ADAC04E374509@istlearning.com>
+From: istlearning@istlearning.com
+To: bruceg@em.ca
+Subject: Please verify your results
+Date: 16 Oct 2004 14:23:57 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:st1=3D"urn:schemas-microsoft-com:office:smarttags"
+xmlns=3D""
+xmlns:ns1=3D"">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1">=
+
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DEdit-Time-Data
+href=3D"Let%20Our%20Experts%20Help%20You_files/editdata.mso">
+<title>Get the Tools to Start Your Own Small Business</title>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"Street"/>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"address"/>
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"PersonName"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>azahniser</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>azahniser</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>92</o:TotalTime>
+  <o:LastPrinted>2004-10-11T20:17:00Z</o:LastPrinted>
+  <o:Created>2004-10-11T20:10:00Z</o:Created>
+  <o:LastSaved>2004-10-12T17:42:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>801</o:Words>
+  <o:Characters>4566</o:Characters>
+  <o:Lines>38</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5357</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:553679495 -2147483648 8 0 66047 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 0 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=3Dwhite lang=3DEN-US link=3Dblue vlink=3Dblue style=3D'tab-int=
+erval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center;background:wh=
+ite'><span
+lang=3DEN style=3D'mso-ansi-language:EN'><img width=3D1 height=3D1 id=3D"_x0=
+000_i1025"
+src=3D"http://rs6.net/on.jsp?t=3D1011350499004.0.1011316910162.0&amp;o=3Dhtt=
+p://ccprod.roving.com/roving/images/p1x1.gif"
+alt=3D" "><o:p></o:p></span></p>
+
+<div align=3Dcenter>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 wid=
+th=3D600
+ style=3D'width:6.25in;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>=
+
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.5pt'>
+  <td width=3D15 valign=3Dtop style=3D'width:11.25pt;background:#000066;padd=
+ing:0in 0in 0in 0in;
+  height:22.5pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><img width=
+=3D15
+  height=3D15 id=3D"_x0000_i1026" src=3D"http://imgcc.com/holiday_6p_left.gi=
+f"
+  border=3D0></p>
+  </td>
+  <td width=3D"100%" style=3D'width:100.0%;background:#000066;padding:0in 0i=
+n 0in 0in;
+  height:22.5pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:18.0pt;font-family:Verdana;color:white'>Let Our Experts=
+ Help
+  You Increase The&nbsp;Profitability Of&nbsp;Your Small Business</span></p>=
+
+  </td>
+  <td width=3D15 valign=3Dtop style=3D'width:11.25pt;background:#000066;padd=
+ing:0in 0in 0in 0in;
+  height:22.5pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><img width=
+=3D15
+  height=3D15 id=3D"_x0000_i1027" src=3D"http://imgcc.com/holiday_6p_right.g=
+if"
+  border=3D0></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td colspan=3D3 style=3D'background:#339966;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal><img width=3D1 height=3D6 id=3D"_x0000_i1028"
+  src=3D"http://imgcc.com/spacer.gif" border=3D0></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center;background:wh=
+ite'><span
+lang=3DEN style=3D'display:none;mso-hide:all;mso-ansi-language:EN'><o:p>&nbs=
+p;</o:p></span></p>
+
+<div align=3Dcenter>
+
+<table class=3DMsoNormalTable border=3D0 cellpadding=3D0 width=3D600 style=
+=3D'width:6.25in;
+ mso-cellspacing:1.5pt;background:#000066;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style=3D'background:white;padding:0in 0in 0in 0in'>
+  <div align=3Dcenter>
+  <table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 w=
+idth=3D"100%"
+   style=3D'width:100.0%;mso-cellspacing:0in;background:white;mso-padding-al=
+t:
+   0in 0in 0in 0in'>
+   <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>=
+
+    <td style=3D'padding:0in 0in 0in 0in'>
+    <table class=3DMsoNormalTable border=3D0 cellpadding=3D2
+     width=3D"100%" style=3D'width:100.0%;mso-cellspacing:0in;mso-padding-al=
+t:0in 0in 0in 0in'>
+     <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+      <td colspan=3D3 valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+      <div>
+      <p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:Ve=
+rdana;
+      color:#000066'>Dear Entrepreneur:</span></b><span style=3D'font-size:1=
+0.0pt;
+      font-family:Verdana;color:#000066'> <o:p></o:p></span></p>
+      <p><span style=3D'font-size:10.0pt;font-family:Verdana;color:#000066'>=
+Imagine
+      having access to the <strong><span style=3D'font-family:Verdana'>&quot=
+;best
+      of the best&quot;&nbsp;experts</span></strong> to advise you on runnin=
+g your
+      own&nbsp;profitable small business?&nbsp; And what if you also
+      had&nbsp;the <strong><span style=3D'font-family:Verdana'>latest&nbsp;t=
+ools
+      and materials</span></strong> available from leading authors on
+      leadership and business?&nbsp;&nbsp;Would you then take advantage of
+      these resources&nbsp;to learn everything you could about how to run an=
+d
+      increase the profitability of your small business?&nbsp;<br>
+      <br>
+      As a limited time offer, Triad Learning Systems is&nbsp;making&nbsp;su=
+ch
+      an opportunity available to you!&nbsp;&nbsp;We have partnered
+      with&nbsp;leading&nbsp;<strong><span style=3D'font-family:Verdana'>rea=
+l
+      estate, Internet, and small business experts</span></strong>&nbsp;read=
+y
+      to share their wealth generating secrets and advice.&nbsp; We have als=
+o
+      spent years assembling and developing&nbsp;leading-edge tools necessar=
+y
+      to help you achieve&nbsp;success in these fields.&nbsp;&nbsp;If you ar=
+e
+      motivated to achieve success, we can guide you to that success&nbsp;in=
+
+      a&nbsp;very personalized&nbsp;program at a <strong><span
+      style=3D'font-family:Verdana'>very affordable</span></strong> rate.<o:=
+p></o:p></span></p>
+      <p align=3D"center"><span style=3D'font-size:10.0pt;font-family:Verdan=
+a;color:#000066'><o:p>&nbsp;</o:p></span><span style=3D'font-size:10.0pt;fon=
+t-family:Verdana;
+      color:#000066'><a shape=3D"rect" color=3D"#000066" href=3D"http://ists=
+oftware.com/newsletter/index.html?source=3DGD20041015"><span style=3D'color:=
+#000066'>Get More
+      Information</span></a> <o:p></o:p></span></p>
+      </div>
+      </td>
+     </tr>
+     <tr style=3D'mso-yfti-irow:1'>
+      <td colspan=3D3 style=3D'background:#339966;padding:0in 0in 0in 0in'>
+      <p class=3DMsoNormal><img width=3D1 height=3D6 id=3D"_x0000_i1029"
+      src=3D"http://imgcc.com/spacer.gif" border=3D0></p>
+      </td>
+     </tr>
+     <tr style=3D'mso-yfti-irow:2'>
+      <td width=3D"30%" valign=3Dtop style=3D'width:30.7%;padding:0in 0in 0i=
+n 0in'>
+      <p class=3DMsoNormal><a
+      href=3D"http://rs6.net/tn.jsp?t=3D7v84s7n6.0.0.sc95s8n6.0&amp;p=3Dhttp=
+%3A%2F%2Fwww.istsoftware.com"
+      shape=3Drect><span style=3D'text-decoration:none;text-underline:none'>=
+<img
+      border=3D0 width=3D183 height=3D286 id=3D"_x0000_i1030"
+      src=3D"http://www.istsoftware.com/images/couple%20with%20laptop.jpg"
+      style=3D'height:292px;width:179px'></span></a></p>
+      </td>
+      <td width=3D"0%" style=3D'width:.22%;background:#000066;padding:0in 0i=
+n 0in 0in'>
+      <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><img b=
+order=3D0
+      width=3D1 height=3D1 id=3D"_x0000_i1031" src=3D"http://imgcc.com/space=
+r.gif"></p>
+      </td>
+      <td width=3D"69%" valign=3Dtop style=3D'width:69.08%;padding:0in 0in 0=
+in 0in'>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'><o:p>&nbsp;</o:p></span></p>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>Now through <b>October 31, 2004</b>, you&nbsp;may enrol=
+l
+      in a <strong><span style=3D'font-family:Verdana'>personalized&nbsp;coa=
+ching
+      and mentoring program</span></strong>, tailored to your&nbsp;specific
+      needs, while also receiving a wealth of information resources.&nbsp;
+      These programs will&nbsp;help you&nbsp;make money,&nbsp;build upon you=
+r
+      success, and&nbsp;duplicate your efforts&nbsp;in ways that will quickl=
+y
+      grow your wealth.<o:p></o:p></span></p>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'><span style=3D'mso-spacerun:yes'>=A0 </span></span></p>=
+
+      </div>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>We have designed the program&nbsp;so it is very
+      affordable. It is only $99 to start and $99 per month.&nbsp; This
+      investment has&nbsp;over and over proven to pay for itself and increas=
+e
+      the profits of our&nbsp;clients.&nbsp; Our&nbsp;goal is to help you
+      achieve your goals:&nbsp;success and ultimately ... <strong><span
+      style=3D'font-family:Verdana'>financial independence!&nbsp;<o:p></o:p>=
+</span></strong></span></p>
+      <p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+      </div>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>Click here to=20
+		<a shape=3D"rect" color=3D"#000066" href=3D"http://istsoftware.com/newslet=
+ter/index.html?source=3DGD20041015"><span style=3D'color:#000066'>Get More
+      Information</span></a> <o:p></o:p></span></p>
+      </div>
+      </td>
+     </tr>
+     <tr style=3D'mso-yfti-irow:3'>
+      <td colspan=3D3 style=3D'background:#339966;padding:0in 0in 0in 0in'>
+      <p class=3DMsoNormal><img border=3D0 width=3D1 height=3D6 id=3D"_x0000=
+_i1032"
+      src=3D"http://imgcc.com/spacer.gif"></p>
+      </td>
+     </tr>
+     <tr style=3D'mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+      <td colspan=3D3 valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+      <div>
+      <p><span style=3D'font-size:10.0pt;font-family:Verdana;color:#000066'>=
+<o:p>&nbsp;</o:p></span></p>
+      <p><span style=3D'font-size:10.0pt;font-family:Verdana;color:#000066'>=
+Our&nbsp;team
+      is here to&nbsp;help transform your future.&nbsp;&nbsp;Whether you are=
+ a <strong><span
+      style=3D'font-family:Verdana'>novice</span></strong> seeking to capita=
+lize
+      on these <strong><span style=3D'font-family:Verdana'>&quot;hot&quot;
+      business markets</span></strong> or an <strong><span style=3D'font-fam=
+ily:
+      Verdana'>expert</span></strong> seeking to refine your skills, we can
+      take you to the next level and help you achieve success.&nbsp; Invest =
+in
+      yourself&nbsp;and let our experts help you reach your financial goals!=
+<br>
+      <br>
+      <strong><span style=3D'font-family:Verdana'>Bonus!</span></strong>&nbs=
+p;
+      Respond immediately to this opportunity&nbsp;and we will send you our
+      best-selling e-book, <u>
+		<a target=3D"_blank" href=3D"http://realestatetoolkit1.com/free-bonus.html=
+">Personal Money Manager</a></u>, normally a $19.95
+      value, <b>at no charge</b>, with our compliments!&nbsp; It teaches&nbs=
+p;you how to conquer
+      debt, master the market, and make the most of your financial future. <=
+o:p></o:p></span></p>
+      <p><span style=3D'font-size:10.0pt;font-family:Verdana;color:#000066'>=
+Call
+      us now at (800) 350-5058 ext. 1213 and&nbsp;mention code <strong>
+		<span
+      style=3D'font-family:Verdana'>AZ732</span></strong> to get the Bonus, =
+or
+      visit us online&nbsp;to=20
+		<a href=3D"http://istsoftware.com/newsletter/index.html?source=3DGD2004101=
+5">find
+      out more</a>!&nbsp; <o:p></o:p></span></p>
+      <p><span style=3D'font-size:10.0pt;font-family:Verdana;color:#000066'>=
+If
+      you have already received a telephone contact from us about this offer=
+,
+      please forgive our enthusiasm for your success and disregard this noti=
+ce!<o:p></o:p></span></p>
+      <p><span style=3D'font-size:10.0pt;font-family:Verdana;color:#000066'>=
+To
+      Your Success, <o:p></o:p></span></p>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'><br>
+<st1:PersonName w:st=3D"on">Richard Old</st1:PersonName> <o:p></o:p></span><=
+/p>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>Director of Coaching <o:p></o:p></span></p>
+      </div>
+      <div>
+      <div class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Ver=
+dana;
+      color:#000066'>
+      <hr size=3D1 width=3D"50%" noshade color=3D"#000066" align=3Dleft>
+      </span></div>
+      </div>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>email: <a href=3D"mailto:richard@triadlearning.com"
+      shape=3Drect color=3D"#000066"><span style=3D'color:#000066'>richard@t=
+riadlearning.com</span></a>
+      <o:p></o:p></span></p>
+      </div>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>phone: 1.800.350.5058 ext. 1213 <o:p></o:p></span></p>
+      </div>
+      <div>
+      <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:Verda=
+na;
+      color:#000066'>web:=20
+		<a shape=3D"rect" color=3D"#000066" href=3D"http://www.triadlearningsystem=
+s.com"><span style=3D'color:#000066'>http://www.triadlearningsystems.com</sp=
+an></a>
+      <o:p>&nbsp;</o:p></span></p>
+      </div>
+      </div>
+      </td>
+     </tr>
+    </table>
+    </td>
+   </tr>
+  </table>
+  </div>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><o:p></o:p=
+></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=3DMsoNormal><span lang=3DEN style=3D'mso-ansi-language:EN'><o:p>&nb=
+sp;</o:p></span></p>
+
+<table class=3DMsoNormalTable border=3D0 cellpadding=3D0 width=3D"100%"
+ style=3D'width:100.0%;mso-cellspacing:1.5pt;background:white;mso-padding-al=
+t:
+ 0in 5.4pt 0in 5.4pt' padding=3D0>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+  <div align=3Dcenter>
+  <table class=3DMsoNormalTable border=3D0 cellpadding=3D0 width=3D595
+   style=3D'width:446.25pt;mso-cellspacing:1.5pt;background:white;mso-paddin=
+g-alt:
+   0in 5.4pt 0in 5.4pt'>
+   <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+    <div align=3D"center">
+		<table id=3D"table1" borderColor=3D"#000080" border=3D"1">
+			<tr>
+				<td>
+				<a href=3D"http://www.istlearning.com/unsub/?email=3Dbruceg@em.ca">
+				<img height=3D"173" src=3D"http://www.istoffers.com/images/unsubscribe.g=
+if" width=3D"471" border=3D"0"></a></td>
+			</tr>
+		</table>
+	</div>
+	<p align=3D"center">&nbsp;</p>
+    <p class=3DMsoNormal style=3D'margin-bottom:12.0pt' align=3D"center">&nb=
+sp;</p>
+    </td>
+   </tr>
+   </FOOTERLOGO>
+   <tr style=3D'mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+    <td style=3D'padding:.75pt .75pt .75pt .75pt'>
+    <p class=3DMsoNormal align=3D"center"><span style=3D'font-size:7.5pt;fon=
+t-family:Verdana'><br>
+    &nbsp;</span></p>
+    </td>
+   </tr>
+  </table>
+  </div>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><o:p></o:p=
+></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span lang=3DEN style=3D'mso-ansi-language:EN'><o:p>&nb=
+sp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

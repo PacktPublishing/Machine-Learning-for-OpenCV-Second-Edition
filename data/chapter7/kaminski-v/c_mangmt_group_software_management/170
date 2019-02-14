@@ -1,0 +1,85 @@
+Message-ID: <9529341.1075856585509.JavaMail.evans@thyme>
+Date: Wed, 1 Nov 2000 09:27:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: alex.huang@enron.com
+Subject: RE: WeatherDelta demonstration scheduling
+Cc: vince.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com
+X-From: Vince J Kaminski
+X-To: Alex Huang
+X-cc: Vince J Kaminski
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Alex,
+
+I agree. Let them make up the data. Please, ask Shirley to determine 
+convenient date and time.
+
+Vince
+
+
+
+
+
+Alex Huang@ENRON
+11/01/2000 03:59 PM
+To: Vince J Kaminski/HOU/ECT@ECT, Joseph Hrgovcic/HOU/ECT@ECT, Vasant 
+Shanbhogue/HOU/ECT@ECT, Lance Cunningham/NA/Enron@ENRON, Sevil 
+Yaman/Corp/Enron@Enron, Stinson Gibner/HOU/ECT@ECT
+cc:  
+Subject: RE: WeatherDelta demonstration scheduling
+
+Hi all,
+I got the following reply from Mike Denton. 
+
+Can you let me know what time is most convenient for you so I will
+arrange a time for the presentation?
+
+ I don't think we should provide them any data, unless you think otherwise.
+
+Alex
+---------------------- Forwarded by Alex Huang/Corp/Enron on 11/01/2000 03:54 
+PM ---------------------------
+
+
+Denton Mike <Michael.Denton@caminus.com> on 11/01/2000 03:05:48 PM
+To: Alex.Huang@enron.com
+cc:  
+
+Subject: RE: WeatherDelta demonstration scheduling
+
+
+Mr. Huang,
+
+We would be happy to demonstrate the features and functionality of the
+WeatherDelta tool set for your team at Enron.  Early next week (Tuesday or
+Wednesday) are both possible, as well as early the following week.  The
+demonstration can take 90 minutes or more, depending on the number of
+questions and the level of detail.
+
+Ideally, you could provide us with some of your data and we could
+demonstrate how to value a full-requirements contract to service that
+particular load.  To do this we will need one or more years of hourly
+consumption data, and the general location of the load.  Ideal data formats
+are csv files of either 365 rows x 25 columns (date,hr1,hr2..) or 8760 rows
+x 3 columns (date,hr,load).  In lieu of using your data, we will provide
+sample load data.
+
+Please feel free to call me and we can discuss schedules and the particulars
+of the product overview and demonstration.
+
+Thank you for your interest,
+
+Michael J. Denton
+VP NA Strategic Consulting
+Caminus Corporation
+212-515-3667
+
+
+
+

@@ -1,0 +1,71 @@
+Message-ID: <2319349.1075857059576.JavaMail.evans@thyme>
+Date: Thu, 20 Jan 2000 06:52:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: george.posey@enron.com
+Subject: Re: Spreadsheet for George Posey
+Cc: vince.kaminski@enron.com, clayton.vernon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vince.kaminski@enron.com, clayton.vernon@enron.com
+X-From: Vince J Kaminski
+X-To: George W Posey
+X-cc: Vince J Kaminski, Clayton Vernon
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+George,
+
+This is the first cut at the problem you gave us, done by my associate 
+Clayton Vernon.
+Please, feel free to call him with any question. Your friend should check 
+what were the sermons
+he gave on April 19 and April 25, in 1998 and 1999, respectively. 
+
+Vince
+
+
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 01/20/2000 
+02:49 PM ---------------------------
+
+
+Clayton Vernon@ENRON
+01/20/2000 10:56 AM
+To: Vince J Kaminski/HOU/ECT@ECT
+cc:  
+Subject: Re: Spreadsheet for George Posey  
+
+Vince-
+
+Here is an analysis of the fund giving at the church.
+
+First off, it appears from the data that a special "appeal" for fund giving 
+was made (from the pulpit?) on April 19, 1998 and April 25, 1999, (perhaps 
+tied rhetorically into Income Taxes?). Then, by going back and incorporating 
+obvious dates from the calendars for 1997-1999, the following regression 
+analysis is made, where each effect is added independently:
+
+giving this Sunday = $4403
+
++ a minor $3 weekly time trend (i.e., multiply by the number of weeks since 
+Jan. 5, 1997)
+
++ no pure effect from last week's contributions (i.e., denies first-order 
+autoregressive effects)
+
++ $2426 if Easter Sunday or the Sunday nearest Christmas
+
++ $9695 if (pastoral appeal) April 19,1998 or April 25,1999
+
+- $340 if the Sunday falls on the weekend of a Monday Federal holiday
+
+- $50 if the Sunday following Thanksgiving
+
+- $73  if a Summer weekend (June 1 thru August 31)
+
+The pure time trend is very small, so an annual projection based on all 3 
+years data would be for giving to increase only a minor amount ($150) for 
+2000 assuming a similar appeal for giving is made this April.
+
+Clayton

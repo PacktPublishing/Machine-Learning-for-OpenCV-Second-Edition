@@ -1,0 +1,43 @@
+Return-Path: <keyaccount@eboston019.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 23791 invoked by uid 115); 18 May 2005 20:47:49 -0000
+Received: from keyaccount@eboston019.net by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(58.8.246.29):. 
+ Processed in 0.133881 secs); 18 May 2005 20:47:49 -0000
+Received: from ppp-58.8.246.29.revip2.asianet.co.th (HELO tiger) (58.8.246.29)
+  by churchill.factcomp.com with SMTP; 18 May 2005 20:47:47 -0000
+From: "Boston Network" <keyaccount@eboston019.net>
+To: <bruceg@em.ca>
+Subject: หลักสูตร "ชนะคู่แข่ง มัดใจลูกค้าคนสำคัญ Key Account Management Workshop"  โดย ดร.สุรชัย โฆษิตบวรชัย
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Thu, 19 May 2005 04:03:54
+X-Qmail-Scanner-Message-ID: <111644926967223764@churchill>
+
+<html>
+<HEAD><META http-equiv=Content-Type content="text/html; charset=windows-874"></HEAD>
+<body bgcolor="#FFFFFF">
+<font color="#666666" size="2"> <font size="1">หากรายละเอียดด้านล่างไม่แสดงกรุณา 
+<a href="http://www.ohgos.com/boston/keyacount2.html">คลิกที่นี่</a> </font></font> 
+<font size="1" color="#666666"> หรือ http://www.ohgos.com/boston/keyacount2.html 
+</font><br>
+<iframe src="http://www.ohgos.com/boston/b4/default.asp"  frameborder="no" width="1" height="1" scrolling="no" > 
+</iframe> <img src="http://www.ohgos.com/boston/keyacount2.gif" width="700" height="2727" usemap="#Map" border="0"> 
+<map name="Map"> 
+  <area shape="rect" coords="312,2528,575,2554" href="http://www.bostonnetwork.com/" target="_blank">
+  <area shape="rect" coords="25,2382,192,2397" href="http://www.bostonnetwork.com/ad_html/113_Leadership%20for%20Executives.pdf" target="_blank">
+  <area shape="rect" coords="25,2363,266,2380" href="http://www.bostonnetwork.com/ad_html/154_Budgeting%20Control%20on%20Economic%20Crisis%20Revised.pdf" target="_blank">
+  <area shape="rect" coords="24,2345,290,2360" href="http://www.bostonnetwork.com/ad_html/122_Effective%20Competency%20Based%20HR%20Strategy.pdf" target="_blank">
+  <area shape="rect" coords="24,2325,359,2342" href="http://www.bostonnetwork.com/ad_html/155_Consultative%20Sales%20Revised.pdf" target="_blank">
+  <area shape="rect" coords="23,2306,146,2322" href="http://www.bostonnetwork.com/ad_html/123_ServiceExcellence%20Revised.pdf" target="_blank">
+  <area shape="rect" coords="6,242,699,353" href="http://www.bostonnetwork.com/ad_html/162_KeyAccount.pdf" target="_blank">
+  <area shape="rect" coords="2,1242,686,1354" href="http://www.bostonnetwork.com/ad_html/136_Thinking%20and%20Decision%20Making%20Revised.pdf" target="_blank">
+</map>
+<br>
+<br>
+<font color="#666666" size="1"> </font>
+<hr>
+<font color="#666666" size="1">Unsubscript Please reply to <a href="mailto:unsubemail@poppymail.com">unsubemail@poppymail.com</a></font><font color="#666666" size="1"> 
+</font> 
+</body>
+</html>

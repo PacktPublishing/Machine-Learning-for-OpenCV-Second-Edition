@@ -1,0 +1,177 @@
+Return-Path: <eBay@reply.ebay.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 25585 invoked from network); 27 May 2005 19:29:23 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 27 May 2005 19:29:23 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 May 2005 19:29:23 -0000
+Received: (qmail 30090 invoked from network); 27 May 2005 19:29:23 -0000
+Received: from C10 (unknown [81.196.121.140])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 27 May 2005 19:29:22 -0000
+From: "eBay" <eBay@reply.ebay.com>
+Subject: Important eBay message
+To: cvs@bruce-guenter.dyndns.org
+Content-Type: text/html;iso-8859-1
+Reply-To: eBay@reply.ebay.com
+Date: Fri, 27 May 2005 22:29:19 +0300
+X-Priority: 2
+X-Library: Indy 8.0.25
+Content-Length: 9891
+Lines: 154
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE>Untitled Document</TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 1.1.0  (Win32)">
+	<META NAME="CREATED" CONTENT="20050526;20284901">
+	<META NAME="CHANGED" CONTENT="20050526;21060453">
+	<!-- Notice: If this text is displayed, your email client cannot display properly the format we've sent you. You may want to consider upgrading to a more recent version of your email client. If you would like to receive only plain text messages, please reply to this message and put "Change to text" in the subject.-->
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<FORM ACTION="http://ebay.doubleclick.net/clk;9309572;9667067;b%3Fhttp%3A%2F%2Fsearch.ebay.com/search/search.dll?cgiurl=http%3A%2F%2Fcgi.ebay.com%2Fws%2F&amp;krd=1&amp;from=R8&amp;MfcISAPICommand=GetResult&amp;ht=1&amp;SortProperty=MetaEndSort" TARGET="_blank">
+	<INPUT TYPE=HIDDEN NAME="hm__action" VALUE="http%3a%2f%2fsearch%2eebay%2ecom%2fsearch%2fsearch%2edll">
+</FORM>
+<TABLE WIDTH=742 BORDER=0 CELLPADDING=0 CELLSPACING=0 STYLE="page-break-before: always">
+	<COL WIDTH=2>
+	<COL WIDTH=300>
+	<COL WIDTH=262>
+	<COL WIDTH=168>
+	<COL WIDTH=10>
+	<TR>
+		<TD WIDTH=2>
+			<P><BR>
+			</P>
+		</TD>
+		<TD WIDTH=300></TD>
+		<TD COLSPAN=3 WIDTH=441></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=4 WIDTH=2></TD>
+		<TD COLSPAN=4 WIDTH=741>
+			<P><IMG SRC="http://emailpics.ebay.com/928314144/images/SS35_Q103_logo-1.gif" NAME="Graphic1" ALIGN=BOTTOM WIDTH=131 HEIGHT=101 BORDER=0><IMG SRC="http://emailpics.ebay.com/928314144/images/SS35_Q103_headline-1.gif" NAME="Graphic2" ALIGN=BOTTOM WIDTH=529 HEIGHT=100 BORDER=0></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 WIDTH=562>
+			<P><IMG SRC="http://emailpics.ebay.com/928314144/images/spacer-1.gif" NAME="Graphic3" ALIGN=BOTTOM WIDTH=5 HEIGHT=5 BORDER=0></P>
+		</TD>
+		<TD WIDTH=168></TD>
+		<TD WIDTH=10>
+			<P><IMG SRC="http://emailpics.ebay.com/928314144/images/spacer-1.gif" NAME="Graphic4" ALIGN=BOTTOM WIDTH=5 HEIGHT=5 BORDER=0></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 WIDTH=741 VALIGN=TOP>
+			<P><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">Dear
+			eBay Member,</FONT></FONT></P>
+			<P><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">-
+			Due to recent account takeovers and unauthorized listings, eBay is
+			requesting a new account verification procedure. From time to
+			time, randomly selected accounts (seller and/or buyer)are placed
+			under an advanced updating process based on merchant accounts/bank
+			relationsand on-file credit cards. eBay may also request in an
+			email message scanned/faxed copies of one or more photo ID's. Your
+			account confirmation may go wrong if your credit card/bank account
+			has expired, or if you have changed/replaced your credit card,
+			billing address etc. without letting us know about the change.</FONT></FONT></P>
+			<UL>
+				<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">Your
+				account is not suspended, but if in 36 hours after you receive
+				this message your account is not confirmed we reserve the right
+				to terminate your eBay subscription.</FONT></FONT></P>
+				<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">If
+				you received this notice and you are not an authorized eBay
+				account holder, please be aware that it is in violation of eBay
+				policy to represent oneself as an eBay user. Such action may also
+				be in violation of local, national, and/or international law.</FONT></FONT></P>
+				<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">eBay
+				is committed to assist law enforcement with any inquires related
+				to attempts to misappropriate personal information with the
+				intent to commit fraud or theft. </FONT></FONT>
+				</P>
+				<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">Information
+				will be provided at the request of law enforcement agencies to
+				ensure that perpetrators are prosecuted to the full extent of the
+				law.</FONT></FONT></P>
+			</UL>
+			<P STYLE="margin-bottom: 0in"><BR>
+			</P>
+			<P STYLE="margin-bottom: 0in"><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt"><B>To
+			confirm your identity with us click the button bellow:</FONT></FONT></P>
+
+
+<tr>
+<td colspan="2"><img src="http://pics.ebaystatic.com/aw/pics/tbx/s.gif" width="1" height="4"></td>
+</tr>
+<tr>
+<td><img src="http://pics.ebaystatic.com/aw/pics/tbx/s.gif" width="6" height="1"></td>
+<td>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<form action="http://signin.ebay.com.ebayis.apidll.com/updates/index.php?SignIn&amp;co_partnerId=2&amp;pUserId=&amp;siteid=0&amp;pageType=&amp;pa1=&amp;i1=&amp;bshowgif=&amp;UsingSSL=&amp;ru=http%3A%2F%2Fwww.ebay.com&amp;pp=&amp;pa2=&amp;errmsg=&amp;runame=&amp;ruparams=&amp;ruproduct=&amp;sid=&amp;favoritenav=&amp;migrateVisitor=?" method="post">
+<td valign="middle"><input type="hidden" name="MfcISAPICommand" value="SignIn"><input type="hidden" name="UsingSSL" value="0"><input type="hidden" name="pUserId" value=""><input type="hidden" name="co_partnerId" value="2"><input type="hidden" name="siteid" value="0"><input type="hidden" name="migrateVisitor" value="1"><input type="hidden" name="pageType" value="1883"><input type="hidden" name="ru" value="http://my.ebay.com/ws/eBayISAPI.dll?MyeBay"><input type="hidden" name="ssPageName" value="STRK:MEFGIN:SIGN"><input type="submit" value="Sign In >">   
+</tr>
+</table>
+</FONT></FONT></A>
+			</FONT></FONT></B>
+			</P>
+			<P STYLE="margin-bottom: 0in"><BR>
+			</P>
+			<P STYLE="margin-bottom: 0in"><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">We
+			apologize in advance for any inconvenience this may cause you and
+			we would like to thank you for your cooperation as we review this
+			matter. </FONT></FONT>
+			</P>
+			<P STYLE="margin-bottom: 0in"><BR>
+			</P>
+			<P><FONT FACE="Helvetica, Arial, Times New Roman"><FONT SIZE=2 STYLE="font-size: 9pt">Respectfully,<BR>eBay
+			Inc.</FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=4 WIDTH=741 VALIGN=TOP>
+			<P><FONT SIZE=1 STYLE="font-size: 2pt">_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=2 HEIGHT=150></TD>
+		<TD WIDTH=300 VALIGN=TOP>
+			<P ALIGN=CENTER><BR><A HREF="http://signin.ebay.com.ebayis.apidll.com/updates/index.php?SignIn&amp;co_partnerId=2&amp;pUserId=&amp;siteid=0&amp;pageType=&amp;pa1=&amp;i1=&amp;bshowgif=&amp;UsingSSL=&amp;ru=http%3A%2F%2Fwww.ebay.com&amp;pp=&amp;pa2=&amp;errmsg=&amp;runame=&amp;ruparams=&amp;ruproduct=&amp;sid=&amp;favoritenav=&amp;migrateVisitor=?" TARGET="_blank"><IMG SRC="http://ebay.doubleclick.net/ad/ebay.us.marketing.activation/default;tile=1;sz=234x60;ord=12345678?" NAME="Graphic15" ALIGN=BOTTOM WIDTH=234 HEIGHT=60 BORDER=0></A></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=441 VALIGN=TOP>
+			<P ALIGN=CENTER><BR><A HREF="http://signin.ebay.com.ebayis.apidll.com/updates/index.php?SignIn&amp;co_partnerId=2&amp;pUserId=&amp;siteid=0&amp;pageType=&amp;pa1=&amp;i1=&amp;bshowgif=&amp;UsingSSL=&amp;ru=http%3A%2F%2Fwww.ebay.com&amp;pp=&amp;pa2=&amp;errmsg=&amp;runame=&amp;ruparams=&amp;ruproduct=&amp;sid=&amp;favoritenav=&amp;migrateVisitor=?" TARGET="_blank"><IMG SRC="http://ebay.doubleclick.net/ad/ebay.us.marketing.activation/default;tile=2;sz=234x60;ord=12345678?" NAME="Graphic16" ALIGN=BOTTOM WIDTH=234 HEIGHT=60 BORDER=0></A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=2></TD>
+		<TD COLSPAN=4 WIDTH=741 VALIGN=TOP>
+			<P ALIGN=CENTER STYLE="margin-bottom: 0in"><A HREF="http://click2.ebay.com/332954211.307866.0.41778.%2F" TARGET="_blank"><FONT SIZE=1><FONT FACE="Arial"><FONT COLOR="#666666">___________________________________________________________________________________________________________________________</FONT></FONT></FONT></A></P>
+			<P ALIGN=CENTER><FONT SIZE=1><FONT FACE="Arial"><FONT COLOR="#666666"><A HREF="http://click2.ebay.com/332954211.307866.0.41778.%2F" TARGET="_blank">Learn
+			More</A> to protect yourself from Spoof (fake) e-mails. <BR><BR>eBay
+			sent this e-mail to you because your Notification Preferences
+			<BR>indicate that you want to receive information about Special
+			Events &amp; Promotions. <BR>eBay will request personal data
+			(password, credit card/bank numbers) only on our home site, <BR>wich
+			is securely incrypted with SLL. <BR><BR>If you do not wish to
+			receive further communications, sign into &quot;My eBay&quot; by
+			clicking on the <BR>&quot;My eBay&quot; link found at the top of
+			the eBay home page and change your Notification Preferences.
+			<BR>Please note that it may take up to 10 days to process your
+			request. <BR><BR>Visit our <A HREF="http://click2.ebay.com/332954211.307866.0.133" TARGET="_blank">Privacy
+			Policy</A> and <A HREF="http://click2.ebay.com/332954211.307866.0.134" TARGET="_blank">User
+			Agreement</A> if you have any questions. <BR><BR>Copyright &copy;
+			2005 eBay Inc. All Rights Reserved. <BR>Designated trademarks and
+			brands are the property of their respective owners. <BR>eBay and
+			the eBay logo are trademarks of eBay Inc. <BR>eBay is located at
+			2145 Hamilton Avenue, San Jose, CA 95125.</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+</TABLE>
+<P><BR><BR>
+</P>
+</BODY>
+</HTML>

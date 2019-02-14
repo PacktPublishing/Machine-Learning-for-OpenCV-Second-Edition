@@ -1,0 +1,43 @@
+Message-ID: <12386230.1075856643036.JavaMail.evans@thyme>
+Date: Mon, 24 Jul 2000 13:18:00 -0700 (PDT)
+From: anjam.ahmad@enron.com
+To: tanya.tamarchenko@enron.com, grant.masson@enron.com, 
+	vince.kaminski@enron.com, dale.surbey@enron.com, 
+	andreas.barschkis@mgusa.com
+Subject: Historical Curve Databases & Historical FF Vols
+Cc: kirstee.hewitt@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kirstee.hewitt@enron.com
+X-From: Anjam Ahmad
+X-To: Tanya Tamarchenko, Grant Masson, Vince J Kaminski, Dale Surbey, Andreas.Barschkis@mgusa.com @ ENRON
+X-cc: Kirstee Hewitt
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear all,
+
+As promised, I cleaned up the data and put it into 6 spreadsheet files (we 
+will do Gold and cocoa separately).  I also ran 10, 20, 30 and 60 day fwd fwd 
+volatility calculations based on historical log return data - you can see the 
+results at the bottom of the sheet called "Log Returns" for each of the six 
+spreadsheets attached below.
+
+The data in the files is ready for PCA analysis.  We can use either the fwd 
+fwd vols from recent history or implied option quotes to complete the 
+analysis.
+
+Regards,
+
+Anjam
+
+P.S. We have already done the PCA on ALUMINUM H (high grade, so please don't 
+repeat the analysis for that one)
+
+FINAL FILES:
+
+  
+
+Al_h: 

@@ -1,0 +1,79 @@
+Message-ID: <14087153.1075849860998.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 02:35:00 -0800 (PST)
+From: shona.wilson@enron.com
+To: bob.hall@enron.com, leslie.reeves@enron.com, jeffrey.gossett@enron.com, 
+	peggy.hedstrom@enron.com, kathy.reeves@enron.com, 
+	stacey.white@enron.com, monica.lande@enron.com, 
+	david.maxwell@enron.com, martha.stevens@enron.com, 
+	scott.mills@enron.com, scott.earnest@enron.com, 
+	michelle.bruce@enron.com, sheila.glover@enron.com, d.hall@enron.com, 
+	brenda.herod@enron.com, michael.moscoso@enron.com, 
+	kristin.albrecht@enron.com, gary.stadler@enron.com, 
+	meredith.eggleston@enron.com, james.new@enron.com, 
+	heidi.mason@enron.com, jan-erland.bekeng@enron.com, 
+	jay.knoblauh@enron.com
+Subject: How do officialized books make it to credit?
+Cc: sally.beck@enron.com, brent.price@enron.com, mike.jordan@enron.com, 
+	chris.abel@enron.com, kenneth.thibodeaux@enron.com, 
+	michael.benien@enron.com, burton.mcintyre@enron.com, 
+	susan.trevino@enron.com, nancy.hernandez@enron.com, 
+	debbie.brackett@enron.com, john.powell@enron.com, 
+	ganapathy.ramesh@enron.com, joel.henenberg@enron.com, 
+	matt.brown@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, brent.price@enron.com, mike.jordan@enron.com, 
+	chris.abel@enron.com, kenneth.thibodeaux@enron.com, 
+	michael.benien@enron.com, burton.mcintyre@enron.com, 
+	susan.trevino@enron.com, nancy.hernandez@enron.com, 
+	debbie.brackett@enron.com, john.powell@enron.com, 
+	ganapathy.ramesh@enron.com, joel.henenberg@enron.com, 
+	matt.brown@enron.com
+X-From: Shona Wilson
+X-To: Bob M Hall, Leslie Reeves, Jeffrey C Gossett, Peggy Hedstrom, Kathy Reeves, Stacey W White, Monica Lande, David Maxwell, Martha Stevens, Scott Mills, Scott Earnest, Michelle Bruce, Sheila Glover, D Todd Hall, Brenda F Herod, Michael E Moscoso, Kristin Albrecht, Gary Stadler, Meredith M Eggleston, James New, Heidi Mason, Jan-Erland Bekeng, Jay Knoblauh
+X-cc: Sally Beck, Brent A Price, Mike Jordan, Chris Abel, Kenneth Thibodeaux, Michael Benien, Burton McIntyre, Susan D Trevino, Nancy Hernandez, Debbie R Brackett, John D Powell, Ganapathy Ramesh, Joel Henenberg, Matt A Brown
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+In the past few months much focus has been put on understanding VAR and how 
+it is calculated (through RisktRAC).  However, everyone should note that the 
+credit department also receives our information.  Market risk and credit risk 
+are inherently different, with different requirements.  This memo serves as a 
+reminder of what some of the key differences are, how the credit system uses 
+RisktRAC differently from market risk, how this affects us, what some key 
+problems are in the credit system caused by our data, and changes to be made 
+by risk management groups.
+
+differences are between credit and market risk - you all know this, but many 
+of your ba's don't. 
+when a book is flat it still has an effect on credit.  Flat books must be 
+officialized
+market risk is keyed off positions and curves.  When we make money, market 
+risk is reduced.  Credit risk is keyed off positions with customers.  When we 
+make money, credit risk is increased, as people owe us more money.
+
+how the credit system uses RisktRAC differently from market risk
+Market risk picks up all officialized books.  If a book is not officialized 
+it does not pick the book up.
+Credit picks up all officalized books.  If a book is not officialized, it 
+picks up the previous day's position.  Therefore, if positions in book A are 
+moved to book B, and A is no longer officialized, credit picks up the 
+previous day's position for book A.  As a result, if a book is no longer 
+used, please officialize it the first day it is no longer used, so credit 
+will pick up 0 on a go forward basis.
+Market risk is not concerned with counterparty codes and names.
+Credit needs correct counterparty codes and names.  In recent months, the 
+counterparty information has deteriorated.  Enron official counterparty names 
+need to be used so they flow properly to credit.
+
+what are some key problems in the credit system caused by our data
+As referenced above: correct counterparty names and books with 0 positions 
+not being officialized so credit picks up previous day info.
+As a takeaway from this message please ensure only correct counterparty names 
+are used and that if a book has 0 positions that it is officialized the first 
+day it has 0 positions.
+
+If you have specific questions about credit, please call Debbie Brackett, at 
+X35856. 

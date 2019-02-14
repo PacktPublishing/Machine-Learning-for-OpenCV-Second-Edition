@@ -1,0 +1,48 @@
+Message-ID: <1946714.1075856587454.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 10:06:00 -0800 (PST)
+From: tom.barkley@enron.com
+To: vince.kaminski@enron.com
+Subject: EOL Data Mining
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tom Barkley
+X-To: Vince J Kaminski
+X-cc: 
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Vince,
+
+Here are four graphs I came up with yesterday afternoon that may be of 
+interest:
+
+The first one shows what percentage of our trades are done with different 
+counterparties -
+
+
+
+(Note the large part that Aquila plays!)
+
+The other three graphs look at how trading volume varies during the week 
+between the hours of 8:00 AM and 4:00 PM for different categories of product. 
+Natural gas and power have their own graphs, as they have the largest traded 
+volumes. "Products" is for the remaining categories.
+
+
+
+There are still some things I would like to take a look at. The databeacon 
+software is now available, and can be reached at the following URL:
+
+http://sassy.ect.enron.com/eol/eol_all.html
+
+Do you have any specific questions that you would like me to try answering 
+regarding EOL?
+
+I have also started doing some research on automated trading platforms. Are 
+there any websites and/or papers you would recommend I read?
+
+Thanks,
+
+Tom

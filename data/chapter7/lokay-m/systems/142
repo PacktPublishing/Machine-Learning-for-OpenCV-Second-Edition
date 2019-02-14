@@ -1,0 +1,43 @@
+Message-ID: <2691180.1075844173928.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 07:57:00 -0800 (PST)
+From: bob.martinez@enron.com
+To: jack.boatman@enron.com, theresa.branney@enron.com, craig.buehler@enron.com, 
+	rachel.cady@enron.com, carl.carter@enron.com, rick.dietz@enron.com, 
+	sharon.farrell@enron.com, morgan.gottsponer@enron.com, 
+	steve.hotte@enron.com, steve.kirk@enron.com, 
+	laura.lantefield@enron.com, michelle.lokay@enron.com, 
+	jean.mcfarland@enron.com, vernon.mercaldo@enron.com, 
+	sue.neville@enron.com, jeff.nielsen@enron.com, 
+	eileen.peebles@enron.com, julia.white@enron.com, 
+	jo.williams@enron.com
+Subject: EOL Changes
+Cc: mary.vollmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mary.vollmer@enron.com
+X-From: Bob Martinez
+X-To: Jack Boatman, Theresa Branney, Craig Buehler, Rachel Cady, Carl Carter, Rick Dietz, Sharon Farrell, Morgan Gottsponer, Steve Hotte, Steve Kirk, Laura Lantefield, Michelle Lokay, Jean Mcfarland, Vernon Mercaldo, Sue Neville, Jeff Nielsen, Eileen Peebles, Julia White, Jo Williams
+X-cc: Mary Vollmer
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The following network changes are being planned for EOL: 
+
+Feb. 3  Saturday From 9:00 am - 11:00 a.m., 
+Enron Network Services will be upgrading the EOL UUNET network connection 
+(one of Enron's ISP) from 12Mbps to 27Mbps. Because UUNET is not the primary 
+EOL link, the outage is not expected to impact many of the EOL users.  
+However, if users have their connection configured to UUNET as their 
+preferred ISP, they may have to reconnect and may experience intermittent 
+outages during this maintenance.
+
+Feb. 3  Saturday From 11:00 a.m. - 12:00 p.m.,
+Enron Network Services will be upgrading the EOL Internet network switches.  
+A total outage of EOL is expected.  The outage should last approximately 30 
+minutes.
+
+Please notify Jean McFarland or Mary Vollmer if you have any questions.
+
+Bob Martinez

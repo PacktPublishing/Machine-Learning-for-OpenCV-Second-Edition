@@ -1,0 +1,53 @@
+Return-Path: <>
+Delivered-To: em-ca-bait-budgerow@em.ca
+Received: (qmail 26234 invoked by uid 115); 21 Apr 2005 14:54:16 -0000
+Received: from  by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(82.155.144.140):. 
+ Processed in 0.775911 secs); 21 Apr 2005 14:54:16 -0000
+Received: from unknown (HELO hitclub.pt) (82.155.144.140)
+  by churchill.factcomp.com with SMTP; 21 Apr 2005 14:54:07 -0000
+Date: Thu, 21 Apr 2005 15:47:21 +0000 (Hora padrão de GMT)
+From: HIT Club <mailing.net@hitclub.pt>
+To: bait-budgerow@em.ca
+Message-ID: 38463.657881944448_16129382076396
+Subject: HIT Club 10 years party 23, 24 april
+MIME-version: 1.0
+Content-type: multipart/mixed;
+ boundary="----=_Body_Part_Separator_0586759474965"
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_Body_Part_Separator_0586759474965
+Content-Type: text/html;
+     charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style></head>
+
+<body>
+<div align="center"><a href="http://www.hitclub.pt"><img src="http://www.hitclub.pt/aniv_ing.jpg" border="0"></a></div>
+</body>
+</HTML>
+
+
+------=_Body_Part_Separator_0586759474965--
+
+
+

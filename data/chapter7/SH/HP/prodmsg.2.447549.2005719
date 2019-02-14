@@ -1,0 +1,60 @@
+Received: from mout01.kundenservices.net (81.169.163.77)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:51 -0000
+Received: from exim by mout01.kundenservices.net with local (Exim 4.41)
+	id 1DuppI-0002Ek-UA
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 12:59:53 +0200
+X-Failed-Recipients: support@neikes-it.de
+Auto-Submitted: auto-generated
+From: Mail Delivery System <Mailer-Daemon@kundenservices.net>
+To: projecthoneypot@projecthoneypot.org
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1DuppI-0002Ek-UA@mout01.kundenservices.net>
+Date: Tue, 19 Jul 2005 12:59:52 +0200
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  support@neikes-it.de
+    SMTP error from remote mailer after RCPT TO:<support@neikes-it.de>:
+    host neikes-it.de [81.169.184.65]: 554 <support@neikes-it.de>:
+    Relay access denied
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <projecthoneypot@projecthoneypot.org>
+Received: from mx20.kundenservices.net ([81.169.163.71])
+	by mout01.kundenservices.net with esmtp (Exim 4.41)
+	id 1DuppG-0002EE-Cb
+	for support@neikes-it.de; Tue, 19 Jul 2005 12:59:50 +0200
+Received: from [211.168.67.248] (helo=mailwisconsin.com)
+	by mx20.kundenservices.net with smtp (Exim 4.44)
+	id 1DuppD-0003Xh-Ck
+	for support@neikes-it.de; Tue, 19 Jul 2005 12:59:48 +0200
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360096;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: support@neikes-it.de
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836613">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>

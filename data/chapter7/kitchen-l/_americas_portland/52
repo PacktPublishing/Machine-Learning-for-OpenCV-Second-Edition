@@ -1,0 +1,18 @@
+Message-ID: <7168463.1075840888056.JavaMail.evans@thyme>
+Date: Wed, 1 Aug 2001 13:38:07 -0700 (PDT)
+From: tim.belden@enron.com
+To: john.lavorato@enron.com, louise.kitchen@enron.com
+Subject: P&L Explanation for 7/31
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TBELDEN>
+X-To: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Total Loss of $20 million on prelim will be reduced to $13 on the final.  Mike S. reduced the NW delivered basis by $1/MWh when it should have been increased by $1/MWh against a basis position of roughly 3 million MWh accounted for the change of $6 million.  In addition, our NOB curve (which is a basis off of COB) had been mismarked (too low) by between $25/MWh to $50/MWh.  Mike doesn't know how it got marked so low.  We are short NOB, so he wasn't trying to hide money.  We are using a new curve file and position manager, so there's a chance that the application isn't working right, but it's more likely that Mike screwed something up.  Net effect of this is roughly $5 million hit (offsetting illgotten gains of the same amount before).  This brings us down to a one-day change of roughly $8 million associated with the back of the curve moving up.
+
+With gas coming off today, the backs have moved down some.  Let me know if you have any questions.

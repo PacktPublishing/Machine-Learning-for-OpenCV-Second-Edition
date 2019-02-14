@@ -1,0 +1,77 @@
+Received: from mav1.rede.ufmg.br (HELO mav1.ufmg.br) (150.164.255.131)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:56 -0000
+Received: from localhost ([127.0.0.1])
+	by mav1.ufmg.br with esmtp (Exim 4.30)
+	id 1DupqI-0006nU-M4
+	for projecthoneypot@projecthoneypot.org; Tue, 19 Jul 2005 08:00:54 -0300
+MIME-Version: 1.0
+Subject: Considered UNSOLICITED BULK EMAIL from you
+In-Reply-To: <ccrtOX.squirrel@205.214.42.66>
+Message-ID: <SS25973-03@mav1.ufmg.br>
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary="----------=_1121770854-25973-1"
+From: "Content-filter at mav1.ufmg.br" <postmaster@mav1.ufmg.br>
+To: <projecthoneypot@projecthoneypot.org>
+Date: Tue, 19 Jul 2005 08:00:54 -0300 (BRT)
+
+This is a multi-part message in MIME format...
+
+------------=_1121770854-25973-1
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+Your message to:
+-> antonioa@icb.ufmg.br
+
+was considered unsolicited bulk e-mail (UBE).
+Subject: Just to her...
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Our internal reference code for your message is 25973-03.
+
+Delivery of the email was stopped!
+
+------------=_1121770854-25973-1
+Content-Type: message/delivery-status
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery error report
+
+Reporting-MTA: dns; mav1.ufmg.br
+Received-From-MTA: smtp; mav1.ufmg.br ([127.0.0.1])
+Arrival-Date: Tue, 19 Jul 2005 08:00:53 -0300 (BRT)
+
+Final-Recipient: rfc822; antonioa@icb.ufmg.br
+Action: failed
+Status: 5.7.1
+Diagnostic-Code: smtp; 550 5.7.1 Message content rejected, UBE, id=25973-03
+Last-Attempt-Date: Tue, 19 Jul 2005 08:00:54 -0300 (BRT)
+
+------------=_1121770854-25973-1
+Content-Type: text/rfc822-headers
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Description: Undelivered-message headers
+
+Received: from yahoobb220056020109.bbtec.net ([220.56.20.109] helo=mailwisconsin.com)
+	by mav1.ufmg.br with smtp (Exim 4.30)
+	id 1DupqH-0006mG-30
+	for antonioa@icb.ufmg.br; Tue, 19 Jul 2005 08:00:53 -0300
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516531;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonioa@icb.ufmg.br
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+------------=_1121770854-25973-1--

@@ -1,0 +1,82 @@
+Received: from esteve.heberge.info (217.24.84.6)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:00:15 -0000
+Received: by esteve.heberge.info (Postfix)
+	id D45B93BEFBEFF; Tue, 19 Jul 2005 13:00:12 +0200 (CEST)
+Date: Tue, 19 Jul 2005 13:00:12 +0200 (CEST)
+From: MAILER-DAEMON@esteve.heberge.info (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="B61FF3BEFBEF5.1121770812/esteve.heberge.info"
+Message-Id: <20050719110012.D45B93BEFBEFF@esteve.heberge.info>
+
+This is a MIME-encapsulated message.
+
+--B61FF3BEFBEF5.1121770812/esteve.heberge.info
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host esteve.heberge.info.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Postfix program
+
+<pe_sudres.com@esteve.heberge.info>: host 127.0.0.1[127.0.0.1] said: 550 5.7.1
+    Message content rejected, UBE, id=16983-20
+
+--B61FF3BEFBEF5.1121770812/esteve.heberge.info
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; esteve.heberge.info
+Arrival-Date: Tue, 19 Jul 2005 12:59:56 +0200 (CEST)
+
+Final-Recipient: rfc822; pe_sudres.com@esteve.heberge.info
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host 127.0.0.1[127.0.0.1] said: 550 5.7.1 Message
+    content rejected, UBE, id=16983-20
+
+--B61FF3BEFBEF5.1121770812/esteve.heberge.info
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from mailwisconsin.com (zaq3d73992b.zaq.ne.jp [61.115.153.43])
+	by esteve.heberge.info (Postfix) with SMTP id B61FF3BEFBEF5
+	for <pe@sudres.com>; Tue, 19 Jul 2005 12:59:56 +0200 (CEST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360490;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: pe@sudres.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?1836416">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--B61FF3BEFBEF5.1121770812/esteve.heberge.info--

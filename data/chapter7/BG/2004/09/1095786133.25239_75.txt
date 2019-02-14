@@ -1,0 +1,75 @@
+Return-Path: <Citibank.message@emailmessage.citibank.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 16009 invoked by uid 115); 21 Sep 2004 15:57:50 -0000
+Received: from Citibank.message@emailmessage.citibank.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(66.33.237.222):. 
+ Processed in 0.44637 secs); 21 Sep 2004 15:57:50 -0000
+Received: from hrbg-66-33-237-222-nonpppoe.dsl.hrbg.epix.net (66.33.237.222)
+  by churchill.factcomp.com with SMTP; 21 Sep 2004 15:57:50 -0000
+X-Message-Info: 9hGWsd261aRE/mzVydeHYhYPycntP8Kd
+Received: from sprightly ([120.186.99.115])
+          by cou76-mail.moyer.adsorb.destitute.cable.rogers.com
+          (InterMail vM.5.01.05.12 159-633-015-445-824-04571071) with ESMTP
+          id <06947712332831.ELVX736880.ngb15-mail.sodium.grapefruit.net.cable.rogers.com@mutilate>
+          for <asetar@em.ca>; Tue, 21 Sep 2004 10:51:47 -0600
+Message-ID: <333460z0xomp$1316d6m0$3641a4c0@phylogeny>
+Reply-To: "Lucia Foster" <Citibank.message@emailmessage.citibank.com>
+From: "Lucia Foster" <Citibank.message@emailmessage.citibank.com>
+To: <asetar@em.ca>
+Subject: ATTN: Security Update from Citibank MsgID# 92379245
+Date: Tue, 21 Sep 2004 21:51:47 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--419776125423611"
+
+----419776125423611
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#000000">
+CITIBANK(R) 
+<p>Dear Citibank Customer:</p>
+<p>Recently there have been a large number computer terrorist attacks over=
+ our 
+  database server. In order to safeguard your account, we require that you=
+ update 
+  your Citibank ATM/Debit card PIN. </p>
+<p>This update is requested of you as a precautionary measure against frau=
+d. Please 
+  note that we have no particular indications that your details have been =
+compromised 
+  in any way.</p>
+<p>This process is mandatory, and if not completed within the nearest time=
+ your 
+  account may be subject to temporary suspension.</p>
+<p>Please make sure you have your Citibank ATM/Debit card and your login d=
+etails 
+  at hand.</p>
+<p>To securely update your Citibank ATM/Debit card PIN please go to:</p>
+<p><a href=3D"http://219.138.133.5/customer/">Customer Verification 
+  Form</a></p>
+<p>Please note that this update applies to your Citibank ATM/Debit card - =
+which 
+  is linked directly to your checking account, not Citibank credit cards.<=
+/p>
+<p>Thank you for your prompt attention to this matter and thank you for us=
+ing 
+  Citibank!</p>
+<p>Regards,</p>
+<p>Customer Support MsgID# 92379245</p>
+<p>(C)2004 Citibank. Citibank, N.A., Citibank, F.S.B., <br>
+  Citibank (West), FSB. Member FDIC.Citibank and Arc <br>
+  Design is a registered service mark of Citicorp.</p>
+</body>
+</html>
+
+
+----419776125423611--
+

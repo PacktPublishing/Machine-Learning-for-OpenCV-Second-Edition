@@ -1,0 +1,71 @@
+Return-Path: <linux-kernel-owner+lists-linux-kernel=40bruce-guenter.dyndns.org-S268828AbUHUCyv@vger.kernel.org>
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 32250 invoked from network); 21 Aug 2004 02:56:50 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 21 Aug 2004 02:56:50 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 21 Aug 2004 02:56:50 -0000
+Received: (qmail 19243 invoked from network); 21 Aug 2004 02:56:49 -0000
+Received: from vger.kernel.org (unknown [12.107.209.244])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 21 Aug 2004 02:56:49 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S268828AbUHUCyv (ORCPT
+	<rfc822;lists-linux-kernel@bruce-guenter.dyndns.org>);
+	Fri, 20 Aug 2004 22:54:51 -0400
+Received: (majordomo@vger.kernel.org) by vger.kernel.org id S268832AbUHUCyv
+	(ORCPT <rfc822;linux-kernel-outgoing>);
+	Fri, 20 Aug 2004 22:54:51 -0400
+Received: from mail1.edisontel.com ([62.94.0.30]:30611 "EHLO
+	ims1.edisontel.com") by vger.kernel.org with ESMTP id S268828AbUHUCyh
+	(ORCPT <rfc822;linux-kernel@vger.kernel.org>);
+	Fri, 20 Aug 2004 22:54:37 -0400
+Received: from [66.178.82.200] by ims1.edisontel.com with HTTP; Sat, 21 Aug 2004 04:46:28 +0200
+Date:	Sat, 21 Aug 2004 03:46:28 +0100
+Message-ID: <4106B22000017C0E@ims1.edisontel.com>
+From:	"john padila" <baptistrenewal@wooow.it>
+Subject: IN GOOD FAITH MY GOOD FRIEND
+Reply-To: revjohnpadila@mail2baptist.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-15"
+Content-Transfer-Encoding: 7bit
+To:	unlisted-recipients:; (no To-header on input)
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+DEAR SIR/MADAM,
+
+ I AM REV. PADILA JOHN 65 YEARS OLD, FROM THE REPUBLIC OF IRELAND. PRESENTLY,I
+AM THE REV TO BAPTIST CHURCH OF LONDON DIOCESES IN UK. EVER SINCE ,I HAVE
+BEEN HELPING THE ORPHANS IN THE ORPHANAGE/MOTHERLESS HOMES ACROSS FEW AFRICAN
+COUNTRIES. I HAVE DONATED SOME MONEY TO ORPHANAGES IN WARTURN AREAS IN THE
+MIDDLEEAST. WITH THE LITTLE GOD HAS GIVEN ME. BUT, IT IS SAD TO LET YOU KNOW
+THAT I BE CAME ILL RECENTLEY FROM CANCER OF THE LIVER. BEFORE I GOT ILL,
+I HAD SENT SOME MONEY AMOUNTING TO FOURTEEN MILLION TWO HUNDRED THOUSAND
+US DOLLARS TO A SECURITY AND FINANCIAL COMPANY IN EUROPE. THE FUND IS SAFE.I
+HAVE BEEN USING THE COMPANY FOR OVER TEN YEARS (10YRS) NOW. I AM PRESENTLY
+IN THE HOSPITAL BUT WITH LITLE HOPE OF SURVIVAL. PLEASE IF YOU CAN HELP,REPLY
+ME IMMEDIATELY .
+
+ SO THAT, I CAN MAKE YOU MY NEXT OF KIN AND FURNISH YOU WITH MORE DETAILS
+ ON HOW THE FUNDS WOULD BE CLAIM BY YOU, FROM THE FINANCIAL COMPANY. THEREAFTER,I
+WILL GIVE YOU INSTRUCTIONS ON HOW THE FUNDS WILL BE DISTRIBUTED AMONG THE
+ORPHANAGES IN RETURN, I AM OFFERING YOU FIFTEEN PERCENT OF THE TOTAL SUM
+OF THE FUNDS, WHILE EXTRA FIVE PERCENT WILL BE SET ASIDE FOR ANY INCIDENTIAL
+EXPENSES YOU MAY INCURED IN THE PROCESS OF THE CLAIM.
+MY LORD HAS ALREADY TOLD ME THAT I WOULD FIND A TRUSTWORTHY PERSON WHO  CAN
+CARRY OUT THIS SOUL SURVIVING TRANSACTION. MAY THE ALMIGHT GOD BLESS
+YOU AND YOUR FAMILY.
+
+ THANK YOU
+REV PADILA JOHN
+
+revjohnpadila@mail2baptist.com
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

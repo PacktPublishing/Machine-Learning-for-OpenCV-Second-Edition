@@ -1,0 +1,93 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 27140 invoked by uid 115); 23 Jul 2005 08:22:04 -0000
+Received: from lbouejiuko@abchospital.com by churchill by uid 64011 with qmail-scanner-1.22 
+ ( Clear:RC:0(212.149.75.15):. 
+ Processed in 0.124677 secs); 23 Jul 2005 08:22:04 -0000
+Received: from sp-fe-2-2.dnainternet.net (HELO dnainternet.net) (212.149.75.15)
+  by churchill.factcomp.com with SMTP; 23 Jul 2005 08:22:03 -0000
+Received: from [213.186.255.232] (HELO mail.aasysgroup.com)
+  by alli.dnainternet.net (CommuniGate Pro SMTP 4.3.4)
+  with ESMTP id 2101085; Fri, 22 Jul 2005 23:22:01 +0300
+Received: from xoj.abchospital.com ([209.223.29.200])
+ by pote.abchospital.com (Sun Java System Messaging Server 6.1 HotFix 0.07 (built
+ Aug 20 2004)) with ESMTP id <0U7E00UV150TY04@245.251.35.7.abchospital.com> for
+ bruceg@coastalintl.com; Fri, 22 Jul 2005 13:22:10 -0800 (IST)
+Date: Fri, 22 Jul 2005 13:22:10 -0800
+From: "Sam Noble" <lbouejiuko@abchospital.com>
+To: <bruceg@coastalintl.com>
+Subject: Free download, play for fun for f'ree as long as you like
+Message-ID: <0w9FSfY9fyr4a75bu_n0@abchospital.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.3790.0" name=3DGENERATOR></META>
+<STYLE>.tableBorder {
+    BORDER-RIGHT: #000000 1px double; BORDER-TOP: #000000 0px double; =
+FONT-WEIGHT: normal; FONT-SIZE: 18pt; BACKGROUND: #ffffff; BORDER-LEFT: =
+#000000 1px double; COLOR: #2d5540; BORDER-BOTTOM: #000000 1px double; =
+FONT-STYLE: italic; FONT-FAMILY: Arial
+}
+textrec {
+    FONT-SIZE: 8pt; COLOR: #649079; FONT-FAMILY: Tahoma
+}
+A:link {
+    FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #1d348a; FONT-STYLE: =
+normal; FONT-FAMILY: Arial
+}
+A:visited {
+    FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #1d348a; FONT-STYLE: =
+normal; FONT-FAMILY: Arial
+}
+A:hover {
+    FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #1d348a; FONT-STYLE: =
+normal; FONT-FAMILY: Arial
+}
+</STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff leftMargin=3D0 topMargin=3D0 marginwidth=3D"0" =
+marginheight=3D"0">
+<CENTER>
+<TABLE height=3D607 cellSpacing=3D0 cellPadding=3D0 width=3D598 =
+border=3D0>
+  <TBODY>
+  <TR>
+    <TD height=3D10></TD></TR>
+  <TR>
+    <TD><A href=3D"http://www.win65.info/index.html"><IMG alt=3D"" =
+hspace=3D0
+      src=3D"http://www.65fun.info/images/mailmsgtop.jpg" align=3Dbaseline
+    border=3D0></A></TD></TR>
+  <TR>
+    <TD>
+      <TABLE class=3DtableBorder height=3D"100%" cellSpacing=3D0 =
+cellPadding=3D0
+      width=3D598>
+        <TBODY>
+        <TR>
+          <TD bgColor=3D#1d348a height=3D13></TD></TR>
+        <TR>
+          <TD height=3D50></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>Play Backgammon for Real Money or for =
+Free!</TD></TR>
+        <TR>
+          <TD height=3D50></TD></TR>
+        <TR>
+          <TD align=3Dmiddle><A =
+href=3D"http://www.win65.info/index.html"><IMG
+            alt=3D"" hspace=3D0 =
+src=3D"http://www.65fun.info/images/mailmsg.jpg"
+            align=3Dbaseline border=3D0></A></TD></TR>
+        <TR>
+          <TD height=3D20></TD></TR>
+        <TR>
+          <TD align=3Dmiddle height=3D20><A
+      href=3D"http://www.win65.info/unsub.html">Purge =
+Out</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></CENTER></BODY>=
+</HTML>
+

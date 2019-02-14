@@ -1,0 +1,267 @@
+Message-ID: <8277310.1075855878463.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 13:59:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: TDS project
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+You might hear of this, so I thought I better forward to you.
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 06/08/2000 
+08:53 PM ---------------------------
+
+
+Mary Solmonson
+06/08/2000 08:57 PM
+To: Scott Mills/HOU/ECT@ECT
+cc: Joel Henenberg/NA/Enron@Enron, Stephen Stock/HOU/ECT@ECT 
+Subject: Re: TDS project  
+
+I guess I have several comments to make to this string of mails....so why not 
+add one more mail...
+
+First off, Thomas is following up on my suggestion to check into TDS as when 
+we met a few weeks ago (on other issues)  I heard about TDS by name for the 
+first time - although I admit I was aware of work being done to replace the 
+Applix functionality.  You had remarked that you liked the TDS functionality 
+and wondered whether that was the way to go rather than continue to evolve 
+Enron Grid.  It is unfortunate that Bill is not more cooperative with Thomas' 
+request - more in the continuing saga of poor communication and information 
+sharing between our two teams.
+ 
+Clearly there needs to be much more communication and sharing of information 
+as Global Rate Services for many months 'bowed' to the Sitara team's 
+priorities for Enron Grid - which you now say probably won't be used.   There 
+are many priorities in the wings to benefit the processes of Global Rate 
+Services that without has caused us to continue to experience a high rate of 
+errors - causing large impact to the P&L ($600,000 just the other day) and to 
+the invoicing and payment processes.  
+
+I have been proceeding under the impression Enron Grid was a shared 
+application.  You clearly don't share that view as below you stated it is the 
+responsibility of another group.  Is that why you dropped pursuit of Enron 
+Grid and began developing TDS? 
+
+Perhaps IT could meet deliverables if we provided them with a well 
+thought-out plan and set of priorities, good communication, and solid project 
+management.  To pursue separate solutions to try to save a struggling Sitara 
+project may not have been the best answer.  We have exacerbated the IT 
+resource problem by having three applications that overlap in functionality 
+(Phoenix, MKM, and TDS) - oh, and pieces of ERMS too.  If that's the right 
+answer, let's be sure we've discussed it before frivolously and selfishly 
+pursuing our own solutions.  The 'users' you cite as knowing of TDS are not 
+users at all - they are IT project managers.   Will you not have expectations 
+of Global Rate Services to provide settled pricing as an input to derived 
+curves ?  Will Global Rate Services responsibility end at the Phoenix door 
+and it's someone else's problem if the price doesn't reflect correctly in 
+TDS?  
+
+Finally, it was certainly the intent that MKM would be the ultimate solution 
+for all time series publishing in the organization-but I believe there is 
+question as to whether it is the better technical solution and whether the 
+design can fulfill the requirements. I wasn't aware that the pilot version of 
+MKM contained any curve generation functionality.  It would be interesting to 
+know how that got done, when ENA IT wasn't able to meet the basic 
+deliverables of the MKM pilot.  Another disturbing element in all this 
+regarding IT is - why IT did not raise a red flag that on the business side 
+there were requests for overlapping functionality and conflicting priorities 
+- you know, the right hand doesn't know what the left hand is doing.
+
+As all have said before me, a gap analysis needs to be done and a plan 
+developed.  I look forward to increased communication and cooperation between 
+our teams.
+
+
+
+
+
+
+To: Thomas Araujo/Corp/Enron@ENRON, Yannis Tzamouranis/HOU/ECT@ECT
+cc: William E Kasemervisz/HOU/ECT@ECT, Judy Barnes/HOU/ECT@ECT, Vanessa 
+Schulte/Corp/Enron@Enron, Joel Henenberg/NA/Enron@Enron, Larrissa 
+Sharma/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Stephen Stock/HOU/ECT@ECT, 
+Mary Solmonson/HOU/ECT@ECT 
+Subject: Re: TDS project  
+
+Users outside of Sitara do know of TDS!  Yannis and his group have had 
+discussions with Allen Severude's group regarding the TDS/Tibco 
+infrastructure as well as review of "current state" Enron Grid.  Myself, 
+Larrissa Sharma, Allan Severude, Steve Stock and Yannis have also had similar 
+approach discussions.
+
+Please note that a small portion of TDS is the replacement of the curve 
+manager functionality that APPLIX currently provides (APPLIX is a trader 
+tool).  There has been much user input on how the curve manager in TDS will 
+be used.  Since EnronGrid/Rate Sever has not had an opportunity to handle the 
+real-time (publish/subscribe) updates yet, it was suggested the 
+infrastructure provided by TDS (i.e. Tibco) may be something to look.  Note 
+that TDS is mentioned because of the infrastructure.  The functionality 
+provided by the TDS curve manager does not encompass all the requirements 
+outlined in the EnronGrid documents (functionality lacking the most is 
+security, updating of "Published" pricing and the tie in to Rate Server -the 
+TDS curve manager is built on ERMS pub/curve codes because all the trade data 
+is TAGG).  Either way, the functionality that we have all been working 
+through regarding how curves get published as well as subscribed to does not 
+change.  Keep in mind that MKM also has curve generation functionality (to my 
+knowledge, no one in Houston was part of this development). 
+
+From a technical perspective, several items need to be addressed:
+
+ Review/decision as to the technical direction of EnronGrid/Rate Server 
+infrastructure and publish/subscribe real time development.
+ Rate Server has no front end for curve generation.  EnronGrid was modified 
+to provide this functionality; however EnronGrid is the responsibility of a 
+different group
+  (logically, this needs to come together under the same group).
+ Does the TDS/Tibco infrastructure make sense (current EnronGrid/Rate Server 
+design assumes the curves are always updated to the Rate Sever database and 
+then    messaged from the database (potential performance impact); whereas 
+Tibco infrastructure does not require a database update first)
+ Does the MKM curve publish/subscribe supersede everything and provide a 
+"better" global technical solution (part of the London curve manager 
+development team will be in
+   Houston next week; therefore a briefing of the MKM curve manager is 
+something that we are trying to get done).  Functionally, this will require a 
+more vigorous gap
+   analysis review before a decision can be made. 
+
+I am open to additional discussions on the technical direction, but I do not 
+think that alot of additional functional documentation needs to be done and 
+timelines are not changing.
+
+SRM (x33548)
+
+
+
+
+
+Thomas Araujo @ ENRON
+
+06/08/2000 10:13 AM
+To: Yannis Tzamouranis/HOU/ECT@ECT, William E Kasemervisz/HOU/ECT@ECT
+cc: Judy Barnes/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Vanessa 
+Schulte/Corp/Enron@Enron, Joel Henenberg/NA/Enron@Enron 
+Subject: Re: TDS project  
+
+Bill,
+
+I don't think anyone outside of Sitara knows of TDS.  If you could give 
+myself and other interested parties a demo of TDS; I don't have a good 
+understanding of the TDS project.   If the project is similar to the Enron 
+Grid as it is indicated in Yannis's response, the business users need to come 
+together and decide the system of choice.  Yannis makes good points of how to 
+come to a decision. I would change that the users provide the important 
+features, advantages, and shortcomings of each product as they see it.   I 
+would gather the users' needs and timeline.  After deciding, I would then 
+like to get IT involved to finalize a decision.  I would like to get the 
+discussion started fairly soon due to the impeding business needs.  
+
+The first thing I would suggest is have a demo of both products to inform all 
+impacted business users.  Bill, can we setup a demo for tomorrow or early 
+next week.
+
+Thomas
+
+
+
+Yannis Tzamouranis@ECT
+06/08/2000 08:24 AM
+To: William E Kasemervisz/HOU/ECT@ECT
+cc: Thomas Araujo/Corp/Enron@ENRON, Scott Mills/HOU/ECT@ECT 
+
+Subject: Re: TDS project  
+
+Bill, 
+
+I have had presentations of both of these projects (that is not to say that I 
+know them well).
+
+Since, according to Scott the choice is still open, we have to make a 
+concious decision as to which way we go.  In my mind, this is a decision that 
+has to be made by the user with my team's support.  I do not want and should 
+not drive this decision.  The decision should be driven by the user, based on 
+usage (business) requirements.  What the Phoenix group will provide is a 
+server that does (or soon will) satisfy your business requirements.  The 
+front end plug in is, I think,  a decoupled issue in a server-client 
+environment.
+
+On the other hand, I think we should help you with the choice (if you so want 
+us).  I would actively consult with you to set up the choosing process, which 
+I imagine would go somewhat like this:
+I would suggest that we do, again and all deciding parties together,  get 
+demos of each of these products. 
+Business should put together a bullet point list of the functionality needed 
+(even a timeline) and how the tool will be used so both Allan and Mike 
+understand your needs clearly.
+I also suggest that we ask TDS and Enron Grid  to provide us with a short 
+document outlining the important features, advantages and shortcomings of 
+each product as they see it.  Released features should be separated from 
+future improvements; the latter should be be accompanied by a time line.  
+Limitations should be listed explicitly.
+We take our impressions from the demos along with the writeups in a room and 
+make the decision.
+If needed, business might have to spend the time to play with each of these 
+products for a short period of time.
+
+In my mind it is important to make choices like this one that will affect 
+business for a long time based on enumerated and well understood facts (such 
+that usually get lost from a short demo).
+
+Please let me know what you think,
+
+Yannis
+
+
+
+William E Kasemervisz
+06/07/2000 08:37 PM
+To: Thomas Araujo/Corp/Enron@ENRON, Yannis Tzamouranis/HOU/ECT@ECT
+cc:  
+Subject: Re: TDS project  
+
+I'm not sure what you want to go over.  If you and Yannis would like to have 
+a demo of the TDS & Grid applications let me know & I'll try to set something 
+up with Scott also, so we can discuss GRID/TDS Curve Manager/ MKM.  
+
+
+
+
+Thomas Araujo @ ENRON
+
+06/07/2000 10:13 AM
+To: William E Kasemervisz/HOU/ECT@ECT
+cc:  
+Subject: TDS project
+
+Bill,
+Can you give me more information to the TDS you are working on like the due 
+dates, the scope, etc.  If you got some requirements documents or the 
+business plan on the project, it would be better.  I just want to get a 
+better picture of how Enron Grid fits in the big picture.
+
+
+Thanks,
+Thomas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

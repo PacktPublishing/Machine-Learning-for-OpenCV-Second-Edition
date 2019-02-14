@@ -1,0 +1,28 @@
+Message-ID: <17890521.1075840820314.JavaMail.evans@thyme>
+Date: Mon, 2 Apr 2001 13:07:00 -0700 (PDT)
+From: kevin.presto@enron.com
+To: john.lavorato@enron.com, louise.kitchen@enron.com
+Subject: Friday P&L
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>
+X-To: John J Lavorato <John J Lavorato/Enron@EnronXGate>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+I have just been informed that our P&L was overstated by approx $6 million on Friday.   Since it is quarter end, we are re-calcing to avoid numerous audit issues that would result.   The mistake was due to vol curves rolling forward one month (May became June, June became July, July became Aug, etc.).
+
+Starting tommorow, Harry will be responsible for marking all vol curves for East Power.   The vol curve changes that Harry will be making over the next two days will result in a marginal gain in desk P&L (1-2 million).   Most of the regional books gain value due to short vol position, however, the New Albany spread option loses a corresponding amount.
+
+The recent risk group difficulties are compounded by the Portland risk group being down to 2 people (total experience of 3 months) and many of our resources are getting sucked into West issues.   Continued system difficulties combined with understaffing has resulted in more frequent mistakes.
+
+The $23 million of P&L for Friday business can be reconciled as follows:
+$6 million from Thursday mistake (P&L understated on Thursday because Wednesday curves were used after Port Calc failed)
+$10 million in "true" Friday P&L (summer 01, Cal 02 & Cal 03 all down approx. $1/Mwh)
+$6 million overstated due to vol curve being off by one month from incorrect roll in vol curves.
+
+The final P&L issued by 2:00 pm today (for COB Friday) will be approx. $17 million.
+

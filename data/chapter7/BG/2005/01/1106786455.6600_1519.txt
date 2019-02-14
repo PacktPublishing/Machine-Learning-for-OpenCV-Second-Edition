@@ -1,0 +1,55 @@
+Return-Path: <Muonghi@carmichael.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 3724 invoked by uid 115); 23 Jan 2005 11:57:10 -0000
+Received: from Muonghi@carmichael.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(68.253.179.121):. 
+ Processed in 0.128235 secs); 23 Jan 2005 11:57:10 -0000
+Received: from adsl-68-253-179-121.dsl.emhril.ameritech.net (68.253.179.121)
+  by churchill.factcomp.com with SMTP; 23 Jan 2005 11:57:08 -0000
+From: =?utf-8?q?Jean Tten?= <Muonghi@carmichael.net>
+To: =?utf-8?q?Amelia Iadise?= <bait@em.ca>
+Subject: =?utf-8?q?Keep 75 % or more on?=
+ =?utf-8?q? your prescriptions?=
+ =?utf-8?q??=
+Date: Sun, 23 Jan 2005 11:58:24 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	 boundary="JQqDx2cZ7MlmwtnajX73hu0T"
+X-Qmail-Scanner-Message-ID: <11064814296723707@churchill>
+Content-Length: 896
+Lines: 34
+
+This is a multi-part message in MIME format.
+
+--JQqDx2cZ7MlmwtnajX73hu0T
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Direct Prescriptions aids you economize on costly recipes 
+medicinal drugs with costs that are as more as 95 percents lower =
+than retail 
+chemist's shop equivalents. 
+
+
+--JQqDx2cZ7MlmwtnajX73hu0T
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<STYLE></STYLE>
+</HEAD>
+<HTML>
+<BODY>
+Direct Prescriptions assists all people save on expensive prescri=
+ptions <BR>
+medicines with costs which are as much as 55 percents less than r=
+etail <BR>
+pharmacy equivalents. <BR>
+<A href=3D"">Test worths</A>
+</BODY>
+</HTML></HTML>
+--JQqDx2cZ7MlmwtnajX73hu0T--

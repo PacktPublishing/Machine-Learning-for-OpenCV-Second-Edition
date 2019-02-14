@@ -1,0 +1,54 @@
+Return-Path: <e_voravit@hotmail.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 13219 invoked by uid 115); 3 Aug 2004 04:32:11 -0000
+Received: from e_voravit@hotmail.com by churchill by uid 101 with qmail-scanner-1.22 
+ (clamdscan: 0.72.  Clear:RC:0(203.156.86.138):. 
+ Processed in 0.282027 secs); 03 Aug 2004 04:32:11 -0000
+Received: from unknown (HELO neo) (203.156.86.138)
+  by churchill.factcomp.com with SMTP; 3 Aug 2004 04:32:09 -0000
+From: "webmaster" <e_voravit@hotmail.com>
+To: <bruceg@em.ca>
+Subject: สะดุดข่าวร้อน
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Tue, 3 Aug 2004 11:28:02
+Return-Path: <intermarket@sangudom.co.th>
+X-Qmail-Scanner-Message-ID: <109150753167313211@churchill>
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<p><a href="http://www.sangudom.co.th"><img src="http://www.sangudom.co.th/banner.jpg" width="700" height="100" border="0"></a> </p>
+<h2>ประจำวันที่ 3 สิงหาคม 2547</h2>
+<h2><font color="#0000FF" size="+6">Linux แกร่งกว่า Windows</font></h2>
+<p><img src="http://www.linux.org/images/logo/linuxorg.gif" alt="" name="Linux" width="100" border="0" align="top"> 
+  ผลการสำรวจกลุ่มผู้พัฒนาลีนุกซ์พบว่า มีเพียง 8% เท่านั้นที่เคยติดไวรัสฯ หรือเป็นเหยื่อของโค้ดร้ายหรือมัลแวร์ 
+  (Malicious Code) บริษัทอีวานส์ดาต้า (Evans Data) ู้เชี่ยวชาญด้านการวิจัยตลาด 
+  รายงานผลการสำรวจ Summer 2004 Linux Development Survey ซึ่งเป็นการสำรวจนักพัฒนาลีนุกซ์จำนวน 
+  500 คน พบว่า 92% ยืนยันว่าระบบของพวกเขาไม่เคยติดเชื้อไวรัสฯหรือตกเป็นเหยื่อของมัลแวร์เลยแม้แต่ครั้งเดียว</p>
+<p>เพียง 22% ของผู้ถูกสำรวจเท่านั้นที่บอกว่าเคยถูกแฮกระบบโดยแฮกเกอร์ และมีเพียง 
+  7% ของผู้ที่เคยเสียท่าเท่านั้น ที่บอกว่าถูกแฮกเกินกว่า 2 ครั้งขึ้นไป</p>
+<p>Spring 2004 North American Development Survey อีกการสำรวจหนึ่งเมื่อต้นปีของบริษัทอีวานส์ดาต้าพบว่า 
+  เกือบ 60% ของนักพัฒนาระบบอื่นๆที่ไม่ใช่ลีนุกซ์ เคยตกเป็นเหยื่อของการละเมิดซีเคียวริตี้ 
+  และ 32% ตกเป็นเหยื่อมากกว่า 2 ครั้งขึ้นไป</p>
+<p>&quot;กล่าวได้ว่าลีนุกซ์มีซีเคียวริตี้ดีกว่าระบบปฏิบัติการอื่น&quot; นิโคลัส 
+  ปีเตอร์ลีย์ (Nicholas Petreley) นักวิเคราะห์ด้านลีนุกซ์ บริษัทอีวานส์ดาต้า กล่าว</p>
+<p>&quot;ไม่แปลกใจที่ระบบลีนุกซ์ไม่ถูกแฮก หรือในอัตราส่วนที่ต่ำกว่ามากๆ เทียบกับวินโดว์ส&quot; 
+  เขากล่าวและว่า &quot;เหตุผลง่ายๆ เพราะยิ่งมีคนเห็นโค้ดมากเท่าไหร่ ข้อผิดพลาดหรือช่องโหว่ก็ยิ่งน้อยลงเท่านั้น&quot;</p>
+<p>การสำรวจของอีวานส์ดาต้ายังพบด้วยว่า 76% ของนักพัฒนาลีนุกซ์เชื่อว่า กลยุทธ์ทางกฎหมายของเอสซีโอกรุ๊ป 
+  (SCO Group) &quot;อาจไม่กระทบ&quot; หรือ &quot;ไม่กระทบแน่นอน&quot; กับการใช้งานลีนุกซ์ของพวกเขา 
+  ตัวเลขดังกล่าวเพิ่มขึ้น 8% จากการสำรวจเมื่อ 6 เดือนก่อน</p>
+<p>ที่มา/ผู้จัดการออนไลน์</p>
+<p>&nbsp;</p>
+<p>---กราบขออภัยเป็นอย่างยิ่งหาก จดหมายฉบับนี้บังเอิญรบกวนท่าน--<br>
+  ถ้าท่านเห็นว่าจดหมายข่าว ของเรามีประโยชน์ช่วยกรุณาส่งต่อไปให้เพื่อนๆด้วยครับ</p>
+<p>สมัครรับจดหมายข่าว <a href="mailto:intermarket@sangudom.co.th">ต้องการสมัคร</a> 
+  ส่งอีเมล์ตอบกลับ หากไม่สนใจรับข่าวสาร กรุณาแจ้ง <a href="mailto:intermarket@sangudom.co.th">ไม่สนใจ</a></p>
+<p><a href="http://www.sangudom.co.th" title="แสงอุดม แบตเตอรี่">Sang Udom Battery แหล่งรวมแบตเตอรี่ นานาชนิด</a> 
+  | <a href="http://www.ladpraow.com" title="ลาดพร้าว ดอท คอม">Ladpraow Dot Com แหล่งช้อปปิ้ง ของคนลาดพร้าว</a></p>
+</body>
+</html>

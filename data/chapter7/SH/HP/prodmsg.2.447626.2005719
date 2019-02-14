@@ -1,0 +1,106 @@
+Received: from fallback-mx1.atl.registeredsite.com (64.224.219.95)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:01:39 -0000
+Received: from localhost (localhost)
+	by fallback-mx1.atl.registeredsite.com (8.12.11/8.12.11) id j6JB1bjc002214;
+	Tue, 19 Jul 2005 11:01:37 GMT
+Date: Tue, 19 Jul 2005 11:01:37 GMT
+From: Mail Delivery Subsystem <MAILER-DAEMON@fallback-mx1.atl.registeredsite.com>
+Message-Id: <200507191101.j6JB1bjc002214@fallback-mx1.atl.registeredsite.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JB1bjc002214.1121770897/fallback-mx1.atl.registeredsite.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JB1bjc002214.1121770897/fallback-mx1.atl.registeredsite.com
+
+The original message was received at Tue, 19 Jul 2005 11:00:57 GMT
+from mail8.atl.registeredsite.com [64.224.219.82]
+
+*** ATTENTION ***
+
+This email is being returned to you because the remote server would not
+or could not accept the message. The registeredsite servers are just
+reporting to you what happened and are not the source of the problem.
+
+The address which was undeliverable is in the section labeled:
+  "----- The following addresses had permanent fatal errors -----".
+
+The reason your mail is being returned to you is in the section labeled:
+  "----- Transcript of Session Follows -----".
+
+The line beginning with "<<<" describes the specific reason your e-mail could
+not be delivered.  The next line contains a second error message which is a
+general translation for other e-mail servers.
+
+Please direct further questions regarding this message to your e-mail
+administrator.
+
+--Registeredsite Postmaster
+
+   ----- The following addresses had permanent fatal errors -----
+<dlbrown@tabmark.com>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <dlbrown@tabmark.com>... Host unknown (Name server: tabmark.com: host not found)
+
+--j6JB1bjc002214.1121770897/fallback-mx1.atl.registeredsite.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; fallback-mx1.atl.registeredsite.com
+Arrival-Date: Tue, 19 Jul 2005 11:00:57 GMT
+
+Final-Recipient: RFC822; dlbrown@tabmark.com
+Action: failed
+Status: 5.1.2
+Remote-MTA: DNS; tabmark.com
+Diagnostic-Code: SMTP; 550 Host unknown
+Last-Attempt-Date: Tue, 19 Jul 2005 11:01:37 GMT
+
+--j6JB1bjc002214.1121770897/fallback-mx1.atl.registeredsite.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mail8.atl.registeredsite.com (mail8.atl.registeredsite.com [64.224.219.82])
+	by fallback-mx1.atl.registeredsite.com (8.12.11/8.12.11) with ESMTP id j6JB0usi002042
+	for <dlbrown@tabmark.com>; Tue, 19 Jul 2005 11:00:57 GMT
+Received: from mail.blaqueimage.com (mail.blaqueimage.com [209.35.254.4])
+	by mail8.atl.registeredsite.com (8.12.11/8.12.8) with ESMTP id j6JB0sJE004569
+	for <dlbrown@tabmark.com>; Tue, 19 Jul 2005 11:00:56 GMT
+Received: from SMTP32-FWD by mail.blaqueimage.com
+  (SMTP32) id A00000D50; Tue, 19 Jul 2005 07:00:49 -0400
+Received: from mailwisconsin.com [209.35.254.4] by mail.blaqueimage.com
+  (SMTPD32-7.15) id AD5F34DD00CA; Tue, 19 Jul 2005 07:00:47 -0400
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz030516467;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: antonio_schiavon@blaqueimage.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?86973430">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivabIe!</b></body></html>
+
+--j6JB1bjc002214.1121770897/fallback-mx1.atl.registeredsite.com--
+

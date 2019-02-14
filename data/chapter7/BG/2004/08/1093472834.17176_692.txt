@@ -1,0 +1,35 @@
+Return-Path: <laj@express-mail37.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8115 invoked by uid 115); 23 Aug 2004 18:07:13 -0000
+Received: from laj@express-mail37.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(202.156.247.210):. 
+ Processed in 0.810026 secs); 23 Aug 2004 18:07:13 -0000
+Received: from unknown (HELO express-mail37.net) (202.156.247.210)
+  by churchill.factcomp.com with SMTP; 23 Aug 2004 18:07:12 -0000
+From: "The Internet Store .." < laj@express-mail37.net >
+To: <bruceg@em.ca>
+Subject: 
+Date: Mon, 23 Aug 2004 14:06:06 -0400
+Mime-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Qmail-Scanner-Message-ID: <10932844336728109@churchill>
+
+<HTML>
+<CENTER><B><BASEFONT COLOR='#0000FF' face='Impact' SIZE="+3">We believe purchasing 
+medication should be as simple as ordering anything else on 
+the Net. Confidential, secure, and 
+trouble-free. </b><BR><br><basefont face='Courier' SIZE='+3' COLOR=NAVY>Choose your 
+medicine, point, click, order 
+and your done. Your pills is on it's way. 
+No prescription required!<br><BR><A HREF="http://7e0c.0ffshorepharm.com/s/?doc1">Click here For More Information
+<BR>
+<br>
+<br>
+<B><A href='http://www.domain.com/rms.html'>take me off this mailing</A></B>
+</CENTER>
+</html>
+

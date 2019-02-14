@@ -1,0 +1,40 @@
+Message-ID: <23379155.1075840860138.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 05:47:45 -0700 (PDT)
+From: bob.mcauliffe@enron.com
+To: louise.kitchen@enron.com
+Subject: Blackberry Security
+Cc: mark.koenig@enron.com, jenny.rub@enron.com, mark.pickering@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.koenig@enron.com, jenny.rub@enron.com, mark.pickering@enron.com
+X-From: McAuliffe, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BMCAULI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: Koenig, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkoenig>, Rub, Jenny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrub>, Pickering, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MPICKER>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Louise,
+
+Jenny Rub asked me to follow-up with you and pass on a summary of security/encryption on the Blackberry wireless devices.  Sorry it took a couple of days to get this back to you, but I wanted to absolutely re-confirm some of the information before I got a response to you.
+
+We selected the Blackberry service over other wireless email services for two reasons:
+
+It uses a "push" technology -- mail and calendar information is pushed to your Blackberry device without having to connect to a network, logon and "pull" the information.
+It is the most secure of the alternatives we evaluated.
+
+All Outlook/Exchange email that is synchronized with the Blackberry device is encrypted -- including attachments -- using triple-DES encryption.  Triple-DES (data encryption standard) is the most secure encryption standard available today for civilian/commercial use.  Each Blackberry device has a digital certificate, which is used in conjunction with our Blackberry Enterprise Server to encrypt and decrypt Exchange mail.  The Blackberry Enterprise Server is the interface server to our Exchange environment and resides inside our firewall.  Therefore, all Enron Exchange mail is encrypted before it leaves the Enron environment and is not decrypted until it reaches each Blackberry device.
+
+There are some limitations, however.  There are three ways to communicate with a Blackberry device -- not all are encrypted.
+
+Your Exchange mail is synchronized with your Blackberry through the Blackberry Enterprise Server -- this form of communication is encrypted using the triple-DES standard.
+You can communicate between Blackberry devices using "PIN-to-PIN" paging -- this form of communication does not pass through the Blackberry Enterprise Server and is not encrypted.  However, it is scrambled -- but not using a sophisticated algorithm and it can be decoded easily by a sophisticated hacker.
+You can communicate with Blackberry users via Skytel's paging service by mailing to username@skytel.com (e.g. bobmcauliffe@skytel.com) -- this form of communication is sent via clear text, so it is not encrypted or scrambled.
+
+The bottom line is that all mail sent from/to Outlook/Exchange or internet mail sent to an @enron.com mail address is encrypted.  
+
+If you want a little more information on triple-DES encryption, a good overview is at http://www.tropsoft.com/strongenc/des3.htm or if you want more information on our Blackberry service, please let me know.
+
+Thanks,
+Bob

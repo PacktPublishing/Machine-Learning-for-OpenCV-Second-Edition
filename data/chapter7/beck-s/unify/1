@@ -1,0 +1,54 @@
+Message-ID: <20304500.1075845086114.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 12:26:00 -0800 (PST)
+From: jeff.johnson@enron.com
+To: beth.perlman@enron.com, jenny.rub@enron.com, bob.mcauliffe@enron.com, 
+	philippe.bibi@enron.com, richard.burchfield@enron.com, 
+	bob.hall@enron.com, leslie.reeves@enron.com, sheila.glover@enron.com, 
+	cindy.horn@enron.com, sally.beck@enron.com, peggy.hedstrom@enron.com, 
+	laura.scott@enron.com
+Subject: Unify Financials Update And Go-Forward Cut-Over Calendar
+Cc: ramesh.rao@enron.com, dale.potter@enron.com, jim.ogg@enron.com, 
+	mike.croucher@enron.com, john.opalko@enron.com, 
+	rpierce@microsoft.com, jamespin@microsoft.com, 
+	jeannine.bardsley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: ramesh.rao@enron.com, dale.potter@enron.com, jim.ogg@enron.com, 
+	mike.croucher@enron.com, john.opalko@enron.com, 
+	rpierce@microsoft.com, jamespin@microsoft.com, 
+	jeannine.bardsley@enron.com
+X-From: Jeff Johnson <Jeff Johnson/ENRON@enronXgate@ENRON>
+X-To: Beth Perlman <Beth Perlman/ENRON@enronXgate>, Jenny Rub <Jenny Rub/ENRON@enronXgate>, Bob McAuliffe <Bob McAuliffe/ENRON@enronXgate>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Richard Burchfield <Richard Burchfield/ENRON@enronXgate>, Bob M Hall <Bob M Hall/NA/Enron@Enron>, Leslie Reeves <Leslie Reeves/HOU/ECT@ECT>, Sheila Glover <Sheila Glover/HOU/ECT@ECT>, Cindy Horn <Cindy Horn/LON/ECT@ECT>, Sally Beck <Sally Beck/HOU/ECT@ECT>, Peggy Hedstrom <Peggy Hedstrom/CAL/ECT@ECT>, Laura E Scott <Laura E Scott/CAL/ECT@ECT>
+X-cc: Ramesh Rao <Ramesh Rao/ENRON@enronXgate>, Dale Potter <Dale Potter/ENRON@enronXgate>, Jim Ogg <Jim Ogg/ENRON@enronXgate>, Mike Croucher <Mike Croucher/ENRON@enronXgate>, John Opalko <John Opalko/ENRON@enronXgate>, rpierce@microsoft.com@SMTP <rpierce@microsoft.com@SMTP@enronXgate>, jamespin@microsoft.com@SMTP <jamespin@microsoft.com@SMTP@enronXgate>, Jeannine Bardsley <Jeannine Bardsley/ENRON@enronXgate>
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: Beck, Sally.pst
+
+
+A quick update on a major milestone for the Unify effort, the critical success factors and the plan for the Gas and Power deliveries. 
+
+First, the good news --- We rolled out the new Unify Financials system on Monday. The rollout so far is very nearly a flawless success. Only 2 small bugs have been identified and both were fixed within 1 day. The users in Houston and London have commented that the system is noticeably faster. This system was delivered 4 weeks ahead of the original schedule that we published in early January. For a project of this size and complexity, this is great news and bodes well for the next 2 major milestones.
+
+We're not out of the woods yet. Our biggest and most risky rollouts are a few weeks away - Power and Gas. 
+Even so, as we look ahead, we are very optimistic. Based on our empirical load testing, we believe that we can now deliver incremental performance increases and long-term scaleability far beyond what the legacy architecture would support. Reliability and stability should continue to increase beyond the recently improved performance we've gotten from the new legacy hardware. 
+
+This milestone success is due to the following critical factors: 
+
+?	Strong Executive IT sponsorship and participation (Special thanks to Philippe Bibi, Beth Perlman, Jenny Rub, Bob McAuliffe, Richard Burchfield)
+?	Strong Executive User sponsorship and user participation (Special thanks to Sally Beck, Bob Hall, Leslie Reeves, Sheila Glover, Cindy Horn, Peggy Hedstrom and Laura Scott)
+?	Adoption of a risk-managed delivery methodology based on detailed planning and a phased delivery approach
+?	A talented Enron delivery team with great technical skills and the dedication to work nearly every weekend for the last 2 months (and the next 2) 
+?	Exemplary partnering between the Infrastructure, Application, DBA and User teams 
+?	Uncompromising commitments to team success from the vendors (Special thanks to Microsoft, Accenture, Compaq, Avenade)
+?	Focused project management (Special thanks to Ramesh Rao, Dale Potter, Mike Croucher and Jim Ogg). 
+
+
+The attachment below provides a calendar of activities for everything that's happening between now and mid-May. Power will go live on April 23 and Gas will go live on May 21. The user bid-week simulation and performance tests for gas begin next week. As the calendar below shows, the team is fully occupied for the next 2 months. 
+
+ 
+Livelink:  http://edms.livelink.enron.com/ena/livelink.exe?func=ll&objId=8743122&objAction=browse&sort=name
+
+
+Thanks to everyone for their help in achieving this milestone as well as your continued support as we push to deliver Power and Gas with the same level of success. Please communicate our gratitude to each member of your respective teams. 
+ 

@@ -1,0 +1,46 @@
+Message-ID: <18605095.1075840945765.JavaMail.evans@thyme>
+Date: Mon, 6 Aug 2001 07:34:28 -0700 (PDT)
+From: john.lavorato@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: Duke transaction
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JLAVORA>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+
+
+ -----Original Message-----
+From: 	Collonges, Remi  
+Sent:	Friday, August 03, 2001 5:05 PM
+To:	Lavorato, John
+Cc:	Kishkill, Joe; Gonzalez, Orlando
+Subject:	Duke transaction
+
+We have closed tonight the following transaction:
+
+We Sell to Duke Energy a series of 12 monthly options (July 2001 to June 2002), volume 10 MW, delivery Southeast center of gravity;
+Strike : R$140/MWh for July to December 2001, and R$120/MWh for January to June 2002;
+Strike payable 5th of month following month of delivery;
+The options are automatically exercised when and if MAE ex-ante price is greater than strike (Duke has not the option not to exercice if MAE is not settling);
+
+Price per MWh: floor + upside
+
+Upside: 35% of (MAE ex-ante price - floor)
+Payable by Duke at the earliest of 1) MAE invoicing date (regardless of MAE agent payment) or 2) July 5th, 2002;
+We do not take MAE credit risk, but only Duke's;  Duke takes MAE credit risk;
+
+We receive a premium of R$5 million upfront.
+
+As a result, the deal is ATM against our power curve.  However we know that we are in rationing AT LEAST until November of this year.  As a result, the MAE ex-ante price will be R$684/MWh.  If we take the most conservative scenario and assume that we collect upside in July 02 only, MTM is about US$6 million.  The more rationing last, the higher in the money will the deal be (of course, immediate settlement at MAE at R$684 of all long position would take us OTM, but we do not expect this to happen very soon).
+
+I hope that this is clear.  Credit is on board, I'm talking to Martha Stevens and her new boss Stacy White to validate my assumption on the MTM.
+
+Have a great WE,
+
+Remi

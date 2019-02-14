@@ -1,0 +1,93 @@
+Received: from angie.nfrance.com (80.247.228.70)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:57:43 -0000
+Received: from localhost (localhost)
+	by angie.nfrance.com (8.12.11/8.12.11/NFrance Mail Server) id j6JAuMiv079413;
+	Tue, 19 Jul 2005 12:56:22 +0200 (CEST)
+	(envelope-from MAILER-DAEMON)
+Date: Tue, 19 Jul 2005 12:56:22 +0200 (CEST)
+From: Mail Delivery Subsystem <MAILER-DAEMON@angie.nfrance.com>
+Message-Id: <200507191056.j6JAuMiv079413@angie.nfrance.com>
+To: <projecthoneypot@projecthoneypot.org>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="j6JAuMiv079413.1121770582/angie.nfrance.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--j6JAuMiv079413.1121770582/angie.nfrance.com
+
+The original message was received at Tue, 19 Jul 2005 12:56:22 +0200 (CEST)
+from mx1-3.nfrance.com [80.247.228.2]
+
+   ----- The following addresses had permanent fatal errors -----
+<yann.letanoux@free.fr>
+    (reason: 550 user quota exceeded)
+
+   ----- Transcript of session follows -----
+... while talking to mx.free.fr.:
+>>> DATA
+<<< 550 user quota exceeded
+550 5.1.1 <yann.letanoux@free.fr>... User unknown
+<<< 503 RCPT first (#5.5.1)
+
+--j6JAuMiv079413.1121770582/angie.nfrance.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; angie.nfrance.com
+Received-From-MTA: DNS; mx1-3.nfrance.com
+Arrival-Date: Tue, 19 Jul 2005 12:56:22 +0200 (CEST)
+
+Final-Recipient: RFC822; yann.letanoux@free.fr
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mx.free.fr
+Diagnostic-Code: SMTP; 550 user quota exceeded
+Last-Attempt-Date: Tue, 19 Jul 2005 12:56:22 +0200 (CEST)
+
+--j6JAuMiv079413.1121770582/angie.nfrance.com
+Content-Type: message/rfc822
+
+Return-Path: <projecthoneypot@projecthoneypot.org>
+Received: from mx1-3.nfrance.com (mx1-3.nfrance.com [80.247.228.2])
+	by angie.nfrance.com (8.12.11/8.12.11/NFrance Mail Server) with ESMTP id j6JAuHiv079400
+	for <yann.letanoux@free.fr>; Tue, 19 Jul 2005 12:56:22 +0200 (CEST)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from ambre.nfrance.com (mx2.nfrance.com [80.247.228.236])
+	by mx1-3.nfrance.com (8.13.1/8.13.1/NFrance Mail Server) with ESMTP id j6JB43Cg070683
+	for <info@lefilpresse.com>; Tue, 19 Jul 2005 13:04:07 +0200 (CEST)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from mailwisconsin.com (YahooBB218139066057.bbtec.net [218.139.66.57])
+	by ambre.nfrance.com (8.12.10/8.12.10/NFrance Conseil Antispam Version) with SMTP id j6JAvML6017338
+	for <info@lefilpresse.com>; Tue, 19 Jul 2005 12:57:29 +0200 (CEST)
+	(envelope-from projecthoneypot@projecthoneypot.org)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz024816183;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: info@lefilpresse.com
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?54273728">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbeIivable!</b></body></html>
+
+--j6JAuMiv079413.1121770582/angie.nfrance.com--
+

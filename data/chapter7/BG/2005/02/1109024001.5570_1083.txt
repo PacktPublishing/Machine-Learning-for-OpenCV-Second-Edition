@@ -1,0 +1,55 @@
+Return-Path: <Kimberly.Mcguire@flashmail.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 14193 invoked by uid 115); 17 Feb 2005 22:48:24 -0000
+Received: from Kimberly.Mcguire@flashmail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(80.40.43.157):. 
+ Processed in 3.787043 secs); 17 Feb 2005 22:48:24 -0000
+Received: from ppp-1-157.manc-b-2.access.uk.tiscali.com (80.40.43.157)
+  by churchill.factcomp.com with SMTP; 17 Feb 2005 22:48:19 -0000
+Return-Path: <SarahgPratherg@gaweb.com>
+X-Original-To: bait@em.ca
+Delivered-To: bait@em.ca
+Received: from server1.doramail.com   (mail.doramail.com   [205.158.62.76])
+	by fep2.gaweb.com (Postfix) with ESMTP id A025C2457
+	for <bait@em.ca>; Thu, 17 Feb 2005 23:42:23 +0100 (EDT)
+Received: from nobody by gaweb.com with local (Exim 4.50)
+	id 7C1rjW-2154oD-My
+	for <bait@em.ca>; Fri, 18 Feb 2005 03:48:23 +0500
+To: bait@em.ca
+Subject: Re: Account
+From: "Sarah Prather" <SarahgPratherg@gaweb.com>
+Message-ID: <481825292253.7eb1e4674654@gaweb.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+Date: Thu, 17 Feb 2005 17:46:23 -0500
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.gaweb.com
+X-AntiAbuse: Original Domain - graffiti.net
+X-AntiAbuse: Originator/Caller UID/GID - [20 17] / [20 12]
+X-AntiAbuse: Sender Address Domain - gaweb.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+Current Matches:
+
+1.
+Sarah Prather is within 22 miles from your
+location.  She is married, but her husband is away
+almost every weekend and some weeknights.
+
+2.
+Danielle Owens is within 18 miles from your
+location.  She is married but looking for another
+relationship while her husband is on the road.
+
+Email address and Pictures of your matches are available:
+http://valentinescenter.com/d/6.php
+
+
+Not For Me?
+http://valentinescenter.com/bye/

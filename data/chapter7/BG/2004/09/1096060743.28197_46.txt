@@ -1,0 +1,254 @@
+Return-Path: <postmaster@orientationcanada.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5137 invoked by uid 115); 24 Sep 2004 18:25:39 -0000
+Received: from postmaster@orientationcanada.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(217.199.170.90):. 
+ Processed in 0.275012 secs); 24 Sep 2004 18:25:39 -0000
+Received: from ns.basque-hebergement.net (217.199.170.90)
+  by churchill.factcomp.com with SMTP; 24 Sep 2004 18:25:39 -0000
+Received: (from 63gpt95c@localhost)
+	by ns.basque-hebergement.net (8.10.2/8.10.2) id i8OIN3c17440;
+	Fri, 24 Sep 2004 20:23:03 +0200
+Date: Fri, 24 Sep 2004 20:23:03 +0200
+Message-Id: <200409241823.i8OIN3c17440@ns.basque-hebergement.net>
+X-Authentication-Warning: ns.basque-hebergement.net: 63gpt95c set sender to postmaster@orientationcanada.net using -f
+From: postmaster@orientationcanada.net
+Reply-To: postmaster@orientationcanada.net
+X-Sender: postmaster@orientationcanada.net
+To: bruceg@em.ca
+X-Mailer: PG-MAILINGLIST PRO L3036
+X-Priority: 3
+Subject: PRESS RELEASE Immediate Distribution*
+MIME-Version: 1.0
+Content-type: text/html; charset="iso-8859-1"
+
+<html>
+<head>
+<style type="text/css">
+<!--
+.regulier {
+font-size: 14px;
+font-family: "Times New Roman", Times, serif;
+font-weight: normal;
+}
+.bold {
+font-size: 16px;
+font-weight: bold;
+}
+.petit {font-size: 12px}
+.bleu {
+font-size: 16px;
+font-weight: bolder;
+color: #000099;
+}
+a:link {
+color: #000099;
+}
+a:visited {
+color: #000099;
+}
+a:hover {
+color: #FF0000;
+}
+a:active {
+color: #000099;
+}
+.style2 {font-style: italic}
+.style3 {
+font-size: 16px;
+font-weight: bold;
+color: #000099;
+font-style: italic;
+font-family: Georgia, "Times New Roman", Times, serif;
+}
+.style4 {font-weight: bold}
+.style7 {font-size: 9px}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html;
+charset=iso-8859-1"></head>
+
+<body>
+<table width="857"  border="0" align="center">
+  <tr class="regulier">
+    <td width="329" class="style2"><a
+href="http://www.orientationquebec.ca/pages/messages/fr.asp">COMMUNIQUE
+- FRAN&Ccedil;AIS DISPONIBLE ICI</a></td>
+    <td width="514" align="right" class="style2">
+      <p align="right"><i><font color="navy" size="1" face="Arial"><span style="color: navy; mso-ansi-language: EN-CA" lang="EN-CA">To</span></font></i><font face="Arial"><span style="color: navy; mso-ansi-language: EN-CA"><font color="navy" size="1"><span style="color: navy; mso-ansi-language: EN-CA" lang="EN-CA"><i><span lang="EN-CA" style="FONT-SIZE: 10pt; COLOR: navy; FONT-STYLE: italic; FONT-FAMILY: 'Arial Narrow'; mso-ansi-language: EN-CA">
+      unsubscribe from our annual list <strong><b style="mso-bidi-font-weight: normal; mso-ansi-font-weight: normal"><u><font face="Arial Narrow" color="navy"><span lang="EN-CA" style="FONT-WEIGHT: normal; COLOR: navy; FONT-FAMILY: 'Arial Narrow'; mso-bidi-font-size: 10.0pt; mso-ansi-language: EN-CA">named</span></font></u></b></strong>
+      «ANNUAL MAILING INQUIRY» go</span></i>
+      below</span></font></span></font></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849"><hr></td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849"><table width="100%"  border="1">
+      <tr>
+        <td width="15%" class="bold">FROM:</td>
+        <td width="85%" class="regulier">Orientation-Canada</td>
+      </tr>
+      <tr>
+        <td width="15%" class="bold">DATE:</td>
+        <td width="85%" class="regulier">September 21, 2004</td>
+      </tr>
+      <tr>
+        <td width="15%" class="bold">OBJECT:</td>
+        <td width="85%" class="bold"><u>Canadian Government Grants
+Repertory
+2004-2005<br>
+          R&eacute;pertoire de Subventions Canada-Qu&eacute;bec
+2004-2005</u></td>
+      </tr>
+      <tr>
+        <td class="bold">RE:</td>
+        <td class="regulier">TORONTO (CP) &ndash; June 02, 2004 &ndash;
+&quot;$18 BILLIONS ($) of dollars are handed out (by Ottawa) each year
+in
+grants and loans of all kinds according to Mr Stephen Harper, speaking
+at
+the Toronto Chamber of Commerce (&hellip;)</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849"><hr color="#0000CC"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" class="bleu" width="849">*** PRESS RELEASE
+***</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="regulier" width="849"><font size="2">Newly revised, the most
+complete<b> </b></font><b><font face="Arial" size="1">repertor<span style="color: windowtext; mso-bidi-font-family: Times New Roman; mso-ansi-language: EN-CA" lang="EN-CA"><font color="black">ies</font></span> of
+      grants</font></b><font size="2"><b>, loans and expert-assistance programs </b> available in Canada ever published, with over 300 to
+450
+pages and containing more then <strong>6,500 regularly updated
+programs</strong>, are now available for those seeking financial help.
+It
+also includes a colourful electronic version and an exceptional
+<strong>update service</strong> via the internet.</font></td>
+  </tr>
+  <tr>
+    <td class="style4" colspan="2" width="849">&nbsp;</td>
+  </tr>
+  <tr class="bold">
+    <td width="329">See the eBookPro&trade; <a
+href="http://www.orientationquebec.com/orcanada/pages/en/frame.asp?lapag
+e=de
+mo.asp">demo here.</a></td>
+    <td width="514">Info: 819-327-2962</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" width="849"><hr color="#0000CC"></td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849"><div align="justify" class="regulier"><span
+class="bleu"> More Than Simple Directories</span><br>
+      <span class="regulier">The wonderful 2004-05 Publications
+</span>are
+the <strong>Research Tools</strong> by excellence because they allied
+the
+printed manual with the latest technology and <em>avant-garde</em>
+digital
+functions.
+      </div>
+      <p align="justify" class="regulier"><span class="bleu">Great
+Package
+Deals</span><br>
+      Now offered in three package deals, they each include: a
+<strong>Publication Printed on (98-W) quality paper</strong>, a
+twelve-month
+professional <strong>Update Service</strong> that keeps members
+instantly
+informed of new available programs and, a <strong>Digitized
+version</strong>
+of the guide presented as a full-colour <strong>eBookPro&trade;</strong>
+document.</p>
+    <p align="justify" class="regulier"><span class="bleu">E-Books With
+Hyperlinks</span><br>
+    The practical Electronic version comes with an integrated mini
+<strong>Search Engine</strong> and direct access
+<strong>Hyperlinks</strong>
+to the websites offering the programs for faster results in your
+research.
+In some cases, the price of the publication could be
+<strong>tax-deductible</strong>. A special French language Repertory is
+available for the province of Quebec only. A brand new American Grants
+version is also available.</p></td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849" ><hr color="#0000CC"><hr color="#0000CC"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" class="bold" width="849">It is now possible to
+get
+any package directly from our Web-Site<br>
+    Or by Mail, Fax or Phone</td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" class="bold" width="849">Information: (819)
+327-2962
+ext. 235</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" class="bold" width="849"><a
+href="http://www.OrientationCanada.net">www.OrientationCanada.net</a></t
+d>
+  </tr>
+  <tr>
+    <td width="329" align="center" valign="middle" class="regulier"><div
+align="right"><img
+src="http://www.orientationquebec.ca/orcanada/images/autres/trio_can_bla
+nc.j
+pg" width="250" height="187"></div></td>
+    <td width="514" align="right" valign="bottom" class="petit"><div
+align="left"><span class="style7">LEGAL DEPOSIT<br>
+  ISSN 1710-5382<br>
+  ISSN 1710-5404<br>
+  ISSN 1712-2619</span><br>
+  Library &amp; Archives Canada<br>
+  Quebec National Library</div></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="bold" width="849"><div align="center">*Distributors are
+welcome <br>
+      Product elaborated by: <span
+class="style3">Shawbridge-Media</span></div></td>
+  </tr>
+  <tr>
+    <td colspan="2" width="849"><hr color="#0000CC"></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="petit" width="849"><strong>In conformity with the
+&quot;Can-Spam act 2003-04&quot; and the &quot;Web trust of AC&quot;
+</strong><br>
+    The electronic addresses of our clients are kept strictly
+confidential
+and are never communicated to any third party. If you are no longer
+interested in receiving your annual update notice of grants, loans and
+subsidies available or if you have received this email by error, then
+please
+<a
+href="http://www.orientationquebec.com/orcanada/pages/en/frame.asp?lapag
+e=su
+pprime/index.asp">let us know here</a>. Your email address will be
+removed
+from our privileged clients list in less than 48 hours.</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="petit" width="849"><hr color="#0000CC"></td>
+  </tr>
+</table>
+<br>&nbsp;<br>  <br>
+ <br>
+Pour vous désinscrire, merci de vous rendre ici: <br>
+<a href="http://www.diffusion-immediate.com/cgi-bin/pg-mlpro.cgi?A=bruceg@em.ca&L=19">http://www.diffusion-immediate.com/cgi-bin/pg-mlpro.cgi?A=bruceg@em.ca&L=19</a>
+</body>
+</html>
+

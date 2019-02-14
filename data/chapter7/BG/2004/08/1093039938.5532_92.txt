@@ -1,0 +1,68 @@
+Return-Path: <YMIPAYQLQ@whale-mail.com>
+Delivered-To: em-ca-bait-smoothes@em.ca
+Received: (qmail 18798 invoked by uid 115); 20 Aug 2004 20:53:12 -0000
+Received: from YMIPAYQLQ@whale-mail.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(62.175.44.23):. 
+ Processed in 1.775387 secs); 20 Aug 2004 20:53:12 -0000
+Received: from unknown (HELO B-23-44-ADSL.red.retevision.es) (62.175.44.23)
+  by churchill.factcomp.com with SMTP; 20 Aug 2004 20:53:10 -0000
+X-Message-Info: 5G00IBNzuwfh028LN791vyKKXpsdIGQ31zSTA372iSTNgslM9S890
+Received: from mail pickup service by 62.175.44.23 with Microsoft SMTPSVC;
+	 Fri, 20 Aug 2004 19:47:52 -0200
+Content-Class: urn:content-classes:message
+Reply-To: "Lilian Huber" <YMIPAYQLQ@whale-mail.com>
+From: "Lilian Huber" <YMIPAYQLQ@whale-mail.com>
+To: msuggitt@em.ca
+Cc: rton@em.ca, smith.family@em.ca, bait-sneakily@em.ca, asetar@em.ca, songbird@em.ca, bait@em.ca, user.name@em.ca, bait-portrays@em.ca, lv@em.ca, bait-smoothes@em.ca, design@em.ca, siobhan@em.ca, entrepreneurs@em.ca, djinn@em.ca
+Subject: Olympic Games
+Date: Sat, 21 Aug 2004 03:47:52 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--906395282222349118"
+X-Qmail-Scanner-Message-ID: <109303519167218785@churchill>
+
+----906395282222349118
+Content-Type: text/html;
+	charset="iso-3474-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body bgcolor=3D"#A48038">
+<p align=3D"center"><font color=3D"#FFFFFF" size=3D"4" face=3D"Arial">ATHE=
+NS 2004 Medals
+</font></p>
+<table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-co=
+llapse: collapse" bordercolor=3D"#111111" width=3D"71%" id=3D"AutoNumber1"=
+ height=3D"325">
+  <tr>
+    <td width=3D"34%" height=3D"325"><a href=3D"http://www.ppillsnow.com/p=
+gf/track.php?id=3D56">
+    <img border=3D"0" src=3D"http://www.herballynow.com/pp/img/2.jpg" widt=
+h=3D"332" height=3D"357"></a></td>
+    <td width=3D"12%" bgcolor=3D"#76A8D6" height=3D"325" bordercolor=3D"#7=
+6A8D6">
+    <p align=3D"center">&nbsp;</td>
+    <td width=3D"54%" bgcolor=3D"#76A8D6" height=3D"325" bordercolor=3D"#7=
+6A8D6">&nbsp;<p>
+    <b><a href=3D"http://www.pen1legrowth.biz/pgf/track.php?id=3D56">1 CHN=
+ China 15 11 10 <br>
+    =3D1 USA United States 15 11 10 <br>
+    3 JPN Japan 11 4 2 <br>
+    4 AUS Australia 8 5 8 <br>
+    5 ITA Italy 5 6 3 <br>
+    6 GER Germany 5 4 8 <br>
+    7 FRA France 5 4 5 <br>
+    8 UKR Ukraine 5 1 1 <br>
+    9 RUS Russia 4 9 11 <br>
+    10 KOR Korea 4 8 3 </a> </b></p>
+    <p><b>Aug/20/2004 (</b>Gold, Silver, Bronze)</p>
+    <p><b>Medal status&nbsp; presented by: </b></p>
+    <p><b><font face=3D"Verdana" size=3D"-1"><a href=3D"http://www.pen1leg=
+rowth.biz/pgf/track.php?id=3D56">&lt;&lt;&lt;&lt;PGF-3 , made for 
+    real men!</a></font></b></td>
+  </tr>
+</table>
+</body>
+</html>
+
+----906395282222349118--

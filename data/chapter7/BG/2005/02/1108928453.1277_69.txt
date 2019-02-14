@@ -1,0 +1,51 @@
+Return-Path: <BennieAlpiniaceaeJ5eRf@bluebottle.com>
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 17352 invoked from network); 20 Feb 2005 12:40:50 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 20 Feb 2005 12:40:50 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 20 Feb 2005 12:40:50 -0000
+Received: (qmail 5046 invoked from network); 20 Feb 2005 12:40:48 -0000
+Received: from 69.5.6.152 (unknown [218.155.37.169])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 20 Feb 2005 12:40:47 -0000
+Subject: Please review your Application
+Message-ID: <RYYCse7A5.cPPmlNRaRP4@aerogeology3.cashette.com>
+From: "Maxine" <BennieAlpiniaceaeJ5eRf@bluebottle.com>
+To: "Maxine" <BennieAlpiniaceaeJ5eRf@bluebottle.com>
+Cc: lists-bikini@bruce-guenter.dyndns.org
+Date: Sun, 20 Feb 2005 09:34:45 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--Next_JLUPdw6F2.jFHadYMxRN6"
+
+----Next_JLUPdw6F2.jFHadYMxRN6
+Content-Type: text/plain;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+ntvvoodoo.com/1
+
+That librarian isn't enjoying jumping at the company.
+
+----Next_JLUPdw6F2.jFHadYMxRN6
+Content-Type: text/html;
+ format=flowed;
+ charset=iso-8859-15
+Content-Transfer-Encoding: 7Bit
+
+Thank you for your interest in our program.
+<br><br>
+Please review your submitted information below:
+<br><br>
+<a href="http://ntvvoodoo.com/1">ntvvoodoo.com/1</a>
+<br><br><br>
+<br>That farmer is not missing reading.
+
+----Next_JLUPdw6F2.jFHadYMxRN6--
+
+
+
+

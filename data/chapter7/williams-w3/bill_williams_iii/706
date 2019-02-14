@@ -1,0 +1,26 @@
+Message-ID: <15469251.1075863311932.JavaMail.evans@thyme>
+Date: Tue, 10 Jul 2001 13:40:56 -0700 (PDT)
+From: kourtney.nelson@enron.com
+To: bill.williams@enron.com
+Subject: Creating Customer Finals
+Cc: anna.docwra@enron.com, pete.davis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: anna.docwra@enron.com, pete.davis@enron.com
+X-From: Nelson, Kourtney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KNELSON>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+X-cc: Docwra, Anna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=a4af2333-e268041d-86256497-48c5bd>, Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=341af464-2a22f6ec-86256536-784f45>
+X-bcc: 
+X-Origin: Williams-B
+X-FileName: Williams III, Bill (Non-Privileged).pst
+
+Bill,
+
+With the new system, we need to rework the timelines of some jobs that pull data in.  The creation of Customer Finals must take place prior to our pulling in the schedules to create our estimates.  I am requesting that you implement a 3:00am deadline for Customer Finals to be created.  We will run our job at that time that pulls in schedules.  If the Customer Finals are not created by 3:00, then our job will be run again at 5:00am.  We understand that there are special circumstances that arise and we can deal with those on a case-by-case basis.  This is vital for us to have the finals created in this timeline and makes our lives much easier!
+
+If you do not have any problems with this, please pass on this request to the rest of the RT team and implement this timeline on tonight's shift.  Otherwise, please discuss with me and we can work w/ Pete to square this away.
+
+Thank you for your attention to this, I appreciate it!
+
+Kourtney

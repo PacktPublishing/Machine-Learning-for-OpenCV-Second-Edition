@@ -1,0 +1,48 @@
+Return-Path: <waadtsi@ncool.net>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 13408 invoked by uid 115); 9 Oct 2004 23:10:20 -0000
+Received: from waadtsi@ncool.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(24.250.214.137):. 
+ Processed in 0.785728 secs); 09 Oct 2004 23:10:20 -0000
+Received: from ip24-250-214-137.ga.at.cox.net (24.250.214.137)
+  by churchill.factcomp.com with SMTP; 9 Oct 2004 23:10:19 -0000
+Received: from unknown (HELO localhost) (127.0.0.1)
+    by localhost.imunun.com with SMTP; Sat, 9 Oct 2004 23:12:13 +0000
+Received: from 225.148.53.168 (225.148.53.168[225.148.53.168])
+       by ip24-250-214-137.ga.at.cox.net (IMP) with HTTP
+       for <bait@em.ca>; Sat, 9 Oct 2004 23:12:13 +0000
+Message-ID: <9791091097363533@ip24-250-214-137.ga.at.cox.net>
+From: "Sandy" <waadtsi@ncool.net>
+To: "Connie" <bait@em.ca>
+Subject: Job Offer
+Date: Sat, 9 Oct 2004 23:12:13 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+User-Agent: Internet Messaging Program (IMP) 3.2.2
+X-Originating-IP: 225.148.53.168
+
+<HTML><html>
+<body>
+<P>This proposal is for all individuals who are able to<BR>recognize and 
+appreciate a great business opportunity<BR>when they see one! It is evident that 
+the Internet<BR>arena is rapidly developing and prospering. Connect<BR>and 
+discover the possibilities! <BR> <BR>Work around your schedule, part-time 
+and you will be<BR>given the potential to earn as much as you desire. We<BR>are 
+seeking motivated, driven, success orientated,<BR>open-minded, and reliable 
+individuals. Grab the<BR>opportunity! Follow our proven strategies as we 
+all<BR>crave prosperity.  <BR> <BR>Experienced and dedicated 
+professionals developed our<BR>Internet products that we currently sell through 
+a<BR>variety of websites. Now we are hiring in Canada and<BR>in the United 
+States to boost our company?s profits<BR>and to give various individuals this 
+exciting<BR>opportunity. Starting commission-based salary is<BR>1000-4000 USD a 
+month. Become a part of our team and<BR>we will progress together.   
+<BR> <BR>Please email us your resume or brief information as<BR>well as 
+where you are currently located.  </P>
+<P>Our email : <A 
+href="mailto:personnel@softerra.biz">personnel@softerra.biz</A> 
+</P>
+</body>
+</html>
+</HTML>
+

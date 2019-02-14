@@ -1,0 +1,89 @@
+Received: from mta2p.point.ne.jp (210.188.175.71)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 11:02:33 -0000
+Received: from vc8.point.ne.jp ([211.1.103.136]) by mta2p.point.ne.jp
+          with ESMTP id <20050719110222.OGRA1842.mta2p@vc8.point.ne.jp>
+          for <projecthoneypot@projecthoneypot.org>; Tue, 19 Jul 2005 20:02:22 +0900
+Received: by vc8.point.ne.jp (Scanmail)
+	id B40702AAFA; Tue, 19 Jul 2005 20:00:23 +0900 (JST)
+Date: Tue, 19 Jul 2005 20:00:23 +0900 (JST)
+From: postmaster@point.ne.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="3EC622AA69.1121770823/vc8.point.ne.jp"
+Message-Id: <20050719110023.B40702AAFA@vc8.point.ne.jp>
+Content-Transfer-Encoding: 7bit
+
+This is a MIME-encapsulated message.
+
+--3EC622AA69.1121770823/vc8.point.ne.jp
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Scanmail program at host vc8.point.ne.jp.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+			The Scanmail program
+
+<kf5411606@point.ne.jp>: host 210.188.175.89[210.188.175.89] said: 550 Invalid
+    recipient: <kf5411606@point.ne.jp> (in reply to RCPT TO command)
+
+--3EC622AA69.1121770823/vc8.point.ne.jp
+Content-Description: Delivery error report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; vc8.point.ne.jp
+Arrival-Date: Tue, 19 Jul 2005 20:00:01 +0900 (JST)
+
+Final-Recipient: rfc822; kf5411606@point.ne.jp
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Scanmail; host 210.188.175.89[210.188.175.89] said: 550
+    Invalid recipient: <kf5411606@point.ne.jp> (in reply to RCPT TO command)
+
+--3EC622AA69.1121770823/vc8.point.ne.jp
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Received: from mailwisconsin.com (unknown [218.0.174.165])
+	by vc8.point.ne.jp (Scanmail) with SMTP id 3EC622AA69
+	for <kf5411606@point.ne.jp>; Tue, 19 Jul 2005 20:00:01 +0900 (JST)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz009360690;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: kf5411606@point.ne.jp
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+X-Priority: 3 (Normal)
+Importance: Normal
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body alink=3D"blue" bgcolor=3D"white" link=3D"blue" text=3D"black" vlink=
+=3D"blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color=3D"#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href=3D"http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?183631=
+6">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+starting at $1.99 per dose! UnbelivabIe!</b></body></html>
+
+--3EC622AA69.1121770823/vc8.point.ne.jp--

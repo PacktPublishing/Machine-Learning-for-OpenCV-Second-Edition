@@ -1,0 +1,70 @@
+Return-Path: <IN@casasyrentasinmobiliam.com>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 2677 invoked from network); 18 May 2005 01:23:50 -0000
+Received: from mx01.futurequest.net (mx01.futurequest.net [69.5.6.171])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 18 May 2005 01:23:50 -0000
+Received: (qmail 17528 invoked from network); 18 May 2005 01:23:49 -0000
+Received: from pt02.futurequest.net (pt02.futurequest.net [69.5.6.173])
+  by mx01.futurequest.net ([69.5.6.171])
+  with QMQP via TCP; 18 May 2005 01:23:49 -0000
+Delivered-To: webmaster@ezmlm.org
+Received: (fqmail 2662 invoked from network); 18 May 2005 01:23:49 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 18 May 2005 01:23:49 -0000
+Received: (qmail 4839 invoked from network); 18 May 2005 01:23:49 -0000
+Received: from psanchez (203.red-83-40-17.pooles.rima-tde.net [83.40.17.203])
+  by mx09.futurequest.net ([69.5.6.181])
+  with SMTP via TCP; 18 May 2005 01:23:48 -0000
+From: "Inmobiliam News" <IN@casasyrentasinmobiliam.com>
+To: <webmaster@ezmlm.org>
+X-Mailer: NetMail
+Reply-To: <IN@casasyrentasinmobiliam.com>
+Subject: Ponga su anuncio de forma gratuita
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 18 May 2005 03:23:48
+Message-ID: <200505180323.mail.0@casasyrentasinmobiliam.com>
+
+
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft DHTML Editing Control">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<P>
+<TABLE height=291 cellSpacing=0 cellPadding=0 width=582 border=0>
+  <TBODY>
+  <TR>
+    <TD width=97 height=4>
+      <TABLE height=21 cellSpacing=0 cellPadding=0 width=116 border=0>
+        <TBODY>
+        <TR>
+          <TD class=O vAlign=top borderColor=#ff0000 borderColorLight=#800000 
+          align=right width=128 bgColor=#84b6d6 borderColorDark=#ff0000 
+          height=16>&nbsp;</TD></TR>
+        <TR>
+          <TD class=O vAlign=top borderColor=#ff0000 borderColorLight=#800000 
+          align=right width=128 bgColor=#ffffff borderColorDark=#ff0000 
+          height=16>
+            <P align=center><FONT face="Arial Black" size=2><A 
+            href="http://www.tuanunciogratis.com/"><FONT 
+            color=#ff6600>Tuanunciogratis</FONT></A></FONT></P></TD></TR>
+        <TR>
+          <TD class=O vAlign=top borderColor=#ff0000 borderColorLight=#800000 
+          align=right width=128 bgColor=#84b6d6 borderColorDark=#ff0000 
+            height=1>&nbsp;</TD></TR></TBODY></TABLE></TD>
+    <TD width=49 bgColor=#8c185a height=4>
+      <P align=center><FONT face=Arial><A 
+      href="http://urbajoven.com/"></A></FONT></P></TD>
+    <TD width=48 height=4></TD></TR>
+  <TR>
+    <TD width=191 colSpan=2 height=4></TD>
+    <TD width=97 height=4></TD>
+    <TD width=97 height=4></TD></TR></TBODY></TABLE></P>
+</BODY>
+</HTML>
+
+

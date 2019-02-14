@@ -1,0 +1,42 @@
+Message-ID: <12652366.1075854124592.JavaMail.evans@thyme>
+Date: Tue, 22 Feb 2000 00:30:00 -0800 (PST)
+From: mandy.mackinnon@enron.com
+To: stella.morris@enron.com, fred.boas@enron.com
+Subject: HGPL and KGPL - 3 Rivers Gas
+Cc: pat.clynes@enron.com, daren.farmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pat.clynes@enron.com, daren.farmer@enron.com
+X-From: Mandy MacKinnon
+X-To: Stella L Morris, Fred Boas
+X-cc: Pat Clynes, Daren J Farmer
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Based on the conversation we had  at the meeting last Thursday, I am 
+implementing the following changes to Humble Gas Pipeline and King Ranch Gas 
+Plant.  If you disagree or feel you had a different understanding than the 
+items below, please be sure to call me asap.
+
+1. Input HPLC purchase from HPLR Liquids at meter 8793 (HPL/HGPL).  Remove 
+the 3 Rivers gas from the Interconnect ticket and input on
+ the Purchase Deal.
+
+2. Input HPLC sale to HPLR Liquids at meters 9643 (KGPL/HPL) and 12 
+(KGPL/HGPL).  Remove 3 rivers volumes from the interconnect tickets 
+ at these meters and input on the sales Deals appropriately.
+
+3. Change swing parameters for the King Ranch contracts to swing on Cage 
+Ranch before swinging on 3 Rivers Gas.  This will hopefully allow 
+ the sale for 3 Rivers gas to remain at one meter as much as possible.
+
+I will hopefully have all of these changes made by the end of the day, and 
+have all contracts repathed.  It is my understanding that we are implementing 
+these changes effective Feb. 1st.
+
+Stella,  This may or may not effect repathing of the HPLC gas at meter 9643, 
+based on the swing parameters that you have been using.
+
+Thank you.

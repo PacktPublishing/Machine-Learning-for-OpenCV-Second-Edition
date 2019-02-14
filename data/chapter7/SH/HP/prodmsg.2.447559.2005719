@@ -1,0 +1,92 @@
+Received: from escargot.epm.net.co (200.13.224.6)
+  by projecthoneypotmailserver with SMTP; 19 Jul 2005 10:59:56 -0000
+Received: by escargot.epm.net.co (Postfix)
+	id 7AE74BB54; Tue, 19 Jul 2005 05:59:46 -0500 (COT)
+Date: Tue, 19 Jul 2005 05:59:46 -0500 (COT)
+From: MAILER-DAEMON@escargot.epm.net.co (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: projecthoneypot@projecthoneypot.org
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0BD7EBD18.1121770786/escargot.epm.net.co"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20050719105946.7AE74BB54@escargot.epm.net.co>
+
+This is a MIME-encapsulated message.
+
+--0BD7EBD18.1121770786/escargot.epm.net.co
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host escargot.epm.net.co.
+
+I'm sorry to have to inform you that your message could not be
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<distiner@epm.net.co>: host 200.13.224.11[200.13.224.11] said: 550 5.1.1
+    unknown or illegal alias: distiner@epm.net.co (in reply to RCPT TO command)
+
+--0BD7EBD18.1121770786/escargot.epm.net.co
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; escargot.epm.net.co
+X-Postfix-Queue-ID: 0BD7EBD18
+X-Postfix-Sender: rfc822; projecthoneypot@projecthoneypot.org
+Arrival-Date: Tue, 19 Jul 2005 05:59:46 -0500 (COT)
+
+Final-Recipient: rfc822; distiner@epm.net.co
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; host 200.13.224.11[200.13.224.11] said: 550 5.1.1
+    unknown or illegal alias: distiner@epm.net.co (in reply to RCPT TO command)
+
+--0BD7EBD18.1121770786/escargot.epm.net.co
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Received: from karados.epm.net.co (karados.epm.net.co [200.13.254.196])
+	by escargot.epm.net.co (Postfix) with ESMTP id 0BD7EBD18
+	for <distiner@epm.net.co>; Tue, 19 Jul 2005 05:59:46 -0500 (COT)
+Received: from masa.epm.net.co (masa.epm.net.co [200.13.254.194])
+	by karados.epm.net.co (Postfix) with ESMTP id EE60E46A
+	for <distiner@epm.net.co>; Tue, 19 Jul 2005 05:59:45 -0500 (COT)
+Received: from mailwisconsin.com (unknown [222.133.62.20])
+	by masa.epm.net.co (Postfix) with SMTP id 063A21251
+	for <distiner@epm.net.co>; Tue, 19 Jul 2005 05:58:40 -0500 (COT)
+Received: from 205.214.42.66
+        (SquirrelMail authenticated user projecthoneypot@projecthoneypot.org);
+        by mailwisconsin.com with HTTP id J87Gz038190661;
+        Tue, 19 Jul 2005 10:57:46 +0000
+Message-Id: <ccrtOX.squirrel@205.214.42.66>
+Date: Tue, 19 Jul 2005 10:57:46 +0000
+Subject: Just to her...
+From: "Barry Castillo" <projecthoneypot@projecthoneypot.org>
+To: distiner@epm.net.co
+User-Agent: SquirrelMail/1.4.3a
+X-Mailer: SquirrelMail/1.4.3a
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+
+<html>
+<body alink="blue" bgcolor="white" link="blue" text="black" vlink="blue">
+<b>
+SOFT Viagra at $1.62 per dose<br><font color="#990000">
+Ready to boost your sex life? Positive?</font><br>
+Time to do it right now! <br>
+<a href="http://bjefladghikm.extra-m.info/?cadghikmxssrybjzvtefl?82716337">Order SOFT Viagra at incredibly low prices</a><br><br>
+
+startinq at $1.99 per dose! Unbelivable!</b></body></html>
+
+--0BD7EBD18.1121770786/escargot.epm.net.co--

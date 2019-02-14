@@ -1,0 +1,111 @@
+Message-ID: <32539766.1075854184181.JavaMail.evans@thyme>
+Date: Tue, 20 Jun 2000 07:01:00 -0700 (PDT)
+From: heather.choate@enron.com
+To: heather.choate@enron.com, diane.cook@enron.com, alex.saldana@enron.com, 
+	robert.superty@enron.com, tricia.bowen@enron.com, 
+	sabra.dinari@enron.com, edward.terry@enron.com, joe.casas@enron.com, 
+	christina.sanchez@enron.com, scott.loving@enron.com, 
+	meredith.mitchell@enron.com, victoria.versen@enron.com, 
+	clarissa.garcia@enron.com, beverly.beaty@enron.com, 
+	robert.allwein@enron.com, cindy.vachuska@enron.com, 
+	jesse.villarreal@enron.com, joan.veselack@enron.com, 
+	phillip.villagomez@enron.com, joann.collins@enron.com, 
+	cynthia.franklin@enron.com, angie.zeman@enron.com, 
+	steve.gillespie@enron.com, alvin.thompson@enron.com, 
+	george.smith@enron.com, charles.muzzy@enron.com, 
+	mark.schrab@enron.com, lisa.kinsey@enron.com, 
+	margie.straight@enron.com, reyna.cabrera@enron.com, 
+	darren.espey@enron.com, cora.pendergrass@enron.com, 
+	kirk.lenart@enron.com, wes.dempsey@enron.com, 
+	michael.taylor@enron.com, jacqueline.adams@enron.com, 
+	stacey.brewer@enron.com, suzanne.christiansen@enron.com, 
+	brenda.everett@enron.com, randall.gay@enron.com, 
+	patti.sullivan@enron.com, natalie.baker@enron.com, 
+	denise.squirrel@enron.com, morgan.sharifi@enron.com, 
+	gary.payne@enron.com, kathryn.bussell@enron.com, 
+	mark.mcclure@enron.com, richard.pinion@enron.com, 
+	donna.greif@enron.com, victor.lamadrid@enron.com, 
+	molly.johnson@enron.com, jason.williams@enron.com
+Subject: Unify stress test next week with Sybase 12.0
+Cc: yvette.connevey@enron.com, pat.clynes@enron.com, alex.saldana@enron.com, 
+	daren.farmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: yvette.connevey@enron.com, pat.clynes@enron.com, alex.saldana@enron.com, 
+	daren.farmer@enron.com
+X-From: Heather Choate
+X-To: Heather Choate, Diane H Cook, Alex Saldana, Robert Superty, Tricia Bowen, Sabra L Dinari, Edward Terry, Joe A Casas, Christina Sanchez, Scott Loving, Meredith Mitchell, Victoria Versen, Clarissa Garcia, Beverly Beaty, Robert Allwein, Cindy Vachuska, Jesse Villarreal, Joan Veselack, Phillip Villagomez, Joann Collins, Cynthia Franklin, Angie Zeman, Steve Gillespie, Alvin Thompson, George Smith, Charles T Muzzy, Mark L Schrab, Lisa Kinsey, Margie Straight, Reyna Cabrera, Darren Espey, Cora Pendergrass, Kirk Lenart, Wes Dempsey, Michael Taylor, Jacqueline P Adams, Stacey J Brewer, Suzanne Christiansen, Brenda Everett, Randall L Gay, Patti Sullivan, Natalie Baker, Denise Squirrel, Morgan Sharifi, Gary L Payne, Kathryn Bussell, Mark McClure, Richard Pinion, Donna Greif, Victor Lamadrid, Molly Johnson, Jason Williams
+X-cc: Yvette G Connevey, Pat Clynes, Alex Saldana, Daren J Farmer
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+ 
+
+  Yvette/Pat/Daren- Please send this to your gas schedulers.  
+______________________________________________________________________________
+_____________________________________________________
+
+   
+Hi,
+
+You probably already heard... test of the new Sybase data base release is off 
+for today.  Testing will resume tomorrow, Wed 6/21 at Noon.  People should at 
+least verify their security access today.  If you do not have access, please 
+contact Diane Niestrath at 3-9931 or Dave McMullan at 3-9127.
+
+Diane Niestrath
+
+  
+	
+	
+	From:  Dave Nommensen                           06/16/2000 05:25 PM
+	
+
+To: Susan Harrison/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, Bryce 
+Baxter/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, 
+Randall L Gay/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Edward 
+Terry/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Carrie Hollomon/HOU/ECT@ect
+cc: Jeff Johnson/Corp/Enron@Enron, Scott Williamson/HOU/ECT@ECT, John 
+Pyle/Corp/Enron@ENRON, Jim Ogg/HOU/ECT@ECT, Jaikishore Bharathi/HOU/ECT@ECT, 
+Regan M Smith/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Paul F 
+Poellinger/HOU/ECT@ECT 
+Subject: Unify stress test next week with Sybase 12.0
+
+We have done some preliminary testing of the latest version of Sybase 
+(version 12).  We have seen very positive results from our initial tests and 
+would like to proceed with a "stress test" (not to be confused with me 
+showing up each day at work).  We would like to do 2 tests next week due to 
+hardware and business restrictions.
+
+The test would be similar to those from late-1998 (ah, those were the 
+days!).  We will ask all users, as well as I.T. folks, to run as many of 
+their usual processing during a scripted time frame from approx noon - 1:30pm 
+on Tuesday and Wednesday. Be sure to order some yummy pizza or sandwiches for 
+your staff!
+
+The Sybase 12.0 environment can be accessed via Start/Programs/Test 
+Applications/Unify Applications/Unify Gas-Power Stage.  On the Login window, 
+select server = "ASE 12 Test".  If you usual Production password does not 
+work, try "houston".  If that does not work, try a neighbor's (Audit says 
+that fine, its just a test).  Each user should plan to run several sessions 
+where permissible to simulate a heavy load on the system and to make up for 
+those not able to participate during this time.  Please have your staff try 
+to login some time Monday to insure they have access.
+
+The test script during the time period will be:
+12:00 - 1:30 Logistics:  pathing, nominating, running some reports
+12:20 - 1:30 Volume Management: do your thing
+12:40 - 1:30 Settlements/Accounting:  pile in
+
+Please let me know if your area would NOT be able to assist in this very 
+important test.  The results of these 2 tests will dictate whether we should 
+pursue our migration to this new release in mid-July.  The less bid weeks 
+with poor system performance the better!
+
+Thanks in advance for your help, d.n.
+
+
+
+

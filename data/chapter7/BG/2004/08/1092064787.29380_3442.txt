@@ -1,0 +1,42 @@
+Return-Path: <natasha_dickinson_hz@cicero.tmfweb.nl>
+Delivered-To: bruceg@ezmlm.org
+Received: (fqmail 4851 invoked from network); 09 Aug 2004 10:04:53 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 09 Aug 2004 10:04:53 -0000
+Received: (qmail 8936 invoked from network); 9 Aug 2004 10:04:53 -0000
+Received: from pt01.futurequest.net (pt01.futurequest.net [69.5.6.170])
+  by mx02.futurequest.net ([69.5.6.172])
+  with QMQP via TCP; 09 Aug 2004 10:04:53 -0000
+Delivered-To: webmastgr@ezmlm.org
+Received: (fqmail 4808 invoked from network); 09 Aug 2004 10:04:52 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 09 Aug 2004 10:04:52 -0000
+Received: (qmail 18154 invoked from network); 9 Aug 2004 10:04:52 -0000
+Received: from stamm-camelot.de ([218.90.152.158])
+  by mx07.futurequest.net ([69.5.6.178])
+  with SMTP via TCP; 09 Aug 2004 10:04:52 -0000
+Message-ID: <c32f01c47ded$5a508c7d$ec96bceb@stamm-camelot.de>
+From: "Natasha Dickinson" <natasha_dickinson_hz@cicero.tmfweb.nl>
+To: webmastgr@ezmlm.org
+Subject: 96-Refinance to 2.9%
+Date: Mon, 09 Aug 2004 08:46:46 +0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+Content-Length: 404
+
+<html>
+Hi<p>
+
+Would you REFlNANCE if you knew you'd S<jdkdeshclbysz>AVE TH0US<jxhogpccwhuhf>ANDS?<p>
+
+We'll get you lnterest as low as 2.98%.<p>
+
+Don't believe me? Fill out our small online questionaire and we'll show you how.<p>
+
+Get the house and/or car you always wanted, it only takes 2 minutes of your time:<br>
+<a href="http://www.bralamone.com/new/index.php">http://www.bralamone.com</a>
+</html>

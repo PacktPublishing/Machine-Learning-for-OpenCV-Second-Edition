@@ -1,0 +1,82 @@
+Message-ID: <21690087.1075840433364.JavaMail.evans@thyme>
+Date: Fri, 21 Sep 2001 13:27:20 -0700 (PDT)
+From: brian.redmond@enron.com
+To: gary.bryan@enron.com, jd.buss@enron.com, mark.knippa@enron.com, 
+	bryan.hull@enron.com, j..farmer@enron.com, david.baumbach@enron.com, 
+	keith.fraley@enron.com, troy.denetsosie@enron.com, 
+	jim.coffey@enron.com, jim.schwieger@enron.com
+Subject: Texas market analysis
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Redmond, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BREDMON>
+X-To: Bryan, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gbryan>, Buss, JD </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jeremy_buss>, Knippa, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mknippa>, Hull, Bryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhull>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Fraley, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kfraley>, Denetsosie, Troy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdenets>, Coffey Jr., Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcoffey>, Schwieger, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jschwie>
+X-cc: 
+X-bcc: 
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Team:
+
+I have asked Troy Denetsosie to be responsible for compiling and updating a detailed supply, market and infrastructure analysis of Texas.  This information will support both our origination and trading activities and we will use a lot of the format (website and other) developed by the other regions.  Spcifically,  Troy will offload a lot the analysis work that JD is currently doing on the market side and he will work closely with Bryan Hull to support the more immediate needs of the traders.
+
+The deliverables from Troy will be: (1) a Texas section on the gas fundamentals webpage modeled after the Central region, (2) a daily report on gas flows, deals, basis positons, etc., (3) a detailed infrastructure analysis (maps, flows, etc) that will support the development of our supply/market hub positions.  Please give him your support.
+
+Regards,
+Brian
+
+ -----Original Message-----
+From: 	Bryan, Gary  
+Sent:	Friday, September 21, 2001 10:42 AM
+To:	Redmond, Brian
+Subject:	FW: CRM Database
+
+As you know, much of JD, Mark and my time to date has been geared around finding what companies, customers, phone numbers and past business that we may have done with the customers we started with and move forward from that starting point. In the few short weeks we have addressed, uncovered and started down the road to what I hope to be a very profitable 2001-2002. 
+
+The CRM Database should be a great tool for those that follow. It appears that the originators would log in calls, meetings and any other business that gets discussed with the customer. This would have been a great tool for our group to have had in starting from ground zero.
+
+There still appears to be some developmental issues around this program. In the meantime, we are using a number of spreadsheets to keep up with our business. Should the CRM Database not be approved or delayed, we have decided to populate the ACT 2000! database. This is currently supported by Enron but is not as user friendly as the CRM would be. The cost for ACT 2000! is relatively free!
+
+If you have any questions, please let me know. 
+
+
+ -----Original Message-----
+From: 	Buss, JD  
+Sent:	Friday, September 21, 2001 9:14 AM
+To:	Bryan, Gary; Knippa, Mark; Redmond, Brian
+Subject:	CRM Database
+
+On Thursday of this past week I went to a meeting regarding the CRM database which is designed by Siebel for the purpose of handling customer information.
+
+The CRM database has only been implemented with trading/origination groups within Enron and provides the following capabilities:
+	1.  Account & Contact Management
+	2.  Activity Tracking & Planning
+	3.  Potential Deal Management
+	4.  Outlook Synchronization
+	5.  Remote Connectivity/Synchronization
+	6.  E-mail from Siebel and records activity
+
+The current Enron groups that use this system are the Enron Industrial Markets that was implemented in May 2001 and the Freight Markets that was implemented in August 2001.  The following is a list of how these groups have been utilizing the system:
+			Industrial MKTs				Freight MKTs
+Users				175					45
+Counterparties			8,200					20,000
+Contacts			14,000					20,000
+Activities			1,200					900
+Quotes									150
+Opportunities			361					11
+
+The following groups have also inquired about this system and having it implemented:
+		EOL
+		Global Mkts
+		EES
+		Transportation
+		East Power Orig
+		Insolvent Debt
+		
+Some of the basic costs and timeline for this system are $120-$150,000 for 20-30 users with a 5 week timeline for implementation.  This is a basic implementation that may not include all of the functionality shown above (i.e., no remote connectivity).  
+
+The reason that I have written this is to show a possible system that could be used by the gas floor origination and trading groups to manage contact information and share data among groups.  The cost to implement this for all of the origination groups does not appear to be prohibitive and it could be implemented in a good time frame.  Some of the issues are coordination among the groups and the desire to share information.  Let me know if you think this is a viable possibility and what would be the best way to approach the other origination groups.
+
+Colin Tonks, database/system guy, within the Fundamentals group was also at the meeting and thinks this would work great.  He would be the individual coordinating efforts from the natural gas system side.
+Thanks,
+JD

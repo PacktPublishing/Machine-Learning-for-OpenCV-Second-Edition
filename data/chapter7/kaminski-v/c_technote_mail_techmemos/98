@@ -1,0 +1,42 @@
+Message-ID: <30681369.1075856596070.JavaMail.evans@thyme>
+Date: Tue, 7 Nov 2000 14:22:00 -0800 (PST)
+From: sharad.agnihotri@enron.com
+To: stinson.gibner@enron.com, zimin.lu@enron.com, vince.kaminski@enron.com
+Subject: Contstraints on the shape of a smile
+Cc: steven.leppard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.leppard@enron.com
+X-From: Sharad Agnihotri
+X-To: Stinson Gibner, Zimin Lu, Vince J Kaminski
+X-cc: Steven Leppard
+X-bcc: 
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Stinson ,Vince ,Zimin,
+
+Here's a brief document on constraints on the shape of a smile for a fixed 
+expiry date.
+the constraints are neccessary and sufficient for no arbitrage in this case.
+I've used a template created by Dr. Leppard which is why it looks so scary. 
+
+If you need constraints in the time direction then I will have to think a 
+little bit more about it.
+I think constraints in this direction are very model depenendent e.g. 
+stochastic volatility and local volatility models
+will throw up different constraints.
+
+
+
+
+
+Steve,
+I am not sure if our traders (or quants for that matter) are aware of these 
+constraints
+and some desks are beginning to build smiles...
+
+Regards
+Sharad
+

@@ -1,0 +1,263 @@
+Return-Path: <info@e-mktng.com>
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 2080 invoked from network); 18 Nov 2004 20:25:47 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.3]); 18 Nov 2004 20:25:47 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Nov 2004 20:25:47 -0000
+Received: (qmail 21477 invoked from network); 18 Nov 2004 20:25:47 -0000
+Received: from e-mktng.com (unknown [69.6.66.62])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 18 Nov 2004 20:25:46 -0000
+From: "WallSt.net" <info@e-mktng.com>
+Subject: Hot Stock Today!!
+To: cvs@bruce-guenter.dyndns.org
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";
+	charset="us-ascii"
+MIME-Version: 1.0
+Reply-To: info@e-mktng.com
+Date: Thu, 18 Nov 2004 14:22:16 -0600
+Content-Length: 13761
+Lines: 239
+
+This is a multi-part message in MIME format
+
+--=_NextPart_2rfkindysadvnqw3nerasdf
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Special Situation Report - CHMS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+color: #FFFFFF; font-weight: bold; &#123;color: #FFFFFF; font-weight: bold;&#125;
+font-size: x-small &#123;font-size: x-small&#125;
+font-family: Verdana, Arial, Helvetica, sans-serif &#123;font-family: Verdana, Arial, Helvetica, sans-serif&#125;
+font-size: 10px &#123;font-size: 10px&#125;
+style12 &#123;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; &#125;
+body &#123;
+	background-image: url();
+&#125;
+font-size: x-small;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic; &#123;
+	font-size: x-small;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+&#125;
+font-style: italic &#123;font-style: italic&#125;
+color: #CC0000 &#123;color: #CC0000&#125;
+font-size: small;
+	font-family: "Times New Roman", Times, serif; &#123;
+	font-size: small;
+	font-family: "Times New Roman", Times, serif;
+&#125;
+color: #FFFFFF &#123;color: #FFFFFF&#125;
+color: #CC3300 &#123;color: #CC3300&#125;
+font-size: small; font-family: "Times New Roman", Times, serif; color: #FFFFFF; &#123;font-size: small; font-family: "Times New Roman", Times, serif; color: #FFFFFF; &#125;
+font-size: 12px;
+	font-weight: bold; &#123;
+	font-size: 12px;
+	font-weight: bold;
+&#125;
+font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF; &#123;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+&#125;
+-->
+</style>
+</head>
+
+<body bgcolor="#CCCCCC" link="#FF0000" vlink="#CC0000" alink="#CC0000">
+<div align="center">
+  <table width="776" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+    <!--DWLayoutTable-->
+    <tr>
+      <td width="393" height="37" valign="middle" bgcolor="#CC0000"><div align="right"><font color="#FFFFFF" size="6" face="Arial, Helvetica, sans-serif"> China Mobility &nbsp;</font></div></td>
+      <td colspan="2" valign="top" bgcolor="#000000"><div align="left"><span style="color: #FFFFFF; font-weight: bold;"><font color="#FFFFFF" size="6" face="Arial, Helvetica, sans-serif">Solutions</font><font size="6" face="Arial, Helvetica, sans-serif">
+
+ Inc .</font></span></div></td>
+    </tr>
+    <tr>
+      <td height="100" colspan="3" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/new_logo.jpg" width="773" height="100"></td>
+    </tr>
+    <tr valign="middle" bgcolor="#333333">
+      <td height="41" colspan="3" bgcolor="#CC0000"><div align="center"><em><strong><font color="#FFFFFF" size="4" face="Arial, Helvetica, sans-serif">SPECIAL SITUATION REPORT (OTCBB: CHMS) </font></strong></em></div></td>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="3" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <!--DWLayoutTable-->
+          <tr>
+            <td height="60" colspan="7" valign="middle" bgcolor="#000000"><div align="center"><font color="#FFFFFF" size="5" face="Arial, Helvetica, sans-serif"><strong> CHMS Pioneering Explosive Wireless Niche In China
+
+<br>
+            </strong></font></div></td>
+          </tr>
+          <tr>
+            <td height="189" colspan="6" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/bodyText_header1.gif" width="342" height="189"></td>
+            <td width="281" align="right" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/chmsPic.jpg" width="280" height="189"></td>
+          </tr>
+          <tr valign="middle">
+            <td height="188" colspan="7" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/bodyText_header2.gif" width="622" height="160"></td>
+          </tr>
+          <tr valign="middle">
+            <td height="30" colspan="3" valign="middle" bgcolor="#CC0000"><div align="left"><strong><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;Corporate Summary </font></strong></div></td>
+            <td width="32" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/corner.gif" width="32" height="30"></td>
+            <td width="50">&nbsp;</td>
+            <td width="32">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr valign="middle">
+            <td height="2" colspan="7" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/redline.gif" width="616" height="2"></td>
+          </tr>
+          <tr valign="middle">
+            <td height="150" colspan="7" valign="middle"><p align="justify"><img src="http://www.i-onlinemail.net/cimg01/wallst/bodyText_corpSum.gif" width="622" height="139"></p></td>
+          </tr>
+          <tr valign="middle">
+            <td height="30" colspan="3" align="left" valign="middle" bgcolor="#CC0000"> <strong><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;Industry Overview </font></strong></td>
+            <td valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/corner.gif" width="32" height="30"></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr valign="middle">
+            <td height="2" colspan="7" valign="top"><img src="../redline.gif" width="616" height="2"></td>
+          </tr>
+          <tr valign="middle">
+            <td height="328" colspan="7" valign="top"><p align="justify"><font size="2" face="Arial, Helvetica, sans-serif">                <br>
+                <img src="http://www.i-onlinemail.net/cimg01/wallst/bodyText_indust.gif" width="622" height="293"><br>
+            </font></p></td>
+          </tr>
+          <tr valign="middle">
+            <td height="30" colspan="5" align="left" valign="middle" bgcolor="#CC0000">&nbsp;&nbsp;<strong><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">Reasons To Consider This Stock</font></strong></td>
+            <td valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/corner.gif" width="32" height="30"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr valign="middle">
+            <td height="2" colspan="7" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/redline.gif" width="616" height="2"></td>
+          </tr>
+          <tr valign="middle">
+            <td height="565" colspan="7" valign="middle" bgcolor="#FFFFFF"><div align="justify">
+                <p><font face="Arial, Helvetica, sans-serif"><strong><font size="2"><br>
+                  <img src="http://www.i-onlinemail.net/cimg01/wallst/bodyText_reason.gif" width="622" height="530"><br>
+                  <br>
+                  </font></strong></font><font size="2" face="Arial, Helvetica, sans-serif">
+                  
+                  </font></p>
+            </div></td>
+          </tr>
+          <tr valign="middle">
+            <td width="151" height="30" valign="middle" bgcolor="#CC0000"><div align="left"><strong><font color="#FFFFFF" size="3" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;Conclusion</font></strong></div></td>
+            <td width="32" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/corner.gif" width="32" height="30"></td>
+            <td width="45">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr valign="middle">
+            <td height="2" colspan="7" valign="top"><img src="http://www.i-onlinemail.net/cimg01/wallst/redline.gif" width="616" height="2"></td>
+          </tr>
+          <tr valign="middle" bgcolor="#FFFFFF">
+            <td height="145" colspan="7" valign="middle"> <div align="justify">            
+                <p><img src="http://www.i-onlinemail.net/cimg01/wallst/bodyText_conc.gif" width="622" height="113"></p>
+                
+            </div></td>
+          </tr>
+          <tr>
+            <td height="1"><img src="../../newsletter/spacer1" alt="" width="151" height="1"></td>
+            <td><img src="../../newsletter/spacer1" alt="" width="32" height="1"></td>
+            <td><img src="../../newsletter/spacer1" alt="" width="45" height="1"></td>
+            <td><img src="../../newsletter/spacer1" alt="" width="32" height="1"></td>
+            <td><img src="../../newsletter/spacer1" alt="" width="50" height="1"></td>
+            <td><img src="../../newsletter/spacer1" alt="" width="32" height="1"></td>
+            <td><img src="../../newsletter/spacer1" alt="" width="281" height="1"></td>
+          </tr>
+      </table></td>
+      <td width="151" height="75" valign="top"><a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4744430E430E400E40464245414A450E08.aspx'><img src="http://www.i-onlinemail.net/cimg01/wallst/CHMSAudBut.jpg" width="148" height="75" border="0"></a></td>
+    </tr>
+    <tr>
+      <td height="614" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#0066CC">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="151" height="614" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CC0000">
+              <!--DWLayoutTable-->
+                <tr>
+                  <td width="151" height="44" align="center" valign="middle" bgcolor="#333333"><span style="font-size: 12px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;">Company's Profile </span></td>
+                </tr>
+                <tr>
+                  <td height="177" valign="middle" bgcolor="#999999"><img src="http://www.i-onlinemail.net/cimg01/wallst/graph.jpg" width="150" height="106"></td>
+                </tr>
+                <tr>
+                  <td height="393" align="center" valign="middle" bgcolor="#CC0000"><div align="center" style="font-size: x-small">
+                      <p style="font-size: 10px"><span style="font-style: italic"><font color="#FFFFFF"><font color="#FFFFFF"><span style="font-family: Verdana, Arial, Helvetica, sans-serif">            <span style="font-size: 10px"></span></span><span style=""><span style="font-size: 10px"><strong><font face="Verdana, Arial, Helvetica, sans-serif">Contact Information</font></strong><font face="Verdana, Arial, Helvetica, sans-serif"><br>
+                        789 W. Pender St.<br>
+                        Suite 900<br>
+                        Vancouver, BC V6C 1H2<br>
+                        <br>
+                          
+                                </font></span></span></font></font></span><font face="Verdana, Arial, Helvetica, sans-serif"><span style="style12">
+                        <font color="#FFFFFF"><font color="#FFFFFF">          <br>
+                        <strong>Trading Symbol</strong><br>
+                        (OTCBB: CHMS) <br>
+                        <br>
+                        <br>                        
+                        <strong>Recent Price </strong><br>
+                        $0.22<br>
+                        <br>
+                        <br>
+                        <strong>52Wk Range</strong><br>
+                        $1.01 - $0.16<br>
+                        <br>
+                        <strong><br>
+                        Shares Outstanding </strong><br>
+                        15.8 Million <br>
+                        <br>
+                        <br>
+                        <strong>Transfer Agent<br>
+                        </strong>Holladay Stock Transfer, Scottsdale, AZ 85251</font></font></span></font><span style="style12"><font color="#FFFFFF"><font color="#FFFFFF"><br>
+                      </font><font color="#FFFFFF"></font></font><font color="#FFFFFF"><font color="#FFFFFF"></font></font></span>                                     </p>
+                  </div></td>
+                </tr>
+                <!--DWLayoutTable-->
+                <!--DWLayoutTable-->
+                <!--DWLayoutTable-->
+            </table></td>
+          </tr>
+                                          </table></td>
+    </tr>
+    <tr>
+      <td height="1063" valign="bottom"><img src="http://www.i-onlinemail.net/cimg01/wallst/chmsSidePic.jpg" width="151" height="1063"></td>
+    </tr>
+    <tr>
+      <td height="150" colspan="3" valign="top" bgcolor="#333333"><p align="justify"><img src="http://www.i-onlinemail.net/cimg01/wallst/disc.gif" width="774" height="165" border="0"></p></td>
+    </tr>
+    <tr>
+      <td height="1"><img src="../../newsletter/spacer1" alt="" width="392" height="1"></td>
+      <td width="229"><img src="../../newsletter/spacer1" alt="" width="229" height="1"></td>
+      <td><img src="../../newsletter/spacer1" alt="" width="151" height="1"></td>
+    </tr>
+  </table>
+</div>
+<br><br><table width='500' border='0' align='center' cellpadding='2' cellspacing='3'><tr><td align='center'> <p align='center'>
+<div align='center'><a href='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4744430E430E08.aspx'><img src='http://www.infoemail-web.com/img.gif' width='531' height='80' border='0'></a>
+<font size='1' face='Arial, Helvetica, sans-serif'><br><img src='http://www.infoemail-web.com/080E1104013210000711175F1507171C0617005C160B1C161C015C1D00150E434A4744430E430E430E420E08.aspx'>
+</font><font color="#999999" face="arial, verdana" size="2">WallSt.net &#183; 222 South Westmonte Dr., Suite 210 &#183; Altamonte Springs, FL 32714</font></p></td></tr></table></body>
+</html>
+
+
+--=_NextPart_2rfkindysadvnqw3nerasdf--

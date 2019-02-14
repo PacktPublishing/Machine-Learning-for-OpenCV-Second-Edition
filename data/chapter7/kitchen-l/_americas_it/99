@@ -1,0 +1,69 @@
+Message-ID: <4836236.1075840862050.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 14:20:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com, 
+	philippe.bibi@enron.com, beth.perlman@enron.com, 
+	stephen.stock@enron.com
+Subject: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find below the weekly status update for the Gas Trading Vision project and the attached file for the updated project timelines.
+
+GTV status meeting attendees:  Zhiyong Wei, Russ Severson, Jeremy Wong, Geoff Storey, Jay Krish, Mike Swaim, George Grant, Bill Fortney, Chuck Ames.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes for the view aggregation have been completed.
+o	Expandable Total in Cash Position has been completed.
+?	Single point of deal entry for term deals:
+o	Released to production.
+?	Gas Daily deals:
+o	Revisions for changes to PortCalc application to create GDI calc in ERMS are in user test.
+o	The development for the Curve shift reports has been completed.
+o	Change CPR PortCalc to value outer month positions is in test.
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production.
+?	Saving different views in TDS:
+o	Completed and is currently in test.
+?	Capability for desk roll-ups on an ad hoc basis (phase 2):
+o	New process for roll-up aggregators has been completed.
+?	Option Grid (phase 2):
+o	Released to production.
+?	Gas Daily options (phase 2):
+o	Released to production.
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options has been completed in TAGG.
+o	Development of loading correlation curves has been completed.
+?	Transport Deal Capture & Valuation (phase 2):
+o	Creation of new deal entry type & database changes has been completed.
+
+Plans for the week ending 6/29/01:
+?	Continue IT development of Phase I items.
+o	Optimize the position manager's performance.
+?	Continue IT development of Phase II issues.
+o	Change PortCalc to value spread options.
+o	Option reports (PL reports).
+o	Change to TAGG/ERMS Translator for transport deal capture.
+
+Issues:
+None
+
+Notes
+?	Position roll-up process hangs sometimes in the production environment. This bug has been fixed in the parallel environment. The developer is now applying the fix to the production code.
+?	The performance of loading curve to the position manager has been improved in the parallel environment. The same change will be applied to the production code.
+?	We need to look into the current way of computing curve shift for Gas Daily options because it creates a large second order amount.
+
+
+ 
+
+Thanks
+
+Zhiyong

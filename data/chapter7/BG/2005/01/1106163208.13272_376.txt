@@ -1,0 +1,54 @@
+Return-Path: <donumunna@ec21.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5747 invoked by uid 115); 19 Jan 2005 09:33:31 -0000
+Received: from donumunna@ec21.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(203.233.205.152):. 
+ Processed in 0.234795 secs); 19 Jan 2005 09:33:31 -0000
+Received: from mail1.ec21.com (HELO mail.ec21.com) (203.233.205.152)
+  by churchill.factcomp.com with SMTP; 19 Jan 2005 09:33:29 -0000
+Received: from donumunna@ec21.com ( [203.233.205.152])
+	by mail2.ec21.com (DeepMTA 3.3.41)
+	with ESMTP id 1106126844440741.2571@mail2.ec21.com
+	for <bruceg@em.ca>; Wed, 19 Jan 2005 18:27:24 +0900
+From: =?US-ASCII?B?ImRvbnVtdW5uYSI=?= <donumunna@ec21.com>
+To: donumunna3@web-mail.com.ar
+Subject: =?US-ASCII?B?QnVzaW5lc3MgT2ZmZXI=?=
+Content-Type: multipart/alternative;
+	boundary="========_1106126844298519_========"
+MIME-Version: 1.0
+X-Mailer: DeepMail V.3.5.0.0
+X-IP: 203.233.205.152
+X-FROM-DOMAIN: ec21.com
+X-FROM-EMAIL: donumunna@ec21.com
+Date: Wed, 19 Jan 2005 18:27:24 +0900
+Message-ID: <1106126844440741.2571@mail2.ec21.com>
+
+--========_1106126844298519_========
+Content-Type: text/plain;
+	charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+
+
+--========_1106126844298519_========
+Content-Type: text/html;
+	charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<img src="http://mail.ec21.com/cgi-bin/setconfirm.cgi?k=1106126844631620389139&u=donumunna&d=ec21.com" width=1 height=1>
+<HTML>
+<HEAD>
+<STYLE>
+BODY{FONT-FAMILY: Gulim;FONT-SIZE: 9pt;}
+P {margin-top:2px;margin-bottom:2px;}
+</STYLE>
+</HEAD>
+
+<BODY><P>&nbsp;</P></BODY>
+</HTML>
+
+
+
+--========_1106126844298519_========--
+
+

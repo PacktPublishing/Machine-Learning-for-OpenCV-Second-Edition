@@ -1,0 +1,54 @@
+Message-ID: <29803628.1075854125063.JavaMail.evans@thyme>
+Date: Thu, 24 Feb 2000 06:39:00 -0800 (PST)
+From: stella.morris@enron.com
+To: daren.farmer@enron.com
+Subject: 1/2000 Meter 9643 Three Rivers Issues
+Cc: fred.boas@enron.com, howard.camp@enron.com, robert.lloyd@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: fred.boas@enron.com, howard.camp@enron.com, robert.lloyd@enron.com
+X-From: Stella L Morris
+X-To: Daren J Farmer
+X-cc: Fred Boas, Howard B Camp, Robert E Lloyd
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Fred is trying to set up accounting arrangments to cover the Swift deal.  Can 
+you please verify that you made this purchase from Swift?  If so, is there 
+another deal to replace deal #114096 of should this deal be extended into 
+January.    If I should forward this to someone else, please let me know.  
+
+Thanks for you help, Stella
+
+---------------------- Forwarded by Stella L Morris/HOU/ECT on 02/24/2000 
+02:33 PM ---------------------------
+
+
+Fred Boas
+02/24/2000 11:25 AM
+To: Stella L Morris/HOU/ECT@ECT
+cc: Robert E Lloyd/HOU/ECT@ECT, Howard B Camp/HOU/ECT@ECT 
+Subject: 1/2000 Meter 9643 Three Rivers Issues
+
+Stella:
+
+The Swift deal is not pathed correctly in POPS.  I set up an accounting 
+arrangement on the 012-41500-02-015 contract with the Track ID 80705.  Would 
+you put the contract in POPS with the associated Track ID?  
+
+The transportation contract (012-41500-02-003) for the Liquids Replacement 
+gas is not POPS.  I looked in Path Manager and there is no deal for it 
+either.  In December, the deal for this gas was 114096.  Could you extend the 
+deal or get me the number for the new deal if there is one?  I need to set up 
+an accounting arrangement so I will need for you to verify the deal number 
+and transportation contract that this gas is supposed to go on.  When I set 
+up the accounting arrangement I will let you know what the Track ID is so you 
+can put the contract at meter 9643.
+
+Let me know when all of this is done so that I can reallocate the meter.
+
+Thanks,
+
+Fred

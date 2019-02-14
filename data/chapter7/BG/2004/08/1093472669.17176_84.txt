@@ -1,0 +1,126 @@
+Return-Path: <ora.90ith@aol.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3268 invoked by uid 115); 23 Aug 2004 03:50:09 -0000
+Received: from ora.90ith@aol.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(221.163.75.222):. 
+ Processed in 1.102542 secs); 23 Aug 2004 03:50:09 -0000
+Received: from unknown (HELO 220.28.208.46) (221.163.75.222)
+  by churchill.factcomp.com with SMTP; 23 Aug 2004 03:50:08 -0000
+Return-Path: Received: from hdbosdmz1.haleanddorr.com (hdbosdmz1.haleanddorr.com [148.139.190.20]) by mailrelay1-gui.server.ntli.net with SMTP; Aug, 23 2004 00:24:36 +0300
+Received: from mailstore1.secureserver.net (mailstore1.secureserver.net [64.202.166.11]) by mail3.igs.net with smtp; Aug, 22 2004 23:33:41 +0300
+From: Rubens <ora.90ith@aol.com>
+To: bruceg@em.ca
+Subject: Re: info cod:
+Sender: Rubens <ora.90ith@aol.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 23 Aug 2004 00:49:57 -0300
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Qmail-Scanner-Message-ID: <10932330096723257@churchill>
+
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./ran%20portugez1-sucessoglobal_arquivos/filelist.xml">
+<link rel=Edit-Time-Data
+href="./ran%20portugez1-sucessoglobal_arquivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>wfh</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Ran</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Ran</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2004-07-13T00:27:00Z</o:Created>
+  <o:LastSaved>2004-07-13T00:27:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>59</o:Words>
+  <o:Characters>338</o:Characters>
+  <o:Lines>2</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>415</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>75</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=PT-BR link=blue vlink=blue style='tab-interval:35.4pt'
+leftmargin=10 topmargin=20 rightmargin=10 bottommargin=10>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><a
+href="http://www.sucessoglobal.org/"><span style='text-decoration:none;
+text-underline:none'><img border=0 width=526 height=196 id="_x0000_i1028"
+src="http://planet.nana.co.il/davporat/$.jpg" align=middle></span></a></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p dir=RTL style='margin-top:15.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:0cm;margin-bottom:.0001pt;text-align:right;direction:rtl;
+unicode-bidi:embed'><span lang=AR-SA style='font-size:7.0pt;font-family:Arial'>Se
+você recebeu essa mensagem, significa que você ou outra pessoa colocou seu nome
+em nosso banco de dados, se não tiver interesse em receber no futuro, <a
+href="mailto:info@work2011.cjb.net?subject=REMOVE%20FROM%20LIST">clicar 
+aqui</a>.</span><span
+dir=LTR></span><span dir=LTR style='font-size:7.0pt;font-family:Arial'><span
+dir=LTR></span><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
