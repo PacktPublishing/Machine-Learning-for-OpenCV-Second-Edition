@@ -72,7 +72,7 @@ He is a motivated writer and has written many articles on machine learning and d
 
 
 
-# Machine Learning for OpenCV
+# Machine Learning for OpenCV 4 Second Edition
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PacktPublishing/Machine-Learning-for-OpenCV-Second-Edition/master)
 
